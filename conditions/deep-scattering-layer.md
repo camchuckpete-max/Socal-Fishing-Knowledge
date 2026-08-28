@@ -1,8 +1,9 @@
 ---
 type: conditions
 tags: [DSL, deep-scattering-layer, swordfish, bluefin, sounder, night-bite]
-sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU, Bab_6o7JFh4, 6pAmcsTtYGA, tKqZJZMLbq4]
+sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU, Bab_6o7JFh4, 6pAmcsTtYGA, tKqZJZMLbq4, cameron]
 confidence: high
+layout: v2
 ---
 
 # Deep Scattering Layer
@@ -15,44 +16,43 @@ worth vocabulary alongside SST, chlorophyll, and current: it is the reason the
 
 ## Why it drives two fisheries
 
-- **Daytime swordfish** ride the DSL by day. Satellite-tag work (PIER /
-  Sepúlveda) showed the fish holding in the layer — so you fish the bait *in* the
-  DSL and the 100–250 ft below it (Feb 2021 deep-drop sword seminar). See
-  [swordfish](../species/swordfish.md).
-- **Night bluefin** work because the layer (and the bait riding it) lifts into
-  reach after dark — the deep sonar-school fish that were unreachable by day come
-  up the column at night. **Mechanism — two reads, kept side by side:** the
-  corpus read is **food-following** (the fish eat because the risen layer is
-  food); Cameron's read is that the night jig bite is **likely a reaction
-  bite** — flagged *likely, not measured*, a working model beside the
-  food-following read, not a replacement. See
-  [bluefin tuna](../species/bluefin-tuna.md).
+- **Daytime swordfish** ride the DSL by day. Satellite-tag work (PIER) put the
+  fish holding inside the layer, so the bait fishes *in* the DSL and the
+  100–250 ft below it (`yMiBtZ7k8-w`). See [swordfish](../species/swordfish.md).
+- **Night bluefin** work because the layer — and the bait riding it — lifts
+  into reach after dark: deep sonar-school fish unreachable by day come up the
+  column at night (`nRFFM8DT-og`). Two mechanisms are on record and are not
+  the same claim: **food-following** (the fish eat because the risen layer is
+  food) and a **reaction bite** triggered by the jig itself (*likely, not
+  measured*) (cameron). See [bluefin tuna](../species/bluefin-tuna.md).
 
 ## What to look for before you stop
 
-Requirements before committing to a drift (sword seminar):
+Requirements before committing to a drift (`yMiBtZ7k8-w`):
 
 1. **DSL present at 600 ft at the very least** — preferred **down to ~950 ft
-   (150 fathoms), and deeper is even better** (seminar: "preferred down to 950,
-   150 fathoms, even into deeper than that"). The deeper, well-formed layer is
-   the good water — a DSL painting at 1,000–1,100 ft is a sign to stop, not to
-   pass.
-2. **DSL plus chunky bait balls** — anchovy / hake / squid marks at
-   **100–150+ fm**. DSL **and** chunky bait balls together ≈ **bites near
-   assured.**
+   (150 fathoms), and deeper is even better** ("preferred down to 950, 150
+   fathoms, even into deeper than that," `yMiBtZ7k8-w`). The deeper,
+   well-formed layer is the good water — a DSL painting at 1,000–1,100 ft is a
+   sign to stop, not to pass.
+2. **DSL plus chunky bait balls** — anchovy/hake/squid marks at
+   **100–150+ fm**. DSL and bait balls together read as bites near assured
+   (`yMiBtZ7k8-w`).
 
 Bait-depth rule of thumb: baits average **800–1,100 ft**, run **shallower when
-the layer is shallow** — if the DSL is at 850 ft, put the bait at ~900 ft
-(fish the bait in the layer and just below it). Diet corroboration for "in/below
-the layer": stomachs full of hake, small rockfish, and squid — bottom-adjacent
-feeders (one Catalina fish full of mullet, which range inshore at night).
+the layer is shallow** — a DSL at 850 ft puts the bait at ~900 ft, in the
+layer and just below it (`yMiBtZ7k8-w`). Stomach contents back the read: hake,
+small rockfish, and squid dominate — bottom-adjacent feeders (`yMiBtZ7k8-w`).
+One Catalina fish is on record with mullet instead — an inshore-feeding
+outlier, not further evidence of the offshore-layer diet (`yMiBtZ7k8-w`); full
+context in [swordfish](../species/swordfish.md).
 
 ## Painting the DSL on the sounder
 
-The layer is faint; you have to turn the machine up to see it — gain up, ping
-slowed, let the band build on screen (sword seminar; Duane's fish-finder
-walkthrough). The exact settings (Furuno numbers, Garmin 840xs translation)
-live in [electronics and sounder](../planning/electronics-and-sounder.md).
+The layer is faint — you have to turn the machine up to see it: gain up, ping
+slowed, letting the band build on screen (`yMiBtZ7k8-w`, `yLpDI8jnizU`). Exact
+settings (Furuno numbers, Garmin 840xs translation) live in
+[electronics and sounder](../planning/electronics-and-sounder.md).
 
 ## Light-zone vocabulary (mechanism, generic — not SoCal-measured)
 
@@ -63,8 +63,8 @@ measurement, and not fishing doctrine): the open-ocean water column is
 divided into light-defined zones — **epipelagic/euphotic, 0–200 m (0–656
 ft)**, then **mesopelagic, 200–1,000 m (656–3,281 ft)**, then bathypelagic,
 abyssopelagic, and hadalpelagic below that. The DSL's daytime depth (600+ ft,
-preferred down to ~950 ft/150 fm per the sword seminar above) sits right at
-the epipelagic/mesopelagic boundary and into the mesopelagic — consistent
+preferred down to ~950 ft/150 fm, per the depth requirements above) sits right
+at the epipelagic/mesopelagic boundary and into the mesopelagic — consistent
 with "mesopelagic" being the standard term for the zone this layer occupies.
 Background terminology only; it does not change the depth/bait doctrine above.
 
@@ -115,11 +115,30 @@ only; it does not change the depth/bait doctrine above.
 ## Where the DSL matters
 
 Over the offshore banks and contour edges (150–350 fm zones) where sword and
-night bluefin are worked — the DSL rides the fathom-curve "highways." How current
-and structure concentrate this water is in
+night bluefin are worked, the DSL rides the fathom-curve "highways"
+(`yMiBtZ7k8-w`). How current and structure concentrate this water is in
 [current structure](current-structure.md); the deep-water bank targets in
 [BightSST eval targets](../locations/bightsst-eval-targets.md).
 
+## How to use it in planning
+
+- Turn up gain and slow the ping before judging DSL depth — the layer is
+  faint and won't show at default settings ([electronics and
+  sounder](../planning/electronics-and-sounder.md) for the exact numbers).
+- Don't commit to a daytime sword drift without the layer at 600+ ft,
+  preferably ~950 ft/150 fm or deeper, with bait balls stacked in it at
+  100–150+ fm.
+- Set the daytime bait depth to the layer's measured depth (roughly
+  800–1,100 ft), shallower when the layer reads shallow.
+- Work the offshore bank fathom-curve edges (150–350 fm) where the layer
+  concentrates, not open water between them — see
+  [current structure](current-structure.md).
+- After dark, expect risen-layer bluefin to show as depth-called marks a jig
+  can drop straight onto — see [bluefin tuna](../species/bluefin-tuna.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/deep-scattering-layer.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -128,6 +147,7 @@ and structure concentrate this water is in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Deep Scattering Layer](evidence/deep-scattering-layer.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [November–December](../seasonal/november-december.md)
