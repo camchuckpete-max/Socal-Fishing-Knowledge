@@ -13,6 +13,7 @@
 - [Evidence — FG Knot & Albright Knot](fg-and-albright.md) — Per-source provenance backing FG Knot & Albright Knot.
 - [Evidence — Flying Fish Harness](flying-fish-harness.md) — Per-source provenance backing Flying Fish Harness.
 - [Evidence — Haywire Twist](haywire-twist.md) — Per-source provenance backing Haywire Twist.
+- [Evidence — Hollow-Core Splice & Serving](hollow-splice-and-serving.md) — Per-source provenance backing Hollow-Core Splice & Serving.
 <!-- index:end -->
 
 

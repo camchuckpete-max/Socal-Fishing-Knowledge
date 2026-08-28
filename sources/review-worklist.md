@@ -111,7 +111,7 @@ by their builders after the transform phase drains.
 | rigging/fg-and-albright.md | standard | transformed | none | transform verified, conservation intact (all params + variant provenance traced to note or new evidence file), one v2.1 self-narration phrase fixed in place |
 | rigging/flying-fish-harness.md | standard | transformed | spots(3), asr-uncertain(commercial pre-rig leader-material brand withheld; dead-flyer leader hook model name withheld; presenter surname uncertain) | transform applied clean - v2 layout, evidence split, hook-count conflict given decision frame, spot-harvest updated |
 | rigging/haywire-twist.md | standard | transformed | none | transform verified, one dropped named attribution (Mike Lackey) restored in evidence file, all other content conserved |
-| rigging/hollow-splice-and-serving.md | standard | pending |  |  |
+| rigging/hollow-splice-and-serving.md | standard | transformed | spots(1) | transform verified: conservation intact, attribution correctly split to evidence file, cites confirmed against 3 transcripts |
 | rigging/improved-clinch-knot.md | standard | pending |  |  |
 | rigging/john-collins-knot.md | standard | pending |  |  |
 | rigging/leadhead-mods.md | standard | pending |  |  |

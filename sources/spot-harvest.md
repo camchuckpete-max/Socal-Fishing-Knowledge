@@ -394,4 +394,5 @@ harvested.
 | Santa Barbara Island | rigging/flying-fish-harness.md | evidence — Alternative wing-lock methods | popsicle-stick wing lock and tandem hook rig shown deployed NE of the island | `usHl-4SfqDA` |
 | Ensenada | rigging/flying-fish-harness.md | evidence — Alternative wing-lock methods / Artificial and pre-rigged alternatives | rubber-band wing-lock variant and a commercial pre-rigged flyer shown at the Baja Blue Fin Tuna Tournament | `Ix0gG0-l3v0` |
 | Tanner Bank | rigging/flying-fish-harness.md | evidence — Artificial and pre-rigged alternatives | "California Flyer" slide-up lure carried aboard Captain Andrew's own boat | `vCskOx6N-XM` |
+| Guadalupe Island | rigging/hollow-splice-and-serving.md | When to use it | stealth bait fishing rods dedicated per line class with fluoro already served into hollow core, so there's no on-the-water leader retie | `yr6z3DmWY4s` |
 <!-- review:harvest:end -->
