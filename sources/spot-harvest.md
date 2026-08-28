@@ -494,4 +494,12 @@ harvested.
 | San Clemente Island | bait/fishing-live-bait.md | evidence — Chumming with live bait | dead sardines smashed in a "chum buddy" bucket before hitting the water raised bait around the boat without drawing seals | `Klfb433I3Uk` |
 | San Clemente Island | bait/fishing-live-bait.md | evidence — Handling live squid | gripping a live squid firmly enough it can't wrap the fingers and peck with its beak avoided getting inked while baiting up | `yuXr3IJ8ybg` |
 | Catalina Island | bait/fishing-live-bait.md | Handling live squid | grip the mantle over the siphon and eyes to keep a live squid from inking or gripping the hand while baiting up | `Y2bXn44lfqo` |
+| Coronado Islands | bait/making-bait.md | Making mackerel bait — sabiki | Cameron's SoCal mackerel sabiki spot — ~100 ft drop, 8 oz sinker, loaded 5 twelve-inch mackerel in one drop | cameron |
+| La Jolla | bait/making-bait.md | Buy vs. make | backup sabiki spot during July 2026 bait shortages when the barge couldn't fill the tank | cameron |
+| Dana Point | bait/making-bait.md | Buying at the bait barge | barge marks its preferred tie-up side with a cone on the ocean side; sportboat fleet loads ~6:00 a.m. | `7WapaxdtjQg` |
+| Shelter Island | bait/making-bait.md | evidence — Making mackerel bait — sabiki | receiver/pen bait stop before running offshore for bluefin; crew baited a Lucky Joe rig with mackerel over sardine | `A6DJoXbID4c` |
+| Cedros Island | bait/making-bait.md | evidence — Making mackerel bait — sabiki | open sizing question (small vs. big/medium sabiki) working the day's mackerel school, unresolved on camera | `QSmE3mdEL28` |
+| La Paz | bait/making-bait.md | evidence — La Paz, Baja California Sur — mackerel and sardine bait | morning bait ran green mackerel jigged around floating structure (guide's target 20-40/boat) plus bought sardines | `ORC1A68cEeM` |
+| Ensenada | bait/making-bait.md | evidence — Ensenada, Baja — local mackerel types | two local mackerel types made as bait just outside the marina during spring/summer mackerel spawning | `0dIwWiOc1NY` |
+| Bahía de los Ángeles (BOLA) | bait/making-bait.md | Cameron's gear plans | target coverage area, alongside SoCal, for Cameron's planned always-rigged hollow-sabiki bait rod | cameron |
 <!-- review:harvest:end -->
