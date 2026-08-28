@@ -342,4 +342,6 @@ harvested.
 | San Clemente Island | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | 1/4 oz sliding sinker to a No. 2 hook on live squid, one of two producing rigs that morning | `zQtExV8Z2eY` |
 | Catalina Island (front side) | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | size 4 hook on a ~1/4 oz slider called "perfect for squid," produced multiple yellowtail | `MUpvP-Yl2R0` |
 | Lopez Mateos / Magdalena Bay | techniques/sliding-sinker.md | Baja Pacific grouper & snook leader — Lopez Mateos | mandatory 4/0 two-speed Carolina-rig build for grouper and snook on this mark | `EcQK5elTPJE` |
+| Bahía de los Ángeles (BOLA) | techniques/slow-pitch-jigging.md | Jig weight & selection | single trip fished 130–250 g wing-fall jigs at 150–180 ft on a high spot cresting 150–300 ft | `vqsD0qpwcJA` |
+| Ensenada (Pacific side) | techniques/slow-pitch-jigging.md | evidence — Reach for this when | slow-pitch stop over a sounder-marked ~300 ft rocky bottom after a yellowtail stop went quiet | `0dIwWiOc1NY` |
 <!-- review:harvest:end -->

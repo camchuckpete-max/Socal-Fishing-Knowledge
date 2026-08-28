@@ -90,5 +90,6 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
+- [Slow-Pitch Jigging (SPJ)](../../techniques/slow-pitch-jigging.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
 <!-- backlinks:end -->

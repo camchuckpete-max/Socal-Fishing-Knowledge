@@ -24,6 +24,7 @@
 - [Evidence — Rockfish Deep-Dropping](rockfish-deep-dropping.md) — Per-source provenance backing rockfish deep-dropping.
 - [Evidence — Holding the Rod for Live Bait](rod-handling-live-bait.md) — Per-source provenance backing holding the rod for live bait.
 - [Evidence — Sliding Sinker](sliding-sinker.md) — Trip reports and per-source provenance backing sliding sinker.
+- [Evidence — Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Per-source provenance backing slow-pitch jigging.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 

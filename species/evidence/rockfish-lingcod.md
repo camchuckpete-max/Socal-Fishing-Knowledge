@@ -276,5 +276,6 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [Evidence — California Sheephead](sheephead.md)
+- [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 - [Rockfish & Lingcod](../rockfish-lingcod.md)
 <!-- backlinks:end -->

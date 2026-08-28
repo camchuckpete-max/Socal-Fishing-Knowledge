@@ -447,4 +447,5 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 - [Calico Bass (Kelp Bass)](../calico-bass.md)
 - [Evidence — Barred Sand Bass](sand-bass.md)
 - [Evidence — California Sheephead](sheephead.md)
+- [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 <!-- backlinks:end -->

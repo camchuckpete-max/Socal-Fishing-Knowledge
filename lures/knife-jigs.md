@@ -713,6 +713,7 @@ rigging from class terms above until it lands; see
 - [Iron Jigs](iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)

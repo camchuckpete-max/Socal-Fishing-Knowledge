@@ -66,7 +66,7 @@ by their builders after the transform phase drains.
 | techniques/rod-handling-live-bait.md | standard | transformed | asr-uncertain(backpedal hand/arm motion gestured on camera) | migrated to v2 skeleton, attribution moved to evidence file, cites added; verifier confirmed 3/3 transcript spot-checks, regenerated backlinks |
 | techniques/skip-jigging.md | standard | transformed | gap(skip-jigging reel/rod-action/line-class), gap(common failures) | migrated to v2 skeleton, added Gear class + Common failures, dissolved source-named heading, plain-statement rewrite; verifier confirmed 3 transcript spot-checks, regenerated backlinks |
 | techniques/sliding-sinker.md | standard | transformed | spinout(3), asr-uncertain(TLC jig name, Jobu hook oz-vs-aught mishearing), spots(5) | restructured to v2 skeleton, evidence split, 3 spinouts + 5 spots queued; verifier fixed one meaning-drift (personal snelling limitation hardened into general fact) |
-| techniques/slow-pitch-jigging.md | standard | pending |  |  |
+| techniques/slow-pitch-jigging.md | standard | transformed | misplaced(1), spots(2), reg-claims(1) | migrated to v2 skeleton, evidence split, regulatory claim stamped, misplaced-content flagged; verifier reverted an unauthorized doctrine reconciliation on jig-weight formulas, regenerated backlinks |
 | techniques/slow-trolling-bait.md | standard | pending |  |  |
 | techniques/speed-trolling.md | standard | pending |  |  |
 | techniques/spinnerbaits.md | standard | pending |  |  |

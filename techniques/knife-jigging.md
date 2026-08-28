@@ -487,6 +487,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](evidence/knife-jigging.md)
+- [Evidence — Slow-Pitch Jigging (SPJ)](evidence/slow-pitch-jigging.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
