@@ -368,4 +368,11 @@ harvested.
 | Alijos Rocks | techniques/wahoo-bomb-casting.md | evidence — Mechanics | wire-leadered Raider-class jig cast during a dorado boil and apparent hookup(s); gear corroboration only, not a confirmed wahoo catch | `_f5QmWSUUx8` |
 | Alijos Rocks | techniques/wahoo-trolling.md | Reach for this when | dedicated wahoo stop where the trolling spread gets started to "get the lay of the land" before switching to cast or live-bait presentations | `4uNPLknRAQg` |
 | The Ridge | techniques/wahoo-trolling.md | Reach for this when | named alongside Alijos Rocks as a dedicated wahoo stop for starting the trolling spread | `4uNPLknRAQg` |
+| Tanner Bank | techniques/yo-yo-iron.md | Reach for this when | bluefin marked ~60 ft near the boat while chumming — yo-yo the mark instead of waiting for a surface foamer | `ntQXxcH5sjI` |
+| Alijos Rocks | techniques/yo-yo-iron.md | evidence — Cadence variants | persistence game — an angler who'd yo-yoed most of the trip got bit | `6kpWn2sXokI` |
+| The Ridge (Magdalena Bay area) | techniques/yo-yo-iron.md | evidence — Cadence variants | yellowtail hooked yo-yoing iron at 180 ft, 10 ft off the bottom, after leaving Thetis Bank overnight | `3tQ1_xiqwVU` |
+| Thetis Bank | techniques/yo-yo-iron.md | evidence — Cadence variants | crew left Thetis Bank overnight — opposite current made conditions poor there | `3tQ1_xiqwVU` |
+| San Augustine (Cedros Island) | techniques/yo-yo-iron.md | evidence — Cadence variants | yo-yo iron dropped to 130 ft drew an immediate, sustained bite | `u0scEBby7nA` |
+| Colonet | techniques/yo-yo-iron.md | Jig size & depth | named as one of the "real deep" yo-yo grounds calling for a 7X-heavy iron | `hteLeDIy9Qs` |
+| Guadalupe | techniques/yo-yo-iron.md | Jig size & depth | named as one of the "real deep" yo-yo grounds calling for a 7X-heavy iron | `hteLeDIy9Qs` |
 <!-- review:harvest:end -->

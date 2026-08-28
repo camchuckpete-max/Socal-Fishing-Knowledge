@@ -421,6 +421,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — White Seabass](evidence/white-seabass.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
+- [Evidence — Yo-Yo Iron](../techniques/evidence/yo-yo-iron.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

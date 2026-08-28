@@ -83,7 +83,7 @@ by their builders after the transform phase drains.
 | techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
 | techniques/wahoo-trolling.md | standard | transformed | spots(2) | transform verified faithful - observation split to evidence file, v2 front matter/gear_classes added, gear-class-detail anchor preserved |
 | techniques/wind-in-your-face-positioning.md | standard | transformed | none | transform verified - plain-statement rewrite conserves all before-facts via evidence-file split; no meaning drift |
-| techniques/yo-yo-iron.md | standard | pending |  |  |
+| techniques/yo-yo-iron.md | standard | transformed | misplaced(2), spinout(1) | transform verified with 3 conservation gaps found and fixed in-tree (two dropped top-technique attributed claims, one dropped colour pick) |
 | lures/bay-bass-plastics.md | standard | pending |  |  |
 | lures/cedar-plug.md | standard | pending |  |  |
 | lures/crocodile-spoons.md | standard | pending |  |  |

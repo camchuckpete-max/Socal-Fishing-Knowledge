@@ -675,6 +675,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Evidence — Knife / Speed Jigging](../techniques/evidence/knife-jigging.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
+- [Evidence — Yo-Yo Iron](../techniques/evidence/yo-yo-iron.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
@@ -692,5 +693,4 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
-- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

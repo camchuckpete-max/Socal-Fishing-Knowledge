@@ -37,11 +37,12 @@
 - [Evidence — Wacky Rig](wacky-rig.md) — Per-source provenance backing wacky rig.
 - [Evidence — Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md) — Trip reports and per-source provenance backing wahoo trolling.
 - [Evidence — Wind in Your Face Rail Positioning](wind-in-your-face-positioning.md) — Per-source provenance backing wind-in-your-face rail positioning.
+- [Evidence — Yo-Yo Iron](yo-yo-iron.md) — Trip reports and per-source provenance backing yo-yo iron.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 33 notes exceed the 30-node cap._
+_Map skipped: 34 notes exceed the 30-node cap._
 <!-- mermaid:end -->
