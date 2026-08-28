@@ -400,6 +400,7 @@ Trip reports and per-source provenance:
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — San Nicolas Island](../locations/evidence/san-nicolas-island.md)
 - [Evidence — Spotted Bay Bass](evidence/spotted-bay-bass.md)
+- [Evidence — Swimbaits](../techniques/evidence/swimbaits.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

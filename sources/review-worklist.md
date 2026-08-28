@@ -74,7 +74,7 @@ by their builders after the transform phase drains.
 | techniques/surface-iron-casting.md | standard | transformed | spots(3) | transform verified, one jargon-link fix applied in place |
 | techniques/surface-iron-color.md | standard | transformed | spots(8) | 258->130 lines, 14 single-trip colour reports split to evidence, tuna colour-by-light kept as doctrine, one corroboration cross-reference restored by verifier |
 | techniques/surface-iron.md | standard | transformed | misplaced(1) spots(10) | faithful transform 654->512 lines + 77-line evidence: blockquotes to prose, source-scoped headings dissolved, 2 legacy cites transcript-verified; 2 verifier fixes (cite-scope split, harvest-row cite) |
-| techniques/swimbaits.md | standard | pending |  |  |
+| techniques/swimbaits.md | standard | transformed | contradicted-by-source(1), single-source(1), misplaced-content(2) | transform verified with 5 fixes (2 restored facts, 1 conflict-attribution restore, 1 invented-number correction, 2 ledger rows added) |
 | techniques/trolling.md | standard | pending |  |  |
 | techniques/tube-bait-fishing.md | standard | pending |  |  |
 | techniques/two-speed-low-gear-fight.md | standard | pending |  |  |

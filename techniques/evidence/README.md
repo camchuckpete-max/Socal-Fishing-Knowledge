@@ -30,6 +30,7 @@
 - [Evidence — Surface Iron — The Cast](surface-iron-casting.md) — Trip reports and per-source provenance backing surface iron — the cast.
 - [Evidence — Surface Iron — Colour](surface-iron-color.md) — Trip reports and per-source provenance backing surface iron — colour.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
+- [Evidence — Swimbaits](swimbaits.md) — Per-source provenance backing swimbaits.
 <!-- index:end -->
 
 
@@ -64,6 +65,7 @@ graph LR
   n23["Evidence — Surface Iron — The Cast"]
   n24["Evidence — Surface Iron — Colour"]
   n25["Evidence — Surface Iron"]
+  n26["Evidence — Swimbaits"]
   n24 --> n25
 ```
 <!-- mermaid:end -->

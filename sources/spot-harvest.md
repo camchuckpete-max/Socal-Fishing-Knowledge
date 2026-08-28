@@ -358,4 +358,7 @@ harvested.
 | La Jolla | techniques/surface-iron-color.md | evidence — The doctrine | red crab pattern produced 2 of 3 boated yellowtail; captain read the angler as mattering more than colour | `VpW91AKOFVQ` |
 | San Clemente Island | techniques/surface-iron-color.md | evidence — The doctrine | yellowtail biting a green-and-yellow ("mac color") iron repeatedly late in the session | `V_ONnegk95M` |
 | San Benito Island | techniques/surface-iron-color.md | evidence — The doctrine | mint named best for yellowtail up in the water column; scrambled egg for fish sitting deep | `ilINTeknKB4` |
+| Chester's Rock (south end of Cedros Island, Baja) | techniques/swimbaits.md | evidence — Weedless rigging | a 3/8 oz Trokar keel-weighted weedless bait ran clean through heavy kelp with no fouling | `_r_qKX_7080` |
+| Dono, Baja | techniques/swimbaits.md | evidence — The retrieve and the hookset | a very slow wind produced a sheephead; anglers coached to "slow roll on the bottom" when the bite called for it | `L3tkGVu516A` |
+| Northwest Harbor (San Clemente Island, front side) | techniques/swimbaits.md | evidence — The retrieve and the hookset | drop-to-bottom, 10-15 turns up, free-spool back down cadence once a producing spot was located | `iQLyBzhOSi8` |
 <!-- review:harvest:end -->
