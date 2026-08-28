@@ -130,6 +130,7 @@ stated as "your minimum rod and reel combos for a 6-8 day trip."
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Gear Classes](evidence/gear-classes.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)

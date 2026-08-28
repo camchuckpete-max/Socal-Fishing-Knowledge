@@ -1,8 +1,9 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw, scScYJJF95Y, MPC_OQjvO-o]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw, scScYJJF95Y, MPC_OQjvO-o, sjOJiR6_HJ4, aXF0bxAFtU0]
 confidence: high
+layout: v2
 ---
 
 # Gear Classes — the class-term lexicon
@@ -50,139 +51,47 @@ a setup from this column to someone who hasn't said they own it.
 
 A rail rod's defining physical difference from a conventional casting/fighting
 rod is a **longer foregrip section wrapped in hypalon** — long enough that the
-rod can be laid on and braced against the boat's rail instead of being held
-entirely by the angler's arms/body. Stated reason: this is what makes the
-rod work for **bigger fish** — "the rail is your friend" — and it's paired
-with a **two-speed reel**, not a single-speed. Worked product example: a
-**Seeker OSP 1x3, 7 ft composite** blank (product/model — low confidence,
-sponsored-claim caveat). Cited for the **1.5-day and 3-day range** trips
-working bluefin (SearcherSportfishing, "Tackle Tip Thursday Vol. 51 (Rail
-Rod)," `Y2XZ34-Tpa0`, 2019-06-06; `searcher-sportfishing` registered channel,
-single mention — medium confidence for the mechanism/parameters). This is
-the mechanism behind the long-foregrip rail requirement already logged in
-[fighting fish from the rail — big-tuna
-variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13),
-and the two-speed-for-1.5-day/3-day-trip pairing corroborates [two-speed
+rod lays on and braces against the boat's rail instead of being held entirely
+by the angler's arms and body. The rail carries the load on **bigger fish** —
+"the rail is your friend" — and a rail rod is paired with a **two-speed
+reel**, not a single-speed (`Y2XZ34-Tpa0`). This is the mechanism behind the
+long-foregrip rail requirement in [fighting fish from the rail — big-tuna
+variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13);
+the same two-speed pairing on 1.5- and 3-day trips corroborates [two-speed
 reels for multi-day bluefin
-trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing)
-(same channel, a different video six weeks later).
+trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing).
 
-**An earlier, independent citation of the same OSP 1x3, plus a lighter step
-below it (SearcherSportfishing, "Tackle Tip Thursday Vol. 42 (Seeker Rods),"
-`aAqKHeyBwEo`, 2019-04-04; `searcher-sportfishing` registered channel, single
-mention — medium confidence for the mechanism/parameters; predates the Vol. 51
-tip above by about two months, and is framed on camera around "the Searcher's
-seven-day trip" specifically, a different trip length than Vol. 51's stated
-1.5-day/3-day framing — kept side by side, not reconciled, since both could
-simply be true across the boat's trip-length range):**
+**Named rail-rod models, lightest to heaviest** (product/model claims — ⚠
+sponsored-claim caveat throughout; full per-citation provenance in the
+[evidence file](evidence/gear-classes.md)):
 
-- **Seeker OSP 1x3** (product/model — **low confidence**, sponsored-claim
-  caveat, as above) — nicknamed **"the Guadalupe special"** on camera — given
-  here as a **60–100 lb** rod, "for that grade of fish we find out there" (no
-  location named for "there" beyond the nickname itself — not inferred as
-  Guadalupe Island per the name-a-place-only-if-the-source-names-it rule).
-  Corroborates the OSP 1x3 product ID above and adds the nickname and line
-  class the later Vol. 51 tip doesn't give.
-- **A lighter step below it — Seeker SSR 7650** (product/model — **low
-  confidence**, sponsored-claim caveat)**:** **7 ft 6 in, rated 50 lb**,
-  described on camera as designed as a **wahoo bomb rod**, with "a little bit
-  extra length and a little bit of a stiffer tip" than a standard casting
-  rod. Stated to also double as a rail rod for "a wahoo and tune up to...
-  150 or 60 pounds" (as captioned; read here as "wahoo and tuna," but neither
-  the species word nor the number range is corrected — carried as stated,
-  flagged **asr-uncertain** on both). Carries the
-  **same rail mechanism as the OSP 1x3** — **6–8 in of extra foregrip**,
-  stated purpose "to lay this rod on the rail" once a fish is hooked and it's
-  time to fight it (the caption reads "great Grail rod," read here as "great
-  rail rod" given the foregrip/rail sentence that immediately follows on
-  camera — **asr-uncertain** on the exact word). See [wahoo bomb & Raider jig
-  casting — gear-class
-  detail](../techniques/wahoo-bomb-casting.md#gear-class-detail) for this
-  rod's casting application; logged here for the shared rail-rod mechanism.
+| Model | Line class | Blank | Notes | Cite |
+| --- | --- | --- | --- | --- |
+| Seeker SSR 7650 | 50 lb | 7 ft 6 in, stiffer tip than a standard casting rod | A wahoo-bomb rod that also doubles as a rail rod, 6–8 in extra foregrip (⚠ asr-uncertain on the exact species/line-class wording — see evidence file); casting application in [wahoo bomb & Raider jig casting — gear-class detail](../techniques/wahoo-bomb-casting.md#gear-class-detail) | `aAqKHeyBwEo` |
+| Seeker OSP 1x3 ("the Guadalupe special") | 60–100 lb (also cited 80–100 lb) | 7 ft composite | The Searcher's standard heavy outfit across a 1.5- to 8-day trip range: paired with a Penn Fathom 60 two-speed for flat-fall bluefin, bottom dropper-loop yellowtail, flyline, wahoo trolling, and kite, with swappable 60/80 lb top shots | `aAqKHeyBwEo`, `Y2XZ34-Tpa0`, `an_uw-5pjfw`, `MPC_OQjvO-o` |
+| Seeker OSP 2x4 | 80–130 lb | 7 ft 3 in composite | One size class up from the OSP 1x3; the single rod for a quiver's heaviest tier — sinker rig, knife jig fished at night, flylining big fish on 10-, 16-, and 18-day trips | `scScYJJF95Y` |
+| Four-tier ladder by line rating | 40–100 / 60–100 / 80–130 / 80–150 lb | 7 ft 8 in / "Carnage 3" 7 ft / "8130" 7 ft / unstated | Grade ceilings run ~225 lb up to 350–400 lb tuna; full ladder in [Searcher rail-rod ladder](searcher-rail-rod-ladder.md) | `sjOJiR6_HJ4` |
 
-**A third, plausibly-corroborating citation, paired with a specific reel
-(Capt. Art Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 125 (Flat
-Fall & set-up)," `an_uw-5pjfw`, 2020-11-12; `searcher-sportfishing`
-registered channel, single mention — medium confidence for the
-mechanism/parameters):** for flat-fall bluefin fishing, a **Penn Fathom 60,
-two-speed** reel paired with a **Seeker OSP** rail rod (captioned "3 to 1" —
-asr-uncertain, plausibly the same **OSP 1x3** named above rather than a
-distinct model) — **both named products stay low confidence, sponsored-claim
-caveat, as with the other product/model callouts above** — **heavy action,
-graphite, 7 ft**, with the same **extra-long hypalon foregrip** rail
-mechanism described above.
-Full rig detail in [Searcher big/giant tuna rig
+Full flat-fall rig detail (jig weight, leader, rod/reel) is in [Searcher
+big/giant tuna rig
 ladder](searcher-big-tuna-rig-ladder.md#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
-and [flat-fall jigging](../techniques/flat-fall-jigging.md). A second,
-independent citation of the same Penn Fathom 60 two-speed on a Searcher rail
-rod — general "bigger fish" and bottom dropper-loop yellowtail rather than
-flat-fall bluefin, plus a smaller Fathom 30 loaner-reel data point — is in
-[Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md). A
-**third** independent citation of the Seeker OSP 1x3 paired with a Penn
-Fathom 60 two-speed — this time as the heavy outfit of a **minimum
-three-outfit quiver for a 1.5- to 4-day trip**, with swappable 60/80 lb top
-shots for live bait vs. flat-fall/dropper-loop — is in [Searcher
-three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md), which
-also independently corroborates this section's own 1.5-day/3-day trip-length
-framing.
-
-**A fourth citation — a distinct, heavier model with full specs (Rick Holt,
-Seeker Rods owner, with Sophia Nguyen, via SearcherSportfishing, "Tackle Tip
-Thursday Vol. 196 (Work Smarter with Seeker's 2x4 Rod)," `scScYJJF95Y`,
-2022-09-08; `searcher-sportfishing` registered channel/series, but Holt and
-Nguyen are Seeker Rods staff naming their own company's product — the named
-model stays **low confidence**, sponsored-claim caveat, per the same rule
-applied to the OSP 1x3/SSR 7650 citations above; the mechanism/parameters
-below rate normally):**
-
-- **Seeker OSP 2x4** — rated **80 to 130 lb line**, a **7 ft 3 in composite**
-  blank, "heavy duty guides," and what the source calls an "indestructible"
-  foregrip — the same long-foregrip rail mechanism as the OSP 1x3 above, one
-  size class up. Framed on camera as the single rod to own for "the heavier
-  line" tier of a quiver.
-- **Named applications:** the sinker rig, the knife jig fished at night, and
-  flylining for big fish on long-range trips — the source's own examples are
-  **10-, 16-, and 18-day trips**. See [sliding sinker](../techniques/sliding-sinker.md),
-  [knife jigging](../techniques/knife-jigging.md), and
-  [flyline](../techniques/flyline.md) for those techniques.
-- **Name discrepancy, asr-uncertain:** this video's auto-caption gives
-  "Sophia Nguyen"; the Seeker Athena flyline-rod pick in [rod & reel
-  selection — flyline reel & rod
-  selection](rod-and-reel-selection.md#flyline-reel--rod-selection)
-  gives "Sophia Quinn," auto-captioned from a different (2019) video in the
-  same series. Both are Seeker Rods reps on the same Tackle Tip Thursday
-  program; plausibly one person heard two ways by two separate caption
-  passes, but neither video's title or description gives a surname, so the
-  two spellings are carried side by side rather than merged into one
-  identity.
-- An on-camera rail-fighting demo using this rod is logged in [fighting fish
-  from the rail — Seeker 2x4 rail-rod
-  demo](../techniques/fighting-fish-from-the-rail.md#seeker-2x4-rail-rod-demo--watch-the-tip-rick-holt-and-sophia-nguyen-seeker-rods).
-- A separately-sourced **Seeker 2x4** citation exists for the Searcher's
-  dedicated kite outfits (Accurate ATD 50 reels, 200 lb spectra) in [kite
-  fishing](../techniques/kite-fishing.md#observed-outfit-and-dead-flyer-specs-searchers-kite-program-via-turners-outdoorsman)
-  — not reconciled here as the same or a different physical rod set, since
-  neither source cross-references the other; kept as separate citations of
-  the same product name.
-- A **fifth citation, a full four-tier rail-rod ladder by line rating**
-  (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 229 (Rail
-  Rods)," `sjOJiR6_HJ4`, 2023-12-07) — the same rubber-on-the-rail, not the
-  blank, foregrip mechanism described above, worked through four named rod
-  models (7 ft 8 in 40–100 lb, "Carnage 3" 7 ft 60–100 lb, "8130" 7 ft
-  80–130 lb, and an 80–150 lb model) with grade ceilings from ~225 lb up to
-  350–400 lb tuna — full detail in [Searcher rail-rod
-  ladder](searcher-rail-rod-ladder.md).
-- A **sixth, independent citation of the same OSP 1x3** (SearcherSportfishing,
-  "6 to 8-day trip rod/reel recommendations," `MPC_OQjvO-o`, 2020-04-09;
-  `searcher-sportfishing` registered channel, single mention — medium
-  confidence for the mechanism/parameters), rated **80 to 100 lb** on camera
-  — in range with, though not identical to, the 60–100 lb figure logged
-  above — as the single heavy outfit added to a standing three-outfit
-  minimum quiver for a **6-to-8 day trip**, paired with a Penn International
-  30, an Accurate 50 two-speed twin drag, or a Shimano TLD 30, and fished for
-  four applications (Guadalupe flyline, bottom dropper loop, wahoo trolling,
-  and kite). Full detail in [Searcher 6-to-8 day trip — the fourth (heavy)
-  outfit](searcher-6-to-8-day-heavy-outfit.md).
+and [flat-fall jigging](../techniques/flat-fall-jigging.md). The Penn Fathom
+60 two-speed pairing with the OSP 1x3 is further corroborated for general
+"bigger fish" work and bottom dropper-loop yellowtail (plus a smaller Fathom
+30 loaner-reel data point) in [Searcher lever-drag reel
+sizing](searcher-lever-drag-reel-sizing.md), and as the heavy outfit of a
+1.5- to 4-day-trip three-outfit quiver in [Searcher three-outfit minimum
+quiver](searcher-three-outfit-minimum-quiver.md). The 6-to-8 day OSP 1x3
+pairing (Penn International 30, Accurate 50 two-speed twin drag, or Shimano
+TLD 30, fished for Guadalupe flyline, bottom dropper loop, wahoo trolling,
+and kite) is in [Searcher 6-to-8 day trip — the fourth (heavy)
+outfit](searcher-6-to-8-day-heavy-outfit.md). A separately-cited Seeker OSP
+2x4 rigs the Searcher's dedicated kite outfits (Accurate ATD 50 reels, 200 lb
+spectra) — [kite
+fishing](../techniques/kite-fishing.md#observed-outfit-and-dead-flyer-specs-searchers-kite-program-via-turners-outdoorsman)
+— and an on-camera rail-fighting demo on the OSP 2x4 is in [fighting fish
+from the rail — Seeker 2x4 rail-rod
+demo](../techniques/fighting-fish-from-the-rail.md#seeker-2x4-rail-rod-demo--watch-the-tip-rick-holt-and-sophia-nguyen-seeker-rods).
 
 ## Line classes
 
@@ -190,18 +99,17 @@ below rate normally):**
   sinks faster (80 lb sinks faster than 100 on tuna gear). Hollow vs solid: see
   [line & leader](line-and-leader.md).
 - **Top-shot class** = the mono/fluoro top shot swapped per lure/application on
-  top of the braid (Cameron wants a top-shot recommended per lure).
+  top of the braid. Open item: recommend a specific top-shot per lure (cameron).
 - **Bite-leader class** = short heavy fluoro (≈130–200 lb) for
   [bluefin](../species/bluefin-tuna.md) — see [bite leaders](../rigging/bite-leaders.md).
 - **Leader-matching**: leader is chosen against the braid class and the target
-  (Academy Ep16) — [line & leader](line-and-leader.md).
+  (`aXF0bxAFtU0`) — [line & leader](line-and-leader.md).
 - **PE rating — why jig gear is labeled PE, not just lb:** outside the US,
   braid and jig-rod ratings are commonly given in **PE** (polyethylene) numbers
   keyed to line **diameter**, not breaking strength — as a rough conversion,
-  **65 lb test ≈ PE5**. That's why knife/speed-jig and SPJ rods are commonly
-  rated by a PE window rather than by pound test; read a PE number as a
-  diameter/line-class window, not a strength spec
-  (Ul5FLB2dFgQ; medium confidence, unregistered channel).
+  **65 lb test ≈ PE5**. Knife/speed-jig and SPJ rods are commonly rated by a
+  PE window rather than by pound test for this reason; read a PE number as a
+  diameter/line-class window, not a strength spec (`Ul5FLB2dFgQ`).
 - **A tackle-shop worked example, three size tiers by line class** (Shimano
   Speedmaster vs. Penn Fathom two-speed reels, local offshore tuna/yellowtail/
   rockfish): see [Speedmaster vs. Fathom — reel-size
@@ -229,24 +137,30 @@ below rate normally):**
 
 Class terms used in species/technique notes resolve to these implementation notes:
 [iron jigs](../lures/iron-jigs.md) (surface / heavy yo-yo), [knife jigs](../lures/knife-jigs.md)
-(slow-pitch wing-fall / speed jig — e.g. "200g-knife-jig class"),
+(slow-pitch wing-fall / speed jig — e.g. the *200g-knife-jig class*),
 [Mad Mac](../lures/mad-mac.md) (speed-troll class), [spreader bar](../lures/spreader-bar.md),
 [trolling plugs](../lures/dtx-minnow.md) and [divers](../lures/halco-laser-pro.md),
 [cedar plugs](../lures/cedar-plug.md), [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md),
 [tuna poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md),
 [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md),
 [tube baits](../lures/tube-baits.md) (soft plastic over an internal lead
-head — the HookUp Baits class; "tube-bait class" resolves here, with
+head — the HookUp Baits class; the *tube-bait class* term resolves here, with
 execution in [tube-bait fishing](../techniques/tube-bait-fishing.md)),
 [bay bass plastics](../lures/bay-bass-plastics.md).
 
 ## How a profile resolves a class
 
-No profile → the plan recommends the **class** ("surface-iron class, 40–60 lb").
-With a profile → the class resolves to the owned rod ("your Torium setup, 50 lb
-braid"). A user provides their inventory with line classes (see
+No profile → the plan recommends the **class** (e.g. *surface-iron class,
+40–60 lb*). With a profile → the class resolves to the owned rod (e.g. *your
+Torium setup, 50 lb braid*). A user provides their inventory with line classes (see
 [the profile template](../profiles/_template/README.md)); the day-plan protocol
 does the lookup.
+
+## Evidence
+
+Per-citation provenance (channel, dates, registration/confidence,
+ASR caveats) for the rail-rod class and PE-rating claims: [evidence
+file](evidence/gear-classes.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -294,6 +208,7 @@ does the lookup.
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
+- [Evidence — Gear Classes](evidence/gear-classes.md)
 - [Evidence — Kite Fishing](../techniques/evidence/kite-fishing.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)

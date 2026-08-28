@@ -930,6 +930,7 @@ a bluefin).
 - [Evidence — All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](evidence/all-purpose-rod-line-rating.md)
 - [Evidence — Bluefin Retail Outfit Ladder — High-End vs. Budget](evidence/bluefin-retail-setup-high-end-vs-budget.md)
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
+- [Evidence — Gear Classes](evidence/gear-classes.md)
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

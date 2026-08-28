@@ -185,6 +185,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md#light-rig--standard-daytime-d
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Gear Classes](evidence/gear-classes.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
