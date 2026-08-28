@@ -497,6 +497,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Dropper Loop](evidence/dropper-loop.md)
+- [Evidence — Leadhead Mods & Rigging](../rigging/evidence/leadhead-mods.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

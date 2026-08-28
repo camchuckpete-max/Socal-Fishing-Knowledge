@@ -359,6 +359,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Leadhead Mods & Rigging](../rigging/evidence/leadhead-mods.md)
 - [Evidence — Sliding Sinker](evidence/sliding-sinker.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

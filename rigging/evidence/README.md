@@ -14,6 +14,7 @@
 - [Evidence — Flying Fish Harness](flying-fish-harness.md) — Per-source provenance backing Flying Fish Harness.
 - [Evidence — Haywire Twist](haywire-twist.md) — Per-source provenance backing Haywire Twist.
 - [Evidence — Hollow-Core Splice & Serving](hollow-splice-and-serving.md) — Per-source provenance backing Hollow-Core Splice & Serving.
+- [Evidence — Leadhead Mods & Rigging](leadhead-mods.md) — Trip reports and per-source provenance for leadhead-mods.md.
 <!-- index:end -->
 
 

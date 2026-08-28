@@ -395,4 +395,8 @@ harvested.
 | Ensenada | rigging/flying-fish-harness.md | evidence — Alternative wing-lock methods / Artificial and pre-rigged alternatives | rubber-band wing-lock variant and a commercial pre-rigged flyer shown at the Baja Blue Fin Tuna Tournament | `Ix0gG0-l3v0` |
 | Tanner Bank | rigging/flying-fish-harness.md | evidence — Artificial and pre-rigged alternatives | "California Flyer" slide-up lure carried aboard Captain Andrew's own boat | `vCskOx6N-XM` |
 | Guadalupe Island | rigging/hollow-splice-and-serving.md | When to use it | stealth bait fishing rods dedicated per line class with fluoro already served into hollow core, so there's no on-the-water leader retie | `yr6z3DmWY4s` |
+| Catalina Island | rigging/leadhead-mods.md | Parameters — Squid rigging for white seabass | leadhead-and-squid white seabass trip, weight corrected on the water from a guessed 3/4 oz to 5/8 oz, color and hook-insertion parameters given | `Y2bXn44lfqo` |
+| Catalina Island | rigging/leadhead-mods.md | Parameters — Squid rigging for white seabass | earlier leg of the same trip series; actively-cast leadhead-and-squid rig parameters (50 lb braid / 30 lb fluoro leader, 3/8 oz head) and bite-detection cues | `xFS3MW4GpDU` |
+| Channel Islands (Ventura / Oxnard) | rigging/leadhead-mods.md | Parameters — Banana head | light-gauge-hook leadhead for Channel Islands trips out of Ventura or Oxnard, calico bass/sand bass/white seabass/halibut | `PnAnAS6QoG8`, `nRIAgz5G_Bc` |
+| Channel Islands | rigging/leadhead-mods.md | Parameters — Dockside leadhead selection | leadhead weight/rigging by current for seabass, halibut, and yellowtail on squid nests | `F-vOTerdulU` |
 <!-- review:harvest:end -->

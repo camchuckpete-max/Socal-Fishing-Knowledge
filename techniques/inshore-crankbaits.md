@@ -271,6 +271,7 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [Evidence — Spotted Bay Bass](../species/evidence/spotted-bay-bass.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Imperial Beach](../locations/imperial-beach.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)
