@@ -511,6 +511,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
+- [Knife Jigs](../lures/knife-jigs.md)
 - [La Jolla](../locations/la-jolla.md)
 - [La Paz](../locations/la-paz.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

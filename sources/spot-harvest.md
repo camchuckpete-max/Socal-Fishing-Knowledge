@@ -377,4 +377,7 @@ harvested.
 | Guadalupe | techniques/yo-yo-iron.md | Jig size & depth | named as one of the "real deep" yo-yo grounds calling for a 7X-heavy iron | `hteLeDIy9Qs` |
 | Alijos Rocks | lures/dtx-minnow.md | Wahoo trolling application (DTX 200) | two DTX sizes recommended as wahoo trolling lures for any long-range trip | `it_YYh_8Z-w` |
 | The Ridge | lures/dtx-minnow.md | Wahoo trolling application (DTX 200) | named alongside Alijos Rocks as a long-range DTX wahoo trolling ground | `it_YYh_8Z-w` |
+| Bahía de los Ángeles (BOLA) | lures/knife-jigs.md | Weight by program | single-trip 130-250 g wing-fall jig weight range for bottom yellowtail at 150-180 ft | `vqsD0qpwcJA` |
+| Point Loma | lures/knife-jigs.md | Color | contested glow-vs-confidence bluefin color debate framed against a 315 lb bluefin taken 59 mi off Point Loma | `0E9REoTjKrY` |
+| Cortez Bank | lures/knife-jigs.md | Color | pre-trip tackle briefing color pick ("white with polka dots") for a Constitution charter | `UfuiWFVvz2E` |
 <!-- review:harvest:end -->

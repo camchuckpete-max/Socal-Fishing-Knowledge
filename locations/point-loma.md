@@ -228,6 +228,7 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 - [Green Tank](green-tank.md)
 - [Hill Street](hill-street.md)
 - [Hotel Del Hardbottom](hotel-del-hardbottom.md)
+- [Knife Jigs](../lures/knife-jigs.md)
 - [New Hope Rock](new-hope-rock.md)
 - [Point Loma Pipe](point-loma-pipe.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)

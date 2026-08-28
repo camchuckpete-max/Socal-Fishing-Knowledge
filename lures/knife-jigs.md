@@ -1,697 +1,417 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4, gFx8BXU2vkY, sGnY4QxqMmI]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4, gFx8BXU2vkY, sGnY4QxqMmI, vVOkxHx58Eg, vqsD0qpwcJA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
+layout: v2
+lure_class: vertical metal jig — slow-pitch/wing-fall and speed/knife cross-sections, plus flat-fall
+weights: 100-500 g+, program-dependent (~1 g/ft speed jig, ~1.5 g/ft slow-pitch; see Specs)
+depth_band: worked vertically to a called depth, typically 150-400 ft
+run_speed: n/a — vertically jigged, not trolled or retrieved at a set speed
 ---
 
 # Knife Jigs
 
 The **vertical metal jig** class: a dense metal jig dropped straight down and
-worked in the water column, with the whole class split by **cross-section and how
-it falls**. A **slow-pitch (wing-fall / butterfly) jig** is asymmetric and
-flutters/rocks on the fall like a dying baitfish; a **speed / knife jig** is
-slender and symmetric and darts up fast like a fleeing bait. Same drop-and-work
-family, opposite triggers. This note owns the weight rules, fall behavior, and
-the assist-hook rigging class; how each is fished is the reverse map below.
+worked in the water column, split by **cross-section and how it falls**. A
+**slow-pitch (wing-fall/butterfly) jig** is asymmetric and flutters/rocks on
+the fall like a dying baitfish; a **speed/knife jig** is slender and symmetric
+and darts up fast like a fleeing bait. A **flat-fall** jig is fished passively
+on the fall rather than actively jigged. Same drop-and-work family, opposite
+triggers. This note owns weight selection, fall behavior, model benchmarks,
+and the assist-hook rigging class; how each is fished is the reverse map
+below.
 
-## The class / models
+## Specs
 
-Selection is driven by **weight (matched to depth and current) and fall
-behavior**:
+| Parameter | Slow-pitch (wing-fall/butterfly) | Speed / knife |
+| --- | --- | --- |
+| Cross-section | asymmetric | slender, symmetric |
+| Fall behavior | flutters/rocks side to side — the bite comes on the fall | darts up fast and straight — the bite is a reaction to a fleeing jig |
+| Weight rule | ~1.5 g per ft of depth (extra weight offsets the flutter, keeps it vertical) | ~1 g per ft of depth (enough to punch down and stay vertical) |
+| Fingertip balance test | balances flat at the midpoint | tips tail/butt-heavy at the midpoint (`Ul5FLB2dFgQ`, `5XWnm7ok09k`) |
+| Body profile | squattier, center-weighted, flat on one side/angled on the other, short and wide (`M8hOYQ_6rSg`) | heavier in the bottom section, built to get down fast in heavy current for aggressive, fast-moving fish like yellowtail (`M8hOYQ_6rSg`) |
+| Bite-stroke split (estimate) | ~85% fall / 15% retrieve | ~85% pump/retrieve / 15% fall (`ZrcwcugaEe4`) |
+| Rod | soft parabolic, matched to the jig's max-jig rating | short parabolic, worked on a fast vertical rip |
 
-- **A three-factor ranked priority for picking a jig at all (George, 2025
-  PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded
-  2025-03-14; unregistered channel/panel — medium confidence):** in his
-  stated order of importance, **depth decides size/weight** (his own
-  simplified rule of thumb — not split by slow-pitch vs. speed jig the way
-  the weight rules below are — is roughly **1 g per foot**: fish 200 ft
-  down, "go around 200 grams, you're safe"), **current decides shape**
-  (longer/skinnier cuts current and gets down faster with less resistance;
-  wider jigs catch more water and give more action on slack, low-current
-  days — the same current/shape rule logged below, restated as the
-  second-ranked factor), and **color is the last and least important
-  factor** — "color matters the least" — because the visible-light
-  spectrum humans see mostly disappears at depth; see the UV/contrast
-  mechanism below for why color still isn't nothing.
+A three-factor ranked priority governs picking a jig at all: **depth decides
+weight** (a simplified rule of thumb of roughly 1 g per foot of depth — "fish
+200 ft down, go around 200 grams, you're safe" — not itself split by
+cross-section the way the table above is); **current decides shape**
+(longer/skinnier cuts current and gets down faster with less resistance;
+wider jigs catch more water and add action on slack, low-current days);
+**color is least important** (see Color, below) (`gimFbgN5Jjk`).
 
-- **Weight rules:** **~1.5 g per foot of depth** for a slow-pitch jig (the extra
-  weight offsets the flutter and keeps it vertical) vs **~1 g per foot of depth**
-  for a speed jig (enough to punch down and stay vertical). In a fast drift or
-  wind, go **longer and more slender** so the jig cuts water and falls straight;
-  in slack/light wind go **fatter and more fluttery** for hang time and action.
-- **Fall behavior — flutter vs dart:** wing-fall / butterfly profiles give the
-  wide, rocking, side-to-side **flutter** on a slack-line drop (the bite comes on
-  the fall); knife/speed profiles **dart** and fall fast and straight, fished on
-  a fast vertical rip (the bite is a reaction to the fleeing jig). Night bluefin
-  specifically favors a **center-weighted "flip slider"** profile over a
-  tail-weighted speed jig — bigger sweeping rolls on the fall that read well when
-  the jig is worked slowly after dark, versus the speed jig's design to cover
-  distance fast in daytime current (`Ul5FLB2dFgQ`).
-- **Field test — speed vs slow-pitch, at the tackle counter:** balance the jig on
-  your fingertip at its midpoint. Heavier toward the tail/back end → it's a
-  **speed jig**. Balances flat without tipping either way → it's a
-  **slow-pitch/wing-fall jig** (`Ul5FLB2dFgQ`).
-- **Corroborating field test, named speed-jig models, and a brand-name
-  caution (Tackle Express, `5XWnm7ok09k`, "Slow Pitch vs. Speed Jigging
-  Jigs—What's the Difference?," 2025-03-27; unregistered channel, single
-  mention — medium confidence):** same finger-balance test as above — stays
-  balanced in the middle → slow jig; tips and sinks butt-first → a
-  back-/butt-weighted speed jig. Named as speed jigs, built for action **on
-  the pump** (the retrieve): the **Nomad Streaker**, and a jig captioned
-  **"Nature Boys"** (asr-uncertain — not confidently resolved to a specific
-  brand). A jig captioned **"Shimano Flat Side"** was also named a speed jig
-  here — flagged `asr-uncertain`; this may or may not be the same product as
-  **Shimano Flat-Fall**, which this KB documents elsewhere as a passive,
-  fall-triggered lure (see [flat-fall jigging](../techniques/flat-fall-jigging.md))
-  — kept unreconciled since the source doesn't clarify which product it
-  means. **Brand-name caution:** the **Nomad Rip Roller** — one of the
-  shop's own best-selling "knife jigs" logged below, and a popular choice
-  among anglers fishing bluefin — is, by this source's own finger test,
-  actually a **slow/wing-fall jig, not a speed jig**, despite its
-  knife-jig-adjacent branding and reputation; anglers fishing it were
-  reportedly getting bit **on the fall**, consistent with slow-pitch's
-  fall-triggered bite rather than knife-jigging's pump/rip-triggered one — a
-  reminder not to assume a jig's fall behavior from its model-line branding
-  or popularity, and to check it directly.
-  - **Source identified, plus added detail (2026-08-21 correction):** this
-    clip is a re-cut of a fuller 37-minute Tackle Express interview, "Slow
-    Pitch vs. Speed Jigging: Basics & Gear Breakdown with Ceasar Chang!"
-    (`ZrcwcugaEe4`, uploaded 2025-03-07, about three weeks before this
-    short clip) — same Nomad Streaker / "nature boys" / Shimano flat-side
-    speed-jig examples, and the same Rip Roller-is-actually-a-slow-jig
-    correction, spoken by the interview's named guest **Cesar Chang**
-    (human-typed video title, per this KB's ASR-hazard rule). Treat
-    `5XWnm7ok09k` and `ZrcwcugaEe4` as **one source appearance**, not
-    independent repetition, when weighing confidence — though this is
-    likely the same **Cesar** already registered as `cesar` in
-    `sources/source-registry.md` (Dirty Hookers rod-company rep), whose
-    `M8hOYQ_6rSg` "visual/profile tell" a few bullets above genuinely is a
-    second, independent appearance on a different channel corroborating the
-    same back-weighted-speed-jig / center-weighted-slow-jig distinction —
-    a real repetition, unlike the Tackle Express re-cuts. **Two mechanical
-    details the fuller interview adds, not in the `5XWnm7ok09k` clip:** (1)
-    the Rip Roller specifically carries **two single hooks, one on each
-    end** — the physical tell, alongside the finger-balance test, for a
-    slow/wing-fall jig built to "rock and roll" and flutter/shimmy rather
-    than dart; (2) a speed jig's flat-side/round-side cross-section is
-    built to **pivot on its back (tail) end** as the rod pumps — "the head
-    rocks back and forth... darts up, darts up, darts up" — which is the
-    stated mechanism for why a back-weighted profile produces the
-    dart-on-the-retrieve action this note documents above, versus a
-    center-weighted profile's fall flutter.
-  - **A fifth cut of the same interview, adding a direct shape comparison
-    between the two named models (Tackle Express, "Slow Pitch or Speed Jig?
-    Ceasar Says KNOW the Difference!," `sGnY4QxqMmI`, uploaded 2025-07-11 —
-    four months after `ZrcwcugaEe4`; medium confidence):** restates the same
-    Rip Roller-is-actually-a-slow-jig correction and the identical
-    "the head rocks back and forth... darts up, darts up, darts up" line
-    already quoted above, confirming this is the same source appearance, not
-    independent repetition. **One additional detail not in the other cuts:**
-    held side by side on camera, the **Mustad Rip Roller** reads as
-    noticeably **flatter and broader** than the **Nomad Streaker**, which by
-    contrast is **more rounded, longer, and skinnier** — a direct visual
-    comparison between the two named models that gives a concrete shape
-    contrast for the flat-side/round-side speed-jig cross-section already
-    documented above.
-  - **Bite-ratio quantification, same interview (Cesar Chang, `ZrcwcugaEe4`,
-    2025-03-07; medium confidence, single appearance):** asked to estimate
-    the split, Cesar puts a **slow-pitch jig at roughly 85% of bites on the
-    fall, 15% on the retrieve**, and a **speed jig at roughly 85% of bites
-    on the pump** (retrieve) — a rough numeric estimate, not a measured
-    count, but consistent with this note's fall-vs-dart fall-behavior
-    framing above and with the fall-timing splits already logged for
-    bluefin in [knife/speed jigging](../techniques/knife-jigging.md#hookset--do-not-wind-on-it-like-bait-fishing-ul5flb2dfgq).
-- **Visual/profile tell (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20;
-  Cesar is a registered voice, single mention — `medium` confidence):** a
-  speed jig is generally **heavier in the
-  bottom section** — built to get down fast in heavy current for aggressive,
-  fast-moving fish like yellowtail. A slow-pitch jig reads as **squattier and
-  center-weighted** — flat on one side, a bit of an angle on the other, short
-  and wide — the shape that gives it more flutter on the fall; you're not
-  meant to work it as fast as a speed jig.
-- **Weight ranges by program:**
-  - BOLA bottom yellowtail (slow-pitch): **130–250 g wing-fall** jigs eating
-    well over high spots at 150–180 ft.
-  - Night bluefin (knife/speed): jig weight called by the captain, **150–400 g**,
-    heavier (200–300 g+) for deeper fish or harder current, a lighter ~220 g
-    fluttery jig for fish 150–200 ft down in the upper column.
-  - **Deckhand crew guidance, a narrower working range (149px8WQ2Ng, Dirty
-    Hookers, Highliner deckhand POV, 2023-04-24; unregistered channel —
-    medium confidence):** **200 g minimum, up to 300 g, occasionally 350 g**;
-    stay below **400 g unless the current is really ripping** — the goal is
-    keeping a **smaller bait-profile presentation**, which was producing on
-    this boat that week.
-  - **Windy-conditions "hot dog style jig" — a distinct choice from the
-    general night range above, made for sea state rather than depth/current
-    alone (Capt. Matt, SD Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13;
-    unregistered channel/speaker — medium confidence):** when spring weather
-    turns choppy and a lure can't be kept vertical (see the vertical-fishing
-    caution under [how to fish it](#how-to-fish-it) below), the fleet's own
-    term for the fix is a **"hot dog style jig"** — a short, stubby, blunt
-    profile (named examples: **West Coast HD**, **Daiwa SK jig**, **Shimano
-    Flat-Fall**), fished at **170–250 g**. These sink noticeably faster than
-    the sniper/dart-style jigs and **flutter specifically on the way down**,
-    so they keep producing bites when chop or wind makes it hard to get a
-    slimmer jig down to fish that are still willing to eat.
-  - **General SoCal yellowtail butterfly-jig box, not tied to a specific
-    depth/current (Ray Sharifi, Dirty Hookers, A70kK2niu2Q, 2022-02-17;
-    `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** a Shimano Flat-Fall-class
-    wing-fall jig in **100–160 g** as the personal-favorite (smaller) range,
-    with **180–200 g** fished by his father, who prefers the heavier sizes —
-    same rod as the yo-yo setup works for this, though slow-pitch-specific
-    rods are called out as an increasingly common alternative on the West
-    Coast.
-- **Additional weight/brand data points (Ray Sharifi, Dirty Hookers,
-  jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** a
-  favorite **Shimano flat-fall/butterfly jig at 200 g** (comes pre-rigged
-  with assist hooks), sized down to **120–160 g** when fish want something
-  smaller, or up to **300 g+** to punch down faster or size up. Also fishes
-  a **Nomad** jig of the same flutter-down profile, and knife jigs from
-  **Mustad (240 g)** and a second, unnamed maker (asr-uncertain — the brand
-  name was spoken but not confidently reconstructable; ~200 g, run with the
-  assist configuration below). General rigging guidance given alongside
-  these: don't over-hook a jig — too many assists kills its action.
-  - **Downsizing within the knife-jig class when fish move higher and faster
-    in the column, named models (Tackle Express, `BsWb5BQ1Tdc`, "The Jarry
-    Rig: Built for Big Tuna," uploaded 2025-08-04; unregistered channel,
-    single mention — medium confidence):** fishing a **250 g "SK"** jig
-    (captioned only as "SK," color captioned "zebra row" —
-    both flagged `asr-uncertain`; the weight sits within the 140–250 g
-    range already logged above for the Daiwa SK jig, but this clip doesn't
-    itself say "Daiwa," so the brand match isn't confirmed here), the stated
-    trigger to size down is the fish coming up **higher in the water
-    column** and swimming through **visibly faster**. The stated response is
-    to drop to roughly a **200 g "SL"** (model as captioned; not confidently
-    matched to a named product beyond "SL," flagged `asr-uncertain`) — still
-    the same knife-jig dart profile, just lighter, so it darts down slower
-    and doesn't rocket past fish sitting at a called **180–200 ft**. Same
-    "match sink rate to where the fish actually are" logic as the weight
-    rules above, restated as a same-class swap with a stated reason (fish
-    position and speed, not current or wind). The clip cuts off mid-thought
-    as the captain starts calling fish deeper (**300–400 ft**) — the
-    corresponding upsize isn't stated on camera, so it isn't recorded as a
-    rule here.
-- **Assist-hook rigging class — US waters cap you at two hooks.** For how to
-  size a hook to a jig, choose cord stiffness, and tie a single or double
-  assist by hand, see [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
-  Slow-pitch:
-  single assist on the nose **and** a single on the tail (an assist *pair* on the
-  front alone already puts you at the limit). Night knife/speed for bluefin: a
-  **single bottom assist pair, no top hook** — the fish suck the jig in, so a top
-  hook adds little and fouls fish in the cheek/pec, moving the fight off the
-  mouth. Assists are short cord loops with a light-wire assist hook; keep them
-  matched to jig length so the hook rides at the head, not tangling the body.
-  **Attributed variant, kept side by side (Ul5FLB2dFgQ, Eric's Tackle):** single
-  assist on **top** + a **short double on the bottom**, both deliberately
-  **light-wire** — reported landing fish consistently on the bottom hook, with
-  both hooks sometimes pinning through the mouth; framed as an increasingly
-  common San Diego rig and the standard in Japan. **If running any double, the
-  two hooks must never cross or lock together.** Speed-jigging assist hooks run
-  noticeably **shorter** than the long assists commonly sold in stores, which are
-  built for slow-pitch — don't grab a slow-pitch assist off the rack for a speed
-  jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
-  both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
-  - **Hook swap and a "one on each end" rule, tackle-shop framing (Billy,
-    Fisherman's Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`,
-    "Tackle Tip Thursday Vol. 186," uploaded 2022-06-16; unregistered
-    channel — medium confidence):** stock hooks get swapped for **heavy-duty
-    assist hooks** — the shop's own stock is **Mustad assist hooks, 6/0**,
-    called out as **"a good universal size"** across the Rip Roller,
-    Streaker, and Jigpara models above. Attached with a **heavy-duty split
-    ring**; hook count/placement is explicitly framed as angler preference
-    ("everyone does it different" — one on top, one on top plus one on the
-    bottom, or two on each end), but his own stated minimum is **at least one
-    assist on each end**, reasoning that these jigs are long enough that a
-    single-end assist alone costs hookup ratio. Another attributed
-    hook-count/placement data point in the same unreconciled conflict logged
-    throughout this list (below and above) — not reconciled here.
-  - **Fourth attributed configuration, kept side by side (Ray Sharifi,
-    Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the **second, unnamed ~200 g knife jig** logged above
-    (asr-uncertain maker) — not the 240 g Mustad, which the source describes
-    and moves past before giving this rigging detail — run with **assist
-    hooks up top (plural in the source; exact count not confirmable) plus
-    one assist hook on the bottom** on a **130 lb** fluorocarbon option
-    leader — a top+bottom pairing again in tension with the
-    single-bottom-pair-no-top-hook
-    doctrine above, distinct from the double-top/single-bottom and
-    double-top/single-bottom-plus-extra configurations already logged. Not
-    reconciled with any of the above — flagged as a live conflict on hook
-    count/placement, not a region difference (this trip fished US waters).
-  - **Third attributed configuration, kept side by side (Ray Sharifi,
-    -MP2RqJC7B0, 2023-05-23, SoCal 1.5-day trip; `ray-sharifi` registered, SoCal-capped — medium confidence):** a **double 6/0 assist pair on top** + a **single 6/0 assist
-    on the bottom** — three hooks total, the inverse pairing from the
-    single-top/double-bottom variant above and in tension with this note's
-    "two hooks max in US waters" framing. This specific jig (a Rich Win 270 g
-    "Sriracha" pattern) landed 5 fish on the trip (50–130 lb) before two of
-    the three hooks bent out on a rail snag and it was retired. Not
-    reconciled with either doctrine above — flagged as a live conflict on
-    hook count/placement, not a region difference (this trip fished US
-    waters).
-  - **Fifth attributed configuration, kept side by side (Cesar, Phoenix Rods,
-    via Dirty Hookers, U4zifdssSes, 2024-02-23; registered voice, single
-    mention — medium confidence):** a tying demonstration builds a **single
-    assist at the head/top** of a slender speed jig and, separately in the
-    same series, a **double assist on the tail/bottom** of a short, heavy
-    flat-fall-style jig — a top-plus-bottom, potentially three-hook
-    combination when both are run on the same lure. Another top+bottom
-    variant in tension with the single-bottom-pair-no-top-hook doctrine
-    above; not reconciled. Full sizing/cord/tying detail (hook-to-jig
-    pass-through test, cord stiffness by jig style, tying steps) is in
-    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
-  - **Sixth attributed configuration, part two of the same series (Cesar,
-    Phoenix Rods, via Dirty Hookers, unARAuTgF_A, 2024-03-04; registered
-    voice, but this specific hook-count/placement configuration is a single
-    mention — `medium` confidence; the doctrine corroborated across both
-    videos is the shared tying/construction parameters in
-    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md), not
-    this particular configuration):** a **dual-top** assist — both hooks at
-    the head of a speed jig, tied to a swivel instead of a solid ring,
-    connected to the jig by a split ring off the swivel's remaining eye. Two
-    hooks total, so it stays within this note's two-hooks-max US-waters
-    framing on its own, but it's a third top-heavy build from the same voice
-    (alongside the single-top and single-top/double-tail builds above) in the
-    same unreconciled hook-count/placement conflict — not reconciled here.
-    Cesar frames the swivel-based build as his own preference over a plain
-    solid ring, for two reasons: it leaves working room between the two hook
-    loops that a doubled cord on a single solid ring wouldn't, and fight-load
-    runs onto the swivel-to-main-line connection instead of through a split
-    ring. Full cord-type, swivel-sizing, and tying detail is in
-    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
-  - **Seventh attributed configuration, kept side by side (Capt. Dave Hansen,
-    Your Saltwater Guide, scmPq63lLWM, 2021-05-18; dave-hansen registered
-    voice, but this is a product-specific rigging description on a
-    sponsor-adjacent item — `medium` confidence):** a **Fish Lab 250 g
-    flat-fall** comes factory pre-rigged with **two 6/0 hooks up top plus
-    one 9/0 sliding hook on the back** — three hooks total, another
-    top-plus-bottom, three-hook combination in tension with the
-    single-bottom-pair-no-top-hook doctrine above. His stated reason for
-    running it as-is rather than re-rigging is convenience — it comes
-    pre-rigged out of the package, so there's no need to source/rig the
-    bigger hooks himself, and if he loses the one he's fishing he can grab
-    another pre-rigged one instead of re-rigging from parts. Separately, he
-    gives a general (not pre-rig-specific) reason the fleet runs lots of
-    hooks on these things at all: bluefin inhale the flat-fall so deep (bit
-    at night or 250–350 ft down) that they're not really seeing the hooks
-    anyway — not reconciled with the other configurations logged here.
-  - **Eighth attributed configuration, chosen by jig profile rather than
-    depth/current/fish-size, plus a sportboat safety rule (James Kikkawa,
-    2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
-    uploaded 2025-03-14; unregistered channel/panel — medium confidence):**
-    a fourth axis for choosing hook count/placement, this time keyed to the
-    jig's own shape/weight rather than to bottom-vs-suspended, target size,
-    or current — kept side by side with, not reconciling, the conflict
-    already tracked above:
-    - **Smaller, shorter-profile jigs (his example: 100–150 g):** single
-      assist hook on the nose only.
-    - **Longer-profile jigs:** one assist on top **and** one on the bottom.
-    - **Short, heavy-profile jigs:** twin assists on the bottom only, no top
-      hook.
-    - **Sportboat rule, distinct from the fishery-wide conflict above:** a
-      lot of sportboats specifically require anglers to fish **twins on the
-      bottom only** — not for action or hookup-ratio reasons, but
-      **safety**: a top hook has caught a deckhand's hand or otherwise
-      posed a risk swinging a jig aboard a crowded boat. Framed as a
-      boat-by-boat rule, not a universal one — "every boat's different";
-      the same source notes some boats allow both top and bottom hooks
-      during the day. Treat a captain's stated hook policy as overriding
-      the general jig-profile guidance above when the two conflict.
-- **Thin braid is part of the jig system**, not a separate choice: no stretch for
-  action and thin diameter so the jig **falls straight down** — even a jump from
-  ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water
-  → thinner braid.
-- **Model benchmarks:** **Sea Falcon** slow-pitch and speed jigs, Shimano
-  Butterfly / Flat-Fall, Nomad Gypsea / Streaker, Hots, Ocean's Legacy. Carry a
-  range of weights and both cross-sections.
-  - **Flat-fall/butterfly stocking recommendation, with a wind-driven weight
-    rule restated (SearcherSportfishing, "Tackle Tip Thursday Vol. 99
-    (Bluefin Lures)," `pm8u6qUrVUI`, 2020-05-14; `searcher-sportfishing`
-    registered channel — medium confidence):** frames flat-fall/butterfly
-    jigs as a class **"everybody should have"** — stock **four or five**, in
-    a range of weights (worked examples on camera: **150 g, 200 g, 250 g**)
-    and **various colors that have been effective** (captions render this
-    "blowing the darks" — **asr-uncertain**, plausibly a garbled "glow and
-    darks," i.e. glow-in-the-dark vs. darker colors, the same
-    daytime-dark/pre-dawn-glow split already logged from this channel's Vol.
-    3 above; not confidently resolved, so not merged into that entry as
-    confirmation). **Wind-driven weight choice, restated:** in wind, step up
-    to a heavier flat-fall — reasoned here as compensating for the boat
-    drifting along with the wind and current, so the heavier jig still
-    reaches the fish's depth — the same go-heavier-in-wind rule as
-    [flat-fall jigging](../techniques/flat-fall-jigging.md#jig-weight-and-rig),
-    with the boat-drift mechanism spelled out explicitly.
-  - **Season-stocking recommendation ahead of the 2021 season, speaker
-    unnamed on camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130,"
-    `E9YtH56Dngo`, uploaded 2020-12-17; unregistered channel — medium
-    confidence):** stock **flat-fall jigs from 200 g up to the biggest
-    available (called out as roughly 500 g)**, fishable on **either heavy or
-    light gear** for bluefin. A separate personal-favorite jig is called out
-    for falling fast, glowing well, and carrying a sturdy hook, but its name
-    is not confidently resolved (captions render "peel 68s," no real model
-    matched) so it's not carried as a named model here — flagged
-    `asr-uncertain`. The same source also recommends stocking Colt Snipers —
-    see [tuna poppers and stickbaits](tuna-poppers-and-stickbaits.md), the
-    Colt Sniper's established home, not a knife jig.
-  - **Tackle-shop top-3 for night bluefin, with weights (Billy, Fisherman's
-    Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip
-    Thursday Vol. 186," uploaded 2022-06-16; unregistered channel — medium
-    confidence):** the three best-selling knife jigs in the shop in 2022
-    were the **Nomad Rip Roller (400 g)**, the **Nomad Streaker (320 g)**,
-    and the **Jigpara (up to roughly 350–400 g)**. This confirms **Nomad Rip
-    Roller** as a real, current model name — [knife/speed
-    jigging](../techniques/knife-jigging.md#depth-control--jig-calling)
-    logs a captioned "rip rollers" at 500 g from a separate 2024 source that
-    couldn't confirm the brand; the 400 g size here is the shop's stocked
-    weight, not necessarily in conflict with that heavier, wind-driven 500 g
-    example.
-  - **A captain's plain-language framing of the same dart-vs-flutter choice,
-    and a dated marker for the type's uptake in the fleet (Captain Hart,
-    SearcherSportfishing, `AyN9MBWg-XY`, "Tackle Tip Thursday Vol. 161
-    (Nighttime Bluefin Fishing)," uploaded 2021-12-09; unregistered channel —
-    medium confidence):** as of that date, Hart called heavy knife jigs "the
-    new latest and greatest" for night bluefin at depth, naming **Mustad**
-    and **Daiwa** as makers alongside generic/knock-off versions he called
-    equally effective. His stated reasoning restates this note's dart-vs-
-    flutter distinction in plain terms: the knife jig's weight makes it
-    **sink rapidly and go straight down**, reaching a called depth faster
-    than a flat-fall's flutter-fall motion — corroborating, not adding to,
-    the fall-behavior doctrine above.
-  - **A second Searcher voice's own full daytime-to-night weight ladder,
-    with a hook-style rule that changes by weight tier (Steve Carson, Penn/
-    SearcherSportfishing, "Tackle Tip Thursday Vol. 228 (Bluefin Tuna
-    Lures)," `vVOkxHx58Eg`, uploaded 2023-10-12; medium confidence):** a
-    100 g daytime treble-hook jig stepping up through 170 g (dawn/dusk),
-    280–300 g (nose+tail single hooks), a night deep-drop rig for fish to
-    ~400 ft, and a 400 g personal-ceiling jig (tail-only double hook) — kept
-    as its own note rather than folded in here; full ladder, leader tests,
-    and stated reasoning per tier in [Searcher bluefin jig ladder by daypart
-    and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
+In a fast drift or wind, go longer and more slender so the jig cuts water and
+falls straight; in slack or light wind, go fatter and more fluttery for hang
+time and action. Night bluefin specifically favors a center-weighted "flip
+slider" profile over a tail-weighted speed jig — bigger, slower sweeping
+rolls on the fall that read well when the jig is worked slowly after dark,
+versus a speed jig's design to cover distance fast in daytime current
+(`Ul5FLB2dFgQ`).
+
+Thin braid is part of the jig system, not a separate choice: no stretch for
+action, and thin diameter so the jig falls straight down. Even a jump from
+~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways — go
+thinner in deeper water.
+
+Model benchmarks: **Sea Falcon**, **Shimano Butterfly/Flat-Fall**, **Nomad
+Gypsea/Streaker**, **Hots**, **Ocean's Legacy** — each maker carries both
+cross-sections across a weight range.
+
+## Weight by program
+
+| Program | Weight | Notes |
+| --- | --- | --- |
+| Night bluefin (knife/speed), captain-called | 150-400 g | heavier (200-300 g+) for deeper fish or harder current; ~220 g fluttery jig for fish 150-200 ft up in the column |
+| Highliner deckhand working range, 2023 | 200 g minimum, up to 300 g, occasionally 350 g; stay below 400 g unless current is really ripping | keeps a smaller bait-profile presentation, producing that week (`149px8WQ2Ng`) |
+| Windy "hot dog style" jig | 170-250 g | short, stubby, blunt profile (West Coast HD, Daiwa SK jig, Shimano Flat-Fall) sinks faster and flutters specifically on the way down, so it keeps producing when chop/wind makes it hard to keep a slimmer jig vertical (`G1YIlakiRqg`) |
+| General SoCal yellowtail wing-fall box | 100-160 g personal-favorite (smaller), up to 180-200 g fished by his father, who prefers the heavier sizes | Shimano Flat-Fall-class; same rod as the yo-yo setup works, though slow-pitch-specific rods are an increasingly common West Coast alternative (`A70kK2niu2Q`) |
+| Additional data points | 200 g Shimano flat-fall/butterfly (comes pre-rigged), sized to 120-160 g smaller or 300 g+ to punch down/size up; a Nomad of the same profile; a Mustad knife jig at 240 g; a second, unnamed-maker knife jig at ~200 g (asr-uncertain brand) | don't over-hook a jig — too many assists kills its action (`jQW2HLkMsmY`) |
+| Downsizing as fish move higher/faster in the column | 250 g "SK" (captioned only as "SK," color "zebra row" — both asr-uncertain; weight sits in the Daiwa SK range above but the brand isn't confirmed on camera) down to ~200 g "SL" (asr-uncertain model) | same dart profile, lighter so it doesn't overrun fish sitting at a called 180-200 ft; the corresponding upsize for fish called deeper (300-400 ft) isn't stated on camera (`BsWb5BQ1Tdc`) |
+
+The night-bluefin range above is captain-called and program-level. A single
+BOLA trip fished 130-250 g wing-fall jigs over a high spot at 150-180 ft, but
+the narrator was new to slow-pitch on camera — a single-trip data point, not
+established BOLA doctrine; see [evidence](evidence/knife-jigs.md).
+
+## Model benchmarks and stocking history
+
+Flat-fall/butterfly jigs are a class "everybody should have": stock four or
+five across a range of weights (150 g, 200 g, 250 g shown on camera) and
+various colors captioned "blowing the darks" (asr-uncertain, plausibly a
+garbled "glow and darks") (`pm8u6qUrVUI`). In wind, step up to a heavier
+flat-fall to compensate for the boat drifting with the wind/current, so the
+jig still reaches the fish's depth (`pm8u6qUrVUI`). Ahead of the 2021 season,
+one shop recommended stocking flat-falls from 200 g up to roughly 500 g,
+fishable on either heavy or light gear for bluefin, plus a personal-favorite
+jig for falling fast, glowing well, and carrying a sturdy hook (name not
+confidently resolved from captions — "peel 68s," asr-uncertain) and Colt
+Snipers — see [tuna poppers and stickbaits](tuna-poppers-and-stickbaits.md)
+for the Colt Sniper, not a knife jig (`E9YtH56Dngo`). In 2022, a San Diego
+shop's three best-selling knife jigs were the Nomad Rip Roller (400 g), the
+Nomad Streaker (320 g), and the Jigpara (up to roughly 350-400 g) — confirming
+Rip Roller as a current model name; a heavier 500 g jig for wind-driven deep
+drifts also appears in [knife/speed
+jigging](../techniques/knife-jigging.md#depth-control--jig-calling), not
+necessarily the same product (`6_E5JCRvazc`). As of 2021-12, heavy knife jigs
+were "the new latest and greatest" for night bluefin at depth — Mustad and
+Daiwa named, generic/knockoff versions called equally effective; a knife
+jig's weight sinks it rapidly and straight down, reaching a called depth
+faster than a flat-fall's flutter-fall — corroborating, not adding to, the
+fall-behavior doctrine above (`AyN9MBWg-XY`). A full daytime-to-night weight
+ladder (100 g daytime treble stepping to a 400 g personal-ceiling
+tail-double-hook jig) with a hook-style rule that changes by weight tier is
+its own note: [Searcher bluefin jig ladder by daypart and
+depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
+(`vVOkxHx58Eg`).
+
+**Brand-name caution — don't assume fall behavior from a model line.** Three
+shorts recut one Tackle Express interview with named guest Cesar Chang
+(`5XWnm7ok09k`, `ZrcwcugaEe4`, `sGnY4QxqMmI`) — treat as one source
+appearance, not independent repetition, though this is likely the same
+"cesar" registered elsewhere as a Dirty Hookers rod-company rep, whose
+visual/profile-tell appearance on that separate channel (`M8hOYQ_6rSg`,
+above) is a genuine second, independent corroboration of the same
+back-weighted-speed/center-weighted-slow-pitch distinction. The interview's
+core point: the **Nomad Rip Roller** — one of the shop's own best-selling
+knife jigs above, and popular among bluefin anglers — is, by the
+finger-balance test, actually a slow/wing-fall jig despite its
+knife-jig-adjacent branding and reputation; anglers fishing it reportedly get
+bit on the fall, consistent with slow-pitch's fall-triggered bite rather than
+knife-jigging's pump-triggered one — check a jig's fall behavior directly
+rather than assume it from model-line branding. It carries two single hooks,
+one on each end, as a physical tell alongside the finger test (`ZrcwcugaEe4`).
+Named speed-jig models from the interview: the **Nomad Streaker**, and a jig
+captioned "Nature Boys" (asr-uncertain, not confidently resolved to a brand);
+a jig captioned "Shimano Flat Side" was also named a speed jig (asr-uncertain
+— possibly the same product as the Shimano Flat-Fall documented in
+[flat-fall jigging](../techniques/flat-fall-jigging.md), which this KB treats
+as a passive, fall-triggered lure — unreconciled, since the source doesn't
+clarify which product it means) (`5XWnm7ok09k`). Held side by side on camera,
+the Rip Roller reads flatter and broader than the Streaker's more rounded,
+longer, skinnier profile (`sGnY4QxqMmI`). A speed jig's flat-side/round-side
+cross-section pivots on its tail end as the rod pumps, which is the stated
+mechanism for the dart-up action the weight rules above describe
+(`ZrcwcugaEe4`). Asked to estimate the bite split, the same interview puts a
+slow-pitch jig at roughly 85% of bites on the fall (15% on the retrieve) and a
+speed jig at roughly 85% on the pump — a rough estimate, not a measured
+count, consistent with the fall-timing splits already logged for bluefin in
+[knife/speed jigging](../techniques/knife-jigging.md#hookset)
+(`ZrcwcugaEe4`).
+
+## Rigging — assist-hook count and placement
+
+Hook sizing, cord stiffness, and tying steps for a single or double assist
+live in [assist hooks — sizing, cord, and
+tying](../rigging/assist-hooks.md); this section covers only how many hooks
+and where, which is unresolved across the fleet — no count/placement below is
+"correct" over another. Two fixed constraints apply everywhere: **US waters
+cap a jig at two hooks**, and stock hooks are rarely worth fishing as-is.
+
+- **A captain's stated boat policy overrides everything below.** Many
+  sportboats specifically require anglers to fish twin bottom hooks only —
+  not for action or hookup-ratio reasons but **safety**: a top hook has
+  caught a deckhand's hand or otherwise posed a risk swinging a jig aboard a
+  crowded boat. Framed boat-by-boat, not universal — some boats allow both
+  top and bottom hooks by day (`gimFbgN5Jjk`).
+- **Absent a boat rule, jig profile is one axis for choosing** hook
+  count/placement: smaller, shorter-profile jigs (example: 100-150 g) → a
+  single assist on the nose only; longer-profile jigs → one assist on top
+  **and** one on the bottom; short, heavy-profile jigs → twin assists on the
+  bottom only, no top hook (`gimFbgN5Jjk`).
+- **This note's own baseline:** slow-pitch — a single assist on the nose
+  **and** a single on the tail (an assist *pair* on the front alone already
+  hits the two-hook cap). Night knife/speed for bluefin — a single bottom
+  assist pair, no top hook: the fish suck the jig in, so a top hook adds
+  little and fouls fish in the cheek/pec, moving the fight off the mouth.
+- **Named alternative configurations, each fished successfully in the fleet
+  and none reconciled with another:**
+  - Single assist on top plus a short double on the bottom, both light-wire —
+    reported landing fish consistently on the bottom hook, with both hooks
+    sometimes pinning through the mouth; an increasingly common San Diego rig
+    and the standard in Japan. The two hooks of any double must never cross
+    or lock. Speed-jigging assists run noticeably shorter than the long
+    assists sold in stores for slow-pitch (`Ul5FLB2dFgQ`).
+  - Hook count/placement is angler preference — "everyone does it
+    different": one on top, one on top plus one on the bottom, or two on
+    each end. Mustad 6/0, called "a good universal size" across the Rip
+    Roller, Streaker, and Jigpara, attached with a heavy-duty split ring.
+    Stated minimum: at least one assist on each end — a single-end-only
+    assist costs hookup ratio on a jig this long (`6_E5JCRvazc`).
+  - Assist hooks up top (count unclear) plus one on the bottom, on a 130 lb
+    fluorocarbon leader option, for an unnamed ~200 g knife jig
+    (`jQW2HLkMsmY`).
+  - A double 6/0 assist pair on top plus a single 6/0 on the bottom (three
+    hooks) on a Rich Win 270 g "Sriracha" jig — landed 5 fish (50-130 lb) on
+    one trip before two of the three hooks bent out on a rail snag
+    (`-MP2RqJC7B0`).
+  - A single assist at the head of a slender speed jig; separately, a double
+    assist on the tail of a short, heavy flat-fall-style jig — a
+    top-plus-bottom, up to three-hook build when both run on one lure
+    (`U4zifdssSes`).
+  - A dual-top assist tied to a swivel rather than a solid ring (two hooks
+    total) — leaves working room between the hook loops that a doubled cord
+    on one solid ring wouldn't, and routes fight load onto the
+    swivel-to-mainline connection instead of a split ring (`unARAuTgF_A`).
+  - A factory pre-rig: two 6/0 hooks up top plus one 9/0 sliding hook on the
+    back (three hooks) on a Fish Lab 250 g flat-fall — fished as-is for
+    convenience (comes pre-rigged; easy to replace if lost). General reason
+    the fleet runs lots of hooks on these jigs at all: bluefin inhale a
+    flat-fall so deep — at night, or 250-350 ft down — that hook count barely
+    changes whether the fish even sees it (`scmPq63lLWM`).
 
 ## How to fish it
 
 - **Slow-pitch (wing-fall):** flick the jig up off a soft parabolic rod and
-  **work the fall** — [slow-pitch jigging](../techniques/slow-pitch-jigging.md).
+  work the fall — [slow-pitch jigging](../techniques/slow-pitch-jigging.md).
   Match the jig to the rod's max-jig rating so the blank loads.
-- **Speed / knife:** rip the slender jig up through the column fast on a short
-  parabolic rod, staying directly up and down —
-  [knife / speed jigging](../techniques/knife-jigging.md). Mark your line by
-  depth so you can put the jig on the captain's called number.
-- **Flat-fall (passive, fall-triggered):** free-spool the jig to the bite zone
-  and work it in partial up-and-down cycles rather than an active jigging
-  stroke — no rod work at all, just free-spool, count, and wind back up
-  partway before dropping again — [flat-fall jigging](../techniques/flat-fall-jigging.md).
+- **Speed/knife:** rip the slender jig up through the column fast on a short
+  parabolic rod, staying directly up and down — [knife/speed
+  jigging](../techniques/knife-jigging.md). Mark the line by depth so the jig
+  can be put on the captain's called number.
+- **Flat-fall (passive, fall-triggered):** free-spool to the bite zone and
+  work it in partial up-and-down cycles rather than an active jigging stroke
+  — no rod work, just free-spool, count, and wind back up partway before
+  dropping again — [flat-fall jigging](../techniques/flat-fall-jigging.md).
 
-Which species and situation calls for each is routed from the species notes —
-[bluefin tuna](../species/bluefin-tuna.md),
-[yellowtail](../species/yellowtail.md),
+Which species and situation calls for each is routed from [bluefin
+tuna](../species/bluefin-tuna.md), [yellowtail](../species/yellowtail.md), and
 [rockfish and lingcod](../species/rockfish-lingcod.md).
 
-**A separate, much shallower flat-fall application: rockfish and lingcod on
-isolated structure (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered
-channel — medium confidence).** Distinct from the deep bluefin flat-fall
-program elsewhere in this note (100–350+ ft) — Shimano Butterfly Flat-Fall
-jigs are also fished, at a much larger-profile-for-shallow-water use, over
-shallow rock for a mixed rockfish bag (vermilion reds, chuckleheads named on
-camera) and, on the same larger profile, for **lingcod** specifically. Same
-drop-lift-flutter cadence as the Colt Sniper rockfish/lingcod sizing-by-depth
-entry in [iron jigs](iron-jigs.md#the-class--models) (same source): sink to
-bottom, one or two turns up, lift and let it flutter back down. **Line
-must stay vertical** for bite sensitivity — a jig scoped out toward the
-horizon reads as no bites, not as "not fishing here"; correct it by flicking
-the jig up-swell of the drift so it sinks back toward vertical as the boat
-comes onto it, rather than fighting a jig that's already trailing away.
-This footage was also re-cut and re-uploaded as the short `XxN7EzNDnf8`,
-"Unlock the Secret to Catching Monster Lingcod with This Jig Technique!"
-(2026-04-07) — the same species list (vermilion, reds, chuckleheads) and the
-same sink-to-bottom/one-or-two-turns/lift-and-let-it-flutter cadence, word
-for word, not independent corroboration.
+**Reading which stroke draws bites, live on the rail** (`G1YIlakiRqg`): for
+daytime bluefin holding around the boat rather than boiling, match the jig to
+whichever stroke is actually getting bit. A Shimano Colt Sniper swims better
+on the retrieve/rise and falls butt-first with little flutter — reach for it
+when fish are hitting on the wind. A second, unnamed jig (asr-uncertain
+identity — auto-captions render the name three different garbled ways, likely
+a Daiwa model) goes sideways, shines, and flutters on the fall, and draws
+bites specifically on the drop. Both jigs get bit on both strokes; this is a
+fine-tuning tool for a selective bite, not a claim that either jig only works
+one way.
 
-**Dedicated large-profile lingcod-only baits, named but not detailed on
-camera (same source):** "**Ling Cod Killers**" — the **Living Squid** and the
-**Ling Killer** — are named as baits fished specifically to draw one big
-lingcod rather than to put numbers in the box, distinct from the
-smaller-profile options (dropper loop, Colt Sniper, small flat-fall) reached
-for when the goal is just catching fish. No weight, color, or rig detail is
-given on camera for these two named baits.
+**Why more fall action pulls bigger, "lazier" fish** (`gFx8BXU2vkY`): a jig
+that wiggles on both ends on the way down — more vibration — is reasoned to
+draw fish from a wider area, and specifically the biggest fish in that area,
+because they are watching from farther off. A big fish reportedly watches the
+jig fall, sees it go still on bottom, and grabs it as an already-beaten meal.
+Consistent with the fall-vs-dart framing above — this is a stated mechanism
+for why fall action recruits bigger fish specifically, not new behavior.
 
-### Choosing between two jigs by where the bites are coming (Capt. Matt, SD Fish and Sips)
+**Hook swap on stock jigs** (`G1YIlakiRqg`): stock hooks on jigs like the
+Colt Sniper are not fished as they come from the package. Not trebles —
+fishing no-stretch braid straight to a stiffer fluorocarbon leader, a
+treble's multiple small points don't mesh with the lack of give in that line
+system and pull hard in the fight. Not standard inline singles either — for
+reasons not fully explained, inline singles (Gamakatsu, Owner named) lose a
+lot of fish. The preferred swap is a ringed live-bait hook: the ring gives
+the fish's head-shake another pivot point, spreading the leverage a bluefin
+can apply rather than transmitting the shake straight through a rigid shank.
 
-`G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
-confidence. For daytime bluefin hanging around (not boiling) the boat, Matt's
-stated decision rule is to read **which stroke of the retrieve is actually
-drawing bites** and match the jig to it, cycling between a **Shimano Colt
-Sniper** and a second jig (named on camera, but the auto-captions render the
-name three different, all-garbled ways across the transcript — "DI is a
-Conor jig," "dial as a kaj jig," "di wasak" — asr-uncertain; likely a Daiwa
-model, not confidently resolved, carried here by fall behavior rather than by
-name):
+**A shallower flat-fall application: rockfish and lingcod on isolated
+structure** (`S9sQ8Vg8-5o`; re-cut and re-uploaded as `XxN7EzNDnf8`, same
+footage — not independent corroboration). Distinct from the deep bluefin
+program above, Shimano Butterfly Flat-Fall jigs at a larger profile also work
+shallow rock for a mixed bag (vermilion rockfish, chuckleheads) and for
+lingcod specifically: sink to bottom, one or two turns up, lift and let it
+flutter back down — the same cadence as the Colt Sniper rockfish/lingcod
+entry in [iron jigs](iron-jigs.md#the-class--models). The line must stay
+vertical for bite sensitivity — a jig scoped out toward the horizon reads as
+no bites, not as "not fishing here"; correct it by flicking the jig up-swell
+of the drift so it sinks back toward vertical as the boat drifts onto it.
 
-- **If guys are getting bit on the wind (the retrieve/rise):** pick up the
-  **Colt Sniper** — in his read it swims better on the way up. Worked
-  jigged, it falls **butt-first with little flutter**.
-  - **If guys are getting bit on the fall:** switch to the unnamed
-    second jig — worked the same way (jerked up and down on the rod), it
-    goes **sideways, shines, and flutters**, and gets bit well specifically
-    on the drop.
-- **Both jigs get bit on both strokes** — this is a dial-in tool for a
-  finicky or selective bite, not a claim that one jig only works one way; if
-  you're not trying to fine-tune, either will produce.
-- **Stock hooks on both are treated as a starting point to replace, not
-  fish as-is** — see the hook-swap doctrine below.
+⚠ misplaced-content: two named large-profile lingcod-only baits, branded "Ling
+Cod Killers" — the Living Squid and the Ling Killer — are not knife/vertical
+jigs and carry no weight, color, or rig detail on camera (`S9sQ8Vg8-5o`);
+queued to the relocation queue rather than covered here.
 
-### A stated reason more fall-action pulls bigger, "lazier" fish (Tackle Express, `gFx8BXU2vkY`, "The secret to triggering strikes from trophy-sized, lazy fish," 2026-04-06; unregistered channel, single mention — medium confidence)
+## Night lure sizing by outfit
 
-Very short clip; the jig being described and what it's being compared against
-are both off-camera (the transcript opens mid-sentence), so no model name or
-weight is attached to this reasoning — carried here as a mechanism only, not
-a product pick.
+Two outfit-and-lure pairings for night bluefin (full rod/reel/line build in
+[bluefin rig ladder by grade —
+nighttime](../tackle/bluefin-rig-ladder-by-grade.md#nighttime-rig-ladder-by-aggressiveness-and-grade-gavin-pacific-queen)):
+on a heavy outfit (Talica 25-class, 100 lb Spectra, 130-200 lb wind-on), fish
+250-350 g minimum — nothing lighter, because a lighter lure can't pull enough
+line/leader off a big reel loaded with heavy braid and a heavy wind-on
+leader against the extra drag heavy gear creates, so it sinks too slowly. On
+a lighter outfit (50-60 lb Spectra, ~60 lb fluoro leader, smaller reel/spool),
+fish 100-170 g for fish under ~60 lb showing higher in the column — a smaller
+lure sinks to depth roughly twice as fast on this outfit, because the whole
+system offers less resistance. Named models "super effective" in 2023 on the
+lighter grade: a Daiwa Zakana (~130 g, hooks swapped to two assists on the
+bottom); a Daiwa TG (tungsten-bodied, denser than lead, so heavier for its
+size, ~108 g); and a Daiwa SK jig (140-170 g) (`G1YIlakiRqg`).
 
-- **The stated mechanism:** a jig with "completely different action" —
-  **both ends wiggling on the way down**, more vibration — is reasoned to
-  draw fish from a **bigger area** than a lower-action jig, and specifically
-  to draw the **bigger fish in that area**, because they're watching from
-  farther off. A bigger fish reportedly watches the jig hit the surface and
-  fall the whole way, then sees it go still on bottom and reads that stillness
-  as an easy, already-beaten meal — "big lazy fish" that don't want to work
-  for a bite go grab it once it stops, if they haven't already eaten it on
-  the way down.
-- Consistent with, not new beyond, this note's **flutter-vs-dart** framing
-  above (wide-flutter wing-fall profiles get bit on the fall, more so than a
-  dart-style speed jig) — this citation's addition is a stated *why* for the
-  connection between more fall action and bigger fish specifically, which the
-  existing fall-behavior entries above don't give a reason for.
+At a given weight, profile shape matters at night specifically: between two
+~350 g lures, one long (~12 in) and one short/stubby, the short/stubby build
+sinks measurably faster for the same weight, and its smaller profile raises
+the bite-to-hook ratio — a fish attacking a big 12 in lure has a much smaller
+relative chance of actually getting the hooks in its mouth than one attacking
+a shorter lure of the same weight. This flips by daypart: during the day,
+longer, skinnier lures draw more bites; night bluefin, where an estimated 90%
+of bites happen as the lure is sinking (vs. a more mixed sink/retrieve bite by
+day), reward the shorter, faster-sinking, higher-hookup-ratio profile
+instead. The short/stubby night lure runs two assist hooks mounted at the
+top, line-tied to a solid ring with a split ring off that ring carrying both
+the lure and its hook set — "anytime I fish over 60 lb around the boat, I'm
+fishing this and this only," regardless of whether the fish showing up are
+graded big or small (`G1YIlakiRqg`).
 
 ## Color — mostly angler confidence, with one real mechanism
 
-- **Attributed take (Ul5FLB2dFgQ, tackle-shop seminar — product/preference
-  commentary on specific colors, low confidence):** color "doesn't really
-  matter" much to the fish; much of the color range on the rack exists because
-  anglers like variety, and glow-pattern fashion (stripes vs. dots) swings with
-  what's currently popular rather than measured performance.
-- **The mechanism worth keeping (medium confidence):** glow paint reflects
-  **UV** more than regular paint, which is why an all-glow jig can be a strong
-  **daytime** choice at real depth (e.g. 300 ft) — there is still light down
-  there, just dim and not visible the way surface light is, and the added UV
-  flash makes the jig stand out. Don't assume glow = night-only.
-- **Corroborating mechanism, contrast and UV again (Benny Ortiz,
-  CustomRodandReel seminar, -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based
-  instruction, a general fish-vision mechanism, not a SoCal-specific claim —
-  unregistered channel, medium confidence):** fish have rods and cones like
-  humans but far fewer color receptors, so **contrast**, not hue, is what
-  pelagic fish key on, while inshore/structure-oriented fish carry relatively
-  more color sensitivity — still nothing close to human color perception. His
-  stated belief, based on experience rather than formal study, is that
-  deep-water fish (north of roughly 600 ft, past where visible light
-  penetrates) can see **UV light**, and jigs/finishes that reflect UV (e.g. a
-  chartreuse finish that lights up under a UV flashlight) draw more bites at
-  real depth than a non-UV-reflective finish of the same profile —
-  corroborating, from an out-of-region but general-mechanism source, this
-  note's own UV/contrast-over-color framing above.
-- **A second, independent corroboration of both the UV mechanism and the
-  angler-confidence framing (Benny Ortiz & James Kikkawa, 2025 PCS Show
-  "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded 2025-03-14;
-  unregistered channel/panel — medium confidence):** restates, from the same
-  Benny Ortiz voice a year later, that a UV-reflective jig (his examples:
-  orange, pink, or a finish with embedded UV paint that glows under a UV
-  light) draws more strikes than a non-reflective jig of the same profile —
-  no new mechanism beyond what's already logged above. James Kikkawa's
-  personal color preference, given alongside: **pinks, purples, natural bait
-  patterns, and dark baits** — offered explicitly as personal confidence
-  rather than fishery doctrine, echoing the confidence-over-color framing
-  already established in this section.
-- **Baseline daytime rule of thumb:** off-color / darker water → whites and
-  yellows (more reflective in low light); bright, sunny, clear water → more
-  chrome / flash.
-- **Match glow level to what's actually producing (Ray Sharifi, gevNj2Y1Ep8,
-  2023-09-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** keep a spread
-  across the glow range and read the bite rather than fishing one jig all
-  trip — a heavier-glow pattern (e.g. an all-glow "cotton candy" color) when
-  fish are keying on glow; a low-glow, high-flash silvery pattern when they
-  want less glow and more reflection; a minimal-glow pattern with just small
-  polka-dot glow accents (his Sriracha-color jig) when they want the least UV
-  signature.
-- **Two-hot-colors data point, ten days earlier (Ray Sharifi, Dirty Hookers,
-  149px8WQ2Ng, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** for
-  "these last two weekends in a row," **red** and **"Katy Perry"** (the same
-  pink-accented nickname documented on the [RW Peanut](../lures/tuna-poppers-and-stickbaits.md)
-  — the name spans lure classes, not one model) were the two most effective
-  night knife-jig colors on the Highliner. Kept as a separate attributed data
-  point rather than merged into the red/orange/yellow entry below — a
-  different, earlier trip on the same boat/channel; whatever the angler's
-  confidence color is matters most, per the source.
-- **Night-bite red/orange/yellow pattern (Ray Sharifi, RfiC8sfIWTk,
-  2023-05-04; `ray-sharifi` registered, SoCal-capped — medium confidence):** on a night that
-  produced a 211 lb bluefin, the jigs drawing bites were on the red end of
-  the spectrum — a 350 g knife jig in **red with red-and-glow stripes**, a
-  **Sriracha red/orange with glow polka dots**, a straight **red/orange**,
-  and an **orange/yellow** — with the observation that redder-to-yellow tones
-  were triggering more night bites than other colors fished the same night.
-  Kept as a separate attributed data point alongside the glow-level guidance
-  above rather than merged into it.
-- **Natural-color preference, and a lifetime-diving argument against glow
-  (Capt. Dave Hansen, Your Saltwater Guide, RbqOKkINSCM, 2021-05-25;
-  dave-hansen registered voice — `high` confidence):** on a flat-fall rigged
-  for bluefin marked down deep, his stated favorite color imitates **red
-  crabs**; day-to-day he leans toward **reds, silvers, and blues in daylight,
-  reds at night** because he believes that's closer to what the fish are
-  actually eating. He explicitly frames the popular "glow in the dark works
-  best" claim as **angler-confidence marketing, not a proven fish
-  preference** — after a lifetime of diving he says he's "never seen
-  anything glowing in the dark," and reasons glow sells because glow is what
-  most anglers already fish, not the reverse. **Judgment, stated
-  explicitly:** if everyone else on the boat is getting bit on glow, he'll
-  switch to glow — reading the boat's actual bite beats a fixed color
-  theory. This corroborates, from a second registered voice, the
-  "mostly angler confidence" framing above rather than the specific
-  mechanism/color claims.
-  - **Conflicting take, kept side by side (Steve Clarkson, SearcherSportfishing,
-    `0E9REoTjKrY`, "Tackle Tip Thursday Vol. 91 (Giant Tuna)," uploaded
-    2020-03-19; unregistered channel — medium confidence):** for the same
-    night flat-fall-class jig bite, Clarkson calls **glow-in-the-dark the
-    real secret**, paired with big, strong hooks as the other non-negotiable
-    — framed on camera against his own **315 lb bluefin** landed 59 mi off
-    Point Loma (full catch detail in
-    [bluefin tuna](../species/bluefin-tuna.md#where--when); full reel/jig
-    build in
-    [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19)).
-    Not reconciled with Hansen's angler-confidence framing directly above —
-    two attributed, opposed views on the same question, from two different
-    single-mention-capped voices.
-  - **An earlier, narrower data point from the same channel (speaker not
-    named on camera, "Tackle Tip Thursday Vol. 3," `jLFZIh15Fec`, uploaded
-    2018-07-12; medium confidence):** darker colors are the general daytime
-    pick, switching to glow-in-the-dark specifically "before daylight"
-    (pre-dawn/low light) — no reason stated. Scopes glow to a specific
-    low-light window rather than taking either side of the Hansen/Clarkson
-    always-vs-never conflict above, so it isn't merged into either; full
-    entry in [Searcher big/giant tuna rig ladder — Vol.
-    3](../tackle/searcher-big-tuna-rig-ladder.md#200-g-shimano-flat-fall-tackle-tip--weight-color-leader-and-gear-speaker-not-named-on-camera-tackle-tip-thursday-vol-3-jlfzih15fec-uploaded-2018-07-12).
-  - **The pelagic-red-crab rationale, expanded, one week earlier same
-    channel/captain (Capt. Dave Hansen, Your Saltwater Guide, scmPq63lLWM,
-    2021-05-18; dave-hansen registered voice — `high` confidence for the
-    mechanism, `low` for the specific product pick below per the
-    sponsored-claim rule):** pelagic red crabs had been the dominant SoCal
-    bluefin forage for roughly the preceding five to six years (i.e.,
-    ~2015–2021 as of this video) — his reasoning for reds/oranges is
-    matching that crab, down to using **orange specifically for the crab's
-    egg-bearing belly color**, on the theory that egg-carrying crabs are a
-    preferred target. Bite depth/visibility context for this pattern: the
-    flat-fall bite comes **at night or 250–350 ft down**, depths at which he
-    reasons the fish can't see well but still react to the profile/flash of
-    the red-and-orange color scheme — corroborates the daytime-flash-at-depth
-    mechanism above without a stated depth number there. **Product callout,
-    low confidence (promotional/sponsor-adjacent — Fish Lab brand):** his
-    pick during this pattern was a **Fish Lab 250 g flat-fall**, chosen
-    mainly for arriving pre-rigged (see hook config below); do not read the
-    brand pick itself as fishery doctrine, only the red/orange-egg-crab
-    reasoning and the depth/visibility context.
+Color is the least important of the three jig-selection factors, behind
+depth (weight) and current (shape) (`gimFbgN5Jjk`). Much of the color range
+on a tackle-shop rack exists because anglers like variety, and glow-pattern
+fashion (stripes vs. dots) swings with what's currently popular rather than
+measured performance (`Ul5FLB2dFgQ`).
 
-- **Observed color pick, jig color in general (StokedOnFishing, `UfuiWFVvz2E`,
-  video uploaded 2026-08-11, Cortez Bank, SoCal; Constitution charter
-  captain's pre-trip briefing; unregistered channel — medium confidence):**
-  during a general tackle briefing (not specifically scoped to night or to
-  bluefin in the transcript), the captain called color as not mattering
-  much to the fish, but if pressed recommended **white with polka dots** —
-  named on camera as a "White Katy Perry" — with some silver. Consistent
-  with, not new beyond, the "color mostly doesn't matter, angler confidence"
-  framing above; the "Katy Perry" name lines up with the pink-accented
-  nickname already documented elsewhere in this note.
+The one mechanism worth keeping: glow paint reflects **UV** more than regular
+paint, which is why an all-glow jig can be a strong **daytime** choice at
+real depth (e.g., 300 ft) — there is still light down there, just dim, and
+the added UV flash makes the jig stand out; don't assume glow means
+night-only. Fish have far fewer color receptors than humans — pelagic
+species key on **contrast** more than hue, while inshore/structure-oriented
+fish carry relatively more color sensitivity — and, past roughly 600 ft,
+beyond where visible light penetrates, may be able to see UV light directly;
+a chartreuse finish that lights up under a UV flashlight is one worked
+example of a UV-reflective jig drawing more bites at depth than a
+non-reflective finish of the same profile (general fish-vision mechanism,
+not SoCal-specific) (`-nIhadZwxAA`). A second, independent corroboration
+names orange, pink, or a finish with embedded UV paint that glows under a UV
+light as examples that draw more strikes than a non-reflective jig of the
+same profile. A personal color preference offered alongside the same
+mechanism, as confidence rather than doctrine: pinks, purples, natural bait
+patterns, and dark baits (`gimFbgN5Jjk`).
 
-## Night lure sizing matched to outfit size, and profile shape (Gavin, Pacific Queen)
+Baseline daytime rule of thumb: off-color/darker water favors whites and
+yellows (more reflective in low light); bright, sunny, clear water favors
+more chrome/flash. A narrower data point, from 2018-07-12, scopes this to a
+specific low-light window rather than taking either side of the glow
+conflict below: darker colors as the general daytime pick, switching to glow
+specifically before daylight/pre-dawn, no reason stated; full entry in
+[Searcher big/giant tuna rig ladder — Vol.
+3](../tackle/searcher-big-tuna-rig-ladder.md#200-g-shimano-flat-fall-tackle-tip--weight-color-leader-and-gear-speaker-not-named-on-camera-tackle-tip-thursday-vol-3-jlfzih15fec-uploaded-2018-07-12)
+(`jLFZIh15Fec`).
 
-`G1YIlakiRqg`, SD Fish and Sips, uploaded 2024-03-13; unregistered
-channel/speaker — medium confidence. Two outfit-and-lure pairings for night
-bluefin, full rod/reel/line build in
-[bluefin rig ladder by grade — nighttime](../tackle/bluefin-rig-ladder-by-grade.md#nighttime-rig-ladder-by-aggressiveness-and-grade-gavin-pacific-queen):
+Reading the bite beats a fixed color theory. Keep a spread across the glow
+range and read what's producing rather than fishing one jig all trip:
+heavier glow (e.g., an all-glow "cotton candy" pattern) when fish key on
+glow; a low-glow, high-flash silver pattern when they want less glow and more
+reflection; a minimal-glow pattern with small polka-dot accents (a "Sriracha"
+color) when they want the least UV signature (`gevNj2Y1Ep8`). Two separate
+data points from Highliner night trips, kept apart rather than merged: red
+and "Katy Perry" (the same pink-accented nickname documented on the [RW
+Peanut](tuna-poppers-and-stickbaits.md) — the name spans lure classes, not one
+model) were the two most effective colors over "these last two weekends in a
+row" (`149px8WQ2Ng`); on a different night that produced a 211 lb bluefin,
+a 350 g knife jig in red-with-red-and-glow stripes, a Sriracha red/orange
+with glow polka dots, a straight red/orange, and an orange/yellow all drew
+bites, with redder-to-yellow tones out-producing the rest fished that night
+(`RfiC8sfIWTk`).
 
-- **Heavy outfit (Talica 25-class, 100 lb Spectra, 130–200 lb wind-on):**
-  fish **250–350 g minimum** — nothing lighter than 250 g on this outfit.
-  Reasoning: a lighter lure can't pull enough line/leader off a big reel
-  loaded with heavy braid and a heavy wind-on leader against the extra drag
-  that heavy gear creates, so it sinks too slowly and the presentation isn't
-  effective.
-- **Profile shape, at a given weight — short/stubby beats long, at night
-  specifically.** Between two lures of the same roughly 350 g weight — one a
-  long (~12 in) profile, one a short, stubby profile — he's shifted toward
-  the shorter, stubbier build for two stacked reasons: it **sinks
-  measurably faster** for the same weight (shape, not just weight, drives
-  sink rate), and its **smaller profile raises the bite-to-hook ratio** — a
-  fish attacking a big 12 in lure has a much smaller relative chance of
-  actually getting the hooks in its mouth than one attacking a shorter lure
-  of the same weight.
-- **This flips by daypart — don't carry the night preference into the
-  day.** During the day, longer, skinnier lures are the ones that draw more
-  bites; night bluefin, where an estimated **90% of bites happen as the lure
-  is sinking** (vs. more of a mixed sink/retrieve bite by day), reward the
-  shorter, faster-sinking, higher-hookup-ratio profile instead.
-- **Hooks on the short/stubby night lure — two assist hooks, mounted at the
-  top.** Line ties to a **solid ring**; a **split ring** off that solid ring
-  carries both the lure and the lure's hook set (two assist hooks). "Anytime
-  I fish over 60 lb around the boat, I'm fishing this and this only" — his
-  stated go-to regardless of whether the fish showing up are graded big or
-  small. See [assist hooks](../rigging/assist-hooks.md) for the general
-  solid-ring-vs-swivel framework this sits inside.
-- **Lighter outfit (50–60 lb Spectra, ~60 lb fluoro leader, smaller
-  reel/spool):** fish **100–170 g**, specifically for fish under ~60 lb
-  showing higher in the water column — a smaller lure sinks to depth roughly
-  twice as fast on this outfit as the same lure would on the heavy Talica 25
-  rig above, because the whole system (line, leader, spool) is lighter and
-  offers less resistance. **Named models that were "super effective" in
-  2023 on that smaller grade:** a **Daiwa Zakana, ~130 g** (hooks swapped to
-  two assist hooks mounted on the bottom); a **Daiwa TG**, a small,
-  tungsten-bodied jig (denser than lead, so heavier for its size) at roughly
-  **108 g**; and a **Daiwa SK jig, 140–170 g**.
+Whether glow is signal or angler confidence is a live, unreconciled
+conflict — the operating rule is to read the boat's actual bite rather than
+carry a fixed theory in either direction, since even the source most
+skeptical of glow overrides his own stance the moment the rest of the boat is
+getting bit on it. On a flat-fall bluefin bite at night or 250-350 ft down,
+one captain's favorite color imitates red crabs — the dominant SoCal bluefin
+forage roughly 2015-2021 — using orange specifically for a crab's
+egg-bearing belly color, on the theory that egg-carrying crabs are a
+preferred target; day-to-day he leans toward reds, silvers, and blues in
+daylight, reds at night, reasoning that's closer to what the fish are
+actually eating; he calls "glow works best" angler-confidence marketing
+rather than a proven fish preference, reasoning that after a lifetime of
+diving he has never seen anything glow in the dark, but switches to glow
+himself if the rest of the boat is getting bit on it. His product pick during
+this pattern, a Fish Lab 250 g flat-fall, is chosen mainly for arriving
+pre-rigged — a sponsor-adjacent product callout, low confidence; only the
+red/orange-egg-crab reasoning and depth/visibility context rate his usual
+confidence (`RbqOKkINSCM`, `scmPq63lLWM`). A different captain, on the same
+night flat-fall bite, calls glow-in-the-dark "the real secret," paired with
+big, strong hooks as the other non-negotiable, framed against his own 315 lb
+bluefin taken 59 mi off [Point Loma](../locations/point-loma.md) (full catch
+detail in [bluefin tuna](../species/bluefin-tuna.md#where--when); full
+reel/jig build in [Searcher big-tuna rig
+ladder](../tackle/searcher-big-tuna-rig-ladder.md#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19))
+(`0E9REoTjKrY`).
 
-## Hook swap on a jig — ringed live-bait hook over inline single or treble (Capt. Matt, SD Fish and Sips)
+A single-trip pre-trip tackle briefing at Cortez Bank corroborates the
+angler-confidence framing: color was called as not mattering much to the
+fish, with "white with polka dots" ("White Katy Perry") plus some silver as
+the pressed pick — the "Katy Perry" name lines up with the pink-accented
+nickname above (`UfuiWFVvz2E`; full entry in
+[evidence](evidence/knife-jigs.md)).
 
-`G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
-confidence. Stock hooks on jigs like the Colt Sniper are, in his view, not
-good enough to fish as they come from the package — always plan to swap them.
-His own preference, and stated reasoning, for what to swap to:
+## When to choose it
 
-- **Not treble hooks.** Fishing Spectra straight to fluorocarbon (no-stretch
-  braid to a stiffer leader), trebles "just do not mesh well" with that
-  combination and pull a lot on the fight — his read is the lack of give in
-  that line system works against a treble's smaller, multiple points.
-- **Not inline single hooks either**, despite seeing a lot of anglers run
-  them — for reasons he can't fully explain, he loses a lot of fish on
-  standard inline singles (he names Gamakatsu and Owner as both making a
-  pair of these).
-- **Ringed live-bait hooks — his own relied-on choice.** A ringed hook gives
-  the fish's head-shake **another pivot point** at the ring, spreading out
-  the leverage a bluefin can apply trying to throw the hook, rather than the
-  fish's shaking translating straight through a rigid inline shank.
+- Vertical presentation over structure or under marked fish, choosing a
+  knife/slow-pitch/flat-fall jig over bait or [surface
+  iron](../techniques/surface-iron.md): routed from [bluefin
+  tuna](../species/bluefin-tuna.md), [yellowtail](../species/yellowtail.md),
+  and [rockfish and lingcod](../species/rockfish-lingcod.md).
+- Which technique fits a given depth/current/light situation is the species
+  router's call — see [slow-pitch
+  jigging](../techniques/slow-pitch-jigging.md), [knife/speed
+  jigging](../techniques/knife-jigging.md), and [flat-fall
+  jigging](../techniques/flat-fall-jigging.md) for execution.
+- Night bluefin at depth, matched to outfit size: see Night lure sizing by
+  outfit, above.
 
 ## Owned examples
 
 Cameron does not yet own a dedicated vertical-jig setup — he is shopping a
-**dedicated SPJ / speed-jig setup** to cover night bluefin knife jigging **and**
-September BOLA bottom yellowtail (ideally one setup for both). Resolve jigs and
-rigging from class terms above until it lands; see
-[Cameron's tackle](../profiles/cameron/tackle.md) and
-[Cameron's rods](../profiles/cameron/rods.md).
+**dedicated SPJ / speed-jig setup** to cover night bluefin knife jigging
+**and** September BOLA bottom yellowtail (ideally one setup for both).
+Resolve jigs and rigging from class terms above until it lands; see
+[Cameron's tackle](../profiles/cameron/tackle.md) and [Cameron's
+rods](../profiles/cameron/rods.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence
+file](evidence/knife-jigs.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -706,6 +426,7 @@ rigging from class terms above until it lands; see
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](../techniques/evidence/knife-jigging.md)
+- [Evidence — Knife Jigs](evidence/knife-jigs.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
