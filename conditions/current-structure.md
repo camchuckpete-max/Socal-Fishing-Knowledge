@@ -1,50 +1,52 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [6TBxHnkYXI0, h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM]
+sources: [6TBxHnkYXI0, h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM, Z3rZqy2Pi8E]
 confidence: high
+layout: v2
 ---
 
 # Current Structure
 
-This is the **mechanism note**: how moving water plus bottom structure builds a
-food chain, and where on a bank or island that chain concentrates. It explains
-*why* the observables mean what they mean; for the on-water tells (kelp angle,
-chum drift, no-current "treadmill"), see [current diagnostics](current-diagnostics.md).
-The whole point is to reason about how water moves across structure rather than
-memorizing spot names.
+This is the mechanism note: how moving water plus bottom structure builds a
+food chain, and where on a bank or island that chain concentrates. It
+explains *why* the observables mean what they mean; for the on-water tells
+(kelp angle, chum drift, no-current "treadmill"), see
+[current diagnostics](current-diagnostics.md). Reason about how water moves
+across structure rather than memorizing spot names.
 
 ## The mechanism chain (with a time lag)
 
-Current + structure drives the whole chain (Landesfeind, Academy Ep. 1):
+Current forced over or against structure drives the whole food chain
+(`h3PTupup17I`):
 
-**current forced over/against structure → upwelling ("thumb over the hose") →
-nutrients + light → phytoplankton (the chlorophyll signal) → zooplankton →
-baitfish and red crab → gamefish.**
+**current forced over/against structure → upwelling ("thumb over the hose")
+→ nutrients + light → phytoplankton (the chlorophyll signal) → zooplankton →
+baitfish and red crab → gamefish.** (`h3PTupup17I`)
 
-The critical part is the **lag**. Fresh upwelled water is cold, green, and *bad
-now but productive later*. An overnight ~5 °F drop plus green water after an
-afternoon NW wind is a local upwelling event — short-term negative, but you mark
-it for the recovery, not the day-of. This gives a chlorophyll reading an age
-dimension: a new cold bloom (avoid) is not the same as a mature bloom edge
-(fish). The freshness interpretation lives in
+The critical part is the lag. Fresh upwelled water is cold, green, and *bad
+now but productive later*. An overnight ~5°F drop plus green water after an
+afternoon NW wind marks a local upwelling event — short-term negative, but
+mark it for the recovery, not the day-of (`h3PTupup17I`). A chlorophyll
+reading therefore carries an age dimension: a new cold bloom (avoid) is not
+the same as a mature bloom edge (fish). The freshness interpretation lives in
 [upwelling and turnover](upwelling-and-turnover.md); the chlorophyll signal
 itself in [water color](water-color.md).
 
 ## Where on the bank
 
-Upwelling forms where the current impinges on the structure. With the summer
-uphill (counter)current, that is the **lower / south face** of the banks — "that
-uphill current hits the lower end of those banks" (Ep. 1). Within-bank spot
-selection: bias toward the **up-current face** under whatever current vector is
-running that day. The up-current face is where nutrients are being forced up, so
-it is where the food chain stacks.
+Upwelling forms where current impinges on structure. Under the summer uphill
+(counter)current, that is the lower / south face of the banks — "that uphill
+current hits the lower end of those banks" (`h3PTupup17I`). Within a bank,
+bias spot selection toward the up-current face under whatever current vector
+is running that day: the up-current face is where nutrients are being
+forced up, so it is where the food chain stacks.
 
 ## The parallel-current rule (coastal / island structure)
 
-For land-attached structure the direction the current runs *relative to the
-shoreline* decides whether a spot is alive (Landesfeind, Academy Ep. 14 states
-all three explicitly; `6TBxHnkYXI0` gives the mechanism):
+For land-attached structure, the direction current runs *relative to the
+shoreline* decides whether a spot is alive (`0KQ--N5TjqE` states all three;
+`6TBxHnkYXI0` gives the mechanism):
 
 | Current vs. shore | Verdict | Why |
 |---|---|---|
@@ -52,154 +54,123 @@ all three explicitly; `6TBxHnkYXI0` gives the mechanism):
 | **Straight into the beach** | Marginal, sometimes bites | No clean edge; occasionally productive in specific states (see exception below) |
 | **Straight off the beach** | **Dead — avoid** | Pulls the food chain away from the structure |
 
-**Spot typology** (`6TBxHnkYXI0`):
+Spot typology (`6TBxHnkYXI0`):
 
-- **Land-attached perpendicular ridges** are two-directional spots — they fish on
-  parallel current only.
-- **Standalone banks** (Farnsworth type) fish in any direction, but each one has
-  its own preferred directions.
+- **Land-attached perpendicular ridges** are two-directional spots — they
+  fish on parallel current only.
+- **Standalone banks** (Farnsworth type) fish in any direction, but each one
+  has its own preferred directions.
 - **Coastal deep spots** default-prefer downhill (N→S).
 
-**Late-fall into-island exception (kept side by side).** The parallel rule is the
-prior, not a law. On 11/23/22 at San Clemente Island the bass bites *required*
-current running **into** the island with off-color water present — fish used the
-dirt to ambush against the structure. Same author, both statements: encode
-**parallel as the prior, into-beach as a viable late-fall / off-color state,
-off-beach as dead.** This is a real seasonal nuance, not an error. See also
+The parallel rule is the general prior, not an absolute law. On 2022-11-23 at
+San Clemente Island, bass bit only when current ran **into** the island with
+off-color water present — fish used the dirt to ambush prey against the
+structure (`Z3rZqy2Pi8E`). Encode this as a late-fall / off-color-water
+exception, not a contradiction: parallel is the default, into-the-beach is
+viable specifically in that state, off-the-beach stays dead. See also
 [island structure](../locations/island-structure.md).
 
-**Corroborating framing, coastal bass, stated without a specific date (a
-panelist, Time On The Water seminar, `XyKF34C5iB4`, 2025-04-19; unregistered
-channel — medium confidence):** described current along the beach in the same
-three-way terms as the table above — down the beach, up the beach, or off the
-beach — as the thing he checks before water color, calling water movement
-itself the key read; **clear water is disliked even when current is
-running**, and he treats stained/off-color, moving water as the target
-combination rather than clear water alone. Consistent with, not a new
-mechanism beyond, the parallel-current rule and the off-color-water exception
-already logged above.
+A separate seminar source reads current along the beach the same three-way
+way — down the beach, up the beach, or off the beach — and checks it before
+water color, treating stained, moving water as the target combination: clear
+water is disliked even when current is running (`XyKF34C5iB4`). Consistent
+with the parallel-current rule and the off-color exception above, not a new
+mechanism.
 
-## Kelp-bed corner selection by current direction (Dave Hansen, Your Saltwater Guide, `kzD0kSnnVPw`, 2019-04-07; registered voice, single mention on this specific framing — medium confidence)
+## Kelp-bed corner selection by current direction
 
-At a named kelp bed (his examples: San Onofre, Point Loma, La Jolla, San
-Clemente Island, Catalina), check which way the current is running at that
-spot before picking where on the bed to fish: **current running downhill →
-work the northwest corner of the kelp; current running uphill → work the
-southeast corner.** He frames this as where the bigger fish in the bed will
-be sitting, and says the same downhill/uphill-corner logic carries over to
-rock structure as well. This is a corner-level refinement of the up-current
-bias already covered above ("bias toward the up-current face under whatever
-current vector is running that day") — same mechanism, a specific compass
-answer at these named SoCal spots.
+At a named kelp bed — San Onofre, Point Loma, La Jolla, San Clemente Island,
+and Catalina are given as examples — check which way the current is running
+at that spot before picking where on the bed to fish: **current running
+downhill → work the northwest corner of the kelp; current running uphill →
+work the southeast corner** (`kzD0kSnnVPw`). The bigger fish in the bed sit
+in that corner; the same downhill/uphill-corner logic carries over to rock
+structure (`kzD0kSnnVPw`).
 
-**Mechanism and a live worked example, same voice — second dated mention
-promotes this claim to repeated doctrine / high confidence (dave-hansen,
-Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04):**
-walked through live at the **San Onofre** kelp bed — fronds all laid pointing
-toward San Diego reads as **downhill current** — with the reasoning given as
-a trout-stream analogy: the emptiest, easiest water in a stream to fish is
-always the slack water, because no current means no food is being delivered
-there; once current turns on, fish hold in the moving water (like trout) to
-intercept food being carried past, which is why the **front (up-current)
-edge of the kelp** is where the bigger fish stack once the current starts to
-run. Paired with an explicit **anchor the spot, don't drift through it** call
-for kelp — drifting through the bed was framed as giving up the edge-holding
-pattern entirely ("only if we don't want to catch anything").
+At San Onofre, fronds laid pointing toward San Diego read as downhill
+current (`sIoNELGlxmk`). The mechanism is a trout-stream analogy: slack water
+carries no food, so the emptiest, easiest water in a stream to fish is
+always the slack water; once current turns on, fish hold in the moving water
+(like trout) to intercept food carried past, which is why the **front
+(up-current) edge of the kelp** is where the bigger fish stack once current
+starts running (`sIoNELGlxmk`). Anchor the spot rather than drifting through
+it — drifting through the bed gives up the edge-holding pattern entirely
+(`sIoNELGlxmk`).
 
-## Current is not tide-driven (a presenter's framing, kept side by side with the mechanism above)
+## Current is independent of tide
 
-Stated emphatically as its own point (dave-hansen, Your Saltwater Guide, PCS
-Show live seminar, `sIoNELGlxmk`, 2023-03-04; registered voice, single
-mention on this specific framing — medium confidence): **current and tide
-are not caused by each other** — "current is current" — consistent with
-this KB already treating them as two independent inputs (current from
-wind/bathymetry per the mechanism chain above; tide from lunar/solar gravity
-in [tide and slack](tide-and-slack.md)). Worked example (the specific
-landmark names in this passage were garbled beyond reliable recovery by
-auto-captions and are omitted here, `asr-uncertain`): at **San Clemente
-Island**, two named spots close enough together to be a short run apart can
-show **opposite current directions on the same day** — one running toward
-San Diego (downhill), the other running uphill — with no explained cause
-("what caused that we don't know"). Framed as routine at SCI, not a rare
-anomaly.
+Current and tide have different physical causes and do not drive each other:
+current responds to wind and bathymetry (the mechanism chain above), tide to
+lunar/solar gravity ([tide and slack](tide-and-slack.md)) (`sIoNELGlxmk`). At
+San Clemente Island, two spots close enough together to reach in a short run
+can show opposite current directions on the same day — one running toward
+San Diego (downhill), the other running uphill — with no established cause;
+this is framed as routine at SCI, not a rare anomaly (`sIoNELGlxmk`). ⚠
+Flagged gap — no corpus source: mechanism.
 
-## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
+## Wind direction as a per-spot selection cue
 
-Alongside the current-vs-shore doctrine above, this presenter tracks **wind
-direction** as a second, related axis for choosing which spot on a list to
-fish that day: a set of spots is known to fish on a **southeast wind**, a
-different set on a **northwest wind**, layered against the **uphill-current /
-downhill-current / no-current** read covered above. The mechanism isn't
-stated in this transcript — plausibly proxying for which side of an island or
-point ends up sheltered, or for which way the wind is pushing the current the
-parallel rule cares about — but the practice itself is explicit: keep a
-per-spot record of which wind direction and which current direction each spot
-produces on, and match the day's read against that list rather than
-defaulting to the same spot regardless of conditions. Consistent with the
-spot-typology doctrine above ("each one has its own preferred directions")
-and the spatial-coherence principle below — read wind and current once, then
-check the reading against a known spot list rather than re-deriving it from
-scratch.
+Wind direction is a second axis for choosing which spot on a list to fish
+that day, layered against the uphill/downhill/no-current read above: a set
+of spots is known to fish on a **southeast wind**, a different set on a
+**northwest wind** (`xI9tPJFXbUM`). The mechanism is not stated in this
+source — plausibly proxying for which side of an island or point ends up
+sheltered, or for which way wind is pushing the current the parallel rule
+tracks. ⚠ Flagged gap — no corpus source: mechanism. The practice itself is
+explicit: keep a per-spot record of which wind direction and which current
+direction each spot produces on, and match the day's read against that list
+rather than defaulting to the same spot regardless of conditions
+(`xI9tPJFXbUM`). Consistent with the spot-typology doctrine above (each spot
+has its own preferred directions) and the spatial-coherence principle below.
 
 ## Spatial coherence of current
 
-Current direction is coherent across a region on a given day. If spot A ran
-direction X on a day a month ago, and spots C and D matched it that day, they
-will likely match again (Ep. 14). One current observation — a single HF-radar
-cell, or one on-water report — propagates across the whole day's spot list. This
-is cheap inference: read the current once, apply it to every spot you plan to
-touch, then confirm with the observables at each.
+Current direction is coherent across a region on a given day: if spot A and
+spots C and D shared a current direction on one day, expect them to match
+again the next time the pattern sets up (`0KQ--N5TjqE`). One current
+observation — a single HF-radar cell, or one on-water report — propagates
+across the whole day's spot list. Read the current once, apply it to every
+spot planned for that day, then confirm with the observables at each.
 
 ## Fathom-curve behavior at islands
 
-Where an island rises off the plain, the fathom curve is a structure feature in
-its own right. At **Catalina's ~500-fm curve**, the uphill current compresses as
-it climbs the slope, spins eddies, and aggregates both bait **and** kelp paddies
-along the curve. Worked example (8/31/22, the template to copy):
+Where an island rises off the plain, the fathom curve is a structure feature
+in its own right. At **Catalina's ~500-fm curve**, the uphill current
+compresses as it climbs the slope, spins eddies, and aggregates both bait
+**and** kelp paddies along the curve (`HnqiE05vdXs`).
+
+Worked example, the template to copy (`HnqiE05vdXs`, 2022-08-31):
 
 1. One popped fish near the curve.
-2. Identify the **structure that fish related to** — don't treat it as random.
-3. Run the curve **slowly** and wait. Do **not** sprint off to where the fleet
-   went.
+2. Identify the **structure that fish related to** — don't treat it as
+   random.
+3. Run the curve **slowly** and wait. Do **not** sprint off to where the
+   fleet went.
 4. Return to your own marked positions at tide time.
 
 The rule, nearly verbatim: **"sign associated with structure = a repeatable
-decision; sign in no-man's-land = low value."** A fish or a bird tied to a
-identifiable piece of structure gives you something you can come back to; the
-same sign in open water between features does not.
-
-## A single piece can carry more than one productive edge (Tackle Express)
-
-**Observed** (Tackle Express, `8fSGyJL2GHM`, "How to use depth charts to find
-biting fish," 2022-04-20; unregistered channel, single mention, no species or
-location named on camera — medium confidence): fishing one rock, the angler
-first took fish by casting over an inshore ridge on it, then repositioned to
-work the rock's **"outer footprint"** — the edge of its underwater outline,
-visible as an indentation on the chartplotter's depth chart — and kept getting
-bit there too, pointing to a distinctly **steep contour line** at that spot as
-"another real nice contour line that you can find them in." A small-scale
-analog of the fathom-curve doctrine above: don't treat a piece of structure as
-a single spot — its chartplotter contour lines can mark more than one
-productive edge (an inner ridge and an outer, steeper footprint edge), worth
-working in turn on the same piece before moving off it entirely.
+decision; sign in no-man's-land = low value"** (`HnqiE05vdXs`). A fish or a
+bird tied to an identifiable piece of structure gives something to come back
+to; the same sign in open water between features does not. A single piece of
+structure can carry more than one productive edge — an inner ridge and a
+steeper outer-footprint edge, both worth working in turn before moving off
+it entirely (`8fSGyJL2GHM`).
 
 ## Continental margin bathymetry (mechanism, generic — not SoCal-measured)
 
-Background vocabulary for reading a fathom curve, from an oceanography lecture
-(Crust to Coast, "Introduction to the Oceans," `Bab_6o7JFh4`, 2022-08-16;
-registered mechanism source per the source registry — global averages, not a
-SoCal measurement, and not fishing doctrine):
+Background vocabulary for reading a fathom curve, from an oceanography
+lecture (`Bab_6o7JFh4`):
 
 - **Continental shelf** — the shallow, flat, flooded edge of the continent;
   global average width ~43 miles (varies hugely — the Siberian Arctic shelf
   extends ~1,500 km/~700 mi). Biologically the richest ocean province because
-  it has both sunlight and nutrients.
+  it has both sunlight and nutrients (`Bab_6o7JFh4`).
 - **Shelf break** — the marked increase in slope angle between shelf and
   slope; global average depth ~443 ft (varies by location).
 - **Continental slope** — steeper than the shelf, average ~4° (range 1–25°),
-  running from the shelf break down to ~3,000–5,000 m (~9,800–16,400 ft, roughly
-  1,640–2,735 fathoms). Submarine canyons cut into the slope (e.g. Monterey
-  Canyon), carved by turbidity currents.
+  running from the shelf break down to ~3,000–5,000 m (~9,800–16,400 ft,
+  roughly 1,640–2,735 fathoms). Submarine canyons cut into the slope (e.g.
+  Monterey Canyon), carved by turbidity currents.
 - **Continental rise** — transitional zone between continental and oceanic
   crust, below the slope.
 - **Abyssal plain** — the deepest, flattest part of the ocean floor, from the
@@ -207,57 +178,47 @@ SoCal measurement, and not fishing doctrine):
   deep; flattened by settled marine sediment.
 
 Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
-~914 m, described above) sits on the continental-slope portion of this
-generic profile, consistent with it being a compression/eddy feature rather
-than a shelf or abyssal one. This is background mechanism only — it does not
+~914 m, described above, `HnqiE05vdXs`) sits on the continental-slope portion
+of this generic profile, consistent with it being a compression/eddy feature
+rather than a shelf or abyssal one. Background mechanism only — it does not
 change the fathom-curve doctrine above.
 
 ## Benthic biomass distribution — sunlight + nutrients co-location (background, generic)
 
-Background mechanism from an oceanography lecture (Crust to Coast, "Geology 5 -
-Animals of the Benthic Environment," `eg8IUjeWZx8`, 2022-11-09; registered
-mechanism source — global marine-biology lecture, not a SoCal measurement, and
-not fishing doctrine):
+Background mechanism from an oceanography lecture (`eg8IUjeWZx8`):
 
 - Of the ocean's ~240,000 known species, an estimated **98% are benthic**
-  (bottom-dwelling) versus ~2% pelagic, and that distribution is "extremely
-  one-sided" toward **coastlines and the shallow continental shelf**, with a
-  secondary concentration in polar regions during their respective summers.
-- Stated mechanism: all marine life needs energy that traces back to primary
-  producers, which need **both sunlight** (abundant near the surface) **and
-  nutrients** (delivered near coastlines by coastal upwelling, which lifts
-  nutrients from the deep ocean up to the lit surface layer). Coastlines are
-  where sunlight and upwelling-supplied nutrients co-locate, so that is where
-  biomass concentrates.
-- This is the same sunlight+nutrients logic already stated above for the
-  continental shelf ("Biologically the richest ocean province because it has
-  both sunlight and nutrients") and for the current-over-structure chain at
-  the top of this note — this lecture adds the global species-count framing
-  (98%/2%, ~240,000 known species) underneath that same mechanism, not a new
-  one.
-- The lecture's habitat-type taxonomy on the way to that point (rocky shore
-  vs. sediment-covered shore vs. attached kelp forest vs. deep-ocean/
-  hydrothermal-vent chemosynthetic communities) is generic global
-  marine-biology content, not a SoCal-specific parameter, and is not carried
-  further here.
+  (bottom-dwelling) versus ~2% pelagic, and that distribution skews heavily
+  toward **coastlines and the shallow continental shelf**, with a secondary
+  concentration in polar regions during their respective summers. (The
+  lecture's habitat-type taxonomy underneath this point — rocky shore vs.
+  sediment shore vs. kelp forest vs. deep-sea vent communities — is generic
+  and not carried further here.)
+- All marine life needs energy that traces back to primary producers, which
+  need **both sunlight** (abundant near the surface) **and nutrients**
+  (delivered near coastlines by coastal upwelling, which lifts nutrients from
+  the deep ocean up to the lit surface layer). Coastlines are where sunlight
+  and upwelling-supplied nutrients co-locate, so that is where biomass
+  concentrates.
+- Same sunlight+nutrients mechanism as the continental-shelf note above and
+  the current-over-structure chain at the top of this note; this lecture adds
+  the global species-count framing (98%/2%, ~240,000 known species)
+  underneath it, not a new mechanism.
 
 ## Surf-zone anatomy and longshore-current mechanism (background, generic)
 
-Background mechanism from an oceanography lecture (Crust to Coast, "Coastal
-Oceanography," `RuNH5O9olfw`, 2022-11-22; registered mechanism source — generic
-surf-zone physics, not a SoCal measurement, and not fishing doctrine):
+Background mechanism from an oceanography lecture (`RuNH5O9olfw`):
 
 - **Surf-zone zonation** (offshore → onshore): the **longshore bar** (a
   submerged sand ridge) and its **trough** sit in the nearshore; **breakers**
   crash in the **surf zone**; landward of that is the **foreshore**, then the
   **backshore**. The **swash zone** — where swash/backwash run up and down —
-  holds the **beach face**, which is the true **intertidal zone** (between
-  high and low tide). What people call "the beach" (chairs, towels) is
-  technically the **berm**, landward of the beach face, not the beach face
-  itself.
+  holds the **beach face**, the true **intertidal zone** (between high and
+  low tide). What people call "the beach" (chairs, towels) is technically the
+  **berm**, landward of the beach face, not the beach face itself.
 - **Seasonal beach-profile cycle:** winter storm waves strip sand off the berm
   and move it out to the longshore bar; summer's smaller waves redeposit that
-  sand from the bar back onto the berm. A beach's cross-shore sand profile
+  sand from the bar back onto the berm — a beach's cross-shore sand profile
   changes seasonally, independent of the day's tide.
 - **Longshore current mechanism:** California sits under the North Pacific
   subtropical gyre (clockwise in the Northern Hemisphere, Coriolis-driven),
@@ -265,7 +226,7 @@ surf-zone physics, not a SoCal measurement, and not fishing doctrine):
   south**. Waves approaching at an angle refract to run nearly parallel to
   shore; the resulting swash (pushed up-angle by the wave) / backwash (pulled
   straight down-slope by gravity) cycle walks sand — and anything floating —
-  in a net zig-zag in the current's direction, called **longshore drift**.
+  in a net zig-zag along the current's direction, called **longshore drift**.
   This is the generic mechanism under the parallel-current rule above: the
   coastal current's default long-run tendency is N→S, with local
   wind/swell/bathymetry producing the uphill (S→N) and no-current departures
@@ -276,24 +237,27 @@ surf-zone physics, not a SoCal measurement, and not fishing doctrine):
   accelerates" mechanism as the current-over-structure chain above, applied to
   a sand-bar gap rather than rock structure.
 
-This is background mechanism only — it does not add fishing doctrine or
-change any of the current/structure rules above.
+Background mechanism only — it does not add fishing doctrine or change any of
+the current/structure rules above.
 
-## How this drives the plan
+## How to use it in planning
 
-- Read the current vector once, apply it region-wide (spatial coherence), refine
-  per spot with [current diagnostics](current-diagnostics.md).
+- Read the current vector once, apply it region-wide (spatial coherence),
+  refine per spot with [current diagnostics](current-diagnostics.md).
 - Pick the up-current / lower face of banks; pick parallel-current coastal and
   island spots first.
-- Treat fresh cold-green upwelled water as a *later* asset, mature bloom edges as
-  a *now* asset.
-- Anchor decisions to structure-associated sign and to fathom curves at islands,
-  not to fleet chatter or open-water sign.
+- Treat fresh cold-green upwelled water as a *later* asset, mature bloom edges
+  as a *now* asset.
+- Anchor decisions to structure-associated sign and to fathom curves at
+  islands, not to fleet chatter or open-water sign.
 
 Seasonal overlays: [August](../seasonal/august.md) (peak dispersal, paddies),
 [October](../seasonal/october.md) (regime change — temp chart and chlorophyll
 become primary).
 
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/current-structure.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -334,6 +298,7 @@ become primary).
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)
 - [Evidence — Current Diagnostics](evidence/current-diagnostics.md)
+- [Evidence — Current Structure](evidence/current-structure.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)

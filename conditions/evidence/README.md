@@ -6,6 +6,7 @@
 
 - [Evidence — Bird Reading](bird-reading.md) — Per-source provenance backing Bird Reading.
 - [Evidence — Current Diagnostics](current-diagnostics.md) — Per-source provenance backing Current Diagnostics.
+- [Evidence — Current Structure](current-structure.md) — Per-source provenance backing Current Structure.
 <!-- index:end -->
 
 

@@ -408,4 +408,12 @@ harvested.
 | 209 bank | conditions/bird-reading.md | evidence — Terns | tern tip for anglers new to tuna fishing, 72°F water | `SczdZIq3UmE` |
 | 43 / San Clemente Island | conditions/bird-reading.md | evidence — Terns | bluefin tuna kelp-paddy trip where the individual-bird tern read was coached | `A6DJoXbID4c` |
 | 9 Mile Bank | conditions/bird-reading.md | evidence — Miscellaneous sightings | probable black-footed albatross sighted unusually close to shore, east of the bank | (cameron) |
+| San Onofre | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill→NW-corner / uphill→SE-corner rule; live worked example with fronds pointing toward San Diego reading as downhill current | `kzD0kSnnVPw`, `sIoNELGlxmk` |
+| Point Loma | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill→NW-corner / uphill→SE-corner rule | `kzD0kSnnVPw` |
+| La Jolla | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill→NW-corner / uphill→SE-corner rule | `kzD0kSnnVPw` |
+| San Clemente Island | conditions/current-structure.md | The parallel-current rule (coastal / island structure) | on 2022-11-23 bass bit only on current running into the island with off-color water present, ambushing against structure | `Z3rZqy2Pi8E` |
+| San Clemente Island | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill/uphill-corner rule | `kzD0kSnnVPw` |
+| San Clemente Island | conditions/current-structure.md | Current is independent of tide | two spots a short run apart show opposite current directions on the same day, framed as routine, not anomalous | `sIoNELGlxmk` |
+| Catalina | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill/uphill-corner rule, said to carry over to rock structure too | `kzD0kSnnVPw` |
+| Catalina | conditions/current-structure.md | Fathom-curve behavior at islands | ~500-fm curve compresses the uphill current, spins eddies, and aggregates bait and kelp paddies along the curve | `HnqiE05vdXs` |
 <!-- review:harvest:end -->
