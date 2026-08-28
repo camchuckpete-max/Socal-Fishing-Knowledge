@@ -78,6 +78,9 @@ SUBJ_EXEMPT_RE = re.compile(r"^review: (progress checkpoint|guard sweep fixups)"
 
 # Observed blocks appear bare, as bullets, indented, and blockquoted.
 OBSERVED_RE = re.compile(r"^[ \t>-]*\*\*Observed\*\*", re.M)
+# A passage Cameron has personally ruled on (templates/style-guide.md,
+# prompts/review-note.md rule 3a). Mirrors note_schema.FLAG_ADJUDICATED_RE.
+ADJUDICATED_RE = re.compile(r"⚠ adjudicated[ (]")
 # Evidence entries are one-line bullets carrying a backticked source id.
 EVIDENCE_ENTRY_RE = re.compile(r"^- .*`[A-Za-z0-9_-]{11}`", re.M)
 # Cited-source tokens: front-matter sources entries, backticked ids, and bare
@@ -270,6 +273,18 @@ def conservation_problems(sha: str, notes: list[str]) -> list[str]:
         probs.append(
             f"observation conservation: {obs_removed} **Observed** block(s) "
             f"removed but only {ev_added} evidence entrie(s) added")
+
+    # Adjudication conservation. Unlike an observation, an adjudicated passage
+    # has nowhere legitimate to go — Cameron ruled on it, so it stays put. Rule
+    # 3a asks a worker to preserve it; this is what makes that an invariant
+    # rather than a request, and it holds whether or not anyone is watching.
+    adj_before = sum(len(ADJUDICATED_RE.findall(before[p_] or "")) for p_ in pool)
+    adj_after = sum(len(ADJUDICATED_RE.findall(after[p_] or "")) for p_ in pool)
+    if adj_after < adj_before:
+        probs.append(
+            f"adjudication conservation: {adj_before - adj_after} "
+            f"⚠ adjudicated marker(s) removed — a passage Cameron ruled on "
+            f"cannot be dropped or re-flagged (prompts/review-note.md rule 3a)")
     return probs
 
 

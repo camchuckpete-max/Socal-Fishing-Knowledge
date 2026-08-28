@@ -357,6 +357,76 @@ def test_prose_that_looks_like_a_video_id_is_not_conserved() -> None:
     with_repo(body)
 
 
+ADJ_NOTE = """---
+type: conditions
+sources: [S2L3KLSQ6Is, cameron]
+---
+
+# Sea state
+
+- **Catalina Eddy shielding — east of Catalina and San Clemente.**
+  ⚠ adjudicated (Cameron, 2026-08-26).
+  The prevailing wind outside SoCal comes from the north, so the islands
+  shadow the water behind them; the 425 is shielded despite sitting well
+  south of San Clemente (`S2L3KLSQ6Is`, cameron).
+"""
+
+
+def test_dropping_an_adjudicated_marker_trips_conservation() -> None:
+    """Rule 3a is an instruction to a Sonnet worker; this makes it enforced.
+
+    Conservation protects the `cameron` cite token, not the wording — a
+    rewrite can keep the citation, drop the marker, and re-flag the passage
+    as an ordinary fact-check. Nothing caught that before.
+    """
+    def body(repo: Path) -> None:
+        note = repo / "conditions" / "sea-state.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text(ADJ_NOTE)
+        commit(repo, "seed sea-state")
+        note.write_text(ADJ_NOTE.replace(
+            "  ⚠ adjudicated (Cameron, 2026-08-26).\n", ""))
+        sha = commit(repo, "review: conditions/sea-state.md — standard")
+        probs = guard.conservation_problems(sha, ["conditions/sea-state.md"])
+        check("dropping the marker is a conservation violation",
+              any("adjudication conservation" in p for p in probs), True)
+    with_repo(body)
+
+
+def test_reflowing_an_adjudicated_passage_is_allowed() -> None:
+    """The marker is conserved; the prose around it may legitimately change."""
+    def body(repo: Path) -> None:
+        note = repo / "conditions" / "sea-state.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text(ADJ_NOTE)
+        commit(repo, "seed sea-state")
+        note.write_text(ADJ_NOTE
+                        .replace("The prevailing wind outside SoCal comes",
+                                 "Outside SoCal the prevailing wind comes")
+                        .replace("shadow the water behind them;",
+                                 "shadow the water behind them, and"))
+        sha = commit(repo, "review: conditions/sea-state.md — standard")
+        check("a reword that keeps the marker is clean",
+              guard.conservation_problems(sha, ["conditions/sea-state.md"]), [])
+    with_repo(body)
+
+
+def test_moving_a_marker_within_the_note_is_allowed() -> None:
+    """It is a count, not a position — restructuring a note must not trip it."""
+    def body(repo: Path) -> None:
+        note = repo / "conditions" / "sea-state.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text(ADJ_NOTE)
+        commit(repo, "seed sea-state")
+        moved = (ADJ_NOTE.replace("  ⚠ adjudicated (Cameron, 2026-08-26).\n", "")
+                 .rstrip() + "\n\n⚠ adjudicated (Cameron, 2026-08-26).\n")
+        note.write_text(moved)
+        sha = commit(repo, "review: conditions/sea-state.md — standard")
+        check("relocating the marker in the same note is clean",
+              guard.conservation_problems(sha, ["conditions/sea-state.md"]), [])
+    with_repo(body)
+
+
 def main() -> int:
     for fn in (test_geo_unit_may_regenerate_its_parents_child_list,
                test_geo_unit_may_not_edit_its_parents_prose,
@@ -367,14 +437,17 @@ def main() -> int:
                test_chunks_never_mix_models,
                test_dropping_a_cameron_attribution_trips_conservation,
                test_keeping_the_cameron_attribution_passes,
-               test_prose_that_looks_like_a_video_id_is_not_conserved):
+               test_prose_that_looks_like_a_video_id_is_not_conserved,
+               test_dropping_an_adjudicated_marker_trips_conservation,
+               test_reflowing_an_adjudicated_passage_is_allowed,
+               test_moving_a_marker_within_the_note_is_allowed):
         fn()
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("guard scope tests: 10 check groups OK")
+    print("guard scope tests: 13 check groups OK")
     return 0
 
 
