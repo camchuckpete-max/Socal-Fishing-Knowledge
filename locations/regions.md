@@ -140,7 +140,6 @@ conditions, the plan says so rather than substituting something out-of-region.
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
-- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Mexican waters](mexican-waters.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [Source Registry](../sources/source-registry.md)

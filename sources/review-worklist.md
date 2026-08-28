@@ -188,7 +188,7 @@ by their builders after the transform phase drains.
 | tackle/composite-rod-blank-construction.md | light | done | none | LIGHT-tier v2 migration: stripped channel-status/attribution boilerplate, plain-statement rewrite, added layout: v2 + corroborating cite 48ZFXnCTTQE; verified faithful, link-maintenance re-run for README index |
 | tackle/drag-setting.md | light | done | none | migrated to layout v2, per-source chronicle to 10 topical sections, house-style rewrite, evidence file split; verifier restored 2 dropped items (Carson's lever-drag method, Hansen's star-drag preference) |
 | tackle/gear-classes.md | light | done | none | rail-rod citation apparatus compressed to spec table, style-guide v2.1 fixes, layout v2 added, evidence file split; verified faithful, no information loss |
-| tackle/hook-assortment-by-trip-length.md | light | pending |  |  |
+| tackle/hook-assortment-by-trip-length.md | light | done | spots(2), asr-uncertain(Alijos Rocks/Mustad 94150) | LIGHT-tier v2 migration: meta-attribution/channel-status boilerplate removed, compact cites, layout: v2 added; verifier added evidence file for dropped presenter/confidence detail, spots logged |
 | tackle/hooks.md | light | pending |  |  |
 | tackle/jig-rod-rating-selection.md | light | pending |  |  |
 | tackle/jigging-rod-guide-wrap.md | light | pending |  |  |

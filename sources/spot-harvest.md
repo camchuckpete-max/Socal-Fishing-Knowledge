@@ -565,4 +565,6 @@ harvested.
 | San Clemente Island | fish-care/tuna-care.md | Bleed and gill-and-gut on the water | yellowtail-specific artery-cut bleed technique, ~5 min upside down in a bucket before icing | `Klfb433I3Uk` |
 | Cortez Bank | fish-care/tuna-care.md | Chill times by fish size | multi-day charter runs an onboard RSW fish hold at ~36°F instead of an ice slurry | `Y1xeieQI3B4` |
 | Santa Barbara Island (NE of) | fish-care/tuna-care.md | Estimating weight without a scale | crew estimated a big bluefin's weight with a tape measure and the length x girth^2 / 800 formula | `mDmbGdQAy-4` |
+| Guadalupe Island | tackle/hook-assortment-by-trip-length.md | Lead | named as one of the 5-6 day trip destinations most of the hook pack carries over to, for school-size tuna | `fg2v1kxoTMA` |
+| Alijos Rocks | tackle/hook-assortment-by-trip-length.md | Lead | asr-uncertain: rendered "Leos rocks" in captions, inferred from the 5-6 day school-size-tuna framing matching this corpus's other Alijos Rocks material; not confidently resolved beyond that inference | `fg2v1kxoTMA` |
 <!-- review:harvest:end -->
