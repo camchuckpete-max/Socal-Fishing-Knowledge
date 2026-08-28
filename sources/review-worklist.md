@@ -182,7 +182,7 @@ by their builders after the transform phase drains.
 | fish-care/tuna-care.md | light | done | misplaced(1) | layout v2 migration, evidence split, misplaced-content flagged + queued; verifier trimmed 4 out-of-scope net-new facts to stay within LIGHT-tier license |
 | fish-care/wahoo-handling.md | light | done | none | layout v2 migration, plain-statement rewrite; verifier fixed one meaning-drift (misattributed questioner's 5-10 count figure hardened into session doctrine) |
 | tackle/all-purpose-rod-line-rating.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored one dropped dorado link |
-| tackle/bluefin-50-80lb-bait-outfit-ladder.md | light | pending |  |  |
+| tackle/bluefin-50-80lb-bait-outfit-ladder.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored dropped '(lightest)' designation and a dropped reel-sizing cross-note comparison, removed self-narration |
 | tackle/bluefin-retail-setup-high-end-vs-budget.md | light | pending |  |  |
 | tackle/bluefin-rig-ladder-by-grade.md | light | pending |  |  |
 | tackle/composite-rod-blank-construction.md | light | pending |  |  |

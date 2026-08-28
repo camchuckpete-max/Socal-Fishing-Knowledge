@@ -441,7 +441,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bight Geography](../locations/bight-geography.md)
-- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](../tackle/bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
