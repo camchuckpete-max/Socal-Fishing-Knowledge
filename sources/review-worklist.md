@@ -85,7 +85,7 @@ by their builders after the transform phase drains.
 | techniques/wind-in-your-face-positioning.md | standard | transformed | none | transform verified - plain-statement rewrite conserves all before-facts via evidence-file split; no meaning drift |
 | techniques/yo-yo-iron.md | standard | transformed | misplaced(2), spinout(1) | transform verified with 3 conservation gaps found and fixed in-tree (two dropped top-technique attributed claims, one dropped colour pick) |
 | lures/bay-bass-plastics.md | standard | transformed | none | transform verified with 4 fixes (2 fabricated infobox numbers corrected, 2 dropped cross-refs restored) |
-| lures/cedar-plug.md | standard | pending |  |  |
+| lures/cedar-plug.md | standard | transformed | gaps(1), asr-uncertain(amp chobby pattern name) | transform applied, three named subsections compressed to plain-statement Color-and-finish section per v2.1 style, Specs table added, When-to-choose-it section added |
 | lures/crocodile-spoons.md | standard | pending |  |  |
 | lures/dtx-minnow.md | standard | pending |  |  |
 | lures/halco-laser-pro.md | standard | pending |  |  |
