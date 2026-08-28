@@ -3,6 +3,7 @@ type: conditions
 tags: [upwelling, turnover, chlorophyll, bloom-age, bightsst, SST, ekman, enso, primary-productivity]
 sources: [h3PTupup17I, cameron, 32TQdFJKIlI, zvU45nkhhuE]
 confidence: high
+layout: v2
 ---
 
 # Upwelling and Turnover
@@ -10,8 +11,8 @@ confidence: high
 Chlorophyll is not a yes/no signal — it has an **age**. This note is about
 reading that age: telling **fresh cold upwelled water** (bad now, productive
 later) from a **mature bloom edge** (fish now), and about **turnover** — the
-sharp regime flip that Cameron's model treats as the single most useful thing to
-forecast.
+sharp regime flip that the timing model below treats as the single most
+useful thing to forecast (cameron).
 
 ## Bloom age — the freshness interpretation
 
@@ -19,7 +20,7 @@ Upwelling is the front end of the food chain (mechanism in
 [current structure](current-structure.md)): current forced over structure lifts
 cold, nutrient-rich water, which greens up as phytoplankton bloom. But it takes
 time to climb the chain to gamefish, so **freshly upwelled water is cold, green,
-and bad *now*** (Landesfeind, Academy Ep. 1):
+and bad *now*** (`h3PTupup17I`):
 
 - **New cold bloom → avoid.** An overnight ~5 °F drop plus green water after an
   afternoon NW wind is a local upwelling event. Short-term negative — but **mark
@@ -33,26 +34,27 @@ So every chlorophyll pull needs the age question attached: *is this a new bloom
 Pair with [water color](water-color.md) and
 [water temperature](water-temperature.md).
 
-## Turnover — Cameron's doctrine (source `cameron`)
+## Turnover
 
-Cameron's turnover model, built from his BightSST work, sharpens the timing:
+The turnover model built on BightSST sharpens the timing (cameron):
 
 > **Fishing is best right *before* turnover** — the point where you get the sharp
 > SST drop and the chlorophyll spike. **The key model output is
 > time-to-turnover / the approach to it — not the turnover event itself.**
+> (cameron)
 
 In other words, the value is in forecasting *when* a spot is about to flip and
 being there in the window just ahead of it, rather than reacting after the SST
-has already crashed and the water has gone green. This runs in the same direction
-as the corpus bloom-age rule — the pre-turnover window is the mature-edge
+has already crashed and the water has gone green. This runs the same direction
+as the bloom-age rule above — the pre-turnover window is the mature-edge
 opportunity just before the water resets to a fresh cold bloom — and states it
 as a **timing target** the plan can aim at.
 
-### Cameron's BightSST upwelling / turnover model (reference, do not duplicate)
+### BightSST upwelling / turnover model (reference, do not duplicate)
 
-His platform ([BightSST](../locations/bightsst-eval-targets.md),
-`bightai-api.onrender.com`) is the system of record for the live signal — this KB
-references it, it does not reproduce it:
+[BightSST](../locations/bightsst-eval-targets.md) (`bightai-api.onrender.com`)
+is the system of record for the live signal — this KB references it, it does
+not reproduce it (cameron):
 
 - **Automated upwelling detection** and break detection (Canny/Sobel) on NOAA
   satellite SST, with multi-model SST per spot and frontness-vs-daily-stats.
@@ -63,29 +65,32 @@ references it, it does not reproduce it:
   list is the training universe.
 - **Known data quirk (`goes_west`):** a composite-window discrepancy
   (self-reported ~23 h vs. stated 12 h) and a cloud-contaminated `goes_west` NRT
-  max (96.6 °F) — **treat single-source SST extremes with suspicion.** This is an
-  open data-quality item Cameron flagged, not settled doctrine.
+  max (96.6 °F) — **treat single-source SST extremes with suspicion.** This is
+  an open data-quality item, not settled doctrine (cameron).
 
-## Wind-driven upwelling mechanism — Ekman transport (Crust to Coast, `32TQdFJKIlI`, 2022-10-05; registered mechanism source — global/textbook physics, not fishing doctrine)
+## Wind-driven upwelling mechanism — Ekman transport (mechanism, generic — not SoCal-measured)
 
-The "why" behind the NW-wind → upwelling link above: wind dragging on the
-surface layer is transmitted down through the water column, and the Coriolis
-effect turns each successively deeper layer (the **Ekman spiral**), producing a
-net surface-water transport rotated **90° to the right of the wind direction**
-in the Northern Hemisphere (**Ekman transport**; 90° left in the Southern
-Hemisphere). On a Northern-Hemisphere west coast like SoCal, a wind blowing
-**alongshore, north to south**, deflects 90° to its right — i.e. **offshore** —
-creating divergence at the coast that draws cold, nutrient-rich water up from
-below: coastal upwelling. Reverse the alongshore wind (south to north) and the
-same 90°-right deflection pushes surface water **into** the coast instead:
-downwelling, water piles up, productivity drops. This is the textbook mechanism
-underneath the corpus's afternoon-NW-wind upwelling event described above.
-(**Geostrophic currents** — the rotational flow set up where Ekman transport
-piles water into a bulge and gravity pulls it back down-slope — is the same
-family of mechanism; noted for vocabulary only, no SoCal-specific parameter
-attaches to it here.)
+Wind dragging on the surface layer is transmitted down through the water
+column, and the Coriolis effect turns each successively deeper layer (the
+**Ekman spiral**), producing a net surface-water transport rotated **90° to
+the right of the wind direction** in the Northern Hemisphere (**Ekman
+transport**; 90° left in the Southern Hemisphere) (`32TQdFJKIlI`). This is the
+mechanism behind the NW-wind → upwelling link above. On a Northern-Hemisphere
+west coast like SoCal, a wind blowing **alongshore, north to south**, deflects
+90° to its right — i.e. **offshore** — creating divergence at the coast that
+draws cold, nutrient-rich water up from below: coastal upwelling. Reverse the
+alongshore wind (south to north) and the same 90°-right deflection pushes
+surface water **into** the coast instead: downwelling, water piles up,
+productivity drops. This is the textbook mechanism underneath the
+afternoon-NW-wind upwelling event described above. (**Geostrophic currents** —
+the rotational flow set up where Ekman transport piles water into a bulge and
+gravity pulls it back down-slope — is the same family of mechanism; noted for
+vocabulary only, no SoCal-specific parameter attaches to it here.)
+(`32TQdFJKIlI`)
 
-## ENSO — El Niño / La Niña as a basin-scale upwelling modulator (Crust to Coast, `32TQdFJKIlI`, 2022-10-05; registered mechanism source, not fishing doctrine)
+## ENSO — El Niño / La Niña as a basin-scale upwelling modulator (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (`32TQdFJKIlI`):
 
 - **Baseline (Walker circulation):** trade winds pile warm water in the western
   Pacific; the eastern Pacific, including the SoCal/Baja coast, sits under a
@@ -93,7 +98,7 @@ attaches to it here.)
 - **El Niño:** trade winds weaken, the warm-water pool and its low-pressure cell
   shift east, the eastern Pacific thermocline deepens → **downwelling
   dominates → lower biological productivity on this coast**, even as warm water
-  intrudes. This is the productivity mechanism underneath the corpus's
+  intrudes. This is the productivity mechanism underneath the
   tropical-species-range-extension pattern documented elsewhere (e.g.
   [Pacific crevalle jack](../species/pacific-crevalle-jack.md),
   [yellowfin tuna](../species/yellowfin-tuna.md),
@@ -110,16 +115,16 @@ attaches to it here.)
 
 This operates on a basin-scale, multi-month-to-multi-year timescale — the
 long-range backdrop conditions sit within, distinct from and not a substitute
-for Cameron's day-to-day turnover model above or the live BightSST signal.
+for the day-to-day turnover model above or the live BightSST signal.
 
-## Why nutrients (not just warmth) trigger the bloom — primary production mechanism (Crust to Coast, "Geology 5 — Primary Productivity," `zvU45nkhhuE`, 2022-11-02; registered mechanism source — global/textbook biology, not fishing doctrine)
+## Why nutrients (not just warmth) trigger the bloom — primary production mechanism (mechanism, generic — not SoCal-measured)
 
 The biology underneath "upwelled water greens up as phytoplankton bloom" above:
 photosynthesis (phytoplankton using sunlight + CO2 + water to produce energy and
 oxygen) is the base of most marine food webs — plants/algae eaten by consumers,
 consumers eaten by consumers, up the chain. Two things drive **primary
-productivity**, and per the lecture **temperature and salinity are explicitly
-not the drivers** (ocean temperature is comparatively stable) — it is:
+productivity**; **temperature and salinity are explicitly not the drivers**
+(ocean temperature is comparatively stable) (`zvU45nkhhuE`) — it is:
 
 - **Light** — photosynthesis only runs in the sunlit euphotic zone; the rate
   falls with depth until the **compensation depth**, where respiration equals
@@ -142,14 +147,32 @@ not the drivers** (ocean temperature is comparatively stable) — it is:
 **Chemosynthesis — the non-photosynthetic alternate base of the food web:** at
 deep-sea hydrothermal vents ("black smokers," too deep for light), distinct
 microbial communities run **chemosynthesis** — using hydrogen sulfide instead
-of sunlight to produce sugars that feed a separate deep food web. Noted for
-vocabulary/completeness; it is a different mechanism from the photosynthesis-
-driven, upwelling-fed chlorophyll signal this note and
+of sunlight to produce sugars that feed a separate deep food web (`zvU45nkhhuE`).
+Noted for vocabulary/completeness; it is a different mechanism from the
+photosynthesis-driven, upwelling-fed chlorophyll signal this note and
 [water color](water-color.md) track, and no SoCal fishery parameter attaches to
 it here.
 
-Pull the live upwelling/turnover state from BightSST at plan time; use *this*
-note for how to interpret bloom age and how to aim for the pre-turnover window.
+## How to use it in planning
+
+- Attach the age question to every chlorophyll pull: a new post-wind cold-green
+  bloom (an overnight ~5 °F drop plus green water) is a **later** asset — mark
+  it and come back; a mature bloom edge, where green meets blue, is a **now**
+  asset (`h3PTupup17I`).
+- Aim for the pre-turnover window — the approach to the SST-drop /
+  chlorophyll-spike flip — rather than reacting after the water has already
+  turned over; time-to-turnover is the model output that matters, not the
+  turnover event itself (cameron).
+- Treat a single-source SST extreme (e.g. a cloud-contaminated `goes_west` NRT
+  read) with suspicion; cross-check another model before trusting an outlier
+  (cameron).
+- Read ENSO phase as the season's multi-month backdrop (El Niño → suppressed
+  coastal productivity, La Niña → elevated) — it sets the baseline the
+  day's BightSST read sits on top of, not a substitute for it.
+
+Pull the live upwelling/turnover state from [BightSST](../planning/day-plan-protocol.md)
+at plan time; use this note for how to interpret bloom age and how to aim for
+the pre-turnover window.
 
 
 <!-- backlinks:start -->

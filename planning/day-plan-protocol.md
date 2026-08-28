@@ -120,6 +120,7 @@ navigate the whole KB.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](trip-length-selection.md)
+- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

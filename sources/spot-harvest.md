@@ -429,4 +429,12 @@ harvested.
 | Point Loma | conditions/sea-state.md | SD Bay entrance swell exposure | blocks swell from west of the channel axis (186 degrees) | cameron |
 | Catalina Island | conditions/tide-and-slack.md | evidence — Arrival discipline | charter marked bluefin/dorado sign off the fathom curve on the backside but left before slack instead of waiting, boated only one fish | `5to3Q5P7w90` |
 | Catalina Island | conditions/tide-and-slack.md | evidence — Species tide-dependence | overnight anchored white seabass soak planned around a 4 a.m. slack turn | `Y2bXn44lfqo` |
+| La Jolla NW corner | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| 302 Bank | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Coronado Islands | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots; expanding to 6 separate eval locations, one per Coronado spot | cameron |
+| Mexican rockpile | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Pyramid Cove | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| 9 Mile Bank SD | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| 14 Mile Bank LA | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Cortes Bank | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
 <!-- review:harvest:end -->

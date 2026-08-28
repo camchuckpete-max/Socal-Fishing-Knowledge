@@ -139,7 +139,7 @@ by their builders after the transform phase drains.
 | conditions/moon.md | standard | transformed | gaps(1), spots(1), fact-check(1), conservation-fix, cite-fix | transform applied with fixes: restored dropped conflict-attribution (Capt. Dave Hansen) in 3 spots, removed one over-reaching citation, synced evidence-file source list |
 | conditions/sea-state.md | standard | transformed | spots(9), asr-uncertain(1) | transform verified - plain-statement rewrite, evidence split, and How-to-use section all conserve before-state facts; one meaning-drift wording fix applied |
 | conditions/tide-and-slack.md | standard | transformed | spots(2), cite-fix(1) | transform applied - evidence split (2 observations), cite Ep.15 -> OpcKQPA3vAI resolved, How to use it in planning section added, layout v2 added |
-| conditions/upwelling-and-turnover.md | standard | pending |  |  |
+| conditions/upwelling-and-turnover.md | standard | transformed | spots(8) | transform verified - attribution moved to cites/manifest, all before-content conserved, template skeleton + How to use it in planning section added compliantly, 0 dead links |
 | conditions/water-color.md | standard | pending |  |  |
 | conditions/water-regimes.md | standard | pending |  |  |
 | conditions/water-temperature.md | standard | pending |  |  |
