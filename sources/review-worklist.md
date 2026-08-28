@@ -80,7 +80,7 @@ by their builders after the transform phase drains.
 | techniques/two-speed-low-gear-fight.md | standard | transformed | none | 300->235 lines in note (observation/provenance split to a new 131-line evidence file), one self-narration phrase fixed in verify |
 | techniques/underhand-casting.md | standard | transformed | none | layout v2 migration, plain-statement rewrite, evidence split - no information loss, all 5 sources spot-checked and faithful |
 | techniques/wacky-rig.md | standard | transformed | gaps(1) | v2 migration faithful: evidence split, gap flag, and infobox fields all conserve prior content; no drift found |
-| techniques/wahoo-bomb-casting.md | standard | pending |  |  |
+| techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
 | techniques/wahoo-trolling.md | standard | pending |  |  |
 | techniques/wind-in-your-face-positioning.md | standard | pending |  |  |
 | techniques/yo-yo-iron.md | standard | pending |  |  |

@@ -363,4 +363,7 @@ harvested.
 | Northwest Harbor (San Clemente Island, front side) | techniques/swimbaits.md | evidence — The retrieve and the hookset | drop-to-bottom, 10-15 turns up, free-spool back down cadence once a producing spot was located | `iQLyBzhOSi8` |
 | Cedros Island, Baja | techniques/tube-bait-fishing.md | Yellowtail: surface pop-retrieve and a half-yo-yo variant | half-yo-yo tube-bait cadence fished into a yellowtail push moving through, on a group trip | `0HwYl0HO2tc` |
 | Coronado Islands | techniques/tube-bait-fishing.md | Yellowtail: surface pop-retrieve and a half-yo-yo variant | repeated follows with no takes on a 1-1.5 oz bait converted to committed eats after downsizing to 5/8 oz | `5Oh3IPIC5g4` |
+| Alijos Rocks | techniques/wahoo-bomb-casting.md | Mechanics | seven-day-and-longer trips reaching Alijos Rocks or "the Ridge" retrieve the bomb at the absolute highest rate of speed possible | `ETw_3AFxEcM` |
+| The Ridge | techniques/wahoo-bomb-casting.md | Mechanics | named alongside Alijos Rocks as the seven-day-and-longer destination for the wahoo-bomb retrieve-speed rule | `ETw_3AFxEcM` |
+| Alijos Rocks | techniques/wahoo-bomb-casting.md | evidence — Mechanics | wire-leadered Raider-class jig cast during a dorado boil and apparent hookup(s); gear corroboration only, not a confirmed wahoo catch | `_f5QmWSUUx8` |
 <!-- review:harvest:end -->
