@@ -121,7 +121,7 @@ by their builders after the transform phase drains.
 | rigging/rubber-band-deep-rig.md | standard | transformed | spots(3), asr-uncertain(leader 60-80lb Vol.55, hook knot Vol.104, placement-side Vol.84, build-ID Vol.71, hook model Vol.233) | transform verified: evidence split, v2 front matter, and Bralla-naming adjudication faithful; verifier restored 5 secondary numeric parameters (leader/top-shot lengths, sinker weights, one depth example) dropped during compression |
 | rigging/san-diego-jam-knot.md | standard | transformed | asr-uncertain(doubled-tie slide direction on VyFpIk-Na9Q; wetting-rationale caption inversion on VyFpIk-Na9Q) | transform verified: v2 skeleton, plain-statement rewrite, per-source citation compression, wrap-count/mechanic/naming/caution facts all traced from HEAD into AFTER; one dropped cross-reference link restored |
 | rigging/san-diego-jam-single-vs-double.md | standard | transformed | none | transform verified clean, minor README index regen applied |
-| rigging/seaguar-knot.md | standard | pending |  |  |
+| rigging/seaguar-knot.md | standard | transformed | conservation-loss(2, fixed), meaning-drift(1, fixed) | transform applied with fixes: restored two conservation losses (Cesar tenure figures, Improved Clinch Knot cross-link) and corrected a factually-wrong on-camera-naming claim introduced by the transform |
 | rigging/slim-beauty-knot.md | standard | pending |  |  |
 | rigging/springer-knot.md | standard | pending |  |  |
 | rigging/surgeons-knot-mono-to-fluoro.md | standard | pending |  |  |
