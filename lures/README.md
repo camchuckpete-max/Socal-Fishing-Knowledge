@@ -12,7 +12,7 @@
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Slender minnow-profile hardbaits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline rock and submerged structure in the Se
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, split by cross-section and how it falls.
-- [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A shallow-diving hard bait treated as the generic term for a surf minnow lure in SoCal beach halibut fishing (Tackle Express, E4CDqBFOaP8, 2025-12-23): "if you
+- [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A 110 mm shallow-diving hardbait, and the generic term SoCal surf anglers use for any minnow-type lure in this class: "if you call it a Lucky Craft to a surf an
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle

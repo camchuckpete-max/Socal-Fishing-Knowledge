@@ -92,7 +92,7 @@ by their builders after the transform phase drains.
 | lures/iron-jigs.md | standard | escalated |  | escalated: guard: out of scope for 'review: lures/iron-jigs.md': fish-care/dehooking-and-release.md |
 | lures/jerkbaits.md | standard | transformed | gaps(1) | transform verified with 2 in-tree fixes (hedge restored on spawn exception, invented clause removed; Current Sniper switch-timing specificity restored) |
 | lures/knife-jigs.md | standard | transformed | misplaced(1), spots(3) | transform verified with fixes: restored 6 dropped facts/quotes + 3 dropped cross-links, removed 1 fabricated detail, added 1 missing front-matter source id |
-| lures/lucky-craft-flash-minnow.md | standard | pending |  |  |
+| lures/lucky-craft-flash-minnow.md | standard | transformed | asr-uncertain(color-pattern count) | transform verified, one conserved-fact fix applied (Japan/California tackle contrast restored) |
 | lures/mad-mac.md | standard | pending |  |  |
 | lures/rapala-husky-magnum.md | standard | pending |  |  |
 | lures/soft-plastic-swimbaits.md | standard | pending |  |  |
