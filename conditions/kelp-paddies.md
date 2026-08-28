@@ -196,6 +196,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Kelp Paddies](evidence/kelp-paddies.md)
+- [Evidence — Moon](evidence/moon.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

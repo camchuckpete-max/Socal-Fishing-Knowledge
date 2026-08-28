@@ -136,7 +136,7 @@ by their builders after the transform phase drains.
 | conditions/current-structure.md | standard | transformed | gaps(2), spots(8), cite-correction | transform verified; conservation intact, style-v2 compliant, one fabricated/misattributed cite found and corrected in-tree (wrong video id for the SCI 2022-11-23 exception, now Z3rZqy2Pi8E) |
 | conditions/deep-scattering-layer.md | standard | transformed | spots(1) | transform applied - v2 skeleton, cites, evidence split, How to use it in planning section all faithful; link-maintenance regen applied as fix |
 | conditions/kelp-paddies.md | standard | transformed | none | transform verified: v2 split faithful, no info loss, 4/4 transcript spot-checks matched, check-note.py passed (1 non-blocking uncited-number WARN) |
-| conditions/moon.md | standard | pending |  |  |
+| conditions/moon.md | standard | transformed | gaps(1), spots(1), fact-check(1), conservation-fix, cite-fix | transform applied with fixes: restored dropped conflict-attribution (Capt. Dave Hansen) in 3 spots, removed one over-reaching citation, synced evidence-file source list |
 | conditions/sea-state.md | standard | pending |  |  |
 | conditions/tide-and-slack.md | standard | pending |  |  |
 | conditions/upwelling-and-turnover.md | standard | pending |  |  |

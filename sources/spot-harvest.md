@@ -417,4 +417,5 @@ harvested.
 | Catalina | conditions/current-structure.md | Kelp-bed corner selection by current direction | named example kelp bed for the downhill/uphill-corner rule, said to carry over to rock structure too | `kzD0kSnnVPw` |
 | Catalina | conditions/current-structure.md | Fathom-curve behavior at islands | ~500-fm curve compresses the uphill current, spins eddies, and aggregates bait and kelp paddies along the curve | `HnqiE05vdXs` |
 | Catalina | conditions/deep-scattering-layer.md | What to look for before you stop | a fish caught here held 30–40 regulation-sized mullet — read as an inshore-feeding outlier rather than DSL diet, since mullet don't live offshore | `yMiBtZ7k8-w` |
+| Ensenada | conditions/moon.md | Arrival events | new wave of bluefin arriving "out of the west" on the moon, distinct from fish already holding in U.S. waters | `Blh2BA-7Ono` |
 <!-- review:harvest:end -->
