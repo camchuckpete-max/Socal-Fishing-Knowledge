@@ -418,4 +418,13 @@ harvested.
 | Catalina | conditions/current-structure.md | Fathom-curve behavior at islands | ~500-fm curve compresses the uphill current, spins eddies, and aggregates bait and kelp paddies along the curve | `HnqiE05vdXs` |
 | Catalina | conditions/deep-scattering-layer.md | What to look for before you stop | a fish caught here held 30–40 regulation-sized mullet — read as an inshore-feeding outlier rather than DSL diet, since mullet don't live offshore | `yMiBtZ7k8-w` |
 | Ensenada | conditions/moon.md | Arrival events | new wave of bluefin arriving "out of the west" on the moon, distinct from fish already holding in U.S. waters | `Blh2BA-7Ono` |
+| East end of Catalina (ridge) | conditions/sea-state.md | Bathymetric slop hotspots | current-accelerated ridge stands the swell up for a few miles, lays down 3-4 mi past it | `zKmZ4zql2ws` |
+| San Nicolas Island | conditions/sea-state.md | Upstream fetch check | swell jumped 4 ft to 12 ft by Monday from an Oregon system days earlier despite calm local wind | `zKmZ4zql2ws` |
+| Point Conception | conditions/sea-state.md | Wind history, not just wind forecast | west/NW wind blows at night and stops by morning, a calm-dawn-reading trap for the crossing | `Z3rZqy2Pi8E` |
+| Santa Rosa Island | conditions/sea-state.md | Wind history, not just wind forecast / Santa Ana = northern-islands window | crossing held for 2+ consecutive days of no wind or Santa Ana; Santa Ana trigger for shallow rockfish/lingcod | `Z3rZqy2Pi8E`, `OYOda6T3f-8` |
+| San Miguel Island | conditions/sea-state.md | Wind history, not just wind forecast / Santa Ana = northern-islands window | crossing held for 2+ consecutive days of no wind or Santa Ana; Santa Ana trigger for shallow rockfish/lingcod | `Z3rZqy2Pi8E`, `OYOda6T3f-8` |
+| Avalon (Catalina) | conditions/sea-state.md | Santa Ana mechanics and Catalina return-trip risk | Santa Ana wind ran 25-45 kt straight into the harbor, waves breaking over the breakwater | `NC3-3pJDEgo` |
+| The 425 | conditions/sea-state.md | Unforecast-wind heuristics (Catalina Eddy shielding) | often shielded by the Catalina Eddy despite sitting far south of San Clemente | `S2L3KLSQ6Is`, cameron |
+| San Diego Bay entrance | conditions/sea-state.md | SD Bay entrance swell exposure | open to swell from roughly 160-186 degrees; channel seaward axis measured at 186 degrees | cameron |
+| Point Loma | conditions/sea-state.md | SD Bay entrance swell exposure | blocks swell from west of the channel axis (186 degrees) | cameron |
 <!-- review:harvest:end -->
