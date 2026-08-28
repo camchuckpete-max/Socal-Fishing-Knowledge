@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2215 flagged gaps, 347 flagged stubs, 1026 unknown infobox values._
+_Totals: 2218 flagged gaps, 347 flagged stubs, 1027 unknown infobox values._
 
 ## species/
 
@@ -379,6 +379,13 @@ _Totals: 2215 flagged gaps, 347 flagged stubs, 1026 unknown infobox values._
   - `Gear class`: gap — rod,
   - `Common failures`: gap — failure modes for glide baits at boiler
   - infobox `depth_band`: unknown
+- **techniques/inshore-crankbaits.md**
+  - `Thin areas`: gap — Wax Wing rigging or retrieve detail
+  - `Thin areas`: gap — dedicated lure notes for DD-class
+- **techniques/live-bait-pendulum-cast.md**
+  - `Gear class`: gap — whether line class changes achievable
+- **techniques/mangrove-structure-livebait.md**
+  - infobox `retrieve_speed`: unknown
 
 ## locations/
 

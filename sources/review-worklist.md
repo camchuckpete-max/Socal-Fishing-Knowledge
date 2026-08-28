@@ -817,4 +817,8 @@ by their builders after the transform phase drains.
 | locations/desperation-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/pendleton-artificial-reef.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/tanker-lanes-277-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/bolsa-chica.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cortez-bank-tanner-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/mag-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/shelter-island-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
