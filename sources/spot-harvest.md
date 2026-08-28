@@ -347,4 +347,7 @@ harvested.
 | Cedros Island | techniques/slow-trolling-bait.md | Cedros Island, Baja Pacific — a rest-break substitute for casting | bait-dock mackerel/sardine slow-troll worked as an arm-fatigue break from casting iron; 15 in mackerel | `_C7TJoGT0nw` |
 | Newport Harbor | techniques/spinnerbaits.md | Reach for this when / Newport Harbor plan — grass vs. docks | War Baits 1 oz HD spinnerbait fished shore-pounding shallow eelgrass flats (10-12 ft), paired with a downsized PK3 swimbait; switches to docks/pilings when the water runs clear | `XyKF34C5iB4` |
 | San Diego Bay | techniques/spinnerbaits.md | Reach for this when | named alongside Newport Harbor as a bay where the 1 oz spinnerbait/crankbait two-bait plan is the day-long confidence program | `XyKF34C5iB4` |
+| Cortez Bank | techniques/surface-iron-casting.md | evidence — Mechanics | rail-mate coaching on casting direction so as not to foul a hooked angler's line | `eL1Qm33-Mj0` |
+| Coronado Islands | techniques/surface-iron-casting.md | evidence — Mechanics | rail-mate coaching on laying the reel on its side through the cast | `ejUTAnONf7o` |
+| Cedros Island | techniques/surface-iron-casting.md | evidence — Aim | individually spotted yellowtail sight-cast directly on the iron, hookups within a couple of casts | `6EDQtQHEwFE` |
 <!-- review:harvest:end -->

@@ -40,7 +40,7 @@
 - [Speed Trolling](speed-trolling.md) **[SoCal only]** — Execution for pulling a fast-tracking hard bait to locate bluefin and pull a bite over water you can't otherwise cover.
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md) **[SoCal only]** — A freshwater-bass-style spinnerbait crossed over onto SoCal harbor/bay structure for spotted bay bass and the mixed bag sharing the grass with them.
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md) — Closing the bail and coming tight to the lure the instant a cast lands prevents the wind knots a spinning reel loaded with braid gets when slack line is left bl
-- [Surface Iron — The Cast](surface-iron-casting.md) — The cast is the half of surface iron that decides whether you get a shot at all, and it outgrew the parent note.
+- [Surface Iron — The Cast](surface-iron-casting.md) — The cast is the half of surface iron that decides whether you get a shot at all — a cast that reaches the fish out-produces a short cast every time, live bait o
 - [Surface Iron — Colour](surface-iron-color.md) — The short answer from the most experienced voice in the corpus: colour is not the variable you think it is.
 - [Surface Iron](surface-iron.md) — Long-cast a heavy chrome/painted iron on a jig-stick and swim it back near the surface with a steady grind, varying speed to trigger the bite.
 - [Swimbaits](swimbaits.md) — Execution for soft-plastic swimbaits and slugs on kelp and reef bass.

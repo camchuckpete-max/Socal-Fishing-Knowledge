@@ -476,6 +476,7 @@ current "should" carry everything astern.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
