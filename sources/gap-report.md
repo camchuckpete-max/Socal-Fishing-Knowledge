@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2218 flagged gaps, 347 flagged stubs, 1027 unknown infobox values._
+_Totals: 2222 flagged gaps, 347 flagged stubs, 1029 unknown infobox values._
 
 ## species/
 
@@ -386,6 +386,15 @@ _Totals: 2218 flagged gaps, 347 flagged stubs, 1027 unknown infobox values._
   - `Gear class`: gap — whether line class changes achievable
 - **techniques/mangrove-structure-livebait.md**
   - infobox `retrieve_speed`: unknown
+- **techniques/panga-team-trolling.md**
+  - `Common failures`: gap — the 39-second source clip states the role
+  - infobox `depth_band`: unknown
+  - infobox `retrieve_speed`: unknown
+- **techniques/rail-etiquette.md**
+  - `Know your neighbors before you need them`: gap — what specifically the
+- **techniques/skip-jigging.md**
+  - `Gear class`: gap — reel gear ratio, rod action, or a general
+  - `Common failures`: gap — failure modes for skip jigging (e.g.,
 
 ## locations/
 

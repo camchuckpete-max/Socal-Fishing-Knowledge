@@ -821,4 +821,5 @@ by their builders after the transform phase drains.
 | locations/cortez-bank-tanner-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/mag-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/shelter-island-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/port-of-long-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
