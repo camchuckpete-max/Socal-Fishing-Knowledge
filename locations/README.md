@@ -133,7 +133,7 @@
 - [Bell Bank (300)](bell-bank-300.md) **[Baja only]** — A charted spot at 31°36.300'N 118°55.800'W (cameron), in the The Pistol / Bell Bank (300) zone.
 - [Ben Weston Point](ben-weston-point.md) **[SoCal only]** — A charted spot at 33°21.512'N 118°29.637'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Bight Geography](bight-geography.md) **[SoCal only]** — The big-picture map of the Southern California Bight for planning: which zones the NW wind wrecks and which ride it out, the path the warm water band tracks thr
-- [BightSST Eval Targets](bightsst-eval-targets.md) **[SoCal only]** — The named evaluation spots Cameron's BightSST platform uses to test its upwelling / turnover detection — a fixed, small set of locations the model is scored aga
+- [BightSST Eval Targets](bightsst-eval-targets.md) **[SoCal only]** — BightSST scores its upwelling/turnover detection model against a fixed, small set of named evaluation spots (cameron).
 - [Billy's Bluff](billy-s-bluff.md) **[Baja only]** — A charted spot at 31°37.120'N 116°40.540'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [Bird Rock Reef (stay W of MPA at 118 29.300)](bird-rock-reef.md) **[SoCal only]** — A charted spot at 33°27.120'N 118°29.330'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Blockhouse](blockhouse.md) **[SoCal only]** — A charted spot at 33°16.875'N 119°29.313'W (cameron), in the San Nicolas Island zone.

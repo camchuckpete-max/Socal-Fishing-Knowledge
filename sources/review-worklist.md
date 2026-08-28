@@ -160,7 +160,7 @@ by their builders after the transform phase drains.
 | locations/bass-structure.md | standard | transformed | gaps(2), spots(7), asr-uncertain(4) | locations/evidence/bass-structure.md / transform applied, faithful to source, zero information loss; escalated for a type-taxonomy decision affecting 7 pending sibling notes (universal locations/ knowledge forced into spot-page type:location skeleton with parent:unknown) |
 | locations/bays-and-harbors.md | standard | transformed | gaps(1), misplaced(0), spots(3), reg-claims(0), asr-uncertain(none) | transform verified, 2 fixes applied (cite corroboration + restored dropped depth figure) |
 | locations/bight-geography.md | standard | transformed | gaps(3), misplaced(0), spots(16), reg-claims(0) | transform verified: conservation clean, new OYOda6T3f-8 claims spot-checked against transcript, v2 infobox/sections match template and prior precedent |
-| locations/bightsst-eval-targets.md | standard | pending |  |  |
+| locations/bightsst-eval-targets.md | standard | transformed | gaps(2), spots(10) | transform verified faithful, zero information loss, mechanically clean; escalated (repeat of open bass-structure.md taxonomy question) |
 | locations/breakwalls-jetties-riprap.md | standard | pending |  |  |
 | locations/cedros-island.md | geo | transformed | gaps:12 stubs:3 fc:1 | zone page (was type: location) from 44 sources, census zone 'Cedros / San Benitos'; no charted spots in the library; absorbed the queued Yellow Tail triangle geography; evidence file carries 44 observation lines and the Tackle Express gear cross-links |
 | locations/island-structure.md | standard | pending |  |  |

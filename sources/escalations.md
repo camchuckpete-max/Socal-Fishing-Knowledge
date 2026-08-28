@@ -218,3 +218,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T17:04:44Z — locations/bass-structure.md — verify-escalate
 - run: 33185502215
 - reason: Cameron should decide whether universal cross-zone notes in locations/ (bass-structure.md + 7 pending siblings: bays-and-harbors, bight-geography, bightsst-eval-targets, breakwalls-jetties-riprap, island-structure, regions, sea-of-cortez, zone-lexicon) get a distinct type (or a template amendment) instead of being forced into the spot-page type:location skeleton with parent:unknown and a gap-flagged, inapplicable ## Getting there — mechanically valid but sets a copy-paste precedent for 7 more notes and contradicts note_schema.py's own comment that unknown is not a legal value for parent.
+
+## 2026-08-28T17:38:57Z — locations/bightsst-eval-targets.md — verify-escalate
+- run: 33193047394
+- reason: Same open type-taxonomy question as the bass-structure.md escalation (sources/escalations.md, 2026-08-28T17:04:44Z), which names this note as one of 7 pending siblings — forces a universal cross-zone reference index into the spot-page type:location skeleton with parent:unknown and two structurally-inapplicable sections flagged as corpus gaps. Not introduced by this patch; Cameron still needs to rule on it before the remaining 6 siblings repeat it.

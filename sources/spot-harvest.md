@@ -520,4 +520,14 @@ harvested.
 | Catalina Island | locations/bight-geography.md | How it fishes | best paddy water lies south of SCI/Catalina | `HzE4FHHcvTk` |
 | Dana Point | locations/bight-geography.md | How it fishes | paddy water runs the coastal strip Dana Point to Oceanside and south | `HzE4FHHcvTk` |
 | Oceanside | locations/bight-geography.md | How it fishes | paddy water runs the coastal strip Dana Point to Oceanside and south | `HzE4FHHcvTk` |
+| La Jolla NW Corner | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| 302 Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Coronado Islands | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 eval spots, being split into its 6 individual island spots as separate eval locations | cameron |
+| Mexican Rockpile | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Pyramid Cove | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| 9 Mile Bank (San Diego) | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 eval spots, later split into North + South 9 Mile Bank | cameron |
+| North 9 Mile Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | eval spot in the ~14-location expansion, split off 9 Mile Bank (San Diego) | cameron |
+| South 9 Mile Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | eval spot in the ~14-location expansion, split off 9 Mile Bank (San Diego) | cameron |
+| 14 Mile Bank (LA) | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Cortes Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
 <!-- review:harvest:end -->

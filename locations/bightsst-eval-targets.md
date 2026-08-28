@@ -5,21 +5,41 @@ sources: [cameron]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+parent: unknown
+structure_type: unknown — a named reference list spanning every structure type in the eval set (island, bank, nearshore); not one physical spot, see each named spot's own page for its structure
+depth_band: unknown — not a single depth-banded spot
+distance_nm: unknown — not measured from one launch point; a fixed reference list, not a trip
 ---
 
 # BightSST Eval Targets
 
-The **named** evaluation spots Cameron's [BightSST](https://bightai-api.onrender.com)
-platform uses to test its upwelling / turnover detection — a fixed, small set of
-locations the model is scored against. This note holds the **names only** (no
-coordinates) so the KB can reference the eval set; the live conditions and model
-output are BightSST's job, not the KB's. The mechanism these spots test —
-upwelling, the sharp SST drop and chlorophyll spike, and the approach to
-turnover — is in [upwelling and turnover](../conditions/upwelling-and-turnover.md).
+[BightSST](https://bightai-api.onrender.com) scores its upwelling/turnover
+detection model against a fixed, small set of **named evaluation spots**
+(cameron). This note holds the eval set's names only — no coordinates — so the
+KB can reference the set without duplicating BightSST's live output, which
+stays that platform's job. The mechanism under test — upwelling, the sharp
+SST drop plus chlorophyll spike, and the approach to turnover — is
+[upwelling and turnover](../conditions/upwelling-and-turnover.md)'s doctrine,
+not repeated here.
 
-## The original 8 eval spots
+## Getting there
 
-The upwelling/turnover model started on 8 eval spots (Cameron, memory §10):
+This is a universal reference list, not a single spot — it carries no launch
+point or transit leg of its own. Getting-there detail for a named eval spot
+lives on that spot's own gazetteer page where one exists.
+
+⚠ Flagged gap — no corpus source: transit/launch detail (not applicable —
+this note indexes a modeling target list, not a spot to fish).
+
+## Structure & bathymetry
+
+This entry is the list itself, not one structure — each member spot's own
+bank/island/reef makeup lives on its own page.
+
+### The original 8 eval spots
+
+The upwelling/turnover model started on 8 named eval spots (cameron):
 
 1. La Jolla NW Corner
 2. 302 Bank
@@ -30,27 +50,40 @@ The upwelling/turnover model started on 8 eval spots (Cameron, memory §10):
 7. 14 Mile Bank (LA)
 8. Cortes Bank
 
-## Expanding to ~14
+### Expanding to ~14
 
-The **Coronado Islands** entry is being split into **each of the 6 Coronado
-Islands spots individually**, because conditions vary a lot across that group —
-one averaged reading hides the spread. That expansion takes the set from 8 to
-**~14** eval locations. In the spot-file the split is recorded as: 14 Mile Bank,
-North + South 9 Mile Bank, Cortes Bank, 302, La Jolla NW Corner, Rockpile,
-Pyramid Cove, and each of the 6 Coronado Islands spots.
+The Coronado Islands entry is split into each of the **6 Coronado Islands
+spots individually**, because conditions vary enough across that group that
+one averaged reading hides the spread (cameron). That expansion takes the set
+from 8 to **~14** eval locations: 14 Mile Bank, North + South 9 Mile Bank,
+Cortes Bank, 302, La Jolla NW Corner, Rockpile, Pyramid Cove, and each of the
+6 Coronado Islands spots (cameron).
 
-## The training universe
+⚠ Flagged gap — no corpus source: per-spot depth/bathymetry detail for each
+eval location; see the individual spot pages where charted.
 
-Behind the eval set sits a **~125-bank list** — the training universe of SoCal
-banks and structures the model draws on. The eval spots are the scored subset;
-the 125-bank list is the full population. Cameron holds ~13 years of local SST,
-chlorophyll, tide, wind, swell, and historical fish-count data for this modeling
-(memory §10).
+## What's there
 
-Cameron's turnover doctrine, which these evals are built to serve: **fishing is
-best right before turnover** — the sharp SST drop plus chlorophyll spike — so the
-key model output is **time-to-turnover / the approach**, not the turnover event
-itself. This is captured as doctrine in
+⚠ Flagged gap — no corpus source: not applicable — this note tracks modeling
+targets, not species presence. See each named spot's own page and the
+relevant species router for what's there.
+
+## How it fishes
+
+### The training universe
+
+Behind the eval set sits a **~125-bank list** — the training universe of
+SoCal banks and structures the model draws on; the eval spots are the scored
+subset, the 125-bank list is the full population (cameron). The model draws on
+roughly 13 years of local SST, chlorophyll, tide, wind, swell, and historical
+fish-count data (cameron).
+
+### What the evals are built to serve
+
+The eval set is built to serve one piece of doctrine: fishing is best right
+before turnover — the sharp SST drop plus chlorophyll spike — so the model's
+key output is time-to-turnover / the approach, not the turnover event itself
+(cameron). Full doctrine and how to use it in planning:
 [upwelling and turnover](../conditions/upwelling-and-turnover.md).
 
 
