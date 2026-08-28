@@ -26,6 +26,7 @@
 - [Evidence — Sliding Sinker](sliding-sinker.md) — Trip reports and per-source provenance backing sliding sinker.
 - [Evidence — Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Per-source provenance backing slow-pitch jigging.
 - [Evidence — Slow-Trolling Live Bait](slow-trolling-bait.md) — Per-source provenance backing slow-trolling live bait.
+- [Evidence — Spinnerbaits (Bay Bass)](spinnerbaits.md) — Per-source provenance backing spinnerbaits.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 

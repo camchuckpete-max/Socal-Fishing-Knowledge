@@ -38,7 +38,7 @@
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Work an asymmetric metal jig so it flutters on the fall like a wounded, dying baitfish — the fall is the trigger, not the retrieve.
 - [Slow-Trolling Live Bait](slow-trolling-bait.md) — Pull a live bait behind a moving boat slowly enough that it swims naturally rather than being dragged.
 - [Speed Trolling](speed-trolling.md) **[SoCal only]** — Execution for pulling a fast-tracking hard bait to locate bluefin and pull a bite over water you can't otherwise cover.
-- [Spinnerbaits (Bay Bass)](spinnerbaits.md) **[SoCal only]** — A freshwater-bass-style spinnerbait crossed over onto SoCal harbor/bay structure for spotted bay bass and the mixed bag that shares the grass with them.
+- [Spinnerbaits (Bay Bass)](spinnerbaits.md) **[SoCal only]** — A freshwater-bass-style spinnerbait crossed over onto SoCal harbor/bay structure for spotted bay bass and the mixed bag sharing the grass with them.
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md) — A casting-technique cause of wind knots on a spinning reel, distinct from the spool-setup causes covered in spooling line — tension and twist.
 - [Surface Iron — The Cast](surface-iron-casting.md) — The cast is the half of surface iron that decides whether you get a shot at all, and it outgrew the parent note.
 - [Surface Iron — Colour](surface-iron-color.md) — The short answer from the most experienced voice in the corpus: colour is not the variable you think it is.

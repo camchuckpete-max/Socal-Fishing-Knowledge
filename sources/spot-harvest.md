@@ -345,4 +345,6 @@ harvested.
 | Bahía de los Ángeles (BOLA) | techniques/slow-pitch-jigging.md | Jig weight & selection | single trip fished 130–250 g wing-fall jigs at 150–180 ft on a high spot cresting 150–300 ft | `vqsD0qpwcJA` |
 | Ensenada (Pacific side) | techniques/slow-pitch-jigging.md | evidence — Reach for this when | slow-pitch stop over a sounder-marked ~300 ft rocky bottom after a yellowtail stop went quiet | `0dIwWiOc1NY` |
 | Cedros Island | techniques/slow-trolling-bait.md | Cedros Island, Baja Pacific — a rest-break substitute for casting | bait-dock mackerel/sardine slow-troll worked as an arm-fatigue break from casting iron; 15 in mackerel | `_C7TJoGT0nw` |
+| Newport Harbor | techniques/spinnerbaits.md | Reach for this when / Newport Harbor plan — grass vs. docks | War Baits 1 oz HD spinnerbait fished shore-pounding shallow eelgrass flats (10-12 ft), paired with a downsized PK3 swimbait; switches to docks/pilings when the water runs clear | `XyKF34C5iB4` |
+| San Diego Bay | techniques/spinnerbaits.md | Reach for this when | named alongside Newport Harbor as a bay where the 1 oz spinnerbait/crankbait two-bait plan is the day-long confidence program | `XyKF34C5iB4` |
 <!-- review:harvest:end -->
