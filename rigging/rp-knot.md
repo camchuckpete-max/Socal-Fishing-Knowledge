@@ -164,4 +164,5 @@ Knots](essential-knots.md#tie-it) for those multi-knot clips.
 
 - [Essential SoCal Knots](essential-knots.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
+- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
 <!-- backlinks:end -->

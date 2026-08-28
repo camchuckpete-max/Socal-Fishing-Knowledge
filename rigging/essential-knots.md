@@ -276,7 +276,6 @@ Per-source provenance: [evidence file](evidence/essential-knots.md).
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
-- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)

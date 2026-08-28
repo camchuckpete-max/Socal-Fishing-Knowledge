@@ -15,6 +15,7 @@
 - [Evidence — Haywire Twist](haywire-twist.md) — Per-source provenance backing Haywire Twist.
 - [Evidence — Hollow-Core Splice & Serving](hollow-splice-and-serving.md) — Per-source provenance backing Hollow-Core Splice & Serving.
 - [Evidence — Leadhead Mods & Rigging](leadhead-mods.md) — Trip reports and per-source provenance for leadhead-mods.md.
+- [Evidence — PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md) — Per-source provenance for PR Knot, including the duplicate/re-cut relationship across four video ids that are very likely one interview appearance.
 <!-- index:end -->
 
 

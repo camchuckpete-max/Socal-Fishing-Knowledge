@@ -116,7 +116,7 @@ by their builders after the transform phase drains.
 | rigging/john-collins-knot.md | standard | transformed | none | transform verified, two defects fixed in-tree (restored Tony Pena mechanism comparison; corrected false clip-duration claim) |
 | rigging/leadhead-mods.md | standard | transformed | gaps(1), spots(4), asr-uncertain(leader connection name on the actively-cast squid rig) | transform verified, apply-with-changes: restored two dropped source-provenance entries + a quote/ASR-caveat to evidence file, cleaned two meta-attribution phrasings |
 | rigging/perfection-loop-knot.md | standard | transformed | gaps(1) | transform verified, one hedge-hardened-to-fact drift fixed in tree |
-| rigging/pr-knot.md | standard | pending |  |  |
+| rigging/pr-knot.md | standard | transformed | gaps(1) | transform applied with link-maintenance backlink regen; evidence split conserved all four-video duplicate analysis, no content loss or drift |
 | rigging/rp-knot.md | standard | pending |  |  |
 | rigging/rubber-band-deep-rig.md | standard | pending |  |  |
 | rigging/san-diego-jam-knot.md | standard | pending |  |  |
