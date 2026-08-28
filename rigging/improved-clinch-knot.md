@@ -252,6 +252,7 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [Evidence — Essential SoCal Knots](evidence/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)

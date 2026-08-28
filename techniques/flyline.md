@@ -833,6 +833,7 @@ confidence.
 - [Evidence — California Sheephead](../species/evidence/sheephead.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
+- [Evidence — Essential SoCal Knots](../rigging/evidence/essential-knots.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

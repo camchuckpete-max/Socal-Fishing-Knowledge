@@ -107,7 +107,7 @@ by their builders after the transform phase drains.
 | rigging/cut-loop-dropper.md | standard | transformed | gaps(2), spots(1), asr-uncertain(place name) | verified transform - attribution preamble correctly retired to machine layer, all doctrine/parameters conserved and paraphrased, template gap-flags added, 3 transcript spot-checks confirmed, 0 dead links |
 | rigging/double-trouble-rig.md | standard | transformed | spots(2) | transform verified clean: full conservation, 4 transcript spot-checks passed, only fix was a missed link-maintenance regen |
 | rigging/dropper-loop-knot-and-spider-hitch.md | standard | transformed | none | transform verified clean: presenter-framing removed, cites added, all parameters and the halibut-rig ambiguity note conserved |
-| rigging/essential-knots.md | standard | pending |  |  |
+| rigging/essential-knots.md | standard | transformed | asr-uncertain(worm knot ~10-wrap count, uneven on-camera tally, mpcSgkQvIzg) | transform verified, one conservation gap fixed (restored dropped Palomar line-loss detail to evidence) |
 | rigging/fg-and-albright.md | standard | pending |  |  |
 | rigging/flying-fish-harness.md | standard | pending |  |  |
 | rigging/haywire-twist.md | standard | pending |  |  |

@@ -457,6 +457,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
+- [Evidence — Essential SoCal Knots](../rigging/evidence/essential-knots.md)
 - [Evidence — Swimbaits](evidence/swimbaits.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

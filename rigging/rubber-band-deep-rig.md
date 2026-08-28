@@ -830,6 +830,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Essential SoCal Knots](evidence/essential-knots.md)
 - [Evidence — Sliding Sinker](../techniques/evidence/sliding-sinker.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Guadalupe](../locations/guadalupe.md)
