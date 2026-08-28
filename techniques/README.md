@@ -30,7 +30,7 @@
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Night bass fishing targets calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" (XyKF34C5iB4) — bigger, more
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
-- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — (Carl, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — Rail etiquette is the verbal counterpart to windward-side rail positioning: where that note is the mechanism for where your body and line go, this is what to sa
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — (Fred, SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Skip Jigging](skip-jigging.md) — Skip jigging is a topwater cast-and-burn presentation: instead of swimming a lure through the water column, the lure is made to skip and skitter ACROSS the surf

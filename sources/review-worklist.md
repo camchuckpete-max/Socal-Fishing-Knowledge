@@ -61,7 +61,7 @@ by their builders after the transform phase drains.
 | techniques/ned-rig.md | standard | transformed | none | transform verified, one smuggled-specificity fix applied (baitcast to heavier tackle/drag near max) |
 | techniques/night-bass-fishing.md | standard | transformed | spots(1) | restructured to v2 skeleton, dissolved source-named heading, stripped meta-attribution to evidence, added Common failures + infobox fields; verifier fixed fabricated retrieve_speed claim |
 | techniques/panga-team-trolling.md | standard | transformed | gap(common-failures) | attribution preamble moved to machine layer, added Gear class + Common failures + species-applications, infobox fields added |
-| techniques/rail-etiquette.md | standard | pending |  |  |
+| techniques/rail-etiquette.md | standard | transformed | gaps(1) | attribution preamble split to evidence file, plain-statement rewrite, v2 skeleton sections added, all claims traced to source |
 | techniques/rockfish-deep-dropping.md | standard | pending |  |  |
 | techniques/rod-handling-live-bait.md | standard | pending |  |  |
 | techniques/skip-jigging.md | standard | pending |  |  |
