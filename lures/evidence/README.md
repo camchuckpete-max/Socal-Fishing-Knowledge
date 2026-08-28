@@ -12,6 +12,7 @@
 - [Evidence — Rapala Husky Magnum](rapala-husky-magnum.md) — Trip reports and per-source provenance backing Rapala Husky Magnum.
 - [Evidence — Spreader Bar](spreader-bar.md) — Trip reports and per-source provenance for Spreader Bar.
 - [Evidence — Tube Baits (HookUp Baits)](tube-baits.md) — Trip reports and per-source provenance backing Tube Baits (HookUp Baits).
+- [Evidence — Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) — Trip reports and per-source provenance for Tuna Feathers and Skirts.
 <!-- index:end -->
 
 

@@ -18,7 +18,7 @@
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle
 - [Spreader Bar](spreader-bar.md) — A spreader bar is a rigid horizontal bar carrying a teaser school of hookless squids or birds with one stinger lure trailing on the center line — it presents as
 - [Tube Baits (HookUp Baits)](tube-baits.md) — A tube bait is a soft plastic with the lead head molded inside the body — head inside the plastic, not a bare jig head threaded with a plastic trailer (cameron).
-- [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) **[SoCal only]** — Feathers and soft skirts are the West Coast trolling staple — a weighted or bullet head trailing a skirt over a hook, presenting as a small squid or bait.
+- [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) **[SoCal only]** — Feathers and soft skirts are the West Coast trolling staple — a weighted or bullet head trailing a skirt over a hook, presenting as a small squid or baitfish.
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md) — The SoCal tuna surface-plug class: hard baits you cast into breaking tuna and work on top.
 
 ### Subfolders
