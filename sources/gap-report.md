@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2224 flagged gaps, 347 flagged stubs, 1030 unknown infobox values._
+_Totals: 2227 flagged gaps, 347 flagged stubs, 1032 unknown infobox values._
 
 ## species/
 
@@ -400,6 +400,17 @@ _Totals: 2224 flagged gaps, 347 flagged stubs, 1030 unknown infobox values._
 - **techniques/wacky-rig.md**
   - `Gear class`: gap — gear class and rigging detail for the
   - infobox `gear_classes`: unknown
+
+## lures/
+
+- **lures/cedar-plug.md**
+  - `Specs`: gap — mechanism (why the
+- **lures/crocodile-spoons.md**
+  - `Specs`: gap — mechanism for why the JP Standard's body
+  - infobox `run_speed`: unknown
+- **lures/jerkbaits.md**
+  - `Specs`: gap — exact micro-profile jerkbait model names
+  - infobox `weights`: unknown
 
 ## locations/
 
