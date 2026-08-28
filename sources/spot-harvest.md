@@ -501,4 +501,7 @@ harvested.
 | Torrance Beach | locations/evidence/bass-structure.md | How it fishes | kelp tight to the beach plus sparse outside kelp holds bass but is hard to pattern | `0KQ--N5TjqE` |
 | Shark Fin / Flat Rock | locations/evidence/bass-structure.md | How it fishes | rock outjet with kelp inside, outside, and up on the beach; bites came on the current-facing outside edge | `0KQ--N5TjqE` |
 | Rat's Beach | locations/evidence/bass-structure.md | How it fishes | usually the most stable, coolest water in the bay through summer; current tends to go slack there | `0KQ--N5TjqE` |
+| Newport Harbor | locations/bays-and-harbors.md | Structure & bathymetry | documented 12-14 ft depth sweet spot on the flat-to-channel edge | `YgqXf9iICyg` |
+| San Diego Bay | locations/bays-and-harbors.md | Structure & bathymetry | channels run 20-30 ft deep against 0-12 ft flats | `YgqXf9iICyg` |
+| Long Beach Harbor | locations/bays-and-harbors.md | Structure & bathymetry | dredged channel edge drops into a gully; sand bass, halibut, and white seabass hang off it | `usHl-4SfqDA` |
 <!-- review:harvest:end -->
