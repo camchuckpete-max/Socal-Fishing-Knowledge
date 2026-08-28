@@ -145,6 +145,7 @@ route, and the insurance carriers by name.
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
+- [Evidence — Dehooking & Release Handling](../fish-care/evidence/dehooking-and-release.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Mexican waters](../locations/mexican-waters.md)
 - [November–December](../seasonal/november-december.md)

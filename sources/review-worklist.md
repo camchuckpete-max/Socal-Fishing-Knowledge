@@ -174,7 +174,7 @@ by their builders after the transform phase drains.
 | planning/report-reading-and-forecasting.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite, 3 cites resolved (Blh2BA-7Ono, ILA6OMInWSM, OpcKQPA3vAI) |
 | planning/search-and-glassing.md | light | done | gaps(1) | layout v2 migration, evidence split, plain-statement rewrite; verifier restored dropped rockfish link and stripped residual named attribution |
 | planning/trip-length-selection.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored 2 dropped quote phrases |
-| fish-care/dehooking-and-release.md | light | pending |  |  |
+| fish-care/dehooking-and-release.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier ran link-maintenance.py to regenerate backlinks, no content lost |
 | fish-care/dorado-and-general.md | light | pending |  |  |
 | fish-care/gaffing.md | light | pending |  |  |
 | fish-care/ikejime.md | light | pending |  |  |
