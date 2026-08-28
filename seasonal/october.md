@@ -5,6 +5,8 @@ sources: [XLVUhV8DW64, OYOda6T3f-8, 5to3Q5P7w90]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: cooling
 ---
 
 # October
@@ -40,9 +42,9 @@ See [current structure](../conditions/current-structure.md) for reading breaks a
 The warm band moves through a predictable sequence as the coast cools:
 
 - **backside Santa Cruz / Rosa → SBI → backside Catalina → hooking to the
-  499 / Clemente.**
+  499 / Clemente** (`OYOda6T3f-8`).
 - **As the coast cools and fragments, the bluefin condense outward to Tanner and
-  Cortez.**
+  Cortez** (`OYOda6T3f-8`).
 
 Follow the band; don't anchor to where it was last week. See
 [bight geography](../locations/bight-geography.md).
@@ -51,7 +53,7 @@ Follow the band; don't anchor to where it was last week. See
 
 October is an **everything season**: [marlin](../species/striped-marlin.md), first
 [swordfish](../species/swordfish.md), bluefin, yellowfin, and [dorado](../species/dorado.md) are
-all on the table — but **scattered**. Breadth of species, low density of any one.
+all on the table — but **scattered** (`XLVUhV8DW64`). Breadth of species, low density of any one.
 
 ## Grunion-in-kelp overrides water quality
 

@@ -471,4 +471,12 @@ harvested.
 | Cortez Bank | seasonal/november-december.md | Tanner / Cortez bluefin — night-dominant, and the grade drops | night-dominant bluefin, 60-80 lb with a few 100+ lb mixed in, through late November | `Z3rZqy2Pi8E` |
 | San Clemente Island | seasonal/november-december.md | Late-fall SCI bass — current direction, with a late-fall exception | 2022-11-23: bass bite required current running into the island with off-color water | `Z3rZqy2Pi8E` |
 | San Clemente Island | seasonal/november-december.md | Sharp offshore edges — deep, sonar-dependent fish | 8 mi off the island, 63 → 61.5 °F edge in ~1 mi, sign on the edge but fish deep and sonar-dependent | `Z3rZqy2Pi8E` |
+| Santa Cruz Island | seasonal/october.md | The warm band tracks and condenses | backside Santa Cruz is the leading edge of the October warm-band bluefin track | `OYOda6T3f-8` |
+| Santa Rosa Island | seasonal/october.md | The warm band tracks and condenses | backside Rosa sits early in the October warm-band bluefin track | `OYOda6T3f-8` |
+| Santa Barbara Island | seasonal/october.md | The warm band tracks and condenses | SBI is next in the October warm-band bluefin track behind Santa Cruz/Rosa | `OYOda6T3f-8` |
+| Catalina Island | seasonal/october.md | The warm band tracks and condenses | backside Catalina is next in the October warm-band bluefin track | `OYOda6T3f-8` |
+| 499 | seasonal/october.md | The warm band tracks and condenses | the warm band hooks around into the 499 Zone as it tracks toward Clemente | `OYOda6T3f-8` |
+| San Clemente Island | seasonal/october.md | The warm band tracks and condenses | the warm band hooks around to Clemente at the end of the October track | `OYOda6T3f-8` |
+| Tanner Bank | seasonal/october.md | The warm band tracks and condenses | as the coast cools and fragments, October bluefin condense outward to Tanner | `OYOda6T3f-8` |
+| Cortez Bank | seasonal/october.md | The warm band tracks and condenses | as the coast cools and fragments, October bluefin condense outward to Cortez | `OYOda6T3f-8` |
 <!-- review:harvest:end -->

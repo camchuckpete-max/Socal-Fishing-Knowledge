@@ -149,7 +149,7 @@ by their builders after the transform phase drains.
 | seasonal/june-july.md | standard | transformed | spots(9) | transform verified: additive-only diff (1 new cite on existing claim, layout:v2 + regime:warm-stable, 9 spot-harvest rows) - zero claims reworded or dropped |
 | seasonal/may.md | standard | transformed |  | transform: added missing cites (S2L3KLSQ6Is) to 4 uncited claims, migrated to layout v2 with regime:warming, corrected one claim's wording to match transcript more precisely |
 | seasonal/november-december.md | standard | transformed | spots(6), reg-claims(1), gaps(0), misplaced(0) | seasonal/evidence/november-december.md / transform: layout v2 + regime:transition added, 3 Observed blocks split to evidence with cited traces kept beside doctrine, meta-attribution/name-flag conflict framing rewritten to decision-rule-first (SCI current), mis-cited Academy Ep. 14 label corrected to plain cite after transcript check, unsupported 300 lb figure corrected to sourced 60-80/100+ lb split (Z3rZqy2Pi8E), regulatory closure claim scoped with jurisdiction/as-of/verify-current; ledger row added for corrected figure |
-| seasonal/october.md | standard | pending |  |  |
+| seasonal/october.md | standard | transformed | spots(8) | none / additive-only diff: layout:v2 + regime:cooling added, 3 cites added to previously-uncited disputable claims (2 warm-band-track bullets, 1 everything-season claim), transcript-verified against OYOda6T3f-8 and XLVUhV8DW64; check-note.py clean; 100->106 lines |
 | seasonal/september.md | standard | pending |  |  |
 | seasonal/year-anniversary-prior.md | standard | pending |  |  |
 | bait/bait-tanks.md | standard | pending |  |  |
