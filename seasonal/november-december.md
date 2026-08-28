@@ -5,6 +5,8 @@ sources: [6TBxHnkYXI0, Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: transition
 ---
 
 # November–December
@@ -22,35 +24,31 @@ A stale report is not today's water.
 **Santa Ana events flatten the NW outer islands and open Rosa / Miguel**
 (`OYOda6T3f-8`, `Z3rZqy2Pi8E`). A Santa Ana is the trigger to run Santa Rosa / San Miguel for
 shallow rockfish and lings — the one wind that lays that water down. The
-report speaker's go/no-go rule (11/23/22 Bight report, Z3rZqy2Pi8E): **2+
-consecutive days of no-wind or Santa Anas** before committing to a Rosa/Miguel
-crossing. See [sea state](../conditions/sea-state.md) and
+go/no-go rule from the 11/23/22 report: **2+ consecutive days of no-wind or
+Santa Anas** before committing to a Rosa/Miguel crossing (`Z3rZqy2Pi8E`). See
+[sea state](../conditions/sea-state.md) and
 [island structure](../locations/island-structure.md).
 
 ## Lings shallow — the target window
 
 **[Lingcod](../species/rockfish-lingcod.md) move shallow in late fall — this is the
-target window.** Fish them shallow while it lasts; **rockfish closes at
-year-end**, so this is the last of the bottom season.
+target window.** Fish them shallow while it lasts: the recreational rockfish
+season (California / CDFW, as of 2026-08 — verify current dates before you
+go) closes at year-end, so this is the last of the bottom season. See
+[regulatory claims](../sources/regulatory-claims.md).
 
 ## Tanner / Cortez bluefin — night-dominant, and the grade drops
 
-- **The Tanner / Cortez [bluefin](../species/bluefin-tuna.md) continue night-dominant
-  with 300 lb fish through November.**
-- **Then the fishery reverts to the sub-30 lb winter grade by mid-December.**
-  The jumbos give way to small winter-grade fish as the month turns.
-- **Observed** (StokedOnFishing, 2022-12-14 upload, ~55 mi offshore SoCal,
-  exact bank not named on camera — `xzIaUEDklrE`; unregistered channel —
-  medium confidence): a trip landed on this exact date reported schools
-  running **40 to 100+ lb**, called "the best Southern California bluefin
-  tuna fishing we've seen all year," with the crew describing "very big
-  schools" and picking bigger fish (**100 plus** lb) out of the mix. The crew
-  also said they'd been "killing it every trip" for "the last few weeks."
-  This sits against, not folded into, the sub-30 lb mid-December reversion
-  above — a same-week data point where the mid-December grade was still
-  running jumbo, not winter-small. Kept side by side, not reconciled; the
-  exact bank/zone for this trip is not given, so it is not confirmed as the
-  same Tanner/Cortez ground as the doctrine above.
+- **The Tanner / Cortez [bluefin](../species/bluefin-tuna.md) stay night-dominant
+  through late November** — 60–80 lb fish with a few 100+ lb fish mixed in,
+  mostly on knife jigs or sinker rigs; daytime bites had mostly stopped
+  (`Z3rZqy2Pi8E`).
+- **Then the fishery reverts to the sub-30 lb winter grade by mid-December** —
+  a standard late-fall/early-winter grade, occasional bigger fish aside, well
+  off the summer's big-fish fishery (`5D1vx29LVpI`). A same-week report
+  (2022-12-14, exact bank not named) instead logged 40–100+ lb schools still
+  running jumbo, unconfirmed as the same ground (`xzIaUEDklrE`) — see the
+  evidence file.
 
 ## Late-window swordfish — flags into mid-December
 
@@ -58,40 +56,35 @@ The daytime [swordfish](../species/swordfish.md) season is winding into its
 **late window** — the season prior is late September – December, peak October –
 mid-November, last fish ~a week before Christmas (see the router); the
 [deep scattering layer](../conditions/deep-scattering-layer.md) carries the
-mechanism.
+mechanism. One club's first flag of a season landed as late as 12/14/22
+(`5D1vx29LVpI`) — a one-club, one-year data point, not a prior that the
+season starts in December; see the evidence file.
 
-- **Observed** (5D1vx29LVpI report, 12/15/22, Newport): the Balboa Angling Club
-  took its **first swordfish flag of the season the previous day** — a
-  one-club, one-year data point that flags can come very late in a given year,
-  not a prior that the season starts in December.
+## Late-fall SCI bass — current direction, with a late-fall exception
 
-## Late-fall SCI bass — the current-into-the-kelp conflict
-
-This is a **flagged conflict, kept side by side** (both from Erik):
-
-- **General prior (Academy Ep. 14, `6TBxHnkYXI0`):** current **parallel** to the
-  shoreline is best; current running **into the beach** is marginal; current
-  running **off the beach** is dead. See
-  [current structure](../conditions/current-structure.md).
-- **Late-fall exception (`Z3rZqy2Pi8E`):** at San Clemente Island the bass bite
-  **required current running *into* the island with off-color water.**
-
-Resolution: encode **parallel as the prior, into-the-beach as a viable
-late-fall / off-color state, off-the-beach as dead.** This is a real seasonal
-nuance from the same author, not an error — in late fall, don't reject
-into-the-island current at SCI.
+**Parallel current is the default best state; current into the beach is
+marginal; current off the beach is dead** (`6TBxHnkYXI0`). See
+[current structure](../conditions/current-structure.md). On 2022-11-23 at San
+Clemente Island this general rule had a late-fall exception: the bass bite
+required current running **into** the island, with off-color water present
+(`Z3rZqy2Pi8E`). Encode this as a late-fall / off-color-water exception, not a
+contradiction: parallel stays the default, into-the-beach is viable
+specifically in that state, off-the-beach stays dead.
 
 ## Sharp offshore edges — deep, sonar-dependent fish
 
 Late fall can rebuild **sharp offshore temperature edges** with the fish deep
 on them. Find the hard edge on the
 [temp chart](../conditions/water-temperature.md), then work it on the meter —
-the fish won't be on the surface. See
+the fish won't be on the surface. A 63 → 61.5 °F edge in ~1 mi, 8 mi off San
+Clemente Island, showed sign on the edge with the fish deep and
+sonar-dependent (`Z3rZqy2Pi8E`) — see the evidence file. See
 [electronics](../planning/electronics-and-sounder.md).
 
-- **Observed** (Z3rZqy2Pi8E report, 11/23/22, 8 mi off San Clemente Island):
-  a **63 → 61.5 °F edge in ~1 mi**, sign on the edge but the fish **deep and
-  sonar-dependent**.
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/november-december.md).
 
 
 <!-- backlinks:start -->
@@ -101,7 +94,9 @@ the fish won't be on the surface. See
 - [81 / 381](../locations/81-381.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [Evidence — November–December](evidence/november-december.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Sea State](../conditions/sea-state.md)

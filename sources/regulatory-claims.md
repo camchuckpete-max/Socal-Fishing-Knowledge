@@ -45,7 +45,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Spotted bay bass minimum size | **none** | 2024-11 | [spotted bay bass](../species/spotted-bay-bass.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit | 2 per person per day | 2024-11 | [bluefin tuna](../species/bluefin-tuna.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit — historical: raised from zero-retention to 2/person/day | 0 → 2 per person per day | 2014 (historical change; verify current limit against the 2024-11 row above) | [bluefin tuna](../species/bluefin-tuna.md) | `ztpj1Xll0-U` |
-| California recreational rockfish season — open most of the year, closes at year-end (roughly Jan–Feb depending on the annual regs and depth constraints) | year-end closure; roughly Jan–Feb | 2026-08 — verify current-year dates and depth limits with CDFW before fishing | [rockfish & lingcod](../species/rockfish-lingcod.md) | — (legacy uncited claim, retained in the v2 migration) |
+| California recreational rockfish season — open most of the year, closes at year-end (roughly Jan–Feb depending on the annual regs and depth constraints) | year-end closure; roughly Jan–Feb | 2026-08 — verify current-year dates and depth limits with CDFW before fishing | [rockfish & lingcod](../species/rockfish-lingcod.md), [november–december](../seasonal/november-december.md) | — (legacy uncited claim, retained in the v2 migration) |
 | Rockfish closure driving effort to the 43 bank | seasonal closure; bluefin targeted on the same high spot instead | 2020-12 | [rockfish & lingcod](../species/rockfish-lingcod.md), [bluefin tuna](../species/bluefin-tuna.md) | `Rf1HKJG-SDg` |
 | Rockfish depth-limit progression | 300 → 350 → 460 ft, plus a season reopen date | speaker self-hedged; historical | [rockfish & lingcod](../species/rockfish-lingcod.md) | `lF6jQklDCrY` |
 | Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | 7/person/day bag limit; see note for the rest | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
@@ -141,6 +141,7 @@ route, and the insurance carriers by name.
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Mexican waters](../locations/mexican-waters.md)
+- [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

@@ -465,4 +465,10 @@ harvested.
 | 302 (bank) | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
 | 371 (bank) | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
 | West of Catalina | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
+| Santa Rosa Island | seasonal/november-december.md | Santa Anas open the northern islands | Santa Ana events flatten the NW outer islands and open Rosa for shallow rockfish and lings | `OYOda6T3f-8`, `Z3rZqy2Pi8E` |
+| San Miguel Island | seasonal/november-december.md | Santa Anas open the northern islands | Santa Ana events flatten the NW outer islands and open Miguel for shallow rockfish and lings | `OYOda6T3f-8`, `Z3rZqy2Pi8E` |
+| Tanner Bank | seasonal/november-december.md | Tanner / Cortez bluefin — night-dominant, and the grade drops | night-dominant bluefin, 60-80 lb with a few 100+ lb mixed in, through late November | `Z3rZqy2Pi8E` |
+| Cortez Bank | seasonal/november-december.md | Tanner / Cortez bluefin — night-dominant, and the grade drops | night-dominant bluefin, 60-80 lb with a few 100+ lb mixed in, through late November | `Z3rZqy2Pi8E` |
+| San Clemente Island | seasonal/november-december.md | Late-fall SCI bass — current direction, with a late-fall exception | 2022-11-23: bass bite required current running into the island with off-color water | `Z3rZqy2Pi8E` |
+| San Clemente Island | seasonal/november-december.md | Sharp offshore edges — deep, sonar-dependent fish | 8 mi off the island, 63 → 61.5 °F edge in ~1 mi, sign on the edge but fish deep and sonar-dependent | `Z3rZqy2Pi8E` |
 <!-- review:harvest:end -->
