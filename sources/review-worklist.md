@@ -88,7 +88,7 @@ by their builders after the transform phase drains.
 | lures/cedar-plug.md | standard | transformed | gaps(1), asr-uncertain(amp chobby pattern name) | transform applied, three named subsections compressed to plain-statement Color-and-finish section per v2.1 style, Specs table added, When-to-choose-it section added |
 | lures/crocodile-spoons.md | standard | transformed | gaps(1) | transform verified; one conservation gap (dropped SoCal-anglers-generally claim/quote) found and fixed in-tree, all other facts/cites/links traced clean |
 | lures/dtx-minnow.md | standard | transformed | spots(2) | transform verified faithful, v2 skeleton compliant, all quotes/parameters conserved and cite-traced |
-| lures/halco-laser-pro.md | standard | pending |  |  |
+| lures/halco-laser-pro.md | standard | transformed | none | transform verified with fix: recovered lost per-source attribution/confidence-caveat detail into a newly created evidence file; all specs/parameters/cites otherwise conserved |
 | lures/iron-jigs.md | standard | pending |  |  |
 | lures/jerkbaits.md | standard | pending |  |  |
 | lures/knife-jigs.md | standard | pending |  |  |
