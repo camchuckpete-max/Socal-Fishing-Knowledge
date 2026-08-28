@@ -5,6 +5,8 @@ sources: [S2L3KLSQ6Is]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: warming
 ---
 
 # May
@@ -20,19 +22,19 @@ A stale report is not today's water.
 
 - **[Bluefin](../species/bluefin-tuna.md) creep into US waters in May, ahead of the
   volume.** The leading edge arrives before the main body of fish — the
-  fishery opens up as they push north.
+  fishery opens up as they push north (`S2L3KLSQ6Is`).
 - **First [paddy yellowtail](../species/yellowtail.md) appear with them.** The first
   [kelp paddy](../conditions/kelp-paddies.md) yellows of the year show up on the same
-  push — start checking paddies.
+  push — start checking paddies (`S2L3KLSQ6Is`).
 
 ## How to fish the May bluefin
 
-- **Night bite plus daytime flying-fish imitations for grade.** The bigger
-  fish come at night and to surface presentations that mimic flying fish during
-  the day.
+- **Night bite plus daytime flying-fish imitations for grade.** The night bite
+  is active, and the bigger fish come to surface presentations that mimic
+  flying fish during the day (`S2L3KLSQ6Is`).
 - **Run-and-gun casting opens for small boats.** May is when the fishery
   becomes reachable and castable from a skiff — surface fish you can run to and
-  throw at, versus April's deep sonar-school game. See
+  throw at, versus April's deep sonar-school game (`S2L3KLSQ6Is`). See
   [foamer casting](../techniques/foamer-casting.md).
 
 ## Read the size class — it changes the presentation
