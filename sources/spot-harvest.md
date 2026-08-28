@@ -530,4 +530,11 @@ harvested.
 | South 9 Mile Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | eval spot in the ~14-location expansion, split off 9 Mile Bank (San Diego) | cameron |
 | 14 Mile Bank (LA) | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
 | Cortes Bank | locations/bightsst-eval-targets.md | Structure & bathymetry | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Long Beach breakwater (federal wall, Long Beach wall, middle wall) | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | a lot of fishing happens around this break wall complex; composition researched from a sand core up | `bydQzE3F9yM` |
+| Long Beach federal breakwater | locations/breakwalls-jetties-riprap.md | evidence — What's there | named night-fishing wall; a 5.5 in bait "really works great" there after dark | `ZoIzpyyS9xw` |
+| Seal Beach wall | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
+| Surfside wall | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
+| Marina del Rey | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
+| Zuniga Jetty (San Diego) | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
+| Oceanside | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
 <!-- review:harvest:end -->

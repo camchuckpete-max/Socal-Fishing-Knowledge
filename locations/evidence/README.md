@@ -21,6 +21,7 @@
 - [Evidence — Bass Structure](bass-structure.md) — Per-source provenance backing Bass Structure.
 - [Evidence — Bays and Harbors](bays-and-harbors.md) — Per-source provenance backing Bays and Harbors.
 - [Evidence — The Boot (504) / 307](boot-504-307.md) — Provenance for The Boot (504) / 307.
+- [Evidence — Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) — Per-source provenance backing Break Walls, Jetties and Riprap.
 - [Evidence — Cabo San Lucas](cabo-san-lucas.md) — The observation layer behind Cabo San Lucas.
 - [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
 - [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
@@ -65,5 +66,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 55 notes exceed the 30-node cap._
+_Map skipped: 56 notes exceed the 30-node cap._
 <!-- mermaid:end -->

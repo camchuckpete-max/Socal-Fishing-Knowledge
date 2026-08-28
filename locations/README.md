@@ -141,7 +141,7 @@
 - [The Boot (504)](boot-504.md) **[SoCal only]** — A charted spot at 33°43.833'N 118°42.333'W (cameron), in the The Boot (504) / 307 zone.
 - [Box Canyon rockfish area](box-canyon-rockfish-area.md) **[SoCal only]** — A charted spot at 33°17.290'N 117°34.150'W (cameron), in the Oceanside / North County zone.
 - [Breakers Reef](breakers-reef.md) **[Baja only]** — A charted spot at 30°20.100'N 116°06.700'W (cameron), in the San Quintin zone.
-- [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) **[SoCal only]** — Man-made rock structure — harbor break walls, jetties, and riprap channel edges — read as fishing structure.
+- [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) **[SoCal only]** — Break walls, jetties, and riprap channel edges are man-made rock armor that fishes like reef structure: current forced past deviations in an otherwise uniform r
 - [Buccaneer Pipe](buccaneer-pipe.md) **[SoCal only]** — A charted spot at 33°10.340'N 117°22.700'W (cameron), in the Oceanside / North County zone.
 - [Bull Ring](bull-ring.md) **[Baja only]** — A charted spot at 32°31.500'N 117°08.600'W (cameron), in the Rosarito / Descanso zone.
 - [The Bump](bump.md) **[SoCal only]** — A charted spot at 32°51.490'N 117°16.910'W (cameron), in the La Jolla zone.
