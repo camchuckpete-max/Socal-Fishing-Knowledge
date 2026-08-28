@@ -179,7 +179,7 @@ by their builders after the transform phase drains.
 | fish-care/gaffing.md | light | done | spots(2) | layout v2 migration, evidence split, plain-statement rewrite, 3 Observed blocks moved to evidence, 2 spot-harvest rows added |
 | fish-care/ikejime.md | light | done | none | layout v2 migration, plain-statement rewrite; verifier ran link-maintenance.py to regenerate README index |
 | fish-care/sculpin-handling.md | light | done | none | layout v2 migration, plain-statement rewrite, Regulations section split out; check-note.py clean, no conservation loss |
-| fish-care/tuna-care.md | light | pending |  |  |
+| fish-care/tuna-care.md | light | done | misplaced(1) | layout v2 migration, evidence split, misplaced-content flagged + queued; verifier trimmed 4 out-of-scope net-new facts to stay within LIGHT-tier license |
 | fish-care/wahoo-handling.md | light | pending |  |  |
 | tackle/all-purpose-rod-line-rating.md | light | pending |  |  |
 | tackle/bluefin-50-80lb-bait-outfit-ladder.md | light | pending |  |  |

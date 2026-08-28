@@ -561,4 +561,8 @@ harvested.
 | Coronado Islands | planning/fleet-intelligence.md | Fleet position as a data layer | AIS stop/start pattern tracking (e.g. the Grande, MMSI 366746210) as a data source for learning the islands | cameron |
 | Tanner Bank | fish-care/gaffing.md | No-dig-hole | gaff shot struck the fishing line during the stick on a bluefin, but the fish stayed secured once the hook pulled free on its own — the gaff connection, not the hook, held the fish | `vCskOx6N-XM` |
 | Cedros Island | fish-care/gaffing.md | Landing | a big yellowtail took three gaff attempts, the first two missed, before connecting on the third; a tail rope backed up the gaff to finish securing the fish | `RPSRH0jwyw4` |
+| San Clemente Island | fish-care/tuna-care.md | Bleed and gill-and-gut on the water | yellowfin tuna/bonito trip bled and gutted immediately boat-side, fish iced right after | `H-vIGWPIPVc` |
+| San Clemente Island | fish-care/tuna-care.md | Bleed and gill-and-gut on the water | yellowtail-specific artery-cut bleed technique, ~5 min upside down in a bucket before icing | `Klfb433I3Uk` |
+| Cortez Bank | fish-care/tuna-care.md | Chill times by fish size | multi-day charter runs an onboard RSW fish hold at ~36°F instead of an ice slurry | `Y1xeieQI3B4` |
+| Santa Barbara Island (NE of) | fish-care/tuna-care.md | Estimating weight without a scale | crew estimated a big bluefin's weight with a tape measure and the length x girth^2 / 800 formula | `mDmbGdQAy-4` |
 <!-- review:harvest:end -->

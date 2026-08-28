@@ -9,7 +9,7 @@
 - [Gaffing — Sizing and the Shot](gaffing.md) — Gaffing puts yellowtail, dorado, California halibut, white seabass, and bluefin tuna over the rail once they're too big or the wrong shape to net.
 - [Ikejime (Iki-Jime)](ikejime.md) — Ikejime is driving a spike into the fish's brain for an instant kill, the top tier of tuna care when quality is the goal.
 - [Sculpin (Venomous Spine) Handling](sculpin-handling.md) — Sculpin — the reddish bottomfish anglers pull up on rockfish/bottom gear, commonly called "sculpin" on SoCal boats (California scorpionfish) — carry venomous sp
-- [Tuna Care](tuna-care.md) — The tuna care chain, from the gaff shot that boats the fish to the slurry that holds its quality for the drive home.
+- [Tuna Care](tuna-care.md) — The tuna care chain runs from the gaff shot that boats the fish to the slurry that holds its quality for the ride home.
 - [Wahoo — Deck Safety (Razor Teeth)](wahoo-handling.md) — Wahoo carry razor-sharp teeth capable of a serious laceration — the same bite pattern shows up as bite marks on trolling plugs, casting bombs, and Raider jigs a
 
 ### Subfolders
