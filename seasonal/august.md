@@ -5,6 +5,8 @@ sources: [CMQkHQMxbXM, HzE4FHHcvTk, HnqiE05vdXs]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: warm-stable
 ---
 
 # August
@@ -19,11 +21,12 @@ A stale report is not today's water.
 ## Peak dispersal
 
 - **[Bluefin](../species/bluefin-tuna.md) scatter across the whole Bight** — from
-  Catalina to San Nicolas to Ventura, "showing up in weird places, gone the
-  next day." Fish are everywhere and nowhere; yesterday's spot is a weak prior.
+  Catalina to San Nicolas to Ventura, "showing up in weird places" and gone the
+  next day (`CMQkHQMxbXM`). Fish are everywhere and nowhere; yesterday's spot
+  is a weak prior.
 - **The whole fleet shifts offshore, and the islands lose coverage.** With the
-  boats out, you stop getting island reports — read that as coverage bias, not
-  as the islands going dead. See
+  boats out, you stop getting island reports (`CMQkHQMxbXM`) — read that as
+  coverage bias, not as the islands going dead. See
   [report reading and forecasting](../planning/report-reading-and-forecasting.md).
 
 ## Paddy program peaks
@@ -31,7 +34,8 @@ A stale report is not today's water.
 The [kelp paddy](../conditions/kelp-paddies.md) program is at its best in August. Mind the
 pressure gradient: the closer to a dock and the more traffic, the less willing
 the fish; paddies are scarcer and less holding north of Dana Point. Best paddy
-water is south of SCI/Catalina and from Dana Point to Oceanside southward.
+water is south of SCI/Catalina and from Dana Point to Oceanside southward
+(`HzE4FHHcvTk`).
 
 ## Yellowfin arrive — and can fire the bluefin
 

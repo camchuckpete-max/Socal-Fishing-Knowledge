@@ -448,4 +448,11 @@ harvested.
 | Coronado Islands | seasonal/april.md | Wind-rollover geography | held through a big NW blow while the northern islands and LA/Ventura shelf crashed 5-8 °F | `YZtX1MiT0y8` |
 | Catalina Island | seasonal/april.md | Wind-rollover geography | held through a big NW blow while the northern islands and LA/Ventura shelf crashed 5-8 °F | `YZtX1MiT0y8` |
 | San Clemente Island | seasonal/april.md | Wind-rollover geography / San Clemente Island squid zone | held through a big NW blow; squid-zone yellowtail bite dies when squid moves deep, not because fish left | `YZtX1MiT0y8` |
+| Catalina Island | seasonal/august.md | Peak dispersal | August bluefin dispersal edge — "showing up in weird places" and gone the next day | `CMQkHQMxbXM` |
+| San Nicolas Island | seasonal/august.md | Peak dispersal | August bluefin dispersal edge — "showing up in weird places" and gone the next day | `CMQkHQMxbXM` |
+| Ventura | seasonal/august.md | Peak dispersal | August bluefin dispersal edge — "showing up in weird places" and gone the next day | `CMQkHQMxbXM` |
+| San Clemente Island | seasonal/august.md | Paddy program peaks | best paddy water is south of SCI/Catalina; paddies scarcer/less holding north of Dana Point | `HzE4FHHcvTk` |
+| Catalina Island | seasonal/august.md | Paddy program peaks | best paddy water is south of SCI/Catalina | `HzE4FHHcvTk` |
+| Dana Point | seasonal/august.md | Paddy program peaks | paddies scarcer/less holding north of Dana Point; best water runs Dana Point to Oceanside southward | `HzE4FHHcvTk` |
+| Oceanside | seasonal/august.md | Paddy program peaks | best paddy water runs south to Oceanside | `HzE4FHHcvTk` |
 <!-- review:harvest:end -->
