@@ -122,7 +122,7 @@ by their builders after the transform phase drains.
 | rigging/san-diego-jam-knot.md | standard | transformed | asr-uncertain(doubled-tie slide direction on VyFpIk-Na9Q; wetting-rationale caption inversion on VyFpIk-Na9Q) | transform verified: v2 skeleton, plain-statement rewrite, per-source citation compression, wrap-count/mechanic/naming/caution facts all traced from HEAD into AFTER; one dropped cross-reference link restored |
 | rigging/san-diego-jam-single-vs-double.md | standard | transformed | none | transform verified clean, minor README index regen applied |
 | rigging/seaguar-knot.md | standard | transformed | conservation-loss(2, fixed), meaning-drift(1, fixed) | transform applied with fixes: restored two conservation losses (Cesar tenure figures, Improved Clinch Knot cross-link) and corrected a factually-wrong on-camera-naming claim introduced by the transform |
-| rigging/slim-beauty-knot.md | standard | pending |  |  |
+| rigging/slim-beauty-knot.md | standard | transformed | none | transform verified with fixes — restored dropped presenter/ASR-caption attribution, corrected malformed flag grammar |
 | rigging/springer-knot.md | standard | pending |  |  |
 | rigging/surgeons-knot-mono-to-fluoro.md | standard | pending |  |  |
 | rigging/surgeons-loop.md | standard | pending |  |  |

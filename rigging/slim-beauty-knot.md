@@ -5,152 +5,106 @@ sources: [ZECOKmD4fIs, 7ivBSL-mhW8, IaVqJgUfcM8, tpmOYXYQwhU]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+line_class: unknown pound test on 3 of 4 clips; one clip names Izorline Spectra 65 as the real line, tied on rope instead for camera visibility (`IaVqJgUfcM8`); wrap count is stated to scale down as pound test rises
+hook_sizes: not applicable — connection knot (line-to-line splice), no hook tied
 ---
 
 # Slim Beauty Knot — Spectra-to-Topshot Splice
 
-A tapered connection knot joining spectra (braid main line, to the reel) to a
-monofilament/fluorocarbon top shot/leader, demonstrated by Wendy of
-SearcherSportfishing (video credits "Izorline" — auto-captioned "Eiserline"/
-"Eiserlein" depending on the episode, corrected here against that company name
-as it appears correctly captioned elsewhere in this channel's catalog). Named
-on camera the **"modified slim beauty knot."** It combines a uni knot on the
-top-shot/leader side with a multi-wrap pass from the spectra tag, finished by
-feeding the spectra tag through a pinched gap and cinching — a different
-construction from the [RP knot and uni-to-uni](essential-knots.md#parameters--judgment)
-splices that cover similar braid-to-leader territory in this KB, kept as its
-own note per the process rule to prefer a specific note over growing a large
-one. Wendy demonstrates this same knot across **three** numbered Tackle Tip
-Thursday episodes: the earliest of the three named/attributed-to-Wendy
-episodes, Vol. 127 (`ZECOKmD4fIs`, 2020-11-26), calls
-the top-shot line simply the **"leader"**; Vol. 153 (`7ivBSL-mhW8`,
-2021-07-22) and Vol. 175 (`IaVqJgUfcM8`, 2022-03-31) call it the "top shot" —
-the same physical component (mono/fluoro line joined to the spectra) named
-differently episode to episode. The Vol. 175 demonstration is tied in
-oversized rope for visibility rather than actual Izorline Spectra 65 — the
-wrap counts below are annotated accordingly. A fourth, earlier, un-named
-citation of the same construction on this channel (Tackle Talk Live,
-`tpmOYXYQwhU`, 2020-04-21, presenter not identified on camera) predates even
-Vol. 127 — see below. With the same core construction
-repeated across four episodes on this registered channel
-(`searcher-sportfishing` in [the source registry](../sources/source-registry.md)),
-this note carries `confidence: high` per the repeated-doctrine rule, even
-though the specific wrap-count parameter varies by episode (see below).
+A tapered connection knot joining spectra main line to a monofilament or
+fluorocarbon top shot, named on camera the "modified slim beauty knot"
+(`IaVqJgUfcM8`) and originating as a fly-fishing knot, modified for saltwater
+use (`ZECOKmD4fIs`). It combines a uni knot on the top-shot side with a
+multi-wrap pass from the spectra tag, finished by feeding the spectra tag
+through the uni knot's gap and cinching — a different construction from the
+[RP knot and uni-to-uni](essential-knots.md#parameters) splices that cover
+similar braid-to-leader territory in this KB, kept as its own note per the
+process rule to prefer a specific note over growing a large one. The same
+construction recurs across four clips on this registered channel
+(`searcher-sportfishing` in [the source registry](../sources/source-registry.md))
+— three demonstrated by name (`ZECOKmD4fIs`, `7ivBSL-mhW8`, `IaVqJgUfcM8`) and
+one earlier, unnamed citation of the same tie (`tpmOYXYQwhU`) — carrying
+`confidence: high` per the repeated-doctrine rule even though the wrap-count
+parameter varies by clip (see below).
 
-## When to use it
+## When to use
 
-- Joining **spectra main line to a mono/fluoro top shot** where the finished
+- Joining spectra main line to a mono/fluoro top shot where the finished
   connection needs to pass cleanly through the rod guides — the same
-  low-profile-connection goal as the [RP knot](essential-knots.md#parameters--judgment)
+  low-profile-connection goal as the [RP knot](essential-knots.md#parameters)
   and the [FG knot](fg-and-albright.md), by a different construction.
-- The transcript identifies the two lines by role — "this is my spectra that
-  goes to my reel and this is my top shot" — i.e. a reel-line-to-leader
-  splice rather than a hook/lure knot.
+- A reel-line-to-leader splice, not a hook/lure knot: "this is my spectra
+  that goes to my reel and this is my top shot" (`ZECOKmD4fIs`).
+- **Why this knot over a back-to-back uni:** a back-to-back uni splice leaves
+  two tag ends, one on each side of the connection, and the tag end can catch
+  in a rod guide on the cast. The modified slim beauty knot's single tapered
+  profile avoids that failure mode (`IaVqJgUfcM8`).
 
-## Parameters & judgment
+## Parameters
 
 - **Lay the two lines together first:** the spectra (running to the reel) and
-  the top shot (leader) laid alongside each other before any wraps go in.
-- **Top-shot/leader side — 4-turn uni:** with the tag end of the top shot
-  (leader), tie a uni knot around the spectra using **4 turns**. Vol. 127
-  (`ZECOKmD4fIs`, 2020-11-26) — "get the tag into my leader... create a loop...
-  do a uni knot, a portrait uni knot, two three four" (transcript reads
-  "portrait," almost certainly an ASR mishearing of some other qualifier —
-  flagged `asr-uncertain`, not load-bearing since the turn count is clear) —
-  and Vol. 153
-  (`7ivBSL-mhW8`, 2021-07-22) — "one two three four turn uni knot" — agree on
-  **4 turns**; wet it and cinch it down. In the later Vol. 175 demonstration
-  (`IaVqJgUfcM8`, 2022-03-31) Wendy ties this same step with only **2 turns**,
-  stating on camera this reduction is "because this is rope" — i.e. a
-  material-thickness substitution for the demo, not a revised parameter for
-  actual Spectra.
-- **Spectra side — wrap count scales with pound test:** with the tag end of
-  the spectra, wrap it around the leader (top shot), then wrap back over
-  those same wraps, then feed the spectra tag through the gap created by the
-  first (uni-knot) step. Vol. 127 (`ZECOKmD4fIs`, 2020-11-26) — the earliest
-  of the three demonstrations, tied in actual line rather than rope — gives
-  an explicit two-pass count: **9 turns** wrapping the spectra around the
-  leader ("one two three four... 6 7 8 9"), then wrapping back over those
-  wraps **"one less"** — **8 turns** ("you're going to go eight turns"). The
-  Vol. 153 clip (`7ivBSL-mhW8`, 2021-07-22) gives **9 turns** total in one
-  counted pass ("one two... three four five six... seven eight nine") without
-  a distinct counted back-wrap phase in the transcript. The later Vol. 175
-  clip (`IaVqJgUfcM8`, 2022-03-31) states the general rule explicitly —
-  **"depending on the pound test, the higher the pound test, the less turns
-  you need"** — and demonstrates it as two directional passes: **5 turns down
-  to the hook, then 5 turns back** (stated as the standard), reduced to **4
-  turns back** in that demo specifically "because this is rope." Per "prefer
-  the latest," treat the pound-test-scaling rule and the 5-down/5-back
-  structure as the current description of this step. Vol. 127's explicit
-  "wrap, then wrap back one fewer turn" language confirms the two-pass
-  structure was present from the earliest of the three episodes — this is
-  consistent with, but not proof of, the two-pass structure also underlying
-  Vol. 153's single 9-turn count (i.e. Vol. 153's count may describe only the
-  forward pass, matching Vol. 127's forward count of 9, with the back-wrap
-  phase not separately counted on camera in that clip); the Vol. 153
-  transcript alone still doesn't resolve this, so it stays an inference, not
-  a confirmed reconciliation. The 9-forward/8-back Vol. 127 numbers and the
-  5-down/5-back Vol. 175 "standard" are a genuine parameter difference across
-  episodes of the same doctrine, not an ASR artifact — kept side by side per
-  the conflicts rule rather than reconciled, with Vol. 175 preferred as the
-  latest general statement of the rule.
-- **Finish:** wet the line again, then pull on the top shot and the spectra
-  together — this draws the wraps down and forms a **tapered knot**.
-- **Result:** the finished connection is tapered enough to pass through the
-  rod guides.
-- **Trim:** cut the top-shot tag, then cut the spectra tag.
-- **Why this knot over a back-to-back uni (stated reason, Vol. 175,
-  `IaVqJgUfcM8`, 2022-03-31):** a back-to-back uni splice leaves two tag ends,
-  one on each side of the connection; when casting, the tag end can catch in
-  a rod guide. The modified slim beauty knot's single tapered profile avoids
-  that failure mode — the stated reason to prefer it for a connection that
-  has to run out through the guides on a cast, not just a strength claim.
-- **What the transcripts don't resolve:** none of the three clips gives a line
-  class, pound test figure, or species application for the tie (Vol. 175
-  states only the qualitative pound-test-vs-turns relationship above, not a
-  table), and audio alone doesn't fully clarify how the gap is held open
-  before the spectra tag is threaded through it in any of the three clips —
-  the source videos' visual mechanics are the more reliable reference for
-  that step than the transcripts.
-
-## An earlier, un-named citation of the same construction, at the 5/5 count later called "standard" (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing` registered channel — medium confidence, single mention; presenter not identified on camera in this transcript)
-
-Predates all three Wendy/Izorline episodes above — **7 months** ahead of Vol.
-127 (`ZECOKmD4fIs`, 2020-11-26) and roughly **two years** ahead of Vol. 175
-(`IaVqJgUfcM8`, 2022-03-31) — now the earliest-dated citation of this knot
-logged in this note. The knot itself is not named on camera in this
-transcript ("a really fast and easy knot to join braid or fluoro"), so it is
-recorded here as a matching construction rather than a confirmed naming.
-
-- **Same lay-together-then-loop structure:** "here's your braid, here's your
-  mono, make a loop in your mono" — the same starting point as the top-shot
-  uni-loop step logged above, though this citation doesn't separately count
-  turns on that loop.
-- **Spectra side — 5 turns up, 5 turns down, matching Vol. 175's "standard"
-  rather than Vol. 127's 9-forward/8-back count:** "you're gonna go five
-  times up... and then you go back down five times towards the loop in your
-  mono." This is the same **5-down/5-back** figure Vol. 175 later states as
-  the general rule ("depending on the pound test... 5 turns down to the
-  hook, then 5 turns back" — that clip's own demo reduces to 4 turns back
-  only because it's tied in rope). Read as an earlier, independent data point
-  for the 5/5 count that Vol. 175 calls standard, predating it by about two
-  years — kept side by side with, not resolving, the higher 9/8 count from
-  Vol. 127, per the parameter-difference note already logged above.
-- **Finish, matching the parent construction:** pull the tag lines so the
-  wraps line up and lie clean, hold tension on both ends, cut the tag off —
-  the same tapered-cinch finish already logged above, ending with the mono
-  going straight onto the hook.
-- **No line class, pound test, or species given** in this citation.
+  the top shot (leader) laid alongside each other before any wraps go in
+  (`ZECOKmD4fIs`).
+- **Top-shot side — uni knot, 4 turns:** with the tag end of the top shot,
+  tie a uni knot around the spectra using 4 turns (`ZECOKmD4fIs`;
+  corroborated `7ivBSL-mhW8`), wet it, and cinch it down (the transcript
+  reads "portrait uni knot" — the qualifier before "uni knot" is
+  `asr-uncertain`, not load-bearing since the turn count is clear)
+  (`ZECOKmD4fIs`). One clip ties this step at 2 turns, stated on camera as a
+  substitution for the oversized demonstration rope rather than a revised
+  parameter for actual spectra (`IaVqJgUfcM8`).
+- **Spectra side — wrap, wrap back, then feed the tag through the uni knot's
+  gap:** with the tag end of the spectra, wrap it around the leader, wrap
+  back over those same wraps, then feed the spectra tag through the gap
+  created by the top-shot uni knot (`ZECOKmD4fIs`).
+- **Wrap count scales down as pound test rises — three sourced figures kept
+  side by side; the choice turns on the line's pound test, not one correct
+  count:**
+  - **9 turns forward, 8 back** — the earliest-dated clip, tied in actual
+    line rather than demonstration rope (`ZECOKmD4fIs`).
+  - **9 turns total**, counted in a single pass with no separately counted
+    back-wrap phase on camera — may describe only the forward pass rather
+    than a different total; the transcript alone doesn't resolve which
+    (`7ivBSL-mhW8`).
+  - **5 turns down, 5 turns back** — stated as the standard, with the
+    explicit rule "depending on the pound test, the higher the pound test,
+    the less turns you need"; demonstrated at 4 turns back only because that
+    clip is tied in rope, not the actual Izorline Spectra 65 named on camera
+    (`IaVqJgUfcM8`). An earlier, unnamed citation of the same construction
+    independently gives this same 5-up/5-back count, about two years ahead
+    of the clip that later calls it standard (`tpmOYXYQwhU`).
+  - Per "prefer the latest," the pound-test-scaling rule and the 5-down/5-back
+    count are the current description of this step; the 9-forward/8-back
+    figure is an earlier data point for the same step, not superseded
+    doctrine to discard.
+- **Finish:** wet the line again, then pull the top shot and the spectra
+  together — this draws the wraps down and forms the tapered knot that passes
+  through the rod guides (`ZECOKmD4fIs`; corroborated `7ivBSL-mhW8`,
+  `tpmOYXYQwhU`).
+- **Trim:** cut the top-shot tag, then the spectra tag (`ZECOKmD4fIs`;
+  corroborated `7ivBSL-mhW8`, `tpmOYXYQwhU`).
+- **What the transcripts don't resolve:** none of the four clips gives a
+  species application for the tie, and audio alone doesn't clarify how the
+  gap is held open before the spectra tag is threaded through it (gap-holding
+  mechanics, `asr-uncertain`, all four clips) — the source videos are the
+  more reliable reference for that step than this paraphrase.
 
 ## Tie it
 
 How-to videos: [Tackle Tip Thursday Vol. 127 — Slim Beauty
 Knot](https://www.youtube.com/watch?v=ZECOKmD4fIs) (SearcherSportfishing,
-Wendy, Izorline, 2020-11-26); [Tackle Tip Thursday Vol. 153 — Slim Beauty
+Wendy Tochihara, 2020-11-26) — sponsor name captioned "Eiserlein," read as
+Izorline against the correctly-captioned spelling elsewhere in this channel's
+catalog (`asr-uncertain`); [Tackle Tip Thursday Vol. 153 — Slim Beauty
 Knot](https://www.youtube.com/watch?v=7ivBSL-mhW8) (SearcherSportfishing,
-Wendy, Izorline, 2021-07-22); [Tackle Tip Thursday Vol. 175 — Modified Slim
+Wendy Tochihara, 2021-07-22) — same sponsor-name caption issue, captioned
+"Eiserline" (`asr-uncertain`); [Tackle Tip Thursday Vol. 175 — Modified Slim
 Beauty Knot](https://www.youtube.com/watch?v=IaVqJgUfcM8) (SearcherSportfishing,
-Wendy, Izorline, 2022-03-31).
+Wendy Tochihara, 2022-03-31) — correctly captions "Izorline" here, confirming
+the reading used above; [Tackle Talk Live](https://www.youtube.com/watch?v=tpmOYXYQwhU)
+(SearcherSportfishing, 2020-04-21) — an earlier, unnamed demonstration of the
+same construction; presenter not identified on camera.
 
 <!-- backlinks:start -->
 ## Linked from
