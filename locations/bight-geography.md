@@ -1,10 +1,15 @@
 ---
 type: location
 tags: [geography, wind-rollover, warm-band, paddies, bluefin, planning]
-sources: [HzE4FHHcvTk]
+sources: [HzE4FHHcvTk, OYOda6T3f-8]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+parent: unknown
+structure_type: unknown — bight-scale wind, temperature-band, and kelp-paddy geography, not bottom structure; see island-structure.md for the physical typology
+depth_band: unknown — surface/planning-layer geography, not a depth-banded spot
+distance_nm: unknown — universal knowledge spanning the whole bight, not measured from one launch point
 ---
 
 # Bight Geography
@@ -16,7 +21,40 @@ coordinates. It sits above the point-by-point structure in
 [island structure](island-structure.md) and feeds
 [sea state](../conditions/sea-state.md).
 
-## Wind-rollover geography
+## Getting there
+
+This is universal bight-scale geography, not a single spot — it has no launch
+point or transit leg of its own. Getting-there detail belongs to the zone and
+spot pages this note supports throughout the bight.
+
+⚠ Flagged gap — no corpus source: transit/launch detail (not applicable — this
+note is universal, not spot-scoped).
+
+## Structure & bathymetry
+
+This note covers bight-scale wind, temperature-band, and paddy-water
+geography, not the physical shape of the bottom. For the structure typology
+(fathom curves, ridges, standalone banks) that the surface patterns below sit
+over, see [island structure](island-structure.md).
+
+⚠ Flagged gap — no corpus source: bottom structure/bathymetry (not applicable
+— this note is planning-layer surface geography, not structure).
+
+## What's there
+
+| species | season | what this geography does for them |
+| --- | --- | --- |
+| [Bluefin Tuna](../species/bluefin-tuna.md) | fall | rides the warm-band path down through the islands, then condenses onto the outer banks (Tanner, Cortez) as the coast cools and fragments — the fall search prior is a moving band, not a fixed spot (`OYOda6T3f-8`) |
+| [Yellowtail](../species/yellowtail.md) | paddy season | "paddy yellows" share the bight's paddy water with yellowfin, concentrated south of San Clemente Island/Catalina and along Dana Point–Oceanside (`HzE4FHHcvTk`) |
+| [Yellowfin Tuna](../species/yellowfin-tuna.md) | paddy season | shares the same paddy water as paddy yellows, same geography (`HzE4FHHcvTk`) |
+
+⚠ Flagged gap — no corpus source: species-specific catch-rate or size detail
+at each stage of the warm-band path or in the paddy zones; see the species
+routers for that detail.
+
+## How it fishes
+
+### Wind-rollover geography
 
 A big NW blow does not hit the whole bight equally. Its geography is repeatable
 (4/21/22, Landesfeind):
@@ -48,23 +86,25 @@ rollover analysis across recorded NW events, which BightSST can answer
 directly. Until that exists the map is doctrine on a single unrecorded
 telling, and this flag says so.
 
-## The warm-band tracking path (fall)
+### The warm-band tracking path (fall)
 
-In fall the regime flips to "look 100% at your temp chart and chlorophyll," and
-the warm water moves along a **repeatable path** (10/12–10/20/22 reports):
-
-**backside Santa Cruz / Rosa → Santa Barbara Island → backside Catalina → hooks
-to the 499 / Clemente.**
+In fall the regime flips to "look 100% at your temp chart and chlorophyll,"
+and the warm water moves along a **repeatable path**: backside Santa Cruz /
+Rosa → Santa Barbara Island → backside Catalina → hooks to the 499 /
+Clemente → the west end of Clemente through the macro bank and the 181/182
+ridge down to the corner (`OYOda6T3f-8`).
 
 As the coast **cools and fragments**, the bluefin **condense outward toward
-Tanner and Cortez**. So the fall search prior is not a fixed spot but a *band in
+Tanner and Cortez** — working the zone between the 381 (east end, backside
+Clemente) and Tanner/Cortez, on the cooler side of the same warm band
+(`OYOda6T3f-8`). So the fall search prior is not a fixed spot but a *band in
 motion* — follow the warm, clean edge along that arc, and expect the terminal
 condensation onto the outer banks as the season closes. Temperature and
 chlorophyll weighting for this regime lives in
 [water temperature](../conditions/water-temperature.md) and
 [water color](../conditions/water-color.md).
 
-## Paddy-water geography
+### Paddy-water geography
 
 Kelp paddies are not evenly distributed across the bight (`HzE4FHHcvTk`):
 

@@ -504,4 +504,20 @@ harvested.
 | Newport Harbor | locations/bays-and-harbors.md | Structure & bathymetry | documented 12-14 ft depth sweet spot on the flat-to-channel edge | `YgqXf9iICyg` |
 | San Diego Bay | locations/bays-and-harbors.md | Structure & bathymetry | channels run 20-30 ft deep against 0-12 ft flats | `YgqXf9iICyg` |
 | Long Beach Harbor | locations/bays-and-harbors.md | Structure & bathymetry | dredged channel edge drops into a gully; sand bass, halibut, and white seabass hang off it | `usHl-4SfqDA` |
+| Northern Channel Islands | locations/bight-geography.md | How it fishes | a strong NW event can roll surface temperature down 5-8°F there | cite-unresolved (⚠ adjudicated, standing) |
+| LA / Ventura coastal shelf | locations/bight-geography.md | How it fishes | gets crushed by a strong NW event, same 5-8°F rollover | cite-unresolved (⚠ adjudicated, standing) |
+| Newport Beach | locations/bight-geography.md | How it fishes | south of Newport is less prone to wind-wave-driven rollovers | cite-unresolved (⚠ adjudicated, standing) |
+| Coronados | locations/bight-geography.md | How it fishes | held water through a big NW blow | cite-unresolved (⚠ adjudicated, standing) |
+| Catalina Island | locations/bight-geography.md | How it fishes | held water through a big NW blow; backside sits on the fall warm-band path | cite-unresolved (⚠ adjudicated, standing) / `OYOda6T3f-8` |
+| San Clemente Island | locations/bight-geography.md | How it fishes | held water through a big NW blow; warm-band path hooks to the 499 near here | cite-unresolved (⚠ adjudicated, standing) / `OYOda6T3f-8` |
+| Santa Cruz Island | locations/bight-geography.md | How it fishes | fall warm-band path starts on the backside | `OYOda6T3f-8` |
+| Santa Rosa Island | locations/bight-geography.md | How it fishes | fall warm-band path starts on the backside | `OYOda6T3f-8` |
+| Santa Barbara Island | locations/bight-geography.md | How it fishes | fall warm-band path tracks through here | `OYOda6T3f-8` |
+| 499 | locations/bight-geography.md | How it fishes | warm-band path hooks around to Clemente and into this zone | `OYOda6T3f-8` |
+| Tanner Bank | locations/bight-geography.md | How it fishes | bluefin condense outward here as the coast cools | `OYOda6T3f-8` |
+| Cortez Bank | locations/bight-geography.md | How it fishes | bluefin condense outward here as the coast cools | `OYOda6T3f-8` |
+| San Clemente Island | locations/bight-geography.md | How it fishes | best paddy water lies south of SCI/Catalina | `HzE4FHHcvTk` |
+| Catalina Island | locations/bight-geography.md | How it fishes | best paddy water lies south of SCI/Catalina | `HzE4FHHcvTk` |
+| Dana Point | locations/bight-geography.md | How it fishes | paddy water runs the coastal strip Dana Point to Oceanside and south | `HzE4FHHcvTk` |
+| Oceanside | locations/bight-geography.md | How it fishes | paddy water runs the coastal strip Dana Point to Oceanside and south | `HzE4FHHcvTk` |
 <!-- review:harvest:end -->
