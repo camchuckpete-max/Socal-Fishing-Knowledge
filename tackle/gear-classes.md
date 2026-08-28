@@ -249,6 +249,7 @@ file](evidence/gear-classes.md).
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md)
