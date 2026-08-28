@@ -56,6 +56,7 @@
 - [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
 - [Evidence — San Quintin](san-quintin.md) — The observation layer behind San Quintin.
 - [Evidence — Santa Barbara Island](santa-barbara-island.md) — The observation layer behind Santa Barbara Island.
+- [Evidence — Sea of Cortez](sea-of-cortez.md) — The observation layer behind Sea of Cortez, a nine-episode San Felipe mothership series plus a companion tackle-bag video.
 - [Evidence — The Slide / 152 / 277](slide-152-277.md) — Provenance for The Slide / 152 / 277.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — Tanner Bank](tanner-bank.md) — Provenance for Tanner Bank.
@@ -67,5 +68,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 57 notes exceed the 30-node cap._
+_Map skipped: 58 notes exceed the 30-node cap._
 <!-- mermaid:end -->

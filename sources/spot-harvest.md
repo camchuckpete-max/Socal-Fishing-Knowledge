@@ -542,4 +542,7 @@ harvested.
 | Salta Verde | locations/island-structure.md | How it fishes | stern-to-west-end spot that turns on in a southeast wind | `aFb221LUoD0` |
 | China Point (Catalina) | locations/island-structure.md | How it fishes | stern-to-west-end spot that turns on in a southeast wind | `aFb221LUoD0` |
 | Catalina Island — West End | locations/evidence/island-structure.md | How it fishes | backside found "just blowing" and worsening further back; team retreated to the front side for shelter | `PKf7G3uL4io` |
+| San Felipe | locations/sea-of-cortez.md | Getting there | mothership port; week-to-ten-day live-aboard carrying pangas on deck, relocating overnight between zones | `aT-fL7vaavY` |
+| Gonzaga Bay | locations/sea-of-cortez.md | What's there | deep-drop stop for pargo and grouper on the trip's last morning, with sierra showing beside the boat | `0dNfsle54Wo` |
+| Bahía de los Ángeles (BOLA) | locations/sea-of-cortez.md | Getting there | naming caution: a San Felipe mothership episode is titled and narrated as BOLA despite being filmed aboard the Tony Reyes out of San Felipe | `4Dn7yChmhk0` |
 <!-- review:harvest:end -->

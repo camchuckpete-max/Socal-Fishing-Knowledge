@@ -322,4 +322,5 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
 - [Regions & Waters — the gating vocabulary](regions.md)
+- [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

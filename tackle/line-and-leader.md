@@ -680,6 +680,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Cortez North](../locations/cortez-north.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Sea of Cortez](../locations/evidence/sea-of-cortez.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
