@@ -381,4 +381,5 @@ harvested.
 | Point Loma | lures/knife-jigs.md | Color | contested glow-vs-confidence bluefin color debate framed against a 315 lb bluefin taken 59 mi off Point Loma | `0E9REoTjKrY` |
 | Cortez Bank | lures/knife-jigs.md | Color | pre-trip tackle briefing color pick ("white with polka dots") for a Constitution charter | `UfuiWFVvz2E` |
 | Ensenada | lures/mad-mac.md | evidence — Specs | Baja Blue Fin Tuna Tournament grounds where a two-Mad-Mac search spread was run with staggered, count-based setbacks | `U1AgwmlY5bI` |
+| Ensenada | lures/spreader-bar.md | evidence — Specs | Baja Blue Fin Tuna Tournament grounds where a 3-bar spread ran two corner bars ~75 yd back and one center bar ~250 yd back | `U1AgwmlY5bI` |
 <!-- review:harvest:end -->

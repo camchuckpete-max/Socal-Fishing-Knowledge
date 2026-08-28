@@ -96,7 +96,7 @@ by their builders after the transform phase drains.
 | lures/mad-mac.md | standard | transformed | spots(1), asr-uncertain(reel model caption) | transform verified faithful — specs/observations conserved via new evidence split, contested speed-band conflict kept attributed, all cites spot-checked against source transcripts |
 | lures/rapala-husky-magnum.md | standard | transformed | none outstanding | transform applied, one flag-grammar fix made by verifier |
 | lures/soft-plastic-swimbaits.md | standard | skipped |  | skipped: verifier-reject: 4 before-facts dropped (sizes, rod/reel models, jighead+cross-link, color/location tactic) plus one cite reattached to unsupported claim |
-| lures/spreader-bar.md | standard | pending |  |  |
+| lures/spreader-bar.md | standard | transformed | spots(1) | transform verified — specs/observations conserved via evidence split, transcript spot-checks confirm no meaning drift |
 | lures/tube-baits.md | standard | pending |  |  |
 | lures/tuna-feathers-and-skirts.md | standard | pending |  |  |
 | lures/tuna-poppers-and-stickbaits.md | standard | pending |  |  |

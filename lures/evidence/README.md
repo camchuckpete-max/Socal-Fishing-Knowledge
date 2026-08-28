@@ -10,6 +10,7 @@
 - [Evidence — Knife Jigs](knife-jigs.md) — Trip reports and per-source provenance for Knife Jigs.
 - [Evidence — Mad Mac](mad-mac.md) — Trip reports and per-source provenance for Mad Mac.
 - [Evidence — Rapala Husky Magnum](rapala-husky-magnum.md) — Trip reports and per-source provenance backing Rapala Husky Magnum.
+- [Evidence — Spreader Bar](spreader-bar.md) — Trip reports and per-source provenance for Spreader Bar.
 <!-- index:end -->
 
 

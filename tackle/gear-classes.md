@@ -368,6 +368,7 @@ does the lookup.
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
