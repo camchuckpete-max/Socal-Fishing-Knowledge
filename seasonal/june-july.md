@@ -1,10 +1,12 @@
 ---
 type: seasonal
 tags: [summer, bluefin, white-seabass, moon, paddies, search-box, upwelling]
-sources: [DnSqw4r7A1s, Blh2BA-7Ono, -JZpyWLdKlk]
+sources: [DnSqw4r7A1s, Blh2BA-7Ono, -JZpyWLdKlk, XLVUhV8DW64]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: warm-stable
 ---
 
 # June–July
@@ -22,7 +24,7 @@ A stale report is not today's water.
 [bluefin](../species/bluefin-tuna.md) night bite** (`DnSqw4r7A1s`, `-JZpyWLdKlk`). Plan the WSB and
 night-bluefin windows around the full moon — see [moon](../conditions/moon.md) for the full
 lunar decision layer. Days *leading into* the full moon are the strongest
-documented bluefin windows.
+documented bluefin windows (`XLVUhV8DW64`).
 
 ## July bluefin geography — one big search box vs. compact spots
 

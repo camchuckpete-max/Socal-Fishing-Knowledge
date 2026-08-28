@@ -456,4 +456,13 @@ harvested.
 | Dana Point | seasonal/august.md | Paddy program peaks | paddies scarcer/less holding north of Dana Point; best water runs Dana Point to Oceanside southward | `HzE4FHHcvTk` |
 | Oceanside | seasonal/august.md | Paddy program peaks | best paddy water runs south to Oceanside | `HzE4FHHcvTk` |
 | Catalina Island | seasonal/february-march.md | Rain and runoff | dirt hillsides dump mud into the inshore water and shut the shallow bass bite after rain | `Kf5wk_TFgTc` |
+| 43 (bank) | seasonal/june-july.md | July bluefin geography | part of the ~50–60 sq mi below-Clemente search box — fish it as one box, not a spot-check | `Blh2BA-7Ono` |
+| 181 (bank) | seasonal/june-july.md | July bluefin geography | part of the ~50–60 sq mi below-Clemente search box — fish it as one box, not a spot-check | `Blh2BA-7Ono` |
+| 182 (bank) | seasonal/june-july.md | July bluefin geography | part of the ~50–60 sq mi below-Clemente search box — fish it as one box, not a spot-check | `Blh2BA-7Ono` |
+| 289 (bank) | seasonal/june-july.md | July bluefin geography | part of the ~50–60 sq mi below-Clemente search box — fish it as one box, not a spot-check | `Blh2BA-7Ono` |
+| Clemente Ridge | seasonal/june-july.md | July bluefin geography | upper edge of the below-Clemente search box, running up to Mackerel Bank | `Blh2BA-7Ono` |
+| Mackerel Bank | seasonal/june-july.md | July bluefin geography | upper edge of the below-Clemente search box | `Blh2BA-7Ono` |
+| 302 (bank) | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
+| 371 (bank) | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
+| West of Catalina | seasonal/june-july.md | July bluefin geography | compact, checkable spot — glass it and leave, unlike the below-Clemente search box | `Blh2BA-7Ono` |
 <!-- review:harvest:end -->

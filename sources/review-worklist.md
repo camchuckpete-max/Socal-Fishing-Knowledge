@@ -146,7 +146,7 @@ by their builders after the transform phase drains.
 | seasonal/april.md | standard | transformed | gaps(1), spots(3) | transform verified: additive-only diff (cites, layout v2 + regime infobox fields, one mechanism-gap flag, 3 spot-harvest rows); zero claims reworded or dropped |
 | seasonal/august.md | standard | transformed | spots(7) | layout:v2 + regime field added, 3 missing cites added to previously-uncited disputable claims, spot-harvest seeded (6 rows) |
 | seasonal/february-march.md | standard | transformed | spots(1) | transform: added inline cites to 5 existing claims, stripped attribution preamble on open-item line, added layout:v2 + regime:cold, harvested one spot mention - no content lost |
-| seasonal/june-july.md | standard | pending |  |  |
+| seasonal/june-july.md | standard | transformed | spots(9) | transform verified: additive-only diff (1 new cite on existing claim, layout:v2 + regime:warm-stable, 9 spot-harvest rows) - zero claims reworded or dropped |
 | seasonal/may.md | standard | pending |  |  |
 | seasonal/november-december.md | standard | pending |  |  |
 | seasonal/october.md | standard | pending |  |  |
