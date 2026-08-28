@@ -5,85 +5,71 @@ sources: [rFmWrp-Vndo]
 confidence: medium
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
+layout: v2
+line_class: unknown
+hook_sizes: unknown
 ---
 
 # Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute
 
 A dropper-loop variant that skips tying a separate hook-to-loop knot: tie a
-**3-to-4-turn surgeon's loop**, then **cut the loop itself off-center** so it
-stops being a loop and becomes two unequal tag legs coming off the same knot —
-a short leg to the hook, a long leg continuing down to the sinker. Presented
-as "just another cool way if you guys want to mix it up a little bit," one of
-several ways SoCal/Baja anglers tie a dropper loop — not offered as a
-replacement for the dropper-loop knot/spider hitch or the intact surgeon's
-loop already covered in [dropper loop](../techniques/dropper-loop.md#building-the-rig)
-and [essential SoCal knots](essential-knots.md#parameters--judgment) (Billy,
-Fisherman's Landing tackle shop, via SearcherSportfishing, "Tackle Tip
-Thursday Vol. 168 (Dropper Loop)," `rFmWrp-Vndo`, 2022-02-10;
-`searcher-sportfishing` registered channel, single mention of this specific
-cut-loop mechanic — `medium` confidence).
+3-to-4-turn surgeon's loop, then cut the loop itself off-center so it stops
+being a loop and becomes two unequal tag legs coming off the same knot — a
+short leg to the hook, a long leg continuing down to the sinker
+(`rFmWrp-Vndo`). It is one of several ways to build a dropper loop, offered
+as a variant rather than a replacement for the [dropper-loop knot/spider
+hitch](../techniques/dropper-loop.md#building-the-rig) or the intact
+[surgeon's loop](essential-knots.md#parameters--judgment).
 
-## When to use it
+## When to use
 
-- Named on camera as "really good for fishing yellowtail at Guadalupe" —
-  read as **Guadalupe Island, Baja** (auto-captions render it "guadaloop";
-  resolved from channel context — SearcherSportfishing's other Tackle Tip
-  Thursday segments describe the same long-range-yellowtail-to-Guadalupe
-  fishery, see [Surgeon's Loop (Giant Yellowtail,
-  Long-Range)](surgeons-loop.md)) — and for **sea bass fishing** (read as
-  [white seabass](../species/white-seabass.md), the unqualified SoCal usage of
-  "sea bass"; species not further specified on camera).
-- The presenter generalizes past those two examples: "really anything you do
-  with a dropper loop" — offered as a general-purpose alternative build, not a
-  species- or spot-specific one.
-- **Loop size tracks the trip:** on Guadalupe yellowtail trips specifically,
-  "they like a bigger loop" — peel off more line before tying than you would
-  for a smaller SoCal application. No exact length is given; the presenter
-  leaves it "up to you."
+- Named for **yellowtail at Guadalupe Island, Baja** and for **white
+  seabass** fishing, then generalized to "really anything you do with a
+  dropper loop" (`rFmWrp-Vndo`). The location is spoken on camera as
+  "guadaloop"; auto-captions garble the name and it is read here as
+  Guadalupe Island from channel context — SearcherSportfishing's other
+  Tackle Tip Thursday segments describe the same long-range yellowtail
+  fishery there (see [Surgeon's Loop — Giant Yellowtail,
+  Long-Range](surgeons-loop.md)) — asr-uncertain(place name).
+- The seabass species is not further specified on camera; read as the
+  unqualified SoCal usage, [white seabass](../species/white-seabass.md).
+- **Loop size tracks the trip:** Guadalupe yellowtail trips call for a
+  bigger loop than an ordinary SoCal application — peel off more line
+  before tying (`rFmWrp-Vndo`). No exact length is given; sizing is left to
+  the angler.
 
-## Tying it
+## Parameters
 
-1. **Peel off line** for the loop — more for a Guadalupe-yellowtail-sized
-   loop, less for a smaller application.
-2. **Tie a 3-to-4-turn surgeon's loop:** double the line, pull the doubled
-   section through, and pass it through **three or four turns**, snugging the
-   turns down "nice and even" as you go. This is the same doubled-overhand
-   surgeon's-knot family already logged in [essential SoCal
-   knots](essential-knots.md#parameters--judgment) and, at a much larger
-   heavy-tackle scale, in [Surgeon's Loop (Giant Yellowtail,
-   Long-Range)](surgeons-loop.md) — this build uses the same knot at an
-   ordinary dropper-loop scale.
-3. **Pull tight** and trim the tag end. At this point you have an ordinary
-   intact surgeon's loop, the same as the builds linked above.
-
-## The cut — what makes this version different
-
-- **Cut the loop unevenly, not down the middle.** Instead of leaving the loop
-  intact (as the builds above do) or clipping one leg down to a stub (the
-  [paternoster variant](surgeons-loop.md) of the giant-yellowtail build), cut
-  across the loop off-center so it opens
-  into **two separate legs of clearly unequal length**, both still anchored at
-  the same surgeon's-loop knot.
-- **Short leg → hook.** The shorter of the two cut ends is tied to the hook.
-- **Long leg → weight.** The longer cut end continues down to the sinker.
-  With the sinker on the bottom, the bait — the presenter names **mackerel,
-  squid, "or whatever"** — swims free above it on the short hook leg.
-- **It is no longer a loop.** The presenter is explicit about this on camera:
-  "even though obviously it's not a loop anymore" — the surgeon's loop here is
-  only a means to build a strong, evenly-seated knot from which two separate
-  legs can be cut; the finished rig has no ring for the hook to swing on, in
-  contrast to the intact-loop builds it's presented as an alternative to.
-- **Why it's rated strong:** "this surgeon's loop is super strong" — the
-  presenter's stated reason for using this knot as the base rather than
-  starting from two separately-tied leader sections.
+- **Base knot — 3-to-4-turn surgeon's loop.** Double the line, pull the
+  doubled section through, and pass it through 3 or 4 turns, snugging them
+  down evenly, then pull tight and trim the tag (`rFmWrp-Vndo`) — the same
+  doubled-overhand family as the [surgeon's
+  knot](essential-knots.md#parameters--judgment) and, at heavy-tackle scale,
+  the [giant-yellowtail surgeon's loop](surgeons-loop.md#parameters--judgment).
+- **The cut is off-center, not down the middle.** Cutting the finished loop
+  unevenly turns it into two legs of clearly unequal length, both anchored
+  at the same surgeon's-loop knot — not a paternoster-style single stub (the
+  [paternoster variant](surgeons-loop.md) of the giant-yellowtail build)
+  (`rFmWrp-Vndo`).
+- **Short leg → hook. Long leg → weight.** With the sinker on the bottom,
+  the bait — mackerel, squid, "or whatever" — swims free above it on the
+  short hook leg (`rFmWrp-Vndo`).
+- **No loop remains once cut.** The finished rig has no ring for the hook to
+  swing on, unlike the intact-loop builds it substitutes for (`rFmWrp-Vndo`).
+- **Why this base knot:** the surgeon's loop is called out as strong enough
+  to build from directly rather than tying the hook and sinker legs as two
+  separately-tied leader sections (`rFmWrp-Vndo`). ⚠ Flagged gap — no corpus
+  source: mechanism (no breaking-strength figure or wrap-friction
+  explanation is given for why this knot outperforms two separate ties).
+- ⚠ Flagged gap — no corpus source: line class, hook size, and sinker
+  weight. Pair with the weight/hook guidance in [dropper loop — building the
+  rig](../techniques/dropper-loop.md#building-the-rig) for the target
+  species and depth.
 
 ## Gear class
 
-Bottom / bait-in-the-holder work — see [gear classes](../tackle/gear-classes.md).
-No hook size, sinker weight, or line class is given in this clip; pair with
-the weight/hook guidance already logged in
-[dropper loop](../techniques/dropper-loop.md#building-the-rig) for the target
-species and depth.
+Bottom / bait-in-the-holder work — see [gear
+classes](../tackle/gear-classes.md).
 
 <!-- backlinks:start -->
 ## Linked from

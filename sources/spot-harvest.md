@@ -388,4 +388,5 @@ harvested.
 | Cedros Island | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
 | Ensenada / Baja | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
 | Dana Point | lures/tuna-feathers-and-skirts.md | evidence — Specs | mid-2010s King Buster-style small trolling lure origin, later tungsten-rebuilt as a finesse trolling lure for porpoise-associated yellowfin | `ouBrIdO7d4k` |
+| Guadalupe Island | rigging/cut-loop-dropper.md | When to use | cut-loop surgeon's-loop dropper named for yellowtail trips there, which favor a bigger loop than an ordinary SoCal application | `rFmWrp-Vndo` |
 <!-- review:harvest:end -->
