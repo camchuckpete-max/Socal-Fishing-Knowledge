@@ -19,6 +19,7 @@
 - [Evidence — Knife / Speed Jigging](knife-jigging.md) — Per-source provenance backing knife/speed jigging.
 - [Evidence — Leadhead Swimbait Retrieve](leadhead-swimbait-retrieve.md) — Per-source provenance backing leadhead swimbait retrieve.
 - [Evidence — Mangrove Structure Livebait](mangrove-structure-livebait.md) — Per-source provenance backing mangrove structure livebait.
+- [Evidence — Night Bass Fishing](night-bass-fishing.md) — Per-source provenance backing night bass fishing.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 

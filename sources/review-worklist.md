@@ -59,7 +59,7 @@ by their builders after the transform phase drains.
 | techniques/live-bait-pendulum-cast.md | standard | transformed | gaps(1) | transform verified, 2 defects fixed in-tree (uncited borrowed claim, smoothed specific) |
 | techniques/mangrove-structure-livebait.md | standard | transformed | none | transform verified: attribution preamble to plain-statement+cites, evidence file split, facts conserved and transcript-verified |
 | techniques/ned-rig.md | standard | transformed | none | transform verified, one smuggled-specificity fix applied (baitcast to heavier tackle/drag near max) |
-| techniques/night-bass-fishing.md | standard | pending |  |  |
+| techniques/night-bass-fishing.md | standard | transformed | spots(1) | restructured to v2 skeleton, dissolved source-named heading, stripped meta-attribution to evidence, added Common failures + infobox fields; verifier fixed fabricated retrieve_speed claim |
 | techniques/panga-team-trolling.md | standard | pending |  |  |
 | techniques/rail-etiquette.md | standard | pending |  |  |
 | techniques/rockfish-deep-dropping.md | standard | pending |  |  |

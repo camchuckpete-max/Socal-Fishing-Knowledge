@@ -336,4 +336,5 @@ harvested.
 | Tanner Bank | techniques/kite-fishing.md | evidence — Wind window | balloon-to-kite rigging and launch build | `vCskOx6N-XM` |
 | Cortez Bank | techniques/knife-jigging.md | evidence — Mechanics | night bluefin jig-positioning briefing — cast down-swell so the jig settles ~200–250 ft under the boat, vertical | `UfuiWFVvz2E` |
 | Cortez Bank / Tanner Bank | techniques/knife-jigging.md | evidence — Depth control & jig calling | windy, hard-drifting night stepped jig weight up from a standard 250–350 g to 500 g to hold the zone | `LsFMBCa9DOQ` |
+| Port of Long Beach | techniques/night-bass-fishing.md | Structure: fish the lit water in a harbor at night | named as the example of an artificially lit harbor zone (oil-terminal island spreader lights, warehouse lights) that pulls bait and bass into the shallows at night | `XyKF34C5iB4` |
 <!-- review:harvest:end -->

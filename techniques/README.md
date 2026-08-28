@@ -28,7 +28,7 @@
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md) — The cast for getting an unweighted, fly-lined bait out and away from the boat: with no sinker to load the rod, a pendulum swing supplies the momentum weight wou
 - [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Mangrove structure livebait is a precision live-bait presentation for fish holding tight against oyster-crusted mangrove roots in skinny water, down to about 2
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
-- [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
+- [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Night bass fishing targets calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" (XyKF34C5iB4) — bigger, more
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — (Carl, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
