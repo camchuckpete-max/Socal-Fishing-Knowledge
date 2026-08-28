@@ -33,7 +33,7 @@
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid) at the tackle bench — built or repaired before a trip, not a mid-fight retie (7TPJsMc_
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig that puts a second hook behind the lead hook so a fish grabbing the back half of the bait still finds steel.
 - [Tuna Feather Rig](tuna-feather-rig.md) **[SoCal only]** — Rigging a tuna feather, a West Coast trolling staple.
-- [Wind-On Leader](wind-on-leader.md) **[SoCal only]** — A wind-on leader is a fluorocarbon (or mono) top shot joined to hollow-core braid without a knot: the leader is threaded *inside* the hollow braid so the braid'
+- [Wind-On Leader](wind-on-leader.md) **[SoCal only]** — A wind-on leader is a fluorocarbon (or mono) top shot joined to hollow-core braid without a knot: the leader threads *inside* the hollow braid so the braid's we
 - [Wiring a Surface Iron](wiring-a-surface-iron.md) — A short single-strand wire link between the ring/clip and the nose of the iron, in place of tying the line straight to the jig.
 
 ### Subfolders
