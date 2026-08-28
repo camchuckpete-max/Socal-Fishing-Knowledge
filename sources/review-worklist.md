@@ -822,4 +822,6 @@ by their builders after the transform phase drains.
 | locations/mag-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/shelter-island-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/port-of-long-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/dono-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/newport-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
