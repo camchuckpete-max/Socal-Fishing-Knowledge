@@ -76,7 +76,8 @@ file](evidence/bluefin-retail-setup-high-end-vs-budget.md).
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Evidence — Bluefin Retail Outfit Ladder — High-End vs. Budget](evidence/bluefin-retail-setup-high-end-vs-budget.md)
-- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
+- [Evidence — Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](evidence/lightweight-reel-pick-turners-outdoorsman.md)
+- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 <!-- backlinks:end -->

@@ -61,6 +61,7 @@ specific reel-model picks and a cross-video presenter-identity note:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Evidence — Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](evidence/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->
