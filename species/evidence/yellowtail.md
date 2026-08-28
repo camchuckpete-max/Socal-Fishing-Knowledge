@@ -181,6 +181,7 @@ nothing was deleted, only moved.
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Dropper Loop](../../techniques/evidence/dropper-loop.md)
 - [Evidence — Sliding Sinker](../../techniques/evidence/sliding-sinker.md)
+- [Evidence — Year-Anniversary Prior](../../seasonal/evidence/year-anniversary-prior.md)
 - [Guadalupe](../../locations/guadalupe.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)

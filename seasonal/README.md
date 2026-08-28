@@ -19,7 +19,7 @@ into May — plan from the regime note and the live water, not the calendar.
 - [November–December](november-december.md) **[SoCal only]** — Regime: fall fragmentation → winter / upwelling onset — typical-year mapping; in an anomalous year trust the live water, not the calendar.
 - [October](october.md) **[SoCal only]** — Regime: fall fragmentation — typical-year mapping; in an anomalous year trust the live water, not the calendar.
 - [September](september.md) — Regime: warm stable (late) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
-- [Year-Anniversary Prior](year-anniversary-prior.md) **[SoCal only]** — This is a prior — a pattern-layer heuristic, not current intel.
+- [Year-Anniversary Prior](year-anniversary-prior.md) **[SoCal only]** — Regime: fall fragmentation — a location prior WITHIN the regime, not a calendar rule (cameron); it is strongest while that regime holds and weakens outside it.
 
 ### Subfolders
 - [evidence/](evidence/README.md)
