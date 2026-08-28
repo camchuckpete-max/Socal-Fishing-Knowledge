@@ -455,4 +455,5 @@ harvested.
 | Catalina Island | seasonal/august.md | Paddy program peaks | best paddy water is south of SCI/Catalina | `HzE4FHHcvTk` |
 | Dana Point | seasonal/august.md | Paddy program peaks | paddies scarcer/less holding north of Dana Point; best water runs Dana Point to Oceanside southward | `HzE4FHHcvTk` |
 | Oceanside | seasonal/august.md | Paddy program peaks | best paddy water runs south to Oceanside | `HzE4FHHcvTk` |
+| Catalina Island | seasonal/february-march.md | Rain and runoff | dirt hillsides dump mud into the inshore water and shut the shallow bass bite after rain | `Kf5wk_TFgTc` |
 <!-- review:harvest:end -->

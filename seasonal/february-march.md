@@ -5,6 +5,8 @@ sources: [Kf5wk_TFgTc, pcwcRdmWmLc]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+regime: cold
 ---
 
 # February–March
@@ -24,15 +26,19 @@ tuna fishery. The decision chain is a taxonomy: kelp vs. deep structure vs.
 shallow, and which of those is fishable *today* is set almost entirely by
 recent weather.
 
-- **[Sand bass](../species/sand-bass.md) hold on deep structure** through winter. This
-  is the reliable winter bass pattern when the shallows are torn up.
+- **[Sand bass](../species/sand-bass.md) hold on deep structure** through winter —
+  the most reliable bite of the season is deep-water structure (rock,
+  artificial reef, sewer pipe, hard bottom) that aggregates bait and bass with
+  it (`Kf5wk_TFgTc`).
 - **Crankbait on suspended bait balls over pipes works all winter.** Find the
   bait balls suspended off bottom structure (pipelines, hard-bottom edges) on
   the meter — see [electronics](../planning/electronics-and-sounder.md) — and
   grind a crankbait through them. This pattern is durable across the whole cold
-  season.
+  season (`Kf5wk_TFgTc`).
 - **[Calico bass](../species/calico-bass.md)** relate to kelp and shallow reef; they
-  are the first to go off when runoff dirties the inshore zone.
+  are the first to go off when runoff dirties the inshore zone — deep
+  structure is comparatively immune to runoff, kelp and shallow water are not
+  (`Kf5wk_TFgTc`).
 
 ## Rain and runoff — the dominant winter variable
 
@@ -47,16 +53,18 @@ recent weather.
   chocolate, retreat to deep structure or to the
   [breakwalls and riprap](../locations/breakwalls-jetties-riprap.md) inside the harbors,
   where spotties and bass keep biting (`Kf5wk_TFgTc`).
-- **Open item (not doctrine):** Erik was explicitly unsure whether lingering
-  low pressure beats post-frontal high pressure for winter fishing (`Kf5wk_TFgTc`).
-  Treat as an open question, not a rule.
+- **Open item (not doctrine):** whether lingering low pressure beats a
+  post-frontal high for winter fishing is unresolved (`Kf5wk_TFgTc`) — treat
+  it as an open question, not a rule.
 
 ## Velella events
 
-**Velella (by-the-wind sailor) events can make bass bites unconvertible**
-(`pcwcRdmWmLc`). When the wind stacks these blue sailors into the zone, fish that
-should eat won't commit. Read it as a soft-condition negative — the fish are
-there, the bite is off.
+**When wind stacks velella (by-the-wind sailor) swarms into a zone,
+[calico bass](../species/calico-bass.md) key on eating the sailors themselves and
+ignore everything else** — a well-presented lure gets no look (`pcwcRdmWmLc`).
+This is a selectivity problem, not a mood problem: the fish are visibly
+present and feeding, just locked onto a prey item your lure doesn't match.
+Read it as a soft-condition negative — the fish are there, the bite is off.
 
 ## Bait-size regime — match the zone, not the tank
 
