@@ -824,4 +824,5 @@ by their builders after the transform phase drains.
 | locations/port-of-long-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/dono-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/newport-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cedros-island-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
