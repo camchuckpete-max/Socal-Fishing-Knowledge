@@ -167,6 +167,7 @@ route, and the insurance carriers by name.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The "lower banks"](../locations/lower-banks.md)
 - [The 43](../locations/43.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [US waters](../locations/us-waters.md)

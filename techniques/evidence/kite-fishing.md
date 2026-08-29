@@ -173,4 +173,5 @@ contradicting one is also traced beside that doctrine in the parent.
 ## Linked from
 
 - [Kite Fishing](../kite-fishing.md)
+- [The "lower banks"](../../locations/lower-banks.md)
 <!-- backlinks:end -->

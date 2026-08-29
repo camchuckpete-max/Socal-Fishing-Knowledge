@@ -69,4 +69,5 @@ Trip reports and per-source provenance for [Bait Tanks](../bait-tanks.md).
 ## Linked from
 
 - [Bait Tanks](../bait-tanks.md)
+- [The "lower banks"](../../locations/lower-banks.md)
 <!-- backlinks:end -->

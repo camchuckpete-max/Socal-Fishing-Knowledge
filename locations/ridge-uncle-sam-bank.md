@@ -185,4 +185,5 @@ with the species and region notes that carry them:
 
 - [Baja Pacific — South](baja-pacific-south.md)
 - [San Benito Islands](san-benito-island.md)
+- [The "lower banks"](lower-banks.md)
 <!-- backlinks:end -->

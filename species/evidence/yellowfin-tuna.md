@@ -448,6 +448,7 @@ matching flagged stubs.
 - [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
 - [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md)
 - [Pyramid Head](../../locations/pyramid-head.md)
+- [The "lower banks"](../../locations/lower-banks.md)
 - [The Ridge / Uncle Sam Bank](../../locations/ridge-uncle-sam-bank.md)
 - [Yellowfin Tuna](../yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../yellowfin-tuna-flyline.md)

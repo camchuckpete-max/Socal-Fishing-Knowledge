@@ -222,6 +222,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kite-fishing.md
 - [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The "lower banks"](../locations/lower-banks.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

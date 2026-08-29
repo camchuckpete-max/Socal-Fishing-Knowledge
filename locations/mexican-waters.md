@@ -153,6 +153,7 @@ Trip reports and per-source provenance:
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tanner Bank](tanner-bank.md)
+- [The "lower banks"](lower-banks.md)
 - [The Bumps](bumps.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)

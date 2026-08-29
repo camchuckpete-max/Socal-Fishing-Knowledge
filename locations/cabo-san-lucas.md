@@ -243,4 +243,5 @@ Trip reports and per-source provenance:
 - [Evidence — Cabo San Lucas](evidence/cabo-san-lucas.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [The "lower banks"](lower-banks.md)
 <!-- backlinks:end -->

@@ -289,6 +289,7 @@
 - [Lost Point](lost-point.md) **[SoCal only]** — A charted spot at 32°51.060'N 118°30.210'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Lower 500](lower-500.md) **[Baja only]** — A charted spot at 31°10.500'N 117°02.500'W (cameron), in the 1140 Finger / 450 zone.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
+- [The "lower banks"](lower-banks.md) **[Baja only]** — [Baja only] — The San Diego long-range fleet's giant-tuna ground, and the heaviest grade of fish anywhere in this KB.
 - [Lower Cross](lower-cross.md) **[Baja only]** — A zone is a run grouping.
 - [Mail Point](mail-point.md) **[SoCal only]** — A charted spot at 32°52.760'N 118°31.290'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
@@ -450,5 +451,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 437 notes exceed the 30-node cap._
+_Map skipped: 438 notes exceed the 30-node cap._
 <!-- mermaid:end -->

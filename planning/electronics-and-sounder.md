@@ -387,6 +387,7 @@ Trip reports and per-source provenance:
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The "lower banks"](../locations/lower-banks.md)
 - [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)

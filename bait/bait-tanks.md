@@ -249,4 +249,5 @@ Trip reports and per-source provenance: [evidence file](evidence/bait-tanks.md).
 - [North Point](../locations/north-point.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [The "lower banks"](../locations/lower-banks.md)
 <!-- backlinks:end -->

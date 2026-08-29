@@ -238,6 +238,7 @@ Trip reports and per-source provenance:
 - [Evidence — Alijos Rocks](evidence/alijos-rocks.md)
 - [San Benito Islands](san-benito-island.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
+- [The "lower banks"](lower-banks.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
