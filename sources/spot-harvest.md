@@ -605,4 +605,8 @@ harvested.
 | Tanker lanes (shipping lanes off Catalina) | species/striped-marlin-trolling.md | When this is the call | run from the home port, 19.2 mi at 193° to the bottom of the tanker lanes (~17 mi out), before continuing toward the 277 bank | `3qSY328fFYo` |
 | 277 bank | species/striped-marlin-trolling.md | When this is the call | ground at the bottom of the ridge off Catalina's east end, ~35 min past the tanker lanes, worked at 68–69.4°F and producing the corpus's ~160 lb marlin | `3qSY328fFYo` |
 | Coronado Islands | species/yellowfin-tuna-flyline.md | Rigs & gear | 20 or 25 lb fluorocarbon leader for a still-forming school | `NN5MWeRA28o` |
+| Catalina Island (backside) | species/yellowfin-tuna-trolling.md | When this is the call | named SoCal window for the pod programme is the lobster opener, "first week of October, end of September," credited with 60-70 lb fish taken on the dolphin | `ouBrIdO7d4k` |
+| Ensenada | species/yellowfin-tuna-trolling.md | When this is the call | a dolphin pod broke into a full foamer and ended the troll; crew switched to flylined sardine plus chunk bait worked into the school | `0bcDBGzQnGw` |
+| San Clemente Island (front side) | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | a deep-diving hardbait paired with a cedar plug trolled around a porpoise school landed a ~60 lb yellowfin | `H-vIGWPIPVc` |
+| Cedros Island | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | October troll 20-30 mi offshore run one short/one long, with matching purple/purple colour on both credited for simultaneous doubles | `YUdbrIm9vrE` |
 <!-- review:harvest:end -->
