@@ -62,11 +62,12 @@
 - [Evidence — Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Per-source provenance for Mustad 7.5" Heavy-Duty Pliers.
 - [Evidence — Tungsten (TG) Jig Rig for Bluefin (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Per-source provenance for Tungsten (TG) jig rig for bluefin — night, day, and surface.
 - [Evidence — Penn Handle Knob Replacement Kits (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Per-source provenance for Penn Handle Knob Replacement Kits — Fathom, Torque, Squall.
+- [Evidence — Penn's "Pull to Turn" Preset Drag (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md) — Per-source provenance for Penn's "Pull to Turn" Preset Drag — Set It and Forget It.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 58 notes exceed the 30-node cap._
+_Map skipped: 59 notes exceed the 30-node cap._
 <!-- mermaid:end -->

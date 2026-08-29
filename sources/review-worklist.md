@@ -247,7 +247,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-mustad-heavy-duty-pliers.md | light | done | asr-uncertain(sheath/sheet), contradicted-internal(1) | light-tier v2 transform verified: provenance split to evidence file, material conflict flagged with ledger row, all claims conserved |
 | tackle/tackle-express-night-bluefin-tg-jig-rig.md | light | done | gaps(1) | light-tier v2 transform verified: evidence split, one miscitation and one dropped cross-reference fixed during verify |
 | tackle/tackle-express-penn-handle-knob-replacement.md | light | done | none | light-tier v2 transform verified: evidence split, all claims cited and conserved |
-| tackle/tackle-express-penn-pull-to-turn-preset-drag.md | light | pending |  |  |
+| tackle/tackle-express-penn-pull-to-turn-preset-drag.md | light | done | none | light-tier v2 transform verified: evidence split, stray tool-output artifact fixed, all claims conserved |
 | tackle/tackle-express-penn-vs-avet-lever-drag.md | light | pending |  |  |
 | tackle/tackle-express-phenix-axis-rockfish-rod.md | light | pending |  |  |
 | tackle/tackle-express-premade-rock-cod-rig.md | light | pending |  |  |

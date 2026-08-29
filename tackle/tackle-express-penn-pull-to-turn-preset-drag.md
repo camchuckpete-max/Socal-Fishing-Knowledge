@@ -3,55 +3,56 @@ type: tackle
 tags: [reels, penn, drag, drag-setting, lever-drag, preset-drag, tackle-express]
 sources: [jFlAdWRj3HI, xL1sMpmWcnk]
 confidence: medium
+layout: v2
 ---
 
 # Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)
 
-A very short shop-counter clip naming and explaining Penn's own term for its
-preset-drag philosophy on its reels (Tackle Express, unnamed staff on camera,
-unregistered channel, single 38-second mention — medium confidence; "Penn's
-Secret to Perfect Drag: Set It and Forget It!," `jFlAdWRj3HI`, uploaded
-2026-02-23).
+"Pull to turn" is Penn's name for a preset-drag philosophy on some of its
+reels: set the strike drag once, then leave it alone (`jFlAdWRj3HI`). No reel
+model is named on camera for the pull-to-turn reel itself, and no numeric
+pull-to-turn ratio or species/application context is given (`jFlAdWRj3HI`).
 
-- **"Pull to turn" is Penn's name for its preset drag.** The idea: set the
-  strike drag once, then leave it alone — "you set it one and done, you forget
-  about it, leave it unless something changes."
-- **Examples given for "something changes":** a change in line size, or a
-  change in the class of fish being targeted — offered on camera as examples
-  ("whatever it may be"), not stated as an exhaustive list of triggers.
-- **Worked example given on camera:** fishing 30 lb of drag at strike — "if
-  everything's good, you leave it."
-- **Adjustment method: go all the way to free spool, then tighten or loosen.**
-  This is a Penn-specific restatement of the same free-spool-only rule already
-  documented as a general lever-drag mechanism in [drag setting](drag-setting.md)
-  (the "never touch your lever drag while fishing" mechanism, same channel,
-  `M9_nvBPajDU`) — same channel, same "never touch it in gear, only from free
-  spool" logic, here framed as the point of the pull-to-turn ratio rather than
-  as a damage warning.
-- **Stated goal of the whole system:** set the drag once, be done, and forget
-  it — minimizing how often an angler has to touch the drag at all once it's
-  dialed in.
+## The pull-to-turn method
 
-**Physical contrast with the roll-style preset, and where pull-to-turn sits
-in Penn's own lineup (Tackle Express, `xL1sMpmWcnk`, "How to Set Drag on
-Lever Drag Reels PROPERLY (Avoid Damage!)," uploaded 2026-01-07, presenter
-unnamed on camera; unregistered channel — medium confidence, single mention
-of this specific contrast):** most lever-drag reels use a preset knob that
-simply **rolls forward or back** with a finger — per this clip, that includes
-both the two-speed reels it calls "Speedmaster" and the **Penn Fathom**
-("same exact lever drag circumstances" as the Speedmaster, including the
-free-spool-only rule above). **Pull-to-turn is a *different* Penn reel, not
-the Fathom** — the clip doesn't name which model — where the preset knob has
-to be **pulled outward before it will turn**, instead of rolling with a
-finger; no reason for the design difference is given on camera.
+- Set the strike drag once and leave it — "you set it one and done, you
+  forget about it, leave it unless something changes" (`jFlAdWRj3HI`).
+- Reset triggers given on camera: a change in line size, or a change in the
+  class of fish being targeted, offered as examples ("whatever it may be"),
+  not as an exhaustive list (`jFlAdWRj3HI`).
+- Worked example: 30 lb of drag at strike — "if everything's good, you leave
+  it" (`jFlAdWRj3HI`).
+- Adjustment method: go all the way to free spool, then tighten or loosen.
+  This is a Penn-specific restatement of the same free-spool-only rule
+  documented as a general lever-drag mechanism in
+  [drag setting](drag-setting.md) (the "never touch your lever drag while
+  fishing" mechanism, same channel, `M9_nvBPajDU`), here framed as the point
+  of the pull-to-turn ratio rather than as a damage warning (`jFlAdWRj3HI`).
+- The system's goal is minimizing how often an angler has to touch the drag
+  at all once it is dialed in (`jFlAdWRj3HI`).
+
+## Roll-style vs. pull-to-turn
+
+Most Penn lever-drag reels use a preset knob that rolls forward or back with
+a finger, including both the two-speed "Speedmaster" reels and the Penn
+Fathom — the clip calls the Fathom "the same exact lever drag circumstances"
+as the Speedmaster, including the free-spool-only rule above (`xL1sMpmWcnk`).
+Pull-to-turn is a *different* Penn reel, not the Fathom; its preset knob must
+be pulled outward before it will turn, instead of rolling with a finger, and
+no reason for the design difference is given on camera (`xL1sMpmWcnk`).
 
 ## Scope and gaps
 
-No reel model is named on camera for the pull-to-turn reel itself — only
-"Penn" (the `xL1sMpmWcnk` clip above places the Penn Fathom on the roll-style
-side instead, so pull-to-turn is some other, unnamed Penn line). No numeric
-pull-to-turn ratio, line class beyond the 30 lb strike-drag example, or
-species/application context is given in either clip.
+No reel model is named on camera for the pull-to-turn reel — only "Penn."
+`xL1sMpmWcnk` places the Penn Fathom on the roll-style side instead, so
+pull-to-turn is some other, unnamed Penn line. No numeric pull-to-turn ratio,
+line class beyond the 30 lb strike-drag example, or species/application
+context is given in either clip.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-penn-pull-to-turn-preset-drag.md).
 
 ## Related
 
@@ -71,5 +72,6 @@ species/application context is given in either clip.
 ## Linked from
 
 - [Drag Setting — General Judgment](drag-setting.md)
+- [Evidence — Penn's "Pull to Turn" Preset Drag (Tackle Express)](evidence/tackle-express-penn-pull-to-turn-preset-drag.md)
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
 <!-- backlinks:end -->
