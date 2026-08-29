@@ -59,11 +59,12 @@
 - [Evidence — PowerPro Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) — Per-source provenance for PowerPro Maxcuatro vs.
 - [Evidence — Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md) — Per-source provenance for Maxima Shark Tooth — Leader-Spool Band & Cutter.
 - [Evidence — Spinning Rod for "Minnow-Style" Fishing (Tackle Express)](tackle-express-minnow-rod.md) — Per-source provenance for Spinning Rod for "Minnow-Style" Fishing.
+- [Evidence — Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Per-source provenance for Mustad 7.5" Heavy-Duty Pliers.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 55 notes exceed the 30-node cap._
+_Map skipped: 56 notes exceed the 30-node cap._
 <!-- mermaid:end -->

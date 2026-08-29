@@ -3,56 +3,51 @@ type: tackle
 tags: [pliers, mustad, boat-tools, tackle-express]
 sources: [B44kVCdUN0o]
 confidence: low
+layout: v2
 ---
 
 # Mustad 7.5" Heavy-Duty Pliers (Tackle Express)
 
-Tackle Express, "7 Must-have Fishing Products in 2020" (`B44kVCdUN0o`, uploaded
-2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" —
-a ~70-second segment inside a seven-product shop round-up. A straight
-product-feature pitch with no technique or decision content — per the
-confidence rubric ("low — sponsored or promotional claim, regardless of
-channel") this note is capped at **low** in full, on top of `tackle-express`
-being an unregistered channel. The video's other six products are freshwater
+A ~70-second Tackle Express product segment for the Mustad 7.5 in. heavy-duty
+pliers (`B44kVCdUN0o`), inside a seven-product shop round-up with no
+technique or decision content beyond the presenter's own use. It is a
+straight product-feature pitch; per the confidence rubric ("low — sponsored
+or promotional claim, regardless of channel") this note is capped at low
+confidence in full, on top of `tackle-express` being an unregistered channel
+(`B44kVCdUN0o`). The video's other six products are freshwater
 reservoir-bass tackle (drop-shot weights, a Ned-rig tungsten jig head,
-underspin swimbaits, hand-tied bass jigs) explicitly tied to Castaic and
-Pyramid Lakes and out of this KB's SoCal/Baja saltwater scope — skipped, not
-extracted.
+underspin swimbaits, hand-tied bass jigs) tied to Castaic and Pyramid
+Lakes — out of this KB's SoCal/Baja saltwater scope — and skipped.
 
 ## What's claimed
 
-- **Mustad heavy-duty pliers, 7.5 in.** Comes with a sheath (auto-caption
-  reads "sheet," which isn't a real accessory for pliers — carried as
-  "sheath," `asr-uncertain`).
-- **Nose width and rigidity.** Described as unusually wide at the nose and
-  claimed not to bend or spring out of shape, contrasted against ordinary
-  aluminum-body pliers with stainless jaws that the presenter says *do* bend
-  when wrenching a hook out of a fish.
-- **Body/jaw material — two statements not reconciled here.** Earlier in the
-  segment the presenter calls them "aluminum pliers" with "steel jaws... they
-  have stainless steel jaws." Later in the same segment he says "they're
-  anodized black and they're all aluminum with the exception of the nose and
-  the cutters, or tungsten carbide." Both claims are kept side by side rather
-  than merged into one spec, since they name different hardening materials
-  (stainless steel vs. tungsten carbide) and it isn't clear from the audio
-  whether "nose" and "jaws" are meant as the same part.
-- **Ergonomic grip, black anodized finish.**
-- **Cutting performance.** Stated to cut braid "no problem" and mono/
-  fluorocarbon "like butter."
-- **Presenter's own use (Chad, on camera):** used personally, catching
-  halibut at the beach with them. States an expectation — not something
-  demonstrated on camera — that they'd hold up wrenching hooks on tuna-class
-  "big fish, big hooks" without the nose bending.
-- **Price, stated as of the 2020-09-04 upload:** about **$80** — called "a
-  little spendy" but "well worth" it, with a claim they'll "last you a
-  lifetime."
+- **7.5 in. heavy-duty pliers, ships with a sheath** (captioned "sheet" —
+  asr-uncertain) (`B44kVCdUN0o`).
+- **Nose width and rigidity.** The nose is unusually wide and does not bend,
+  contrasted against ordinary aluminum-body pliers with stainless jaws that
+  bend when wrenching a hook out of a fish (`B44kVCdUN0o`).
+- **Body/jaw material — two statements, not reconciled.** Earlier in the
+  segment: aluminum pliers with steel jaws, called "stainless steel jaws."
+  Later in the same segment: anodized black, all aluminum except the nose
+  and the cutters, which are tungsten carbide (`B44kVCdUN0o`). ⚠ Fact-check
+  (contradicted-internal): stainless steel and tungsten carbide are
+  different hardening materials, and the segment never makes clear whether
+  "nose" and "jaws" name the same part.
+- **Ergonomic grip, black anodized finish** (`B44kVCdUN0o`).
+- **Cutting performance.** Cuts braid "no problem" and mono/fluorocarbon
+  "like butter" (`B44kVCdUN0o`).
+- **Field use.** The presenter has fished halibut at the beach with them and
+  expects — without demonstrating it on camera — that the nose will hold up
+  wrenching hooks on tuna-class "big fish, big hooks" (`B44kVCdUN0o`).
+- **Price, as of the 2020-09-04 upload: about $80** — called "a little
+  spendy" but "well worth" it, with a claim they'll last a lifetime
+  (`B44kVCdUN0o`).
 
 ## Related
 
 - [Reel & rod maintenance](reel-maintenance.md) — the general care discipline
   this product sits alongside; that note's hook-wear judgment already flags
-  "wearing down from repeated pliers work" as one visual cue for swapping a
-  hook.
+  wear from repeated pliers work as one visual cue for swapping a hook.
 - [Line & leader](line-and-leader.md) — braid/mono/fluoro cutting context this
   product's cutting-edge claim sits alongside.
 - [Gear classes](gear-classes.md) — the class-term lexicon this named product
@@ -64,9 +59,15 @@ extracted.
   the other pliers product on this channel, covering split rings rather than
   hook removal.
 
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-mustad-heavy-duty-pliers.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](evidence/tackle-express-mustad-heavy-duty-pliers.md)
 - [Evidence — Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](evidence/tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
