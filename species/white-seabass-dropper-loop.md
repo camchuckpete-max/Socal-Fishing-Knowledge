@@ -20,7 +20,7 @@ riding a short tag above it, fished where the squid are spawning and the
 seabass are grazing the bed (`Eo_bA8IWvyU`). Every number in it is set by
 something other than the bottom — the **depth** by the squid bed, the **4 ft
 sinker-to-hook leader** by which bycatch you are trying not to catch, and the
-**8–18 in tag** by how the squid moves in the current. Reach for it when the
+**tag length** by how the squid moves in the current. Reach for it when the
 skipper calls the fish down on the nest rather than up in the column. The loop
 knot, the general sinker ladder and the rig's other species are in
 [dropper loop](../techniques/dropper-loop.md); this page is what changes
@@ -36,9 +36,10 @@ The gate is the depth call, not the technique's general "fish are on the
 bottom": white seabass are not a bottom fish, and this rig is only right when
 the fish have been put on the bed (`Eo_bA8IWvyU`).
 
-**A soak while your hands are busy, including the overnight anchor.** The rig
-fishes itself in a holder, which is why crews run it through a night anchor
-soak alongside actively-worked presentations (`Y2bXn44lfqo`).
+**The overnight anchor soak.** On an anchored night trip the dropper loops
+stay out in the holders — several at once, bow and stern — while anyone who
+wants to work a cast presentation does, which is the setting the circle-hook
+build below comes out of (`Y2bXn44lfqo`).
 
 **It is not the call when the fish are called up in the column.** Fish marked
 at 20–30 ft over 60–100 ft of water are a
@@ -81,14 +82,16 @@ A squid's own swimming is not part of the presentation; the current is.
 
 **Bite handling: let it chomp, set when the rod loads.** A white seabass chomps
 and eats slowly, so the set comes when the rod **loads down**, not on the first
-tap (`Eo_bA8IWvyU`). Paired with the species' soft mouth — stretchy mono, a
-soft or parabolic tip, a lighter drag than usual — this is a load-up, not a
-swing; the general fight and landing chain is in
+tap (`Eo_bA8IWvyU`). The load-down is the cue to set and start winding; paired
+with the species' soft mouth, that means stretchy mono, a soft or parabolic
+tip and a lighter drag than usual. The general fight and landing chain is in
 [white seabass — landing & handling](white-seabass.md#landing--handling).
 
 ## Rigs & gear
 
 - **Sinker: an 8–12 oz torpedo**, sized to depth and current (`Eo_bA8IWvyU`).
+  A wider, unreconciled torpedo range for the same Channel Islands drop is kept
+  in [dropper loop](../techniques/dropper-loop.md#building-the-rig).
 - **Hook: an Owner Ahi twist long-shank J in 50–70** — a long shank sized to
   pin a whole fresh-dead squid (`Eo_bA8IWvyU`). Where every fish is going back
   alive, the substitution is a **circle hook** — see
@@ -138,18 +141,21 @@ knot, the multi-species sinker ladder and the rig's hookset spread:
   it at about 4 ft to keep rays and sharks off a forward-mouthed fish
   (`Eo_bA8IWvyU`, `ShSxNKAcUB4`).
 - **"Err long" on the loop has a ceiling here.** The general rule is that a
-  longer loop gives the bait more action; the white seabass tag is capped at
-  8–18 in so the squid works in the current without lying down on the bed
-  (`Eo_bA8IWvyU`, `ShSxNKAcUB4`).
+  longer loop gives the bait more action; the white seabass figures are short
+  and capped — an 8–12 to 16 in tag, or a hook 12–18 in above the weight — so
+  the squid works in the current without lying down on the bed (`Eo_bA8IWvyU`,
+  `ShSxNKAcUB4`).
 - **The bait is dead on purpose.** The general note's default bait is a live,
   nose-hooked mackerel, with a whole set of moves for keeping it swimming and
   stopping it dragging the sinker; none of that applies to a fresh-dead squid
   pinned on a long-shank hook (`Eo_bA8IWvyU`).
-- **The hookset is a load-up, not a drive.** The general note carries several
-  sets side by side — a two-crank-and-lift J-hook drive, a circle self-set, a
-  slow steady wind, a swing-on-the-turn. This fish takes the softest of them:
-  wait for the rod to load, because the mouth is soft and the fish is chomping
-  its way through a squid (`Eo_bA8IWvyU`).
+- **The set is timed to the rod loading, not to the pull-down.** The general
+  note's deploy sequence sets on the tip pulling down and staying down — two
+  cranks and a hard lift on a J hook; here the fish chomps its way through a
+  squid, so the set waits for the rod to load down and goes straight into
+  winding, on a mouth soft enough to pull a hook (`Eo_bA8IWvyU`). The general
+  note's other sets — circle self-set, slow steady wind, swing-on-the-turn —
+  stay side by side there and are not reconciled here.
 - **The gear class is NOT a delta on its own.** A 40 lb star-drag bottom outfit
   is ordinary for this rig; what earns this page is the parameter set — the
   bed-keyed depth, the bycatch-sized leader, the capped tag, the fresh-dead
