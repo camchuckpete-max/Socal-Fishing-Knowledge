@@ -246,3 +246,4 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T07:52:23Z — techniques/slow-pitch-jigging.md — guard-violation
 - run: 33240630796
 - reason: commit 18e90db927a833ce4a02734fbebc81544c8909f5 reverted: protected path touched: profiles/cameron/rods.md
+- resolved: the destination edit was unnecessary — profiles/cameron/rods.md already carried the shopping note. Re-executed as a removal from the technique note plus a (cameron) line in techniques/evidence/slow-pitch-jigging.md pointing at the profile (commit 03021975); the relocation-queue row is now `done`.
