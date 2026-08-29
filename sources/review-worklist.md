@@ -232,7 +232,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-charter-bait-tank-hook-kit.md | light | done | asr-uncertain(Aki Twist/Oy Twist/OSHAY hook names still unresolved) | transform: plain-statement rewrite + evidence split (layout v2, light tier) |
 | tackle/tackle-express-ci4-plus-reel-features.md | light | done | none | transform verified, apply-with-changes: restored dropped provenance (titles/upload dates) into a new evidence file per established sibling pattern |
 | tackle/tackle-express-daiwa-coastal-tw200-reel.md | light | done | none | transform verified, one dropped quote restored |
-| tackle/tackle-express-daiwa-luvias-st-spinning-reel.md | light | transformed | none | transform applied cleanly: prose compressed to plain-statement style, cites added throughout, provenance/presenter detail split to new evidence/ file, layout: v2 added |
+| tackle/tackle-express-daiwa-luvias-st-spinning-reel.md | light | done | none | transform applied cleanly: prose compressed to plain-statement style, cites added throughout, provenance/presenter detail split to new evidence/ file, layout: v2 added |
 | tackle/tackle-express-daiwa-saltiga-reel.md | light | pending |  |  |
 | tackle/tackle-express-daiwa-saltist-sd-reel.md | light | pending |  |  |
 | tackle/tackle-express-fast-tip-for-finicky-bite-drag-drift.md | light | pending |  |  |
