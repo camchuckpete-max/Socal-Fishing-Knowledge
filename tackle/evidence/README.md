@@ -70,11 +70,12 @@
 - [Evidence — Daiwa Saltiga 300 Round Jigging Reel (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Per-source provenance for Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock.
 - [Evidence — Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md) — Per-source provenance for Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive.
 - [Evidence — Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — Per-source provenance for Shimano Talica — S Compact Body, Infinity Drive, Hagane Body.
+- [Evidence — Shimano Tranx 300B Body, Gearing, and Model Lineup (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md) — Per-source provenance for Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 66 notes exceed the 30-node cap._
+_Map skipped: 67 notes exceed the 30-node cap._
 <!-- mermaid:end -->

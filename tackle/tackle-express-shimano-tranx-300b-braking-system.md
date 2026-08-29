@@ -80,6 +80,7 @@ being an unregistered channel.
 ## Linked from
 
 - [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md)
+- [Evidence — Shimano Tranx 300B Body, Gearing, and Model Lineup (Tackle Express)](evidence/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
