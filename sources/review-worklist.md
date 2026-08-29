@@ -870,7 +870,7 @@ by their builders after the transform phase drains.
 | locations/lighthouse-point-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/cabrilla-jerkbait.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
 | species/cabrilla-yo-yo-iron.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
-| species/calico-bass-surface-iron.md | standard | pending |  | created by relocation from species/calico-bass.md |
+| species/calico-bass-surface-iron.md | standard | transformed | gaps(1 pre-existing), misplaced(0), spots(3), reg-claims(0) | verified: note already compliant; diff is 3-row spot-harvest addition (Cedros Island x2, Geronimo Island/Chester's Rock) |
 | species/california-halibut-live-bait-drift.md | standard | pending |  | created by relocation from species/california-halibut.md |
 | species/california-halibut-surf-lures.md | standard | pending |  | created by relocation from species/california-halibut.md |
 <!-- review:worklist:end -->

@@ -591,4 +591,7 @@ harvested.
 | Alijos Rocks | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | Lead | destination for the 7-day trip this five-outfit quiver is built for | `uWGGeDOprsE` |
 | The Ridge | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | Lead | named alongside Alijos Rocks as the 7-day trip's destination | `uWGGeDOprsE` |
 | Cedros Island | tackle/tackle-express-jig-stick-trolling-outfit.md | Cedros application | jig-stick/trolling dual-purpose outfit fished for yellowtail as one rod in a four-rod Cedros quiver | `_C7TJoGT0nw` |
+| Cedros Island | species/calico-bass-surface-iron.md | When this is the call | fish located on the sounder as reef bottom at 18–20 ft with birds working overhead; iron fished wide open on the drift | `I-QBxuV2p7M` |
+| Geronimo Island / Chester's Rock (Cedros Island) | species/calico-bass-surface-iron.md | When this is the call | birds flaring over ground is the search cue; crew ran to the birds and threw the jig | `3SATCeA3KaU` |
+| Cedros Island | species/calico-bass-surface-iron.md | When this is the call | mid-day filler ground when the yellowtail bite quit inside the first two hours; calico thick enough to be "raining calicos" | `IdMJnlg_rZk`, `2cxeg_AE418` |
 <!-- review:harvest:end -->
