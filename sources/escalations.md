@@ -234,3 +234,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T07:33:34Z — techniques/surface-iron.md — guard-violation
 - run: 33240630796
 - reason: commit e86ad53243f236f1e07f774a99cea9393004d188 reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-29T07:37:10Z — techniques/surface-iron.md -> profiles/cameron/rods.md — verify-escalate
+- run: 33240630796
+- reason: profiles/ is guard-protected (scripts/review/guard.py:58) so no relocate unit can land content at a profiles/ destination — harmless here (dst already held both facts) but two pending rows would be real information loss as removal-only: species/bluefin-tuna.md -> profiles/cameron/tackle.md (kite/helium/July-2026 absent from tackle.md) and species/bluefin-tuna-trolling.md -> profiles/cameron/trolling-lures.md (panga-space reason absent). Cameron must rule: unprotect profiles/ for the relocation pass, or convert those rows to remove-only-if-destination-already-carries-it
