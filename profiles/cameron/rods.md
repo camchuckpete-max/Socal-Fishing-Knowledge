@@ -86,6 +86,7 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](tackle.md)
+- [Evidence — Bluefin Tuna](../../species/evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](../../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Knife Jigs](../../lures/knife-jigs.md)

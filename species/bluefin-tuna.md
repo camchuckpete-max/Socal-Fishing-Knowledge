@@ -377,12 +377,6 @@ turns on.
   bigger one, timed around [slack tide](../conditions/tide-and-slack.md).
   Approach mechanics and common failures are in
   [foamer casting](../techniques/foamer-casting.md).
-  Started kite fishing July 2026; ruled out a helium-balloon assist as too
-  expensive with no room for a tank on the panga; would cast his heaviest
-  jig-stick/rail-class setup at a jumbo **80–140 lb** foamer school (cameron).
-  ⚠ misplaced-content: those three items are angler constraints and inventory
-  status, which belong in [Cameron's profile](../profiles/cameron/tackle.md),
-  not in a universal species note.
 - **Bluefin gear does not get scaled down on a mixed tuna trip**, unlike
   [skipjack and schoolie yellowfin](skipjack-tuna.md) — grade is unpredictable
   trip to trip, so tackle stays sized for the biggest fish that could show

@@ -61,7 +61,6 @@ subset he owns. Class terms: [gear classes](../../tackle/gear-classes.md).
 ## Linked from
 
 - [Bay Bass Plastics](../../lures/bay-bass-plastics.md)
-- [Bluefin Tuna](../../species/bluefin-tuna.md)
 - [Iron Jigs](../../lures/iron-jigs.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Soft-Plastic Swimbaits](../../lures/soft-plastic-swimbaits.md)
