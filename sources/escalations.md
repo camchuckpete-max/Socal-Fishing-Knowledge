@@ -230,3 +230,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T07:28:12Z — species/yellowtail.md -> locations/cortez-bank.md — verify-escalate
 - run: 33240630796
 - reason: dst redirected at execution to locations/tanner-bank.md; two gazetteer worklist rows still schedule the page the review decided not to build — sources/review-worklist.md:422 locations/cortez-bank.md and :821 locations/cortez-bank-tanner-bank.md, both pending, would produce duplicate pages under the variant spelling
+
+## 2026-08-29T07:33:34Z — techniques/surface-iron.md — guard-violation
+- run: 33240630796
+- reason: commit e86ad53243f236f1e07f774a99cea9393004d188 reverted: protected path touched: profiles/cameron/rods.md
