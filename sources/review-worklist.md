@@ -880,7 +880,7 @@ by their builders after the transform phase drains.
 | species/sand-bass-sliding-sinker.md | standard | transformed | none | verified compliant, no changes needed (154 lines; check-note.py clean, transcript spot-checks faithful) |
 | species/sand-bass-alabama-rig.md | standard | transformed | none | verified compliant, no changes needed (141 lines; check-note.py clean, 6 transcript spot-checks faithful) |
 | species/sheephead-sliding-sinker.md | standard | transformed | none | verified compliant, no changes needed (161 lines; check-note.py clean, 3 transcript spot-checks faithful) |
-| species/sheephead-tube-bait-fishing.md | standard | pending |  | created by relocation from species/sheephead.md |
+| species/sheephead-tube-bait-fishing.md | standard | transformed | spots(5) | already v2-compliant; added 5 spot-harvest rows (Catalina/SanClemente/Coronado/Cedros/Ensenada), verifier fixed 1 San Clemente misattribution |
 | lures/bucktail-jigs.md | standard | pending |  | created by relocation from species/snook.md |
 | species/spotted-bay-bass-structure-pitching.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |
 | species/spotted-bay-bass-bottom-jig-crawl.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |

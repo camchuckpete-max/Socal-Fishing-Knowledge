@@ -227,6 +227,11 @@ harvested.
 | Dono (Baja Pacific north) | species/sheephead.md | evidence — feeding triggers | a sheephead ate a slow-wound homemade butter-knife jig on the wind-up | `L3tkGVu516A` |
 | Coronado Islands | species/sheephead.md | Presence & forage | named among the structure that holds live red crab, where the red-crab bait produces resident bass and sheephead | `5Oh3IPIC5g4` |
 | San Clemente Island | species/sheephead.md | Presence & forage | named among the red-crab-holding island structure for the same bait | `5Oh3IPIC5g4` |
+| Catalina Island | species/sheephead-tube-bait-fishing.md | When this is the call | red-crab structure where sheephead come as tube-bait by-catch while bass or rockfish fishing | `5Oh3IPIC5g4` |
+| San Clemente Island | species/sheephead-tube-bait-fishing.md | When this is the call | named among the red-crab tube-bait island structure for the by-catch program | `5Oh3IPIC5g4` |
+| Coronado Islands | species/sheephead-tube-bait-fishing.md | When this is the call | fish sitting tight to the islands named among the red-crab tube-bait structure | `5Oh3IPIC5g4` |
+| Cedros Island | species/sheephead-tube-bait-fishing.md | When this is the call | named red-crab structure; the 1 oz Big Game and 1 oz bullet red-crab pair covers everything at the island | `5Oh3IPIC5g4` |
+| Ensenada | species/sheephead-tube-bait-fishing.md | When this is the call | Baja named among the red-crab-holding structure for the tube-bait by-catch program | `5Oh3IPIC5g4` |
 | Cortez Bank | species/skipjack-tuna.md | Where & when | skipjack "in the mix" with yellowtail and yellowfin on day one of a five-day trip fished on the bank | `i3qIAHW-SJc` |
 | Ensenada | species/skipjack-tuna.md | Where & when | skipjack called on the troll about 35 mi off Ensenada, with yellowfin and yellowtail on the same troll | `0bcDBGzQnGw` |
 | East Cape (Buena Vista Beach Resort) | species/skipjack-tuna.md | evidence — Situations → techniques | roughly 15–20 skipjack aboard as bycatch on a single morning's offshore troll for tuna/dorado/wahoo/marlin | `tcso7Lpm_Xs` |
