@@ -120,11 +120,10 @@ stated reason for actively fishing a squid-baited lead head by feel and getting
 a mouth hookup instead; the same crew still ran dropper loops on the overnight
 anchor soak, but rigged with **circle hooks** (`Y2bXn44lfqo`). Gut-hook
 avoidance carried more weight there than usual because every fish was going
-back alive. Where fish are being kept, the corpus's stated dropper-loop hook is
-the Owner Ahi twist long-shank J in **50–70** (`Eo_bA8IWvyU`). Not reduced to
-one recommendation. Note that a circle hook also changes the bite handling
-above — a circle is meant to self-set on the wind rather than be driven by a
-loading rod.
+back alive. Where fish are being kept, the dropper-loop hook is the Owner Ahi
+twist long-shank J in **50–70** (`Eo_bA8IWvyU`). A circle hook also changes the
+bite handling above — a circle is meant to self-set on the wind rather than be
+driven by a loading rod.
 
 ## Differs from the general method
 
