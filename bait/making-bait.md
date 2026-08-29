@@ -46,19 +46,20 @@ above; how you handle it affects both your wait and your bait quality:
   load around 6:00 a.m., which is when the barge lines up. Arriving at
   **5:00 a.m.** or **7:00 a.m.** (or loading mid-day) instead avoids the
   line entirely.
-  **Corroborated, earlier-still option added (same presenter, two live
-  seminars at the PCS Show the same weekend — `bM2vUS1B-yQ`, 2023-03-03, and
-  `ztpj1Xll0-U`, 2023-03-02; registered voice, repeated doctrine — high
-  confidence on the core avoid-the-rush rule):** names the rush as
+  **Corroborated, earlier-still option added (same presenter, live seminar,
+  PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, repeated doctrine —
+  high confidence on the core avoid-the-rush rule):** names the rush as
   charter, half-day, **and** 3/4-day boats all converging by 6:00 a.m., with
   a line already forming by a quarter to six; states his own target as **"at
   least five o'clock in the morning, if not four thirty."** A tighter/earlier
-  version of the same 5:00 a.m. option above, not a conflicting number. At
-  Dana Point the published sportboat schedule has the whole fleet leaving at
-  **6:00 a.m.**, which is the hour the private-boat line forms, so leaving at
-  **5:00 a.m. or 4:30 a.m.** means "no line or wait" (`ztpj1Xll0-U`). The
-  same presenter qualifies the late option rather than dropping it: leaving
-  at **7:00 a.m.** stays clear of the queue, but by then "it's all gone"
+  version of the same 5:00 a.m. option above, not a conflicting number.
+  The same presenter repeats it at the previous day's seminar of the same
+  weekend (`ztpj1Xll0-U`, 2023-03-02), adding the Dana Point specifics: the
+  sportboat schedule has all the boats leaving Dana Point at **6:00 a.m.**,
+  which is the hour the private-boat line forms, so leaving at **5:00 a.m.
+  or 4:30 a.m.** means "no line or wait" (`ztpj1Xll0-U`). He qualifies the
+  late option rather than dropping it: a **7:00 a.m.** arrival does avoid
+  the line (`7WapaxdtjQg`, above), but by then "it's all gone"
   (`ztpj1Xll0-U`) — the 7:00 a.m. slot buys a short line at the cost of the
   morning window.
 
