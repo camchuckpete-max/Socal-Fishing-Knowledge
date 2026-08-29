@@ -203,11 +203,7 @@ surface — carries three different correct responses:
   once something better is confirmed underneath.
 
 Skipjack are worth catching in their own right and are a ready live-bait source
-when the target is a bigger bluefin, given an interest in **rare/unusual species
-and oddball bycatch, not just target fish** (cameron).
-⚠ misplaced-content: the stated interest in rare species and oddball bycatch is
-profile data, not fishery doctrine — queued in
-[`sources/relocation-queue.md`](../sources/relocation-queue.md).
+when the target is a bigger bluefin (cameron).
 
 ## Landing & handling
 

@@ -259,3 +259,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T09:14:05Z — unknown — guard-violation
 - run: 33240630796
 - reason: sweep found violation in 20c8dc5f2812de4cdc80a866a1d7a1e34fb1f91b but revert conflicted — MANUAL ATTENTION: unparseable review commit subject: 'review: mark the slow-pitch-jigging relocation escalation resolved'
+
+## 2026-08-29T10:59:59Z — species/skipjack-tuna.md -> profiles/cameron/README.md — verify-escalate
+- run: 33246070281
+- reason: destination profiles/cameron/README.md carries NO line for this interest and the guard blocks writing profiles/, so the interest lives only in species/evidence/skipjack-tuna.md — Cameron must land 'interested in rare/unusual species and oddball bycatch, not just target fish' in his profile himself; also a cameron-cited Doctrine & conflicts sentence was edited

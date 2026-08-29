@@ -157,11 +157,11 @@ footage (`lxFNVdDhMy4`).
   stock bait, stay and wait, get past them) that differ by what else is
   confirmed in the water.
 - `cameron`: an interest in rare and unusual species and oddball bycatch rather
-  than target fish only, with skipjack as the routine version of that and a ready
-  live-bait source when the target is a bigger bluefin. Flagged
-  `⚠ misplaced-content` in the parent and queued in
-  [`sources/relocation-queue.md`](../../sources/relocation-queue.md) — an
-  angler's stated interests are profile data.
+  than target fish only, with skipjack as the routine version of that and a
+  ready live-bait source when the target is a bigger bluefin. The interest is
+  an angler's stated preference rather than fishery doctrine, held here and in
+  [Cameron's profile](../../profiles/cameron/README.md) — which does not yet
+  carry it — while the parent keeps only the operational half.
 
 <!-- backlinks:start -->
 ## Linked from
