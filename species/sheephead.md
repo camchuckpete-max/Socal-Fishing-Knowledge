@@ -20,8 +20,10 @@ California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard
 structure "every single day," which makes them the target once the water cools
 and the dorado/yellowtail/bluefin season shuts off (`OSbAHdB4uPs`). The
 dedicated program is inshore and small: chum the structure, then suspend a thin
-strip of clam, mussel or squid off the bottom on a **1/4–1/2 oz** slider and a
-**No. 2 or No. 4** thin-wire bronze hook (`OSbAHdB4uPs`). Everywhere else they
+strip of clam, mussel or squid off the bottom on a capped slider weight and a
+small thin-wire hook (`OSbAHdB4uPs`) — the full program, with its weights, hook
+sizes and bait ranking, is in
+[sheephead — sliding sinker](sheephead-sliding-sinker.md). Everywhere else they
 arrive as by-catch on somebody else's program — the island bass drift, the bank
 rockfish stop, the slow-pitch drop — and the biggest recorded fish, **15–24 lb**,
 came on red-crab soft baits thrown into island rock (`5Oh3IPIC5g4`,
@@ -79,10 +81,11 @@ sheephead" (`46ha7J1Fc6A`) — see [Regulations](#regulations).
   [tube baits](../lures/tube-baits.md).
   ⚠ Fact-check (single-source): both grade figures come from one presenter
   promoting his own bait at two seminars.
-- **The mouth sits at the front of the face, not underneath** (`OSbAHdB4uPs`).
-  That is the mechanism behind the whole suspended-bait program: a bait lying
-  on the bottom is below the fish's feeding plane and draws shovelnose sharks,
-  bat rays, smoothhound and leopard sharks instead.
+- **The mouth sits at the front of the face, not underneath** (`OSbAHdB4uPs`),
+  so they feed up into the column rather than down into the sand. That is the
+  mechanism behind the whole suspended-bait program — what a bottomed bait
+  catches instead is in
+  [sheephead — sliding sinker](sheephead-sliding-sinker.md).
 - **The mouth is small for the body**, so a **1 oz "bullet"** profile
   out-produces the larger "Big Game" size of the same bait — a smaller profile
   is easier for them to take in (`5Oh3IPIC5g4`). The same logic runs through
@@ -116,9 +119,11 @@ about season, grade or spawning behaviour.
   live structure spot, and a spot where nothing bites is the signal to move
   (`ShSxNKAcUB4`). A sheephead at Dono ate a slow-wound jig **on the wind-up**
   (`L3tkGVu516A`).
-- **Time in the strike zone is the parameter the weight controls.** A slider
-  heavier than 1/2 oz drops the bait past the fish — "you don't want to go
-  flying by" (`OSbAHdB4uPs`). A jumbo-sheephead clip makes the same strike-zone
+- **Time in the strike zone is the parameter the weight controls.** Too much
+  lead drops the bait past a fish holding above the structure, which is why the
+  program caps the slider (`OSbAHdB4uPs`) — the weight ceiling itself is in
+  [sheephead — sliding sinker](sheephead-sliding-sinker.md). A jumbo-sheephead
+  clip makes the same strike-zone
   claim, but in its title only — nothing in the footage supports it
   (`qKOmJH_WtJo`).
 - ⚠ Flagged gap — no corpus source: a light window, tide or slack gate, current
@@ -144,8 +149,8 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Anchored on a chummed artificial reef or inshore rock — the dedicated program | [Chunking](../techniques/chunking.md) to draw fish up, then a suspended strip bait on a [sliding-sinker](../techniques/sliding-sinker.md) rig | Light spinning or small level-wind, light bait class | **1/4–1/2 oz** slider, never heavier; **No. 2 / No. 4** thin-wire bronze or black [hook](../tackle/hooks.md), never chrome; bait suspended off the bottom, never on it (`OSbAHdB4uPs`). A jumbo sheephead is credited to the same sliding-egg-sinker rig in a clip title only, with no rigging shown or described (`QEpa3WYbEa8`) [a] |
-| No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback, threaded from the tip so the strip hangs loose rather than bunching (`OSbAHdB4uPs`, `yKaHcxX46l4`) — see [hooks](../tackle/hooks.md) |
+| Anchored on a chummed artificial reef or inshore rock — the dedicated program | [Chunking](../techniques/chunking.md) to draw fish up, then **[a suspended strip bait on a slider — the chummed-reef program](sheephead-sliding-sinker.md)** ([general method](../techniques/sliding-sinker.md)) | Light spinning or small level-wind, light bait class | Slider weight ceiling, hook size and finish, the suspend-never-bottom rule and the bait ranking are all in the sub-article (`OSbAHdB4uPs`); the title-only sliding-egg-sinker clip is logged there too (`QEpa3WYbEa8`) [a] |
+| No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback (`OSbAHdB4uPs`, `yKaHcxX46l4`) — strip prep and the ranking in [sheephead — sliding sinker](sheephead-sliding-sinker.md) and [hooks](../tackle/hooks.md) |
 | Bass or rockfish fishing island rock that holds red crab | **Red-crab-colored/scented soft bait**, **1 oz bullet** profile, thrown up into the rocks and worked right above them | Bass casting / swimbait class | The bullet out-produces the bigger "Big Game" size on a small-mouthed fish; **5/8–1 oz** is the weight range thrown at the island (`5Oh3IPIC5g4`). Caught almost always as by-catch while bass or rockfish fishing, not targeted. On a spot saturated with live red crab, switch to sardine or mint — see [tube baits](../lures/tube-baits.md) and [tube-bait fishing](../techniques/tube-bait-fishing.md) [b] |
 | Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) |
 | Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) |
@@ -153,9 +158,9 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Cold-water months, summer pelagics gone or slow | Fish the chummed-structure program rather than putting gear away | Same light bait class | A year-round bite that does not depend on the warm-water season (`OSbAHdB4uPs`) |
 | Teaching a new angler or a kid | Same chummed-reef + suspended-bait approach | Light spinning class | Small hooks, small weights and a reef full of willing fish; the catch goes home for dinner (`OSbAHdB4uPs`) |
 
-[a] Deep execution for this row is queued as a sub-article
-(`sources/relocation-queue.md`); the terminal detail currently lives in
-[hooks](../tackle/hooks.md).
+[a] Deep execution for this row is in
+[sheephead — sliding sinker](sheephead-sliding-sinker.md); the same terminal
+detail is also carried on [hooks](../tackle/hooks.md).
 [b] Deep execution for this row is queued as a sub-article; the bait's colors,
 sizes and the saturation read live in [tube baits](../lures/tube-baits.md).
 
@@ -171,16 +176,18 @@ sizes and the saturation read live in [tube baits](../lures/tube-baits.md).
   level-wind with the hook tied straight to the line, no swivel or beads — the
   light-line finesse rig in [chunking](../techniques/chunking.md). See
   [gear classes](../tackle/gear-classes.md).
-- **Terminal:** small **1/4–1/2 oz slider** weight, never heavier; **No. 2 or
-  No. 4 thin-wire bronze or black hook**, never chrome (`OSbAHdB4uPs`). The
-  same small size is what sheephead eat "all day every day" on a squid strip
-  (`yKaHcxX46l4`). A charter box carries **size 1 and 3/0 light-wire J hooks**
-  for the shallow cod, whitefish and sheephead stop (`3xx_vES0kdo`). See
+- **Terminal:** a small slider weight and a small thin-wire hook in a stealth
+  finish for the chummed reef program (`OSbAHdB4uPs`, `yKaHcxX46l4`) — the
+  weight ceiling, hook sizes and finish rule are in
+  [sheephead — sliding sinker](sheephead-sliding-sinker.md#rigs--gear). A
+  charter box carries **size 1 and 3/0 light-wire J hooks** for the shallow cod,
+  whitefish and sheephead stop (`3xx_vES0kdo`). See
   [hooks](../tackle/hooks.md).
-- **Bait:** pismo clam, mussel or squid, cut into thin strips rather than
-  chunks; mussel specifically suits a treble hook because it is a wad of slime
-  (`OSbAHdB4uPs`). See [chunking](../techniques/chunking.md) for the chum that
-  draws fish up first.
+- **Bait:** pismo clam, mussel or squid, cut into thin strips rather than chunks
+  (`OSbAHdB4uPs`) — the ranking, the strip prep and the mussel-on-a-treble call
+  are in [sheephead — sliding sinker](sheephead-sliding-sinker.md#rigs--gear).
+  See [chunking](../techniques/chunking.md) for the chum that draws fish up
+  first.
 - **Lures:** **1 oz** red-crab bullet-profile [tube baits](../lures/tube-baits.md)
   on the bass casting class; stubby-profile slow-pitch jigs on the SPJ class
   (`PRNMGpLj7Pw`).
@@ -259,6 +266,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [California Sheephead — sliding sinker](sheephead-sliding-sinker.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Ensenada](../locations/ensenada.md)

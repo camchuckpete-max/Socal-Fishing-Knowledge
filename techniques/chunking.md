@@ -305,9 +305,11 @@ Trip reports and per-source provenance: [evidence file](evidence/chunking.md).
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
+- [California Sheephead — sliding sinker](../species/sheephead-sliding-sinker.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
+- [Evidence — California Sheephead — sliding sinker](../species/evidence/sheephead-sliding-sinker.md)
 - [Evidence — Chunking](evidence/chunking.md)
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — International Artificial Reef](../locations/evidence/international-artificial-reef.md)

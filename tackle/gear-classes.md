@@ -191,6 +191,7 @@ file](evidence/gear-classes.md).
 - [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [California Sheephead](../species/sheephead.md)
+- [California Sheephead — sliding sinker](../species/sheephead-sliding-sinker.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)

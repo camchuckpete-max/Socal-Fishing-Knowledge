@@ -18,7 +18,10 @@ that doctrine in the parent.
 `confidence: medium` because the dedicated program — hook size, weight ceiling,
 bait ranking, suspension rule — rests on one short tips video from a registered
 voice (`OSbAHdB4uPs`), with the size call corroborated only by that same voice's
-squid-bait video (`yKaHcxX46l4`). The red-crab grade claims come from one
+squid-bait video (`yKaHcxX46l4`); the per-source detail for that program now
+sits in
+[sheephead — sliding sinker evidence](sheephead-sliding-sinker.md). The
+red-crab grade claims come from one
 presenter selling his own bait at two Fred Hall seminars, which caps at low
 under the sponsored-claim rule. Everything else in the corpus records sheephead
 as by-catch on somebody else's program.
@@ -32,7 +35,9 @@ as by-catch on somebody else's program.
   day" against the summer big-game run, and pitches the fishery as the
   cold-water answer and as a way to teach kids. Closes on a Baja Jerky discount
   code and a membership pitch — skipped per the curation bar (promotional, not
-  fishing knowledge).
+  fishing knowledge). The same video's hook, weight, suspension and bait
+  parameters are logged in
+  [sheephead — sliding sinker evidence](sheephead-sliding-sinker.md#how-california-sheephead-changes-the-execution).
 - `Q196GVwVqro` (Your Saltwater Guide, 2024-03-07, PCS Show live Thursday
   seminar; registered voice): artificial reefs named as holding "yellowtail,
   white seabass, sheephead, calico bass, sand bass, sargo — all the fish live
@@ -143,25 +148,20 @@ as by-catch on somebody else's program.
   sheephead held up on deck; the strike-zone claim is in the **title only** —
   the audible content is the crew reacting to the fish and pointing out its
   teeth ("look at his little teeth, dude"). A title is the uploader's claim, not
-  footage.
-- `QEpa3WYbEa8` (Tackle Express, 2025-08-13, 23-second clip, "JUMBO California
-  Sheephead on Sliding Egg Sinker Rig"): the same fish and the same deck
-  exchange as `qKOmJH_WtJo` (duplicate-of `qKOmJH_WtJo` — two cuts of one
-  landing, uploaded five weeks apart under different titles). The
-  sliding-egg-sinker rig is stated in the title only; no rigging is shown or
-  described in the audible content.
+  footage. The second cut of the same landing (`QEpa3WYbEa8`, duplicate-of
+  `qKOmJH_WtJo` — two uploads five weeks apart under different titles) carries
+  the sliding-egg-sinker claim and is logged in
+  [sheephead — sliding sinker evidence](sheephead-sliding-sinker.md#rigs--gear).
 
 ## Gear summary
 
 - `yKaHcxX46l4` (Your Saltwater Guide, 2022-07-29, cut-squid bait method;
   registered voice): squid strips framed for "sheephead or sargo or the smaller
-  bass … when you don't have live bait." Prep and hooking detail — head and
-  tentacles into the chum bag, body split and cut into thin strips, hooked at
-  the very tip so it threads on "just like a piece of spaghetti," never "a big
-  ball … a big wad … a square meal" — with the smaller hook called out for
-  sheephead specifically: "sheephead are going to eat this smaller hook all day
-  every day in this strip." The full prep lives on
-  [hooks](../../tackle/hooks.md).
+  bass … when you don't have live bait," with the smaller hook called out for
+  sheephead specifically. The prep and hooking detail, and the quoted
+  small-hook line, are logged in
+  [sheephead — sliding sinker evidence](sheephead-sliding-sinker.md#how-california-sheephead-changes-the-execution);
+  the generalized strip prep lives on [hooks](../../tackle/hooks.md).
 - `3xx_vES0kdo` (Tackle Express, 2026-07-22, SoCal charter bait-tank hook
   guide): the presenter keeps **size 1 and 3/0 "gorilla light"** J hooks in the
   box because a charter day sometimes turns into rockfishing for "shallow cod,
@@ -220,4 +220,6 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [California Sheephead](../sheephead.md)
+- [California Sheephead — sliding sinker](../sheephead-sliding-sinker.md)
+- [Evidence — California Sheephead — sliding sinker](sheephead-sliding-sinker.md)
 <!-- backlinks:end -->
