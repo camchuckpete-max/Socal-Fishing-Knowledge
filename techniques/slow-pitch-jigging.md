@@ -354,6 +354,17 @@ Landing fish on SPJ's light line/leader classes is a technique of its own
 - **Fighting with the rod** — lifting past 45° overloads the tip and breaks
   rods. Winch off the reel.
 
+## Open item (Cameron)
+
+⚠ misplaced-content: angler self-imposed gear-shopping status is profile
+data, already carried in [Cameron's rods](../profiles/cameron/rods.md);
+queued for removal via the relocation queue.
+
+Cameron is shopping a **dedicated SPJ / speed-jig setup** to cover night
+[bluefin](../species/bluefin-tuna.md) knife jigging **and** September BOLA bottom
+yellowtail — ideally one setup for both. Not yet owned; resolve gear from class
+terms until it lands.
+
 ## Evidence
 
 Trip reports and per-source provenance: [evidence file](evidence/slow-pitch-jigging.md).
