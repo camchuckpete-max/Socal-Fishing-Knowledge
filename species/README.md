@@ -47,6 +47,7 @@
 - [Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md) — One species, one technique.
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna: 8–10 lb up to 40–50 lb, with 15–25 lb the average grade (8M4QhL-Qb7E).
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
+- [Yellowtail — dropper loop](yellowtail-dropper-loop.md) **[SoCal only]** — One species, one technique.
 - [Yellowtail — surface iron](yellowtail-surface-iron.md) — The long rod and a Tady 45 or Salas 7X is the first outfit off the rack when yellowtail show on top, and the reason is reach: it puts a big profile on fish that
 - [Yellowtail](yellowtail.md) — Yellowtail show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and bottom fish stacked on pinnacles and high spots.
 
@@ -58,5 +59,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 45 notes exceed the 30-node cap._
+_Map skipped: 46 notes exceed the 30-node cap._
 <!-- mermaid:end -->

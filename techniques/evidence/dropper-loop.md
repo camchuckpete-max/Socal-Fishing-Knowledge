@@ -91,19 +91,9 @@ parent.
 
 ## SoCal yellowtail build — loop length and the fight window
 
-- `SAltQjih0ms` (SearcherSportfishing, "Tackle Talk Live," 2020-05-20;
-  `searcher-sportfishing` registered channel — high confidence): full build
-  demo and Q&A — loop length, sinker/hook, breakaway knot, bait placement,
-  hookset and fight-window doctrine. Owner Gorilla hook name and model stay
-  low confidence per the sponsored-claim caveat in the source registry (this
-  video's closing credits thank Owner hooks by name as a sponsor); the 16 oz
-  sinker weight and rig mechanism are unaffected.
-- `YntRJAN88fs` (Captain Art, SearcherSportfishing, "Tackle Talk Live (from
-  the boat 3/24)," 2020-03-25; `searcher-sportfishing` registered channel —
-  medium confidence): an earlier, parallel citation, about two months before
-  `SAltQjih0ms` — same format/channel, close but not identical figures (kept
-  side by side rather than merged); adds the mono-leader reasoning and the
-  periodic free-spool exception.
+- Provenance for the two SearcherSportfishing yellowtail builds moved with the
+  program to [yellowtail — dropper loop
+  evidence](../../species/evidence/yellowtail-dropper-loop.md).
 
 ## Deploying it — drop, detect bottom, read the bite
 
@@ -202,14 +192,14 @@ parent.
 
 ## Hooking a live bait for the dropper loop — through the roof of the mouth
 
-- `HTowqnwAMeA` (Nate Winnicki, BDOutdoors; `nate-winnicki` registered
-  voice, first commit of this claim — medium confidence pending
-  repetition): through-the-roof-of-the-mouth hooking method for yellowtail,
-  the mouth-open reasoning, hook upsizing from flyline size, and the
-  clumped-tight-and-inactive trigger for choosing this rig.
+- Provenance for the BDOutdoors bait-hooking method moved with it to
+  [yellowtail — dropper loop
+  evidence](../../species/evidence/yellowtail-dropper-loop.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Dropper Loop](../dropper-loop.md)
+- [Evidence — Yellowtail — dropper loop](../../species/evidence/yellowtail-dropper-loop.md)
+- [Yellowtail — dropper loop](../../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->

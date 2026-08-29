@@ -182,8 +182,10 @@ nothing was deleted, only moved.
 - [Evidence — Dropper Loop](../../techniques/evidence/dropper-loop.md)
 - [Evidence — Sliding Sinker](../../techniques/evidence/sliding-sinker.md)
 - [Evidence — Year-Anniversary Prior](../../seasonal/evidence/year-anniversary-prior.md)
+- [Evidence — Yellowtail — dropper loop](yellowtail-dropper-loop.md)
 - [Guadalupe](../../locations/guadalupe.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)
 - [Yellowtail](../yellowtail.md)
+- [Yellowtail — dropper loop](../yellowtail-dropper-loop.md)
 <!-- backlinks:end -->

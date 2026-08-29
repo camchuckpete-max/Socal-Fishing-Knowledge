@@ -155,85 +155,13 @@ variant, not reconciled (`KLmNyflzsQ0`).
 
 ## SoCal yellowtail build — loop length and the fight window
 
-Two closely related SoCal yellowtail builds, kept side by side rather than
-merged since their figures differ slightly.
-
-- **Loop length: 12–18 in, minimum 12 in.** A loop built out to **24 in**
-  needs a **double [San Diego jam knot](../rigging/san-diego-jam-knot.md)**
-  rather than a single pass — the longer loop needs the extra security. The
-  loop sits **3–4 ft above the sinker** (`SAltQjih0ms`).
-- **Sinker/hook:** a **16 oz torpedo sinker** on the bottom, hook above it a
-  **5/0** hook named on camera as an "Owner Gorilla" — asr-uncertain whether
-  this is the standard or "Light" version, and this specific brand/model
-  pick stays **low confidence** since the same video's closing credits thank
-  Owner hooks as a sponsor; the 16 oz sinker weight and general rig mechanism
-  are unaffected. Heavier than the 6–10 oz SoCal reference above — a heavier
-  same-fishery data point, not reconciled to one weight (`SAltQjih0ms`).
-- **A breakaway overhand knot above the sinker** — a second, simpler
-  mechanism than the weak-link dropper loop below, not a substitute for it:
-  tie a plain overhand knot in the leader a few inches above the sinker. A
-  solid bottom snag parts that knot first, so only the sinker is lost and
-  fishing resumes faster (`SAltQjih0ms`).
-- **Bait placement:** nose hook, sideways through the cartilage — including
-  with a lighter slider (2 oz) instead of the full torpedo sinker. Kept side
-  by side with, not reconciled to, the through-the-roof-of-the-mouth
-  placement below. **J-hook, not circle,** is the default, though some
-  anglers fish circle hooks on this rig and let the drag do the setting
-  instead of swinging (`SAltQjih0ms`).
-- **Wind up 3–4 cranks** once the sinker hits bottom, so the rig isn't
-  resting directly on bottom where it's easier to snag — a different crank
-  count than the half-crank figure below, kept side by side rather than
-  reconciled (`SAltQjih0ms`).
-- **Fish it in gear, never free-spool, once it's down near structure — true
-  even on a circle hook:** in free spool, a hooked fish can wrap the line
-  around a rock before you come tight to it. This is a line-management/
-  safety reason, distinct from the various hookset-mechanism reasons
-  elsewhere in this note (`SAltQjih0ms`).
-- **Rod-belt timing:** for anglers fishing a rod belt, seat the rod in the
-  belt **before** the bite, while the bait is still soaking, rather than
-  fumbling to transfer in after the hookset (`SAltQjih0ms`).
-- **Bite feel and hookset:** a yellowtail bite on this rig reads as a
-  **strong thump**. Yellowtail take a few seconds to fully consume a
-  dropper-loop bait — wait for the **rod to load / tip to bend** before
-  setting the J-hook, then **wind down to the fish and reset the hook**,
-  repeating up to a second or third time rather than striking repeatedly
-  without first taking up slack; see also the flyline sequence in [rod
-  handling for live
-  bait](rod-handling-live-bait.md#yellowtail-specific-hookset-sequence--count-wait-for-the-bend-then-set-same-source)
-  (`SAltQjih0ms`).
-- **The first 30 ft after hookset is the critical window:** with a snug
-  drag, the hardest pull of the fight is the fish's first 30–40 ft of
-  running line off the bottom — get that line back in **low gear, under a
-  tight drag**, before it can get back into the structure. **Gear-shift
-  timing:** rather than shifting to low gear the instant the hook is set,
-  the stated preference is to let the fish take its first run and shift down
-  once that run happens, gaining line fast from there — a related but
-  distinct scenario from the open-water bluefin circling-fish timing in
-  [two-speed reel technique](two-speed-low-gear-fight.md), which is about a
-  fish that has already come up and is circling boatside rather than racing
-  back to structure (`SAltQjih0ms`).
-- **A corroborating build with two additions, not merged into the one above
-  since its exact figures differ slightly** (14–18 in vs. 12–18 in loop;
-  30–36 in vs. 3–4 ft hook-to-sinker distance): the same rig for
-  **yellowtail or grouper** holding on bottom structure — loop **14–18 in**,
-  hook **30–36 in** above a **16 oz torpedo sinker**, hook tied on with a
-  **doubled [San Diego jam knot](../rigging/san-diego-jam-knot.md)**, and a
-  breakaway **overhand knot** tied into 80 lb-test mainline above the sinker
-  so a bottom snag sacrifices only the sinker (`YntRJAN88fs`). Two things
-  this citation adds:
-  - **Mono, not fluorocarbon, for the leader** — explicitly **not a
-    line-class or line-shy thing**: the leader ties straight onto the mono
-    top shot rather than stepping down to fluoro, because this is bottom/
-    structure fishing (yellowtail or grouper) rather than a finicky
-    open-water bite where fluoro's invisibility matters more.
-  - **A periodic free-spool exception to "always in gear":** the always-in-
-    gear rule above still holds, but as the boat swings on its drift and the
-    bottom depth underneath shifts by roughly a boat length or two — about
-    **five fathoms (30 ft)** — the move is to periodically clutch back into
-    free spool just long enough to re-drop to bottom, then back into gear.
-    This refines rather than contradicts the always-in-gear rule: a
-    deliberate, controlled re-drop, not leaving the reel in free spool while
-    fishing.
+The full SoCal yellowtail program is now its own page: two corroborating builds
+(12–18 in vs. 14–18 in loops, hook 30–36 in to 3–4 ft above a 16 oz torpedo
+sinker), the breakaway overhand knot above the sinker, both bait placements, the
+3–4-crank-up rule, the always-in-gear rule with its periodic free-spool
+exception, the mono-over-fluoro leader reasoning, rod-belt timing, the
+wait-for-the-load hookset and the first-30-ft fight window all live in
+[yellowtail — dropper loop](../species/yellowtail-dropper-loop.md).
 
 ## Deploying it — drop, detect bottom, read the bite
 
@@ -404,9 +332,10 @@ a separate rig name.
   estimate) the bottom's contours shift under you as you move, so a rig left
   at a fixed number of turns up off an old bottom reading can end up 20 ft
   off the new bottom without you knowing it. This corroborates, with an
-  explicit drift-contour mechanism, the periodic free-spool re-drop already
-  logged above (there reasoned from the boat swinging on a drift/anchor
-  rather than the bottom itself changing shape) — two different reasons
+  explicit drift-contour mechanism, the periodic free-spool re-drop in
+  [yellowtail — dropper loop](../species/yellowtail-dropper-loop.md) (there
+  reasoned from the boat swinging on a drift/anchor rather than the bottom
+  itself changing shape) — two different reasons
   converging on the same practice (`S9sQ8Vg8-5o`; the same claim is re-cut
   and re-uploaded word for word as `nJPQVouJQ0g`, not independent
   corroboration).
@@ -419,31 +348,11 @@ a separate rig name.
 
 ## Hooking a live bait for the dropper loop — through the roof of the mouth
 
-Given for [yellowtail](../species/yellowtail.md) specifically, and described
-as working best with **mackerel** though it applies to sardine too
-(`HTowqnwAMeA`).
-
-- **The move:** open the bait's mouth and pass the hook **from underneath,
-  up through the roof of the mouth**. Leave the mouth **open**.
-- **Why not sideways (the common alternative):** a sideways-pinned hook can
-  **rotate and re-catch the far side of the bait's head**, which puts the
-  point where it cannot hook a fish, or starts the bait **spinning** — which
-  kills the presentation on a rig whose whole point is a naturally swimming
-  bait. Through-the-roof leaves the hook no axis to flip on.
-- **Why the mouth stays open:** a bait hooked with its mouth clamped shut
-  **can't breathe and dies quickly** — the constraint that rules out the
-  tidier-looking closed-mouth version.
-- **Upsize the hook from your flyline size.** Flylining a 2/0 means running
-  a **3/0 or 4/0** on the dropper loop. Related sizing in
-  [hooks](../tackle/hooks.md).
-
-**When this rig is the right call for yellowtail:** not when fish are
-hunting, but when they're **clumped tight on the bottom and inactive** —
-confirmed as yellowtail on the meter but not feeding. The logic is to put a
-bait in front of their faces and **annoy them into eating**, rather than to
-attract them. The corresponding sounder read is in
-[yellowtail](../species/yellowtail.md#finding-them-sign--sonar)
-(`HTowqnwAMeA`).
+The through-the-roof-of-the-mouth bait-hooking method, its mouth-open reasoning,
+the hook upsizing from flyline size, and the clumped-tight-and-inactive trigger
+that makes this rig the call are given for
+[yellowtail](../species/yellowtail.md) specifically and live in
+[yellowtail — dropper loop](../species/yellowtail-dropper-loop.md).
 
 ## Gear class
 
@@ -474,6 +383,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 ## Species applications
 
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -538,4 +448,5 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->

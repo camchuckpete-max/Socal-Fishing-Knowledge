@@ -619,4 +619,5 @@ groupings: [evidence file](evidence/hooks.md).
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->

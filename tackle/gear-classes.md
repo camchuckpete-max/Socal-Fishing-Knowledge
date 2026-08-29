@@ -330,6 +330,7 @@ file](evidence/gear-classes.md).
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 - [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

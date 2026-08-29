@@ -150,11 +150,11 @@ Per-source provenance: [evidence file](evidence/rod-handling-live-bait.md).
 ## Linked from
 
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
-- [Dropper Loop](dropper-loop.md)
 - [Evidence — Holding the Rod for Live Bait](evidence/rod-handling-live-bait.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Underhand Casting](underhand-casting.md)
 - [Wind in Your Face — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->

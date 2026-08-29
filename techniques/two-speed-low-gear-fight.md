@@ -217,7 +217,6 @@ Trip reports and per-source provenance:
 
 - [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Dropper Loop](dropper-loop.md)
 - [Evidence — Fighting a Big Bluefin](evidence/fighting-big-bluefin.md)
 - [Evidence — Penn vs. Avet Lever Drag (Tackle Express)](../tackle/evidence/tackle-express-penn-vs-avet-lever-drag.md)
 - [Evidence — Two-Speed Reel Technique](evidence/two-speed-low-gear-fight.md)
@@ -233,4 +232,5 @@ Trip reports and per-source provenance:
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
+- [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->
