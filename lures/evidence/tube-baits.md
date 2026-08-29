@@ -32,8 +32,20 @@ Trip reports and per-source provenance backing
   rating is driven by the two sponsored HookUp Baits seminars above, not by
   this clip.
 
+## Color selection
+
+- `5Oh3IPIC5g4` (Fisher Newb, 2020-03-12, Fred Hall Show seminar — Chad,
+  HookUp Baits co-owner; ⚠ promotional seminar source — low confidence):
+  for [California halibut](../../species/california-halibut.md), size up
+  outside in the surf/coastal zone and run **3/8 or 5/8 oz** inside a bay;
+  **mint** and **glow green** named as working, and a white "shad" pattern
+  called out for **morning and evening**. Relocated here from the
+  [California halibut router](../../species/california-halibut.md) —
+  lure implementation belongs with the lure.
+
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — California Halibut](../../species/evidence/california-halibut.md)
 - [Tube Baits (HookUp Baits)](../tube-baits.md)
 <!-- backlinks:end -->

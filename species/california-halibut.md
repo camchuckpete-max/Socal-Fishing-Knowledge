@@ -238,12 +238,9 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
   [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution)
   (`eOLoHxoqk6E`).
 - **Tube baits sized by water:** size up outside in the surf and coastal zone,
-  run **3/8 or 5/8 oz** inside a bay; **mint** and **glow green** named as
-  working, and a white "shad" pattern for **morning and evening**
-  (`5Oh3IPIC5g4`) — see
-  [tube baits](../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
-  ⚠ misplaced-content: the color list is lure implementation and belongs with
-  the lure note, not in the router.
+  downsize inside a bay (`5Oh3IPIC5g4`) — the weights that go with each side of
+  that call, and the halibut color picks, are in
+  [tube baits](../lures/tube-baits.md#color-selection).
 - **Depth control from the beach is a rod-handling lever, not only a lure
   choice** (`QJd7A6oiV4U`) — the tip-height ladder as it applies to this fish is
   in [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution),
@@ -367,6 +364,7 @@ Trip reports and per-source provenance:
 - [Evidence — California Halibut](evidence/california-halibut.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
+- [Evidence — Tube Baits (HookUp Baits)](../lures/evidence/tube-baits.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

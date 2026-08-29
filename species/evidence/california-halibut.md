@@ -182,10 +182,10 @@ beside that doctrine in the parent.
   retrieve stated to draw bites from shore.
 - `5Oh3IPIC5g4` (Fisher Newb, 2020-03-12, Fred Hall Show seminar — Chad,
   HookUp Baits co-owner; ⚠ promotional seminar source — low confidence):
-  size up outside for surf/coastal halibut, run **3/8 or 5/8 oz** inside a bay;
-  **mint** and **glow green** named as working, and a white "shad" pattern
-  called out for **morning and evening**. Colour detail lives with the lure in
-  [tube baits](../../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
+  size up outside for surf/coastal halibut, downsize inside a bay. The weights
+  and the colour picks live with the lure in
+  [tube baits](../../lures/tube-baits.md#color-selection) and its
+  [evidence file](../../lures/evidence/tube-baits.md#color-selection).
 - `eOLoHxoqk6E` (Tackle Express, 2025-11-28, "Halibut Fishing Lures That WORK,"
   part 3; unregistered channel, single mention — medium confidence): the
   four-colour soft-plastic family and the white-belly theory behind solid white
