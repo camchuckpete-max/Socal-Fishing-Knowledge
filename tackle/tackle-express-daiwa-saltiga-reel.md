@@ -87,6 +87,7 @@ file](evidence/tackle-express-daiwa-saltiga-reel.md).
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
 - [Evidence — Daiwa Saltiga (Tackle Express)](evidence/tackle-express-daiwa-saltiga-reel.md)
+- [Evidence — Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](evidence/tackle-express-shimano-talica-reel-features.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
