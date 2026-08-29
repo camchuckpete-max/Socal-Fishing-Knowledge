@@ -217,6 +217,7 @@
 - [Encina Powerplant Pipe](encina-powerplant-pipe.md) **[SoCal only]** — A charted spot at 33°08.060'N 117°20.860'W (cameron), in the Oceanside / North County zone.
 - [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md) **[SoCal only]** — A charted spot at 33°03.130'N 117°20.920'W (cameron), in the Oceanside / North County zone.
 - [Ensenada](ensenada.md) **[Baja only]** — A zone is a run grouping.
+- [Farnsworth Bank](farnsworth-bank.md) **[SoCal only]** — A charted standalone bank at 33°20.560'N 118°31.010'W (cameron), lying off the shoreline of the Catalina Island — Backside (W→E) zone between Ben Weston Point a
 - [Finger Bank rockfish](finger-bank-rockfish.md) **[Baja only]** — A zone is a run grouping.
 - [Flat Rock](flat-rock.md) **[SoCal only]** — A charted spot at 32°54.755'N 117°15.755'W (cameron), in the Oceanside / North County zone.
 - [Gallaghers](gallaghers.md) **[SoCal only]** — A charted spot at 33°21.927'N 118°20.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -431,5 +432,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 418 notes exceed the 30-node cap._
+_Map skipped: 419 notes exceed the 30-node cap._
 <!-- mermaid:end -->

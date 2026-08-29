@@ -172,8 +172,9 @@ Twenty-one charted spots, grouped as the run reads W→E:
   partial-take closure (`_KldpqPPT1c`, cameron).
 - **Mid-backside** — Pedestal Rock, Little Harbor, Sentinel Rock, Ben Weston
   Point. ⚠ Flagged gap — no corpus source: how any of these four fish.
-- **Standalone bank** — Farnsworth Bank, off the shoreline and inside a
-  partial-take closure with a yellowtail-and-bonito keep list (`5p6gu14ZC4w`).
+- **Standalone bank** — [Farnsworth Bank](farnsworth-bank.md), off the shoreline
+  and inside a partial-take closure with a yellowtail-and-bonito keep list
+  (`5p6gu14ZC4w`).
 - **China Point to the 3 V's** — China Point, Salta Verde, Silver Canyon,
   Palisades, 3 V's. China Point and Salta Verde are the named southeast-wind
   producers (`aFb221LUoD0`).
@@ -195,6 +196,7 @@ Charted positions for all twenty-one spots are in
 - [Church Rock](church-rock.md)
 - [Eagle Rock](eagle-rock.md)
 - [East End Light](east-end-light.md)
+- [Farnsworth Bank](farnsworth-bank.md)
 - [Iron Bound](iron-bound.md)
 - [Little Harbor](little-harbor.md)
 - [Lobster Bay](lobster-bay.md)
@@ -229,6 +231,7 @@ Trip reports and per-source provenance:
 - [Eagle Rock](eagle-rock.md)
 - [East End Light](east-end-light.md)
 - [Evidence — Catalina Island, Backside](evidence/catalina-island-backside.md)
+- [Farnsworth Bank](farnsworth-bank.md)
 - [Iron Bound](iron-bound.md)
 - [Little Harbor](little-harbor.md)
 - [Lobster Bay](lobster-bay.md)

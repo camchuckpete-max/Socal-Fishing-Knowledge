@@ -325,6 +325,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Evidence — Wahoo](../species/evidence/wahoo.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Evidence — Yo-Yo Iron](evidence/yo-yo-iron.md)
+- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

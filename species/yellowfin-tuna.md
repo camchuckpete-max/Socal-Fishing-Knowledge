@@ -372,6 +372,7 @@ Trip reports and per-source provenance:
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowfin Tuna — trolling](evidence/yellowfin-tuna-trolling.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
+- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

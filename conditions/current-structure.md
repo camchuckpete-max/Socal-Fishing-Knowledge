@@ -304,6 +304,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Search and Glassing](../planning/evidence/search-and-glassing.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [February–March](../seasonal/february-march.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Hancock Bank](../locations/hancock-bank.md)

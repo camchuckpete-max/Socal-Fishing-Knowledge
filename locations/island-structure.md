@@ -195,6 +195,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [Evidence — Island Structure](evidence/island-structure.md)
 - [Evidence — Swimbaits](../techniques/evidence/swimbaits.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Farnsworth Bank](farnsworth-bank.md)
 - [February–March](../seasonal/february-march.md)
 - [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
