@@ -267,3 +267,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T11:38:24Z — species/striped-marlin.md -> profiles/cameron/README.md — verify-escalate
 - run: 33246070281
 - reason: same trigger as the skipjack row — profiles/ is guard-protected and the README carries no marlin line, so Cameron's stated intention to troll marlin from the panga lives ONLY in species/evidence/striped-marlin.md; Cameron must land it in his profile or rule on unprotecting profiles/ for the relocation pass
+
+## 2026-08-29T12:45:27Z — species/sand-bass.md — guard-violation
+- run: 33253040396
+- reason: commit bcd8e824de37fbc469fc2665cea899084f81f1ed reverted: unparseable review commit subject: 'review: relocate species/sand-bass.md → NEW: species/sand-bass-alabama-rig.md'
