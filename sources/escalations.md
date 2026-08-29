@@ -299,3 +299,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T16:27:44Z — techniques/sliding-sinker.md — guard-violation
 - run: 33262433629
 - reason: commit 30f06e12e1f0a19af39b7a27828d8d8e8e36df02 reverted: unparseable review commit subject: 'review: relocate techniques/sliding-sinker.md → NEW: species/white-seabass-sliding-sinker.md'
+
+## 2026-08-29T17:07:42Z — techniques/yo-yo-iron.md -> profiles/cameron/rods.md — verify-escalate
+- run: 33262433629
+- reason: The restored 10 ft Phoenix Axis sentence traces solely to memory-export-2026-08-11.md:15 where it is a cameron OPEN ITEM (rarely used, wants reps, considering yo-yoing with it), so stating it as doctrine violates the CLAUDE.md Cameron nuance; Step-3-era defect, out of a relocation pass's scope — Cameron to decide keep-as-attributed-open-item vs drop

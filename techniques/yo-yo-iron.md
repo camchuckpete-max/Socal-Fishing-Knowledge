@@ -187,7 +187,7 @@ trip colour reports corroborating this range are logged in the
 
 **Rod:** heavy [jig-stick class](../tackle/gear-classes.md) with real
 backbone. A 10 ft stick (Phoenix Axis class) also works for
-casting-then-yo-yoing the same iron.
+casting-then-yo-yoing the same iron (cameron).
 
 **Reel:** high-torque conventional wound tight — the appeal of yo-yo is a
 hard, fast retrieve, so a strong power grind matters more than top gear ratio.
