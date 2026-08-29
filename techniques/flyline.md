@@ -817,6 +817,7 @@ confidence.
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

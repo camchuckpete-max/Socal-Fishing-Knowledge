@@ -93,12 +93,11 @@ source in the corpus is about snook as a fishery in its own right.
 
 ## Situations → techniques
 
-- `OVwqUKim9Pc` (StokedOnFishing, 2020-10-14, Magdalena Bay estuary, final day
-  of the trip after two offshore days): a snook taken on a white bucktail jig
-  worked up off the bottom on a light rig, kept for the table. The corpus's only
-  record of a snook on a lure. Unregistered channel; sponsor-heavy episode
-  (Integrative Marine Systems, Okuma). Cross-references the
-  `⚠ Fact-check (single-source)` row in the parent's situations table.
+- `OVwqUKim9Pc` (StokedOnFishing, 2020-10-14, Magdalena Bay estuary): a snook
+  taken on a white bucktail jig — the corpus's only record of a snook on a lure.
+  The presentation, outfit and per-source provenance moved to
+  [bucktail jigs evidence](../../lures/evidence/bucktail-jigs.md) with the lure
+  spec (relocation, 2026-08-29).
 - `isXJONlpUP4` (StokedOnFishing, 2020-10-07, Magdalena Bay estuary with the
   local guide Enrique): trolling small lures along the mangrove edge in 25–30 ft
   of channel; a heavy fish lost into the mangroves was guessed as "probably
@@ -149,5 +148,6 @@ source in the corpus is about snook as a fishery in its own right.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Bucktail Jigs](../../lures/evidence/bucktail-jigs.md)
 - [Snook (Robalo)](../snook.md)
 <!-- backlinks:end -->

@@ -181,6 +181,7 @@ file](evidence/gear-classes.md).
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
+- [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md)

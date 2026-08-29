@@ -353,6 +353,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Barred Sand Bass — sliding sinker](../species/sand-bass-sliding-sinker.md)
+- [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Sheephead](../species/sheephead.md)

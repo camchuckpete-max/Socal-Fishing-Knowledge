@@ -5,6 +5,7 @@
 ## Index
 
 - [Bay Bass Plastics](bay-bass-plastics.md) **[SoCal only]** — The small finesse soft-plastics class for the back bays: little scented sticks, flukes, worms, and grubs fished slow and low for spotted bay bass (spotties) and
+- [Bucktail Jigs](bucktail-jigs.md) **[Baja only]** — A bucktail is a leadhead jig dressed with hair instead of plastic, fished on a cast and worked up off the bottom rather than swum at a steady speed.
 - [Cedar Plug](cedar-plug.md) **[SoCal only]** — The cedar plug is a plain weighted-nose wood cylinder — no bib, no rattle — that has caught tuna in SoCal/Baja for generations.
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md) — The crocodile is a traditional cast-and-retrieve metal spoon shape, long fished by SoCal anglers generally (M4G8IKsZEFU) — the same broad family as the Krocodil
 - [DTX Minnow](dtx-minnow.md) **[SoCal only]** — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
@@ -32,41 +33,42 @@
 ```mermaid
 graph LR
   n0["Bay Bass Plastics"]
-  n1["Cedar Plug"]
-  n2["Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro"]
-  n3["DTX Minnow"]
-  n4["Halco Laser Pro"]
-  n5["Iron Jigs"]
-  n6["Jerkbaits (Baja Cabrilla Program)"]
-  n7["Knife Jigs"]
-  n8["Lucky Craft Flash Minnow"]
-  n9["Mad Mac"]
-  n10["Rapala Husky Magnum"]
-  n11["Soft-Plastic Swimbaits"]
-  n12["Spreader Bar"]
-  n13["Tube Baits (HookUp Baits)"]
-  n14["Tuna Feathers and Skirts"]
-  n15["Tuna Poppers and Stickbaits"]
-  n0 --> n11
-  n1 --> n9
-  n10 --> n9
-  n11 --> n0
-  n12 --> n9
-  n14 --> n9
-  n15 --> n1
-  n15 --> n11
-  n15 --> n4
-  n15 --> n5
-  n15 --> n7
-  n2 --> n5
-  n3 --> n9
-  n4 --> n9
-  n5 --> n1
-  n5 --> n15
-  n5 --> n2
-  n5 --> n7
-  n6 --> n5
-  n7 --> n15
-  n7 --> n5
+  n1["Bucktail Jigs"]
+  n2["Cedar Plug"]
+  n3["Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro"]
+  n4["DTX Minnow"]
+  n5["Halco Laser Pro"]
+  n6["Iron Jigs"]
+  n7["Jerkbaits (Baja Cabrilla Program)"]
+  n8["Knife Jigs"]
+  n9["Lucky Craft Flash Minnow"]
+  n10["Mad Mac"]
+  n11["Rapala Husky Magnum"]
+  n12["Soft-Plastic Swimbaits"]
+  n13["Spreader Bar"]
+  n14["Tube Baits (HookUp Baits)"]
+  n15["Tuna Feathers and Skirts"]
+  n16["Tuna Poppers and Stickbaits"]
+  n0 --> n12
+  n11 --> n10
+  n12 --> n0
+  n13 --> n10
+  n15 --> n10
+  n16 --> n12
+  n16 --> n2
+  n16 --> n5
+  n16 --> n6
+  n16 --> n8
+  n2 --> n10
+  n3 --> n6
+  n4 --> n10
+  n5 --> n10
+  n6 --> n16
+  n6 --> n2
+  n6 --> n3
+  n6 --> n8
+  n7 --> n6
+  n8 --> n16
+  n8 --> n6
 ```
 <!-- mermaid:end -->

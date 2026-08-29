@@ -145,7 +145,7 @@ spawning does to the bite. The corpus says nothing about snook spawning.
 | **Mangrove roots, 1–2 ft of water, ebb from peak high** | [Flyline](../techniques/flyline.md) — no-weight live sardine placed **on** the root edge / [mangrove structure livebait](../techniques/mangrove-structure-livebait.md) — the same cast on the heavy locked-drag build | Baja Pacific mangrove-snook class — see [gear classes](../tackle/gear-classes.md) | A sinker in 12 in of water hangs directly in the roots, so nothing rides the line but hook and leader (`dlxA22FVNGc`). Which of the two builds you bring is the live argument — see [Doctrine & conflicts](#doctrine--conflicts) [a] |
 | **Mangrove interior, 12–15 ft, tide running** | [Flyline](../techniques/flyline.md) — same presentation worked along the branch line | Same mangrove-snook class | Bait placement, not soak time, is what gets bit: wind a short or wide cast straight back in and throw again rather than leaving it (`-5kooyIyavs`) |
 | **Boca / nearshore structure, 40–50 ft, mixed with grouper** | [Sliding sinker](../techniques/sliding-sinker.md) — Carolina rig, live shrimp or sardine dropped to just off the bottom, two-speed reel mandatory | Baja Pacific grouper/snook bottom class — see [gear classes](../tackle/gear-classes.md) | The fight is decided in roughly the first **5 seconds**; a hooked snook rises toward the boat rather than diving for the rock the way a grouper does, which is how the crew tells the two apart on the strike (`EcQK5elTPJE`) [b] |
-| **Estuary channel, 25–30 ft, fish on or near the bottom off the mangrove edge** | White bucktail jig popped up off the bottom | ⚠ misplaced-content: no bucktail lure or technique note exists to hold the spec — queued | One snook taken this way on the corpus's only lure record for the species (`OVwqUKim9Pc`). ⚠ Fact-check (single-source): one trip, no weight, colour rationale or cadence beyond "popping it up off the bottom" |
+| **Estuary channel, 25–30 ft, fish on or near the bottom off the mangrove edge** | [Bucktail jig](../lures/bucktail-jigs.md) worked up off the bottom | ⚠ Flagged gap — no corpus source: no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md) |
 | **Estuary channel, wind chop, prospecting the mangrove edge** | ⚠ Flagged stub — no corpus source yet: [trolling](../techniques/trolling.md) small lures tight to the mangrove edge is the documented inside program, but the only fish lost to the mangroves on it was called "probably snook" and never landed (`isXJONlpUP4`) | — | Fill in when a source lands a snook on the troll and gives speed, lure and standoff |
 
 [a] Both builds fish the identical cast; only line, leader, hook and drag
@@ -252,6 +252,7 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 ## Linked from
 
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Evidence — Snook (Robalo)](evidence/snook.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)

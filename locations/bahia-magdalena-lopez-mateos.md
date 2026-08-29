@@ -294,6 +294,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](evidence/bahia-magdalena-lopez-mateos.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
