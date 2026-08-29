@@ -8,7 +8,7 @@ waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 layout: v2
 gear_classes: [bass-casting-swimbait]
 depth_band: surface (yellowtail pop-retrieve, tuna boils/paddies) to 200 ft (rockfish double dropper); bass/structure depth not stated in corpus
-retrieve_speed: application-dependent — crank-pop-crank-pop on top for yellowtail, a half-speed half-yo-yo down deep, a slow bounce for drifting party-boat rockfish, and a fast 1 oz punch-through under a skipjack layer for tuna — see the per-application sections below
+retrieve_speed: application-dependent — a slow bounce for drifting party-boat rockfish and a fast 1 oz punch-through under a skipjack layer for tuna, per the sections below; the yellowtail crank-pop and half-yo-yo cadences are in species/yellowtail-tube-bait-fishing.md
 ---
 
 # Tube-Bait Fishing
@@ -203,64 +203,13 @@ boat-wide field of live-squid anglers; full account in the
 
 ## Yellowtail: surface pop-retrieve and a half-yo-yo variant
 
-**On top:** cast beyond a visible push/boil, rod tip low, retrieve on a
-**crank-pop-crank-pop** cadence — easier on a spinning reel than a
-baitcaster, since a spinning reel lets you pop the tip and take up slack in
-the same motion, where baitcast anglers tend to fall into a choppier
-pop-pop-pop-crank pattern (`0HwYl0HO2tc`).
-
-**Down, half-yo-yo variant:** when fish aren't showing on top, sink the bait
-to bottom, retrieve **about halfway** back up, open the bail and let it fall
-back to bottom a second time, then retrieve **the rest of the way** to the
-boat — roughly **half the speed** of working a bare iron yo-yo. Illustrated
-on a group trip to Cedros Island, Baja, fishing this cadence into a
-yellowtail push moving through (`0HwYl0HO2tc`). A distinct cadence from the
-crank-then-freespool and continuous-wind-to-the-top cadences already
-documented in [yo-yo iron](yo-yo-iron.md#mechanics) — kept here as a
-tube-bait-specific variant, not merged into that note.
-
-A second, corroborating pop-retrieve source called this "absolutely deadly"
-on yellowtail after 30 years fishing them (`5Oh3IPIC5g4`): cast, let the bait
-sink on roughly a **10 count**, then retrieve rod-tip-down (tucked under the
-arm) on a **medium-speed crank**, popping the rod tip through the retrieve
-("bop bop") so the bait kicks left-right at about the speed of a swimming
-baitfish — not a fast burn. This matches the crank-pop cadence above from an
-independent source.
-
-When fish follow without committing, downsizing the bait profile fixes it:
-at the **Coronado Islands**, repeated follows with no takes on the standard
-**1–1.5 oz "Big Game"/"Bullet"** bait stopped as soon as the crew switched to
-a smaller-profile **5/8 oz** bait on lighter gear, drawing immediate,
-committed eats (`5Oh3IPIC5g4`) — the same bait-profile/cast-distance-vs-
-commitment trade-off documented for [surface iron](surface-iron.md): go
-**1–1.5 oz** for distance when fish are boat-shy or water needs covering,
-drop to **5/8 oz** for a smaller profile once fish are showing but refusing.
-
-## Trolling to locate yellowtail
-
-On a private boat, trolling the **1–1.5 oz "bullet"** bait tracks straight
-and true with a **tight little wiggle** at roughly **3–4 mph** — "the magic
-speed" for **locating** yellowtail, not the presentation once fish are found
-(which switches to casting) (`5Oh3IPIC5g4`). This sits between two other
-trolled-search speeds documented on camera: slow-trolling live sardines at
-roughly **1 mph** (thorough but covers little ground) and a faster trolled
-lure at roughly **5 mph** (a different, unnamed lure — asr-uncertain, not
-confidently identified). See
-[trolling](trolling.md#socal-local-coast--trolling-hard-baits-to-prospect-a-zone-for-yellowtail)
-for the general prospect-a-zone method this sits alongside as a third,
-HookUp-bait-specific speed data point.
-
-Because a hookup is one fish at a time on a single-bait troll, the double
-rig is skipped for yellowtail trolling — the other rod stays rigged and in
-hand rather than stowed while the first fish is fought, so it can be fired
-right back out immediately to keep working the strike zone rather than
-losing search time re-rigging (`5Oh3IPIC5g4`).
-
-⚠ misplaced-content: the yellowtail program above (the on-top and half-yo-yo
-cadences with their mechanisms, the Coronado follows-fix, and the 3–4 mph
-troll-to-locate speed with its single-hookup workflow) is deep per-species
-execution sitting in a general technique note — queued for a
-yellowtail × tube-bait sub-article, `sources/relocation-queue.md`.
+The yellowtail program is its own page: the surface crank-pop-crank-pop
+cadence and its spinning-vs-baitcast mechanism, the half-yo-yo variant for
+fish that aren't showing, the Coronado Islands downsize-on-follows fix, and
+the troll-to-locate speed with its single-rod workflow are in
+[yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md).
+Note that the [double-bait dropper rig](#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft)
+above is deliberately not used for yellowtail.
 
 ## Tuna: patties, boils, and punching through a skipjack layer
 
@@ -309,6 +258,7 @@ classes](../tackle/gear-classes.md#lure-classes-cross-reference).
 ## Species applications
 
 - [California Sheephead — tube-bait fishing](../species/sheephead-tube-bait-fishing.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -336,4 +286,5 @@ Trip reports and per-source provenance: [evidence file](evidence/tube-bait-fishi
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

@@ -55,6 +55,7 @@
 - [Yellowtail — dropper loop](yellowtail-dropper-loop.md) **[SoCal only]** — One species, one technique.
 - [Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md) — One species, one technique.
 - [Yellowtail — surface iron](yellowtail-surface-iron.md) — The long rod and a Tady 45 or Salas 7X is the first outfit off the rack when yellowtail show on top, and the reason is reach: it puts a big profile on fish that
+- [Yellowtail — tube-bait fishing](yellowtail-tube-bait-fishing.md) — One species, one technique.
 - [Yellowtail](yellowtail.md) — Yellowtail show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and bottom fish stacked on pinnacles and high spots.
 
 ### Subfolders
@@ -65,5 +66,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 52 notes exceed the 30-node cap._
+_Map skipped: 53 notes exceed the 30-node cap._
 <!-- mermaid:end -->

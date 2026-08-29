@@ -54,6 +54,7 @@
 - [Evidence — Yellowtail — dropper loop](yellowtail-dropper-loop.md) — Per-source provenance backing yellowtail — dropper loop.
 - [Evidence — Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md) — Per-source provenance backing yellowtail — knife / speed jigging.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
+- [Evidence — Yellowtail — tube-bait fishing](yellowtail-tube-bait-fishing.md) — Per-source provenance backing yellowtail — tube-bait fishing.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
 
@@ -61,5 +62,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 51 notes exceed the 30-node cap._
+_Map skipped: 52 notes exceed the 30-node cap._
 <!-- mermaid:end -->

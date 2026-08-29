@@ -1108,7 +1108,6 @@ covered above, not a new tool.
 - [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
-- [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Wahoo](../species/wahoo.md)
@@ -1117,4 +1116,5 @@ covered above, not a new tool.
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

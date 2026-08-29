@@ -39,5 +39,7 @@ than repeated inline in the main note.
 ## Linked from
 
 - [Evidence — California Sheephead — tube-bait fishing](../../species/evidence/sheephead-tube-bait-fishing.md)
+- [Evidence — Yellowtail — tube-bait fishing](../../species/evidence/yellowtail-tube-bait-fishing.md)
 - [Tube-Bait Fishing](../tube-bait-fishing.md)
+- [Yellowtail — tube-bait fishing](../../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

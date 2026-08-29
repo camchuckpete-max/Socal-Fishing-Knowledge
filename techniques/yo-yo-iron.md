@@ -361,10 +361,10 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Bumps](../locations/bumps.md)
 - [Trolling](trolling.md)
-- [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 - [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

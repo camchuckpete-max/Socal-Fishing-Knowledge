@@ -514,5 +514,6 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Yellowtail — dropper loop](yellowtail-dropper-loop.md)
 - [Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md)
 - [Yellowtail — surface iron](yellowtail-surface-iron.md)
+- [Yellowtail — tube-bait fishing](yellowtail-tube-bait-fishing.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -338,5 +338,6 @@ file](evidence/gear-classes.md).
 - [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
 - [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

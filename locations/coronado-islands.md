@@ -143,4 +143,5 @@ Trip reports and per-source provenance:
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

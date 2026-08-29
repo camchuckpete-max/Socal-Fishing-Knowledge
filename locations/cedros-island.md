@@ -433,4 +433,5 @@ Trip reports and per-source provenance:
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->

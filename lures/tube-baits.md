@@ -152,4 +152,5 @@ file](evidence/tube-baits.md).
 - [Glide Baits](../techniques/glide-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [White Seabass](../species/white-seabass.md)
+- [Yellowtail — tube-bait fishing](../species/yellowtail-tube-bait-fishing.md)
 <!-- backlinks:end -->
