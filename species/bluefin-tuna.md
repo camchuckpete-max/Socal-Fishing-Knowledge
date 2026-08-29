@@ -470,7 +470,6 @@ Trip reports and per-source provenance:
 - [Evidence — Slow-Pitch Jigging (SPJ)](../techniques/evidence/slow-pitch-jigging.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
-- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

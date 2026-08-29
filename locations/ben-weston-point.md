@@ -41,5 +41,4 @@ A charted spot at **33°21.512'N 118°29.637'W** (cameron), in the [Catalina Isl
 ## Linked from
 
 - [Catalina Island — Backside](catalina-island-backside.md)
-- [Farnsworth Bank](farnsworth-bank.md)
 <!-- backlinks:end -->

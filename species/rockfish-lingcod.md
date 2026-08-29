@@ -371,7 +371,6 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
-- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hancock Bank](../locations/hancock-bank.md)

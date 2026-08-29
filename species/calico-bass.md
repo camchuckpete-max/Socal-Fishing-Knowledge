@@ -409,7 +409,6 @@ Trip reports and per-source provenance:
 - [Evidence — Spotted Bay Bass](evidence/spotted-bay-bass.md)
 - [Evidence — Swimbaits](../techniques/evidence/swimbaits.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
-- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)

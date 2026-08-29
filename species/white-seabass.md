@@ -353,7 +353,6 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Evidence — White Seabass — dropper loop](evidence/white-seabass-dropper-loop.md)
 - [Evidence — White Seabass — lead head and squid](evidence/white-seabass-leadhead-squid.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
-- [Farnsworth Bank](../locations/farnsworth-bank.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
