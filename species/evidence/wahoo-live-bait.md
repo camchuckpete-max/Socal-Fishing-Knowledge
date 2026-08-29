@@ -18,7 +18,7 @@ draw on, is in [wahoo evidence](wahoo.md).
 
 **Confidence note:** the parent is `confidence: medium` for the same reason the
 router is — every citation on this page comes from one registered channel's
-tackle-tip series, and the four wire-test builds contradict each other within
+tackle-tip series, and the three wire-test builds contradict each other within
 it. See the [wahoo evidence](wahoo.md) confidence note.
 
 ## How wahoo changes the execution
@@ -59,19 +59,6 @@ it. See the [wahoo evidence](wahoo.md) confidence note.
 
 ## Rigs & gear
 
-- `4uNPLknRAQg` (SearcherSportfishing, "Tackle Talk Live Recap (Wahoo 5.5.20),"
-  2020-05-06): the same session gives a 40 lb seven-strand, uncoated Berkley
-  wire leader to a Mustad 2/0 hook, made up in batches of four or five per
-  30 ft spool, tied to 30 or 40 lb mono — the leader-build mechanics for this
-  build are logged in
-  [haywire twist](../../rigging/haywire-twist.md#wahoo-live-bait-leader), not
-  repeated here. In the live Q&A segment, asked "what size hooks are we using
-  for wahoo," the answer for live bait is 2/0–3/0 generally, explicitly scaled
-  to bait size — a 2/0 for a 4–6 in bait, down to 1/0 for smaller, up for an
-  oversized one — contradicting the wire-test-driven hook sizing seen in the
-  standalone tackle-tip clips. Asked "J-hook or circle hook for wahoo," the
-  answer is J-hook, reasoned on camera as "I got a wire leader on, so I don't
-  need a circle hook" (no abrasion to guard against).
 - `S80GRyuAbLY` (SearcherSportfishing, "Tackle Tip Thursday Vol 160 (Wahoo Wire
   Leaders)," 2021-11-04): a sleeve-crimped (not haywire-twisted) wahoo
   live-bait wire leader at 60 lb on a 1/0 or 2/0 hook.
@@ -85,8 +72,9 @@ it. See the [wahoo evidence](wahoo.md) confidence note.
   `9IhmYstB8sA`, with no stated reason for the gap. The same source is where
   the teeth-cut-mono-regardless-of-test rule carried on
   [wahoo](../wahoo.md) comes from.
-- Leader-build mechanics for all four tests — sleeve sizes, finished lengths,
-  and the twist-versus-crimp split — are logged in
+- Leader-build mechanics for all three tests — sleeve sizes, finished lengths,
+  the twist-versus-crimp split and the 40 lb builds that sit alongside them —
+  are logged in
   [haywire twist](../../rigging/haywire-twist.md#wahoo-live-bait-leader) and
   its evidence file rather than repeated here.
 

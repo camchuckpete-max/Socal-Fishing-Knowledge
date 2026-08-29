@@ -92,44 +92,26 @@ hooks come dull enough to cost hookups (`4uNPLknRAQg`).
   with small connector rings (`9IhmYstB8sA`). Full builds — lengths, sleeve
   sizes, twist versus crimp — are in
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
-- **The wire test is unreconciled, and the spread is wider than it first
-  looks.** A **40 lb** seven-strand build is the only figure independently
-  corroborated twice (`vNIazq1aVwc`, `4uNPLknRAQg`); other builds run **44 lb**
-  to a **3/0** hook (`G81HN0dIDg0`), **60 lb** sleeve-crimped to a **1/0 or
-  2/0** hook (`S80GRyuAbLY`; the same demonstration re-aired as
-  `_Z4yMtrYgeA`, re-cut footage rather than independent confirmation), and
-  **200 or 300 lb** (`9IhmYstB8sA`) — roughly a sevenfold spread top to
-  bottom, not the threefold "60-vs-200" gap it looks like if the twice-
-  corroborated 40 lb figure is left out. Full leader-build mechanics —
-  sleeve sizes, finished lengths, the twist-versus-crimp split — for all four
-  builds are in
-  [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
-  **Decision frame:** no source ties the test to bait size, water clarity or
-  fish grade, so the choice is between a leader that will not be bitten off
-  and one that will not deaden a bait — pick per your tolerance for losing
-  fish versus losing bites; the 40 lb figure is the one two independent tips
-  agree on, if a default is wanted.
-  ⚠ Fact-check (contradicted-internal): four wire tests for one application
+- **The wire test is unreconciled by a factor of five.** One build runs
+  **200 or 300 lb** wire (`9IhmYstB8sA`), another **60 lb** sleeve-crimped to a
+  **1/0 or 2/0** hook (`S80GRyuAbLY`; the same demonstration re-aired as
+  `_Z4yMtrYgeA`, re-cut footage rather than independent confirmation), and a
+  third **44 lb** to a **3/0** hook for flylining (`G81HN0dIDg0`), with no
+  stated reason for the gap. **Decision frame:** no source ties the test to
+  bait size, water clarity or fish grade, so the choice is between a leader
+  that will not be bitten off and one that will not deaden a bait — pick per
+  your tolerance for losing fish versus losing bites.
+  ⚠ Fact-check (contradicted-internal): three wire tests for one application
   from one channel.
-- **Hook size mostly tracks the wire test, but one account ties it to the
-  bait instead.** 1/0–2/0 on the 60 lb build, 3/0 on the 44 lb build
-  (`S80GRyuAbLY`, `G81HN0dIDg0`), 3/0 on the seven-strand crimped build
-  (`jqyu3wZdNF4`), 2/0 Mustad on the 40 lb build (`4uNPLknRAQg`); the
-  200–300 lb build names no hook size (`9IhmYstB8sA`). The same channel's live
-  Q&A gives a different rule for wahoo live-bait hooks generally — 2/0 as the
-  default, sized down to 1/0 for a smaller (4–6 in) bait and up for an
-  oversized one, independent of leader test (`4uNPLknRAQg`) — so which axis,
-  wire test or bait, actually drives the choice is not resolved.
-  ⚠ Fact-check (contradicted-internal): hook size tied to the wire test in
-  the tackle-tip builds, tied to bait size in the same channel's live Q&A.
+- **Hook size arrives attached to the wire test,** not to the bait: 1/0–2/0 on
+  the 60 lb build, 3/0 on the 44 lb build (`S80GRyuAbLY`, `G81HN0dIDg0`), 3/0
+  on the seven-strand crimped build (`jqyu3wZdNF4`). The 200–300 lb build names
+  no hook size (`9IhmYstB8sA`).
 - **The one build that names a style runs a J hook** (`jqyu3wZdNF4`); another
   names only an inexpensive Mustad live-bait hook (`vNIazq1aVwc`). No source
-  puts a circle hook on a flylined wahoo bait — one account gives the reason
-  on camera: a wire leader removes the abrasion a mono or fluoro leader would
-  need a self-setting hook to compensate for, "I got a wire leader on, so I
-  don't need a circle hook" (`4uNPLknRAQg`).
-- ⚠ Flagged gap — no corpus source: a stated leader length for the
-  200–300 lb build.
+  puts a circle hook on a flylined wahoo bait.
+- ⚠ Flagged gap — no corpus source: a bait size to match the hook to, or a
+  stated leader length for the 200–300 lb build.
 
 ## Differs from the general method
 
@@ -153,14 +135,10 @@ presentation, hook position and bait keeping:
   because the fish circles back for the other half (`4uNPLknRAQg`,
   `vNIazq1aVwc`). The change-baits-often discipline still applies between
   bites (`4uNPLknRAQg`).
-- **Hook size mostly follows the leader build rather than the bait — but not
-  in every account.** The general note sizes the hook to the sardine; most
-  wahoo tackle-tip builds instead pin the hook to the wire test — 1/0–2/0 on
-  60 lb, 3/0 on 44 lb, 2/0 on 40 lb (`S80GRyuAbLY`, `G81HN0dIDg0`,
-  `4uNPLknRAQg`) — while the same channel's live Q&A sizes wahoo live-bait
-  hooks to the bait exactly as the general method does, 2/0 as a default
-  scaled down to 1/0 or up for the bait in hand (`4uNPLknRAQg`); see the flag
-  in [Rigs & gear](#rigs--gear) above.
+- **Hook size follows the leader build, not the bait in your hand.** The
+  general note sizes the hook to the sardine; both wahoo builds that give a
+  hook size pin it to the wire test they are built on — 1/0–2/0 on 60 lb, 3/0
+  on 44 lb (`S80GRyuAbLY`, `G81HN0dIDg0`).
 
 ## Evidence
 
