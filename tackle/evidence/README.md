@@ -38,11 +38,12 @@
 - [Evidence — Accurate Tern 2 (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Per-source provenance and single-catch testimonials for Accurate Tern 2 — cast-control brake and redesigned twin drag.
 - [Evidence — Accurate Valiant 2 SPJ (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Per-source provenance for Accurate Valiant 2 SPJ — centrifugal brake, strike button, single/two-speed.
 - [Evidence — Bait-Tank Time-Savers (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Per-source provenance and re-cut tracing for Bait-Tank Time-Savers — artificial octopus and pre-scented Gulp on the rock-cod dropper loop.
+- [Evidence — Baitcaster Gear Ratio for Landing Big Yellowtail (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md) — Trip reports and per-source provenance for Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express).
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 34 notes exceed the 30-node cap._
+_Map skipped: 35 notes exceed the 30-node cap._
 <!-- mermaid:end -->
