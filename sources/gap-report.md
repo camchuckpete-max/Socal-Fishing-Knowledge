@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
+_Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
 
 ## species/
 
@@ -253,6 +253,8 @@ _Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `Landing & handling`: gap — bleeding, chilling, gaffing, or table
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/snook-sliding-sinker.md**
+  - `Rigs & gear`: gap — the sinker weight or style for this build,
 - **species/snook.md**
   - `Where & when`: gap — a seasonal presence, spawning-season or
   - `Presence & forage`: gap — stomach contents, or any forage species
@@ -312,6 +314,8 @@ _Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `Doctrine & conflicts`: gap — the signal that says to leave the structure.
   - `Landing & handling`: gap — bleeding, chilling, ikejime or butchering a
   - infobox `scientific_name`: unknown
+- **species/wahoo-live-bait.md**
+  - `Rigs & gear`: gap — a bait size to match the hook to, or a
 - **species/wahoo.md**
   - `Presence & forage`: gap — a forage species confirmed from a wahoo
   - `Spawning`: gap — when, where or how wahoo spawn anywhere in
@@ -325,6 +329,8 @@ _Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `Regulations`: gap — any California / CDFW or Mexican
   - `Landing & handling`: gap — bleeding, chilling or ikejime protocol
   - infobox `scientific_name`: unknown
+- **species/white-seabass-leadhead-swimbait.md**
+  - `Rigs & gear`: gap — a line class or hook size stated *for this
 - **species/white-seabass.md**
   - `Where & when`: gap — any temperature band for the white seabass
   - `Presence & forage`: gap — any stomach-content record from a landed white
@@ -337,12 +343,15 @@ _Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `Landing & handling`: gap — bleeding, chilling or ikejime for a white
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/yellowfin-tuna-flyline.md**
+  - `Rigs & gear`: gap — a rod, reel or main-line build for this
+- **species/yellowfin-tuna-trolling.md**
+  - `Rigs & gear`: gap — rod, reel, main-line or leader build for the
 - **species/yellowfin-tuna.md**
   - `Presence & forage`: gap — forage confirmed from a yellowfin stomach
   - `Spawning`: gap — when, where or how yellowfin spawn anywhere
   - `Feeding triggers`: gap — any tide, slack, gray-light or
   - `Finding them (sign & sonar)`: gap — how the 40–50 ft mark shifts with sea
-  - `Situations → techniques`: gap — yellowfin troll spread geometry — the corpus gives *speeds*, never setback distances or lure positions in the pattern [b] |
   - `Situations → techniques`: flagged stub row
   - `Situations → techniques`: flagged stub row
   - `Zone guides`: zone guide missing
