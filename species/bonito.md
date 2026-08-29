@@ -268,6 +268,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 
 - [101 / 425](../locations/101-425.md)
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
@@ -280,6 +281,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dana Point](../locations/dana-point.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — 14 Mile Bank](../locations/evidence/14-mile-bank.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Calico Bass (Kelp Bass)](evidence/calico-bass.md)

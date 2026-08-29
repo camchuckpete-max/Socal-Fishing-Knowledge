@@ -319,6 +319,7 @@ Trip reports and per-source provenance: [evidence file](evidence/foamer-casting.
 <!-- backlinks:start -->
 ## Linked from
 
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)

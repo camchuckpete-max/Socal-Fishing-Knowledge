@@ -375,6 +375,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [1140 Finger / 450](../locations/1140-finger-450.md)
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [172 / 125](../locations/172-125.md)
 - [179 / 220](../locations/179-220.md)
 - [209 / 312](../locations/209-312.md)

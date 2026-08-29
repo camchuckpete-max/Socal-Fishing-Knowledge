@@ -14,6 +14,7 @@
 - [12 Mile Reef](12-mile-reef.md) **[SoCal only]** — A zone is a run grouping.
 - [125](125.md) **[SoCal only]** — A charted spot at 33°29.000'N 118°42.500'W (cameron), in the 172 / 125 zone.
 - [138](138.md) **[SoCal only]** — A charted spot at 32°48.750'N 117°49.333'W (cameron), in the 51 / 181 / 138 zone.
+- [14 Mile Bank](14-mile-bank.md) **[SoCal only]** — A charted offshore bank at 33°23.833'N 118°00.000'W (cameron), the northwestern mark of the 279 / 267 / 14 Mile Bank zone, sitting in open water between the sou
 - [140](140.md) **[SoCal only]** — A charted spot at 32°43.167'N 117°47.167'W (cameron), in the The Corner / 140 / 182 … zone.
 - [15 Fa Ridge](15-fa-ridge.md) **[Baja only]** — A charted spot at 31°34.900'N 116°42.900'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [15 Fathom Spot](15-fathom-spot.md) **[Baja only]** — A charted spot at 30°22.000'N 116°05.000'W (cameron), in the San Quintin zone.
@@ -433,5 +434,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 420 notes exceed the 30-node cap._
+_Map skipped: 421 notes exceed the 30-node cap._
 <!-- mermaid:end -->

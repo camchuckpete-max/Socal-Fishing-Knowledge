@@ -286,7 +286,7 @@ by their builders after the transform phase drains.
 | locations/pyramid-head.md | gazetteer | done | gaps:4 stubs:2 | spot page written: 4 skeleton sections filled from 2 named-at-the-spot trips (2017-06-09 live-squid mixed bite yuXr3IJ8ybg; 2014-11-03 east-end yellowfin Ow3an9lSVh4) plus zone-level access and the cameron bank-geometry distances; 6 species rows (yellowtail, yellowfin, bonito, calico, white seabass stub, barracuda/rockfish stub); 4 gaps, 2 stubs, depth/distance unknown |
 | locations/mackerel-bank.md | gazetteer | escalated |  | escalated: guard: out of scope for 'review: locations/mackerel-bank.md': locations/san-clemente-island-front-side.md |
 | locations/desperation-reef.md | gazetteer | transformed | gaps(6), name-discrepancy, name-collision | new spot page + evidence verified faithful; one source-scope claim corrected, one missing source id added; all cameron geometry recomputed and matching |
-| locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/14-mile-bank.md | gazetteer | transformed | gaps(9), parent-page-suggestion: stale yellowfin gap row on 279-267-14-mile-bank.md | gazetteer spot page verified clean — coordinates match spot library, all derived distances recompute, 5 transcript spot-checks faithful |
 | locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
 | locations/socal-bight.md | geo | transformed | gaps:5 stubs:18 | region page, 41/41 census zones; verified with 5 fixes (cite rescope, compass fix, obs scoping, evidence pair) |

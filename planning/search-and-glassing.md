@@ -310,6 +310,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [172 / 125](../locations/172-125.md)
 - [179 / 220](../locations/179-220.md)
 - [209 / 312](../locations/209-312.md)
@@ -348,6 +349,7 @@ Trip reports and per-source provenance:
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — 14 Mile Bank](../locations/evidence/14-mile-bank.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Kite Fishing](../techniques/evidence/kite-fishing.md)

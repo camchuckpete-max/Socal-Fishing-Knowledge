@@ -813,6 +813,7 @@ confidence.
 <!-- backlinks:start -->
 ## Linked from
 
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
@@ -830,6 +831,7 @@ confidence.
 - [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — 14 Mile Bank](../locations/evidence/14-mile-bank.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)

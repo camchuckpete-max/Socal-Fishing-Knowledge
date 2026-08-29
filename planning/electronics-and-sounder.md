@@ -299,6 +299,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [14 Mile Bank](../locations/14-mile-bank.md)
 - [179 / 220](../locations/179-220.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
@@ -331,6 +332,7 @@ Trip reports and per-source provenance:
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — 14 Mile Bank](../locations/evidence/14-mile-bank.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
