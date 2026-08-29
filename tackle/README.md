@@ -89,7 +89,7 @@
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — The Shimano Speedmaster and Penn Fathom two-speed lever-drag lines both run three size tiers — small, mid, big — that map onto line class rather than model name
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md) — Two spinning-rod tiers, plus a PE1 line pick, cover the hard-bait and leadhead-swimbait side of surf halibut fishing: a light 9½ ft rod for small trebles and si
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express builds a jig-selection, rigging, and reel/rod package specifically for triple-digit (100 lb+) bluefin (DuNkl8F45NE).
-- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md) — Tackle Express (Harry, Eo_bA8IWvyU, "Before You Fish for White Seabass — Watch This!
+- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md) — A dedicated white seabass kit splits by presentation: a conventional star-drag reel for the dropper loop and other dropped baits, a low-profile baitcaster for c
 
 ### Subfolders
 - [evidence/](evidence/README.md)
