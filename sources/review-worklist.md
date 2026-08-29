@@ -233,7 +233,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-ci4-plus-reel-features.md | light | done | none | transform verified, apply-with-changes: restored dropped provenance (titles/upload dates) into a new evidence file per established sibling pattern |
 | tackle/tackle-express-daiwa-coastal-tw200-reel.md | light | done | none | transform verified, one dropped quote restored |
 | tackle/tackle-express-daiwa-luvias-st-spinning-reel.md | light | done | none | transform applied cleanly: prose compressed to plain-statement style, cites added throughout, provenance/presenter detail split to new evidence/ file, layout: v2 added |
-| tackle/tackle-express-daiwa-saltiga-reel.md | light | pending |  |  |
+| tackle/tackle-express-daiwa-saltiga-reel.md | light | done | none | light-tier v2 transform: plain-statement rewrite, ASR/attribution detail split to evidence file, cites added; verified conserved and faithful |
 | tackle/tackle-express-daiwa-saltist-sd-reel.md | light | pending |  |  |
 | tackle/tackle-express-fast-tip-for-finicky-bite-drag-drift.md | light | pending |  |  |
 | tackle/tackle-express-fish-kicker-quick-clip-surf-bait.md | light | pending |  |  |

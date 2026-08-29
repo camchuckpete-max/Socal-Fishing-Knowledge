@@ -48,11 +48,12 @@
 - [Evidence — "Next-Gen" CI4+ Reel Features (Tackle Express)](tackle-express-ci4-plus-reel-features.md) — Per-source provenance for "Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin.
 - [Evidence — Daiwa Coastal TW 200 (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md) — Per-source provenance for Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive.
 - [Evidence — Daiwa Luvias ST (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Per-source provenance for Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal.
+- [Evidence — Daiwa Saltiga (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Per-source provenance for Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 44 notes exceed the 30-node cap._
+_Map skipped: 45 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -3,49 +3,49 @@ type: tackle
 tags: [reels, daiwa, saltiga, bearings, gears, drag, big-game, tackle-express]
 sources: [AhICQlAsreU, JgD1gOuQAaE]
 confidence: low
+layout: v2
 ---
 
 # Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)
 
-Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," `AhICQlAsreU`,
-uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line
-(presenter unnamed on camera, in the title, and in the description; the
-clip never states whether it's describing a spinning or lever-drag/star-drag
-Saltiga model, so that isn't assumed here). A straight product-feature list
-with no technique, sizing, or decision content — per the confidence rubric
-("low — sponsored or promotional claim, regardless of channel") this note is
-capped at **low** in full, on top of `tackle-express` being an unregistered
-channel.
+A 78-second Tackle Express feature rundown for the Daiwa Saltiga line
+(`AhICQlAsreU`, presenter unnamed), covering CRBB bearings, the Digigear
+system, and Automatic Tournament Drag, with no model size, sizing, or
+application content. The clip never states whether it describes a spinning
+or lever-drag/star-drag Saltiga model. Per the confidence rubric ("low —
+sponsored or promotional claim, regardless of channel"), sponsored/
+promotional copy from `tackle-express`, an unregistered channel, caps this
+note at **low** confidence in full.
 
 ## What's claimed
 
-- **CRBB bearings — corrosion-resistant ball bearings.** Described as a
-  higher-end stainless steel, claimed **12 times longer lasting** (no baseline
-  stated for the comparison). A **protective shield on the inside of the
-  bearing** is said to keep impurities — named examples: salt, sand, "or
-  anything else that doesn't belong" — from getting inside the reel.
+- **CRBB bearings — corrosion-resistant ball bearings.** A higher-end
+  stainless steel claimed **12× longer-lasting** (no baseline stated for the
+  comparison). A protective shield on the bearing's inside is said to keep
+  impurities — salt, sand, "or anything else that doesn't belong" — from
+  getting inside the reel (`AhICQlAsreU`).
 - **Digigear system.** A digitally-designed gear set for both the stainless
-  **pinion and drive gear**, pitched as giving greater power, durability, and
-  smoothness. This transcript's auto-captions render that first gear as
-  "canyon" gear — not a real reel component, and not confirmed against the
-  title or description at the time this note was first written, so it was
-  flagged **asr-uncertain** (a guess of "pinion," the conventional pairing
-  with a drive/main gear, was noted but not asserted). **Resolved by a
-  second, near-identical Tackle Express clip** — same channel, same Digigear/
-  CRBB/ATD script, `JgD1gOuQAaE`, "Daiwa Saltiga vs. Shimano Talica," uploaded
-  2024-12-27 — whose captions render the same line clearly as "the stainless
-  pinion and drive gear." This is a re-cut/re-use of the same marketing copy,
-  not independent confirmation of a *claim*, but it does resolve the caption
-  ambiguity: **pinion** is written above as confirmed, the `asr-uncertain`
-  flag is lifted for this specific word.
-- **Automatic Tournament Drag (ATD).** The stated headline feature is an
-  upgraded drag grease, said to perform better under heat. The
-  same redesigned grease is credited with reducing the drag's **startup
-  inertia** — the extra resistance felt when a drag first begins to give line
-  — for a smoother feel as the drag starts to peel out.
+  **pinion and drive gear**, pitched for greater power, durability, and
+  smoothness. This clip's auto-captions render the first gear as "canyon" —
+  not a real reel component. A companion Tackle Express clip running the same
+  Digigear/CRBB/ATD script, "Daiwa Saltiga vs. Shimano Talica" (`JgD1gOuQAaE`),
+  captions the same line clearly as "the stainless pinion and drive gear,"
+  resolving the word to **pinion** (`AhICQlAsreU`, `JgD1gOuQAaE`). The two
+  clips are a re-cut/re-use of the same marketing copy, so this confirms the
+  caption word only — not independent confirmation of the underlying claim.
+- **Automatic Tournament Drag (ATD).** An upgraded drag grease said to
+  perform better under heat. The same redesigned grease is credited with
+  reducing the drag's **startup inertia** — the extra resistance felt when a
+  drag first begins to give line — for a smoother start as the drag peels
+  out (`AhICQlAsreU`).
 
 No model size, gear ratio, max drag figure, line capacity, or price is given
 in this clip.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-daiwa-saltiga-reel.md).
 
 ## Related
 
@@ -68,9 +68,8 @@ in this clip.
   Housing, Hyperdrive Clutch); not confirmed as using identical gear
   terminology to this note's Digigear/CRBB/ATD claims.
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
-  and bearing/gear care discipline (rinse, dry, grease) that this reel's CRBB
-  bearings and Digigear system sit alongside as a manufacturing claim rather
-  than a maintenance habit.
+  and bearing/gear care discipline; this reel's CRBB bearings and Digigear
+  system are a manufacturing claim, not a maintenance habit.
 - [Drag setting](drag-setting.md) — general drag-setting judgment; this note
   only records the Saltiga's stated startup-inertia/grease claim, not a
   setting procedure.
@@ -87,6 +86,7 @@ in this clip.
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
+- [Evidence — Daiwa Saltiga (Tackle Express)](evidence/tackle-express-daiwa-saltiga-reel.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
