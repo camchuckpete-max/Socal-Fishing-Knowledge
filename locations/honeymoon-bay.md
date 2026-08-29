@@ -123,6 +123,5 @@ page: [evidence — Loreto & Puerto Escondido](evidence/loreto.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [Isla Carmen — north end](isla-carmen-north-end.md)
 - [Loreto & Puerto Escondido](loreto.md)
 <!-- backlinks:end -->

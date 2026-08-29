@@ -287,7 +287,6 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
-- [Isla Carmen — north end](../locations/isla-carmen-north-end.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [LA - 270 / 286](../locations/la-270-286.md)

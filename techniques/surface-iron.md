@@ -515,7 +515,6 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Iron Jigs](../lures/iron-jigs.md)
-- [Isla Carmen — north end](../locations/isla-carmen-north-end.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [La Bocana](../locations/la-bocana.md)

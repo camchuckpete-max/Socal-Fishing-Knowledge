@@ -256,7 +256,6 @@
 - [International Reef F](international-reef-f.md) **[SoCal only]** — A charted spot at 32°32.567'N 117°14.783'W (cameron), in the International artificial reef zone.
 - [International Reef Missile Tower](international-reef-missile-tower.md) **[SoCal only]** — A charted spot at 32°32.495'N 117°14.790'W (cameron), in the International artificial reef zone.
 - [Iron Bound](iron-bound.md) **[SoCal only]** — A charted spot at 33°26.835'N 118°34.689'W (cameron), in the Catalina Island — Backside (W→E) zone.
-- [Isla Carmen — north end](isla-carmen-north-end.md) **[Baja only]** — [Baja only] — the far end of Isla Carmen in the Loreto & Puerto Escondido cluster: *"about 20 miles probably an hour to get there"* from Puerto Escondido in a s
 - [Isla Espíritu Santo](isla-espiritu-santo.md) **[Baja only]** — [Baja only] — the island ground of the La Paz zone, and the middle rung of that zone's three documented depths: rock worked close to the island and fished for m
 - [Island Structure](island-structure.md) **[SoCal only]** — Universal typology of SoCal island and bank structure: how many current directions each shape fishes, how the fathom curve itself becomes huntable structure, an
 - [Isolete](isolete.md) **[Baja only]** — A charted spot at 31°33.000'N 116°42.900'W (cameron), in the Punta Banda / Santo Tomas zone.
@@ -450,5 +449,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 437 notes exceed the 30-node cap._
+_Map skipped: 436 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -220,8 +220,8 @@ below it.** The named grounds recorded are:
   locals rate (`n4nMCLLW3tY`).
 - **Six Mile Reef** — the high spot on the way out to Monserrat, fished to the
   bottom, with a yellowtail taken there on an earlier trip (`n4nMCLLW3tY`).
-- **[Isla Carmen, north end](isla-carmen-north-end.md)** — about 20 miles and an
-  hour from Puerto Escondido (`n4nMCLLW3tY`).
+- **Isla Carmen**, north end — about 20 miles and an hour from Puerto Escondido
+  (`n4nMCLLW3tY`).
 - **Honeymoon Bay** (Isla Carmen) — sheltered water, with yellowtail on the
   corner (`ikiXx9sUsoA`).
 - **Punta Perico** — a shoreline point that produced a yellowtail, and the
@@ -240,7 +240,6 @@ written up here.
 
 <!-- children:start -->
 - [Honeymoon Bay](honeymoon-bay.md)
-- [Isla Carmen — north end](isla-carmen-north-end.md)
 <!-- children:end -->
 
 ## Evidence
@@ -257,7 +256,6 @@ Trip reports and per-source provenance:
 - [East Cape](east-cape.md)
 - [Evidence — Loreto & Puerto Escondido](evidence/loreto.md)
 - [Honeymoon Bay](honeymoon-bay.md)
-- [Isla Carmen — north end](isla-carmen-north-end.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Sea of Cortez](sea-of-cortez.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

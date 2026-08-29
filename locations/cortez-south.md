@@ -308,7 +308,6 @@ Trip reports and per-source provenance:
 - [East Cape](east-cape.md)
 - [Evidence — Cortez South](evidence/cortez-south.md)
 - [Honeymoon Bay](honeymoon-bay.md)
-- [Isla Carmen — north end](isla-carmen-north-end.md)
 - [La Paz](la-paz.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
