@@ -172,4 +172,5 @@ source provenance: [striped marlin evidence](evidence/striped-marlin.md).
 
 - [Evidence — Striped Marlin — trolling](evidence/striped-marlin-trolling.md)
 - [Striped Marlin](striped-marlin.md)
+- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->
