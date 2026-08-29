@@ -568,6 +568,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [California Sheephead](../species/sheephead.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)

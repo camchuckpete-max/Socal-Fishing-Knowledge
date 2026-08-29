@@ -109,6 +109,7 @@ file](evidence/jerkbaits.md).
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Jerkbaits (Baja Cabrilla Program)](evidence/jerkbaits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

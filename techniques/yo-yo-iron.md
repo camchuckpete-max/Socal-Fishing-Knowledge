@@ -314,6 +314,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

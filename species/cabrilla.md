@@ -80,24 +80,19 @@ cabrilla spawning at all.
 
 ## Feeding triggers
 
-- **Light level sets both aggression and lure size.** In low light — early
-  morning and late afternoon — the fish feed aggressively and eat the larger
-  **170-size** jerkbait, and white, bright and dark colours all get bit. Once
-  the sun clears the hills and light penetrates, bright, metallic and flashy
-  colours get bit better, the fish turn finicky, and the answer is to drop to
-  the **150 size** (`EmZO8QiOfik`, `M8hOYQ_6rSg`). **Ray Sharifi** does not run
-  that downsize: he carries a handful of **150s** in case the fish will only eat
-  the smaller bait but brings more **170s** than anything else, and reports fish
-  schooled on micro-bait still taking only the 170 — a three-quarter-inch
-  difference that decides the bite (`dEPuDrhoClM`). Neither position states the
-  other's conditions, so both stand.
+- **Light level sets both aggression and colour.** In low light — early
+  morning and late afternoon — the fish feed aggressively, and white, bright
+  and dark colours all get bit. Once the sun clears the hills and light
+  penetrates, bright, metallic and flashy colours get bit better and the fish
+  turn finicky (`EmZO8QiOfik`, `M8hOYQ_6rSg`). The lure-size answer to that
+  light change — the 170/150 ladder and the disagreement over it — is in
+  [cabrilla — jerkbait](cabrilla-jerkbait.md#doctrine--conflicts).
   ⚠ Flagged gap — no corpus source: mechanism — why light penetration flips
-  the colour and size preference.
-- **Speed is the trigger, not the presentation.** A **fast, tight wobbling
-  action with a little hunting** (slight off-track wander) draws the bite; a
-  rolling or slow-rolled bait does not (`EmZO8QiOfik`). The working retrieve is
-  cast and wind with no pauses and no jerks, a cadence held all day
-  (`T3cEQUqiH8E`).
+  the colour preference.
+- **Speed is the trigger, not the presentation.** A bait moving fast draws the
+  bite; a rolling or slow-rolled one does not (`EmZO8QiOfik`). The action test
+  a bait has to pass and the no-pause, no-jerk retrieve cadence are in
+  [cabrilla — jerkbait](cabrilla-jerkbait.md#how-cabrilla-changes-the-execution).
 - **Sun height moves them down the wall**, so the trigger moves with them: see
   the depth ladder in [Finding them](#finding-them-sign--sonar).
 - ⚠ Flagged gap — no corpus source: tide, slack-water, current or moon-phase
@@ -143,8 +138,8 @@ cabrilla spawning at all.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Low light** — early morning / late afternoon, fish tight to shoreline structure | [Jerkbaits](../lures/jerkbaits.md) — **170 size**, cast as close to the rock as you can | Jerkbait casting class, **50 lb** | White, bright or dark all get bit in low light; the fish are feeding aggressively and eating the larger bait (`EmZO8QiOfik`) [a]. ⚠ misplaced-content: the jerkbait program's execution detail — light-keyed 170/150 sizing, running depths, the action test, the hook-wire trade and the attrition numbers — is per-species execution sitting in a router, queued for a cabrilla × jerkbait sub-article |
-| **Sun up**, fish backed off the tightest rock | [Jerkbaits](../lures/jerkbaits.md) — drop to the **150 size** (or a Mag-Minnow-class bait), switch to bright / metallic / flashy | Same jerkbait casting class | Work off the shoreline rock toward the "dark spot" submerged structure (`EmZO8QiOfik`) |
+| **Low light** — early morning / late afternoon, fish tight to shoreline structure | [Jerkbait — for cabrilla](cabrilla-jerkbait.md) — **170 size**, cast as close to the rock as you can ([the baits](../lures/jerkbaits.md)) | Jerkbait casting class, **50 lb** | White, bright or dark all get bit in low light; the fish are feeding aggressively and eating the larger bait (`EmZO8QiOfik`) [a] |
+| **Sun up**, fish backed off the tightest rock | [Jerkbait — for cabrilla](cabrilla-jerkbait.md) — drop to the **150 size** (or a Mag-Minnow-class bait), switch to bright / metallic / flashy | Same jerkbait casting class | Work off the shoreline rock toward the "dark spot" submerged structure (`EmZO8QiOfik`); the downsize itself is contested [a] |
 | **Late morning to lunch** (~9–10 am on), fish off the top in **60–80 ft** | [Yo-yo iron](../techniques/yo-yo-iron.md) — Salas 6X, 6X Jr, 60 g jig para, or a Krocodile-class casting spoon | 40–60 lb class stout rod, high-speed reel | Cast out, let it hit bottom, then **burn it straight back to the boat** — not a hop-on-bottom rockfish-jig retrieve (`EmZO8QiOfik`) |
 | **Midday, sun high** (~11 am–3 pm), bigger fish deep in **80–150 ft** | Heavier [yo-yo iron](../techniques/yo-yo-iron.md) — Salas 6X, Tady 40, or a 7X-class iron | Heavier 40–60 lb+ class | Burn **30–40 cranks** off the bottom, let it settle back, repeat; bites come within **5–10 cranks** of picking the iron up (`EmZO8QiOfik`). ⚠ misplaced-content: the burn-and-settle cadence in this row and the one above is per-species execution sitting in a router, queued for a cabrilla × yo-yo-iron sub-article |
 | **Fish up and foaming on the surface** | [Jerkbaits](../lures/jerkbaits.md) — cast into the foam | Same jerkbait casting class | On the one documented foam stop the school ate the jerkbait and refused a [surface iron](../techniques/surface-iron.md) thrown into the same boil (`0dNfsle54Wo`) [b] |
@@ -152,8 +147,9 @@ cabrilla spawning at all.
 | **Fall/winter (Oct+) micro-bait (~1–1.5 in)**, and any slow bite year-round | Downsize both the jerkbait and iron programs — small jig paras and small-profile jerkbaits | Same outfits, smaller lures | Small baits also get down to fish that will not come up for a surface bait (`M8hOYQ_6rSg`); the downsize draws spotted bay bass, pompano and lane snapper as well (`EmZO8QiOfik`) [d] |
 | **Cast program has died and morale with it** | ⚠ Flagged stub — no corpus source yet: [trolling](../techniques/trolling.md) is named as what the pangeros switch to when the cabrilla will not eat the cast lure (`dEPuDrhoClM`), with no speed, lure or depth parameters anywhere in the corpus | — | Fill in when a source gives the troll parameters |
 
-[a] Hook choice on a Current-Sniper-class jerkbait is a live trade — see
-[Doctrine & conflicts](#doctrine--conflicts) and
+[a] Bait size, bait class and hook wire on a Current-Sniper-class jerkbait are
+all live trades — see
+[cabrilla — jerkbait](cabrilla-jerkbait.md#doctrine--conflicts) and
 [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing).
 [b] Single trip; flagged in [Finding them](#finding-them-sign--sonar).
 [c] Colour selection across a full Bahía de los Ángeles mothership trip was
@@ -171,11 +167,8 @@ the captions — see the [evidence file](evidence/cabrilla.md).
   (`EmZO8QiOfik`). See
   [rod & reel selection](../tackle/rod-and-reel-selection.md) and
   [gear classes](../tackle/gear-classes.md).
-- **Reel — low-profile level-wind baitcaster at 6.5:1–7:1 or faster**
-  (`EmZO8QiOfik`). The fast ratio is required to swim the baits correctly; the
-  level wind is required because at **2–3 casts a minute** a reel you have to
-  hand-guide line back onto fatigues the angler and starts producing backlashes
-  within a few casts (`EmZO8QiOfik`).
+- **Reel — the jerkbait program's gear ratio and its level-wind requirement**
+  are in [cabrilla — jerkbait](cabrilla-jerkbait.md#rigs--gear).
 - **Line — lighter outfit 65 lb braid to a 50 lb mono top shot; heavier outfit
   80 lb braid to an 80 lb leader** (`EmZO8QiOfik`). Run **6–8 ft of leader** —
   close to a rod length — so that a fish that gets into the rocks is pulling
@@ -192,12 +185,9 @@ the captions — see the [evidence file](evidence/cabrilla.md).
   cabrilla routinely hooks yellowtail, roosterfish, dorado, sierra and snappers
   tight against the rocks (`EmZO8QiOfik`), so hooks, leader and drag are sized
   for the cabrilla program.
-- **Lure attrition is a gear-planning number.** A hardcore cabrilla angler
-  fishes **15 baits per six-hour morning session** and packs **60–80 baits** for
-  a multi-day trip; six baits a day, in two or three of the colours you expect
-  to use, is the floor (`EmZO8QiOfik`). A single big fish twists and
-  straightens hook hangers, so a confidence colour is carried in multiples
-  (`EmZO8QiOfik`, `dEPuDrhoClM`).
+- **Lure attrition is a gear-planning number** — how many jerkbaits a session
+  and a multi-day trip actually consume is in
+  [cabrilla — jerkbait](cabrilla-jerkbait.md#rigs--gear).
 
 ## Zone guides
 
@@ -232,25 +222,11 @@ Section order below is not a ranking.
   drag and from running braid straight to fluoro (`EmZO8QiOfik`). Pick the pair,
   not one half of it: a locked drag on a fast rod leaves nothing to absorb the
   head-turn and pulls hooks.
-- **Whether a Current-Sniper-class jerkbait works for cabrilla is contested;
-  the action test is not.** Both sides read the same action: a fast, tight kick —
-  **Cesar** wants a little hunting and no roll, **Ray Sharifi** a tight wobble
-  with a little roll — and both reject a wide kick or a rolling bait. **Cesar**
-  fishes Current Snipers in
-  the **170 size** as his deeper option — they run **5–7 ft** against the
-  **1–3 ft** (sometimes 4 ft) of a Hydro-Minnow-class bait — with the packaged
-  hooks swapped up one size and one gauge; smaller sizes lack the action to
-  trigger the bite (`EmZO8QiOfik`). **Ray Sharifi** rates the same class, and
-  SP-Minnow-class baits, as having too wide a kick or too much roll for
-  cabrilla, and calls the Hydro Minnow superior for this fish while preferring
-  the Current Sniper for yellowtail and tuna (`dEPuDrhoClM`). Swim the bait
-  boatside and read the action before deciding.
-- **Hook wire on Current-Sniper-class jerkbaits is a situational trade, not a
-  conflict.** A lighter Z-wire hook (Owner STX, size 1) keeps the swimming
-  action for a finicky bite; a heavier wire hook (Owner ST-66, 1X, size 1)
-  holds up better in a hot, wide-open bite but dampens the action
-  (`EmZO8QiOfik`) — see
-  [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing).
+- **The jerkbait doctrine conflicts are kept in the sub-article, not here** —
+  whether a Current-Sniper-class bait kicks tightly enough for cabrilla at
+  all, whether the sun-up bite is answered by dropping to the 150, and the
+  light vs heavy hook-wire trade: all three are held side by side in
+  [cabrilla — jerkbait](cabrilla-jerkbait.md#doctrine--conflicts).
 
 ## Landing & handling
 
@@ -277,6 +253,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Cabrilla — jerkbait](cabrilla-jerkbait.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

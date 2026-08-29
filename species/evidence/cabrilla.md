@@ -115,10 +115,6 @@ parent.
 
 ## Feeding triggers
 
-- `T3cEQUqiH8E` (BDOutdoors, Bahía de los Ángeles, tournament practice day):
-  the retrieve description — "same exact action and retrieve style, it's just
-  burning… you don't do the pauses and jerks and whatever, it is just casting
-  wind, casting wind, casting wind. You just get into a cadence."
 - `T3cEQUqiH8E` (BDOutdoors, Bahía de los Ángeles, practice day): on a day whose
   catch was mostly yellowtail with "a couple cabrilla," the presenter found
   **opaque colours out-bit metallic ones** — sardine and mackerel patterns
@@ -162,16 +158,6 @@ parent.
   back, another boat on chartreuse and orange, another on purples, another on
   straight orange; his conclusion was "as long as you had some brighter coloured
   baits you had a really good shot at getting bit."
-- `dEPuDrhoClM`: on sizing, "you do want to bring a handful of 150s just in case
-  for whatever reason they're only eating that smaller bait," but "even when
-  they're schooled up eating these micro baits they still only want the 170" —
-  a **three-quarter-inch** difference that "makes a huge difference." Recorded
-  as a tension with the parent's light-keyed 170 → 150 downsize; both are the
-  same channel and neither states the other's conditions, so nothing is
-  reconciled.
-- `dEPuDrhoClM`: cabrilla mangle hardware — a hook hanger "pulled, twisted and
-  straightened on both sides" on a double hookup, and a hook point fully
-  straightened within three fish after being bent back.
 - `dEPuDrhoClM`: trolling is the stated fallback — "if the cabrilla aren't
   biting, a lot of times they do troll for them"; no speed, lure or depth is
   given, which is what the parent's flagged stub row records.
@@ -180,13 +166,9 @@ parent.
   asr-uncertain(micro-lure model names, rendered "cold snipers" and "the
   daicas"). "Jig paras" and the small-profile jerkbaits are carried; the two
   unresolved names are not.
-- `EmZO8QiOfik`: lure attrition figures — 15 baits per six-hour morning session,
-  at least three of every consistently-fished colour and four or five of the
-  favourites; 60–80 baits packed for a multi-day trip; six baits a day as the
-  floor for a non-dedicated angler. On one Bahía de los Ángeles morning the crew
-  lost **three baits in under a minute** and three anglers broke off inside
-  **45 seconds**, all of it spectra blow-ups on the sheer power of the fish
-  rather than lure or hook failure.
+- Jerkbait sizing, hardware attrition and the retrieve cadence moved with the
+  program to
+  [cabrilla — jerkbait evidence](cabrilla-jerkbait.md).
 
 ## Gear summary
 
@@ -257,5 +239,7 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [Cabrilla (Leopard Grouper)](../cabrilla.md)
+- [Cabrilla — jerkbait](../cabrilla-jerkbait.md)
+- [Evidence — Cabrilla — jerkbait](cabrilla-jerkbait.md)
 - [Evidence — Line & Leader](../../tackle/evidence/line-and-leader.md)
 <!-- backlinks:end -->

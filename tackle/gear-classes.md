@@ -180,6 +180,7 @@ file](evidence/gear-classes.md).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)

@@ -8,6 +8,7 @@
 - [Bluefin Tuna — trolling](bluefin-tuna-trolling.md) **[SoCal only]** — Which towed presentation to pull for SoCal bluefin, and when.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin run sub-30 lb schoolies to 300 lb+ cows in the same season off SoCal and northern Baja, and grade is unpredictable trip to trip — which is why b
 - [Pacific Bonito](bonito.md) — Bonito are the fast, small-grade member of the SoCal "three B's" — bass, barracuda, bonito — taken in packs that boil outside the kelp and over the offshore ban
+- [Cabrilla — jerkbait](cabrilla-jerkbait.md) **[Baja only]** — A slender minnow-profile hardbait burned fast at rock is the cabrilla program's default tool, and the light on the water — not the calendar — sets the size fish
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
 - [Calico Bass (Kelp Bass)](calico-bass.md) — Calico bass sit on a defined structure edge — kelp, reef, boiler rock, breakwall — and eat what the current sweeps past them, so a coastal bass day is planned o
 - [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
@@ -45,71 +46,74 @@ graph LR
   n1["Bluefin Tuna — trolling"]
   n2["Bluefin Tuna"]
   n3["Pacific Bonito"]
-  n4["Cabrilla (Leopard Grouper)"]
-  n5["Calico Bass (Kelp Bass)"]
-  n6["California Halibut"]
-  n7["California Spiny Lobster"]
-  n8["Dorado (Mahi-Mahi)"]
-  n9["Ocean Whitefish"]
-  n10["Opah (Moonfish)"]
-  n11["Pacific Crevalle Jack (Toro)"]
-  n12["Rockfish & Lingcod"]
-  n13["Barred Sand Bass"]
-  n14["California Sheephead"]
-  n15["Skipjack Tuna"]
-  n16["Snook (Robalo)"]
-  n17["Spotted Bay Bass (Spotties)"]
-  n18["Striped Marlin"]
-  n19["Swordfish (Broadbill)"]
-  n20["Wahoo"]
-  n21["White Seabass"]
-  n22["Yellowfin Tuna"]
-  n23["Targeting yellowtail — Coronado Islands"]
-  n24["Yellowtail — surface iron"]
-  n25["Yellowtail"]
+  n4["Cabrilla — jerkbait"]
+  n5["Cabrilla (Leopard Grouper)"]
+  n6["Calico Bass (Kelp Bass)"]
+  n7["California Halibut"]
+  n8["California Spiny Lobster"]
+  n9["Dorado (Mahi-Mahi)"]
+  n10["Ocean Whitefish"]
+  n11["Opah (Moonfish)"]
+  n12["Pacific Crevalle Jack (Toro)"]
+  n13["Rockfish & Lingcod"]
+  n14["Barred Sand Bass"]
+  n15["California Sheephead"]
+  n16["Skipjack Tuna"]
+  n17["Snook (Robalo)"]
+  n18["Spotted Bay Bass (Spotties)"]
+  n19["Striped Marlin"]
+  n20["Swordfish (Broadbill)"]
+  n21["Wahoo"]
+  n22["White Seabass"]
+  n23["Yellowfin Tuna"]
+  n24["Targeting yellowtail — Coronado Islands"]
+  n25["Yellowtail — surface iron"]
+  n26["Yellowtail"]
   n0 --> n3
-  n0 --> n5
+  n0 --> n6
   n1 --> n2
-  n10 --> n2
-  n10 --> n22
-  n12 --> n2
-  n12 --> n9
-  n14 --> n12
-  n14 --> n9
-  n15 --> n18
-  n15 --> n2
-  n15 --> n22
-  n15 --> n25
-  n15 --> n3
-  n16 --> n11
-  n16 --> n17
-  n16 --> n4
-  n17 --> n13
+  n10 --> n13
+  n10 --> n15
+  n11 --> n2
+  n11 --> n23
+  n13 --> n10
+  n13 --> n2
+  n15 --> n10
+  n15 --> n13
+  n16 --> n19
+  n16 --> n2
+  n16 --> n23
+  n16 --> n26
+  n16 --> n3
+  n17 --> n12
+  n17 --> n18
   n17 --> n5
-  n19 --> n2
+  n18 --> n14
+  n18 --> n6
   n2 --> n1
-  n2 --> n12
-  n2 --> n15
-  n20 --> n13
-  n20 --> n22
-  n20 --> n8
-  n21 --> n25
-  n21 --> n6
-  n22 --> n11
-  n22 --> n15
-  n22 --> n2
-  n22 --> n20
-  n23 --> n25
-  n24 --> n25
-  n25 --> n23
-  n25 --> n24
+  n2 --> n13
+  n2 --> n16
+  n20 --> n2
+  n21 --> n14
+  n21 --> n23
+  n21 --> n9
+  n22 --> n26
+  n22 --> n7
+  n23 --> n12
+  n23 --> n16
+  n23 --> n2
+  n23 --> n21
+  n24 --> n26
+  n25 --> n26
+  n26 --> n24
+  n26 --> n25
   n3 --> n0
-  n3 --> n25
-  n3 --> n5
+  n3 --> n26
+  n3 --> n6
   n4 --> n5
-  n5 --> n17
-  n6 --> n21
-  n9 --> n12
-  n9 --> n14
+  n5 --> n4
+  n5 --> n6
+  n6 --> n18
+  n7 --> n22
 ```
 <!-- mermaid:end -->
