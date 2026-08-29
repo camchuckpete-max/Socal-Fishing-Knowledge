@@ -176,6 +176,7 @@ file](evidence/searcher-alijos-rocks-ridge-7-day-quiver.md).
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

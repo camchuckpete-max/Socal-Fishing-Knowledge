@@ -127,6 +127,7 @@ and its rod/holder pairing are in
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)

@@ -342,6 +342,7 @@
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer a fish or a technique that doesn't exist where the angler is going.
 - [Ribbon Kelp](ribbon-kelp.md) **[Baja only]** — A charted spot at 32°24.800'N 117°13.880'W (cameron), in the Coronado Islands zone.
 - [Ribbon Rock](ribbon-rock.md) **[SoCal only]** — A charted spot at 33°26.408'N 118°34.482'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md) **[Baja only]** — [Baja only] — The standing alternative to Alijos Rocks on the San Diego long-range fleet's seven-day trips: a trip books "one or the other," not both (_r08B4bIt
 - [Roca Ben (caution — shoals/boilers)](roca-ben.md) **[Baja only]** — A charted spot at 30°26.300'N 116°07.000'W (cameron), in the San Quintin zone.
 - [Rockpile](rockpile.md) **[Baja only]** — A charted spot at 32°17.620'N 117°10.030'W (cameron), in the Coronado Islands zone.
 - [Rodriguez Seamount](rodriguez-seamount.md) **[SoCal only]** — A charted spot at 34°02.800'N 121°03.000'W (cameron), in the Davis Knoll / San Miguel Gap / Rodriguez Seamount zone.
@@ -442,5 +443,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 429 notes exceed the 30-node cap._
+_Map skipped: 430 notes exceed the 30-node cap._
 <!-- mermaid:end -->

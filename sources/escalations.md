@@ -335,3 +335,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T20:45:15Z — locations/la-bocana.md — verify-escalate
 - run: 33273386117
 - reason: (1) locations/baja-pacific-south.md still lists La Bocana under 'Named grounds the census derives no zone for - flagged stub', now stale prose. (2) Rung question: this page is type: location parented directly to a region, skipping the zone rung; its three sibling children of baja-pacific-south are all type: zone and the region-page verifier already flagged La Bocana as a possible missing census zone. If Cameron rules it a zone the page needs retyping to templates/zone.md; census not altered either way
+
+## 2026-08-29T21:18:05Z — locations/ridge-uncle-sam-bank.md — zone-page-stale-prose
+- run: 33275312057
+- reason: locations/baja-pacific-south.md still carries "The Ridge / Uncle Sam Bank" as a flagged stub under "Named grounds the census derives no zone for" and omits it from the Zones table, and locations/alijos-rocks.md Spots says both it and Thetis Bank "are carried as flagged stubs on Baja Pacific — South" — both are now stale, the page exists. Also a ladder-rung question: this ground is zone-scale (the standing alternative to the Alijos Rocks ZONE on the same trip) but was queued as a spot row, so it is parented straight to the region page like locations/la-bocana.md; Cameron to decide whether it should be promoted to type: zone.

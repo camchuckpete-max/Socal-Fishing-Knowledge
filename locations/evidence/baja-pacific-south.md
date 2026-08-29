@@ -191,4 +191,5 @@ Observations never change the note's stated doctrine.
 ## Linked from
 
 - [Baja Pacific — South](../baja-pacific-south.md)
+- [The Ridge / Uncle Sam Bank](../ridge-uncle-sam-bank.md)
 <!-- backlinks:end -->

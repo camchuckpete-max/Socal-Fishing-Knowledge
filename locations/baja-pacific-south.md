@@ -197,6 +197,7 @@ omitted, because silence would read as "nothing there":
 - [Cabo San Lucas](cabo-san-lucas.md)
 - [La Bocana](la-bocana.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 <!-- children:end -->
 
 ## Access & range
@@ -263,4 +264,5 @@ Trip reports and per-source provenance:
 - [La Bocana](la-bocana.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Mexican waters](mexican-waters.md)
+- [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 <!-- backlinks:end -->

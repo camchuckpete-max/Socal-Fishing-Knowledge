@@ -350,6 +350,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Bumps](../locations/bumps.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Trolling](trolling.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)

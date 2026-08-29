@@ -623,6 +623,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowtail](../species/yellowtail.md)

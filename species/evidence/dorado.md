@@ -348,4 +348,5 @@ Cedros Island (`brx6Ie_L2FM`, `A8SuzB5qiKE`, `YUdbrIm9vrE`, `yjwIGFzWO8I`,
 - [Evidence — Dorado — kelp-paddy flyline](dorado-kelp-paddy.md)
 - [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md)
 - [La Bocana](../../locations/la-bocana.md)
+- [The Ridge / Uncle Sam Bank](../../locations/ridge-uncle-sam-bank.md)
 <!-- backlinks:end -->

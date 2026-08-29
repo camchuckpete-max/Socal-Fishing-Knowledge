@@ -228,6 +228,7 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
 ## Linked from
 
 - [Evidence — Wahoo — live bait](wahoo-live-bait.md)
+- [The Ridge / Uncle Sam Bank](../../locations/ridge-uncle-sam-bank.md)
 - [Wahoo](../wahoo.md)
 - [Wahoo — live bait](../wahoo-live-bait.md)
 <!-- backlinks:end -->

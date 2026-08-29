@@ -120,4 +120,5 @@ file](evidence/searcher-6-to-8-day-heavy-outfit.md).
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 <!-- backlinks:end -->

@@ -395,6 +395,7 @@ Trip reports and per-source provenance:
 - [Tanner Bank](../locations/tanner-bank.md)
 - [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)

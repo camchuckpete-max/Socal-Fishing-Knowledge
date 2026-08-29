@@ -198,6 +198,7 @@ nothing was deleted, only moved.
 - [Pyramid Head](../../locations/pyramid-head.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)
+- [The Ridge / Uncle Sam Bank](../../locations/ridge-uncle-sam-bank.md)
 - [Yellowtail](../yellowtail.md)
 - [Yellowtail — dropper loop](../yellowtail-dropper-loop.md)
 - [Yellowtail — knife / speed jigging](../yellowtail-knife-jigging.md)

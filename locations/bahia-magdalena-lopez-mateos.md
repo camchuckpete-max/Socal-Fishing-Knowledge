@@ -300,5 +300,6 @@ Trip reports and per-source provenance:
 - [Snook (Robalo)](../species/snook.md)
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

@@ -164,6 +164,7 @@ route, and the insurance carriers by name.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The 43](../locations/43.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [US waters](../locations/us-waters.md)
 - [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)

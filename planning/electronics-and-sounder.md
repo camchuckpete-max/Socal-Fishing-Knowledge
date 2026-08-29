@@ -383,6 +383,7 @@ Trip reports and per-source provenance:
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)

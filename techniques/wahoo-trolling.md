@@ -162,6 +162,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo-trolling.
 - [Evidence — Wahoo Trolling — Speed, Leader, and Fight Mechanics](evidence/wahoo-trolling.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
