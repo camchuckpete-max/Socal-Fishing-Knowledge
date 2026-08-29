@@ -3,50 +3,67 @@ type: tackle
 tags: [rods, rockfish, rod-rating, heavy-action, phenix, tackle-express]
 sources: [rBt096uru3U]
 confidence: medium
+layout: v2
 ---
 
 # Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)
 
-Tackle Express, "Is the Phoenix Axis the ultimate rockfishing rod? Let's find
-out!" (`rBt096uru3U`, uploaded 2026-04-15, 24 sec; unregistered channel,
-single mention — medium confidence). A short fragment that opens mid-sentence
-("this is kind of very similar to the reels that we selected here") —
-evidence this clip was cut from a longer, multi-tier rod/reel comparison not
-captured here; no other tier's name or spec is in this transcript, so only
-the Phenix Axis parameters below are carried.
+The Phenix Axis is a **mid-tier rockfishing rod** — "more middle of the
+ballpark," not a high-end blank and not a cheap one, and "really, really
+nice for its cost" (`rBt096uru3U`). The demoed model runs **7 ft 8 in,
+heavy action, rated 25–60 lb test**. It's a named product example against
+the general rockfishing rod-length and rod-rating doctrine in [rockfish
+deep-dropping](../techniques/rockfish-deep-dropping.md) and [rod length for
+angler size](rod-length-for-angler-size.md).
 
-- **Positioning:** called **"more middle of the ballpark"** — explicitly not
-  a high-end rod and not a low-end cheap rod. Stated assessment: "really,
-  really nice for its cost."
-- **Model in hand — specs:** **7 ft 8 in, heavy action**, rated **25–60 lb
-  test**. No further detail (blank material, guide count, price) is given in
-  this 24-second clip.
+## Specs
+
+- **Length:** 7 ft 8 in
+- **Action:** heavy
+- **Rating:** 25–60 lb test
+- **Positioning:** mid-tier — "more middle of the ballpark," "really, really
+  nice for its cost" (`rBt096uru3U`)
+
+No blank material, guide count, or price is given in the source clip
+(`rBt096uru3U`).
 
 ## Where this sits
 
-The 7 ft 8 in length sits just past the **7 ft–7 ft 6 in, generally nothing
-longer (hedge to an 8 ft ceiling)** range Tackle Express states elsewhere for
-rock-fishing rod length — leverage and rail-hauling reasons, see
-[rockfish deep-dropping — rod, reel & line for the
-feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing).
-Not reconciled against that figure — a different clip, same channel, product
-example rather than a stated buying rule — kept side by side. It also matches
-the **7 ft 8 in / 7 ft 6 in** comfort-length pair already logged from a
-different Tackle Express clip in [rod length — fatigue/shaking as a length
-signal](rod-length-for-angler-size.md#fatigueshaking-as-a-length-signal-tackle-express-degwvtq4d_y),
-though that source doesn't name this rod or a heavy-action/25–60 lb rating.
+The clip is a 24-second fragment that opens mid-sentence ("this is kind of
+very similar to the reels that we selected here"), evidence it was cut from
+a longer, multi-tier rod/reel comparison; no other tier's name or spec
+survives in this transcript, so only the Phenix Axis parameters above carry
+(`rBt096uru3U`).
 
-25–60 lb is a heavy-power line rating consistent with rockfishing's need to
-crank heavy sinkers and fish up from deep structure (see [rockfish
-deep-dropping](../techniques/rockfish-deep-dropping.md) for the technique
-this rod class serves); this clip gives no jig-weight (gram) rating, so it
-doesn't connect to the [jig-rated rod](jig-rod-rating-selection.md) buying
-rule.
+The 7 ft 8 in length runs past the **7 ft–7 ft 6 in, generally nothing
+longer** range (hedged to an 8 ft ceiling) that [rockfish deep-dropping —
+rod, reel & line for the
+feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel)
+gives for rockfishing rod length, for leverage and rail-hauling reasons; that
+figure comes from a different Tackle Express clip and names no specific
+product, so this rod is a product example, not a counter-rule.
+
+The same 7 ft 8 in figure matches the 7 ft 8 in / 7 ft 6 in comfort-length
+pair in [rod length — fatigue as a length
+signal](rod-length-for-angler-size.md#fatigue-as-a-length-signal), though
+that source doesn't name this rod or its heavy-action/25–60 lb rating.
+
+25–60 lb is a heavy-power line rating suited to cranking heavy sinkers and
+horsing fish up from deep structure, the demand [rockfish
+deep-dropping](../techniques/rockfish-deep-dropping.md) describes for the
+technique this rod class serves. The clip gives no jig-weight (gram)
+rating, so it doesn't connect to the [jig-rated rod](jig-rod-rating-selection.md)
+buying rule.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-phenix-axis-rockfish-rod.md).
 
 ## Related
 
 - [Rockfish Deep-Dropping — rod, reel & line for the
-  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing) —
+  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel) —
   the technique note's rod-length doctrine this product example sits beside.
 - [Rod Length — Fitting the Stick to the
   Angler](rod-length-for-angler-size.md) — the general rod-length note citing
@@ -55,6 +72,7 @@ rule.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Phenix Axis Rockfishing Rod (Tackle Express)](evidence/tackle-express-phenix-axis-rockfish-rod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
 <!-- backlinks:end -->

@@ -64,11 +64,12 @@
 - [Evidence — Penn Handle Knob Replacement Kits (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Per-source provenance for Penn Handle Knob Replacement Kits — Fathom, Torque, Squall.
 - [Evidence — Penn's "Pull to Turn" Preset Drag (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md) — Per-source provenance for Penn's "Pull to Turn" Preset Drag — Set It and Forget It.
 - [Evidence — Penn vs. Avet Lever Drag (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md) — Per-source provenance for Penn vs.
+- [Evidence — Phenix Axis Rockfishing Rod (Tackle Express)](tackle-express-phenix-axis-rockfish-rod.md) — Per-source provenance for Phenix Axis — Mid-Tier Rockfishing Rod Spec.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 60 notes exceed the 30-node cap._
+_Map skipped: 61 notes exceed the 30-node cap._
 <!-- mermaid:end -->
