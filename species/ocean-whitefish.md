@@ -109,8 +109,9 @@ or what spawning does to the bite. The corpus is silent.
   presentation work.
 - **They are a fast, aggressive eat on a bottom bait.** A jig allowed to sit on
   the bottom is picked up by whitefish and small cod before a yellowtail can
-  find it, which is why the yo-yo instruction is to start winding the instant
-  the jig touches (`8XIy7hPsFkQ`). The same speed shows on the dropped squid:
+  find it (`8XIy7hPsFkQ`) — the retrieve that answers it is in
+  [yo-yo iron](../techniques/yo-yo-iron.md#mechanics). The same speed shows on
+  the dropped squid:
   the eat comes on the drop rather than after a soak (`6-8KfjEg0x8`).
 - ⚠ Flagged gap — no corpus source: a light window, tide or slack gate, or
   moon effect on the whitefish bite.
@@ -147,7 +148,7 @@ complex.
 | Parked on island hard bottom, squid in the tank | [Dropper loop](../techniques/dropper-loop.md) with squid on the bottom | 30 lb bait class, level-wind reel | The bread and butter, and a legit 30-lb-class rig; they eat squid readily and school, so keep dropping (`6-8KfjEg0x8`) |
 | Scratchy marks through the whole column | [Sliding-sinker rig](../techniques/sliding-sinker.md) with squid | 30 lb bait class | Covers every level of the column from surface to bottom — the Channel Islands answer when the marks are not pinned to the bottom (`6-8KfjEg0x8`) |
 | Drifting an offshore-bank ridge in ~150 ft for reds | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) | 30 lb bait class | Whitefish come over the rail with the reds and sheephead on the same drift (`fDSd9kqwYW0`) |
-| Working an island high spot with iron, whitefish on the seam | [Yo-yo iron](../techniques/yo-yo-iron.md) | Yo-yo / heavy-iron class | They eat a wound iron (`UfuiWFVvz2E`); if you are yo-yoing FOR yellowtail, wind the instant the jig hits bottom — a jig left sitting gets picked up by whitefish and small cod (`8XIy7hPsFkQ`) [a]. ⚠ misplaced-content: the retrieve rule itself is yo-yo technique doctrine sitting in a router, queued for [yo-yo iron](../techniques/yo-yo-iron.md) |
+| Working an island high spot with iron, whitefish on the seam | [Yo-yo iron](../techniques/yo-yo-iron.md) | Yo-yo / heavy-iron class | They eat a wound iron (`UfuiWFVvz2E`); on a yellowtail day the whitefish is what takes a jig left sitting on the bottom (`8XIy7hPsFkQ`), so the retrieve rule that answers it lives in the [technique note](../techniques/yo-yo-iron.md#mechanics) [a] |
 | Want to make the bottom grind a sport fishery / light-line day | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) | SPJ / slow-pitch class | Named as the way to turn rockfish, lingcod and whitefish fishing into sport fishing (`PRNMGpLj7Pw`); no jig weight or cadence is given for whitefish specifically |
 | Anchored on an island calico spot, no bottom program set up | Fish the same rock with the island bait rod | 30 lb bait class / workhorse all-around class | Whitefish to about **10 lb** come off anchored Catalina calico structure (`HGyL7pXy3Ts`) [b] |
 | No bait aboard / want to cover water | **Lead-head slug** or small jig on the bottom — see [lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) | 3 oz lead-head / light iron class, on the heavier bass rod | Same bottom presentation as the reds; whitefish will chase a slug or a [gulp-style grub](../lures/soft-plastic-swimbaits.md) |
@@ -267,4 +268,5 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

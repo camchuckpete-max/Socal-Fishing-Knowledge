@@ -2,7 +2,7 @@
 type: evidence
 parent: ../yo-yo-iron.md
 tags: [yo-yo, iron]
-sources: [ntQXxcH5sjI, ecJPMTCi-gw, HQC-NwW4018, SH7zOA9ZF3o, JaKSGkZ6CAc, 3yK3JYrKoZY, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, 3tQ1_xiqwVU, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, ilINTeknKB4, A8SuzB5qiKE, VpW91AKOFVQ, 7Ljt-DeFVcs, RNRFrfepiW0, A70kK2niu2Q, LTCFjqtSI8g, SAltQjih0ms, ETw_3AFxEcM, hteLeDIy9Qs, UP_3fBu7VPA, HTowqnwAMeA, 6Z6Dht20kTA, S0-BCQWA0H4, SH5CZQi9ATw, Ob45hK4HSWc]
+sources: [ntQXxcH5sjI, ecJPMTCi-gw, HQC-NwW4018, 8XIy7hPsFkQ, SH7zOA9ZF3o, JaKSGkZ6CAc, 3yK3JYrKoZY, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, 3tQ1_xiqwVU, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, ilINTeknKB4, A8SuzB5qiKE, VpW91AKOFVQ, 7Ljt-DeFVcs, RNRFrfepiW0, A70kK2niu2Q, LTCFjqtSI8g, SAltQjih0ms, ETw_3AFxEcM, hteLeDIy9Qs, UP_3fBu7VPA, HTowqnwAMeA, 6Z6Dht20kTA, S0-BCQWA0H4, SH5CZQi9ATw, Ob45hK4HSWc]
 confidence: medium
 ---
 
@@ -40,6 +40,16 @@ parent.
   Salas 6X Jr., so your smaller profile") is garbled; read as both lures
   cited together as the smaller-profile options that outproduced bigger
   profiles that day; unregistered channel — medium.
+- `8XIy7hPsFkQ` (Mitch, crewman aboard the *Vagabond*, via BDOutdoors,
+  2025-08-07, long-range jigging setups): asked for the one thing anglers most
+  often do wrong on the yo-yo, he named letting the jig sit on the bottom while
+  they get set — "right when it hits the bottom, start winding. Don't let it sit
+  there... Catch a white fish. You're going to catch cod, little critters like
+  that," and "people get stuck on whites, little bonas" (ASR for bonitos). His
+  fix is to put the rod on the rail and wind as fast as possible from the moment
+  of bottom contact. Speaker not in the registry — medium. The whitefish side of the same
+  behaviour is logged in
+  [evidence — ocean whitefish](../../species/evidence/ocean-whitefish.md).
 
 ## Cadence variants
 
@@ -281,5 +291,6 @@ parent.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Ocean Whitefish](../../species/evidence/ocean-whitefish.md)
 - [Yo-Yo Iron](../yo-yo-iron.md)
 <!-- backlinks:end -->

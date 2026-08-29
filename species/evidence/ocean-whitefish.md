@@ -83,11 +83,11 @@ the corpus records whitefish as a by-catch on somebody else's program.
 
 ## Feeding triggers
 
-- `8XIy7hPsFkQ` (BDOutdoors, 2025-08-07, long-range jigging setups): the
-  instruction for yo-yo/jig fishing is to start winding the instant the jig
-  touches bottom and never let it sit, because a jig left on the bottom gets
-  eaten by whitefish, small cod and "little critters" instead of yellowtail —
-  whitefish framed here as the fast bottom eat that costs you the drop.
+- `8XIy7hPsFkQ` (BDOutdoors, 2025-08-07, long-range jigging setups): a jig left
+  sitting on the bottom gets eaten by whitefish, small cod and "little critters"
+  instead of yellowtail — whitefish framed here as the fast bottom eat that
+  costs you the drop. The retrieve rule the crewman draws from it is logged with
+  the technique in [evidence — yo-yo iron](../../techniques/evidence/yo-yo-iron.md).
 
 ## Finding them (sign & sonar)
 
@@ -161,5 +161,6 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [Evidence — California Sheephead](sheephead.md)
+- [Evidence — Yo-Yo Iron](../../techniques/evidence/yo-yo-iron.md)
 - [Ocean Whitefish](../ocean-whitefish.md)
 <!-- backlinks:end -->
