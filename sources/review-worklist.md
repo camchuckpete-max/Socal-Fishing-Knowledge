@@ -238,7 +238,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-fast-tip-for-finicky-bite-drag-drift.md | light | done | none | light-tier v2 transform: attribution preamble split to evidence file, plain-statement prose with inline cites; verified no content lost |
 | tackle/tackle-express-fish-kicker-quick-clip-surf-bait.md | light | done | none | transform verified with one meaning-drift fix (restored 'easy and simple' wording, dropped unstated 'faster to rig' claim) |
 | tackle/tackle-express-how-co-split-ring-pliers.md | light | done | none | light-tier v2 transform: attribution preamble split to evidence file, cites added; verified conserved and faithful |
-| tackle/tackle-express-icast2022-penn-fathom2-authority.md | light | pending |  |  |
+| tackle/tackle-express-icast2022-penn-fathom2-authority.md | light | done | none | light-tier v2 transform + evidence split verified, one smoothed-quote defect fixed in place |
 | tackle/tackle-express-izorline-xxx-mono.md | light | pending |  |  |
 | tackle/tackle-express-jig-stick-trolling-outfit.md | light | pending |  |  |
 | tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md | light | pending |  |  |

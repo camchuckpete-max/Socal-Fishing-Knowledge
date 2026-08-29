@@ -104,6 +104,7 @@ file](evidence/tackle-express-accurate-tern-2-reel.md).
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Evidence — Accurate Tern 2 (Tackle Express)](evidence/tackle-express-accurate-tern-2-reel.md)
+- [Evidence — Penn Fathom II and Penn Authority ICAST 2022 (Tackle Express)](evidence/tackle-express-icast2022-penn-fathom2-authority.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
