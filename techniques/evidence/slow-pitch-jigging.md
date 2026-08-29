@@ -2,7 +2,7 @@
 type: evidence
 parent: ../slow-pitch-jigging.md
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
-sources: [7T6dIYqr3KI, 6SClBs16L2Y, ZrcwcugaEe4, zVMY4fZydRQ, Et2TUskzCSs, 0dIwWiOc1NY, vqsD0qpwcJA, 05uB5V_jWTg, -nIhadZwxAA, M8hOYQ_6rSg]
+sources: [7T6dIYqr3KI, 6SClBs16L2Y, ZrcwcugaEe4, zVMY4fZydRQ, Et2TUskzCSs, 0dIwWiOc1NY, vqsD0qpwcJA, 05uB5V_jWTg, -nIhadZwxAA, M8hOYQ_6rSg, cameron]
 confidence: medium
 ---
 
@@ -38,6 +38,7 @@ Per-source provenance backing [slow-pitch jigging](../slow-pitch-jigging.md).
 - `zVMY4fZydRQ` (Cesar Chang, Tackle Express, "Spinning vs Baitcasting for Jigging? Ceasar Breaks It Down," 2025-06-09, ~3 months after the `ZrcwcugaEe4` breakdown — a re-cut of the same doctrine, not independent confirmation; medium confidence): restates the level-wind pick as scoped explicitly to slow jigging ("not so much for speed jigging"), and adds the mechanism for the spinning/short-rod speed-jig pairing — the shorter rod lets the angler keep up with the swing of the jig, and matching the rod's swing to the jig's swing is what makes the jig "dance" and lets the faster spinning pickup translate into a faster-worked jig.
 - `-nIhadZwxAA` (Benny Ortiz, CustomRodandReel seminar, 2025-05-20; East Coast/Gulf-based instruction — unregistered channel, medium confidence): the four-strand-vs-eight-strand braid rule of thumb (four-strand sheds a smaller turbulent eddy and scopes out less; on a boat with someone running eight-strand, watch whose line scopes out first — it won't be the four-strand angler); four-strand also bites into fluorocarbon leader better on a wrapped PR/RP-class knot and is more abrasion resistant; eight-strand reserved for casting. Also sources the jig-connection detail: leader to a ball-bearing swivel (his preference over a solid ring, letting a spinning fish unwind independently) tied with a cow-hitch-started alternating-half-hitch wrap he calls an "AG chain knot," rated a 100% connection by the source; a split ring off the swivel's far eye connects to the jig. And the whole "Fighting & landing (light tackle)" section: drag-at-a-third-of-breaking-strength, effective-drag-climbs-off-a-full-spool, always-be-gaining-line, fight-with-your-body, direct/straight-line control, and two-speed low-gear-for-standoff guidance.
 - `M8hOYQ_6rSg` (Cesar, via Dirty Hookers, 2025-05-20; Cesar is a registered voice, single mention — medium confidence): the single-top-vs-double hook choice by whether the jig is constantly knocking bottom vs. fish suspended; the Baja/Sea of Cortez gear-class reference (5.5–6 ft rod rated 100–300 g, most commonly 100–250 g, 200 g cap absent unusually heavy current; 30 lb Spectra main stepping to a 60 lb top shot; 80–150 g jigs fished).
+- (cameron) — gear-acquisition status, not doctrine: shopping a dedicated SPJ / speed-jig setup to cover night [bluefin](../../species/bluefin-tuna.md) knife jigging and the September BOLA bottom-yellowtail program, ideally one setup for both; not yet owned, so gear resolves from class terms until it lands. Angler inventory status is profile data, held in [Cameron's rods](../../profiles/cameron/rods.md) under Open items, and the parent note keeps only the universal gear classes.
 
 <!-- backlinks:start -->
 ## Linked from
