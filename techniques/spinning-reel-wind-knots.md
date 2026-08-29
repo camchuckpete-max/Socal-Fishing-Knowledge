@@ -141,5 +141,5 @@ instead.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](../tackle/spooling-line-tension-and-twist.md)
+- [Spooling Line — Tension and Line-Twist Avoidance](../tackle/spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->

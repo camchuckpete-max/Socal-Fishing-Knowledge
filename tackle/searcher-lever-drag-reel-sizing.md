@@ -108,6 +108,6 @@ file](evidence/searcher-lever-drag-reel-sizing.md).
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](searcher-three-outfit-minimum-quiver.md)
-- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
+- [Spooling Line — Tension and Line-Twist Avoidance](spooling-line-tension-and-twist.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

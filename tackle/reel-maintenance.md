@@ -334,5 +334,5 @@ Per-source provenance detail: [evidence file](evidence/reel-maintenance.md).
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
-- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
+- [Spooling Line — Tension and Line-Twist Avoidance](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->

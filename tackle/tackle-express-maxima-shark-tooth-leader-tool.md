@@ -56,5 +56,5 @@ covers at length.
 ## Linked from
 
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
-- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
+- [Spooling Line — Tension and Line-Twist Avoidance](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->
