@@ -52,11 +52,12 @@
 - [Evidence — Daiwa Saltist SD (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md) — Per-source provenance for Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body.
 - [Evidence — Fast Tip for a Finicky Biter (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md) — Per-source provenance for Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait.
 - [Evidence — Fish Kicker Quick Clip (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — Per-source provenance for Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging.
+- [Evidence — HOW Co Split-Ring Pliers (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) — Per-source provenance for HOW Co Split-Ring Pliers — One Pair Across the Size Range.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 48 notes exceed the 30-node cap._
+_Map skipped: 49 notes exceed the 30-node cap._
 <!-- mermaid:end -->
