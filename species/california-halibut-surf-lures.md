@@ -1,7 +1,7 @@
 ---
 type: species-technique
-tags: [halibut, surf, beach, grunion, drop-shot, minnow-hardbait, leadhead-swimbait, lure-color]
-sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk]
+tags: [halibut, surf, beach, grunion, drop-shot, minnow-hardbait, hard-bait, leadhead-swimbait, lure-color]
+sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk, Bok0db0G4xE, H5Z-Mqt4qXs, yTPtYL9QAsw, yl-AkO5S64o]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast]
@@ -93,6 +93,27 @@ down to the fish (`E4CDqBFOaP8`). At **10 ft** the call changes presentation,
 not just lure: a leadhead and swimbait is stated to be much more effective
 (`E4CDqBFOaP8`).
 
+**A deep, fast channel needs a bait that sinks.** Beach inlet channels and
+river-mouth channels run current quickly through a deep cut, and a floating or
+suspending bait never reaches the strike zone in that flow, so the call there
+is a sinking bait (`H5Z-Mqt4qXs`). This is the opposite read from the skinny
+surf water above: there the problem is a diver digging into the sand, here it
+is a bait that will not get down at all. The source names no species on camera
+— it is stated as general beach and surf hard-bait selection, illustrated with
+inlet channels and river mouths.
+
+**When distance is the limit, a floating bait can still be the long-cast
+pick.** The **Bassday Gyokusai 97** floats yet casts farther than the diving
+minnow hardbaits it is compared against on camera, credited to a **tungsten
+weight-transfer system** (`H5Z-Mqt4qXs`; name resolved via `eOLoHxoqk6E`).
+Reach for it in **1–2 ft of water on a flat beach**, where the longest
+possible cast is what covers water; a beach with a **trench right in front of
+you** holding fish does not need the extra distance (`eOLoHxoqk6E`). It sits
+in the same keep-the-bait-out-of-the-sand family as the shallow-minnow rung
+above, with cast distance as the added reason. ⚠ Flagged gap — no corpus
+source: no dedicated lure note for the Bassday Gyokusai 97; it is named only
+at class level.
+
 **Rod-tip height is the depth trim inside every lure class.** Tip low runs the
 lure at maximum depth, mid-height moderates it, tip up keeps it off the bottom,
 and the three positions work the same across a leadhead plastic, a metal lure
@@ -112,6 +133,12 @@ advantage, so a solid white lure reads as an easy, energy-efficient meal
 a theory. Hardbait colour starts at white or white with a pink belly — see
 [California halibut — gear summary](california-halibut.md#gear-summary-class-terms).
 
+**On a hard bait, light and water clarity pick the colour:** a **clear** or
+reflective colour fished **in the sun**, switching to **white** when the water
+is dirty or it is overcast (`H5Z-Mqt4qXs`). This is stated for beach hard-bait
+selection generally, not for the solid-colour soft-plastic family above, and
+the two are not stated against each other.
+
 **The lure bite is a thump, and the swing waits for the slack.** The take on a
 lure is a distinct thump; the instruction is not to swing on it — point the
 rod, wind fast until the line comes tight, and only then swing, because the
@@ -120,6 +147,18 @@ response is the opposite (lift and wind, never swing) — see
 [live-bait drift](california-halibut-live-bait-drift.md). The fight that
 follows is species-general and lives in
 [California halibut — landing & handling](california-halibut.md#landing--handling).
+
+**On light minnow gear the swing itself is a body turn.** Turning the hips
+and shoulders smoothly, rather than swinging the rod arm, loads the rod, and
+small sharp trebles "just get stuck" once that load is on instead of pulling
+free the way a rod-tip hookset can; demonstrated on a **Major Craft Sienna
+962M** (9½ ft) winding a minnow bait on **size-6 trebles** (`fHMwcm1xRQk`).
+Through the fight, keep the **rod tip down with the rod under your arm** — a
+low tip keeps the fish mellow rather than provoking the hard head-shakes that
+work a small treble loose (`fHMwcm1xRQk`). The thump doctrine above sets
+*when* the swing happens and this sets *how* it is made; neither source states
+the other. The general hard-bait rule they both sit on — sweep, do not swing —
+is in [inshore crankbaits](../techniques/inshore-crankbaits.md#execution).
 
 ## Rigs & gear
 
@@ -142,9 +181,18 @@ follows is species-general and lives in
   for weedless swimbaits and bigger plugs — the lineup and the line-class
   reasoning are in
   [surf halibut rod lineup](../tackle/tackle-express-surf-halibut-rod-lineup.md).
-- **Hooks:** the stock small treble on a minnow hardbait is the weak link on a
-  big fish; the single-hook soft-plastic swap is in
-  [California halibut — gear summary](california-halibut.md#gear-summary-class-terms).
+- **Hooks — one big single instead of the stock treble on a big fish.** A
+  stock **size-six** treble on a hard bait is undersized for a big halibut;
+  the swaps are a **Scrounger head** (one big single hook) or a **Z-Man basic
+  ChatterBait with the skirt cut off** (also one giant hook, and no spinner
+  blade to bend or deform) (`Bok0db0G4xE`). This is a fish-size-driven swap,
+  not the snag-driven single-hook swap kelp fishing calls for in
+  [inshore crankbaits](../techniques/inshore-crankbaits.md#rigging). The
+  class-term summary is in
+  [California halibut — gear summary](california-halibut.md#gear-summary-class-terms),
+  and a landed fish still wearing a hard bait's trebles gets its own
+  angler-safety handling in [dehooking & release — hard-bait treble
+  hooks](../fish-care/dehooking-and-release.md#hard-bait-treble-hooks--angler-safety-when-unhooking).
 
 ## Differs from the general method
 
@@ -180,6 +228,21 @@ owns the rod-tip lever, and the lure-class notes each program sits on:
   grunion cycle (`EuYOlsnxXko`).
 - **Colour is a four-colour set, not a match-the-hatch choice**
   (`eOLoHxoqk6E`).
+- **The hookset is a body turn and the fight runs rod-tip-down.**
+  [Inshore crankbaits](../techniques/inshore-crankbaits.md) states the general
+  hard-bait rule as sweep-don't-swing; on light minnow gear here the sweep is
+  made by turning the hips and shoulders, and the rod stays tipped down and
+  tucked under the arm through the fight to keep a **size-6** treble planted
+  (`fHMwcm1xRQk`).
+- **The hook swap is sized to the fish, not to the cover.** The general
+  hard-bait hardware calls are a 2X–3X treble upgrade, or a single wire
+  replacement for snag resistance in kelp; the halibut call is a treble-to-one-
+  big-single swap because the stock size-six treble is undersized for a big
+  fish (`Bok0db0G4xE`).
+- **The beach adds rungs the general depth ladder does not have** — a sinking
+  bait for the fast current through a deep inlet or river-mouth cut, and a
+  floating long-caster for skinny water on a flat beach where cast distance,
+  not dive depth, is the limit (`H5Z-Mqt4qXs`, `eOLoHxoqk6E`).
 
 ## Evidence
 
@@ -196,4 +259,6 @@ halibut source provenance:
 - [California Halibut](california-halibut.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Evidence — California Halibut — surf lures](evidence/california-halibut-surf-lures.md)
+- [Evidence — Inshore Crankbaits](../techniques/evidence/inshore-crankbaits.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 <!-- backlinks:end -->

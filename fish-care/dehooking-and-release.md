@@ -156,6 +156,7 @@ Trip reports and per-source provenance:
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [California Sheephead](../species/sheephead.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Dehooking & Release Handling](evidence/dehooking-and-release.md)

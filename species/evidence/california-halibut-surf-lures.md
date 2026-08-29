@@ -2,7 +2,7 @@
 type: evidence
 parent: ../california-halibut-surf-lures.md
 tags: [halibut, surf, beach, grunion, drop-shot, lure-color]
-sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk]
+sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk, Bok0db0G4xE, H5Z-Mqt4qXs, yTPtYL9QAsw, yl-AkO5S64o]
 confidence: medium
 ---
 
@@ -53,7 +53,39 @@ including the sources this page does not draw on, is in
   medium confidence): the beach-slope leader reasoning — a rod-tip lift from a
   sloped beach doesn't separate hook and weight the way it does off a boat or
   pier, leaving the lure end **2–3 in** off the bottom, so the leader runs
-  slightly longer.
+  slightly longer. Same source (moved 2026-08-29 from [inshore crankbaits
+  evidence](../../techniques/evidence/inshore-crankbaits.md)) for the
+  hip/shoulder hookset — "turn my hips and my shoulders" rather than a rod-arm
+  swing, demonstrated on a **Major Craft Sienna 962M** (9½ ft) winding a Lucky
+  Craft minnow bait on **size-6 trebles** — and the rod-tip-down, rod-under-
+  the-arm fight handling that keeps the small treble from being shaken loose.
+- `yTPtYL9QAsw` (Tackle Express, 2026-01-19, "How to Set the Hook the RIGHT
+  Way"): duplicate-of `fHMwcm1xRQk` — a trimmed re-cut of the same
+  hip/shoulder hookset segment (same rod, same wording); not independent
+  confirmation.
+- `yl-AkO5S64o` (Tackle Express, 2026-02-04, "Stop Missing Halibut Bites! The
+  Secret Hook Set Revealed"): duplicate-of `fHMwcm1xRQk` — a further re-cut of
+  the same underlying footage (same Major Craft Sienna 962M, same Lucky Craft
+  minnow bait, same "turn my hips and my shoulders" hookset); not independent
+  confirmation.
+- `Bok0db0G4xE` (Tackle Express, "Why you should rethink your Halibut setup
+  for bigger bites," 2026-05-07; unregistered channel, single mention — medium
+  confidence): the treble-to-single swap for bigger halibut — a Scrounger head
+  or a Z-Man basic ChatterBait with the skirt cut off, both one big single
+  hook, against the stock size-six treble on a hard bait. Moved 2026-08-29
+  from [inshore crankbaits
+  evidence](../../techniques/evidence/inshore-crankbaits.md).
+- `H5Z-Mqt4qXs` (Tackle Express, "Unlock the secret to beach fishing success
+  with these lure tips," 2026-05-07; unregistered channel, single mention —
+  medium confidence): the sinking-bait call for the fast current through a
+  deep beach-inlet or river-mouth cut, clear/reflective colour in the sun
+  switching to white in dirty water or overcast, and the floating Bassday
+  Gyokusai 97 out-casting the divers it is compared against on a tungsten
+  weight-transfer system. **No species is named on camera** — general
+  beach/surf hard-bait selection, illustrated with beach inlet channels and
+  river mouths; Bolsa Chica is named as an example of the channel type, not as
+  a doctrine-specific spot. Moved 2026-08-29 from [inshore crankbaits
+  evidence](../../techniques/evidence/inshore-crankbaits.md).
 - `E4CDqBFOaP8` (Tackle Express, 2025-12-23, "Halibut LOVE This Surf Lure |
   Lucky Craft Flash Minnow Explained"; unregistered channel, single mention —
   medium confidence): the Flash Minnow is called effectively synonymous with
@@ -79,7 +111,12 @@ including the sources this page does not draw on, is in
   The same session's A-rig retrieve observation stays with the router row it
   supports, in
   [California halibut evidence](california-halibut.md#situations--techniques),
-  as does the `ijNOphK4XRA` Short re-cut of this colour line.
+  as does the `ijNOphK4XRA` Short re-cut of this colour line. Same source
+  (moved 2026-08-29 from [inshore crankbaits
+  evidence](../../techniques/evidence/inshore-crankbaits.md)) resolves the
+  Bassday Gyokusai 97's name and scopes it to **1–2 ft on a flat beach** where
+  the longest cast is needed, against a beach with a trench right in front of
+  you that does not need the distance.
 - `dWqD8l3jW6w` (Tackle Express, 2026-02-09, "That Halibut THUMP!"; unregistered
   channel, single mention — medium confidence): the surf bite is a distinct
   thump compared to a largemouth eating a skirted jig, called "wonderful" and
@@ -95,4 +132,5 @@ including the sources this page does not draw on, is in
 - [California Halibut — surf lures](../california-halibut-surf-lures.md)
 - [Evidence — California Halibut](california-halibut.md)
 - [Evidence — Drop Shot](../../techniques/evidence/drop-shot.md)
+- [Evidence — Inshore Crankbaits](../../techniques/evidence/inshore-crankbaits.md)
 <!-- backlinks:end -->

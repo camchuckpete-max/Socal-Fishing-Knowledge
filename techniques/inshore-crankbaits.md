@@ -95,17 +95,10 @@ shallow boiler/pinnacle structure that other anglers skip, covered under
   covered in [beach depth control](beach-lure-depth-control.md).
 - **Sweep, don't swing** — on the bite, sweep the rod and keep winding; a
   bass-style hookset **pulls trebles** out of the fish.
-- **Turn your hips and shoulders smoothly, not a rod-arm swing, on the
-  hookset** — this loads the rod, and small, sharp trebles "just get stuck"
-  once that load is on, rather than pulling free the way a rod-tip hookset
-  can. Demonstrated on a **Major Craft Sienna 962M** (9½ ft) winding a minnow
-  bait on **size-6 trebles** for [California
-  halibut](../species/california-halibut.md). Through the fight, keep the
-  **rod tip down, rod under your arm** — a low rod tip keeps the fish
-  mellow rather than provoking the hard head-shakes that work a small treble
-  loose (`fHMwcm1xRQk`). This is the specific body mechanic substituted for a
-  rod-tip hookset on light minnow gear, not a different rule from
-  sweep-don't-swing above.
+- **On light minnow gear for halibut the sweep becomes a body turn** — the
+  hip/shoulder hookset mechanic and the rod-tip-down fight handling that keep
+  a small treble planted are in [California halibut — surf
+  lures](../species/california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - **A hooked fish needs "absorption" through the fight, not just at the
   hookset** — bend and give in the rod and line once a treble is pinned is
   what keeps it planted; a fish's run loads the hook hardest and is where it
@@ -132,30 +125,11 @@ shallow boiler/pinnacle structure that other anglers skip, covered under
 
 ## Beach and inlet channels
 
-- **Deep, fast-flowing channels need a sinking bait to get down.** Beach
-  inlet channels and river-mouth channels run current quickly through a deep
-  cut; a floating or suspending bait won't reach the strike zone in that
-  flow — switch to a bait that sinks (`H5Z-Mqt4qXs`). This is the opposite
-  read from skinny, slower surf water, where a diving bait digs into the sand
-  and the call is the non-diving [Lucky Craft Flash
-  Minnow](../lures/lucky-craft-flash-minnow.md) pick for [California
-  halibut](../species/california-halibut.md#situations--techniques) — here
-  the problem is a bait that won't get down at all, not one that digs in.
-- **Color by light and water clarity:** a **clear** or reflective color
-  fished **in the sun**; switch to **white** when the water's dirty or
-  there's overcast (`H5Z-Mqt4qXs`).
-- **A floating bait that still casts far despite floating:** the **Bassday
-  Gyokusai 97**, credited to a **tungsten weight-transfer system** for
-  distance, cast better than the diving minnow hardbaits it's compared
-  against on camera (`H5Z-Mqt4qXs`; name resolved via `eOLoHxoqk6E`). Reach
-  for it specifically in **1–2 ft of water on a flat beach** where the
-  longest possible cast is needed to cover water; a beach with a **trench
-  right in front of you** holding the fish doesn't need the extra distance
-  (`eOLoHxoqk6E`). This sits in the same shallow-skinny-water family as the
-  [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md) doctrine
-  for California halibut — both keep the bait up out of the sand — with the
-  floating Gyokusai 97 as the pick when maximum cast distance is also
-  needed.
+Beach and surf hard-bait selection — the sinking bait a deep, fast inlet or
+river-mouth cut needs, color by light and water clarity, and the floating
+long-caster for skinny water on a flat beach — is in [California halibut —
+surf lures](../species/california-halibut-surf-lures.md#how-california-halibut-changes-the-execution),
+which holds the SoCal beach lure program.
 
 ## Freshwater crossover baits
 
@@ -199,17 +173,13 @@ or salt water (`RUuPNpK0x-s`):
   hooking-percentage upside above for a snag-resistant single point, a
   kelp-specific hardware call rather than a replacement for the treble
   upgrade (`46ha7J1Fc6A`).
-- **California halibut:** swap a hard bait's small treble for a **Scrounger
-  head** (one big single hook) or a **Z-Man basic ChatterBait with the skirt
-  cut off** (also one giant hook, no spinner blade to bend/deform) — a
-  fish-size-driven swap, distinct from the kelp/snag-driven swap above. See
-  [California
-  halibut](../species/california-halibut.md#situations--techniques) for the
-  reason (a stock size-six treble undersized for a big halibut)
-  (`Bok0db0G4xE`). A stock hard bait's three-treble hardware (the same
-  size-six figure, on a Lucky Craft) is also why a landed fish on a hard
-  bait gets its own angler-safety handling in [dehooking & release — hard-bait
-  treble hooks](../fish-care/dehooking-and-release.md#hard-bait-treble-hooks--angler-safety-when-unhooking-tackle-express-c_60ms3qsmy-2026-05-09-unregistered-channel-single-mention--medium-confidence).
+- **California halibut:** the fish-size-driven swap of a hard bait's small
+  treble for one big single hook — distinct from the kelp/snag-driven swap
+  above — is in [California halibut — surf
+  lures](../species/california-halibut-surf-lures.md#rigs--gear). A stock
+  hard bait's three-treble hardware is also why a landed fish on a hard bait
+  gets its own angler-safety handling in [dehooking & release — hard-bait
+  treble hooks](../fish-care/dehooking-and-release.md#hard-bait-treble-hooks--angler-safety-when-unhooking).
 
 ## Gear class
 
@@ -242,8 +212,8 @@ retrieve speed through the grind (`XyKF34C5iB4`).
   corpus source covers it yet.
 - ⚠ Flagged gap — no corpus source: dedicated lure notes for DD-class
   divers and the other named models above (Lucky Craft Pointer 128, 190
-  Slim/Slim Fingers, the floating Bassday Gyokusai 97) — named only at class
-  level. One dedicated inshore hard-bait lure note exists: the
+  Slim/Slim Fingers) — named only at class level. One dedicated inshore
+  hard-bait lure note exists: the
   surf-halibut-specific [Lucky Craft Flash
   Minnow](../lures/lucky-craft-flash-minnow.md) (`E4CDqBFOaP8`).
 
@@ -264,6 +234,7 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Inshore Crankbaits](evidence/inshore-crankbaits.md)
