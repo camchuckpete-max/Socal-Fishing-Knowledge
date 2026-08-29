@@ -205,6 +205,7 @@ Parked for the zone guides the parent note stubs out:
 <!-- backlinks:start -->
 ## Linked from
 
+- [La Bocana](../../locations/la-bocana.md)
 - [Pacific Bonito](../bonito.md)
 - [Pyramid Head](../../locations/pyramid-head.md)
 <!-- backlinks:end -->

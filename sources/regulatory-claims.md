@@ -149,6 +149,7 @@ route, and the insurance carriers by name.
 - [Evidence — Dehooking & Release Handling](../fish-care/evidence/dehooking-and-release.md)
 - [Geronimo Island](../locations/geronimo-island.md)
 - [Guadalupe](../locations/guadalupe.md)
+- [La Bocana](../locations/la-bocana.md)
 - [Mexican waters](../locations/mexican-waters.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

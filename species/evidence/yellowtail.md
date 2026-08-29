@@ -193,6 +193,7 @@ nothing was deleted, only moved.
 - [Geronimo Island](../../locations/geronimo-island.md)
 - [Guadalupe](../../locations/guadalupe.md)
 - [Isla Espíritu Santo](../../locations/isla-espiritu-santo.md)
+- [La Bocana](../../locations/la-bocana.md)
 - [Pyramid Head](../../locations/pyramid-head.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)

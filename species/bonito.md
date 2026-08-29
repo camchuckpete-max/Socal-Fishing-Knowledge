@@ -294,6 +294,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Flyline](../techniques/flyline.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [La Bocana](../locations/la-bocana.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

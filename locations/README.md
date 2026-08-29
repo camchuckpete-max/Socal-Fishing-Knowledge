@@ -264,6 +264,7 @@
 - [Kidney Bank (63)](kidney-bank-63.md) **[SoCal only]** — A charted spot at 33°34.467'N 119°00.850'W (cameron), in the Kidney Bank (63) / 175 zone.
 - [LA - 270 / 286](la-270-286.md) **[SoCal only]** — A zone is a run grouping.
 - [LA - 270](la-270.md) **[SoCal only]** — A charted spot at 33°41.000'N 118°34.500'W (cameron), in the LA - 270 / 286 zone.
+- [La Bocana](la-bocana.md) **[Baja only]** — [Baja only] — A beachfront fishing camp on the Pacific side of Baja California Sur, described on camera as "just half way down the Baja Peninsula" (qri15R3caYE)
 - [La Bufadora](la-bufadora.md) **[Baja only]** — A charted spot at 31°43.440'N 116°43.380'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md) **[Baja only]** — A zone is a run grouping.
 - [La Fonda](la-fonda.md) **[Baja only]** — A charted spot at 32°08.460'N 116°54.150'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
@@ -440,5 +441,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 427 notes exceed the 30-node cap._
+_Map skipped: 428 notes exceed the 30-node cap._
 <!-- mermaid:end -->

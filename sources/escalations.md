@@ -331,3 +331,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T20:35:19Z — locations/isla-espiritu-santo.md — verify-escalate
 - run: 33273386117
 - reason: locations/la-paz.md Spots section now contradicts itself — its prose says no place in the zone has a public name plus a charted position so no spot pages hang below it, and that all five are logged in the spot harvest rather than minted as pages, but the generated children block directly below now lists Isla Espiritu Santo; fix is one sentence on the zone page, out of scope for this unit and no future unit reaches it since la-paz.md is already marked transformed
+
+## 2026-08-29T20:45:15Z — locations/la-bocana.md — verify-escalate
+- run: 33273386117
+- reason: (1) locations/baja-pacific-south.md still lists La Bocana under 'Named grounds the census derives no zone for - flagged stub', now stale prose. (2) Rung question: this page is type: location parented directly to a region, skipping the zone rung; its three sibling children of baja-pacific-south are all type: zone and the region-page verifier already flagged La Bocana as a possible missing census zone. If Cameron rules it a zone the page needs retyping to templates/zone.md; census not altered either way

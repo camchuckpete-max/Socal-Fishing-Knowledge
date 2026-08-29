@@ -461,6 +461,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
+- [La Bocana](../locations/la-bocana.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [La Paz](../locations/la-paz.md)

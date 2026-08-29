@@ -195,6 +195,7 @@ omitted, because silence would read as "nothing there":
 <!-- children:start -->
 - [Alijos Rocks](alijos-rocks.md)
 - [Cabo San Lucas](cabo-san-lucas.md)
+- [La Bocana](la-bocana.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 <!-- children:end -->
 
@@ -259,6 +260,7 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [East Cape](east-cape.md)
 - [Evidence — Baja Pacific — South](evidence/baja-pacific-south.md)
+- [La Bocana](la-bocana.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

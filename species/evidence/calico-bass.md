@@ -454,4 +454,5 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 - [Geronimo Island](../../locations/geronimo-island.md)
+- [La Bocana](../../locations/la-bocana.md)
 <!-- backlinks:end -->

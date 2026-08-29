@@ -428,6 +428,7 @@ Trip reports and per-source provenance:
 - [Island Structure](../locations/island-structure.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
+- [La Bocana](../locations/la-bocana.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

@@ -290,6 +290,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
+- [La Bocana](../locations/la-bocana.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)

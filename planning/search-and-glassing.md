@@ -367,6 +367,7 @@ Trip reports and per-source provenance:
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
+- [La Bocana](../locations/la-bocana.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
