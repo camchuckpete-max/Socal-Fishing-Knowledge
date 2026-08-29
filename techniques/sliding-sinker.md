@@ -400,5 +400,6 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
+- [White Seabass — lead head and squid](../species/white-seabass-leadhead-squid.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

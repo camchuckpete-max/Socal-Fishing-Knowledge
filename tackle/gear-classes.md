@@ -324,6 +324,7 @@ file](evidence/gear-classes.md).
 - [Wahoo — live bait](../species/wahoo-live-bait.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
+- [White Seabass — lead head and squid](../species/white-seabass-leadhead-squid.md)
 - [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -60,8 +60,10 @@ where it corroborates or is scoped as trip/program context.
   "early springtime," which "for a lot of people" means white seabass fishing;
   squid is the staple bait and "that's what most of the bites are coming on";
   standard market wild-caught squid, "a little bit on the small side, but they'll
-  work just fine," threaded two (maybe three if small) up the lead head to mimic
-  squid mating, which happens in the nighttime and gray-light hours.
+  work just fine." The same session's rigging half — the two-squid (three if
+  small) threading and the mating mimicry that puts the bite in the night and
+  gray-light hours — moved to
+  [white seabass — lead head and squid evidence](white-seabass-leadhead-squid.md#how-white-seabass-changes-the-execution).
 - `Eo_bA8IWvyU` (Tackle Express — Harry, tackle-counter walkthrough,
   "Before You Fish for White Seabass"; unregistered channel): dropper-loop white
   seabass are "typically between 60 to about 90 ft and typically close to the
@@ -87,7 +89,10 @@ where it corroborates or is scoped as trip/program context.
   entry above (same session, different claim).
 - `Eo_bA8IWvyU` (same walkthrough, curiosity mechanism): the wind-and-pop cadence
   on a lead head or fluke is aimed at "trying to get that fish to become from
-  curious to becoming a biter"; on the bite, "sea bass, you do want to let them
+  curious to becoming a biter" — the lead-head version of that cadence, with its
+  flick-behind-the-boat cast and thumb-tensioned sink, moved to
+  [white seabass — lead head and squid evidence](white-seabass-leadhead-squid.md#how-white-seabass-changes-the-execution);
+  on the bite, "sea bass, you do want to let them
   eat it — they're going to chomp, slowly eat it, and once that rod loads down,
   that's when you're going to want to set the hook." duplicate-of the entries
   above (same session).
@@ -143,8 +148,10 @@ where it corroborates or is scoped as trip/program context.
   lays there and then a seagull eats it." Constant recasting also raises
   yellowtail, calico bass, blue perch and sheephead — "if something's biting it
   that's good, if nothing's biting it it's time to move." A heavy white TLC jig
-  with a squid dropped straight down is the smoldering-current alternative, and
-  an orange lead head is called a reaction color as the squid sinks. The same
+  with a squid dropped straight down is the smoldering-current alternative; the
+  same source's orange-lead-head reaction-colour doctrine moved to
+  [white seabass — lead head and squid evidence](white-seabass-leadhead-squid.md#rigs--gear).
+  The same
   source's dropper-loop acceptance and its 12–18 in hook-above-the-weight figure
   moved to
   [white seabass — dropper loop evidence](white-seabass-dropper-loop.md#how-white-seabass-changes-the-execution).
@@ -309,6 +316,8 @@ Program and trip context, not fishing doctrine any angler can replicate. Flagged
 ## Linked from
 
 - [Evidence — White Seabass — dropper loop](white-seabass-dropper-loop.md)
+- [Evidence — White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
 - [White Seabass](../white-seabass.md)
 - [White Seabass — dropper loop](../white-seabass-dropper-loop.md)
+- [White Seabass — lead head and squid](../white-seabass-leadhead-squid.md)
 <!-- backlinks:end -->

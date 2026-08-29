@@ -24,8 +24,8 @@ full and new [moons](../conditions/moon.md), fire on the
 water with current and bait in it, all three
 (`OpcKQPA3vAI`, `6TBxHnkYXI0`). Most fish are caught in
 [gray light](../conditions/water-color.md) because that is when the squid mate,
-and the lead-head-and-squid rig that mimics mating is the signature presentation
-(`Xr4nURK-Z48`, `Eo_bA8IWvyU`).
+and the [lead-head-and-squid rig](white-seabass-leadhead-squid.md) that mimics
+mating is the signature presentation (`Xr4nURK-Z48`, `Eo_bA8IWvyU`).
 
 ## Where & when
 
@@ -114,7 +114,12 @@ only reproduction-adjacent record is the hatchery broodstock program under
   light.
 - **Curiosity converts to a bite on motion.** A curious fish that is looking but
   not eating is turned by a short pop-and-glide — wind and pop the rod so the
-  bait flicks and then flutters back down (`Eo_bA8IWvyU`). Constant motion is
+  bait flicks and then flutters back down (`Eo_bA8IWvyU`); the cadence and its
+  looker-to-biter mechanism on a squid-baited lead head are in
+  [white seabass — lead head and squid](white-seabass-leadhead-squid.md#how-white-seabass-changes-the-execution),
+  and on a fluke in
+  [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md).
+  Constant motion is
   also the whole point of the suspend-and-retrieve soak: keep the bait sinking
   through the column and recast rather than letting it rest (`ShSxNKAcUB4`).
 - **A chum bucket builds the chain.** Off the transom it works the
@@ -158,7 +163,7 @@ White seabass is a water-reading and meter fishery, not a bird fishery.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Squid bed near structure, gray light or night, slack tide** | **[Lead head + squid](../rigging/leadhead-mods.md)** — two squid, or three if small, threaded up the head | 3/4–1 oz lead-head class on a 30–40 lb bait/jig rod | The signature rig: it mimics squid mating (`Xr4nURK-Z48`). Size the head so it sinks *to* the fish rather than straight past them in the current [a] |
+| **Squid bed near structure, gray light or night, slack tide** | **[Lead head + squid — the mating-pair presentation](white-seabass-leadhead-squid.md)** ([rigging](../rigging/leadhead-mods.md)) | 3/4–1 oz lead-head class on a 30–40 lb bait/jig rod | The signature rig: it mimics squid mating (`Xr4nURK-Z48`). The squid count and its mimicry mechanism, the head sized to sink *to* the fish rather than past them, the thumb-tension sink, the wind-and-pop cadence and the orange reaction colour are in the sub-article (`Xr4nURK-Z48`, `Eo_bA8IWvyU`, `ShSxNKAcUB4`) [a] |
 | **Fish called close to the bottom on a nest, 60–90 ft** | **[Dropper loop with fresh-dead squid — the squid-bed program](white-seabass-dropper-loop.md)** ([general method](../techniques/dropper-loop.md)) | 40 lb dropper-loop class, conventional star drag | Sinker weight and its conditions rule, the bycatch-sized sinker-to-hook leader, the dropper-tag length, the hook style with its live-release conflict, and the bite handling are all in the sub-article (`Eo_bA8IWvyU`) [a] |
 | **Fish called mid-column or near the surface — e.g. 20–30 ft in 60–100 ft of water** | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: least weight that will still sink, thin-wire hook, sink the whole column, then reel up and recast immediately | 30 lb bait class | Never let it rest on the bottom — the forward-set mouth will not take a bottomed bait and you catch rays and sharks instead; recasting also raises calico bass, perch and sheephead, and a stop where nothing bites is a stop to leave (`ShSxNKAcUB4`, `Eo_bA8IWvyU`) [a] |
 | **Gray light, before dawn, heavy fog, or a sun-shadowed spot** — a bite window, not a location cue | **Stationary bait-jig soak**: glow-backed single-hook jig with 1–3 whole squid, dropped to bottom, cranked up 3–10 ft, then left in the holder to work with the boat's roll | Tady TLC / Tady 40 class glow jig on a 30–40 lb bait/jig rod | A passive rail soak, distinct from the actively worked lead head above; the glow back is the attention-getter and the squid pile is the meal (`Eo_bA8IWvyU`). Check with the deckhands before pinning more than one squid — supply is often limited [a] |
@@ -182,7 +187,8 @@ chop-glide, sweep-drop, crack-slack — live in
 
 ## Gear summary (class terms)
 
-- **Rod/reel:** a **30–40 lb bait/jig rod** for the lead-head-and-squid and the
+- **Rod/reel:** a **30–40 lb bait/jig rod** for the
+  [lead-head-and-squid](white-seabass-leadhead-squid.md#rigs--gear) and the
   [dropper loop](white-seabass-dropper-loop.md#rigs--gear), and a
   **[jig-stick class](../techniques/surface-iron.md)**
   (7–9 ft, 40–50 lb) for the surface iron. Conventional star-drag reels favour
@@ -195,8 +201,9 @@ chop-glide, sweep-drop, crack-slack — live in
   a full spool. White seabass have soft mouths and straight braid pulls the hook;
   where spool capacity forces braid, compensate with a soft, moderate-action rod
   and a lighter drag (`Eo_bA8IWvyU`).
-- **Terminal:** [lead head + squid](../rigging/leadhead-mods.md) (2–3 squid
-  threaded up the head),
+- **Terminal:** [lead head + squid](white-seabass-leadhead-squid.md#rigs--gear)
+  (2–3 squid threaded up the head; the build itself is in
+  [leadhead mods](../rigging/leadhead-mods.md)),
   [dropper loop with squid](white-seabass-dropper-loop.md#rigs--gear),
   [surface iron](../lures/iron-jigs.md) for the cast, and a
   [sliding sinker](../techniques/sliding-sinker.md) on a thin-wire hook — not an
@@ -344,6 +351,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — White Seabass](evidence/white-seabass.md)
 - [Evidence — White Seabass — dropper loop](evidence/white-seabass-dropper-loop.md)
+- [Evidence — White Seabass — lead head and squid](evidence/white-seabass-leadhead-squid.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -379,4 +387,5 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Water Color](../conditions/water-color.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [White Seabass — dropper loop](white-seabass-dropper-loop.md)
+- [White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
 <!-- backlinks:end -->

@@ -90,5 +90,6 @@ the leader length.
 ## Linked from
 
 - [Evidence — White Seabass](white-seabass.md)
+- [Evidence — White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
 - [White Seabass — dropper loop](../white-seabass-dropper-loop.md)
 <!-- backlinks:end -->

@@ -208,4 +208,5 @@ Trip reports and per-source provenance: [evidence file](evidence/leadhead-mods.m
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
+- [White Seabass — lead head and squid](../species/white-seabass-leadhead-squid.md)
 <!-- backlinks:end -->
