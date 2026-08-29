@@ -3,43 +3,46 @@ type: tackle
 tags: [reels, daiwa, coastal-tw, baitcaster, inshore, mag-force, hyperdrive, tackle-express]
 sources: [u9sJyZhaDGQ]
 confidence: low
+layout: v2
 ---
 
 # Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)
 
-Tackle Express, "Daiwa Coastal TW 200 Review | Inshore Saltwater Baitcasting
-Reel Spotlight," `u9sJyZhaDGQ`, uploaded 2025-08-19 — a 75-second product
-spotlight for one reel model, presenter self-introduced on camera as **Harry**
-("Harry over at Tackle Express"), closing "get your hands on this inshore
-workhorse at tackleexpress.com." A straight product-feature list with no
-technique, sizing, or decision content — per the confidence rubric ("low —
+The Daiwa Coastal TW 200 is a baitcaster the presenter frames as purpose-built
+for inshore fishing, not further specified by species, lure, or line class in
+this clip (`u9sJyZhaDGQ`). It is a single-SKU product spotlight with no
+technique, sizing, or decision content; per the confidence rubric ("low —
 sponsored or promotional claim, regardless of channel") this note is capped
-at **low** in full, on top of `tackle-express` being an unregistered channel.
+at **low** confidence in full, on top of `tackle-express` being an
+unregistered channel (`u9sJyZhaDGQ`).
 
 ## What's claimed
 
-- **Application: purpose-built for inshore fishing** — the presenter's own
-  framing, not further specified by species, lure, or line class in this
-  clip.
-- **100 mm handle.**
-- **Ratcheting click drag** (named as a feature; not described further).
-- **Corrosion-resistant ball bearings** (captioned "corrosive resistant,"
-  read here as a caption slip for "corrosion-resistant").
-- **Mag Force brakes** — a magnetized braking system, described as easy to
-  tune and adjust and pitched as giving "the best castability that you can
-  get." No weight/dial-position detail given.
-- **Hyper Clutch** — captioned "hypert clutch," read here as **Hyper
-  Clutch** given the reel's other "Hyper-" branded features below; called
-  by the presenter "the biggest improvement" and "one of the nicest
-  features," pitched as smooth, guaranteed engagement and disengagement
-  every time. No engagement-force figure or comparative baseline given.
+- **100 mm handle** (`u9sJyZhaDGQ`).
+- **Ratcheting click drag**, named as a feature and not described further
+  (`u9sJyZhaDGQ`).
+- **Corrosion-resistant ball bearings** — captioned "corrosive resistant,"
+  read here as a caption slip for "corrosion-resistant" (`u9sJyZhaDGQ`).
+- **Mag Force brakes** — a magnetized braking system pitched as easy to tune
+  and adjust and giving "the best castability that you can get," with no
+  weight or dial-position detail given (`u9sJyZhaDGQ`).
+- **Hyper Clutch** — captioned "hypert clutch," read here as **Hyper Clutch**
+  given the reel's other "Hyper-" branded features below; called "the biggest
+  improvement" and "one of the nicest features," pitched as smooth,
+  guaranteed engagement and disengagement every time, with no engagement-force
+  figure or comparative baseline given (`u9sJyZhaDGQ`).
 - **Hyper Housing** — a solid body pitched as protecting the internals and
-  limiting frame flex.
+  limiting frame flex (`u9sJyZhaDGQ`).
 - **Hyperdrive system** — internals pitched as longer-lasting and smoother
-  for longer, attributed specifically to **larger gear teeth**.
+  for longer, attributed specifically to larger gear teeth (`u9sJyZhaDGQ`).
 
 No gear ratio, max drag figure, weight, line capacity, or price is given in
 this clip.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-daiwa-coastal-tw200-reel.md).
 
 ## Related
 
@@ -78,5 +81,6 @@ this clip.
 ## Linked from
 
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md)
+- [Evidence — Daiwa Coastal TW 200 (Tackle Express)](evidence/tackle-express-daiwa-coastal-tw200-reel.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

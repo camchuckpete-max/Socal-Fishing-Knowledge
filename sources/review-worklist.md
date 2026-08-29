@@ -231,7 +231,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md | light | transformed | none | transform verified, 2 conservation gaps found and fixed in-tree (dropped reel/rod claims restored) |
 | tackle/tackle-express-charter-bait-tank-hook-kit.md | light | transformed | asr-uncertain(Aki Twist/Oy Twist/OSHAY hook names still unresolved) | transform: plain-statement rewrite + evidence split (layout v2, light tier) |
 | tackle/tackle-express-ci4-plus-reel-features.md | light | transformed | none | transform verified, apply-with-changes: restored dropped provenance (titles/upload dates) into a new evidence file per established sibling pattern |
-| tackle/tackle-express-daiwa-coastal-tw200-reel.md | light | pending |  |  |
+| tackle/tackle-express-daiwa-coastal-tw200-reel.md | light | transformed | none | transform verified, one dropped quote restored |
 | tackle/tackle-express-daiwa-luvias-st-spinning-reel.md | light | pending |  |  |
 | tackle/tackle-express-daiwa-saltiga-reel.md | light | pending |  |  |
 | tackle/tackle-express-daiwa-saltist-sd-reel.md | light | pending |  |  |
