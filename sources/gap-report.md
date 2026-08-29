@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2262 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
+_Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 ## species/
 
@@ -60,6 +60,10 @@ _Totals: 2262 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
   - infobox `sonar_depth`: unknown
+- **species/cabrilla-jerkbait.md**
+  - `How cabrilla changes the execution`: gap — mechanism — why light penetration flips the
+- **species/cabrilla-yo-yo-iron.md**
+  - `Differs from the general method`: gap — mechanism — why the hop specifically fails
 - **species/cabrilla.md**
   - `Where & when`: gap — a month-by-month presence or temperature
   - `Presence & forage`: gap — the forage species cabrilla eat by name,
@@ -77,6 +81,8 @@ _Totals: 2262 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - infobox `season_peak`: unknown
   - infobox `sst_band_f`: unknown
   - infobox `sonar_depth`: unknown
+- **species/calico-bass-surface-iron.md**
+  - `Rigs & gear`: gap — a line class stated specifically for the
 - **species/calico-bass.md**
   - `Presence & forage`: gap — crustacean or benthic forage, and any
   - `Spawning`: gap — the calendar window of the SoCal spawn, and

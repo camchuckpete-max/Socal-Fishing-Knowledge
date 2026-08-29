@@ -255,3 +255,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T08:04:50Z — locations/banda-bank-todos-santos-island.md — guard-violation
 - run: 33240630796
 - reason: commit 721b04048bcd2cfd4c57f586a44d4e6de058feda reverted: unparseable review commit subject: 'review: relocate locations/banda-bank-todos-santos-island.md → locations/ensenada.md + locations/punta-banda-santo-tomas.md'
+
+## 2026-08-29T09:14:05Z — unknown — guard-violation
+- run: 33240630796
+- reason: sweep found violation in 20c8dc5f2812de4cdc80a866a1d7a1e34fb1f91b but revert conflicted — MANUAL ATTENTION: unparseable review commit subject: 'review: mark the slow-pitch-jigging relocation escalation resolved'
