@@ -298,6 +298,7 @@ Trip reports and per-source provenance:
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](evidence/bahia-magdalena-lopez-mateos.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

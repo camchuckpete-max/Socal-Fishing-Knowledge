@@ -608,6 +608,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)

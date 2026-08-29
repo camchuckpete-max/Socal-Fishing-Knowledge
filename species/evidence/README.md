@@ -31,6 +31,7 @@
 - [Evidence — California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md) — Trip reports and per-source provenance backing California sheephead — tube-bait fishing.
 - [Evidence — California Sheephead](sheephead.md) — Trip reports and per-source provenance backing California sheephead.
 - [Evidence — Skipjack Tuna](skipjack-tuna.md) — Per-source provenance backing skipjack tuna.
+- [Evidence — Snook (Robalo) — sliding sinker](snook-sliding-sinker.md) — Per-source provenance backing snook — sliding sinker.
 - [Evidence — Snook (Robalo)](snook.md) — Per-source provenance backing snook.
 - [Evidence — Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md) — Trip reports and per-source provenance backing spotted bay bass — bottom jig crawl.
 - [Evidence — Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md) — Trip reports and per-source provenance backing spotted bay bass — structure pitching.
@@ -57,5 +58,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 47 notes exceed the 30-node cap._
+_Map skipped: 48 notes exceed the 30-node cap._
 <!-- mermaid:end -->

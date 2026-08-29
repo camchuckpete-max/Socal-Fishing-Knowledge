@@ -149,5 +149,7 @@ source in the corpus is about snook as a fishery in its own right.
 ## Linked from
 
 - [Evidence — Bucktail Jigs](../../lures/evidence/bucktail-jigs.md)
+- [Evidence — Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
 - [Snook (Robalo)](../snook.md)
+- [Snook (Robalo) — sliding sinker](../snook-sliding-sinker.md)
 <!-- backlinks:end -->

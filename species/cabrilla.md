@@ -274,5 +274,6 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Snook (Robalo)](snook.md)
+- [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

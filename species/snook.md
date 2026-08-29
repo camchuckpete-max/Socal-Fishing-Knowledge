@@ -254,8 +254,10 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Evidence — Snook (Robalo)](evidence/snook.md)
+- [Evidence — Snook (Robalo) — sliding sinker](evidence/snook-sliding-sinker.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
 <!-- backlinks:end -->

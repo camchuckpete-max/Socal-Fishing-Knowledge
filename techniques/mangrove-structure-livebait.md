@@ -74,4 +74,5 @@ Per-source provenance: [evidence file](evidence/mangrove-structure-livebait.md).
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 <!-- backlinks:end -->

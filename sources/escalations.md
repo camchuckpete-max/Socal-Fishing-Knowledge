@@ -287,3 +287,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T15:03:46Z — techniques/sliding-sinker.md -> species/cabrilla-sliding-sinker.md — worker-escalate
 - run: 33253040396
 - reason: content is misplaced but the queued destination may be wrong: the Cortez build is a 100 lb-class grouper program (12/0 on 300-400 lb, broomtail on dEPuDrhoClM) while species/cabrilla.md is the 5-17 lb leopard grouper, and species/evidence/cabrilla.md:97-105 already recorded the opposite decision. Cameron to pick: (a) cabrilla.md is the umbrella Cortez grouper router, land as queued; (b) mint a broomtail/Cortez-grouper router first; (c) leave it in techniques/sliding-sinker.md until a grouper router exists. The snook-sliding-sinker row carries a weaker form of the same question
+
+## 2026-08-29T15:16:34Z — techniques/sliding-sinker.md -> species/snook-sliding-sinker.md — verify-escalate
+- run: 33253040396
+- reason: the sibling cabrilla row escalated the same classification question and this one was resolved rather than escalated: a mixed grouper-and-snook build now lives on a single-species page with the unnamed ~100 lb grouper as bycatch context - Cameron should confirm one answer covers both rows

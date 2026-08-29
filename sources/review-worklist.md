@@ -893,4 +893,5 @@ by their builders after the transform phase drains.
 | species/yellowtail-dropper-loop.md | standard | pending |  | created by relocation from techniques/dropper-loop.md |
 | species/yellowtail-knife-jigging.md | standard | pending |  | created by relocation from techniques/knife-jigging.md |
 | species/white-seabass-leadhead-swimbait.md | standard | pending |  | created by relocation from techniques/leadhead-swimbait-retrieve.md |
+| species/snook-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
 <!-- review:worklist:end -->

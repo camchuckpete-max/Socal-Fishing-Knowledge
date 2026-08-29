@@ -613,6 +613,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Spooling Line — Tension and Line-Twist Avoidance](spooling-line-tension-and-twist.md)
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md)
 - [Surface Iron](../techniques/surface-iron.md)

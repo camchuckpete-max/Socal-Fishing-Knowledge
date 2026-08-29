@@ -195,39 +195,17 @@ dropper loop (`M8hOYQ_6rSg`):
 
 ## Baja Pacific grouper & snook leader — Lopez Mateos
 
-A Baja Pacific south (Lopez Mateos / Magdalena Bay) grouper/snook bottom rig —
-different region, different sinker/leader specs, and a different species mix
-(this build also lands snook) than the Sea of Cortez cabrilla build above
-(`EcQK5elTPJE`). See [Lopez Mateos & Magdalena
-Bay](../locations/bahia-magdalena-lopez-mateos.md) for the fishery.
-
-- **Reel:** a **4/0-size, two-speed** reel is mandatory — showing up with a
-  single-speed reel means breaking off "all day" against the structure at
-  this mark (`EcQK5elTPJE`).
-- **Rig order:** braid → 80 lb fluorocarbon → sinker → swivel → ~6 ft of
-  **100-130 lb** leader → hook — this note's standard Carolina/sliding-sinker
-  order, weight riding free above the swivel (`EcQK5elTPJE`).
-- **Mainline:** 80 lb braid (`EcQK5elTPJE`).
-- **Hook:** 4X strong, sized to the bait — sardine or live shrimp. Live
-  shrimp has to be arranged with the guide the day before (caught overnight);
-  there's no dockside bait receiver stocking it at Lopez Mateos
-  (`EcQK5elTPJE`).
-- **Drag:** locked down as tight as the reel allows. The fight is decided in
-  roughly the **first 5 seconds** — either the fish is turned before it
-  reaches structure, or it's gone. A hooked snook typically rises rather than
-  diving for the rocks the way grouper do, which is how the crew reads which
-  species is on the line before it's up (`EcQK5elTPJE`).
-- **Leader-test progression behind the spec:** early trips here lost six
-  hooked snook to break-offs, stepping leader up through 60, 80, 100, and
-  finally 130 lb before landing fish — the origin of the 100-130 lb leader
-  spec above (`EcQK5elTPJE`).
-- **Hook failure mode:** 4X hooks have been straightened out on fish up to
-  the 100 lb grouper grade this mark produces (`EcQK5elTPJE`).
-- The ~100 lb "grouper" here is never given a species name in this source and
-  isn't assumed to be the same fish as the [Sea of Cortez cabrilla/grouper
-  program](#baja-sea-of-cortez-grouper-leader) above — different region,
-  different technique, and a smaller typical fish per that source's own
-  doctrine. See [snook](../species/snook.md) for species-level routing.
+The Baja Pacific south (Lopez Mateos / Magdalena Bay) boca build is now its own
+page: the mandatory 4/0-size two-speed reel, the braid → 80 lb fluorocarbon →
+sinker → swivel → ~6 ft of 100-130 lb leader order, the 4X hook sized to sardine
+or live shrimp, the locked drag with its five-second fight window, the
+snook-rises/grouper-dives species tell, and the 60/80/100/130 lb leader-test
+progression behind the leader spec all live in [snook — sliding
+sinker](../species/snook-sliding-sinker.md) (`EcQK5elTPJE`). Different region,
+different specs and a different species mix from the Sea of Cortez cabrilla
+build above. See [Lopez Mateos & Magdalena
+Bay](../locations/bahia-magdalena-lopez-mateos.md) for the fishery and
+[snook](../species/snook.md) for species-level routing.
 
 ## San Diego local/long-range yellowtail — 2-4 oz, no leader shown
 
@@ -321,9 +299,10 @@ backbone to feel a bottom bite through a free-sliding weight without
 overpowering the light bait presentation. Sand-bass/finesse work drops to the
 [finesse fly-line class](../tackle/gear-classes.md). Baja Pacific grouper and
 snook builds move up to the [Baja Pacific grouper/snook bottom
-class](../tackle/gear-classes.md) — a **two-speed reel is mandatory** there; a
-single-speed reel breaks off against the structure. Octopus offset hooks by
-default; often run alongside soaking [dropper-loop](dropper-loop.md) rods.
+class](../tackle/gear-classes.md) — reel, line and leader specs on
+[snook — sliding sinker](../species/snook-sliding-sinker.md). Octopus offset
+hooks by default; often run alongside soaking [dropper-loop](dropper-loop.md)
+rods.
 
 ## Common failures
 
@@ -344,6 +323,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Barred Sand Bass — sliding sinker](../species/sand-bass-sliding-sinker.md)
 - [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Sheephead — sliding sinker](../species/sheephead-sliding-sinker.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -369,6 +349,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Evidence — Leadhead Mods & Rigging](../rigging/evidence/leadhead-mods.md)
 - [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../tackle/evidence/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Evidence — Sliding Sinker](evidence/sliding-sinker.md)
+- [Evidence — Snook (Robalo) — sliding sinker](../species/evidence/snook-sliding-sinker.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](flyline.md)
@@ -395,6 +376,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trap Rig](../rigging/trap-rig.md)

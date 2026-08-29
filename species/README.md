@@ -31,6 +31,7 @@
 - [California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md) — One species, one technique.
 - [California Sheephead](sheephead.md) — California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard structure "every single day," which makes them the target once the water cools and t
 - [Skipjack Tuna](skipjack-tuna.md) — Skipjack — "skippies" — are the fish that reaches the offering first on the SoCal/Baja tuna grounds: they pile into a chum line laid for yellowfin (lxFNVdDhMy4)
+- [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md) **[Baja only]** — One species, one technique.
 - [Snook (Robalo)](snook.md) **[Baja only]** — The corpus documents snook in exactly one fishery — Magdalena Bay / Lopez Mateos, Baja California Sur — and it is two programs, not one.
 - [Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md) **[SoCal only]** — One species, one technique.
 - [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md) **[SoCal only]** — One species, one technique.
@@ -61,5 +62,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 48 notes exceed the 30-node cap._
+_Map skipped: 49 notes exceed the 30-node cap._
 <!-- mermaid:end -->

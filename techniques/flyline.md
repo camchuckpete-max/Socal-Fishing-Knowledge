@@ -870,6 +870,7 @@ confidence.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Surface Iron](surface-iron.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
