@@ -249,12 +249,6 @@ fisheries, two answers. East-coast deep-drop numbers — bottom-oriented at abou
 [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md) and do not
 transfer to the Bight.
 
-**Manual reels only, with a library of banked bulk braid spools** (cameron).
-⚠ misplaced-content: an angler's self-imposed gear constraint is profile data,
-not fishery doctrine — the fishery itself runs both electric-assist and manual;
-queued in [`sources/relocation-queue.md`](../sources/relocation-queue.md), and
-recorded in [his rods](../profiles/cameron/rods.md).
-
 ## Landing & handling
 
 - **The mouth is soft.** The roof of a swordfish's mouth is soft enough to push a

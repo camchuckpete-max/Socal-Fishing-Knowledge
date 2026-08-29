@@ -130,6 +130,17 @@ manual captions. `1iV1GnF4K-c` (Bad Company Fishing Adventures, 2024-03-16) is a
   eels because other squid shred a squid bait on a long drift, and reports three
   fish on one eel bait in a single trip. Bait-choice reasoning, region-labeled.
 
+## Doctrine & conflicts
+
+- `cameron`: daytime swordfish is a possible future target, manual
+  (non-electric) reels only, needing different line configurations and a library
+  of banked bulk braid spools swapped between reel setups per program.
+  A self-imposed gear constraint rather than fishery doctrine — the fishery
+  itself runs both manual and electric-assist — so it belongs in
+  [Cameron's rods](../../profiles/cameron/rods.md), which already carries it as
+  an open item beside the Fathom 80 respool; the parent keeps only the
+  both-ways statement in its gear summary.
+
 ## Landing & handling
 
 - `yMiBtZ7k8-w` (BDOutdoors, 2021-02-04, SoCal): the hook-hold ranking is stated
