@@ -876,7 +876,7 @@ by their builders after the transform phase drains.
 | locations/geronimo-island-chester-s-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/mission-bay-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/dorado-kelp-paddy.md | standard | transformed | none | style-only fix: removed banned kept-side-by-side self-narration per style-guide v2.1, facts fully conserved, check-note.py passes 0 warnings |
-| species/lingcod-jigging.md | standard | pending |  | created by relocation from species/rockfish-lingcod.md |
+| species/lingcod-jigging.md | standard | transformed | gaps(2) | verified compliant, no changes needed (159 lines; check-note.py clean, 5 transcript spot-checks faithful) |
 | species/sand-bass-sliding-sinker.md | standard | pending |  | created by relocation from species/sand-bass.md |
 | species/sand-bass-alabama-rig.md | standard | pending |  | created by relocation from species/sand-bass.md |
 | species/sheephead-sliding-sinker.md | standard | pending |  | created by relocation from species/sheephead.md |
