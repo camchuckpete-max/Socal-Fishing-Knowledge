@@ -899,6 +899,6 @@ by their builders after the transform phase drains.
 | species/spotted-bay-bass-swimbaits.md | standard | escalated |  | escalated: guard: out of scope for 'review: species/spotted-bay-bass-swimbaits.md': species/spotted-bay-bass.md |
 | species/calico-bass-swimbaits.md | standard | transformed | none | removed banned 'left unreconciled' meta-narration clause per style-guide v2.1; cite conserved; check-note.py clean |
 | species/yellowtail-tube-bait-fishing.md | standard | transformed | spots(2) | removed duplicated sponsor-disclosure sentence from lead (already in evidence file + confidence field); added 2 spot-harvest rows (Cedros, Coronado Islands); check-note.py clean |
-| lures/lingcod-specialty-baits.md | standard | pending |  | created by relocation from lures/knife-jigs.md |
+| lures/lingcod-specialty-baits.md | standard | skipped |  | skipped: verifier-reject: worker made no edits (note already v2-compliant), leaving no diff for verifier to check |
 | techniques/countdown-casting.md | standard | pending |  | created by relocation from locations/breakwalls-jetties-riprap.md |
 <!-- review:worklist:end -->
