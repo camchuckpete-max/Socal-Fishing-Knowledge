@@ -236,6 +236,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — South](baja-pacific-south.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Alijos Rocks](evidence/alijos-rocks.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

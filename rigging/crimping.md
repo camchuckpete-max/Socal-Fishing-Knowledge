@@ -120,9 +120,10 @@ Per-source provenance: [evidence file](evidence/crimping.md).
 - [Evidence — Crimping — Sleeve Crimps for Heavy Leaders](evidence/crimping.md)
 - [Evidence — Haywire Twist](evidence/haywire-twist.md)
 - [Evidence — Rubber-Band Deep Rig](evidence/rubber-band-deep-rig.md)
+- [Evidence — Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/evidence/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Haywire Twist](haywire-twist.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
-- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

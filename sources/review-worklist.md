@@ -204,7 +204,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-40lb-all-around-tuna-outfit.md | light | done | gaps(1) | transform verified, two conservation gaps fixed (fly-lining hook scope, two-speed-reel causal detail in evidence) |
 | tackle/searcher-50-60-80lb-flyline-outfit.md | light | done | none | transform verified — full conservation of parameters/observations across main note + new evidence file, corpus claims spot-checked against all 3 source transcripts, one v2.1 self-narration phrase fixed in tree |
 | tackle/searcher-6-to-8-day-heavy-outfit.md | light | done | spots(2), asr-uncertain(season-window, reel-model-suffix, third-reel-identity) | transform verified clean — v2 layout, evidence split, cites conserved, no loss |
-| tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | light | pending |  |  |
+| tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | light | done | spots(2), asr-uncertain(Avitz-Avet reel brand; seven strand monofilament wire caption) | v2 transform: plain-statement rewrite, evidence file split, layout v2 added; all doctrine, quotes, figures, cross-links conserved |
 | tackle/searcher-big-tuna-rig-ladder.md | light | pending |  |  |
 | tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md | light | pending |  |  |
 | tackle/searcher-daytime-dart-jig-outfit-ladder.md | light | pending |  |  |

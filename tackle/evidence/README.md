@@ -24,6 +24,7 @@
 - [Evidence — Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md) — Per-source provenance for Searcher 40 lb all-around tuna outfit: channel status, registration confidence, upload dates, ASR-uncertain reasoning, and the single-
 - [Evidence — Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md) — Per-source provenance for Searcher 50/60/80 lb live-bait flyline outfit: channel status, registration confidence, and the ASR-uncertain caption readings the mai
 - [Evidence — Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md) — Per-source provenance for Searcher 6-to-8-day trip — the fourth (heavy) outfit: channel status, registration confidence, and the ASR-uncertain caption readings
+- [Evidence — Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md) — Per-source provenance for Searcher five-outfit quiver — 7-day trip to Alijos Rocks and "the Ridge": channel status, registration confidence, ASR-uncertain capti
 <!-- index:end -->
 
 
