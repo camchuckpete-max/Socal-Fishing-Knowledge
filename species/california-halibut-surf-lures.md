@@ -98,9 +98,9 @@ river-mouth channels run current quickly through a deep cut, and a floating or
 suspending bait never reaches the strike zone in that flow, so the call there
 is a sinking bait (`H5Z-Mqt4qXs`). This is the opposite read from the skinny
 surf water above: there the problem is a diver digging into the sand, here it
-is a bait that will not get down at all. The source names no species on camera
-— it is stated as general beach and surf hard-bait selection, illustrated with
-inlet channels and river mouths.
+is a bait that will not get down at all. This is a general beach and surf
+hard-bait call — no species is named on camera — illustrated with inlet
+channels and river mouths.
 
 **When distance is the limit, a floating bait can still be the long-cast
 pick.** The **Bassday Gyokusai 97** floats yet casts farther than the diving
@@ -135,9 +135,9 @@ a theory. Hardbait colour starts at white or white with a pink belly — see
 
 **On a hard bait, light and water clarity pick the colour:** a **clear** or
 reflective colour fished **in the sun**, switching to **white** when the water
-is dirty or it is overcast (`H5Z-Mqt4qXs`). This is stated for beach hard-bait
-selection generally, not for the solid-colour soft-plastic family above, and
-the two are not stated against each other.
+is dirty or it is overcast (`H5Z-Mqt4qXs`). This is the beach hard-bait call
+and does not replace the solid-colour soft-plastic family above; the two run
+on different lure classes.
 
 **The lure bite is a thump, and the swing waits for the slack.** The take on a
 lure is a distinct thump; the instruction is not to swing on it — point the
@@ -156,9 +156,9 @@ free the way a rod-tip hookset can; demonstrated on a **Major Craft Sienna
 Through the fight, keep the **rod tip down with the rod under your arm** — a
 low tip keeps the fish mellow rather than provoking the hard head-shakes that
 work a small treble loose (`fHMwcm1xRQk`). The thump doctrine above sets
-*when* the swing happens and this sets *how* it is made; neither source states
-the other. The general hard-bait rule they both sit on — sweep, do not swing —
-is in [inshore crankbaits](../techniques/inshore-crankbaits.md#execution).
+*when* the swing happens and this sets *how* it is made. The general hard-bait
+rule they both sit on — sweep, do not swing — is in
+[inshore crankbaits](../techniques/inshore-crankbaits.md#execution).
 
 ## Rigs & gear
 
