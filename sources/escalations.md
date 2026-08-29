@@ -307,3 +307,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T17:24:35Z — bait/bait-tanks.md — check-note-failed
 - run: 33262433629
 - reason: FAIL  bait/bait-tanks.md: conservation: 1 cited source id(s) lost: ztpj1Xll0-U
+
+## 2026-08-29T18:08:44Z — species/spotted-bay-bass-swimbaits.md — guard-violation
+- run: 33266976281
+- reason: commit 58685d75ad9e20f94501372e72746d99687a8966 reverted: out of scope for 'review: species/spotted-bay-bass-swimbaits.md': species/spotted-bay-bass.md
