@@ -485,6 +485,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Bait-Tank Time-Savers — Artificial Octopus and Pre-Scented Gulp on the Rock-Cod Dropper Loop (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Barred Sand Bass — sliding sinker](../species/sand-bass-sliding-sinker.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)

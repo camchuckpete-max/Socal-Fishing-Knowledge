@@ -19,9 +19,11 @@ sonar_depth: no mark while they sit on the bottom; a tight spawning meatball mid
 Barred sand bass are structure-oriented but not locked to the bottom the way a
 lingcod or cabezon is — they hover slightly **above or within** the reef, wreck
 or kelp, which is why a column-covering presentation beats a dead-stick on the
-rocks (`P2OzCf2CwXI`). In summer they **ball up on the open sand flats to
-spawn** and eat every cast; in winter they drop onto deep structure, sit on the
-bottom and give a reaction bite (`P2OzCf2CwXI`). A big one is about **6 lb**
+rocks (`P2OzCf2CwXI`) — the live-anchovy program built on that read is in
+[barred sand bass — sliding sinker](sand-bass-sliding-sinker.md). In summer they
+**ball up on the open sand flats to spawn** and eat every cast; in winter they
+drop onto deep structure, sit on the bottom and give a reaction bite
+(`P2OzCf2CwXI`). A big one is about **6 lb**
 (`P2OzCf2CwXI`), which sets the whole tackle scale — 20 lb leader gets it done.
 This note routes the fishery; structure detail is in
 [bass structure](../locations/bass-structure.md).
@@ -126,9 +128,11 @@ the schools use.
 
 ## Feeding triggers
 
-- **Summer spawn is the switch.** Fired-up spawning fish take plastics and the
-  A-rig; when they are not fired up, the live-bait and dropper-loop
-  presentations still get bites (`P2OzCf2CwXI`).
+- **Summer spawn is the switch.** Once a spawning school is fired up the
+  live-bait slider and the dropper loop are both getting bit, and plastics
+  become the choice for a more entertaining way to catch fish that are already
+  eating; the A-rig is the one program named for fired-up fish *and* for fish
+  that are not (`P2OzCf2CwXI`).
 - **Winter is a reaction bite, not a feeding bite.** Bottom-locked winter fish
   are not actively feeding, so the bait has to be dropped into them and moved
   aggressively rather than presented and waited on (`P2OzCf2CwXI`,
@@ -189,7 +193,7 @@ See [electronics and sounder](../planning/electronics-and-sounder.md) and
 | --- | --- | --- | --- |
 | Summer flats, fish balled up and biting every cast | **Swimbaits / plastics** ([swimbaits](../techniques/swimbaits.md)) — paddle-tail or fluke on a leadhead, cast-and-wind low and slow through the column | 7–8 ft graphite bass class, low-profile 300 reel, [gear classes](../tackle/gear-classes.md) | Neon green, chartreuse and lime green are the classic sand bass colours and colour otherwise matters little; go pearl or white where calico, yellowtail or white seabass are in the mix. Get bit on the sink — watch the free-spool for a speed-up or a tap, give the fish a second, then go into gear (`P2OzCf2CwXI`) |
 | Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5 in + 7 in) on a three-way swivel, smaller bait ahead on a short (~12 in) leader, bigger on a longer (~24 in) leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro, 8 ft heavy rod | The trailing bait swims alongside the hooked fish and picks up the followers (`9br4Z4sfcNI`). The A-rig does the same job by chain reaction — one bite fires the next, four or five fish on a single cast — at the highest cost per rig of any sand bass method (`P2OzCf2CwXI`) [a] |
-| Live anchovy aboard, fish hovering above structure | **Sliding (egg) sinker** live bait — 1/2 oz egg sinker + size-2 J hook, slow-sink through the column ([sliding sinker](../techniques/sliding-sinker.md)) | 8–8.5 ft, 12–30 lb finesse fly-line class, small star drag, 30 lb braid, ~10 ft of 20 lb fluoro | Size the sinker up in current or wind and down on a glassy day; downsize the whole outfit to match a small anchovy so the bait still swims (`P2OzCf2CwXI`) [b] |
+| Live anchovy aboard, fish hovering above structure | **[Sliding (egg) sinker live bait — the anchovy program](sand-bass-sliding-sinker.md)** — slow-sink through the whole column ([general method](../techniques/sliding-sinker.md)) | finesse fly-line class, [gear classes](../tackle/gear-classes.md) | Sinker weight and its conditions rule, hook size, leader length and class, and the rod/reel spec with its mechanism are all in the sub-article (`P2OzCf2CwXI`) [b] |
 | Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down (`P2OzCf2CwXI`). For a bigger winter grade, an 8 in slug on a 3 oz sled head is the named big-sand-bass bait, and a lot of the bites come on the sink (`5p6gu14ZC4w`) |
 | Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | Sand bass and calico came off a Newport pipe in 80 ft of water on crankbaits running only 15 ft deep — match the bait's depth, not the bottom's (`kwMIgkCtFUE`). A heavy (~20 g) sinking jig kept tied on through fall and winter covers any part of the column when the fish's depth is unknown; thumb the spool on the drop on conventional tackle (`5fxAN1Ofn8M`). ⚠ Fact-check (single-source): the sinking-jig line rests on one corpus mention, and the source never names the bait |
 | Deep coastal artificial reef, fish spooky over the top of the spot | **Stand off the structure and bomb a slug on a 1 oz head** back across the edge ([swimbaits](../techniques/swimbaits.md)) | 8 ft graphite heavy bass class, 300 reel, 50 lb braid / 40 lb fluoro | Set up off to the side of the reef rather than on top of it; at the La Jolla artificial reefs the bait rarely travels 10–20 ft before a big calico or sand bass eats it, and head colour makes little difference (`-eaaWPN5Fxk`) |
@@ -205,16 +209,16 @@ sink, then a low-and-slow retrieve cruised up through the column while staying
 off the structure — is queued as a species-technique sub-article rather than
 expanded here.
 [b] The full anchovy program — rod rating and tip action, reel handle leverage,
-leader length, and sizing the lead to conditions — is queued as a
-species-technique sub-article.
+leader length, and sizing the lead to conditions — is in
+[barred sand bass — sliding sinker](sand-bass-sliding-sinker.md).
 
 ## Gear summary (class terms)
 
-- **Finesse fly-line class, for live anchovy:** an **8–8.5 ft rod rated
-  12–30 lb** with a whippy tip, a small narrow star-drag reel with a big handle
-  for vertical leverage, **30 lb braid** and about **10 ft of 20 lb
-  fluorocarbon**. A big sand bass is about 6 lb, so 20 lb leader is enough
-  (`P2OzCf2CwXI`).
+- **Finesse fly-line class, for live anchovy:** a longer, softer-tipped rod on a
+  small narrow star-drag reel, downsized to the bait rather than to the fish
+  (`P2OzCf2CwXI`). Rod rating and tip action, reel handle, braid and leader
+  numbers are in
+  [barred sand bass — sliding sinker](sand-bass-sliding-sinker.md#rigs--gear).
 - **Low-profile bass class, for plastics, the A-rig and the double rig:** a
   stiffer rod rated **15–50 lb** on a **300-size** low-profile reel, for feel
   and for controlling the fall (`P2OzCf2CwXI`); the double rig runs **65 lb
@@ -309,6 +313,7 @@ Trip reports and per-source provenance:
 
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Dana Point](../locations/dana-point.md)

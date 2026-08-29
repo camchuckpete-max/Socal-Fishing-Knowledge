@@ -24,6 +24,7 @@
 - [Evidence — Opah](opah.md) — Per-source provenance backing opah.
 - [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md) — Per-source provenance backing Pacific crevalle jack.
 - [Evidence — Rockfish & Lingcod](rockfish-lingcod.md) — Trip reports and per-source provenance backing rockfish & lingcod.
+- [Evidence — Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md) — Trip reports and per-source provenance backing barred sand bass — sliding sinker.
 - [Evidence — Barred Sand Bass](sand-bass.md) — Trip reports and per-source provenance backing sand bass.
 - [Evidence — California Sheephead](sheephead.md) — Trip reports and per-source provenance backing California sheephead.
 - [Evidence — Skipjack Tuna](skipjack-tuna.md) — Per-source provenance backing skipjack tuna.
@@ -42,5 +43,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 32 notes exceed the 30-node cap._
+_Map skipped: 33 notes exceed the 30-node cap._
 <!-- mermaid:end -->
