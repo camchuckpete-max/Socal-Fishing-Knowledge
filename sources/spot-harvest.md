@@ -609,4 +609,5 @@ harvested.
 | Ensenada | species/yellowfin-tuna-trolling.md | When this is the call | a dolphin pod broke into a full foamer and ended the troll; crew switched to flylined sardine plus chunk bait worked into the school | `0bcDBGzQnGw` |
 | San Clemente Island (front side) | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | a deep-diving hardbait paired with a cedar plug trolled around a porpoise school landed a ~60 lb yellowfin | `H-vIGWPIPVc` |
 | Cedros Island | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | October troll 20-30 mi offshore run one short/one long, with matching purple/purple colour on both credited for simultaneous doubles | `YUdbrIm9vrE` |
+| Lopez Mateos / Magdalena Bay boca | species/snook-sliding-sinker.md | When this is the call | the outside Carolina-rig mark, ~5 min from the dock in 40-50 ft, fished blind for snook over 20 lb mixed with grouper to 100 lb | `EcQK5elTPJE` |
 <!-- review:harvest:end -->

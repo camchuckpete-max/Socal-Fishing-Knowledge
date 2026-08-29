@@ -893,5 +893,5 @@ by their builders after the transform phase drains.
 | species/yellowtail-dropper-loop.md | standard | transformed | none | verified already fully v2-compliant, no changes needed; 3 check-note.py WARN confirmed benign (restatements of in-note-cited figures) |
 | species/yellowtail-knife-jigging.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
-| species/snook-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
+| species/snook-sliding-sinker.md | standard | transformed | none | verified already-compliant, no note changes needed; 1 accurate spot-harvest row appended and confirmed against transcript |
 <!-- review:worklist:end -->
