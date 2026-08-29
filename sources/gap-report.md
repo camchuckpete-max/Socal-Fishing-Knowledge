@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2322 flagged gaps, 349 flagged stubs, 1052 unknown infobox values._
+_Totals: 2341 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -1457,6 +1457,20 @@ _Totals: 2322 flagged gaps, 349 flagged stubs, 1052 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — any sonar or meter signature for this zone
   - `How it fishes`: gap — current, tide, moon or light-window doctrine
+- **locations/anacapa-island.md**
+  - `Getting there`: gap — states the
+  - `Getting there`: gap — closures, MPA boundaries, landing or
+  - `Getting there`: gap — a run time, distance, heading or sea-state
+  - `Structure & bathymetry`: gap — any charted position, depth, kelp line,
+  - `Structure & bathymetry`: gap — gives a
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — gives a grade, count or size for any fish taken
+  - `What's there`: zone guide missing
+  - `How it fishes`: gap — an approach, a starting depth, a drift, or
+  - `How it fishes`: gap — a public position for Anacapa Island;
 - **locations/anderson-pipe.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1959,6 +1973,16 @@ _Totals: 2322 flagged gaps, 349 flagged stubs, 1052 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — how a day is sequenced around tide, current or
   - `Spots`: gap — anything about fishing it.
+- **locations/channel-islands.md**
+  - `Getting there`: gap — closures, MPA boundaries, landing or
+  - `Getting there`: gap — a distance, heading, run time or sea-state
+  - `Structure & bathymetry`: gap — any charted position, kelp line, boiler rock,
+  - `Structure & bathymetry`: gap — which island the 175 ft rock, the shallow
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — gives a grade, count or average size for any
+  - `What's there`: zone guide missing
+  - `How it fishes`: gap — a tide, slack or light window for the Channel
 - **locations/cherry-banks.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1967,6 +1991,12 @@ _Totals: 2322 flagged gaps, 349 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/chester-s-rock.md**
+  - `Getting there`: gap — a port, launch, fuel stop, heading, run time
+  - `Structure & bathymetry`: gap — bottom composition, relief, the shape of the
+  - `What's there`: gap — names this rock for any other species. The zone's dorado, yellowfin, halibut, sheephead and rockfish records all attach to other Cedros-complex grounds ([zone page](cedros-island.md#whats-there)) |
+  - `What's there`: gap — a month-by-month picture, a temperature band,
+  - `How it fishes`: gap — a tide, moon or current window for this rock,
 - **locations/china-point.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
