@@ -282,10 +282,7 @@ thumb-controlled, cranked at whatever cadence keeps the kick correct.
 
 - **Class:** [jig-stick class](../tackle/gear-classes.md) — 9–10 ft,
   medium-heavy, soft-enough tip to cast a heavy iron but with backbone; a
-  10 ft stick throws the biggest irons farthest. Cameron's Torium and
-  Trinidad-40 setups fill this role.
-  ⚠ misplaced-content: the Cameron-inventory sentence is profile data in a
-  universal note — queued for `profiles/cameron/rods.md`.
+  10 ft stick throws the biggest irons farthest.
 - **Length and material:** "An **8-ft jig stick is a yo-yo rod** — it's not a
   jig stick. **9-ft is okay. 10-ft is better**" (`yn1suHH6b1Y`). On glass:
   **S-glass does what E-glass does at ~20% less weight** — "when you're on a

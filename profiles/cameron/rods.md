@@ -43,7 +43,10 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - **Rod:** Phenix Abyss PSX1009J / PSX-C 1009 (**10'0", 25–60 lb, moderate/fast**,
   deckhand cord-wrapped handle, clamp-on reel).
 - **Reel:** Shimano Torium 20HG. **Braid: 50 lb.**
-- **Role:** full [surface iron](../../techniques/surface-iron.md) setup.
+- **Role:** full [surface iron](../../techniques/surface-iron.md) setup — his
+  primary [jig-stick class](../../tackle/gear-classes.md) rod; the Trinidad 40
+  (setup 1) is the secondary fill for that class, though it casts large surface
+  irons poorly.
 
 ## 6. Talica 25 setup
 - **Rod:** Phenix Axis HAX-C 800X3H (**8'0", 3X-H, 60–130 lb, rail-rod class**),
