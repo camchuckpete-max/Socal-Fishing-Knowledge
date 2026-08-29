@@ -224,7 +224,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-bait-tank-time-saver.md | light | done | asr-uncertain(product names: double-8 octopus trailer; Gulp swimming mullets/grub series) | v2 transform verified, one dropped cross-reference restored to evidence file |
 | tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md | light | done | none | transform verified: plain-statement rewrite, evidence split, contested-doctrine decision frame added, check-note.py clean |
 | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md | light | done | none | clean v2 transform, all specs/provenance conserved to evidence file, transcript-verified |
-| tackle/tackle-express-bates-edc-100-reel.md | light | transformed | none | transform verified, one hedge-smoothing fix applied |
+| tackle/tackle-express-bates-edc-100-reel.md | light | done | none | transform verified, one hedge-smoothing fix applied |
 | tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md | light | transformed | asr-uncertain(hook top-size 40 or 5, grommet final-lock action cut off mid-sentence) | transform applied, check-note.py clean, evidence split conserved all facts |
 | tackle/tackle-express-casting-reel-for-seabass-yellowtail.md | light | done |  | light transform verified: style/cites/structure only, full conservation, check-note OK |
 | tackle/tackle-express-cedros-four-rod-quiver.md | light | transformed | asr-uncertain(Daiwa Lexa 500 model number, resolved via cross-check with QEmxUIGmKbo) | transform applied: attribution preamble split to new evidence file, plain-statement cites added, table wording normalized, check-note.py and link-maintenance.py both clean |
