@@ -295,3 +295,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T15:29:07Z — species/wahoo-live-bait.md — guard-violation
 - run: 33259853768
 - reason: commit 09847021912e0070906b98b6d01caca7ac61ea70 reverted: out of scope for 'review: species/wahoo-live-bait.md': species/wahoo.md
+
+## 2026-08-29T16:27:44Z — techniques/sliding-sinker.md — guard-violation
+- run: 33262433629
+- reason: commit 30f06e12e1f0a19af39b7a27828d8d8e8e36df02 reverted: unparseable review commit subject: 'review: relocate techniques/sliding-sinker.md → NEW: species/white-seabass-sliding-sinker.md'
