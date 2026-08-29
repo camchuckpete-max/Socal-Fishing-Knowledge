@@ -64,7 +64,7 @@ water is recorded on [Mexican waters](mexican-waters.md) and
 [the zone page](cedros-island.md). The zone's **100% catch-and-release**
 agreement for [calico bass](../species/calico-bass.md), grouper (cabrilla) and
 black seabass is an **operator agreement adopted by the fishing companies at
-Cedros**, not a federal or state rule; recorded on or before 2023-05-24, and
+Cedros**, not a federal or state rule; recorded on or before 2023-03-26, and
 whether it is applied at the San Benitos is not stated in the corpus. **Verify
 current status with your operator before fishing**
 ([regulatory claims](../sources/regulatory-claims.md)). ⚠ Flagged gap — no
@@ -157,7 +157,9 @@ trip's closing recap split it three ways: a **mint** surface iron for fish up in
 the column, a **scrambled egg** pattern for fish down deep, and a **half-oz
 sliding sinker with a nose-hooked sardine** for suspended fish (`ilINTeknKB4`;
 [surface iron colour](../techniques/surface-iron-color.md),
-[sliding sinker](../techniques/sliding-sinker.md)).
+[sliding sinker](../techniques/sliding-sinker.md)). An earlier session at the
+island ran a live sardine on a **1 oz** sliding sinker beside the surface iron
+on a drift (`97clKtVsEOs`) — the sinker weight recorded here is not fixed.
 
 **One crew called a repeat noon window at the same spot.** On the third morning a
 crew member expected the bite around noon "like they did the other day… yeah,

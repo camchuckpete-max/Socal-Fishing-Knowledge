@@ -343,3 +343,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T21:24:42Z — locations/ridge-uncle-sam-bank.md — verify-escalate
 - run: 33275312057
 - reason: ridge name-collision: species/evidence/wahoo.md treats the Magdalena-area 'the ridge' as the same ground while the new page keeps them apart under unverifiable; plus stale flagged-stub prose on baja-pacific-south.md + alijos-rocks.md and the zone-vs-spot ladder rung
+
+## 2026-08-29T21:43:26Z — locations/san-benito-island.md — verify-escalate
+- run: 33275312057
+- reason: locations/cedros-island.md still stamps the Cedros catch-and-release operator agreement 'on or before 2023-05-24' where sources/regulatory-claims.md reframed it to on-or-before 2023-03-26 (ZBRSB4iwtbU); zone page out of scope for this unit
