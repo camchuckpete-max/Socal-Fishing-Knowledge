@@ -43,7 +43,8 @@ in **Linked from** below.
   and off the jerkbait bite:** late morning to lunch (~9–10 am on), when fish
   have dropped off the shallow jerkbait structure to **60–80 ft**; heavier
   still at midday (~11 am–3 pm) when the bigger fish push to **80–150 ft**
-  (`EmZO8QiOfik`). Execution detail below.
+  (`EmZO8QiOfik`). Execution:
+  [cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md).
 
 ## Mechanics
 
@@ -92,19 +93,9 @@ splash, and wind it as a swim retrieve, or cast, splash, let it hit bottom, and
 fish it like a yo-yo jig (`HQC-NwW4018`); see also
 [dart jig — daytime finesse tuna](dart-jig-tuna.md) for its usual application.
 
-**Baja, Sea of Cortez — cabrilla runs a cast-and-burn, not a bottom hop.** Cast
-out, let the iron hit bottom, then burn it straight back to the boat — not a
-hop-along-the-bottom rockfish retrieve. In the deeper midday zone (80–150 ft),
-burn it ~30–40 cranks off the bottom, then let it settle back to bottom and
-repeat, rather than winding all the way up; bites usually come within 5–10
-cranks of picking the iron back up off bottom. Iron picks: Salas 6X, Salas 6X
-Jr., a 60 g jig para, or a Krocodile for the 60–80 ft late-morning zone; step
-up to a Salas 6X, Tady 40, or a 7X-class iron for the 80–150 ft midday zone
-(`EmZO8QiOfik`).
-⚠ misplaced-content: this is deep per-species cabrilla execution sitting in a
-technique note — queued for spin-out to `species/cabrilla-yo-yo-iron.md`
-(`sources/relocation-queue.md`; the same content is already queued from
-`species/cabrilla.md`).
+**Baja, Sea of Cortez — cabrilla runs a cast-and-burn, not a bottom hop**, on
+its own cadence count, bite window and depth-keyed iron picks: see
+[cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md).
 
 ## Cadence variants
 
