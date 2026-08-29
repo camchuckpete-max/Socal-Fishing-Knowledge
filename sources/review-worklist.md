@@ -412,7 +412,7 @@ by their builders after the transform phase drains.
 | locations/carlsbad-ar.md | gazetteer | done |  | mechanical: AR complex, 12 waypoints |
 | locations/181-182-289.md | gazetteer | skipped |  | skipped: composite alias, not a spot — the 181, 182 and 289 are already published pages in three different zones (no single resolvable parent); the below-Clemente search-box claim is already carried by zone-lexicon.md, socal-bight.md and the four member zone pages |
 | locations/anacapa-island.md | gazetteer | transformed | gaps(9), stubs(5), zone-guide-stub(1), 4 gap-flags-rewritten, 4 sources-added | gazetteer built; false-negative gap flags corrected against 5 previously-missed transcript mentions; Anacapa-scoped wind + bluefin material added |
-| locations/bird-rock-two-harbors.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/bird-rock-two-harbors.md | gazetteer | skipped | skipped(duplicate-alias); worklist row locations/bird-rock.md is the same alias and should skip identically | skipped: duplicate alias of locations/bird-rock-reef.md (already built, parent catalina-island-front-side.md); sole harvest cite zUFbCIWZZMw already carried in catalina-island-front-side.md + evidence |
 | locations/catalina-island.md | gazetteer | pending |  | harvest: 5 mention(s) |
 | locations/catalina-west-end.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/cedros-gono-islands-kelp-bed.md | gazetteer | pending |  | harvest: 1 mention(s) |
