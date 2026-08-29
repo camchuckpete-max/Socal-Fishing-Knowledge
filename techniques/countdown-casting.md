@@ -67,7 +67,7 @@ swim a long stretch." Two applications (`RUuPNpK0x-s`):
   an "umbrella" on the meter in summer. Fish showing at 15 ft over a bottom
   that takes a 20-count to reach get a **16-count** before engaging the reel,
   so the retrieve swims back up through the school instead of passing under
-  it.
+  it (`RUuPNpK0x-s`).
 - **Avoiding snags anywhere depth is known:** at an island stop, read the
   bottom depth off the sounder (e.g., 30 ft), establish the matching count
   (e.g., a 5-count), and start winding just before that count is up —
