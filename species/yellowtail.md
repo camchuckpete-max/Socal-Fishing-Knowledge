@@ -512,6 +512,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowtail — dropper loop](yellowtail-dropper-loop.md)
+- [Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md)
 - [Yellowtail — surface iron](yellowtail-surface-iron.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

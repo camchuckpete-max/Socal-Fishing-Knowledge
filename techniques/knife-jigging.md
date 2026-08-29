@@ -96,10 +96,10 @@ in **Linked from**.
   wind-up, lift the rod tip **while winding a full turn of the handle at the
   same time** — a timing/coordination skill and upper-body endurance, not
   just a fast wind (`Ul5FLB2dFgQ`). Worked plainly as **pump up, wind down**,
-  paced faster than slow-pitch but not frantic (`M8hOYQ_6rSg`). If fish are
-  bumping the jig without a solid hookup at the working pace, **speed up
-  rather than slow down** — yellowtail specifically respond better to more
-  speed (`M8hOYQ_6rSg`).
+  paced faster than slow-pitch but not frantic (`M8hOYQ_6rSg`). The
+  yellowtail-specific version of the bump-without-hookup response — speed the
+  jig up rather than slowing it down — is in
+  [yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md).
 - **Species and daytime warmth both set the pace.** Pelagics that never stop
   swimming — tuna, dorado, wahoo — generally want the jig moved faster,
   matching the reaction-bite framing above. Daytime warmth can override that
@@ -423,15 +423,13 @@ transmit the rip that makes this presentation work.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender
   profiles.
 
-**Yellowtail-specific sizing and a secondhand starter rig are queued for a
-species-technique spin-out** (pending, `species/yellowtail-knife-jigging.md`):
-a Sea of Cortez sizing range that starts around 150 g and works up to about
-350 g — heavier becomes a lot of work for little added benefit — paired with
-the speed-up-not-slow-down bite response logged above (`M8hOYQ_6rSg`); and a
-separate, explicitly secondhand SoCal starter build pairing a Phoenix
-Megalodon 607 (rated 200–300 g) with a Shimano Trinidad 20A and 25–40 yd of
-40–60 lb mono top shot tied straight to the jig, no fluoro leader
-(`LTCFjqtSI8g`).
+The yellowtail program is now its own page: the Sea of Cortez sizing range
+(start ~150 g, work up to ~350 g, heavier becomes a lot of work), the
+speed-up-not-slow-down bite response, and a secondhand SoCal starter build
+(Phoenix Megalodon 607, Shimano Trinidad 20A, a short mono top shot straight to
+the jig) live in
+[yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
+(`M8hOYQ_6rSg`, `LTCFjqtSI8g`).
 
 A separate night deep-drop rig for bluefin marked to ~400 ft (a wired-through
 weighted jig body, not a slender knife profile) and a speed/fast-pitch
@@ -469,6 +467,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 <!-- species-applications:start -->
 ## Species applications
 
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -489,6 +488,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](evidence/knife-jigging.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](evidence/slow-pitch-jigging.md)
+- [Evidence — Yellowtail — knife / speed jigging](../species/evidence/yellowtail-knife-jigging.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
@@ -509,4 +509,5 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 <!-- backlinks:end -->

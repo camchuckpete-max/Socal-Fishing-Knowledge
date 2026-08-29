@@ -380,6 +380,7 @@ Trip reports and per-source provenance: [evidence file](evidence/slow-pitch-jigg
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Rockfish & Lingcod](../species/evidence/rockfish-lingcod.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](evidence/slow-pitch-jigging.md)
+- [Evidence — Yellowtail — knife / speed jigging](../species/evidence/yellowtail-knife-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife / Speed Jigging](knife-jigging.md)
@@ -398,4 +399,5 @@ Trip reports and per-source provenance: [evidence file](evidence/slow-pitch-jigg
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 <!-- backlinks:end -->

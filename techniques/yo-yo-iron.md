@@ -365,5 +365,6 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- backlinks:end -->

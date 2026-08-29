@@ -851,6 +851,7 @@ ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 - [Evidence — Rod & Reel Selection — by Application](evidence/rod-and-reel-selection.md)
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](evidence/searcher-four-outfit-guadalupe-quiver.md)
 - [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](evidence/searcher-three-outfit-minimum-quiver.md)
+- [Evidence — Yellowtail — knife / speed jigging](../species/evidence/yellowtail-knife-jigging.md)
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
@@ -889,5 +890,6 @@ ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

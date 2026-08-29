@@ -47,6 +47,7 @@
 - [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md) — Per-source provenance backing yellowfin tuna — trolling.
 - [Evidence — Yellowfin Tuna](yellowfin-tuna.md) — Per-source provenance backing yellowfin tuna.
 - [Evidence — Yellowtail — dropper loop](yellowtail-dropper-loop.md) — Per-source provenance backing yellowtail — dropper loop.
+- [Evidence — Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md) — Per-source provenance backing yellowtail — knife / speed jigging.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -55,5 +56,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 45 notes exceed the 30-node cap._
+_Map skipped: 46 notes exceed the 30-node cap._
 <!-- mermaid:end -->

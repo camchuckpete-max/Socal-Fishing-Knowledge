@@ -57,10 +57,11 @@ Per-source provenance backing [knife/speed jigging](../knife-jigging.md).
   mechanics (armpit/spool fingers/thumb-on-lever) with the 5–6 second vs.
   ~half-second reaction-time comparison; the free-spool-and-redrop-on-a-miss
   rule (~8/10 rebite rate, 15–60 lb working grade).
-- `M8hOYQ_6rSg`: pump-up/wind-down phrasing, faster-than-slow-pitch pace,
-  and the speed-up-not-slow-down bite response for yellowtail (Cesar, via
-  Dirty Hookers, 2025-05-20; registered voice, single mention — medium
-  confidence).
+- `M8hOYQ_6rSg`: pump-up/wind-down phrasing and the faster-than-slow-pitch
+  pace (Cesar, via Dirty Hookers, 2025-05-20; registered voice, single
+  mention — medium confidence). The yellowtail bump-without-hookup response
+  moved with the species program to [yellowtail — knife / speed jigging
+  evidence](../../species/evidence/yellowtail-knife-jigging.md).
 - `Et2TUskzCSs`: the daytime-warmth-can-override-species-speed rule ("as
   slow as you want, don't stop") — also tied by the source to Gulf of Mexico
   yellowfin as an out-of-region, general-mechanism-only corroboration, not
@@ -244,17 +245,9 @@ Per-source provenance backing [knife/speed jigging](../knife-jigging.md).
   for the night bite on a two-day trip, 100 lb fish-class tackle — a gear
   combo corroborating, not adding new figures beyond, the night-class ranges
   above.
-- `LTCFjqtSI8g` (Ray Sharifi, Dirty Hookers, 2023-03-29; `ray-sharifi`
-  registered, SoCal-capped — medium confidence; the source states plainly
-  that speed/vertical jigging is new to him that year and he is relaying
-  what he's been told by others, not his own tested doctrine — kept as a
-  tentative starting point, not established practice): Phoenix Megalodon
-  607 (rated by jig weight, 200–300 g) paired with a Shimano Trinidad 20A,
-  25–40 yd of 40–60 lb monofilament top shot straight to the jig, no fluoro
-  leader; jig on the rod at filming a Daiwa SK, 200 g. Demonstrated for
-  yellowtail; the source frames speed/vertical/slow-pitch jigging generally
-  as effective for "tuna or yellowtail" but does not tie this specific build
-  to tuna.
+- Provenance for the `LTCFjqtSI8g` secondhand yellowtail starter build moved
+  with it to [yellowtail — knife / speed jigging
+  evidence](../../species/evidence/yellowtail-knife-jigging.md).
 - `scmPq63lLWM` (Capt. Dave Hansen, Your Saltwater Guide, 2021-05-18;
   dave-hansen registered voice — medium confidence, product-adjacent video):
   the low-visibility flat-fall bite data point (night or 250–350 ft down)
@@ -264,5 +257,7 @@ Per-source provenance backing [knife/speed jigging](../knife-jigging.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Yellowtail — knife / speed jigging](../../species/evidence/yellowtail-knife-jigging.md)
 - [Knife / Speed Jigging](../knife-jigging.md)
+- [Yellowtail — knife / speed jigging](../../species/yellowtail-knife-jigging.md)
 <!-- backlinks:end -->

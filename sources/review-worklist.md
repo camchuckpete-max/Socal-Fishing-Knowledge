@@ -891,4 +891,5 @@ by their builders after the transform phase drains.
 | species/yellowfin-tuna-flyline.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 | species/yellowfin-tuna-trolling.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 | species/yellowtail-dropper-loop.md | standard | pending |  | created by relocation from techniques/dropper-loop.md |
+| species/yellowtail-knife-jigging.md | standard | pending |  | created by relocation from techniques/knife-jigging.md |
 <!-- review:worklist:end -->

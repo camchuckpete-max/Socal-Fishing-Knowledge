@@ -447,4 +447,5 @@ file](evidence/knife-jigs.md).
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 <!-- backlinks:end -->
