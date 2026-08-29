@@ -3,45 +3,43 @@ type: tackle
 tags: [reels, shimano, nasci-fc, sedona, x-ship, propulsion-line-system, core-protect, hagane-gear, silent-drive, g-free-body, tackle-express]
 sources: [YyW4-8FRjn8]
 confidence: low
+layout: v2
 ---
 
 # Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)
 
-Tackle Express, "Shimano Nasci FC: The Budget-Friendly Reel That Delivers!,"
-`YyW4-8FRjn8`, uploaded 2025-01-27 — a 90-second, presenter-unnamed
-straight product-feature rundown for one reel. No model size, gear ratio, drag
-figure, line capacity, price, or species/application is stated in this clip.
-Per the confidence rubric ("low — sponsored or promotional claim, regardless
-of channel"), this note is capped at **low** in full, on top of
-`tackle-express` being an unregistered channel — the same cap as the sibling
-feature-rundown notes below.
+The Nasci FC is pitched as a step up from Shimano's Sedona: it carries the
+Sedona's Hagane gear, Silent Drive, and G-Free Body (named but not explained
+here — see [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle
+Express)](tackle-express-shimano-sedona-reel-features.md) for the companion
+clip that explains them), then adds three features said to set it apart:
+X-Ship, a Propulsion Line [Management] System, and Core Protect
+(`YyW4-8FRjn8`). The source is a 90-second product-feature rundown that
+states no model size, gear ratio, drag figure, line capacity, price, or
+species/application. Per the confidence rubric ("low — sponsored or
+promotional claim, regardless of channel"), this note is capped at **low**
+in full, on top of `tackle-express` being an unregistered channel — the same
+cap as the sibling feature-rundown notes below.
 
 ## What's claimed
 
-The clip frames the Nasci FC as a step up from Shimano's **Sedona**: it
-shares the Sedona's **Hagane gear**, **Silent Drive**, and **G-Free Body**
-(named but not explained here — see [Shimano Sedona — Hagane Gear, G-Free
-Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
-for the companion clip that explains them), then adds features said to set
-it apart:
-
-- **X-Ship.** Claimed **improved gear durability on the pinion/shaft**,
-  reducing tension and friction in the drivetrain under load. Stated effect:
-  the reel turns easier when fighting a fish — you don't get a sluggish feel
-  or lose inches-per-turn cranking power under load.
+- **X-Ship.** Claimed improved gear durability on the pinion/shaft, reducing
+  tension and friction in the drivetrain under load. Stated effect: the reel
+  turns easier when fighting a fish — no sluggish feel and no lost
+  inches-per-turn cranking power under load (`YyW4-8FRjn8`).
 - **Propulsion Line [Management] System.** A different cut/profile on the
   spool lip itself. Stated purpose, in order: improved cast stability and
-  less line-management trouble (fewer tangles — the clip is explicit tangles
-  still happen, just less often), which in turn gives a farther cast, more
-  time with the bait in the water, and greater distance covered — pitched as
-  increasing the odds of hooking fish, not a mechanism claim about the fish
-  themselves.
-- **Core Protect.** Seals the inside of the reel body, stated to prevent/
-  minimize water penetration into the reel.
+  less line-management trouble (fewer tangles — tangles still happen, just
+  less often), which in turn gives a farther cast, more time with the bait in
+  the water, and greater distance covered — pitched as increasing the odds of
+  hooking fish, not a mechanism claim about the fish themselves
+  (`YyW4-8FRjn8`).
+- **Core Protect.** Seals the inside of the reel body, stated to prevent or
+  minimize water penetration into the reel (`YyW4-8FRjn8`).
 
-No further detail (how X-Ship differs mechanically from Hagane gear, what the
-Propulsion spool cut looks like, or a sizing/price comparison against the
-Sedona) is given in this clip.
+No further detail is given: how X-Ship differs mechanically from Hagane gear,
+what the Propulsion spool cut looks like, and a sizing/price comparison
+against the Sedona are all absent from the source (`YyW4-8FRjn8`).
 
 ## Related
 
