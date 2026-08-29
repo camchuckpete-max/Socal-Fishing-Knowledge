@@ -242,3 +242,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T07:45:20Z — species/bluefin-tuna.md -> profiles/cameron/tackle.md — verify-escalate
 - run: 33240630796
 - reason: executed with the removal-plus-evidence-pointer workaround before Cameron ruled on the guard-protected profiles/ question; Cameron must confirm that workaround IS the ruling. Note the helium-balloon-assist item now lives only in species/evidence/bluefin-tuna.md and in no profile — if profiles/ is later unprotected it still needs landing in profiles/cameron/
+
+## 2026-08-29T07:52:23Z — techniques/slow-pitch-jigging.md — guard-violation
+- run: 33240630796
+- reason: commit 18e90db927a833ce4a02734fbebc81544c8909f5 reverted: protected path touched: profiles/cameron/rods.md
