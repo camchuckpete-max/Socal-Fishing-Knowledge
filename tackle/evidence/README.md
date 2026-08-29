@@ -50,11 +50,12 @@
 - [Evidence — Daiwa Luvias ST (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Per-source provenance for Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal.
 - [Evidence — Daiwa Saltiga (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Per-source provenance for Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag.
 - [Evidence — Daiwa Saltist SD (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md) — Per-source provenance for Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body.
+- [Evidence — Fast Tip for a Finicky Biter (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md) — Per-source provenance for Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 46 notes exceed the 30-node cap._
+_Map skipped: 47 notes exceed the 30-node cap._
 <!-- mermaid:end -->

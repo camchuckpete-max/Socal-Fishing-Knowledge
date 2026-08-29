@@ -3,31 +3,32 @@ type: tackle
 tags: [rods, rod-action, bite-detection, drift-fishing, light-tackle, tackle-express]
 sources: [iBdz2SfeA1g]
 confidence: medium
+layout: v2
 ---
 
 # Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)
 
-Tackle Express, "Is your rod costing you fish? 🎣," `iBdz2SfeA1g`, uploaded
-2026-04-27 — a 31-second tackle-counter clip (presenter unnamed on camera;
-`tackle-express` is an **unregistered** channel, single mention — **medium**
-confidence).
+A 6'8" rod rated for 5–10 lb test line — stiff, with a fast tip — is the build
+for dragging and drifting light bait (`iBdz2SfeA1g`). The fast tip's job is
+reading a finicky biter: a fish that only taps the bait instead of yanking
+it, a hit a softer tip would absorb before it ever reached the angler's hand
+(`iBdz2SfeA1g`).
 
 ## The build
 
-A **6'8" rod, rated for 5–10 lb test line** — a **stiff rod with a fast tip**.
-Stated as delivering "a lot of sensitivity." The presenter's own application
-for this build is **dragging baits and drifting baits**, where the rod still
-needs **backbone through the center of the blank** for that work, with the
-fast tip layered on top of it.
+- 6'8", rated for 5–10 lb test line: a stiff rod with a fast tip, delivering
+  "a lot of sensitivity" (`iBdz2SfeA1g`).
+- Built for dragging and drifting light bait; the blank still needs backbone
+  through the center of the blank for that work, with the fast tip layered
+  on top of it (`iBdz2SfeA1g`).
 
-## Why the fast tip matters — mechanism
+## Why the fast tip matters
 
-**The fast tip's job is reading a finicky biter.** Not every fish yanks the
-bait — some only tap it — and a fast tip is what lets the angler feel that
-tap. Stated directly: *"you can't be using a rod with a really whippy tip...
-you're going to miss a lot of those strikes."* A softer/whippier tip absorbs
-the light tap before it reaches the angler's hand, so the strike goes
-unfelt and unmet.
+Not every fish yanks the bait — some only tap it — and the fast tip is what
+lets the angler feel that tap: "you can't be using a rod with a really
+whippy tip... you're going to miss a lot of those strikes" (`iBdz2SfeA1g`).
+A softer, whippier tip absorbs the light tap before it reaches the angler's
+hand, so the strike goes unfelt and unmet.
 
 ## Related
 
@@ -42,8 +43,14 @@ unfelt and unmet.
   about *why* a fast-tip action is the right pick for this application, not
   how to test for it.
 
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-fast-tip-for-finicky-bite-drag-drift.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Fast Tip for a Finicky Biter (Tackle Express)](evidence/tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->
