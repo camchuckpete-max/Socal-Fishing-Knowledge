@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
+_Totals: 2279 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
 
 ## species/
 
@@ -124,6 +124,8 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Landing & handling`: gap — how long lobster hold alive out of water,
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/dorado-kelp-paddy.md**
+  - `Rigs & gear`: gap — how much fluorocarbon a day of between-fish
 - **species/dorado.md**
   - `Presence & forage`: gap — what drives the year-to-year swing in
   - `Spawning`: gap — dorado spawning timing, location, or its effect
@@ -138,6 +140,9 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — California (CDFW) size and bag limits for
   - infobox `scientific_name`: unknown
+- **species/lingcod-jigging.md**
+  - `Rigs & gear`: gap — weight, colour or rigging
+  - `Rigs & gear`: gap — whether the big-profile lingcod program
 - **species/ocean-whitefish.md**
   - `Presence & forage`: gap — what ocean whitefish eat naturally.
   - `Spawning`: gap — when, where or how ocean whitefish spawn,
@@ -194,6 +199,10 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Regulations`: gap — any Mexican bag limit,
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/sand-bass-alabama-rig.md**
+  - `Rigs & gear`: gap — for barred sand bass specifically, no source
+- **species/sand-bass-sliding-sinker.md**
+  - `How barred sand bass changes the execution`: gap — bite handling on this rig for sand bass — no
 - **species/sand-bass.md**
   - `Presence & forage`: gap — what barred sand bass eat naturally — no
   - `Spawning`: gap — spawning depth, the temperature or moon
@@ -205,6 +214,11 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Regulations`: gap — the California bag limit for barred sand
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/sheephead-sliding-sinker.md**
+  - `How California sheephead changes the execution`: gap — bite handling on this rig for sheephead. No
+- **species/sheephead-tube-bait-fishing.md**
+  - `How California sheephead changes the execution`: gap — any sheephead-specific retrieve cadence,
+  - `Rigs & gear`: gap — rod length or rating, line class, leader
 - **species/sheephead.md**
   - `Presence & forage`: gap — any forage other than red crab, what
   - `Spawning`: gap — when, where or how California sheephead
@@ -245,6 +259,7 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Spawning`: gap — when, where or how snook spawn, or what
   - `Feeding triggers`: gap — any light-window, moon-phase or
   - `Finding them (sign & sonar)`: gap — a sonar signature or arc depth for snook in
+  - `Situations → techniques`: gap — no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md) |
   - `Situations → techniques`: flagged stub row
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — any Mexican (CONAPESCA) bag limit, size
@@ -254,6 +269,10 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - infobox `season_peak`: unknown
   - infobox `sst_band_f`: unknown
   - infobox `sonar_depth`: unknown
+- **species/spotted-bay-bass-bottom-jig-crawl.md**
+  - `Rigs & gear`: gap — jighead weights and hook sizes for this
+- **species/spotted-bay-bass-structure-pitching.md**
+  - `How spotted bay bass changes the execution`: gap — the pitch itself for this fishery — no source
 - **species/spotted-bay-bass.md**
   - `Presence & forage`: gap — named forage species. No source describes
   - `Spawning`: gap — the spawn months, any temperature or moon
@@ -263,6 +282,8 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — the California bag limit for spotted bay
   - infobox `scientific_name`: unknown
+- **species/striped-marlin-trolling.md**
+  - `How striped marlin changes the execution`: gap — a troll **speed** for the SoCal marlin
 - **species/striped-marlin.md**
   - `Presence & forage`: gap — a forage species confirmed from a marlin
   - `Spawning`: gap — when, where or how striped marlin spawn
@@ -409,6 +430,10 @@ _Totals: 2265 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 ## lures/
 
+- **lures/bucktail-jigs.md**
+  - `Specs`: gap — |
+  - `Specs`: gap — head weight, hook size, profile, cadence
+  - infobox `weights`: unknown
 - **lures/cedar-plug.md**
   - `Specs`: gap — mechanism (why the
 - **lures/crocodile-spoons.md**
