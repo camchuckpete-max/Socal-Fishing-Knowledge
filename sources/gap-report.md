@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2259 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
+_Totals: 2260 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 ## species/
 
@@ -4169,4 +4169,6 @@ _Totals: 2259 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 - **tackle/offset-hooks.md**
   - `Why anglers like an offset hook`: gap — mechanism (why the offset
+- **tackle/searcher-daytime-dart-jig-outfit-ladder.md**
+  - `Hooks`: gap
 <!-- review:gaps:end -->
