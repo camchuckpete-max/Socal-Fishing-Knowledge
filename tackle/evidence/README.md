@@ -47,11 +47,12 @@
 - [Evidence — Charter Bait-Tank Hook & Leader Kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Per-source provenance for Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank.
 - [Evidence — "Next-Gen" CI4+ Reel Features (Tackle Express)](tackle-express-ci4-plus-reel-features.md) — Per-source provenance for "Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin.
 - [Evidence — Daiwa Coastal TW 200 (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md) — Per-source provenance for Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive.
+- [Evidence — Daiwa Luvias ST (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Per-source provenance for Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 43 notes exceed the 30-node cap._
+_Map skipped: 44 notes exceed the 30-node cap._
 <!-- mermaid:end -->
