@@ -159,6 +159,7 @@ Trip reports and per-source provenance:
 - [The "lower banks"](lower-banks.md)
 - [The Bumps](bumps.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
+- [The Ridge (Magdalena Bay)](the-ridge.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)

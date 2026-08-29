@@ -267,4 +267,5 @@ Trip reports and per-source provenance:
 - [Sea of Cortez](sea-of-cortez.md)
 - [Six Mile Reef](six-mile-reef.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [The Ridge (Magdalena Bay)](the-ridge.md)
 <!-- backlinks:end -->

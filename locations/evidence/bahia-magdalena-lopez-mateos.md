@@ -212,4 +212,5 @@ local guide Reuben.
 ## Linked from
 
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../bahia-magdalena-lopez-mateos.md)
+- [The Ridge (Magdalena Bay)](../the-ridge.md)
 <!-- backlinks:end -->

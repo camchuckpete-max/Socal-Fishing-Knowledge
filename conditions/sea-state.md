@@ -265,6 +265,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Water Regimes](water-regimes.md)
 <!-- backlinks:end -->

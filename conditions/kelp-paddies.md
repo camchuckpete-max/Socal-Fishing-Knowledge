@@ -231,6 +231,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [The 43](../locations/43.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
+- [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)

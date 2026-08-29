@@ -282,7 +282,7 @@ logged in [the spot harvest](../sources/spot-harvest.md) for the gazetteer
 rather than written up as pages here.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [The Ridge (Magdalena Bay)](the-ridge.md)
 <!-- children:end -->
 
 ## Evidence
@@ -301,6 +301,7 @@ Trip reports and per-source provenance:
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [The "lower banks"](lower-banks.md)
+- [The Ridge (Magdalena Bay)](the-ridge.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->
