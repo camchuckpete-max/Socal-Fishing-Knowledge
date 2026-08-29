@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2341 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
+_Totals: 2346 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -2494,6 +2494,12 @@ _Totals: 2341 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/geronimo-island.md**
+  - `Getting there`: gap — a port, launch, heading, run time, distance
+  - `Structure & bathymetry`: gap — soundings, bottom composition, relief, kelp
+  - `What's there`: gap — names this island for any other species. The zone's dorado, yellowfin, halibut, sheephead and rockfish records all attach to other Cedros-complex grounds ([zone page](cedros-island.md#whats-there)) |
+  - `What's there`: gap — a month-by-month picture, a temperature band,
+  - `How it fishes`: gap — a tide, moon or current window for this
 - **locations/golf-ball.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
