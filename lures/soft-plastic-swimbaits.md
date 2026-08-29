@@ -654,6 +654,7 @@ baits and heads from the class terms above; see
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)

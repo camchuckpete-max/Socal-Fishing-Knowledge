@@ -374,34 +374,19 @@ which ate a second angler's pitched bait, only for the originally hooked
 leaving a hooked fish in the water longer to draw followers; full account in
 [evidence](evidence/swimbaits.md#multi-bait-rigs) (`tJFSV3AcIdE`).
 
-**Umbrella rig / A-rig — bay bass:** a step up from the two-bait rig above —
-a wire "spider" harness (a Recon Baits-style A-rig) carrying several small
-swim jigs at once. A five-jig anchovy-profile build for [spotted bay
-bass](../species/spotted-bay-bass.md) in Mission Bay, San Diego: bend the
-short arms outward for an even spread while the longer center arm(s) stay
-centered, using a **parabolic (gradual) bend, not a hard/sharp one** that
-point-loads and weakens the wire. **Five hooks** (one per jig) is fine in
-saltwater; a personal **three-hook cap** applies instead in freshwater — no
-jurisdiction or as-of date is given for that freshwater cap, so treat it as a
-stated personal operating rule rather than verified regulation text, and
-verify current CDFW freshwater/saltwater gear rules before relying on it.
-**Tie on with a Palomar** over the whole rig rather than a uni knot — a uni
-knot may slip under a hard pull, and a Palomar won't — see
-[essential knots](../rigging/essential-knots.md#parameters--judgment)
-(`G6YRT4HNxr8`). A second Mission Bay build runs a heavier **1/4 oz VMC** jig
-head on the bottom arm for a keel effect with lighter swim-bait heads on the
-middle/top arms, small spinner blades added for extra flash in stained water
-(skipped in clearer water), **60–80 lb braid to a 40 lb fluorocarbon top
-shot** (stepping to 20 lb fluorocarbon on the dropper), worked on a straight
-grind just above the eelgrass canopy, varying a straight vs. an angled tug to
-change the fall angle and strike trigger, and also fished pitched to
-docks/pilings on a long cast; full account in
-[evidence](evidence/swimbaits.md#multi-bait-rigs) (`6-mi3Qxn37c`).
-
-⚠ misplaced-content: the bay-bass A-rig program above (hardware, hook-count
-rule, knot, and the second build's retrieve/fall-angle detail) is deep
-per-species execution sitting in a general technique note — queued for a
-spotted-bay-bass × swimbait sub-article, `sources/relocation-queue.md`.
+**Umbrella rig / A-rig — bay bass:** a further step up from the two-bait rig
+above — a wire "spider" harness carrying five small swim jigs at once — is now
+its own page. The Mission Bay build and program for [spotted bay
+bass](../species/spotted-bay-bass.md): the parabolic outward arm bend, the
+five-hook saltwater count against a personal three-hook freshwater cap, the
+Palomar tied over the whole rig, the 1/4 oz keel head on the bottom arm, the
+clarity-tuned spinner blades, the 60–80 lb braid / 40 lb fluoro / 20 lb dropper
+line spec, and the straight-grind-above-the-eelgrass retrieve with its
+straight-vs-angled fall trigger all live in [spotted bay bass — umbrella rig
+(A-rig)](../species/spotted-bay-bass-swimbaits.md) (`G6YRT4HNxr8`,
+`6-mi3Qxn37c`). The barred sand bass presentation on the same harness — sink it,
+then cruise the baits back up the column — is in [barred sand bass — Alabama
+rig](../species/sand-bass-alabama-rig.md).
 
 ## Targeting a boiler bite
 
@@ -459,6 +444,7 @@ swimbaits](../lures/soft-plastic-swimbaits.md).
 
 - [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -497,6 +483,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

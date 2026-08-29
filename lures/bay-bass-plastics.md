@@ -296,5 +296,6 @@ file](evidence/bay-bass-plastics.md).
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 - [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 <!-- backlinks:end -->

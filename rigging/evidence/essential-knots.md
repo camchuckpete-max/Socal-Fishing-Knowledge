@@ -154,4 +154,5 @@ Per-source provenance backing [Essential SoCal Knots](../essential-knots.md).
 ## Linked from
 
 - [Essential SoCal Knots](../essential-knots.md)
+- [Evidence — Spotted Bay Bass — umbrella rig (A-rig)](../../species/evidence/spotted-bay-bass-swimbaits.md)
 <!-- backlinks:end -->

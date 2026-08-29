@@ -1,8 +1,8 @@
 ---
 type: evidence
 parent: ../swimbaits.md
-tags: [swimbaits, calico, sand-bass, spotted-bay-bass, kelp]
-sources: [ZoIzpyyS9xw, _r_qKX_7080, L3tkGVu516A, iQLyBzhOSi8, IATPg9110CE, PKf7G3uL4io, P6Slg6RQiXw, tJFSV3AcIdE, 6-mi3Qxn37c]
+tags: [swimbaits, calico, sand-bass, kelp]
+sources: [ZoIzpyyS9xw, _r_qKX_7080, L3tkGVu516A, iQLyBzhOSi8, IATPg9110CE, PKf7G3uL4io, P6Slg6RQiXw, tJFSV3AcIdE]
 confidence: medium
 ---
 
@@ -129,32 +129,10 @@ Per-source provenance backing [swimbaits](../swimbaits.md).
   then spit the hook and the smaller follower was landed instead, narrated on
   camera as a "50/50 decision": leaving a hooked fish in the water longer to
   draw more followers risks losing it before it's netted.
-- `6-mi3Qxn37c` (StokedOnFishing, 2019-05-04, Mission Bay; second presenter,
-  fishing an Alabama-rig-style A-rig, unattributed by name — multi-speaker,
-  no diarization; unregistered channel — medium confidence): ran a
-  quarter-ounce VMC jig head (heard as "boxer heads") on the bottom arm, with
-  lighter swim-bait heads (heard as "SBJ," brand `asr-uncertain` — heard as
-  "BMC") on the middle and top arms; the heavier bottom head puts weight low
-  and creates a keel effect so the rig runs straight without spinning. Added
-  small spinner blades (a "Flashmob Jr"-style harness) for extra flash —
-  lighter wire gives more blade action, skipped in clearer water. Counted
-  five hooks total (four arms + one center), matching the Castro build's
-  five-hook count. Line: 60–80 lb braid to a 40 lb fluorocarbon top shot
-  fished mainly for abrasion resistance (would fish straight braid
-  otherwise), tied with a 3–4 turn San Diego jam knot rather than Castro's
-  Palomar — a variant tie, not a conflict; separately stepped down to 20 lb
-  fluorocarbon on the rig's dropper/leader material, noting some anglers fish
-  as light as 6 lb test for spotties around pilings. Reel: an Okuma Komodo
-  200 ("SS" stainless-steel version), 7.3:1 gear ratio, 20 lb max drag —
-  valued the fast ratio for taking up slack fast when a bass hits from behind
-  and for pitching to dock pilings. Rod: an Okuma EBX ("Akuma EBX" in the ASR
-  — corrected per the known Okuma corruption), marketed as a "big plug
-  cranking / A-rig rod." Presentation: worked on a straight grind just above
-  the eelgrass canopy to keep it in the strike zone; described varying the
-  fall — a straight tug sinks the rig straight down, an angled tug (rod tip
-  lifted then dropped) sinks it back down on an angle — as one of several
-  ways to change the strike trigger. Said the rig also works pitched to
-  docks/pilings on a long cast, not just over open eelgrass.
+The bay-bass umbrella-rig / A-rig builds that sat here — the Mission Bay
+five-jig harness and its keel-head, blade, line and fall-angle detail — moved
+with their doctrine to
+[evidence — spotted bay bass, umbrella rig (A-rig)](../../species/evidence/spotted-bay-bass-swimbaits.md).
 
 <!-- backlinks:start -->
 ## Linked from

@@ -271,6 +271,7 @@ Per-source provenance: [evidence file](evidence/essential-knots.md).
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Evidence — Essential SoCal Knots](evidence/essential-knots.md)
+- [Evidence — Spotted Bay Bass — umbrella rig (A-rig)](../species/evidence/spotted-bay-bass-swimbaits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
@@ -288,9 +289,9 @@ Per-source provenance: [evidence file](evidence/essential-knots.md).
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 - [Springer Knot — Heavy-Line Hook Tie](springer-knot.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
-- [Swimbaits](../techniques/swimbaits.md)
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md)
 <!-- backlinks:end -->

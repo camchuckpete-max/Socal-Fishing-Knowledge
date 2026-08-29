@@ -140,5 +140,6 @@ bay bass source provenance:
 
 - [Evidence — Spotted Bay Bass — structure pitching](evidence/spotted-bay-bass-structure-pitching.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](spotted-bay-bass-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

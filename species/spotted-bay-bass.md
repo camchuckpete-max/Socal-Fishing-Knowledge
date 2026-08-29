@@ -375,5 +375,6 @@ Trip reports and per-source provenance:
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](spotted-bay-bass-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

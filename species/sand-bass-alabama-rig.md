@@ -137,5 +137,6 @@ provenance: [sand bass evidence](evidence/sand-bass.md).
 
 - [Barred Sand Bass](sand-bass.md)
 - [Evidence — Barred Sand Bass — Alabama rig](evidence/sand-bass-alabama-rig.md)
+- [Spotted Bay Bass — umbrella rig (A-rig)](spotted-bay-bass-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->
