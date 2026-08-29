@@ -889,4 +889,5 @@ by their builders after the transform phase drains.
 | species/white-seabass-dropper-loop.md | standard | pending |  | created by relocation from species/white-seabass.md |
 | species/white-seabass-leadhead-squid.md | standard | pending |  | created by relocation from species/white-seabass.md |
 | species/yellowfin-tuna-flyline.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
+| species/yellowfin-tuna-trolling.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 <!-- review:worklist:end -->

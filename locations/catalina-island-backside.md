@@ -243,4 +243,5 @@ Trip reports and per-source provenance:
 - [Southern California Bight](socal-bight.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [Whale Rock](whale-rock.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

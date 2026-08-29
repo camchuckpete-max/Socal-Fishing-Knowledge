@@ -112,4 +112,5 @@ Trip reports and per-source provenance: [evidence file](evidence/mad-mac.md).
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

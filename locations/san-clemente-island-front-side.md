@@ -241,4 +241,5 @@ Trip reports and per-source provenance:
 - [W. Butterfly / 157](w-butterfly-157.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

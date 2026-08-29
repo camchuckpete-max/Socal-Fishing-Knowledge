@@ -101,7 +101,9 @@ and mostly do not surface-swim with it, which is why the school can look empty
 from above (`fK2AT460xW4`); once the pod breaks a baitball up, the yellowfin
 show **on the flanks and out in front** of it instead, with terns working
 50 yd ahead (`ouBrIdO7d4k`). Common dolphin and spotted spinner dolphin are the
-two SoCal pod types that hold them (`fK2AT460xW4`).
+two SoCal pod types that hold them (`fK2AT460xW4`). What that read does to the
+troll — which water the lure works, and the approach that gets it there — is in
+[yellowfin — trolling](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution).
 
 **Forage: small anchovies, and flying fish where they occur.** Yellowfin feed
 on the same "little tiny anchovies" bluefin bust on, which is what the small
@@ -175,8 +177,8 @@ silent.
 | **School reacting to chum but not eating the hook bait (picky)** | Scale down leader and hook, then the **bait-net trick** — ladder, mechanism and climb-back in [yellowfin — flyline](yellowfin-tuna-flyline.md) | Light **flyline class** | Competing leader/hook figures for this same situation are kept side by side there, with the decision frame |
 | **Surface feeders / foamers**, fish crashing bait or flying fish | [Foamer casting](../techniques/foamer-casting.md) — poppers (Chug Norris 150 class), stickbaits, small lead baits | **Jig-stick class** | Matches sardine/anchovy; a topwater stickbait cast into visible activity was eaten on the second cast (`BQ2U1PqxWi8`). A surface yellowfin bite fires the bluefin (`CMQkHQMxbXM`) |
 | **Skipjack blanketing the surface over yellowfin holding below them** | A **fast-sinking 1 oz swimbait** worked quickly through the skipjack layer, instead of live bait | Bass casting / swimbait class | Live bait gets intercepted by the skipjack before it reaches the yellowfin (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) and [skipjack tuna](skipjack-tuna.md). ⚠ promotional seminar source, low confidence |
-| **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt**; on the jig strike, stop and convert with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling is a *search* tool as much as a catch method. ⚠ Flagged gap — no corpus source: yellowfin troll spread geometry — the corpus gives *speeds*, never setback distances or lure positions in the pattern [b] |
-| **Dolphin/porpoise pod sighted, fish not showing** | Troll a deep-diving hardbait and a [cedar plug](../lures/cedar-plug.md) around the pod, or a small finesse trolling lure at **7–9 mph**; stay outside the pod and get in front of it — never drive through | Light **troll class** | Busting through the pod splits it and it dodges the lure (`ouBrIdO7d4k`); a ~60 lb fish came on the deep diver off San Clemente (`H-vIGWPIPVc`), and a slow-trolled cedar plug turned an Ensenada pod into a full foamer (`0bcDBGzQnGw`) — see [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling) |
+| **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt**; on the strike, stop and convert with [flylined bait](../techniques/flyline.md) or casted lures — full programme in [yellowfin — trolling](yellowfin-tuna-trolling.md) | Light **troll class** | Trolling is a *search* tool as much as a catch method; the sub-article holds the speeds, the spread positions and the stop-and-convert rule [b] |
+| **Dolphin/porpoise pod sighted, fish not showing** | Troll a deep-diving hardbait and a [cedar plug](../lures/cedar-plug.md) around the pod, or a small finesse trolling lure at **7–9 mph**; stay outside the pod and get in front of it — never drive through — full programme in [yellowfin — trolling](yellowfin-tuna-trolling.md) | Light **troll class** | The approach geometry and its failure mode, the pod lure build, and the read of where the fish sit relative to a travelling vs a feeding pod are all on the sub-article (`ouBrIdO7d4k`, `H-vIGWPIPVc`, `0bcDBGzQnGw`) |
 | **Schooling under a traveling dolphin/porpoise pod, suspended, not showing at the surface** | Nose-hooked live bait on the [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen) — **drop, don't cast**, off the stern as the boat closes at ~6–7 kt | **Flyline class**, weighted (4 oz inline torpedo sinker, 60 lb braid/leader, 50 lb fluoro) | Common dolphin and spotted spinner dolphin are the two SoCal pod types that hold suspended yellowfin (`fK2AT460xW4`) |
 | **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice — [yellowfin — flyline](yellowfin-tuna-flyline.md) | Flyline / **troll class** | Boat-in-gear setup, bait setback, clicker tension and the free-spool count are on the sub-article; general method in [slow-trolling live bait](../techniques/slow-trolling-bait.md) |
 | **Slow-trolling big live bait, Baja** | Large live **scad mackerel** slow-trolled; run a **flat-fall jig** on a ripping retrieve vertically off the side at the same time | **30–40 lb class** / flat-fall class | Strikes on the big baits described as "vicious"; the flat-fall took a 15–20 lb-class fish in the same drift (`BQ2U1PqxWi8`) — see [flat-fall jigging](../techniques/flat-fall-jigging.md) |
@@ -185,9 +187,12 @@ silent.
 | **Night, or fish sounded below casting range** | ⚠ Flagged stub — no corpus source yet: no yellowfin-specific night programme is documented, though the same boats run one for bluefin — see [bluefin tuna](bluefin-tuna.md#situations--techniques) | — | Corpus records yellowfin biting "into the dark" on live squid (`tU4jhAkdzNw`) but gives no rig, depth or light doctrine for it |
 | **Big grade located, calm water, kite conditions** | ⚠ Flagged stub — no corpus source yet: [kite fishing](../techniques/kite-fishing.md) is documented in this KB for bluefin only, never for yellowfin | — | Named here so its absence reads as a corpus gap, not as "not a method" |
 
-[b] Yellowfin troll speed is ~6–6.5 kt for cedar plugs and feathers, and
-7–9 mph for the small finesse lure worked around a dolphin pod (`ouBrIdO7d4k`);
-no source gives a spread layout for either.
+[b] Speeds, spread positions and the pod approach are in
+[yellowfin — trolling](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution):
+~6–6.5 kt for cedar plugs and feathers (cameron), 7–9 mph for the small finesse
+lure worked around a dolphin pod (`ouBrIdO7d4k`), and one short / one long on a
+60 lb class off Cedros (`YUdbrIm9vrE`). No source gives a setback distance for
+any of them.
 
 ## Gear summary (class terms)
 
@@ -202,7 +207,9 @@ no source gives a spread layout for either.
   baits in the 120–150 mm range; a light popper for 10–20 lb fish.
 - **Troll:** light **troll class**;
   [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md) and
-  [cedar plugs](../lures/cedar-plug.md) at ~6–6.5 kt.
+  [cedar plugs](../lures/cedar-plug.md) at ~6–6.5 kt. The pod lure build, the
+  line classes and the second speed band are in
+  [yellowfin — trolling](yellowfin-tuna-trolling.md#rigs--gear).
 - **Baja big grade:** a **50–60 lb two-speed** outfit fly-lining a sardine for
   100 lb-class Alijos Rocks fish (`uWGGeDOprsE`), and a **50–60 lb top shot over
   80 lb braid** on a 30–60 to 40–100 rated rod for Guadalupe (`ETw_3AFxEcM`) —
@@ -363,6 +370,7 @@ Trip reports and per-source provenance:
 - [Evidence — Striped Marlin](evidence/striped-marlin.md)
 - [Evidence — Wahoo](evidence/wahoo.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
+- [Evidence — Yellowfin Tuna — trolling](evidence/yellowfin-tuna-trolling.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -416,4 +424,5 @@ Trip reports and per-source provenance:
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
+- [Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

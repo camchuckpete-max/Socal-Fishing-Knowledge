@@ -328,4 +328,5 @@ Trip reports and per-source provenance: [evidence file](evidence/chunking.md).
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

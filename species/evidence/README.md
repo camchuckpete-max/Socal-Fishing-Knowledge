@@ -44,6 +44,7 @@
 - [Evidence — White Seabass — lead head and squid](white-seabass-leadhead-squid.md) — Per-source provenance backing white seabass — lead head and squid.
 - [Evidence — White Seabass](white-seabass.md) — Per-source provenance backing white seabass.
 - [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md) — Per-source provenance backing yellowfin tuna — flyline.
+- [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md) — Per-source provenance backing yellowfin tuna — trolling.
 - [Evidence — Yellowfin Tuna](yellowfin-tuna.md) — Per-source provenance backing yellowfin tuna.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
@@ -53,5 +54,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 43 notes exceed the 30-node cap._
+_Map skipped: 44 notes exceed the 30-node cap._
 <!-- mermaid:end -->

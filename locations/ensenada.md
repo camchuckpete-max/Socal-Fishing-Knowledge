@@ -299,4 +299,5 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

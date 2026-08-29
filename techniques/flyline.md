@@ -881,5 +881,6 @@ confidence.
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

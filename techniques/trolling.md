@@ -1082,6 +1082,7 @@ covered above, not a new tool.
 - [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)
 - [Evidence — Tuna Feathers and Skirts](../lures/evidence/tuna-feathers-and-skirts.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
+- [Evidence — Yellowfin Tuna — trolling](../species/evidence/yellowfin-tuna-trolling.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
@@ -1114,5 +1115,6 @@ covered above, not a new tool.
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

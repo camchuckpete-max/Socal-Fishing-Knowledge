@@ -151,4 +151,5 @@ file](evidence/tuna-feathers-and-skirts.md).
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

@@ -193,4 +193,5 @@ Trip reports and per-source provenance:
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->

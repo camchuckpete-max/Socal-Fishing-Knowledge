@@ -328,6 +328,7 @@ file](evidence/gear-classes.md).
 - [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
+- [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

@@ -124,8 +124,9 @@ regardless.
   the pod — "they're not always right on them, they're out on the flanks, out
   in front of them," with terns working 50 yd ahead of the pod. Approach detail
   (7–9 mph, stay outside the pod, never drive through it, small double-hook
-  tungsten-head trolling lure on 60–80 lb) is carried in
-  [trolling](../../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling).
+  tungsten-head trolling lure on 60–80 lb) moved with the sub-article and is
+  logged in
+  [yellowfin — trolling evidence](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution).
 - `Fq4aRI3YrKE` (StokedOnFishing, "Stoked on Long-Range Fishing, part 2,"
   2015-01-18, Baja "lower banks"): a large bait ball sitting directly under the
   boat, with fish blowing up all around on the surface, was the crew's stated
@@ -172,12 +173,12 @@ regardless.
   with the pod, which is why the school can look empty from above while holding
   fish. `dave-hansen` registered, single mention of this claim.
 - `H-vIGWPIPVc` (StokedOnFishing — presenter Shay, "Yellowfin Tuna vs Bonita,"
-  2019-10-30, San Clemente Island): spotted a large dolphin school offshore of
-  the island and ran up to troll around it with a deep-diving hardbait
-  (Nomad-class, sardine colour) and a
-  [cedar plug](../../lures/cedar-plug.md); the deep diver got bit and the boat
-  landed a yellowfin of about 60 lb — the troll-to-locate pattern triggered by a
-  dolphin school rather than a paddy or bird sign. Unregistered channel.
+  2019-10-30, San Clemente Island): a large dolphin school spotted offshore of
+  the island was the sign the crew ran at — the troll-to-locate pattern
+  triggered by a dolphin school rather than by a paddy or bird sign. The lure
+  pair and the ~60 lb result moved with the sub-article and are logged in
+  [yellowfin — trolling evidence](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution).
+  Unregistered channel.
 - `3T4c3Zez_DM` (StokedOnFishing, "Top Gun 80 Epic 5 Day, part 2," 2017-05-09,
   offshore San Clemente Island, 5-day charter): after the morning bluefin bite
   eased the boat ran offshore, and working birds plus surface boils marked a
@@ -218,9 +219,11 @@ regardless.
   plugs around a large dolphin school led to the school breaking into a full
   foamer; the crew stopped and converted with flylined sardine plus chunk, and a
   striped marlin was seen at the same stop. Species of the eventual
-  hookup/gaffed fish is not confirmed on camera. Full search-pattern and
-  conversion detail in
-  [trolling — Ensenada dolphin-school entry](../../techniques/trolling.md#ensenada-baja--dolphin-school-troll-and-foamer-conversion).
+  hookup/gaffed fish is not confirmed on camera. The troll and conversion detail
+  moved with the sub-article and is logged in
+  [yellowfin — trolling evidence](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution);
+  the day's offshore temp-break search pattern stays in
+  [trolling](../../techniques/trolling.md#ensenada-baja--offshore-temp-break-search-and-cal-pal-yellowtail-stop).
   Unregistered channel.
 - `BQ2U1PqxWi8` (StokedOnFishing — presenter Shay, 2020-04-01, East Cape, Sea of
   Cortez, Baja California Sur, Hotel Buena Vista Beach Resort "fifth annual
@@ -268,9 +271,10 @@ regardless.
   bite came fast and multiple once it turned on — a double hookup struck just
   behind the stern, and a separate stretch put three fish in the well within
   about 10 seconds ("I didn't even have 10 seconds to even get the camera on").
-  Spread and lure detail (Rapala-class trolled hardbaits, colour-matched
-  doubles, a 60 lb line class) is in
-  [trolling — Cedros Island offshore troll](../../techniques/trolling.md).
+  Spread and lure detail (Rapala-class trolled hardbaits run one short and one
+  long, colour-matched for doubles, on a 60 lb line class) moved with the
+  sub-article and is logged in
+  [yellowfin — trolling evidence](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution).
   Unregistered channel.
 
 ## Zone material
@@ -442,6 +446,8 @@ matching flagged stubs.
 
 - [Evidence — Rubber-Band Deep Rig](../../rigging/evidence/rubber-band-deep-rig.md)
 - [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
+- [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md)
 - [Yellowfin Tuna](../yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../yellowfin-tuna-flyline.md)
+- [Yellowfin Tuna — trolling](../yellowfin-tuna-trolling.md)
 <!-- backlinks:end -->
