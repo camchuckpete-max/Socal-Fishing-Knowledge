@@ -20,9 +20,9 @@ fished at yellowtail on two planes and searched with on a third: a
 sink-retrieve-refall-retrieve down deep when they are not, and a **3–4 mph
 troll** of the same bait purely to find them. What changes against
 [tube-bait fishing](../techniques/tube-bait-fishing.md) in general is the
-retrieve itself — the general note's other applications are a drift-bounce and
-a sink-and-wait, this one is a worked bait — plus a size call that runs
-opposite to the bass program's big-bait filter. Both sources are HookUp Baits'
+cadence — the general note's other applications are a drift-bounce, sink counts
+and a straight fast burn, where this one is a rod-popped retrieve — plus a size
+call that runs opposite to the bass program's big-bait filter. Both sources are HookUp Baits'
 own principals presenting their own product at trade shows, so every
 performance claim on this page stays **low confidence**.
 
@@ -132,24 +132,27 @@ Against [tube-bait fishing](../techniques/tube-bait-fishing.md), which owns the
 rod and line ladder, the slack-line sink read, the double-bait dropper rig, the
 party-boat drift bounce and the tuna casts:
 
-- **The bait is worked, not carried.** The general note's other applications
-  present the bait passively — the drifting party-boat cast bounces down-current
-  and the tuna casts are sink counts (a 20–30 ft paddy sink, a 50 count into a
-  boil). The yellowtail program is an active retrieve on both planes: a
-  crank-and-pop on top and a half-speed half-yo-yo down (`0HwYl0HO2tc`,
-  `5Oh3IPIC5g4`).
+- **The rod works the bait.** The general note's other presentations are
+  current- or sink-driven — the drifting party-boat cast bounces down-current,
+  the tuna casts are sink counts (a 20–30 ft paddy sink, a 50 count into a
+  boil) — and where it does retrieve actively, it is a straight fast burn to
+  punch a 1 oz bullet through a skipjack layer. The yellowtail program is a
+  popped cadence on both planes: crank-and-pop on top and a half-speed
+  half-yo-yo down (`0HwYl0HO2tc`, `5Oh3IPIC5g4`).
 - **Downsizing is the fix, where the general note sizes up.** The general note
   runs 3–4 oz deliberately as a size filter — "big bait, big fish," which
-  screens out sub-3 lb bass and roughly doubles average grade. Here a 1–1.5 oz
+  largely stops bass under about 3 lb biting and produces roughly double the
+  average size of nearby anglers throwing smaller baits. Here a 1–1.5 oz
   standard is dropped to 5/8 oz to convert follows into eats: the size lever is
   being pulled to *get bit at all*, not to upgrade the grade (`5Oh3IPIC5g4`).
 - **Trolling is a yellowtail-only mode for this bait.** No other application on
   the general note trolls it; the 3–4 mph locating speed and its
   keep-the-other-rod-in-hand workflow exist because the fish must be found
   before it can be cast to (`5Oh3IPIC5g4`).
-- **The rig is deliberately single.** Every other structure application on the
-  general note can run the two-bait dropper; yellowtail is the one it is
-  explicitly withheld from (`5Oh3IPIC5g4`).
+- **The rig is deliberately single.** The general note's bass and rockfish
+  structure programs run the two-bait dropper; yellowtail is one of the
+  pairings its scope statement withholds it from — alongside tuna, and white
+  seabass, for which it is not used either (`5Oh3IPIC5g4`).
 - **NOT a delta: the sink read and the rod/line ladder.** "Don't blink on the
   sink," the yellow-braid slack read and the parabolic-rod/line-class pairing
   apply here unchanged — they are keyed to the bait's weight and to how a tube
