@@ -17,10 +17,11 @@ conditions_window: yellowtail metered clumped tight and inactive on hard bottom 
 **One species, one technique.** The dropper loop is the yellowtail program for
 fish that are *there and not eating*: a live mackerel pinned a set distance
 above a **16 oz torpedo sinker** on the bottom, dropped onto a ball of fish the
-meter shows clumped tight to structure. Everything about the SoCal build is
-sized to one problem — a fish that will run 30 ft straight back into the rocks
-the moment it is hooked — which is why the loop is short, the leader is mono,
-the reel stays in gear, and the sinker is tied to break away. The loop knot,
+meter shows clumped tight to structure. The SoCal build is sized to fishing
+bait on rock — mono leader because the fight is against structure rather than a
+line-shy bite, the reel left in gear so a hooked fish cannot wrap the line
+before you come tight, and a breakaway overhand knot above the sinker so a
+bottom snag costs only the lead. The loop knot,
 the multi-species sinker ladder and the rig's other targets are in
 [dropper loop](../techniques/dropper-loop.md); this page is what changes
 because the fish is a yellowtail.
