@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass, white-seabass, dropper-loop, drift-boat]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM, hjZ3hgq0Bzg]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM, hjZ3hgq0Bzg, 0KQ--N5TjqE]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -253,11 +253,28 @@ whether it actually saved the fish it was tried on (`L3tkGVu516A`).
 - **Whoever is at the wheel positions the boat** to keep the caster on the
   productive edge; the natural drift is usually in toward the beach, so swing
   the bow out to feed the angler the **outside leading-edge stringers**
-  (`YIABTTYXeqc`, `n6PTy8g3pb0`).
+  (`YIABTTYXeqc`, `n6PTy8g3pb0`). The **bow is the best seat** and the angler
+  there gets the short pinpoint casts to the outside stringers, while the
+  driver at the console bomb-casts between corrections — *"whoever's at the
+  wheel of the boat catches all the fish,"* because without the boat being
+  jogged around the bow angler could not hold a position that produces bites
+  (`YIABTTYXeqc`).
 - **Cover water:** fish a bed **20 to 25 casts** if you're getting bites, only
   **10 or 12 casts** if you're not, then move. Locating biting fish is a
   numbers game across many beds; slow down and pick apart only where you get
   bites or see followers (`YIABTTYXeqc`, `n6PTy8g3pb0`).
+- **A move is short — "maybe driving 100 yards, maybe driving 100 feet" — then
+  a few more casts.** Covering water is the drive-and-cast cycle along the same
+  stretch, not a long run to a new area; bypass water that all looks the same
+  rather than beating it up (`0KQ--N5TjqE`).
+- **Grade a bed off the prime edge:** put the first few casts on the leading /
+  outside edge, and if nothing comes *"they're probably not going to be
+  anywhere in the bed"* — five fruitless casts is enough to leave. This is what
+  the 10–12-cast floor above is buying (`YIABTTYXeqc`).
+- **Beds re-bite, so come back.** Once you have fished through the biting
+  stringers, go work somewhere else for a few minutes and run the same stretch
+  again — a bed will often bite several times in a session, including re-running
+  a zone the drift has carried you off (`YIABTTYXeqc`, `0KQ--N5TjqE`).
 - Color matters little — a **green-top / gold-bottom** ("hot koch") is a
   confidence pattern that works cloudy or sunny, warm or cold. Fish what you
   believe in (`YIABTTYXeqc`, `n6PTy8g3pb0`).

@@ -232,14 +232,11 @@ hook retention to rod action.
 progression — see [Doctrine & conflicts](#doctrine--conflicts) for what the
 choice turns on.
 
-**Covering water is the method:** 10–25 casts to the prime edge of a bed, then
-move — 100 ft or 100 yards to the next patch of stringers. If they're not on
-the prime spot they're usually not in the bed. Beds re-bite, so come back later
-(`YIABTTYXeqc`). Boat positioning wins — the console jogs the boat so the bow
-angler can present the outside stringers.
-⚠ misplaced-content: cast counts and boat-position mechanics are execution, and
-[swimbaits](../techniques/swimbaits.md) already owns them under "Boat work —
-covering water"; the router should keep the routing decision only.
+**Covering water is the method** — a bed is graded by a handful of casts to the
+prime edge and then you move on. Cast counts, move distances, the re-bite, and
+the boat-positioning mechanics are in
+[swimbaits — boat work](../techniques/swimbaits.md#boat-work--covering-water)
+(`YIABTTYXeqc`, `0KQ--N5TjqE`).
 
 ## Gear summary (class terms)
 
