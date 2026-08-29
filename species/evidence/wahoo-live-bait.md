@@ -36,13 +36,16 @@ it. See the [wahoo evidence](wahoo.md) confidence note.
   because the wahoo ate half the bait, leaving a chunk with the hook still in
   it; back to free spool and count to about 15, and "you'd be amazed how many
   times" the chunk is still on the hook when you wind in. Reactive trigger,
-  where `jqyu3wZdNF4` is proactive. The same tip carries the bait-selection and
-  change-baits-regularly discipline for this program.
+  where `jqyu3wZdNF4` is proactive. The same tip sends the angler to the tank to
+  pick a live sardine and gives three hooking positions (nose, shoulder, belly);
+  the change-baits-regularly discipline comes from `4uNPLknRAQg`, not from here.
 - `4uNPLknRAQg` (SearcherSportfishing, "Tackle Talk Live Recap (Wahoo 5.5.20),"
   2020-05-06, San Diego long-range): the same eat-half mechanism framed as
   learned "through decades of fishing," with the fix at free spool and 10–15
-  seconds; the trigger is stated as the bait having gone dead after the bite
-  rather than a failed hookset. Chronologically between the other two. The same
+  seconds; the trigger as stated on camera is the same failed hookset as
+  `vNIazq1aVwc` — "you put the reel in gear and there's no fish on the end of it
+  taking line" — so this account corroborates the reactive trigger rather than
+  adding a third one. Chronologically between the other two. The same
   session gives the sardine bait-selection time at the tank, and hooks sharpened
   out of the package because the jaw is bony.
 - `9IhmYstB8sA` (SearcherSportfishing, "Tackle Tip Thursday Vol. 74 (Wahoo

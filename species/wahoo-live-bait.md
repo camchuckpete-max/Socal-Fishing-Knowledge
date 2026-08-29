@@ -39,8 +39,11 @@ covers water and gets the boat stopped, and the cast bomb is what works the
 stop (`4uNPLknRAQg`); the bait goes out when there are fish under or beside the
 boat to feed it to.
 
-**Wire goes on before the bait does.** No presentation for this fish runs
-without it — the teeth cut mono regardless of test (`G81HN0dIDg0`).
+**Wire goes on before the bait does.** Flylining without it still draws bites,
+but landing the fish that way is called rare — the teeth cut through and take
+the hook and bait with them (`4uNPLknRAQg`). Wire is the standing
+recommendation on every wahoo presentation, with fluorocarbon named as some
+anglers' substitute rather than an equal option (`G81HN0dIDg0`).
 
 ## How wahoo changes the execution
 
@@ -50,9 +53,8 @@ The behaviour itself sits in
 [wahoo — feeding triggers](wahoo.md#feeding-triggers); everything below is the
 response to it.
 
-**Don't swing — wind through the bite.** The reaction to a wahoo picking up a
-flylined sardine is to keep winding until the rod loads, not to set on it
-(`9IhmYstB8sA`).
+**Don't swing — wind through the bite.** On the bite, put the reel in gear and
+keep winding through it rather than swinging on the fish (`9IhmYstB8sA`).
 
 **Free spool and count 10–15 on a half-eaten bait; what is contested is which
 moment triggers it.** All three accounts agree the wahoo bites a live bait in
@@ -63,17 +65,20 @@ The trigger differs: free-spool immediately on the initial hit, before engaging
 the reel at all, because putting it in gear right after the hit ends the bite
 outright (`jqyu3wZdNF4`); or free-spool reactively, after you set on the bite
 and come up with nothing but a chunk still on the hook (`vNIazq1aVwc`); the
-intermediate account frames the trigger as the bait having gone dead after the
-bite rather than a failed hookset (`4uNPLknRAQg`). **Decision frame:** the
-choice turns on whether you set the hook at all — an angler who sets gets the
+third account, chronologically between the other two, gives that same reactive
+trigger — reel into gear after the bite, nothing there taking line, back to
+free spool — so the reactive side is the corroborated one (`4uNPLknRAQg`).
+**Decision frame:** the choice turns on whether you set the hook at all — an
+angler who sets gets the
 reactive version, an angler who does not gets the proactive one. It also sits
 against the wind-through-the-bite instruction above (`9IhmYstB8sA`); all four
 agree on not reacting aggressively to the strike, and the order they are
 written in here is not a ranking.
 
 **Bait selection, then change baits regularly.** Sardine is the named live
-bait; spend the extra time at the tank picking one, and change baits regularly
-rather than fishing one out (`4uNPLknRAQg`, `vNIazq1aVwc`).
+bait, picked rather than grabbed — spend the extra time at the tank
+(`4uNPLknRAQg`, `vNIazq1aVwc`) — and change baits regularly rather than fishing
+one out (`4uNPLknRAQg`).
 
 **Sharpen the hook out of the package.** A wahoo's jaw is bony, and live-bait
 hooks come dull enough to cost hookups (`4uNPLknRAQg`).
@@ -99,31 +104,37 @@ hooks come dull enough to cost hookups (`4uNPLknRAQg`).
   ⚠ Fact-check (contradicted-internal): three wire tests for one application
   from one channel.
 - **Hook size arrives attached to the wire test,** not to the bait: 1/0–2/0 on
-  the 60 lb build, 3/0 on the 44 lb build (`S80GRyuAbLY`, `G81HN0dIDg0`). The
-  200–300 lb build names no hook size (`9IhmYstB8sA`).
-- ⚠ Flagged gap — no corpus source: a hook *style* (J versus circle) for the
-  wahoo live bait, a bait size to match the hook to, or a stated leader length
-  for the 200–300 lb build.
+  the 60 lb build, 3/0 on the 44 lb build (`S80GRyuAbLY`, `G81HN0dIDg0`), 3/0
+  on the seven-strand crimped build (`jqyu3wZdNF4`). The 200–300 lb build names
+  no hook size (`9IhmYstB8sA`).
+- **The one build that names a style runs a J hook** (`jqyu3wZdNF4`); another
+  names only an inexpensive Mustad live-bait hook (`vNIazq1aVwc`). No source
+  puts a circle hook on a flylined wahoo bait.
+- ⚠ Flagged gap — no corpus source: a bait size to match the hook to, or a
+  stated leader length for the 200–300 lb build.
 
 ## Differs from the general method
 
 Against [flyline](../techniques/flyline.md), which owns the unweighted
 presentation, hook position and bait keeping:
 
-- **The terminal is wire, not fluorocarbon.** Every build on the general note
-  ends in fluorocarbon tied straight to the hook; here it is single- or
-  multi-strand wire through small connector rings, because a wahoo's teeth cut
-  mono regardless of test (`9IhmYstB8sA`, `G81HN0dIDg0`).
-- **The response to the bite is a wind, not a lift or a circle-hook soak.** The
-  general note's live-bait bites are answered by keeping tension and letting
-  the hook find the corner of the mouth; the wahoo instruction is explicit —
-  do not swing, wind through it (`9IhmYstB8sA`).
-- **A bait that goes dead can be a bite rather than a bait to replace.** The
-  general note's rule is to wind in a bait that stops swimming and put a fresh
-  one on; on wahoo, a bait that dies right after a hit is read as a half-eaten
-  bait, and the response is free spool for 10–15 seconds before anything is
-  wound (`4uNPLknRAQg`). The change-baits-often discipline still applies
-  between bites (`vNIazq1aVwc`).
+- **The terminal is wire, not fluorocarbon.** The general note's builds run
+  mono or fluorocarbon to the hook, with the fluoro section sometimes called
+  optional; here the hook end is single- or multi-strand wire through small
+  connector rings, because a wahoo bites through anything softer and takes the
+  hook with it (`9IhmYstB8sA`, `G81HN0dIDg0`).
+- **The bite gets an explicit manual response.** The general note answers a
+  bite with a correctly set drag and, on most of its rigs, a circle hook that
+  finds the corner of the mouth on its own; the wahoo instruction is a stated
+  sequence on a J-style hook — reel into gear, do not swing, wind through the
+  bite (`9IhmYstB8sA`, `jqyu3wZdNF4`).
+- **A bitten bait stays out instead of coming in.** The general note counts
+  leaving a dead or lethargic bait out past its ~60-second window among its
+  common failures; on wahoo, a bait just bitten in half is deliberately left
+  out — reel back into free spool for **10–15 seconds** and fish the chunk,
+  because the fish circles back for the other half (`4uNPLknRAQg`,
+  `vNIazq1aVwc`). The change-baits-often discipline still applies between
+  bites (`4uNPLknRAQg`).
 - **Hook size follows the leader build, not the bait in your hand.** The
   general note sizes the hook to the sardine; both wahoo builds that give a
   hook size pin it to the wire test they are built on — 1/0–2/0 on 60 lb, 3/0

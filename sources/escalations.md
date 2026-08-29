@@ -275,3 +275,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T12:45:49Z — species/sand-bass.md -> species/sand-bass-alabama-rig.md — verify-escalate
 - run: 33253040396
 - reason: commit-note.py set_relocation_status keys on src alone and takes the first match, so any src with 2+ queue rows mis-stamps; ~13 rows across 6 multi-row srcs still queued; key on src+dst
+
+## 2026-08-29T13:07:44Z — species/wahoo.md -> species/wahoo-live-bait.md — verify-escalate
+- run: 33253040396
+- reason: the 4uNPLknRAQg free-spool trigger was mis-characterized upstream as 'bait gone dead'; transcript gives the same failed-hookset trigger as vNIazq1aVwc, turning a three-way split into proactive vs twice-corroborated reactive — Cameron should confirm the reframing; nothing reconciled, decision frame intact

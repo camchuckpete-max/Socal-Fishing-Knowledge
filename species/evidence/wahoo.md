@@ -176,8 +176,8 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
 ## Doctrine & conflicts
 
 - **Live-bait bite handling — moved.** The three eat-half / free-spool entries
-  (`jqyu3wZdNF4` proactive on the hit, `vNIazq1aVwc` reactive after an empty
-  hookset, `4uNPLknRAQg` triggered by the bait going dead) now sit with the
+  (`jqyu3wZdNF4` proactive on the hit, `vNIazq1aVwc` and `4uNPLknRAQg` reactive
+  after an empty hookset) now sit with the
   program they back, in
   [wahoo — live bait evidence](wahoo-live-bait.md#how-wahoo-changes-the-execution).
   The half-bite behaviour they establish is still carried in this note's parent
