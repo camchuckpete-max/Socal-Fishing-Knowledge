@@ -65,11 +65,12 @@
 - [Evidence — Penn's "Pull to Turn" Preset Drag (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md) — Per-source provenance for Penn's "Pull to Turn" Preset Drag — Set It and Forget It.
 - [Evidence — Penn vs. Avet Lever Drag (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md) — Per-source provenance for Penn vs.
 - [Evidence — Phenix Axis Rockfishing Rod (Tackle Express)](tackle-express-phenix-axis-rockfish-rod.md) — Per-source provenance for Phenix Axis — Mid-Tier Rockfishing Rod Spec.
+- [Evidence — Premade P-Line Rock Cod Rig (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Per-source provenance for Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 61 notes exceed the 30-node cap._
+_Map skipped: 62 notes exceed the 30-node cap._
 <!-- mermaid:end -->

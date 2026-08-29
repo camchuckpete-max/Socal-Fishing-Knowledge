@@ -250,7 +250,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-penn-pull-to-turn-preset-drag.md | light | done | none | light-tier v2 transform verified: evidence split, stray tool-output artifact fixed, all claims conserved |
 | tackle/tackle-express-penn-vs-avet-lever-drag.md | light | done | asr-uncertain(usma/USA-made caption) | light-tier v2 transform + evidence split verified, one dropped direct quote restored during verify |
 | tackle/tackle-express-phenix-axis-rockfish-rod.md | light | done | none | transform to v2: spec-block restructure, evidence split, dead-anchor fixes (2 broken section anchors repaired to match live headings), dropped banned self-narration phrase (kept side by side, not reconciled) per style-guide v2.1 while preserving its substance |
-| tackle/tackle-express-premade-rock-cod-rig.md | light | pending |  |  |
+| tackle/tackle-express-premade-rock-cod-rig.md | light | done | none | light-tier v2 transform verified clean: attribution preamble split to evidence file, plain-statement prose, dead dropper-loop anchor fixed, check-note.py and link-maintenance.py both pass, 69→64 lines |
 | tackle/tackle-express-rockfish-leader-line.md | light | pending |  |  |
 | tackle/tackle-express-saltiga-300-round-jigging-reel.md | light | pending |  |  |
 | tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md | light | pending |  |  |
