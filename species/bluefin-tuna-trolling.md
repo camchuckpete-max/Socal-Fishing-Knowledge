@@ -142,15 +142,11 @@ seat. Any top-shot strength can be run, so the strength is picked per lure at
 plan time, and the rod↔lure pairing weighs four factors: **(1)** tow/drag load
 needing a heavy rod (full-size Mad Macs at speed), **(2)** swimmers whose action
 dies on heavy line, **(3)** lures needing a softer rod to absorb the strike,
-**(4)** line-agnostic lures where the rod just matches the target. Spreader bars
-are run in place of conventional bars because there isn't room on the panga for
-conventional bars; 2026 is the first season on them, with Half Fish supplying
-the bar guidance, so bar-specific tuning is experimental rather than settled
-doctrine. The Half Fish internal-line spec and the drag rule live in
-[spreader bar](../lures/spreader-bar.md).
-⚠ misplaced-content: the panga-space reason for choosing spreader bars over
-conventional bars, and the first-season status, are angler/boat constraints
-belonging in `profiles/cameron/trolling-lures.md`.
+**(4)** line-agnostic lures where the rod just matches the target. A spreader
+bar fills the small-presentation slot in that spread, and published bar-tuning
+guidance is thin enough that bar settings are working practice rather than
+settled doctrine (cameron). The Half Fish internal-line spec and the drag rule
+live in [spreader bar](../lures/spreader-bar.md).
 
 ## Differs from the general method
 

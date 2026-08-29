@@ -77,6 +77,12 @@ that doctrine in the parent.
   same-role, different-size data point rather than a correction; unregistered
   channel, asr-uncertain(rod model multiplier — the naming pattern matches the
   150–200 lb heavy-troll class but the spoken digit count does not resolve).
+- (cameron, 2026): runs spreader bars in place of conventional bars because
+  there is no room for conventional bars on his panga, and 2026 is his first
+  season on them, with Half Fish supplying the bar guidance — angler and boat
+  constraints, held in [boat](../../profiles/cameron/boat.md) and
+  [Cameron's trolling lures](../../profiles/cameron/trolling-lures.md); the
+  parent keeps only the bar's role in the spread.
 - (cameron, July 2026): trolls on the Talica 25 and Fathom 80 setups plus
   sometimes the Trinidad 40; the TLD 20 is entering rotation for diver duty
   (Halcos, Husky Magnums) plus skirt and cedar-plug work on school-grade days;

@@ -106,6 +106,7 @@ Owned trolling lures + running specs: [trolling lures](trolling-lures.md).
 - [Cameron's Trolling Lures (owned)](trolling-lures.md)
 - [Electronics and Sounder](../../planning/electronics-and-sounder.md)
 - [ENTRY — SoCal Boat-Day Skill](../../skills/socal-boat-day/ENTRY.md)
+- [Evidence — Bluefin Trolling](../../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Foamer Casting](../../techniques/evidence/foamer-casting.md)
 - [Trolling](../../techniques/trolling.md)
 <!-- backlinks:end -->
