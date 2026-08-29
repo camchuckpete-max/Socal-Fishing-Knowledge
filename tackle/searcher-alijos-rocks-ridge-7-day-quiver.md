@@ -206,7 +206,7 @@ carried into this note beyond this mention (curation bar).
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
-- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

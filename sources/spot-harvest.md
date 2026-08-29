@@ -586,4 +586,6 @@ harvested.
 | Gonzaga Bay (Sea of Cortez, Baja) | tackle/rod-and-reel-selection.md | A second, parallel gear rundown — Gonzaga Bay, Sea of Cortez (Baja) inshore trip | 7–8 ft heavy/extra-heavy rods, 6:1 reels, 65–80 lb spectra inshore casting gear for cabrilla/grouper at rocky points/edges | `A6s-A1NARuA` |
 | San Clemente Island | tackle/rod-and-reel-selection.md | Calico bass grub/weedless casting gear, tournament angler | Okuma Citrix XH rod + 350-size reel casting a soft-plastic grub at kelp/structure edges, 2016 SWBA tournament | `tJFSV3AcIdE` |
 | Bahía de los Ángeles (Bay of LA) | tackle/rod-and-reel-selection.md | Baja, Sea of Cortez gear quiver | vertical speed-jig rod (5.5–6 ft, 150–350 g) cited as a technique gaining popularity with skippers in the Bay of LA | `M8hOYQ_6rSg` |
+| Guadalupe Island | tackle/searcher-6-to-8-day-heavy-outfit.md | Applications | flyline application for large tuna and personal kite-fishing application both fished at Guadalupe Island | `MPC_OQjvO-o` |
+| The Ridge | tackle/searcher-6-to-8-day-heavy-outfit.md | Applications | dropper-loop yellowtail and wahoo-trolling applications both named "the ridge" on camera, no further location detail | `MPC_OQjvO-o` |
 <!-- review:harvest:end -->

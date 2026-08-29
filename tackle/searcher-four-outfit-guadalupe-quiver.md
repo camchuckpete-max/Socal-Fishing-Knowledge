@@ -177,9 +177,10 @@ outfits below.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](evidence/searcher-6-to-8-day-heavy-outfit.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md)
-- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)

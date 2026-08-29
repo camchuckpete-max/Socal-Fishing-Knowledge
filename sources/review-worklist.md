@@ -203,7 +203,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-30lb-large-tuna-outfit.md | light | done | none | transform verified with in-tree conservation fixes (named-attribution drops + a direction-inversion bug) |
 | tackle/searcher-40lb-all-around-tuna-outfit.md | light | done | gaps(1) | transform verified, two conservation gaps fixed (fly-lining hook scope, two-speed-reel causal detail in evidence) |
 | tackle/searcher-50-60-80lb-flyline-outfit.md | light | done | none | transform verified — full conservation of parameters/observations across main note + new evidence file, corpus claims spot-checked against all 3 source transcripts, one v2.1 self-narration phrase fixed in tree |
-| tackle/searcher-6-to-8-day-heavy-outfit.md | light | pending |  |  |
+| tackle/searcher-6-to-8-day-heavy-outfit.md | light | done | spots(2), asr-uncertain(season-window, reel-model-suffix, third-reel-identity) | transform verified clean — v2 layout, evidence split, cites conserved, no loss |
 | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | light | pending |  |  |
 | tackle/searcher-big-tuna-rig-ladder.md | light | pending |  |  |
 | tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md | light | pending |  |  |

@@ -23,6 +23,7 @@
 - [Evidence — Searcher 30 lb Large-Tuna Outfit](searcher-30lb-large-tuna-outfit.md) — Per-source provenance for Searcher 30 lb large-tuna outfit: channel status, registration confidence, upload dates, and the single-trip 95 lb-tuna observation th
 - [Evidence — Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md) — Per-source provenance for Searcher 40 lb all-around tuna outfit: channel status, registration confidence, upload dates, ASR-uncertain reasoning, and the single-
 - [Evidence — Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md) — Per-source provenance for Searcher 50/60/80 lb live-bait flyline outfit: channel status, registration confidence, and the ASR-uncertain caption readings the mai
+- [Evidence — Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md) — Per-source provenance for Searcher 6-to-8-day trip — the fourth (heavy) outfit: channel status, registration confidence, and the ASR-uncertain caption readings
 <!-- index:end -->
 
 
