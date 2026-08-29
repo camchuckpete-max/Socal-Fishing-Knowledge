@@ -353,6 +353,7 @@ Trip reports and per-source provenance:
 - [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)
+- [Isla Carmen — north end](../locations/isla-carmen-north-end.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)

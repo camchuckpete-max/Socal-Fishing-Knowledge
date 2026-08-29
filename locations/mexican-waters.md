@@ -126,6 +126,7 @@ Trip reports and per-source provenance:
 - [Honeymoon Bay](honeymoon-bay.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [Isla Carmen — north end](isla-carmen-north-end.md)
 - [Isla Espíritu Santo](isla-espiritu-santo.md)
 - [La Bocana](la-bocana.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)

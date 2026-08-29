@@ -455,6 +455,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Imperial Beach](../locations/imperial-beach.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Isla Carmen — north end](../locations/isla-carmen-north-end.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Island Structure](../locations/island-structure.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
