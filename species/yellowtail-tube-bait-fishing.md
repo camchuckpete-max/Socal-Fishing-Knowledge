@@ -22,9 +22,7 @@ troll** of the same bait purely to find them. What changes against
 [tube-bait fishing](../techniques/tube-bait-fishing.md) in general is the
 cadence — the general note's other applications are a drift-bounce, sink counts
 and a straight fast burn, where this one is a rod-popped retrieve — plus a size
-call that runs opposite to the bass program's big-bait filter. Both sources are HookUp Baits'
-own principals presenting their own product at trade shows, so every
-performance claim on this page stays **low confidence**.
+call that runs opposite to the bass program's big-bait filter.
 
 ## When this is the call
 

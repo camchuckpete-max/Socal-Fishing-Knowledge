@@ -610,4 +610,6 @@ harvested.
 | San Clemente Island (front side) | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | a deep-diving hardbait paired with a cedar plug trolled around a porpoise school landed a ~60 lb yellowfin | `H-vIGWPIPVc` |
 | Cedros Island | species/yellowfin-tuna-trolling.md | How yellowfin changes the execution | October troll 20-30 mi offshore run one short/one long, with matching purple/purple colour on both credited for simultaneous doubles | `YUdbrIm9vrE` |
 | Lopez Mateos / Magdalena Bay boca | species/snook-sliding-sinker.md | When this is the call | the outside Carolina-rig mark, ~5 min from the dock in 40-50 ft, fished blind for snook over 20 lb mixed with grouper to 100 lb | `EcQK5elTPJE` |
+| Cedros Island | species/yellowtail-tube-bait-fishing.md | How yellowtail changes the execution | half-yo-yo cadence demonstrated on a group trip into a yellowtail push moving through | `0HwYl0HO2tc` |
+| Coronado Islands | species/yellowtail-tube-bait-fishing.md | How yellowtail changes the execution | repeated follows with no takes on the 1-1.5 oz standard bait converted to committed eats on a downsized 5/8 oz bait | `5Oh3IPIC5g4` |
 <!-- review:harvest:end -->
