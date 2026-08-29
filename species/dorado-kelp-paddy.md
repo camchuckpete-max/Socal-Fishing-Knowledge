@@ -132,9 +132,8 @@ doctrine:
   bait cannot swim it convincingly — and caps fly line at 20–25 lb, no more
   than 30, with a short heavy fluoro bite guard as the answer to break-offs.
   The dorado ladder runs the other direction from 40 lb down and stops at
-  ~20 lb because below that you get bit off (`E4vKwRaRueA`). The two are kept
-  side by side, not reconciled: one is a ceiling argued from bait swimming, the
-  other a floor argued from the fish's mouth.
+  ~20 lb because below that you get bit off (`E4vKwRaRueA`): a bait-swimming
+  ceiling on one side, a bite-off floor on the other.
 - **Hook style inverts.** Several builds in the general note run circle hooks
   as the default flyline hook. Dorado is a stated exception, and the reason is
   behavioural — the fish feeds straight ahead into the boat rather than turning
