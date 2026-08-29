@@ -210,7 +210,7 @@ whether the bite shuts down post-spawn.
 | Kelp bed, parallel current, fish tight to individual stringers | **Weedless swimbait** ([swimbaits](../techniques/swimbaits.md)) — short targeted casts to the stringers, fast steady wind, pause on the eat | 7–8 ft graphite-composite [bass class](../tackle/gear-classes.md), 40–60 lb | 7" weedless slug on a 3/8–3/4 oz keel-weighted spring hook; soft glass tip so you don't pull it out of the fish's mouth; heavy fluoro leader for kelp abrasion (`YIABTTYXeqc`) |
 | Kelp/beach edge, need to draw fish from a distance, picky fish | **Open (un-weedless) slug / surface presentation** ([swimbaits](../techniques/swimbaits.md)) — bomb cast, skitter with a 1-2-3 pause | 8–9 ft bass class | The slug calls fish off the stringers; pause after the eat, then set |
 | Bigger cruising fish, current up, want to cover the edge on top | **[Surface iron — for calico](calico-bass-surface-iron.md)** ([general method](../techniques/surface-iron.md)) — grind the kelp line | [jig-stick class](../tackle/gear-classes.md), [iron jigs](../lures/iron-jigs.md) | Covers a whole edge where a weedless cast covers one stringer; retrieve, working depth and colour are in the sub-article [c] |
-| **Shallow reef, birds working, no surface sign** — fish found on the meter rather than on top | **[Surface iron — for calico](calico-bass-surface-iron.md)** worked on the drift | jig-stick class, [iron jigs](../lures/iron-jigs.md) | Reef bottom at **18–20 ft**, wide-open bite with birds overhead marking the fish (`I-QBxuV2p7M`) [c] |
+| **Shallow reef, birds working over the ground** — fish found on the meter rather than showing on top | **[Surface iron — for calico](calico-bass-surface-iron.md)** worked on the drift | jig-stick class, [iron jigs](../lures/iron-jigs.md) | Reef bottom at **18–20 ft**, wide-open bite with birds overhead marking the fish (`I-QBxuV2p7M`) [c] |
 | Sparse kelp lanes, fish not committing to weedless | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** / hard bait / Wax Wing (⚠ Flagged stub — no corpus source yet) through the lanes | 7–10 ft graphite bass / **crank class** | Crank the 80–100 ft lanes; execution, rigging upgrades and depth doctrine in the technique note |
 | Live bait aboard, fish deeper on the edge or in wind | **Flyline** a sardine or mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
@@ -232,8 +232,9 @@ hook retention to rod action.
 [b] The trophy program and the numbers program are alternatives, not a
 progression — see [Doctrine & conflicts](#doctrine--conflicts) for what the
 choice turns on.
-[c] Cadence keyed to current state, the 18–20 ft reef-drift band, the 5.5 in
-beach mini-iron and the recorded colour pair are in
+[c] The 18–20 ft reef-drift band, the 5.5 in beach mini-iron, the recorded
+colour pair and the cadence (which is the general method, not a calico change)
+are in
 [calico bass — surface iron](calico-bass-surface-iron.md#how-calico-bass-changes-the-execution).
 
 **Covering water is the method** — a bed is graded by a handful of casts to the

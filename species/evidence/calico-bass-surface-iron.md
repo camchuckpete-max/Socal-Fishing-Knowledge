@@ -30,9 +30,9 @@ unregistered channel, capped at medium), which is why the page sits at
   again" — the iron program run as a deliberate mid-day filler rather than a
   fallback. Registered voice; on-the-water observation, single trip.
 - `2cxeg_AE418` (Strictly Irons, 2025-01-23, Cedros Island, "Day 2"): the same
-  in-tight calico ground on a later trip — "that's a lot of calico… it's
-  raining calicos out here," with fish visible in numbers around the boat.
-  Registered voice; single session.
+  Cedros calico ground on a later trip, this stop called on camera in 68 ft of
+  water — "that's a lot of calico… it's raining calicos out here," with fish
+  visible in numbers around the boat. Registered voice; single session.
 - `3SATCeA3KaU` (StokedOnFishing, 2014-11-13, Geronimo Island to Chester's
   Rock, south end of Cedros Island, "MC Swimbaits Skiff Trip part 3"): the
   reverse of the same relationship — an afternoon session had "big calico
@@ -52,10 +52,11 @@ unregistered channel, capped at medium), which is why the page sits at
   bottom — "reef reef reef reef… 18, 18, 20 ft" — with birds working overhead
   marking the fish. The bite was wide open on surface iron, "catching them
   pretty much every cast," with repeated doubles and a fish called at five
-  pounds. Asked about surface sign, the answer on camera is that there was
-  none — the fish were found on the meter and the birds. Duplicate-of the
-  Cedros entry in [calico bass evidence](calico-bass.md), kept here for the
-  depth, drift and colour detail. Unregistered channel.
+  pounds. Surface sign is asked about on camera ("any real surface sign") with
+  no answer recorded in the captions; the cues actually stated are the sounder
+  and the birds. Duplicate-of the Cedros entry in
+  [calico bass evidence](calico-bass.md), kept here for the depth, drift and
+  colour detail. Unregistered channel.
 - `I-QBxuV2p7M` (same session): two anglers ran different colours side by side
   — "I'm throwing white, he's throwing blue-greenish" — and both produced. Also
   logged in [surface iron — colour

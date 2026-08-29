@@ -29,14 +29,13 @@ cast covers one piece of structure; the full ranking against swimbaits, hard
 baits and flylined bait is in
 [calico bass](calico-bass.md#situations--techniques).
 
-**Shallow reef with birds working — surface sign is not required.** At
-[Cedros](../locations/cedros-island.md) the crew answered "any real surface
-sign?" in the negative and still fished the iron wide open, drifting reef
-bottom at **18–20 ft** with birds working overhead marking the fish —
-"catching them pretty much every cast" (`I-QBxuV2p7M`). Birds flaring over a
-piece of ground are the same cue on the Geronimo-to-Chester's-Rock stretch,
-where the crew ran to the birds and threw the jig (`3SATCeA3KaU`). This is the
-load-bearing difference from
+**Shallow reef with birds working — the ground is the cue, not a surface
+show.** At [Cedros](../locations/cedros-island.md) the fish were located on the
+sounder as reef bottom at **18–20 ft** with birds working overhead, and the
+iron fished wide open on the drift — "catching them pretty much every cast"
+(`I-QBxuV2p7M`). Birds flaring over a piece of ground are the same cue on the
+Geronimo-to-Chester's-Rock stretch, where the crew ran to the birds and threw
+the jig (`3SATCeA3KaU`). That is a different entry to the cast from
 [yellowtail — surface iron](yellowtail-surface-iron.md), where the iron's call
 is fish *showing* on top.
 
@@ -51,21 +50,23 @@ putting off my 50-pound yellow" (`3SATCeA3KaU`).
 
 ## How calico bass changes the execution
 
-**The retrieve is a steady grind keyed to the current, not to the fish.**
-Grind along the kelp line and change the kick and speed to the bite; a slow,
-wide, drawn-out kick is the change-up for slack current or a picky bite, and a
-smaller iron worked medium-to-high is the searching retrieve. Calico set the
-slow end of the general cadence range — **slow-to-medium**, because cranking
-fast makes the jig skip out of the water instead of swimming through it
-(`3dVc-2rsYII`) — and you cannot out-wind them anyway: "calico bass can chase
-down the lure faster than you can [reel]" (`Ec2GaNpiOHI`).
+**The retrieve sits at the slow end of the general range — but that is the
+general method, not a calico change.** Calico are the stated case for
+**slow-to-medium**, because cranking fast makes the jig skip out of the water
+instead of swimming through it (`3dVc-2rsYII`), with the corollary that you
+cannot out-wind them anyway: "calico bass can chase down the lure faster than
+you can [reel]" (`Ec2GaNpiOHI`). Both already sit in
+[surface iron — working the retrieve](../techniques/surface-iron.md#working-the-retrieve),
+as do the change-ups the kelp-line grind uses — a slow, wide, drawn-out kick
+for slack current or a picky bite, a smaller iron worked medium-to-high as the
+searching retrieve. Nothing in the corpus modifies them for calico.
 
 **The working band is shallow, and it is fished on the drift.** The Cedros
 program was drifts over reef bottom in **18–20 ft** — "reef reef reef reef…
-18, 20 ft" — set up by idling onto the structure and then letting the boat
-drift while the rail casts (`I-QBxuV2p7M`). That is a far shallower band than
-the iron normally works and it is why the jig is on top of the fish for the
-whole retrieve rather than only at the start of it.
+18, 18, 20 ft" — with the boat re-drifting the same stretch once the fish were
+found in it (`I-QBxuV2p7M`). That is a far shallower band than the iron
+normally works and it is why the jig is on top of the fish for the whole
+retrieve rather than only at the start of it.
 
 **In tight on the beach, the iron goes down in size, not up.** The mid-day
 Cedros beach program ran a **5.5 in** mini-iron fished in close to the sand
@@ -106,23 +107,25 @@ source is reconciled into the other. See
 Against [surface iron](../techniques/surface-iron.md), which owns the cast, the
 kick, the cadence argument and the colour ranking:
 
-- **It is fished blind over structure, not cast at showing fish.** The general
+- **It is fished over located ground, not cast at showing fish.** The general
   note's trigger list starts with fish on the surface; the calico version ran
-  wide open on a reef drift with the crew explicitly noting no real surface
-  sign, with birds as the only cue (`I-QBxuV2p7M`, `3SATCeA3KaU`).
+  wide open on a reef drift found on the sounder, with birds over the ground as
+  the search cue (`I-QBxuV2p7M`, `3SATCeA3KaU`).
 - **The working band is 18–20 ft of reef on a drift** (`I-QBxuV2p7M`), where
   the general note treats the iron as a surface presentation with a sink-out
   change-up to reach depth.
-- **Jig size goes down for the in-tight water** — a 5.5 in mini-iron on the
-  beach (`IdMJnlg_rZk`) — where the general note sizes the iron up for wind and
-  casting distance.
-- **The cadence sits at the slow end by default.** The general note's speed
-  dial runs slow grind to fast yellow speed; calico are the stated baseline for
-  the slow-to-medium end (`3dVc-2rsYII`), with the corollary that speed is
-  never the way to beat the fish to the jig (`Ec2GaNpiOHI`).
-- **It occupies a scheduling slot, not just a water state.** No other species
-  in the corpus has the iron cast as the mid-day filler inside another
-  species' program (`IdMJnlg_rZk`, `2cxeg_AE418`).
+- **The downsize trigger is the water, not the bait.** The general note
+  downsizes the iron when the forage shrinks to small anchovy; here a 5.5 in
+  mini-iron is picked because the work is in tight on the beach for calico
+  rather than out for yellowtail (`IdMJnlg_rZk`).
+- **It occupies a scheduling slot, not only a water state.** The iron is run as
+  the mid-day filler inside a yellowtail program — a reason to pick up the jig
+  that the general note's trigger list does not carry (`IdMJnlg_rZk`,
+  `2cxeg_AE418`).
+- **Retrieve and colour are NOT deltas.** The slow-to-medium cadence
+  (`3dVc-2rsYII`) and the kelp-versus-open colour exception (`Ec2GaNpiOHI`) are
+  already stated for calico in the general note and its colour note; they are
+  repeated above for completeness, not as changes.
 
 ## Evidence
 
