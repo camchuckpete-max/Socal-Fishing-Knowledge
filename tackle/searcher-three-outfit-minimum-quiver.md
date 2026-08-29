@@ -3,92 +3,84 @@ type: tackle
 tags: [searcher, trip-length, minimum-tackle, two-speed, lever-drag, accurate, seeker, penn-fathom, rail-rod, flat-fall, dropper-loop, flyline, colt-sniper]
 sources: [kzpeM56Gh7o]
 confidence: low
+layout: v2
 ---
 
-# Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)
+# Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip
 
-SearcherSportfishing, "Tackle Tip Thursday Vol. 105 (Must-have Set-ups)"
-(`kzpeM56Gh7o`, uploaded 2020-06-25 — a 3-minute segment). Speaker not
-identified on camera, so no personal attribution beyond the channel;
-`searcher-sportfishing` is a registered channel/series, but this specific
-three-outfit combination is this note's only citation so far in this KB
-(single mention) — mechanism/line-class/application content below reads
-**medium** confidence per the rubric; the named reel and rod models are
-product/model picks and stay **low** confidence per this channel's
-sponsored-claim caveat (front matter set to the lower of the two). Framed on
-camera as the **minimum** rod-and-reel combos to bring **aboard the Searcher
-for a 1.5- to 4-day trip** — all three are **lever-drag two-speed reels**.
+The Searcher's stated minimum rod-and-reel quiver for a 1.5- to 4-day trip is
+three outfits, all two-speed lever-drag reels: a 25–40 lb live-bait/casting
+outfit, a 40–60 lb outfit that doubles for casting lures, and a heavy
+rail-rod outfit spooled for tuna up to 400 lb (`kzpeM56Gh7o`). The same
+1.5- to 4-day window is independently corroborated elsewhere in this KB by
+two other Searcher-channel citations (see Trip-length corroboration, below).
 
-## Outfit 1 — light live-bait/casting outfit
+## Outfit 1 — 25–40 lb live-bait/casting
 
-- **Reel:** an **Accurate Valiant 600 Narrow**, two-speed lever drag, filled
-  with **80 lb braid**; top shot **25–40 lb test**.
-- **Rod:** a **Seeker 7 ft live-bait rod**, built for casting — captioned
-  "six seventy," rated **25–40 lb test** on camera; the presenter himself
-  hedges on the model ("I think this is a…") and the figure given right after
-  ("72") doesn't cleanly reconcile with the "7 foot" stated a moment earlier
-  — kept as stated rather than corrected, flagged `asr-uncertain`.
+- **Reel:** an Accurate Valiant 600 Narrow, two-speed lever drag, spooled
+  with 80 lb braid backing to a 25–40 lb top shot (`kzpeM56Gh7o`).
+- **Rod:** a 7 ft Seeker live-bait rod built for casting, rated 25–40 lb test
+  (`kzpeM56Gh7o`); the exact model is unresolved and a caption figure ("72")
+  does not cleanly match the stated "7 ft" — kept as stated ⚠ asr-uncertain.
 
-## Outfit 2 — heavier bait/casting outfit, doubles for lures
+## Outfit 2 — 40–60 lb bait/casting, doubles for lures
 
-- **Reel:** an **Accurate Boss 600 series**, two-speed, **80 lb braid**; top
-  shot **40–60 lb test**.
-- **Rod:** also a **7 ft Seeker rod**, described on camera as "a little
-  heavier" blank than Outfit 1's, but still easy to cast.
-- **Applications, on camera:** bigger fish on heavier line, light-bait
-  fishing, **or** casting a **Colt Sniper**-class dart jig (captioned "cold
-  snipers," the same ASR rendering of Colt Sniper already logged in
-  [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md#also-fishes-jigs--a-dart-type-jig-aside)
-  and [iron jigs](../lures/iron-jigs.md)) — captioned "your 6X junior"
-  immediately after, not confidently resolved to a named rod or lure model,
-  flagged `asr-uncertain`. Framed as a multi-application outfit.
+- **Reel:** an Accurate Boss 600 series, two-speed, 80 lb braid to a 40–60 lb
+  top shot (`kzpeM56Gh7o`).
+- **Rod:** a 7 ft Seeker rod with a heavier blank than Outfit 1's, still
+  light enough to cast (`kzpeM56Gh7o`).
+- **Applications:** bigger fish on heavier line, light-bait fishing, or
+  casting a Colt Sniper-class dart jig — captioned "cold snipers," the same
+  ASR rendering of Colt Sniper already logged in [Searcher 40 lb all-around
+  tuna
+  outfit](searcher-40lb-all-around-tuna-outfit.md#also-fishes-jigs--a-dart-type-jig-aside)
+  and [iron jigs](../lures/iron-jigs.md) (`kzpeM56Gh7o`). A following caption
+  ("your 6X junior") does not resolve to a named rod or lure model ⚠
+  asr-uncertain.
 
 ## Outfit 3 — heavy rail-rod outfit
 
-- **Rod:** a **Seeker OSP 1x3, 7 ft rail rod** — the same product already
-  logged in [gear classes — rail-rod
+- **Rod:** a Seeker OSP 1x3, 7 ft rail rod — the same rod logged as "the
+  Guadalupe special" in [gear classes — rail-rod
   class](gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
-  (nicknamed "the Guadalupe special" there) and in [Searcher big/giant tuna
-  rig ladder](searcher-big-tuna-rig-ladder.md#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12),
-  now independently corroborated by a third Searcher-channel source.
-- **Reel:** a **Penn Fathom 60**, two-speed — the same reel already logged
-  paired with Seeker rail rods in [Searcher lever-drag reel
+  and in [Searcher big/giant tuna rig
+  ladder](searcher-big-tuna-rig-ladder.md#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12) —
+  a third, independent citation of the same product (`kzpeM56Gh7o`).
+- **Reel:** a Penn Fathom 60, two-speed — the same reel logged paired with
+  Seeker rail rods in [Searcher lever-drag reel
   sizing](searcher-lever-drag-reel-sizing.md) and in the Capt. Art Taylor
-  flat-fall entry linked above; this is a third, independent citation of the
-  same rail-rod reel/rod pairing.
-- **Line:** **130 lb braid**, with a **swappable top shot**:
-  - **60 lb test** top shot for **live-bait fishing**.
-  - **80 lb test** top shot for **flat-fall fishing** and **dropper-loop
-    fishing**, stated on camera as the application "if you go to the coast"
-    — no specific place is named beyond that phrase, so none is inferred
-    here per the name-a-place-only-if-the-source-names-it rule; read in
-    context as nearshore/bank structure fishing rather than open-water
-    trolling, not asserted as a resolved location.
-- **Grade:** framed on camera as good for tuna up to **400 lb** — preserved
-  as stated; a notably higher ceiling than the 300–350 lb ceilings given for
-  this KB's other heaviest Searcher rigs (see [Searcher big/giant tuna rig
-  ladder — Rig 3](searcher-big-tuna-rig-ladder.md#rig-3--extra-extra-heavy-rig-130-lb-penn-international-20visx30visx)),
-  kept side by side rather than reconciled.
-- **Role:** "your heavy outfit for a 1.5- to 4-day trip" — flat-fall,
-  dropper-loop, and live-bait fishing all fished on the same rig.
+  flat-fall entry above — a third, independent citation of this rail-rod
+  pairing (`kzpeM56Gh7o`).
+- **Line:** 130 lb braid with a swappable top shot: 60 lb test for
+  live-bait fishing; 80 lb test for flat-fall and dropper-loop fishing,
+  stated on camera for "if you go to the coast" (`kzpeM56Gh7o`) — no
+  specific place is named beyond that phrase, read here as nearshore/bank
+  structure fishing rather than open-water trolling, not asserted as a
+  resolved location.
+- **Grade:** rated on camera for tuna up to 400 lb (`kzpeM56Gh7o`) — a higher
+  ceiling than the 300–350 lb ceilings given for this KB's other heaviest
+  Searcher rigs (see [Searcher big/giant tuna rig ladder — Rig
+  3](searcher-big-tuna-rig-ladder.md#rig-3--extra-extra-heavy-rig-130-lb-penn-international-20visx30visx)).
+- **Role:** the heavy outfit for a 1.5- to 4-day trip, fishing flat-fall,
+  dropper-loop, and live-bait applications on the same rig (`kzpeM56Gh7o`).
 
 ## Trip-length corroboration
 
-This video's own "1.5- to 4-day trip" framing for the full three-outfit
-quiver matches, almost to the word, two other SearcherSportfishing citations
-already in this KB:
+This quiver's 1.5- to 4-day trip framing matches two other Searcher-channel
+citations already in this KB:
 
-- The **Seeker OSP 1x3** rail rod is independently cited for "the 1.5-day and
+- the Seeker OSP 1x3 rail rod is independently cited for "the 1.5-day and
   3-day range" of trips in [gear classes — rail-rod
   class](gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
   (`Y2XZ34-Tpa0`, Vol. 51).
-- A **two-speed reel is called a must** on "a day-and-a-half or 3-day trip"
-  in [rod & reel selection — two-speed reels for multi-day bluefin
+- a two-speed reel is called a must on "a day-and-a-half or 3-day trip" in
+  [rod & reel selection — two-speed reels for multi-day bluefin
   trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing)
   (`Rudzy0DD08w`, Vol. 57).
 
-All three outfits here are two-speed lever drags, consistent with both — and
-this video extends that same trip-length window out to 4 days.
+All three outfits in this quiver are two-speed lever drags, consistent with
+both citations, and this video extends the window out to 4 days
+(`kzpeM56Gh7o`).
 
 ## Related
 
@@ -116,10 +108,17 @@ this video extends that same trip-length window out to 4 days.
 - [Iron jigs](../lures/iron-jigs.md)
 - [Bluefin tuna](../species/bluefin-tuna.md)
 
+## Evidence
+
+Per-source provenance (channel status, registration confidence, and
+ASR-uncertain reasoning): [evidence
+file](evidence/searcher-three-outfit-minimum-quiver.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](evidence/searcher-four-outfit-guadalupe-quiver.md)
+- [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](evidence/searcher-three-outfit-minimum-quiver.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)

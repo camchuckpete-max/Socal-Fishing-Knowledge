@@ -213,7 +213,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-lever-drag-reel-sizing.md | light | done | none | light transform verified: attribution split to evidence file, ASR flags and worked-capacity figures conserved |
 | tackle/searcher-rail-rod-ladder.md | light | done | asr-uncertain(Tier 3 reel 16BX vs 16VISX) | transform verified, one on-camera hedge restored to evidence during verification |
 | tackle/searcher-spring-bluefin-yellowtail-quiver.md | light | done | none | transform (light tier): plain-statement rewrite, cite insertion, evidence-file split for presenter/provenance detail |
-| tackle/searcher-three-outfit-minimum-quiver.md | light | pending |  |  |
+| tackle/searcher-three-outfit-minimum-quiver.md | light | done | asr-uncertain(rod model 72 mismatch, Colt Sniper caption, 6X junior caption) | transform verified: attribution preamble split cleanly into evidence file, all before-facts traced into after-state with cites |
 | tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md | light | pending |  |  |
 | tackle/spectra-hollow-vs-solid.md | light | pending |  |  |
 | tackle/spinning-reel-bait-feeder.md | light | pending |  |  |

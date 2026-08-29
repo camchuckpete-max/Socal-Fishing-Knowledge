@@ -521,7 +521,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](../tackle/searcher-lever-drag-reel-sizing.md)
-- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](../tackle/searcher-three-outfit-minimum-quiver.md)
 - [September](../seasonal/september.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)

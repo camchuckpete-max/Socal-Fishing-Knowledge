@@ -103,10 +103,11 @@ file](evidence/searcher-lever-drag-reel-sizing.md).
 - [Evidence — Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](evidence/searcher-6-to-8-day-heavy-outfit.md)
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](evidence/searcher-four-outfit-guadalupe-quiver.md)
 - [Evidence — Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](evidence/searcher-lever-drag-reel-sizing.md)
+- [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](evidence/searcher-three-outfit-minimum-quiver.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
-- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](searcher-three-outfit-minimum-quiver.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->
