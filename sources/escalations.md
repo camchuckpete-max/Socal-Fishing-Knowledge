@@ -359,3 +359,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T22:20:50Z — locations/santa-cruz-island.md — verify-escalate
 - run: 33277178670
 - reason: CMQkHQMxbXM 00:02:06-00:02:18 says the zone was not doable except on a sportboat (a veto on the PRIVATE boat); the inverted reading 'reachable only aboard a private boat' is already committed in locations/anacapa-island.md, species/evidence/barracuda.md and locations/289-284.md, which this unit cannot touch. Cameron should adjudicate once and fix all three.
+
+## 2026-08-29T22:54:51Z — locations/isla-carmen-north-end.md — guard-violation
+- run: 33278623566
+- reason: commit c1c7c2c9cd737638dce83855c478a9b1710e0151 reverted: out of scope for 'review: locations/isla-carmen-north-end.md': locations/loreto.md
