@@ -258,5 +258,6 @@ Parked for the zone guides the parent note stubs out:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Anacapa Island](../../locations/anacapa-island.md)
 - [California Barracuda](../barracuda.md)
 <!-- backlinks:end -->

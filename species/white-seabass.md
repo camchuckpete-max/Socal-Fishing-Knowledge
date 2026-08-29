@@ -335,6 +335,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [311 (Trask Knoll)](../locations/311.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)

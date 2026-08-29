@@ -235,6 +235,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bait-tanks.md).
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [209 / 312](../locations/209-312.md)
 - [<Your Boat>](../profiles/_template/boat.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Chunking](../techniques/chunking.md)

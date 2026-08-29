@@ -393,6 +393,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [81 / 381](../locations/81-381.md)
 - [Alijos Rocks](../locations/alijos-rocks.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)

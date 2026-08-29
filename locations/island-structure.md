@@ -176,6 +176,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [483/500 / 437](483-500-437.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
+- [Anacapa Island](anacapa-island.md)
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)

@@ -185,6 +185,7 @@ the pre-turnover window.
 - [311 (Trask Knoll)](../locations/311.md)
 - [474 / 711](../locations/474-711.md)
 - [<Your> Spots](../profiles/_template/spots.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [April](../seasonal/april.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bight Geography](../locations/bight-geography.md)

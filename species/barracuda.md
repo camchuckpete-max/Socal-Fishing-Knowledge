@@ -239,6 +239,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 ## Linked from
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)

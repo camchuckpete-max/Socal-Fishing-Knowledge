@@ -279,6 +279,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

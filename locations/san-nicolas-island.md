@@ -231,6 +231,7 @@ Trip reports and per-source provenance:
 - [311 (Trask Knoll)](311.md)
 - [474 / 711](474-711.md)
 - [Airplane Rock](airplane-rock.md)
+- [Anacapa Island](anacapa-island.md)
 - [Blockhouse](blockhouse.md)
 - [Cherry Banks](cherry-banks.md)
 - [Daytona Beach](daytona-beach.md)

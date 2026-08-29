@@ -392,6 +392,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [Alijos Rocks](../locations/alijos-rocks.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait-Tank Time-Savers — Artificial Octopus and Pre-Scented Gulp on the Rock-Cod Dropper Loop (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)

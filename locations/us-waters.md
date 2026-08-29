@@ -137,6 +137,7 @@ Trip reports and per-source provenance:
 - [474 / 711](474-711.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
+- [Anacapa Island](anacapa-island.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)

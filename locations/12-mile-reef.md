@@ -319,6 +319,7 @@ corpus touches this mark, so there is no evidence file to link.
 ## Linked from
 
 - [380](380.md)
+- [Anacapa Island](anacapa-island.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)

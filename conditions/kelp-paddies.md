@@ -182,6 +182,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bird Reading](bird-reading.md)

@@ -261,6 +261,7 @@ Trip reports and per-source provenance:
 - [12 Mile Reef](12-mile-reef.md)
 - [172 / 125](172-125.md)
 - [474 / 711](474-711.md)
+- [Anacapa Island](anacapa-island.md)
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md)
 - [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
 - [Caverns Area](caverns-area.md)

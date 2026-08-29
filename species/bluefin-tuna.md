@@ -429,6 +429,7 @@ Trip reports and per-source provenance:
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)

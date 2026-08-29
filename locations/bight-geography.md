@@ -133,6 +133,7 @@ share it).
 - [311 (Trask Knoll)](311.md)
 - [474 / 711](474-711.md)
 - [81 / 381](81-381.md)
+- [Anacapa Island](anacapa-island.md)
 - [April](../seasonal/april.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

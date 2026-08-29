@@ -270,6 +270,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Sheephead — sliding sinker](sheephead-sliding-sinker.md)
 - [California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md)

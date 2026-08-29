@@ -215,6 +215,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [April](../seasonal/april.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Barred Sand Bass](../species/sand-bass.md)

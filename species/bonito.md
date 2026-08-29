@@ -271,6 +271,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [14 Mile Bank](../locations/14-mile-bank.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)

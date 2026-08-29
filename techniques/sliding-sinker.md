@@ -271,6 +271,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 ## Linked from
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Barred Sand Bass — sliding sinker](../species/sand-bass-sliding-sinker.md)

@@ -323,3 +323,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T19:10:15Z — locations/desperation-reef.md — verify-escalate
 - run: 33268530643
 - reason: Pre-existing false hedge 'source does not say which side' in san-clemente-island-back-side.md:152 + its evidence file (contradicted by DnSqw4r7A1s); and the 'West End tuna zone' name conflict may be a KB artifact unsupported by Rb5I2ljAqeE
+
+## 2026-08-29T19:44:25Z — locations/anacapa-island.md — verify-escalate
+- run: 33271161017
+- reason: harvest recorded 1 mention but transcript grep (incl. ASR garbles like 'nana capitol') finds 6 hits across 5 videos; Cameron should decide whether remaining gazetteer units need a transcript-level name grep before gap flags are trusted, and whether already-built low-mention spot pages need a re-sweep

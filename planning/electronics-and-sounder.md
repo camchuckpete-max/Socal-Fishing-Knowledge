@@ -310,6 +310,7 @@ Trip reports and per-source provenance:
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [Alijos Rocks](../locations/alijos-rocks.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

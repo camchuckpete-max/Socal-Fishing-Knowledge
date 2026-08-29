@@ -257,6 +257,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Sheephead](sheephead.md)
 - [Ensenada](../locations/ensenada.md)

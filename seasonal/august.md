@@ -76,6 +76,7 @@ and [bird reading](../conditions/bird-reading.md).
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [289 / 284](../locations/289-284.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)

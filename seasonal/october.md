@@ -82,6 +82,7 @@ the fleet behavior correctly before you run to it. See
 - [474 / 711](../locations/474-711.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

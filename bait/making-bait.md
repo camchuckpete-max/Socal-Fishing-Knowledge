@@ -274,6 +274,7 @@ shortages, where the barge isn't an option.
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [Anacapa Island](../locations/anacapa-island.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](bait-tanks.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
