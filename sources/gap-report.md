@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
+_Totals: 2322 flagged gaps, 349 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -607,6 +607,18 @@ _Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/14-mile-bank.md**
+  - `Getting there`: gap — run distance, heading, run time, fuel figure
+  - `Getting there`: gap — states a closure, MPA boundary or restricted
+  - `Structure & bathymetry`: gap — depth, relief, bottom composition,
+  - `Structure & bathymetry`: gap — names the preferred directions or the drift
+  - `Structure & bathymetry`: gap — resolves which coast the fishery
+  - `What's there`: gap — dates a session here | Named in the San Diego offshore-bank rotation — the Ridge, the 9 Mile Bank, **the 14**, the 43, the 178 and the 302 — all worked on a preferred down-and-in drift along the contour edges (`yMiBtZ7k8-w`). The fishery's band is **150–350 fathoms** ([swordfish](../species/swordfish.md), [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md)); this bank has no stated depth to check against it |
+  - `What's there`: gap — | Nothing in the corpus names this bank for any of them, in any month |
+  - `What's there`: gap — separates the two marks' catches on that day.
+  - `What's there`: gap — any season here other than the two summer
+  - `How it fishes`: gap — gives the temperature
+  - `How it fishes`: gap — a tide, moon or current window for this mark,
 - **locations/140.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1120,6 +1132,15 @@ _Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
   - `What's there`: gap — whether
   - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
+- **locations/43.md**
+  - `Getting there`: gap — run distance, compass bearing, run time, fuel
+  - `Getting there`: gap — the closed area's boundary, or whether the
+  - `Getting there`: gap — MPA boundaries or restricted areas at this
+  - `Structure & bathymetry`: gap — relief, high-spot shape, footprint, bottom
+  - `What's there`: gap — dates a session here; the fishery's window is late September–December, peak October–mid-November ([swordfish](../species/swordfish.md)) | A named working ground in the San Diego daytime deep-drop rotation — the Ridge, the 9 Mile Bank, the 14, the 43, the 178 and the 302 — fished on a down-and-in drift along the contour edges (`yMiBtZ7k8-w`) |
+  - `What's there`: gap — | Nothing in the corpus names this bank for any of them, in any month |
+  - `What's there`: gap — bait, paddies, squid, water colour or a
+  - `How it fishes`: gap — how long to give this bank before moving off,
 - **locations/437.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2187,6 +2208,14 @@ _Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/desperation-reef.md**
+  - `Getting there`: gap — run time and distance from any named port,
+  - `Structure & bathymetry`: gap — says whether the point and the reef
+  - `Structure & bathymetry`: gap — charted depth, bottom composition, relief or
+  - `What's there`: gap — scoped to this spot | The island's squid-driven seabass material is zone- and island-level, not attached to this mark ([the zone page](san-clemente-island-back-side.md#whats-there)) |
+  - `What's there`: flagged stub row
+  - `What's there`: gap — any season here other than the single spring
+  - `How it fishes`: gap — a tide, moon or current window for this mark,
 - **locations/double-220.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2981,6 +3010,11 @@ _Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
   - `Papers you need`: gap — the Midriff-islands biosphere bracelet, and
   - `On the water`: gap — boarding and inspection practice, what the
   - `Bringing fish home`: gap — US customs declaration for fish caught in
+- **locations/middle-grounds.md**
+  - `Getting there`: gap — the approach to this mark specifically
+  - `Structure & bathymetry`: gap — depth band, high-spot rise, bottom
+  - `What's there`: gap — the Coronados rockfish ground is charted north of the chain, and no source places rockfish on this bank |
+  - `How it fishes`: gap — a spot-specific program for this bank — a
 - **locations/mission-bay-park-artificial-kelp-reef.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3360,6 +3394,12 @@ _Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/pyramid-head.md**
+  - `Getting there`: gap — run time and distance from a named departure
+  - `Structure & bathymetry`: gap — charted depth, bottom composition, kelp extent
+  - `What's there`: gap — scopes that to this spot |
+  - `What's there`: flagged stub row
+  - `How it fishes`: gap — how a drift or an anchor is set on this head,
 - **locations/pyramid-reef.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
