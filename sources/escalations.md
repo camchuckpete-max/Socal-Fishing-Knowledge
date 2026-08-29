@@ -327,3 +327,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T19:44:25Z — locations/anacapa-island.md — verify-escalate
 - run: 33271161017
 - reason: harvest recorded 1 mention but transcript grep (incl. ASR garbles like 'nana capitol') finds 6 hits across 5 videos; Cameron should decide whether remaining gazetteer units need a transcript-level name grep before gap flags are trusted, and whether already-built low-mention spot pages need a re-sweep
+
+## 2026-08-29T20:35:19Z — locations/isla-espiritu-santo.md — verify-escalate
+- run: 33273386117
+- reason: locations/la-paz.md Spots section now contradicts itself — its prose says no place in the zone has a public name plus a charted position so no spot pages hang below it, and that all five are logged in the spot harvest rather than minted as pages, but the generated children block directly below now lists Isla Espiritu Santo; fix is one sentence on the zone page, out of scope for this unit and no future unit reaches it since la-paz.md is already marked transformed
