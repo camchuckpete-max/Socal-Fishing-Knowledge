@@ -2,7 +2,7 @@
 type: evidence
 parent: ../tuna-care.md
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [H-vIGWPIPVc, usHl-4SfqDA, Klfb433I3Uk, Y1xeieQI3B4, mDmbGdQAy-4]
+sources: [H-vIGWPIPVc, usHl-4SfqDA, Y1xeieQI3B4, mDmbGdQAy-4]
 confidence: medium
 ---
 
@@ -26,15 +26,6 @@ observation, grouped under the parent note's section headings, in order.
   completely covering the fish — consistent with, not a new step beyond,
   the bleed/field-dress-then-chill chain; the cavity-packing detail is the
   addition.
-- `Klfb433I3Uk` (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal, "A
-  Day of San Clemente Island Yellowtail Fishing"; unregistered channel —
-  medium confidence; species: yellowtail, not tuna): as soon as the fish is
-  on deck, cut the artery (exact cut location not specified beyond "down
-  here" on camera) — framed on camera as "almost all the fish's blood goes
-  through this artery within a matter of minutes" — then hold the fish
-  upside down in a bucket. About 5 minutes was called out as enough for the
-  blood to pump out; the fish then goes on ice, framed on camera as ready
-  for sashimi/sushi ("sushimi") at that point.
 
 ## Chill times by fish size
 
@@ -69,5 +60,6 @@ observation, grouped under the parent note's section headings, in order.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Yellowtail](../../species/evidence/yellowtail.md)
 - [Tuna Care](../tuna-care.md)
 <!-- backlinks:end -->

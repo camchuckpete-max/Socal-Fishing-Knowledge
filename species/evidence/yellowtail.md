@@ -2,7 +2,7 @@
 type: evidence
 parent: ../yellowtail.md
 tags: [yellowtail]
-sources: [SGbynqaiHdY, zUFbCIWZZMw, 8THSuqoPI_Q, IwxqgocsQTY, MUpvP-Yl2R0, oadK6zIYyCo, yuXr3IJ8ybg, sHnqSIOjTdM, ecJPMTCi-gw, V_ONnegk95M, nsUdT-zXI8s, Q-gQuOegAx4, D_Y2G0rBZCs, zQtExV8Z2eY, UfuiWFVvz2E, nQvJnfb5jQ4, c3NFkQbdDy0, tU4jhAkdzNw, Rb5I2ljAqeE, HueC1KHrcVw, QSvzVHW9UMk, zBd1mayUt_I, fDSd9kqwYW0, oXunQKSbc2g, F9XjGMEvvag, HcEh5KOYTH4, CrLDC4O8qS8, VWClGAn2WEw, 0dIwWiOc1NY, 0bcDBGzQnGw, CKq0Z6ExVs4, qri15R3caYE, Cobp85UvHmM, 6kpWn2sXokI, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, RgtkbmBFUXI, Sx40JvCXFuA, _r08B4bItAY, uWGGeDOprsE, xIUKmH9ccgQ, _C8w6zeVPak, BvT560Nblqo, XwwIvPFxRiQ, L3tkGVu516A, 3SATCeA3KaU, _r_qKX_7080, wdbqTio1SQU, RPSRH0jwyw4, d0yGBQDeY_4, yjwIGFzWO8I, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, 9tIp4n7q850, Zo92MG459gQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 9D3Oiy0ASzg, SH7zOA9ZF3o, JaKSGkZ6CAc, 97clKtVsEOs, ilINTeknKB4, SAltQjih0ms, HTowqnwAMeA, tpmOYXYQwhU, 0DKmYId1NN4, Ob45hK4HSWc, ejUTAnONf7o, mdhoEQPqpng, yGXSrUauo2w, jo8lMdFZ1bk, NXvqLUZ6qp8, 5p6gu14ZC4w, YZtX1MiT0y8, D5DR7Kx42_A, vqsD0qpwcJA, 6DzbsElGE7E, WE643Fue1_A, cameron, nate]
+sources: [SGbynqaiHdY, zUFbCIWZZMw, 8THSuqoPI_Q, IwxqgocsQTY, MUpvP-Yl2R0, oadK6zIYyCo, yuXr3IJ8ybg, sHnqSIOjTdM, ecJPMTCi-gw, V_ONnegk95M, nsUdT-zXI8s, Q-gQuOegAx4, D_Y2G0rBZCs, zQtExV8Z2eY, UfuiWFVvz2E, nQvJnfb5jQ4, c3NFkQbdDy0, tU4jhAkdzNw, Rb5I2ljAqeE, HueC1KHrcVw, QSvzVHW9UMk, zBd1mayUt_I, fDSd9kqwYW0, oXunQKSbc2g, F9XjGMEvvag, HcEh5KOYTH4, CrLDC4O8qS8, VWClGAn2WEw, 0dIwWiOc1NY, 0bcDBGzQnGw, CKq0Z6ExVs4, qri15R3caYE, Cobp85UvHmM, 6kpWn2sXokI, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, RgtkbmBFUXI, Sx40JvCXFuA, _r08B4bItAY, uWGGeDOprsE, xIUKmH9ccgQ, _C8w6zeVPak, BvT560Nblqo, XwwIvPFxRiQ, L3tkGVu516A, 3SATCeA3KaU, _r_qKX_7080, wdbqTio1SQU, RPSRH0jwyw4, d0yGBQDeY_4, yjwIGFzWO8I, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, 9tIp4n7q850, Zo92MG459gQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 9D3Oiy0ASzg, SH7zOA9ZF3o, JaKSGkZ6CAc, 97clKtVsEOs, ilINTeknKB4, SAltQjih0ms, HTowqnwAMeA, tpmOYXYQwhU, 0DKmYId1NN4, Ob45hK4HSWc, ejUTAnONf7o, mdhoEQPqpng, yGXSrUauo2w, jo8lMdFZ1bk, NXvqLUZ6qp8, 5p6gu14ZC4w, YZtX1MiT0y8, D5DR7Kx42_A, vqsD0qpwcJA, 6DzbsElGE7E, WE643Fue1_A, cameron, nate, Klfb433I3Uk]
 confidence: medium
 ---
 
@@ -169,6 +169,10 @@ nothing was deleted, only moved.
 - **Three-outfits switching doctrine (cameron), now the parent's lead:** rig the surface-iron, yo-yo/dropper, and flyline outfits simultaneously and switch as the read (temp + bait depth) changes. Corroborated on the water: surface iron, dropper loop, and yo-yo all producing at once (`u0scEBby7nA`); bait, surface iron, and yo-yo through the day (`SH7zOA9ZF3o`).
 - **cameron (BOLA September, attributed):** yellowtail on the bottom → dropper loops + yo-yo iron.
 - **cameron (open item — not doctrine):** owns a 10 ft jig stick he always brings to BOLA but rarely uses; wants reps hooking and landing yellowtail on it (considering yo-yoing with it). See [rods](../../profiles/cameron/rods.md).
+
+## Landing & handling
+
+- `Klfb433I3Uk` (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal, "A Day of San Clemente Island Yellowtail Fishing"; unregistered channel — medium confidence; relocated from [tuna care](../../fish-care/evidence/tuna-care.md) 2026-08-29, where it sat as a cross-species data point): as soon as the fish is on deck, cut the artery (exact cut location not specified beyond "down here" on camera) — framed on camera as "almost all the fish's blood goes through this artery within a matter of minutes" — then hold the fish upside down in a bucket. About 5 minutes was called out as enough for the blood to pump out; the fish then goes on ice, framed on camera as ready for sashimi/sushi ("sushimi") at that point.
 
 <!-- backlinks:start -->
 ## Linked from

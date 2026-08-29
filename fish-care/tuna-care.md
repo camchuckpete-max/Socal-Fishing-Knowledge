@@ -49,10 +49,9 @@ Walkthrough:
 - One charter's stated order is **bleed, kill, then gut immediately on
   landing**, followed by **packing the cavity itself with ice and covering
   the fish completely** (`usHl-4SfqDA`).
-- ⚠ misplaced-content: a yellowtail-specific bleed technique (cut the
-  artery, hold the fish upside down in a bucket for about 5 minutes, then
-  ice) is logged here as a cross-species data point; belongs in
-  [yellowtail](../species/yellowtail.md) landing & handling (`Klfb433I3Uk`).
+- The yellowtail version of this step — artery cut, about 5 minutes upside
+  down in a bucket, then ice (`Klfb433I3Uk`) — is in
+  [yellowtail](../species/yellowtail.md#landing--handling).
 
 ## 3. Wet-towel cooldown before icing
 
@@ -137,4 +136,5 @@ Trip reports and per-source provenance:
 - [Ikejime (Iki-Jime)](ikejime.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
