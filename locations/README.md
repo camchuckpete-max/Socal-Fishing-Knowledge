@@ -359,6 +359,7 @@
 - [Salta Verde Cod 8 (43 fa)](salta-verde-cod-8-43-fa.md) **[SoCal only]** — A charted spot at 33°18.180'N 118°25.210'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod Pinnacle](salta-verde-cod-pinnacle.md) **[SoCal only]** — A charted spot at 33°18.660'N 118°24.900'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde](salta-verde.md) **[SoCal only]** — A charted spot at 33°18.842'N 118°24.963'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [San Augustine](san-augustine.md) **[Baja only]** — [Baja only] — a crew-named stop on Cedros Island, in the Cedros / San Benitos zone, and the zone's one named yo-yo iron ground.
 - [San Clemente Artificial Reef (mainland city)](san-clemente-artificial-reef.md) **[SoCal only]** — A charted spot at 33°23.890'N 117°37.200'W (cameron), in the Dana Point zone.
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md) **[SoCal only]** — The ocean-facing side of San Clemente Island, running N→S from the 9 Fathom Spot at the northwest end to Desperation Reef at the southeast end, with 12 charted
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md) **[SoCal only]** — The mainland-facing side of San Clemente Island, running N→S from Northwest Harbor at the northwest end to the Pyramid Cove / Pyramid Head end, with seven chart
@@ -443,5 +444,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 430 notes exceed the 30-node cap._
+_Map skipped: 431 notes exceed the 30-node cap._
 <!-- mermaid:end -->

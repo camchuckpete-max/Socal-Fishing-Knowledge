@@ -196,6 +196,7 @@ nothing was deleted, only moved.
 - [La Bocana](../../locations/la-bocana.md)
 - [North Point](../../locations/north-point.md)
 - [Pyramid Head](../../locations/pyramid-head.md)
+- [San Augustine](../../locations/san-augustine.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)
 - [The Ridge / Uncle Sam Bank](../../locations/ridge-uncle-sam-bank.md)

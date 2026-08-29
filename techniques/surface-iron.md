@@ -530,6 +530,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md)
 - [Point Loma](../locations/point-loma.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Augustine](../locations/san-augustine.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

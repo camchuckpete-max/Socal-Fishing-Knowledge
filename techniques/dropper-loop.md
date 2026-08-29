@@ -433,6 +433,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)
+- [San Augustine](../locations/san-augustine.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](../tackle/searcher-6-to-8-day-heavy-outfit.md)

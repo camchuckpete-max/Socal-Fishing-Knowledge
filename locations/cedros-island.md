@@ -404,6 +404,7 @@ with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 - [Chester's Rock](chester-s-rock.md)
 - [Geronimo Island](geronimo-island.md)
 - [North Point](north-point.md)
+- [San Augustine](san-augustine.md)
 <!-- children:end -->
 
 ## Evidence
@@ -430,6 +431,7 @@ Trip reports and per-source provenance:
 - [Iron Jigs](../lures/iron-jigs.md)
 - [North Point](north-point.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
+- [San Augustine](san-augustine.md)
 - [San Quintin](san-quintin.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)

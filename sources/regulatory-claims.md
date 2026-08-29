@@ -158,6 +158,7 @@ route, and the insurance carriers by name.
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Augustine](../locations/san-augustine.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
