@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2397 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
+_Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -1862,6 +1862,12 @@ _Totals: 2397 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/cardonosa-isla-cartito.md**
+  - `Getting there`: gap — a heading, distance, run time or sea-state
+  - `Structure & bathymetry`: gap — bottom composition, relief, the extent of the
+  - `What's there`: gap — names this island for any other species. The same trip's skipjack, cabrilla and snapper are all recorded against other stops ([zone page](bahia-de-los-angeles.md#whats-there)) |
+  - `What's there`: gap — a month, a water temperature, what the fish
+  - `How it fishes`: gap — line class, leader, hook, jig colour or drift
 - **locations/carlsbad-ar.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2593,6 +2599,13 @@ _Totals: 2397 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/honeymoon-bay.md**
+  - `Getting there`: gap — a distance, heading, run time or sea-state
+  - `Structure & bathymetry`: gap — depth, bottom composition, relief, the extent
+  - `What's there`: gap — season. The sighting is November 2022 and the bay was never fished, so no month is attached to the fish (`ikiXx9sUsoA`) | The only species named here, and named as a **corner** rather than as the whole bay: *"that is good yellowtail on the corner down there"* (`ikiXx9sUsoA`). ⚠ Fact-check (single-source): the claim is second-hand — the speaker credits it to "The Baja Catch", the book the crew read on camera as their planning reference for the zone, which is not a corpus source and whose content the KB does not carry (`ikiXx9sUsoA`). It is a book read repeated on the water, never tested here |
+  - `What's there`: gap — names this bay for any other species. The zone's sierra, roosterfish, cabrilla, dorado and barracuda are all recorded against other grounds ([zone page](loreto.md#whats-there)) |
+  - `What's there`: gap — grade, water temperature, forage, or any
+  - `How it fishes`: gap — tide, current, moon or time-of-day window for
 - **locations/hospital-100-fathom-curve.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
