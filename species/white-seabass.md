@@ -159,7 +159,7 @@ White seabass is a water-reading and meter fishery, not a bird fishery.
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
 | **Squid bed near structure, gray light or night, slack tide** | **[Lead head + squid](../rigging/leadhead-mods.md)** — two squid, or three if small, threaded up the head | 3/4–1 oz lead-head class on a 30–40 lb bait/jig rod | The signature rig: it mimics squid mating (`Xr4nURK-Z48`). Size the head so it sinks *to* the fish rather than straight past them in the current [a] |
-| **Fish called close to the bottom on a nest, 60–90 ft** | **[Dropper loop](../techniques/dropper-loop.md)** with fresh-dead squid | 40 lb dropper-loop class, conventional star drag | 8–12 oz torpedo sinker by depth and current; 4 ft sinker-to-hook keeps bat rays and sharks off; 8–16 in dropper tag lets the squid work in the current (`Eo_bA8IWvyU`) [a] |
+| **Fish called close to the bottom on a nest, 60–90 ft** | **[Dropper loop with fresh-dead squid — the squid-bed program](white-seabass-dropper-loop.md)** ([general method](../techniques/dropper-loop.md)) | 40 lb dropper-loop class, conventional star drag | Sinker weight and its conditions rule, the bycatch-sized sinker-to-hook leader, the dropper-tag length, the hook style with its live-release conflict, and the bite handling are all in the sub-article (`Eo_bA8IWvyU`) [a] |
 | **Fish called mid-column or near the surface — e.g. 20–30 ft in 60–100 ft of water** | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: least weight that will still sink, thin-wire hook, sink the whole column, then reel up and recast immediately | 30 lb bait class | Never let it rest on the bottom — the forward-set mouth will not take a bottomed bait and you catch rays and sharks instead; recasting also raises calico bass, perch and sheephead, and a stop where nothing bites is a stop to leave (`ShSxNKAcUB4`, `Eo_bA8IWvyU`) [a] |
 | **Gray light, before dawn, heavy fog, or a sun-shadowed spot** — a bite window, not a location cue | **Stationary bait-jig soak**: glow-backed single-hook jig with 1–3 whole squid, dropped to bottom, cranked up 3–10 ft, then left in the holder to work with the boat's roll | Tady TLC / Tady 40 class glow jig on a 30–40 lb bait/jig rod | A passive rail soak, distinct from the actively worked lead head above; the glow back is the attention-getter and the squid pile is the meal (`Eo_bA8IWvyU`). Check with the deckhands before pinning more than one squid — supply is often limited [a] |
 | **Casting an off-color rip or kelp edge with some current** | **[Surface iron](../techniques/surface-iron.md)** worked slow | Jig-stick class, 7–9 ft, 40–50 lb | The island white seabass / yellowtail crossover: a slow, steady grind over the colour edge |
@@ -168,11 +168,12 @@ White seabass is a water-reading and meter fishery, not a bird fishery.
 | **Anchored with no bait aboard** | **Chum bucket** off the transom, plus a lead-head-and-squid or slider cast on the colour edge | 30 lb bait class | The bucket builds the plankton→bait→seabass chain and its drift line reads your true current (`6TBxHnkYXI0`) |
 | **Late-fall island, off-color water, current running *into* the island** | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior (`Z3rZqy2Pi8E`) — see [Doctrine & conflicts](#doctrine--conflicts) |
 
-[a] Squid handling and rig geometry: fresh-dead squid is preferred over live,
-and an Owner Ahi twist long-shank J in 50–70 is the stated dropper-loop hook
-(`Eo_bA8IWvyU`); a correctly tied dropper loop keeps the hook 12–18 in above the
-weight (`ShSxNKAcUB4`). Hook style is contested — see
-[Doctrine & conflicts](#doctrine--conflicts).
+[a] Squid handling: fresh-dead squid is preferred over live (`Eo_bA8IWvyU`).
+Dropper-loop hook and rig geometry — the Owner Ahi twist long-shank J in 50–70,
+the 12–18 in hook-above-the-weight figure, and the contested circle-hook
+substitution — are in
+[white seabass — dropper loop](white-seabass-dropper-loop.md)
+(`Eo_bA8IWvyU`, `ShSxNKAcUB4`, `Y2bXn44lfqo`).
 [b] Full erratic-crack retrieve mechanics for a fluke on a lead head —
 chop-glide, sweep-drop, crack-slack — live in
 [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md#open-water-casting-retrieves--erratic-seabassyellowtail-vs-smooth-halibut)
@@ -182,7 +183,8 @@ chop-glide, sweep-drop, crack-slack — live in
 ## Gear summary (class terms)
 
 - **Rod/reel:** a **30–40 lb bait/jig rod** for the lead-head-and-squid and the
-  dropper loop, and a **[jig-stick class](../techniques/surface-iron.md)**
+  [dropper loop](white-seabass-dropper-loop.md#rigs--gear), and a
+  **[jig-stick class](../techniques/surface-iron.md)**
   (7–9 ft, 40–50 lb) for the surface iron. Conventional star-drag reels favour
   the dropper loop; a low-profile baitcaster favours casting artificials
   (`Eo_bA8IWvyU`). Model-level detail is in
@@ -194,8 +196,9 @@ chop-glide, sweep-drop, crack-slack — live in
   where spool capacity forces braid, compensate with a soft, moderate-action rod
   and a lighter drag (`Eo_bA8IWvyU`).
 - **Terminal:** [lead head + squid](../rigging/leadhead-mods.md) (2–3 squid
-  threaded up the head), [dropper loop](../techniques/dropper-loop.md) with
-  squid, [surface iron](../lures/iron-jigs.md) for the cast, and a
+  threaded up the head),
+  [dropper loop with squid](white-seabass-dropper-loop.md#rigs--gear),
+  [surface iron](../lures/iron-jigs.md) for the cast, and a
   [sliding sinker](../techniques/sliding-sinker.md) on a thin-wire hook — not an
   octopus hook — for the suspend-and-retrieve soak (`ShSxNKAcUB4`). Market
   wild-caught squid works even on the small side (`Xr4nURK-Z48`).
@@ -251,15 +254,12 @@ wanted off-color water with the current running **into** the island
 viable late-fall / dirty-water state; both statements come from the same author,
 which makes this a seasonal nuance rather than an error.
 
-**Hook style — the choice turns on whether the fish is being released.** An Ahi
-twist (J-style) hook on a dropper loop is prone to gut-hooking, which is the
-stated reason for actively fishing a squid-baited lead head by feel and getting a
-mouth hookup instead; the same crew still ran dropper loops on the overnight
-anchor soak, but rigged with **circle hooks** (`Y2bXn44lfqo`). Gut-hook avoidance
-carried more weight there than usual because every fish was going back alive.
-Where fish are being kept, the corpus's stated dropper-loop hook is the Owner Ahi
-twist long-shank J in **50–70** (`Eo_bA8IWvyU`). Not reduced to one
-recommendation.
+**Hook style on the dropper loop — the choice turns on whether the fish is being
+released.** The gut-hook-prone Ahi twist J against the circle-hook substitution
+a release-only crew ran on the overnight anchor soak is kept side by side,
+unreconciled, with its decision frame in
+[white seabass — dropper loop](white-seabass-dropper-loop.md#doctrine--conflicts)
+(`Y2bXn44lfqo`, `Eo_bA8IWvyU`).
 
 **Garlic scent on hookup baits — two mechanisms for the same product.** One
 account frames the WSB-branded hookup bait's garlic as a primary attractant,
@@ -303,7 +303,9 @@ queued in [`sources/relocation-queue.md`](../sources/relocation-queue.md).
   rod tip, and a lighter drag than you would otherwise use — except against nasty
   kelp or rock, where you have no choice — or the hook pulls (`Eo_bA8IWvyU`).
 - **Let it eat.** A white seabass chomps and eats slowly; set the hook when the
-  rod loads down, not on the first tap (`Eo_bA8IWvyU`).
+  rod loads down, not on the first tap (`Eo_bA8IWvyU`). What that load-up set
+  means on a dropper loop, and how a circle hook changes it, is in
+  [white seabass — dropper loop](white-seabass-dropper-loop.md#how-white-seabass-changes-the-execution).
 - **Released fish.** The broodstock program's live-handling routine — a
   covered, pressurized transport tank, a PIT-tag scan, and delivery to the net
   pen inside about 45 minutes — is a permitted-program procedure, not a
@@ -341,6 +343,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — White Seabass](evidence/white-seabass.md)
+- [Evidence — White Seabass — dropper loop](evidence/white-seabass-dropper-loop.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -375,4 +378,5 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
+- [White Seabass — dropper loop](white-seabass-dropper-loop.md)
 <!-- backlinks:end -->

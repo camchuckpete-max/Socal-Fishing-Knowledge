@@ -204,7 +204,7 @@ Trip reports and per-source provenance: [evidence file](evidence/leadhead-mods.m
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — Leadhead Mods & Rigging](evidence/leadhead-mods.md)
-- [Evidence — White Seabass](../species/evidence/white-seabass.md)
+- [Evidence — White Seabass — dropper loop](../species/evidence/white-seabass-dropper-loop.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)

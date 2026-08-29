@@ -886,4 +886,5 @@ by their builders after the transform phase drains.
 | species/spotted-bay-bass-bottom-jig-crawl.md | standard | transformed |  | verified compliant, no changes needed (already v2-compliant from relocation; check-note.py clean, 4 transcript spot-checks faithful, router/evidence cross-references consistent) |
 | species/striped-marlin-trolling.md | standard | transformed | reg-claims(0), spots(2), gaps(0), misplaced(0) | ad hoc single-source caveat reformatted into standard fact-check flag + Standing ledger row; two spot-harvest rows (tanker lanes, 277 bank) added |
 | species/wahoo-live-bait.md | standard | pending |  | created by relocation from species/wahoo.md |
+| species/white-seabass-dropper-loop.md | standard | pending |  | created by relocation from species/white-seabass.md |
 <!-- review:worklist:end -->

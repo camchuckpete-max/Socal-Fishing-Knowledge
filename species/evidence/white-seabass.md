@@ -144,16 +144,16 @@ where it corroborates or is scoped as trip/program context.
   yellowtail, calico bass, blue perch and sheephead — "if something's biting it
   that's good, if nothing's biting it it's time to move." A heavy white TLC jig
   with a squid dropped straight down is the smoldering-current alternative, and
-  an orange lead head is called a reaction color as the squid sinks. A correctly
-  tied dropper loop is accepted for the same reason — the hook sits **12–18 in**
-  above the weight, off the bottom, where the seabass are swimming back and forth
-  across a squid nest.
-- `Eo_bA8IWvyU` (same walkthrough, rig roster): the dropper loop as "one of the
-  most tested and proven methods" — an Owner Ahi twist long-shank J hook in
-  **50–70**, a torpedo sinker **8–12 oz** by depth and current, **4 ft** from
-  sinker to hook to keep bat rays and sharks off, and an **8–12 to 16 in**
-  dropper tag so the squid frolics in the current. Fresh-dead squid is preferred
-  over live ("smack his head on the deck"). Sliding glow or plain egg sinkers are
+  an orange lead head is called a reaction color as the squid sinks. The same
+  source's dropper-loop acceptance and its 12–18 in hook-above-the-weight figure
+  moved to
+  [white seabass — dropper loop evidence](white-seabass-dropper-loop.md#how-white-seabass-changes-the-execution).
+- `Eo_bA8IWvyU` (same walkthrough, rig roster): fresh-dead squid is preferred
+  over live ("smack his head on the deck"). The dropper-loop half of this roster
+  — the rig called "one of the most tested and proven methods," its Owner Ahi
+  twist hook, torpedo sinker, sinker-to-hook leader and dropper tag — moved to
+  [white seabass — dropper loop evidence](white-seabass-dropper-loop.md#rigs--gear).
+  Sliding glow or plain egg sinkers are
   the pick when the skipper calls fish at 20–30 ft in 60–100 ft of water, fished
   with tension on the free spool and periodic click-into-gear-and-wind to re-set
   the sinker to the bait. The Tady TLC / Tady 40 glow-backed single-hook jig,
@@ -215,16 +215,10 @@ where it corroborates or is scoped as trip/program context.
   garlic differently, as a cover scent masking the plastic's manufacturing smell,
   in [tube baits](../../lures/tube-baits.md#scent). Two speakers, one product
   line, two stated mechanisms.
-- `Y2bXn44lfqo` (hook-style tension): the crew described the popular dropper loop
-  strung with an Ahi twist (J-style) hook as prone to gut-hooking fish, and used
-  that as the reason they prefer actively fishing a squid-baited lead head by
-  feel — mouth-hooked, not gut-hooked (see
-  [leadhead mods](../../rigging/leadhead-mods.md#rigging-a-leadhead-with-squid-for-white-seabass-xr4nurk-z48)).
-  On the same trip's overnight anchor soak they still ran dropper loops, but
-  rigged with **circle hooks** instead of the J-style Ahi twist (see
-  [dropper loop](../../techniques/dropper-loop.md#building-the-rig)). Gut-hook
-  avoidance mattered more on this trip than usual because every fish was released
-  alive into the broodstock program.
+- `Y2bXn44lfqo` (hook-style tension): the Ahi-twist-J vs circle-hook conflict on
+  the dropper loop, and the release-only reasoning behind it, moved with the
+  doctrine to
+  [white seabass — dropper loop evidence](white-seabass-dropper-loop.md#doctrine--conflicts).
 
 ## Hatchery & broodstock program (Catalina collection trips)
 
@@ -314,5 +308,7 @@ Program and trip context, not fishing doctrine any angler can replicate. Flagged
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — White Seabass — dropper loop](white-seabass-dropper-loop.md)
 - [White Seabass](../white-seabass.md)
+- [White Seabass — dropper loop](../white-seabass-dropper-loop.md)
 <!-- backlinks:end -->

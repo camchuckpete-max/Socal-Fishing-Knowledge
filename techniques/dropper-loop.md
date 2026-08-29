@@ -473,6 +473,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 <!-- species-applications:start -->
 ## Species applications
 
+- [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -501,6 +502,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Evidence — Leadhead Mods & Rigging](../rigging/evidence/leadhead-mods.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
+- [Evidence — White Seabass — dropper loop](../species/evidence/white-seabass-dropper-loop.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
@@ -534,5 +536,6 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
+- [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

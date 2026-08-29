@@ -399,5 +399,6 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
+- [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

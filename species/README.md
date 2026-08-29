@@ -40,6 +40,7 @@
 - [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal broadbill are a daytime deep-drop fishery built on one fact: the fish ride the deep scattering layer by day, so you hunt the layer and its bait over deep
 - [Wahoo — live bait](wahoo-live-bait.md) — One species, one technique.
 - [Wahoo](wahoo.md) — Water temperature is the gate on wahoo, not the calendar: 72 °F or warmer is the standing condition for a chance at one, and fall — late September, October, ear
+- [White Seabass — dropper loop](white-seabass-dropper-loop.md) **[SoCal only]** — One species, one technique.
 - [White Seabass](white-seabass.md) — White seabass is a squid fishery before it is a seabass fishery: the fish sit on island squid beds in 60–90 ft, close to the bottom, eating spawning squid that
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna: 8–10 lb up to 40–50 lb, with 15–25 lb the average grade (8M4QhL-Qb7E).
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
@@ -54,5 +55,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 41 notes exceed the 30-node cap._
+_Map skipped: 42 notes exceed the 30-node cap._
 <!-- mermaid:end -->

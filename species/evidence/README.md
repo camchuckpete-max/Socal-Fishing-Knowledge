@@ -40,6 +40,7 @@
 - [Evidence — Swordfish (Broadbill)](swordfish.md) — Per-source provenance backing swordfish.
 - [Evidence — Wahoo — live bait](wahoo-live-bait.md) — Per-source provenance backing wahoo — live bait.
 - [Evidence — Wahoo](wahoo.md) — Per-source provenance backing wahoo.
+- [Evidence — White Seabass — dropper loop](white-seabass-dropper-loop.md) — Per-source provenance backing white seabass — dropper loop.
 - [Evidence — White Seabass](white-seabass.md) — Per-source provenance backing white seabass.
 - [Evidence — Yellowfin Tuna](yellowfin-tuna.md) — Per-source provenance backing yellowfin tuna.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
@@ -50,5 +51,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 40 notes exceed the 30-node cap._
+_Map skipped: 41 notes exceed the 30-node cap._
 <!-- mermaid:end -->
