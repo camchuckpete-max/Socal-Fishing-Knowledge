@@ -41,4 +41,5 @@ A charted spot at **32°23.290'N 117°14.570'W** (cameron), in the [Coronado Isl
 ## Linked from
 
 - [Coronado Islands](coronado-islands.md)
+- [Middle Grounds](middle-grounds.md)
 <!-- backlinks:end -->

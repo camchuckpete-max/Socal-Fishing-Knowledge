@@ -86,6 +86,7 @@ file](evidence/halco-laser-pro.md).
 - [Evidence — Halco Laser Pro](evidence/halco-laser-pro.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

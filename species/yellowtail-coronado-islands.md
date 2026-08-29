@@ -140,6 +140,7 @@ are different animals:
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Imperial Beach](../locations/imperial-beach.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

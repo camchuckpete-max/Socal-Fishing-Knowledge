@@ -45,6 +45,7 @@
 - [Evidence — La Paz](la-paz.md) — The observation layer behind La Paz.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
 - [Evidence — Mexican waters](mexican-waters.md) — The observation layer behind Mexican waters.
+- [Evidence — Middle Grounds](middle-grounds.md) — The observation layer behind Middle Grounds.
 - [Evidence — North 9 Mile Bank / 178](north-9-mile-bank-178.md) — Provenance for North 9 Mile Bank / 178.
 - [Evidence — North County Artificial Reefs](north-county-artificial-reefs.md) — The observation layer behind North County Artificial Reefs.
 - [Evidence — Oceanside / North County](oceanside-north-county.md) — The observation layer behind Oceanside / North County.
@@ -68,5 +69,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 58 notes exceed the 30-node cap._
+_Map skipped: 59 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -385,6 +385,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Lingcod — jigging](lingcod-jigging.md)
 - [Lower Cross](../locations/lower-cross.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [November–December](../seasonal/november-december.md)

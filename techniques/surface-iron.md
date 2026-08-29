@@ -516,6 +516,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [May](../seasonal/may.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)

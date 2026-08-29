@@ -281,6 +281,7 @@
 - [Mail Point](mail-point.md) **[SoCal only]** — A charted spot at 32°52.760'N 118°31.290'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
+- [Middle Grounds](middle-grounds.md) **[Baja only]** — The bank in the middle of the Coronado Islands chain, at 32°25.810'N 117°15.950'W (cameron) — the mid-chain structure the islands circuit crosses between passes
 - [Mission Bay Park Artificial Kelp Reef](mission-bay-park-artificial-kelp-reef.md) **[SoCal only]** — A charted spot at 32°46.200'N 117°16.067'W (cameron), in the San Diego artificial reefs zone.
 - [Mission Bay Park Ingraham St Bridge Rubble](mission-bay-park-ingraham-st-bridge-rubble.md) **[SoCal only]** — A charted spot at 32°45.930'N 117°16.278'W (cameron), in the San Diego artificial reefs zone.
 - [Mission Bay Park NEL Tower](mission-bay-park-nel-tower.md) **[SoCal only]** — A charted spot at 32°46.367'N 117°16.050'W (cameron), in the San Diego artificial reefs zone.
@@ -430,5 +431,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 417 notes exceed the 30-node cap._
+_Map skipped: 418 notes exceed the 30-node cap._
 <!-- mermaid:end -->

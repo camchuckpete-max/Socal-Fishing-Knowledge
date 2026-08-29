@@ -183,6 +183,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bird-reading.md
 - [Kelp Paddies](kelp-paddies.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)

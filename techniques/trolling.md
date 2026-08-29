@@ -1043,6 +1043,7 @@ covered above, not a new tool.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Making Bait](../bait/making-bait.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
+- [Middle Grounds](../locations/middle-grounds.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
