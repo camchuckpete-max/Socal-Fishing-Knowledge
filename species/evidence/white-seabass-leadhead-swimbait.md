@@ -21,8 +21,9 @@ the family-level provenance.
 - `hjZ3hgq0Bzg` (Tackle Express, Shannon Gallagher, 2025-04-28, 22:27, "Don't
   Fish White Flukes Until You Watch This!"): source for the countdown-to-bottom
   cast pair (30 s to bottom, engage at 20 s on the next cast) and for the
-  every-third-cast midwater-column swim with its dropper-loop-rail reasoning;
-  unregistered channel, single mention — medium confidence.
+  every-third-cast midwater-column swim with its dropper-loop-rail reasoning,
+  and for the 1.5 oz head the cadence is described on (depth control on the
+  count); unregistered channel, single mention — medium confidence.
 - `qLKLlZdiflA` (Tackle Express, "Essentials You Need For Tuna Fishing in
   Southern California," 2023-04-20): source for the slow, current-worked
   down-up-down walk for a white seabass that "wants to chase something,"

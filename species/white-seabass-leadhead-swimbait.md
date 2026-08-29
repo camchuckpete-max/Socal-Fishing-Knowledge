@@ -72,10 +72,16 @@ this species under [doctrine & conflicts](#doctrine--conflicts).
 
 - **Lure: the fluke-style soft plastic on a leadhead**, the same
   [leadhead + soft-plastic swimbait class](../lures/soft-plastic-swimbaits.md)
-  the general retrieve uses. Head weights for a white seabass fluke — the
-  calm-day range and the heavier current/wind range — are stated in the
-  router's [situations → techniques](white-seabass.md#situations--techniques)
-  row and are not restated here.
+  the general retrieve uses. The countdown cadence above is described on a
+  **1.5 oz** head, which is what makes the count a depth control rather than a
+  guess — that weight sinks to the bottom in 60–100 ft "reasonably quickly"
+  and holds a chosen depth on the retrieve (`hjZ3hgq0Bzg`); head spec and sink
+  behaviour are in the
+  [lure note](../lures/soft-plastic-swimbaits.md). Head weights for a white
+  seabass fluke more broadly — the calm-day range and the heavier current/wind
+  range — are stated in the router's
+  [situations → techniques](white-seabass.md#situations--techniques) row and
+  are not restated here.
 - **Rod/reel: casting class**, a low-profile baitcaster or any of the rods the
   general note accepts for this presentation — no dedicated stick is required
   (see [gear class](../techniques/leadhead-swimbait-retrieve.md#gear-class)).
@@ -83,8 +89,8 @@ this species under [doctrine & conflicts](#doctrine--conflicts).
 - **Line and drag follow the species, not the lure**: white seabass have soft
   mouths, which sets the mono/soft-rod/light-drag chain in the router's
   [gear summary](white-seabass.md#gear-summary-class-terms).
-- ⚠ Flagged gap — no corpus source: any leadhead weight, line class or hook
-  specification stated *for this pairing specifically*. Everything gear-side
+- ⚠ Flagged gap — no corpus source: a line class or hook size stated *for this
+  pairing specifically*. Apart from the head weight above, everything gear-side
   here is the general class; the parameters that earn this page are the
   countdown pair, the midwater cadence and the retrieve conflict.
 
