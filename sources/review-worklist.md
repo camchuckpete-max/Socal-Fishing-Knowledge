@@ -869,7 +869,7 @@ by their builders after the transform phase drains.
 | locations/alijos-rocks-the-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/lighthouse-point-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/cabrilla-jerkbait.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
-| species/cabrilla-yo-yo-iron.md | standard | pending |  | created by relocation from species/cabrilla.md |
+| species/cabrilla-yo-yo-iron.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
 | species/calico-bass-surface-iron.md | standard | pending |  | created by relocation from species/calico-bass.md |
 | species/california-halibut-live-bait-drift.md | standard | pending |  | created by relocation from species/california-halibut.md |
 | species/california-halibut-surf-lures.md | standard | pending |  | created by relocation from species/california-halibut.md |
