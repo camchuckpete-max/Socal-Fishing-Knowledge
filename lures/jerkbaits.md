@@ -113,5 +113,6 @@ file](evidence/jerkbaits.md).
 - [Evidence — Jerkbaits (Baja Cabrilla Program)](evidence/jerkbaits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 <!-- backlinks:end -->

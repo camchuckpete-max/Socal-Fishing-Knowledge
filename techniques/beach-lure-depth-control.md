@@ -101,5 +101,5 @@ reel, line) is not defined yet.
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Inshore Crankbaits](inshore-crankbaits.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
-- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)
+- [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)
 <!-- backlinks:end -->

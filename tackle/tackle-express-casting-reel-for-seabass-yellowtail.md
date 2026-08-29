@@ -61,7 +61,7 @@ The clip names no specific lure, retrieve, or rig this pairs with.
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Evidence — Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](evidence/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Evidence — Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](evidence/tackle-express-cedros-four-rod-quiver.md)
-- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
+- [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
