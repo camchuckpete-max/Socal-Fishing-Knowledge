@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2435 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
+_Totals: 2441 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -3922,6 +3922,15 @@ _Totals: 2435 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/six-mile-reef.md**
+  - `Getting there`: gap — a distance, heading, run time or sea-state
+  - `Structure & bathymetry`: gap — the reef's depth, its relief, its bottom
+  - `What's there`: gap — the trip that produced it is undated, and no month is attached to the fish | **The reason the reef is on the plan at all** — *"that's where I got the yellowtail"* on an earlier trip, recalled while running to it (`n4nMCLLW3tY`). None came off it on the day filmed. It is the zone's only yellowtail recorded over a high spot rather than against island rock or a sheltered corner ([zone page](loreto.md#whats-there)). ⚠ Fact-check (single-source): an undated on-camera recollection of one fish, never repeated and never retested |
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — names this reef for [dorado](../species/dorado.md), roosterfish, sierra, [barracuda](../species/barracuda.md) or [cabrilla](../species/cabrilla.md). All of those are recorded against other grounds in the zone ([zone page](loreto.md#whats-there)) |
+  - `What's there`: gap — grade or weight for anything taken here,
+  - `How it fishes`: gap — which lure, line class or retrieve took which
 - **locations/slide-152-277.md**
   - `Getting there`: gap — the port the 2014 trip left
   - `Getting there`: gap — any closure, restricted area or MPA boundary
