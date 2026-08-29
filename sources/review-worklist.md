@@ -217,7 +217,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md | light | done | gaps(1) | transform verified, faithful split to evidence file, cites checked against transcript |
 | tackle/spectra-hollow-vs-solid.md | light | done | none | transform applied with one restored claim (deleted TactX/Threadlock sponsored-caveat sentence, no relocation logged) |
 | tackle/spinning-reel-bait-feeder.md | light | done | none | transform applied, attribution preamble retired to cite per v2 style guide, no facts lost, check-note.py clean |
-| tackle/spooling-line-tension-and-twist.md | light | transformed | none | transform applied, light tier, 0 check-note warnings, no information loss found |
+| tackle/spooling-line-tension-and-twist.md | light | done | none | transform applied, light tier, 0 check-note warnings, no information loss found |
 | tackle/star-drag-vs-lever-drag.md | light | transformed | none | transform verified faithful, LIGHT-tier prose/cite normalization, no information loss |
 | tackle/tackle-express-accurate-tern-2-reel.md | light | transformed | asr-uncertain(guest name, Torx driver sizing, twin-drag stack mechanism, closing 165 lb anecdote) | transform applied with 2 verifier fixes (evidence-file wording contradiction, restored species-ambiguity caveat) |
 | tackle/tackle-express-accurate-valiant-2-spj-reel.md | light | transformed | none | transform verified: evidence split conserved, quotes match transcript, link-maintenance run |
