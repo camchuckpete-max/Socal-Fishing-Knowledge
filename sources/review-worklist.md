@@ -895,7 +895,7 @@ by their builders after the transform phase drains.
 | species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/snook-sliding-sinker.md | standard | transformed | none | verified already-compliant, no note changes needed; 1 accurate spot-harvest row appended and confirmed against transcript |
 | locations/lopez-mateos-magdalena-bay-boca.md | gazetteer | pending |  | harvest: 1 mention(s) |
-| species/white-seabass-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
+| species/white-seabass-sliding-sinker.md | standard | transformed | none | removed 2 banned 'not reconciled' meta-narration phrases per style-guide v2.1; all cites/facts conserved; check-note.py clean |
 | species/spotted-bay-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
 | species/calico-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
 | species/yellowtail-tube-bait-fishing.md | standard | pending |  | created by relocation from techniques/tube-bait-fishing.md |

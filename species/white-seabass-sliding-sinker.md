@@ -131,8 +131,7 @@ technique** in its own right (`Eo_bA8IWvyU`):
   above that the jig above replaces the rig (`ShSxNKAcUB4`). A second briefing
   from a different channel puts the **slider squid** rig at **1/4 oz or 1/2 oz**
   for the same fish-higher-in-the-column trigger at the Channel Islands
-  (`nRIAgz5G_Bc`) — a data point inside the same range, not reconciled to a
-  single number.
+  (`nRIAgz5G_Bc`).
 - **The sinker must be free to slide.** Do not pin or stop the weight: it slides
   down the line while the bait trails back behind it, which is the whole
   mechanism (`Eo_bA8IWvyU`).
@@ -188,7 +187,7 @@ bite:
   format is egg sinker → bead → swivel → leader → hook; this build is described
   as the sinker sliding straight down the line to the hook, with no bead, swivel
   or leader named (`ShSxNKAcUB4`) — the same lean form logged for the San Diego
-  yellowtail slider on the general note, and not reconciled with the full order.
+  yellowtail slider on the general note.
 - **The hook is thin-wire by preference, against the note's octopus default**
   (`ShSxNKAcUB4`).
 - **There is a documented point at which this rig is abandoned.** No other build
