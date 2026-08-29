@@ -69,8 +69,8 @@ file](evidence/tackle-express-mustad-heavy-duty-pliers.md).
 
 - [Evidence — Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](evidence/tackle-express-mustad-heavy-duty-pliers.md)
 - [Evidence — Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](evidence/tackle-express-chad-fathom-lowprofile-surf-combo.md)
+- [Evidence — Penn Handle Knob Replacement Kits (Tackle Express)](evidence/tackle-express-penn-handle-knob-replacement.md)
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
-- [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 <!-- backlinks:end -->

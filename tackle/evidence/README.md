@@ -61,11 +61,12 @@
 - [Evidence — Spinning Rod for "Minnow-Style" Fishing (Tackle Express)](tackle-express-minnow-rod.md) — Per-source provenance for Spinning Rod for "Minnow-Style" Fishing.
 - [Evidence — Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Per-source provenance for Mustad 7.5" Heavy-Duty Pliers.
 - [Evidence — Tungsten (TG) Jig Rig for Bluefin (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Per-source provenance for Tungsten (TG) jig rig for bluefin — night, day, and surface.
+- [Evidence — Penn Handle Knob Replacement Kits (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Per-source provenance for Penn Handle Knob Replacement Kits — Fathom, Torque, Squall.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 57 notes exceed the 30-node cap._
+_Map skipped: 58 notes exceed the 30-node cap._
 <!-- mermaid:end -->
