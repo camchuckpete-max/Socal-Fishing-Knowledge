@@ -3,27 +3,19 @@ type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism, bottom-fishing]
 sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ, sj_9QYlGtGo, vALAeUaBmRM]
 confidence: medium
+layout: v2
 ---
 
 # Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)
 
-Tackle Express, "Tuna Trouble? The Ultimate Reel Showdown is HERE!,"
-`5hnHrCUNk3Q`, uploaded 2026-02-19 — a 37-second tackle-counter clip comparing
-Shimano Speedmaster and Penn Fathom two-speed lever-drag reels at three size
-tiers. `tackle-express` is an unregistered channel, single mention —
-**medium** confidence for the size/line-class parameters below. The clip cuts
-off mid-sentence before the third tier's line/leader spec is given — filled by
-`K_0AeM4OvuE` below.
-
-A longer, later Tackle Express upload — "Penn Fathom II vs. Shimano
-SpeedMaster II – Which 2-Speed Reel is Right for You?," `K_0AeM4OvuE`,
-uploaded 2025-03-26, 15:36, presenter Harry (self-identified on camera) —
-covers the same two lineups at the same three size tiers in much greater
-depth: full weight/drag/capacity specs per model, the shift mechanism, drag
-adjustment discipline, handle comparison, and free-spool/build-material
-detail. Same unregistered-channel cap — **medium** confidence throughout.
-Folded into this note rather than split out, since it's the same
-Speedmaster-vs-Fathom comparison this note already anchors.
+The Shimano Speedmaster and Penn Fathom two-speed lever-drag lines both run
+three size tiers — small, mid, big — that map onto line class rather than
+model name alone. Tackle Express's shop-counter comparisons give per-model
+weight, drag, and line-capacity specs, plus shift-mechanism, drag-adjustment,
+handle, and free-spool/build differences between the two lines at each tier.
+Per the confidence rubric, `tackle-express` being an unregistered channel
+caps this note at medium, except the OEM Shimano T-bar handle section below,
+which drops to low as sponsored/promotional content.
 
 Split into its own note rather than added to [rod & reel
 selection](rod-and-reel-selection.md) (already well over this repo's
@@ -32,61 +24,47 @@ both.
 
 ## The three-tier ladder
 
-- **Small tier — Speedmaster 10 / Penn Fathom 25:** spooled **50–60 lb
-  braid** to a **20–40 lb test leader**. Named application: "local offshore
-  fishing, tuna, yellowtail, rockfish" — called "really good all-around local
-  fishing reels." `K_0AeM4OvuE` restates this tier as "great live bait
-  setups," 20 to 40 lb test, consistent with `5hnHrCUNk3Q`.
-- **Mid tier — Speedmaster 16 / Penn Fathom 40:** `5hnHrCUNk3Q` captioned the
-  Fathom model here as "Sporty," which doesn't match any recognized Penn
-  Fathom product name, so per the ASR-hazard rule it was flagged
-  `asr-uncertain` and not carried as a specific product ID. `K_0AeM4OvuE`
-  resolves this: it names the three Fathom sizes on camera as **25, 40, and
-  80** ("we have a 25, an 80, or sorry, a 40, as well as an 80" — Harry
-  self-corrects the second-named size from "80" to "40," not the first), and
-  later
-  breaks out individual specs for a "Fathom 40" by name. "Sporty" is treated
-  as an ASR mishearing of **"40"** — the size-tier position already inferred
-  in `5hnHrCUNk3Q` (one step up from the small tier, one step down from the
-  big tier) matches. Spooled **80–100 lb braid** to a **40 lb–to–60/80 lb
-  test leader** (`5hnHrCUNk3Q`'s captions render the top end of this range
-  ambiguously as "60 to 80," so both the 60 lb and 80 lb readings are
-  preserved rather than picking one — still flagged `asr-uncertain` for that
-  specific range boundary). No named application beyond the general step-up
-  in grade implied by the heavier line.
-- **Big tier — Speedmaster 25 / Penn Fathom 80**, introduced as "the big
-  dog" in `5hnHrCUNk3Q`, which cuts off before any line/leader spec is given
-  for this tier. `K_0AeM4OvuE` fills the gap: spool with **no less than 80
-  or 100 lb braid**, fishing leaders **60 to 100 lb test** — "your larger
-  applications offshore, larger class fish species."
+| Tier | Speedmaster | Fathom | Braid | Leader | Named application |
+| --- | --- | --- | --- | --- | --- |
+| Small | 10 | 25 | 50–60 lb | 20–40 lb | Local offshore fishing — tuna, yellowtail, rockfish; "great live bait setups" (`5hnHrCUNk3Q`, `K_0AeM4OvuE`) |
+| Mid | 16 | 40 | 80–100 lb | 40 lb–to–60/80 lb[^mid-leader] | None named beyond the step-up in line grade (`5hnHrCUNk3Q`) |
+| Big | 25 | 80 | 80–100 lb minimum | 60–100 lb | "Your larger applications offshore, larger class fish species" (`K_0AeM4OvuE`) |
 
-### Penn Fathom 80 — drag rating and build (separate clip)
+[^mid-leader]: `5hnHrCUNk3Q`'s captions render the top end of this range
+ambiguously as "60 to 80"; both readings are preserved rather than picking
+one, since the exact upper leader boundary for the mid tier cannot be
+resolved from the caption text.
 
-Tackle Express, "50 LBS of Drag?! This reel is an absolute BEAST!,"
-`D0oEQsTaL7A`, uploaded 2026-02-25 — a 34-second tackle-counter clip that
-opens mid-sentence (footage before 00:00:00 is missing), so the construction
-claims below may describe the Fathom line generally rather than the 80
-specifically; the drag figure is stated on-camera as the 80's own spec, kept
-as **medium** confidence (unregistered channel, single mention), consistent
-with the ladder above rather than combined into a single parameter:
+`5hnHrCUNk3Q` captions the mid-tier Fathom model as "Sporty," which matches
+no recognized Penn Fathom product name. `K_0AeM4OvuE` names the three Fathom
+sizes on camera as 25, 40, and 80 (Harry self-corrects "80" to "40" for the
+second size) and later gives individual specs for a "Fathom 40." "Sporty" is read as a
+caption mishearing of "40," consistent with the mid tier's position between
+the small and big tiers (`5hnHrCUNk3Q`, `K_0AeM4OvuE`). The big tier is
+introduced as "the big dog" in
+`5hnHrCUNk3Q`, which cuts off before its line/leader spec is given;
+`K_0AeM4OvuE` fills the gap.
 
-- **Drag — 50 lb**, stated explicitly for "our Fathom 80": "way more than any
-  of us could ever use."
-- **Gear train — stainless drive and pinion gear**, stated reason: durability
-  across repeated fights ("continue to take a beating over and over again,
-  fish after fish") with "minimal to zero issues." Consistent with (not
-  additional confirmation of, per the re-cut-footage rule — this is a
-  different clip) the all-stainless-steel gear train already noted for the
-  Fathom II generation in [Penn Fathom II and Penn Authority — ICAST 2022
-  Launch Parameters](tackle-express-icast2022-penn-fathom2-authority.md).
-- **Frame — one-piece aluminum frame and side plate**, stated reason:
-  minimizes binding or flexing under load.
-- Still no line/leader spec for this tier from either clip.
+### Penn Fathom 80 — drag rating and build
 
-### Full spec ladder — weight, drag, and line-capacity (`K_0AeM4OvuE`)
+The Fathom 80 carries a rated drag of 50 lb — "way more than any of us could
+ever use" (`D0oEQsTaL7A`). Its gear train uses a stainless drive and pinion
+gear for durability across repeated fights, showing "minimal to zero issues"
+after repeated use (`D0oEQsTaL7A`); the same all-stainless gear train is
+documented for the Fathom II generation in [Penn Fathom II and Penn
+Authority — ICAST 2022 launch
+parameters](tackle-express-icast2022-penn-fathom2-authority.md). Its frame is
+a one-piece aluminum frame and side plate, which minimizes binding or
+flexing under load (`D0oEQsTaL7A`). The clip opens mid-sentence (footage
+before 00:00:00 is missing), so these construction claims may describe the
+Fathom line generally rather than the 80 specifically; the drag figure is
+stated on camera as the 80's own spec. No line/leader spec is given for this
+tier in either clip.
 
-Harry gives per-model weight, max drag, and quoted line capacity for all six
-reels, spooling each with the braid weight it's rated for:
+### Full spec ladder — weight, drag, and line capacity
+
+Per-model weight, max drag, and quoted line capacity, each spooled at its
+rated braid weight (`K_0AeM4OvuE`):
 
 | Model | Drag | Quoted capacity | Weight |
 | --- | --- | --- | --- |
@@ -95,239 +73,183 @@ reels, spooling each with the braid weight it's rated for:
 | Speedmaster 25 | 44 lb | ~470 yd of 100 lb braid | 36.2 oz |
 | Fathom 25 (narrow) | 33 lb | 475 yd of 50 lb braid | 20.1 oz |
 | Fathom 40 (narrow) | 40 lb | 565 yd of 80 lb braid | 24.1 oz |
-| Fathom 80 | 50 lb | 980 yd of 100 lb braid (Harry's own caveat below) | 32.9 oz |
+| Fathom 80 | 50 lb | 980 yd of 100 lb braid (quality-check below) | 32.9 oz |
 
-A separate, shorter Tackle Express clip, "Penn vs. Shimano: The Drag Fight You
-Didn't See Coming!" (`vALAeUaBmRM`, uploaded 2026-02-14, 38 s, presenter
-unnamed on camera) isolates drag/capacity/weight numbers matching two of the
-six reels above — **Fathom 25 (narrow)** and **Fathom 40 (narrow)**, both
-named explicitly on camera — plus a third, unnamed reel it only calls "what
-was 18 lb of drag" / "this one," never on camera identified by model. Stated
-figures: 33 lb drag, 475 yd of 50 lb braid, 20.1 oz for the Fathom 25; 40 lb
-drag, 565 yd of 80 lb braid, 24.1 oz for the Fathom 40; 18 lb drag and 19 oz
-for the unnamed reel — the latter two numbers match the Speedmaster 10 row
-above, but per the ASR/naming rule applied elsewhere in this note (the
-`JUcsUMJize0` clip's unnamed second reel), that identity is not asserted here
-since the clip itself never states it. Read as a re-cut of this same
-spec-ladder segment rather than independent confirmation, per the
-re-cut-footage rule — no new parameter beyond the table above. The clip's own
-brief framing treats the Fathom 25's edge as **less weight for more drag**
-compared to the unnamed 18-lb-drag reel, consistent with Harry's size-for-size
-"directly comparable products" framing below.
+A shorter clip isolates the same drag/capacity/weight numbers for the Fathom
+25 and Fathom 40 (both named on camera), plus a third, unnamed reel whose
+numbers — 18 lb drag, 19 oz — match the Speedmaster 10 row above; that
+identity is not asserted here since the clip itself never names it. Read as
+a re-cut of the same spec-ladder segment, not independent confirmation; the
+clip frames the Fathom 25's edge as less weight for more drag against the
+unnamed reel (`vALAeUaBmRM`).
 
 Harry's own quality checks on the quoted capacities, stated on camera rather
-than taken at face value:
+than taken at face value (`K_0AeM4OvuE`):
 
-- **Speedmaster 25 — probably underquoted.** He's personally spooled a
-  number of these in the shop and "exceeded well over 470 yards on numerous
-  occasions" — his own estimate is at least **550 yd**, "depending on how
-  much [leader] you might run."
-- **Fathom 80 — probably overquoted.** The **980 yd** of 100 lb braid figure
-  is, in his words, "a little bit far-fetched... that's a lot of line,"
-  unless it's an unusually thin-diameter braid; since the Fathom 80 and
-  Speedmaster 25 are otherwise "very, very comparable" on performance, cost,
-  and spool capacity, his own more-acceptable estimate is **600–700 yd**.
-- Both size-for-size pairs (10/25, 16/40, 25/80) are framed by Harry as
-  directly comparable products at similar price and performance.
+- **Speedmaster 25 — probably underquoted.** Personally spooled a number of
+  these in the shop and "exceeded well over 470 yards on numerous
+  occasions"; his own estimate is at least 550 yd, "depending on how much
+  [leader] you might run" (`K_0AeM4OvuE`).
+- **Fathom 80 — probably overquoted.** The 980 yd figure is "a little bit
+  far-fetched... that's a lot of line" unless the braid is unusually
+  thin-diameter; since the Fathom 80 and Speedmaster 25 are otherwise "very,
+  very comparable" on performance, cost, and spool capacity, his own
+  more-acceptable estimate is 600–700 yd (`K_0AeM4OvuE`).
+- Both size-for-size pairs (10/25, 16/40, 25/80) are framed as directly
+  comparable products at similar price and performance (`K_0AeM4OvuE`).
 
-The Fathom 80's **50 lb drag** and **stainless drive/pinion, one-piece
-aluminum frame** build match the separate `D0oEQsTaL7A` clip above (kept as a
-second citation, not treated as independent confirmation per the
-re-cut-footage rule — different clip, same channel).
+The Fathom 80's 50 lb drag and stainless drive/pinion, one-piece aluminum
+frame build match the separate `D0oEQsTaL7A` clip above — a second citation
+for the same claim, not treated as independent confirmation per the
+re-cut-footage rule (different clip, same channel).
 
-### Shift mechanism, drag adjustment discipline, and handles (`K_0AeM4OvuE`)
+### Shift mechanism, drag adjustment discipline, and handles
 
-- **Two-speed shift.** Speedmaster: push the lever in to drop to low, push it
-  back down to return to high — described as "super quick, super easy."
-  Fathom: Penn's own name for its mechanism is the **"quick shifter"** — click
-  in for low; to return to high, "you don't even need to take your handle off
-  the reel." A separate, later Tackle Express upload, "Speed Shift Showdown:
-  Shimano vs. Penn Reels!" (`nORwiYXBQmQ`, uploaded 2026-02-18, 33 s,
-  presenter unnamed on camera), covers this exact same shift comparison in
-  near-identical wording ("super quick, super easy," "quick shifter," "don't
-  even need to take your handle off the reel") — read as a re-cut of this
-  same demonstration rather than independent confirmation, per the
-  re-cut-footage rule. No specific reel size is named on camera in this clip
-  and no parameter beyond what's already given above is added.
+- **Two-speed shift.** Speedmaster: push the lever in to drop to low, push
+  it back down to return to high — "super quick, super easy." Fathom's own
+  name for its mechanism is the "quick shifter": click in for low, and
+  returning to high doesn't require taking the handle off the reel
+  (`K_0AeM4OvuE`; re-cut in `nORwiYXBQmQ`, no new parameter).
 - **Drag adjustment — both reels, same lever-drag discipline.** Never adjust
   the preset drag while the lever is anywhere on the drag curve out of free
   spool — doing so "will break the drag washer" and affect performance. Drag
-  can only be safely tightened or loosened with the lever sent all the way to
-  free spool.
-  - **Speedmaster:** from free spool, tighten/loosen freely; the lever then
-    has a physical **stopper at the strike position** — stated reason: it
-    prevents overshooting into full and breaking a fish off by accident.
-    Going past strike into full requires clicking a separate button, then
-    incrementally increasing to full.
-  - **Fathom — "pull to turn."** Penn's preset-drag philosophy, per Harry:
-    "you set it one and done... forget about it, leave it unless something
-    changes" (line size or target-fish class). Adjustment still requires the
-    lever all the way to free spool, then pulling the dial out to turn it.
-    Matches the "preset, pull to turn" language and pull-to-turn dial design
-    already documented for the Fathom II generation-2 redesign in [Penn
-    Fathom II and Penn Authority — ICAST 2022 Launch
-    Parameters](tackle-express-icast2022-penn-fathom2-authority.md#penn-fathom-ii-lever-drag--what-changed-from-generation-1)
+  can only be safely tightened or loosened with the lever sent all the way
+  to free spool (`K_0AeM4OvuE`).
+  - **Speedmaster:** from free spool, tighten/loosen freely; the lever has a
+    physical stopper at the strike position, which prevents overshooting
+    into full and breaking a fish off by accident. Going past strike into
+    full requires clicking a separate button, then incrementally increasing
+    to full (`K_0AeM4OvuE`).
+  - **Fathom — "pull to turn."** Penn's preset-drag philosophy: "you set it
+    one and done... forget about it, leave it unless something changes"
+    (line size or target-fish class). Adjustment still requires the lever
+    all the way to free spool, then pulling the dial out to turn it
+    (`K_0AeM4OvuE`). Matches the pull-to-turn dial design documented for the
+    Fathom II generation-2 redesign in [Penn Fathom II and Penn Authority —
+    ICAST 2022 launch
+    parameters](tackle-express-icast2022-penn-fathom2-authority.md#penn-fathom-ii-lever-drag--what-changed-from-generation-1)
     (Steve Carson, Penn) — independent corroboration from a different
-    presenter and a different clip.
+    presenter and clip.
 - **Handles — the biggest stated difference between the lines.** Speedmaster
-  ships with a **standard round knob** across all sizes — "nothing wrong with
-  them," but on the larger sizes (the Speedmaster 25 specifically, 80 lb
-  test, triple-digit fish) Harry says the knob "can be a little bit tiring on
-  your palm," can wear blisters, and doesn't give much to grab and torque on;
-  aftermarket
-  replacement handles are available at added cost. Fathom ships with a
-  **T-bar handle on every size**, giving more to grab and more torque/power —
-  but on the larger Fathom sizes (40, 60, up to 80) Harry says the handles run
-  "a little soft," with more wiggle than the Speedmaster's; at the top of the
-  line (100 lb test, triple-digit fish) he says "there has been some stuff
-  happen with these handles," though he adds the manufacturer "seems like...
-  has resolved and fixed their issues." A local business, **"Real Tweaks,"**
-  sells upgraded power-handle replacements for the stock Fathom handle on the
-  bigger sizes; on all smaller Fathom sizes the stock handle is "just fine."
-  Distinct from a full handle swap: for just the **knob** on a stock T-bar
-  handle, see [Penn handle knob replacement — Fathom, Torque,
-  Squall](tackle-express-penn-handle-knob-replacement.md).
-  A short standalone clip, "Round Knob vs. T-Bar: Which reel handle wins for
-  monster fish?" (`eqeESarhRrE`, uploaded 2026-02-15, 66 s), covers this same
-  round-knob-vs-T-bar point in near-identical wording ("tiring on your palm,"
-  "wear blisters," "grab and... torque on," aftermarket handles as "added
-  cost") — read as a re-cut of this same segment rather than independent
-  confirmation, per the re-cut-footage rule. It names **both the Speedmaster
-  20 and 25** (not just the 25) as the sizes where the round knob falls short
-  for 80 lb-test, triple-digit-class fish, and states the Fathom line ships
-  T-bar handles "from the smallest all the way to the largest" — consistent
-  with, not new beyond, the all-sizes T-bar claim already given above.
+  ships a standard round knob across all sizes — "nothing wrong with them,"
+  but on the larger sizes (Speedmaster 25 specifically, 80 lb test,
+  triple-digit fish) the knob "can be a little bit tiring on your palm," can
+  wear blisters, and gives little to grab and torque on; aftermarket
+  replacement handles are available at added cost (`K_0AeM4OvuE`; also names
+  the Speedmaster 20 in `eqeESarhRrE`, a re-cut of the same comparison).
+  Fathom ships a T-bar handle on every size, giving more to grab and more
+  torque/power, but on the larger sizes (40, 60, up to 80) the handles run
+  "a little soft," with more wiggle than the Speedmaster's; at the top of
+  the line (100 lb test, triple-digit fish) "there has been some stuff
+  happen with these handles," though the manufacturer "seems like... has
+  resolved and fixed their issues" (`K_0AeM4OvuE`). A local business, Real
+  Tweaks, sells upgraded power-handle replacements for the stock Fathom
+  handle on the bigger sizes; on smaller Fathom sizes the stock handle is
+  "just fine" (`K_0AeM4OvuE`). For just the knob on a stock T-bar handle
+  rather than a full handle swap, see [Penn handle knob replacement —
+  Fathom, Torque, Squall](tackle-express-penn-handle-knob-replacement.md).
 
-### OEM Shimano T-bar handle — price, install, and the bottom-fishing case for it (separate clip)
+### OEM Shimano T-bar handle — price, install, and the bottom-fishing case for it
 
-Tackle Express, "Upgrade Your Shimano Reel with a T-Bar Handle—Here's Why 🎣💪,"
-`f1pZI-bfMz4`, uploaded 2025-04-23, presenter Harry (self-identified on
-camera) — a 105-second shop clip pitching the **OEM Shimano T-bar handle** as
-an aftermarket upgrade for a Shimano reel with a two-speed mechanism (no
-specific model named on camera, so this is not asserted here as
-Speedmaster-specific — it sits beside the Speedmaster's stock-round-knob
-material above as the same class of upgrade). Unlike the round-knob-vs-T-bar
-comparison clips above, this video carries pricing, in-stock/restock
-messaging, and a direct buy call to action ("check us out online... jump on
-them... free shipping"), which per CLAUDE.md's confidence rubric ("low —
-sponsored or promotional claim, regardless of channel") is the governing cap
-here — **low** confidence, distinct from this note's medium-confidence
-build/spec comparisons elsewhere (compare the same promotional-content cap
-applied to [Penn Fathom II and Penn Authority — ICAST 2022 Launch
-Parameters](tackle-express-icast2022-penn-fathom2-authority.md)).
+The OEM Shimano T-bar handle is an aftermarket upgrade for a Shimano reel
+with a two-speed mechanism — no specific model is named on camera, so it
+isn't asserted here as Speedmaster-specific, though it sits alongside the
+Speedmaster's stock-round-knob material above as the same class of upgrade
+(`f1pZI-bfMz4`). This section is capped at low confidence — sponsored/
+promotional content (pricing, in-stock/restock messaging, a buy call to
+action) — distinct from the medium confidence elsewhere in this note.
 
-- **Two stated benefits, consistent with the round-knob-vs-T-bar comparison
-  above but from a buyer's-eye framing:** more torque/power for larger fish,
-  and — even for anglers not specifically chasing large fish — a more
-  comfortable grip; the T-bar is described as having a slight angle built in
-  for comfort, with no binding.
-- **Install — quick, no reel-specific tool.** A screwdriver pops the handle
-  cap; a wrench pops out the two-speed mechanism underneath. Stated as
-  installable in under 5 minutes.
-- **Named application: bottom fishing.** The larger handle is called out
-  specifically as making it easier to crank fish up from depth — consistent
-  with the bigger-body/more-torque mechanism already logged for deep-bottom
-  cranking in [rockfish deep-dropping — rod, reel & line for the
-  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing).
-- **Price and availability (promotional detail, kept for the record):**
-  **$59.99**, an OEM Shimano part (stated explicitly as not aftermarket
-  third-party), sold in batches that come in from Shimano, sell through, and
-  then wait for restock.
+- Two stated benefits, consistent with the round-knob-vs-T-bar comparison
+  above but from a buyer's-eye framing: more torque/power for larger fish,
+  and — even for anglers not chasing large fish — a more comfortable grip;
+  the T-bar has a slight angle built in for comfort, with no binding
+  (`f1pZI-bfMz4`).
+- Install: a screwdriver pops the handle cap, a wrench pops out the
+  two-speed mechanism underneath, no reel-specific tool required —
+  installable in under 5 minutes (`f1pZI-bfMz4`).
+- Named application: bottom fishing. The larger handle makes it easier to
+  crank fish up from depth, consistent with the bigger-body/more-torque
+  mechanism logged for deep-bottom cranking in [rockfish deep-dropping —
+  rod, reel & line for the
+  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing)
+  (`f1pZI-bfMz4`).
+- Price and availability: $59.99, an OEM Shimano part (stated explicitly as
+  not aftermarket third-party), sold in batches that come in from Shimano,
+  sell through, and then wait for restock (`f1pZI-bfMz4`).
 
-## Free spool — Speedmaster bearing spec, and why free spool matters (Tackle Express)
+## Free spool — why it matters, and the Speedmaster's bearing spec
 
-Tackle Express, "Offshore Reels Face-Off! See the Free Spool King Crowned,"
-`JUcsUMJize0`, uploaded 2026-02-11 — a 50-second tackle-counter clip comparing
-the free spool of two reels. The clip names only the **Shimano Speedmaster**
-side of the comparison; the other reel is never named on camera. The title
-implies a two-reel face-off, and this note's other two clips are a
-Speedmaster-vs-Fathom theme, but per the ASR/naming rule a name isn't carried
-unless the source states it — the second reel is **not** assumed to be the
-Penn Fathom here. `tackle-express` unregistered channel, single mention —
-**medium** confidence.
+Two named West Coast offshore applications depend on strong free spool
+(`JUcsUMJize0`):
 
-- **Why free spool matters, two named West Coast offshore applications:**
-  (1) **Fly-lining bait** — described as "just a hook, line, no sinker,"
-  getting the bait away from the boat — a reel that free-spools well is
-  called important for getting the bait as far from the boat as possible,
-  for the best odds of a bite. Consistent with, not new beyond, the
-  distance-over-weight doctrine already logged in
-  [flyline](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish).
-  (2) **Casting a jig, or any casting application** — a good free spool is
-  said to "make a tremendous difference."
-- **Speedmaster bearing spec:** **four ball bearings**, using Shimano's
-  **SARB** (sealed anti-rusted bearings) — called "very high-end quality."
-- **Corrosion:** stated that neither reel in the comparison has a corrosion
-  problem — "you're not going to have any issues with corrosion either way
-  between any of these reels."
+- **Fly-lining bait** — "just a hook, line, no sinker" — getting the bait as
+  far from the boat as possible improves the odds of a bite; consistent with
+  the distance-over-weight doctrine in
+  [flyline](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish)
+  (`JUcsUMJize0`).
+- **Casting a jig, or any casting application** — a good free spool "makes a
+  tremendous difference" (`JUcsUMJize0`).
 
-### Free spool and build materials, named comparison (`K_0AeM4OvuE`)
+The Speedmaster uses four ball bearings, Shimano's SARB (sealed
+anti-rusted bearings), called "very high-end quality" (`JUcsUMJize0`).
+Neither reel in this comparison has a corrosion problem — the clip names
+only the Speedmaster side, not its comparison reel (`JUcsUMJize0`).
 
-Unlike `JUcsUMJize0` above (which names only the Speedmaster), `K_0AeM4OvuE`
-names both reels directly and gives fuller build detail. A shorter clip,
-"Fathom II vs SpeedMaster II: Saltwater Reel Battle Royale!," `ZGs9kF4HHIM`,
-uploaded 2026-02-13, 46 s, covers the same bearings/rinse and forged-spool
-bullets below in near-identical wording (down to the "thumb better be ready
-to slow it down" phrase) — read as a re-cut of this same segment rather than
-a second telling, so it is cited here but **not** treated as independent
-confirmation per the re-cut-footage rule; no new parameter beyond what
-`K_0AeM4OvuE` already gives:
+### Free spool and build materials, named comparison
 
-- **Bearings.** Speedmaster: **four ball bearings**, Shimano's SARB (sealed
-  anti-rusted bearings) — "very high-end quality," matching `JUcsUMJize0`.
-  Fathom: **five stainless steel ball bearings** — one more than the
-  Speedmaster. Harry frames the two lines as "very comparable" on free-spool
-  feel despite the bearing-count difference. Any reel that's touched
-  saltwater should still be rinsed with fresh water regardless of bearing
-  type.
-- **Spool material and shape.** Fathom: **forged aluminum spool** — some
-  added weight means it takes a bit more to get rolling, but "once they're in
-  motion, these guys spin very, very well"; good for fishing a jig or
-  flicking out a live bait, and "your thumb better be ready to slow it down
-  when it's needed." Speedmaster: a **taller/wider spool diameter** on the
-  inside, which can likewise take a bit more to get spinning on the larger
-  sizes (the Speedmaster 25 specifically) — offset by Shimano's **Super Free
-  Spool** technology (reduced friction from the spool shaft while casting),
-  which Harry says compensates for the wider spool. The small Speedmaster 10
-  "free spools excellent" despite the same wide-spool design.
-- **Shimano Speedmaster build features, named:** **Hagane body** (Shimano's
-  high-rigidity metal used across most of its reel line — minimal frame
-  binding/flexing), **S-compact body** (the palm-side plate is 25% smaller
-  than the opposite side, for easier palming and less fatigue on long
-  sessions), and **Corprotect** (a water-resistant coating on the inside of
-  the main and pinion gears, to repel water and prevent internal rust/
-  corrosion).
-- **Penn Fathom build features, named:** **stainless drive and pinion gear**
-  (durability across repeated fights), **one-piece aluminum frame and side
-  plate** (minimizes binding/flexing — "one of the most rigid options... at
-  this particular cost"), a **forged and machined spool**, five stainless
-  ball bearings, and the quick-shifter two-speed mechanism — consistent with
-  the stainless gear train and one-piece aluminum frame already noted for the
-  Fathom 80 in `D0oEQsTaL7A` above. A third clip, "Fathom vs. SpeedMaster:
-  Which 2-Speed Reel Survives the Fight?" (`sj_9QYlGtGo`, uploaded
-  2026-02-20, 41 s, presenter unnamed on camera, reel not named in the
-  captions themselves), covers this exact same bullet list in near-identical
-  wording, down to the "one of the most rigid options... at this particular
-  cost" phrase — read as a further re-cut of this same Fathom
-  build-features segment rather than independent confirmation, per the
-  re-cut-footage rule; no new parameter beyond what's already given above is
-  added.
+Unlike the clip above, `K_0AeM4OvuE` names both reels directly and gives
+fuller build detail (re-cut in `ZGs9kF4HHIM`, no new parameter beyond what
+follows):
+
+- **Bearings.** Speedmaster: four ball bearings, Shimano SARB, "very
+  high-end quality," matching `JUcsUMJize0`. Fathom: five stainless steel
+  ball bearings — one more than the Speedmaster. The two lines are framed
+  as "very comparable" on free-spool feel despite the bearing-count
+  difference. Any reel that's touched saltwater should be rinsed with fresh
+  water regardless of bearing type (`K_0AeM4OvuE`).
+- **Spool material and shape.** Fathom's forged aluminum spool carries added
+  weight, taking a bit more to get rolling, but "once they're in motion,
+  these guys spin very, very well" — good for fishing a jig or flicking out
+  a live bait, and "your thumb better be ready to slow it down when it's
+  needed." Speedmaster's taller/wider spool diameter can likewise take more
+  to get spinning on the larger sizes (Speedmaster 25 specifically), offset
+  by Shimano's Super Free Spool technology (reduced friction from the spool
+  shaft while casting); the small Speedmaster 10 "free spools excellent"
+  despite the same wide-spool design (`K_0AeM4OvuE`).
+- **Shimano Speedmaster build features:** Hagane body (Shimano's
+  high-rigidity metal, minimal frame binding/flexing), S-compact body (the
+  palm-side plate is 25% smaller than the opposite side, for easier palming
+  and less fatigue on long sessions), and Corprotect (a water-resistant
+  coating on the inside of the main and pinion gears, to repel water and
+  prevent internal rust/corrosion) (`K_0AeM4OvuE`).
+- **Penn Fathom build features:** stainless drive and pinion gear
+  (durability across repeated fights), one-piece aluminum frame and side
+  plate ("one of the most rigid options... at this particular cost"), a
+  forged and machined spool, five stainless ball bearings, and the
+  quick-shifter two-speed mechanism — consistent with the stainless gear
+  train and one-piece aluminum frame already noted for the Fathom 80 in
+  `D0oEQsTaL7A` above (`K_0AeM4OvuE`; re-cut in `sj_9QYlGtGo`, no new
+  parameter beyond this list).
 
 ## Notes on scope
 
 - No species-specific decision logic, technique mechanics, or rigging is
-  given — this is a size-to-line-class and build/spec comparison, consistent
-  with the `parameter-skim` depth these videos were assigned. `K_0AeM4OvuE`
-  itself runs long (15:36) and covers considerably more ground than a typical
-  parameter-skim source — noted here rather than re-triaging silently.
-- Kept side by side with the existing application-based reel-class table in
-  [rod & reel selection — how the pieces
+  given here — this is a size-to-line-class and build/spec comparison.
+  `K_0AeM4OvuE` runs long (15:36) and covers considerably more ground than a
+  typical parameter-skim source.
+- Kept side by side with the coarser, three-tier application-based reel-class
+  table in [rod & reel selection — how the pieces
   map](rod-and-reel-selection.md#how-the-pieces-map--application-to-rod-power-to-reel)
-  rather than merged into it — a different, coarser three-tier framing from a
-  different, unregistered source, using different named reel models.
+  rather than merged into it — a different framing from a different,
+  unregistered source, using different named reel models.
 - One other Tackle Express clip shares the Speedmaster-vs-Fathom theme
-  (`h3ZM-mnSNJ8`, an intro-only teaser with no parameters) but remains a
-  separate, still-pending video in this corpus, not yet extracted.
+  (`h3ZM-mnSNJ8`, intro-only teaser, no parameters) but remains a separate,
+  still-pending video in this corpus, not yet extracted.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-speedmaster-fathom-reel-sizing.md).
 
 ## Related
 
@@ -353,6 +275,7 @@ confirmation per the re-cut-footage rule; no new parameter beyond what
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
+- [Evidence — Shimano Speedmaster vs. Penn Fathom Reel Sizing (Tackle Express)](evidence/tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)

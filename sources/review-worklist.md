@@ -263,7 +263,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-shimano-tranx-300b-x-protect-water-resistance.md | light | done | none | transform verified, one lead-sentence causation fix applied, all claims/links conserved, 77->84 lines |
 | tackle/tackle-express-shimano-vanford-fa-reel.md | light | done | none | light-tier v2 transform verified: evidence split, claims cite-checked, malformed asr-uncertain flag reworded, 106->76 lines note + evidence file |
 | tackle/tackle-express-shogun-maxcuatro-braid.md | light | done | none | transform verified: attribution/trip narration split to evidence file, facts conserved, 79->81 lines + evidence file |
-| tackle/tackle-express-speedmaster-fathom-reel-sizing.md | light | pending |  |  |
+| tackle/tackle-express-speedmaster-fathom-reel-sizing.md | light | done | none | transform verified: genuine provenance split to evidence file, no information loss across spot-checked sections, fixed 2x malformed asr-uncertain flag, 361->282 lines + 92-line evidence |
 | tackle/tackle-express-surf-halibut-rod-lineup.md | light | pending |  |  |
 | tackle/tackle-express-trophy-bluefin-jig-outfit.md | light | pending |  |  |
 | tackle/tackle-express-white-seabass-rod-reel-line.md | light | pending |  |  |

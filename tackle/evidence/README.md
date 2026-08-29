@@ -74,11 +74,12 @@
 - [Evidence — Shimano Tranx 300B Braking System (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md) — Per-source provenance for Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block.
 - [Evidence — Shimano Vanford (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — Per-source provenance for Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive.
 - [Evidence — Maxcuatro Metered Braid, Shogun Trip (Tackle Express)](tackle-express-shogun-maxcuatro-braid.md) — Per-source provenance for Maxcuatro metered braid — night-jig and between-stops bait depth.
+- [Evidence — Shimano Speedmaster vs. Penn Fathom Reel Sizing (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Per-source provenance for Shimano Speedmaster vs.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 70 notes exceed the 30-node cap._
+_Map skipped: 71 notes exceed the 30-node cap._
 <!-- mermaid:end -->
