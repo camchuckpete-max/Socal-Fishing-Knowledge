@@ -240,6 +240,8 @@ Parked for the zone guides the parent note stubs out:
 
 - [Cabrilla (Leopard Grouper)](../cabrilla.md)
 - [Cabrilla — jerkbait](../cabrilla-jerkbait.md)
+- [Cabrilla — yo-yo iron](../cabrilla-yo-yo-iron.md)
 - [Evidence — Cabrilla — jerkbait](cabrilla-jerkbait.md)
+- [Evidence — Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md)
 - [Evidence — Line & Leader](../../tackle/evidence/line-and-leader.md)
 <!-- backlinks:end -->

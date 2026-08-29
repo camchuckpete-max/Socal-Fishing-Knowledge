@@ -140,8 +140,8 @@ cabrilla spawning at all.
 | --- | --- | --- | --- |
 | **Low light** — early morning / late afternoon, fish tight to shoreline structure | [Jerkbait — for cabrilla](cabrilla-jerkbait.md) — **170 size**, cast as close to the rock as you can ([the baits](../lures/jerkbaits.md)) | Jerkbait casting class, **50 lb** | White, bright or dark all get bit in low light; the fish are feeding aggressively and eating the larger bait (`EmZO8QiOfik`) [a] |
 | **Sun up**, fish backed off the tightest rock | [Jerkbait — for cabrilla](cabrilla-jerkbait.md) — drop to the **150 size** (or a Mag-Minnow-class bait), switch to bright / metallic / flashy | Same jerkbait casting class | Work off the shoreline rock toward the "dark spot" submerged structure (`EmZO8QiOfik`); the downsize itself is contested [a] |
-| **Late morning to lunch** (~9–10 am on), fish off the top in **60–80 ft** | [Yo-yo iron](../techniques/yo-yo-iron.md) — Salas 6X, 6X Jr, 60 g jig para, or a Krocodile-class casting spoon | 40–60 lb class stout rod, high-speed reel | Cast out, let it hit bottom, then **burn it straight back to the boat** — not a hop-on-bottom rockfish-jig retrieve (`EmZO8QiOfik`) |
-| **Midday, sun high** (~11 am–3 pm), bigger fish deep in **80–150 ft** | Heavier [yo-yo iron](../techniques/yo-yo-iron.md) — Salas 6X, Tady 40, or a 7X-class iron | Heavier 40–60 lb+ class | Burn **30–40 cranks** off the bottom, let it settle back, repeat; bites come within **5–10 cranks** of picking the iron up (`EmZO8QiOfik`). ⚠ misplaced-content: the burn-and-settle cadence in this row and the one above is per-species execution sitting in a router, queued for a cabrilla × yo-yo-iron sub-article |
+| **Late morning to lunch** (~9–10 am on), fish off the top in **60–80 ft** | [Yo-yo iron — for cabrilla](cabrilla-yo-yo-iron.md) ([the method](../techniques/yo-yo-iron.md)) | 40–60 lb class stout rod, high-speed reel | The fish have dropped off the shallow jerkbait structure; the cast-and-burn retrieve and the iron picks for this band are in the sub-article (`EmZO8QiOfik`) [e] |
+| **Midday, sun high** (~11 am–3 pm), bigger fish deep in **80–150 ft** | [Yo-yo iron — for cabrilla](cabrilla-yo-yo-iron.md) — step the iron up for the deeper band | Heavier 40–60 lb+ class | The deep-band burn-and-settle cadence and the bite window are in the sub-article (`EmZO8QiOfik`) [e] |
 | **Fish up and foaming on the surface** | [Jerkbaits](../lures/jerkbaits.md) — cast into the foam | Same jerkbait casting class | On the one documented foam stop the school ate the jerkbait and refused a [surface iron](../techniques/surface-iron.md) thrown into the same boil (`0dNfsle54Wo`) [b] |
 | **Fish up and eating flash**, iron program preferred | [Surface iron](../techniques/surface-iron.md) — a **bright**, **tight-swimming, fast** jig that tracks straight rather than in an S pattern | [Jig-stick class](../tackle/gear-classes.md) ([iron jigs](../lures/iron-jigs.md)) | A 6.5 in OG-class steel bait in a sky-blue/white/pink pattern took **up to 20 cabrilla a day** on a Bahía de los Ángeles trip; wide-swimming yellowtail irons did not draw the bites (`dEPuDrhoClM`) [c] |
 | **Fall/winter (Oct+) micro-bait (~1–1.5 in)**, and any slow bite year-round | Downsize both the jerkbait and iron programs — small jig paras and small-profile jerkbaits | Same outfits, smaller lures | Small baits also get down to fish that will not come up for a surface bait (`M8hOYQ_6rSg`); the downsize draws spotted bay bass, pompano and lane snapper as well (`EmZO8QiOfik`) [d] |
@@ -158,6 +158,8 @@ straight orange on others — with brightness the common factor rather than any
 one pattern (`dEPuDrhoClM`).
 [d] Two further micro-lure names in the source could not be reconstructed from
 the captions — see the [evidence file](evidence/cabrilla.md).
+[e] Retrieve, cadence counts, bite window and the depth-keyed iron weights are
+in [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md#how-cabrilla-changes-the-execution).
 
 ## Gear summary (class terms)
 
@@ -173,8 +175,10 @@ the captions — see the [evidence file](evidence/cabrilla.md).
   80 lb braid to an 80 lb leader** (`EmZO8QiOfik`). Run **6–8 ft of leader** —
   close to a rod length — so that a fish that gets into the rocks is pulling
   against leader rather than braid (`dEPuDrhoClM`).
-- **Yo-yo iron — stout 40–60 lb class rod with a high-speed reel**; see
-  [yo-yo iron](../techniques/yo-yo-iron.md).
+- **Yo-yo iron — stout 40–60 lb class rod with a high-speed reel**; the
+  depth-keyed iron weights are in
+  [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md#rigs--gear), the general
+  method in [yo-yo iron](../techniques/yo-yo-iron.md).
 - **Hooks/hardware for jerkbaits:** see
   [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing) for the Baja / Sea of
   Cortez jerkbait hook upgrade.
@@ -254,6 +258,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Cabrilla — jerkbait](cabrilla-jerkbait.md)
+- [Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

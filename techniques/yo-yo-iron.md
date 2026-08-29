@@ -292,6 +292,7 @@ builds and colour data points are in the
 <!-- species-applications:start -->
 ## Species applications
 
+- [Cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -315,6 +316,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
+- [Cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

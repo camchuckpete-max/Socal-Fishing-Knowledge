@@ -869,4 +869,5 @@ by their builders after the transform phase drains.
 | locations/alijos-rocks-the-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/lighthouse-point-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/cabrilla-jerkbait.md | standard | pending |  | created by relocation from species/cabrilla.md |
+| species/cabrilla-yo-yo-iron.md | standard | pending |  | created by relocation from species/cabrilla.md |
 <!-- review:worklist:end -->
