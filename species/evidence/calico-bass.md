@@ -445,8 +445,10 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../calico-bass-swimbaits.md)
 - [Calico Bass — surface iron](../calico-bass-surface-iron.md)
 - [Evidence — Barred Sand Bass](sand-bass.md)
+- [Evidence — Calico Bass — boiler-bite swimbait](calico-bass-swimbaits.md)
 - [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)

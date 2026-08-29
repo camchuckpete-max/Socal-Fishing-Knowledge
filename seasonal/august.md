@@ -78,6 +78,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [289 / 284](../locations/289-284.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dana Point](../locations/dana-point.md)

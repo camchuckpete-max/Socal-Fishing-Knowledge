@@ -390,31 +390,17 @@ rig](../species/sand-bass-alabama-rig.md).
 
 ## Targeting a boiler bite
 
-For open-water/less-kelp "boiler" calico — fish surfacing/busting on bait
-rather than holding tight to structure — see the router row in [calico
+Open-water/less-kelp "boiler" calico — fish surfacing and busting on bait
+rather than holding tight to structure — is a different program from the
+kelp-edge work this note owns, and it is now its own page. The
+target-selection-over-persuasion rule (cast at a visibly committed fish rather
+than working to convince a neutral one), the water-clarity-edge read
+(crystal-clear water over the stained seafoam-green beside it), the Lucky Craft
+119 plus 5–9 in soft-plastic trailer with its baitfish → crab → flash profile
+order, and the July–August size-up/speed-up rule are all in [calico bass —
+boiler-bite swimbait](../species/calico-bass-swimbaits.md) (`lP6cg4eEU6s`); the
+router row is in [calico
 bass](../species/calico-bass.md#situations--techniques).
-
-- **Target selection over persuasion:** cast to a visibly committed,
-  aggressive fish rather than working a piece of water trying to convince a
-  neutral one to bite (`lP6cg4eEU6s`).
-- **Read the water-clarity edge:** look for **less kelp, more open water**
-  and **crystal-clear water**, over the more typical stained/seafoam-green
-  water nearby — the clarity line is where to commit the cast, since the
-  bait "gets lost" and fish spook in the cloudier water beside it
-  (`lP6cg4eEU6s`).
-- **Bait:** a Lucky Craft 119 (a minnow-profile hard swimbait; the model
-  number is not independently confirmed beyond the on-camera name) paired
-  with a **5–9 in soft-plastic trailer**. Profile order: **baitfish/anchovy
-  first**, then **crab/crustacean-style**, then a **shiny/flash** change-up,
-  plus scent (see [scent](#scent) above) (`lP6cg4eEU6s`).
-- **Seasonal aggression:** in **July and August**, warmer water raises the
-  fish's metabolism, so they eat more, bigger, and more aggressively — size
-  baits up and fish faster during that stretch (`lP6cg4eEU6s`).
-
-⚠ misplaced-content: the boiler-bite program above (target-selection rule,
-clarity-edge read, lure/trailer/profile order, seasonal size-up rule) is deep
-per-species execution sitting in a general technique note — queued for a
-calico-bass × swimbait sub-article, `sources/relocation-queue.md`.
 
 ## Gear class
 
@@ -443,6 +429,7 @@ swimbaits](../lures/soft-plastic-swimbaits.md).
 ## Species applications
 
 - [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 <!-- species-applications:end -->
@@ -457,11 +444,13 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Halibut](../species/california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Drop Shot](drop-shot.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
+- [Evidence — Calico Bass — boiler-bite swimbait](../species/evidence/calico-bass-swimbaits.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Essential SoCal Knots](../rigging/evidence/essential-knots.md)
 - [Evidence — Line & Leader](../tackle/evidence/line-and-leader.md)

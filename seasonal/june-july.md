@@ -76,6 +76,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)

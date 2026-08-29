@@ -236,6 +236,7 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [California Halibut](../species/california-halibut.md)
 - [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
+- [Evidence — Calico Bass — boiler-bite swimbait](../species/evidence/calico-bass-swimbaits.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Inshore Crankbaits](evidence/inshore-crankbaits.md)
 - [Evidence — Leadhead Swimbait Retrieve](evidence/leadhead-swimbait-retrieve.md)

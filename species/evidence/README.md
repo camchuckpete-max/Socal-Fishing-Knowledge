@@ -12,6 +12,7 @@
 - [Evidence — Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md) — Trip reports and per-source provenance backing cabrilla — yo-yo iron.
 - [Evidence — Cabrilla (Leopard Grouper)](cabrilla.md) — Trip reports and per-source provenance backing cabrilla.
 - [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md) — Trip reports and per-source provenance backing calico bass — surface iron.
+- [Evidence — Calico Bass — boiler-bite swimbait](calico-bass-swimbaits.md) — Trip reports and per-source provenance backing calico bass — boiler-bite swimbait.
 - [Evidence — Calico Bass (Kelp Bass)](calico-bass.md) — Trip reports and per-source provenance backing calico bass.
 - [Evidence — California Halibut — live-bait drift](california-halibut-live-bait-drift.md) — Trip reports and per-source provenance backing California halibut — live-bait drift.
 - [Evidence — California Halibut — surf lures](california-halibut-surf-lures.md) — Trip reports and per-source provenance backing California halibut — surf lures.
@@ -60,5 +61,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 50 notes exceed the 30-node cap._
+_Map skipped: 51 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -897,4 +897,5 @@ by their builders after the transform phase drains.
 | locations/lopez-mateos-magdalena-bay-boca.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/white-seabass-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
 | species/spotted-bay-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
+| species/calico-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
 <!-- review:worklist:end -->

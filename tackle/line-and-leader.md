@@ -574,6 +574,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Cortez North](../locations/cortez-north.md)

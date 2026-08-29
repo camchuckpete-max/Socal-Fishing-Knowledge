@@ -12,6 +12,7 @@
 - [Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md) **[Baja only]** — Once the sun is up and cabrilla have backed off the shallow rock, the iron takes the day over from the jerkbait — but it is fished as a cast-and-burn, not as a
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
 - [Calico Bass — surface iron](calico-bass-surface-iron.md) — The iron is how you cover a whole kelp line or a reef edge from one drift instead of picking stringers one cast at a time, and on a Baja island it is what fills
+- [Calico Bass — boiler-bite swimbait](calico-bass-swimbaits.md) **[SoCal only]** — One species, one technique.
 - [Calico Bass (Kelp Bass)](calico-bass.md) — Calico bass sit on a defined structure edge — kelp, reef, boiler rock, breakwall — and eat what the current sweeps past them, so a coastal bass day is planned o
 - [California Halibut — live-bait drift](california-halibut-live-bait-drift.md) **[SoCal only]** — Drifting a live bait on the bottom is the halibut program that scales from 8–10 ft of bay water to the Channel Islands on the same rig: a trap rig on a short fl
 - [California Halibut — surf lures](california-halibut-surf-lures.md) **[SoCal only]** — Fishing lures for halibut from the sand is one program with a depth ladder in it: which lure goes on is set by the depth in front of you rather than by preferen
@@ -64,5 +65,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 51 notes exceed the 30-node cap._
+_Map skipped: 52 notes exceed the 30-node cap._
 <!-- mermaid:end -->

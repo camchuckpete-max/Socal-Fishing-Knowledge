@@ -175,6 +175,7 @@ Per-source provenance: [evidence file](evidence/night-bass-fishing.md).
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Evidence — Calico Bass — boiler-bite swimbait](../species/evidence/calico-bass-swimbaits.md)
 - [Evidence — Night Bass Fishing](evidence/night-bass-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

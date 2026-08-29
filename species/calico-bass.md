@@ -387,6 +387,7 @@ Trip reports and per-source provenance:
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Cabrilla (Leopard Grouper)](cabrilla.md)
+- [Calico Bass — boiler-bite swimbait](calico-bass-swimbaits.md)
 - [Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [California Barracuda](barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

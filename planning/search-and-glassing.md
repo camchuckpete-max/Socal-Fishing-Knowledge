@@ -335,6 +335,7 @@ Trip reports and per-source provenance:
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
