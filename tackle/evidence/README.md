@@ -35,11 +35,12 @@
 - [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](searcher-spring-bluefin-yellowtail-quiver.md) — Per-source provenance for Searcher spring bluefin/yellowtail quiver: presenter identification, channel status, and the ASR-uncertain caption readings the main n
 - [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](searcher-three-outfit-minimum-quiver.md) — Per-source provenance for Searcher minimum tackle — three-outfit quiver: channel status, registration confidence, and the ASR-uncertain caption readings the mai
 - [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Per-source provenance for Searcher yellowtail live-bait sliding-sinker rig: channel status, upload date, and cross-reference notes the main note's prose gave up.
+- [Evidence — Accurate Tern 2 (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Per-source provenance and single-catch testimonials for Accurate Tern 2 — cast-control brake and redesigned twin drag.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 31 notes exceed the 30-node cap._
+_Map skipped: 32 notes exceed the 30-node cap._
 <!-- mermaid:end -->

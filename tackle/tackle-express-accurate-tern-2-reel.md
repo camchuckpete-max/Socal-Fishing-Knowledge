@@ -3,105 +3,76 @@ type: tackle
 tags: [reels, accurate, tern, conventional, lever-drag, cast-control, centrifugal-brake, twin-drag, bluefin, casting, product-launch, tackle-express]
 sources: [46kVgZ6P62M]
 confidence: medium
+layout: v2
 ---
 
 # Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)
 
-Tackle Express, "The New Accurate Tern 2 is a Smooth Reel," `46kVgZ6P62M`,
-uploaded 2022-08-02 — a 3:49 interview at the Tackle Express counter (host
-"Harry") with a guest whose name renders on auto-captions as **"Ben
-Seacrest"** — not corroborated by the title or description, so treated as
-**asr-uncertain**; the guest talks like an Accurate product person ("we've
-been fishing this one probably for about two years prior to bringing it to
-market"), not shop staff, but that role isn't stated on camera either.
-`tackle-express` is an unregistered channel, single mention — **medium**
-confidence for the mechanism/parameter content below. The lineup, pricing, and
-"biggest fish caught" testimonial are a product-launch pitch delivered at the
-shop counter and are noted as **promotional** inline; per the sponsored-claim
-rule they don't rise above that regardless of the channel note above.
+The Accurate Tern 2 conventional reel adds two changes over the original
+Tern: a cast-control brake and a redesigned twin-drag stack (`46kVgZ6P62M`).
+"Out our way in California right now," a lot of anglers cast this reel line
+for bluefin tuna, with a 600 Narrow named for that application
+(`46kVgZ6P62M`). The Tern 2 was fished for roughly two years before release
+(`46kVgZ6P62M`).
 
-## What's new vs. the original Tern — cast-control brake
+## Cast-control brake
 
-The Tern 2 adds a **cast-control brake** the original Tern didn't have: **10
-weights per side** (10 and 10 — 20 total) that "spin and erase" as the spool
-turns, slowing the spool down during the cast. The presenter compares the
-mechanism directly to a baitcaster's centrifugal brake. Stated effect: it
-**lessens** (his word choice — not "eliminates") backlash on a cast, and as a
-side benefit there's **no scoring of the reel's main shaft** from backlash
-tangles. He also credits the brake with making the reel **feel more solid
-when winding on a big fish**.
+10 weights per side (20 total) spin and "erase" as the spool turns, slowing
+the spool during the cast — the mechanism is compared directly to a
+baitcaster's centrifugal brake (`46kVgZ6P62M`). It lessens (not eliminates)
+backlash on a cast; the same mechanism also prevents scoring of the reel's
+main shaft from backlash tangles, and makes the reel feel more solid when
+winding on a big fish (`46kVgZ6P62M`).
 
-- **Field-tested before release:** fished for roughly **two years** prior to
-  bringing the Tern 2 to market.
-- **Durability/endurance testimonial (Fiji):** a **163 lb yellowfin** landed
-  on the reel **pitching** (bait pitched to the fish, not trolled or cast on
-  the retrieve). Kept as an attributed data point, not fishery doctrine — it's
-  a single testimonial catch offered in the same breath as the sales pitch.
+### Adjusting the weights
 
-### Adjusting the brake weights
+Remove a side plate held by 4 screws — T6 and T7 (Torx driver sizes;
+asr-uncertain on the exact sizing) — to expose all 10 weights per side for
+engaging/disengaging before reassembly (`46kVgZ6P62M`). One recorded field
+setup: 6 of the 10 weights engaged on the bigger reel sizes, 4 of 10 on the
+smaller sizes, because the smaller sizes carry a smaller spool (`46kVgZ6P62M`)
+— not established as a factory default or a universal starting point.
 
-The weights are **adjustable** and accessed by removing a side plate held by
-**4 screws**, sized (per the transcript) **T6 and T7** — read as Torx driver
-sizes; not fully disambiguated from the audio, flagged **asr-uncertain**.
-Pulling the plate exposes all 10 weights per side for engaging/disengaging
-before reassembly.
+## Spool tension
 
-- **The presenter's own field setting:** **6 of the 10 weights** engaged on
-  the bigger reel sizes, **4 of 10** on the smaller sizes — because the
-  smaller sizes carry a smaller spool. Given as his personal setup, not a
-  universal rule.
-
-### Spool tension — a separate control
-
-A second, distinct control on the reel — **spool tension** (tighten/loosen)
-— is separate from the cast-control brake weights above. Named alongside gear
-ratio and a **~28 lb** stated maximum drag figure on the bigger sizes, but
-none of the three (spool tension range, specific gear ratios, or the 28 lb
-figure) is broken out further in the transcript beyond being named.
+A second, separate control — tighten/loosen spool tension — is distinct from
+the cast-control brake weights above (`46kVgZ6P62M`). It's named alongside
+gear ratio and a ~28 lb maximum drag figure on the bigger sizes, but none of
+the three (spool-tension range, specific gear ratios, the 28 lb figure) is
+broken out further (`46kVgZ6P62M`).
 
 ## Twin drag — redesigned from the original Tern
 
-Per the presenter, the original Tern's twin drag ran as **regular twin drags
-on both sides** of the reel (a full drag stack behind each side plate). The
-Tern 2's version is described differently: a drag stack — bridge, drag plate,
-drag, gear — built on **one side**, "and the same on the other side," which he
-still calls **twin drag** but says is now built as twin drags **on both sides
-of the gear itself** rather than as two independent side-mounted stacks. The
-exact mechanical distinction is not fully clear from the audio (flagged
-**asr-uncertain** on the stack description specifically, though the
-qualitative claim — redesigned, and smoother — is clearly stated). He states a
-personal preference for the new design over the original Tern, and calls it
-"super smooth."
+The original Tern ran two independent drag stacks, one behind each side
+plate — regular twin drag on both sides of the reel (`46kVgZ6P62M`). The
+Tern 2 instead builds a drag stack (bridge, drag plate, drag, gear) on one
+side and mirrors it on the other, so the twin-drag principle now sits on
+both sides of the gear itself rather than as two independent side-mounted
+stacks — the exact mechanical distinction is asr-uncertain, though the
+qualitative claim (redesigned, smoother) is clear (`46kVgZ6P62M`). The
+redesign is described on camera as "super smooth," preferred over the
+original Tern's stack (`46kVgZ6P62M`).
 
 ## Sizing, line, and a leader-length rule of thumb
 
-- **Model lineup and pricing (promotional):** offered in **400, 500 Narrow,
-  500, 600 Narrow, and 600**, priced from **$399 to $439**. Product/pricing
-  information — kept for the record but not fishery doctrine.
-- **West Coast use, named application:** "out our way in California right
-  now," a lot of anglers use these reels for **casting for bluefin**. The
-  presenter names a **600 Narrow** for that use.
-- **Presenter's personal pick: the 500** ("my favorite") — spooled with
-  **65 lb** line and an **80 lb** top-shot/leader.
-- **Leader/top-shot length rule of thumb:** keep it short — his stated reason
-  is you don't want to be casting knots through the guides. Contrasted with
-  anglers who default to a 5–10 ft leader: his rule is roughly **half the
-  target fish's body length**. Worked example on camera: a **200 lb tuna**
-  (species not repeated at this point in the clip — the surrounding context is
-  the California bluefin-casting application above, but the transcript itself
-  just says "tuna") held up to demonstrate its length, giving a top-shot/leader
-  length of about **2.5 ft**. The demonstrated body length itself isn't a
-  recoverable number (a physical gesture on camera), so only the resulting
-  2.5 ft figure is preserved. This sits in the same short-bite-leader range
-  already logged elsewhere in this KB — e.g. 3–3.5 ft in [flying fish
-  harness](../rigging/flying-fish-harness.md) and 30–36 in in [haywire
-  twist](../rigging/haywire-twist.md) — as a separate data point, not merged
-  into either.
-- **Biggest West Coast tuna on these reels, per the presenter:** about
-  **165 lb**, called "mid" grade, tied to a group of fish that "squirted up
-  the coast" — no place name given and not inferred. This whole closing
-  anecdote is loosely transcribed; kept only for the 165 lb figure, flagged
-  **asr-uncertain** on the surrounding detail.
+- **600 Narrow** — named for California bluefin casting (`46kVgZ6P62M`).
+- **500** — "my favorite" size, spooled with 65 lb line and an 80 lb
+  top-shot/leader (`46kVgZ6P62M`).
+- **Leader/top-shot length:** keep it short so casting knots don't have to
+  run through the guides, rather than defaulting to a flat 5–10 ft leader —
+  roughly half the target fish's body length instead (`46kVgZ6P62M`). Worked
+  example: a ~200 lb tuna (species not repeated at this point in the clip —
+  not confirmed as the bluefin discussed above) held up on camera works out
+  to about a 2.5 ft top-shot/leader by that rule (`46kVgZ6P62M`). This sits
+  in the same short-bite-leader range
+  logged elsewhere in this KB as a separate data point, not merged into
+  either: 3–3.5 ft in [flying fish harness](../rigging/flying-fish-harness.md)
+  and 30–36 in in [haywire twist](../rigging/haywire-twist.md).
+
+## Model lineup and pricing
+
+400, 500 Narrow, 500, 600 Narrow, and 600, priced $399–$439 — shop-counter
+pricing kept for the record, not fishery doctrine (`46kVgZ6P62M`).
 
 ## Related
 
@@ -113,13 +84,18 @@ personal preference for the new design over the original Tern, and calls it
 - [Drag setting](drag-setting.md) — general drag-setting judgment; this note
   only records the Tern 2's stated max drag figure, not a setting procedure.
 - [Line & leader](line-and-leader.md) — general braid/top-shot material
-  doctrine; this note's leader-length figure is a single presenter's rule of
-  thumb, not merged into that note's broader treatment.
+  doctrine; this note's leader-length figure is a single rule of thumb, not
+  merged into that note's broader treatment.
 - [Accurate Valiant 2 SPJ — centrifugal brake, strike button,
   single/two-speed](tackle-express-accurate-valiant-2-spj-reel.md) — a
   different Accurate reel line, same channel, whose automatic centrifugal
   brake is a less-detailed analogue of this Tern 2's adjustable
   cast-control brake.
+
+## Evidence
+
+Provenance detail and single-catch testimonials: [evidence
+file](evidence/tackle-express-accurate-tern-2-reel.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -127,6 +103,7 @@ personal preference for the new design over the original Tern, and calls it
 - [483/500 / 437](../locations/483-500-437.md)
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
+- [Evidence — Accurate Tern 2 (Tackle Express)](evidence/tackle-express-accurate-tern-2-reel.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
