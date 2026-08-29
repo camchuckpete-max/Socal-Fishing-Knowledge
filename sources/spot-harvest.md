@@ -590,4 +590,5 @@ harvested.
 | The Ridge | tackle/searcher-6-to-8-day-heavy-outfit.md | Applications | dropper-loop yellowtail and wahoo-trolling applications both named "the ridge" on camera, no further location detail | `MPC_OQjvO-o` |
 | Alijos Rocks | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | Lead | destination for the 7-day trip this five-outfit quiver is built for | `uWGGeDOprsE` |
 | The Ridge | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | Lead | named alongside Alijos Rocks as the 7-day trip's destination | `uWGGeDOprsE` |
+| Cedros Island | tackle/tackle-express-jig-stick-trolling-outfit.md | Cedros application | jig-stick/trolling dual-purpose outfit fished for yellowtail as one rod in a four-rod Cedros quiver | `_C7TJoGT0nw` |
 <!-- review:harvest:end -->

@@ -55,11 +55,12 @@
 - [Evidence — HOW Co Split-Ring Pliers (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) — Per-source provenance for HOW Co Split-Ring Pliers — One Pair Across the Size Range.
 - [Evidence — Penn Fathom II and Penn Authority ICAST 2022 (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Per-source provenance for Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters.
 - [Evidence — Izorline XXX (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Per-source provenance for Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke.
+- [Evidence — Jig Stick Doubles as a Trolling Outfit (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Per-source provenance for Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 51 notes exceed the 30-node cap._
+_Map skipped: 52 notes exceed the 30-node cap._
 <!-- mermaid:end -->
