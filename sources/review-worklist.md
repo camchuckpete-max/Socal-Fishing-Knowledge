@@ -241,7 +241,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-icast2022-penn-fathom2-authority.md | light | done | none | light-tier v2 transform + evidence split verified, one smoothed-quote defect fixed in place |
 | tackle/tackle-express-izorline-xxx-mono.md | light | done | none | light-tier v2 migration: attribution preamble split to evidence file, redundant self-narration trimmed; verified conserved |
 | tackle/tackle-express-jig-stick-trolling-outfit.md | light | done | gaps(1), spots(1) | light-tier v2 transform: attribution preamble split to evidence file, cites added, verified conserved |
-| tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md | light | pending |  |  |
+| tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md | light | done | none | light-tier v2 transform verified, one unsourced inference trimmed |
 | tackle/tackle-express-maxima-shark-tooth-leader-tool.md | light | pending |  |  |
 | tackle/tackle-express-minnow-rod.md | light | pending |  |  |
 | tackle/tackle-express-mustad-heavy-duty-pliers.md | light | pending |  |  |

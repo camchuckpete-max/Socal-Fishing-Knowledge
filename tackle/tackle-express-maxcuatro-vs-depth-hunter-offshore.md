@@ -3,56 +3,58 @@ type: tackle
 tags: [braid, maxcuatro, depth-hunter-offshore, metered-line, powerpro, tackle-express]
 sources: [UbbkPKZ8_W4]
 confidence: low
+layout: v2
 ---
 
 # PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)
 
-Tackle Express (Harry, on camera; `UbbkPKZ8_W4`, "PowerPro Maxcuatro vs
-Depth-Hunter Offshore: Which Line Should You Spool?," uploaded 2025-06-23,
-105 s). A direct, side-by-side counter comparison of the same two named
-PowerPro metered braids already cited separately elsewhere in this KB — see
-Related below. The clip closes by directing viewers to buy either line online
-or in the shop's retail store, so per the confidence rubric in
-[CLAUDE.md](../CLAUDE.md) this stays **low** confidence as a
-sponsored/promotional retail claim, regardless of the parameters named.
+A direct, side-by-side counter-comparison of two named PowerPro metered
+braids already cited separately elsewhere in this KB (`UbbkPKZ8_W4`; see
+Related). The clip closes by directing viewers to buy either line online or
+in the shop's retail store; per the confidence rubric ("low — sponsored or
+promotional claim, regardless of channel") this note is capped at low
+confidence in full, on top of tackle-express being an unregistered channel.
 
 ## Shared traits
 
-Both lines are **metered braid, five colors, changing color every 100 ft** —
-the same 100 ft-interval metered-braid doctrine already logged for other named
-products in
+Both lines are metered braid, five colors, changing color every 100 ft
+(`UbbkPKZ8_W4`) — the same 100 ft-interval metered-braid doctrine already
+logged for other named products in
 [knife jigging — depth control & jig calling](../techniques/knife-jigging.md#depth-control--jig-calling).
 
-## The one stated difference — diameter
+## Diameter — the stated difference
 
-Per Harry, **Max Quattro is 25% thinner than Depth Hunter Offshore** at the
-same rated strength. This is the same "25% thinner" Maxcuatro marketing claim
-already logged twice elsewhere in this KB (see Related) — but those two prior
-citations framed it as 25% thinner than "standard" braid generically; this
-clip is the first to frame the comparison specifically **against Depth Hunter
-Offshore itself**, PowerPro's own other metered line, rather than braid in
-general.
+Max Quattro is 25% thinner than Depth Hunter Offshore at the same rated
+strength (`UbbkPKZ8_W4`). The same "25% thinner" Maxcuatro marketing claim is
+logged twice elsewhere in this KB (see Related), there framed as thinner than
+"standard" braid generically; this clip frames the comparison specifically
+against Depth Hunter Offshore itself — PowerPro's own other metered line, not
+braid in general (`UbbkPKZ8_W4`).
 
-## Selection logic, stated on camera
+## Selection logic
 
-- **Reach for Max Quattro** on a relatively small but powerful reel that can't
-  otherwise hold the line capacity you need: the thinner diameter fits more
-  line of a heavier breaking strength onto that smaller reel, letting you
-  fish larger fish on a smaller, more capable reel.
-- **Reach for Depth Hunter Offshore** on a larger reel where you don't need
-  the extra capacity Max Quattro's thinner diameter buys you — Harry's
-  example: "a little bit bigger reel." It is also **quite a bit less
-  expensive.**
-- **Cost:** Max Quattro runs **roughly double** the cost of Depth Hunter
-  Offshore.
-- **Harry's own personal pick:** he fishes the standard **Depth Hunter
-  Offshore** himself.
+- Reach for **Max Quattro** on a small but powerful reel that can't otherwise
+  hold the needed line capacity: its thinner diameter fits more line of a
+  heavier breaking strength onto that reel, letting it fish larger fish on a
+  smaller, more capable reel (`UbbkPKZ8_W4`).
+- Reach for **Depth Hunter Offshore** on a larger reel, where the extra
+  capacity Max Quattro's thinner diameter buys isn't needed; it also costs
+  quite a bit less (`UbbkPKZ8_W4`).
+- Max Quattro runs roughly double the cost of Depth Hunter Offshore
+  (`UbbkPKZ8_W4`).
+- The presenter's own pick is Depth Hunter Offshore (`UbbkPKZ8_W4`).
 
-## Line-class availability (as of this 2025-06-23 clip)
+## Line-class availability (as of 2025-06-23)
 
-- **Depth Hunter Offshore:** 65, 80, 100, and 130 lb test.
-- **Max Quattro:** currently offered in 80 and 100 lb test only — a narrower
-  class range than Depth Hunter Offshore's four-class spread.
+- **Depth Hunter Offshore:** 65, 80, 100, and 130 lb test (`UbbkPKZ8_W4`).
+- **Max Quattro:** 80 and 100 lb test only — a narrower class range than
+  Depth Hunter Offshore's four-class spread (`UbbkPKZ8_W4`).
+
+## Evidence
+
+Per-source provenance, including presenter identity, upload date, and the
+sponsor/retail call-to-action: [evidence
+file](evidence/tackle-express-maxcuatro-vs-depth-hunter-offshore.md).
 
 ## Related
 
@@ -76,6 +78,7 @@ general.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — PowerPro Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](evidence/tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
