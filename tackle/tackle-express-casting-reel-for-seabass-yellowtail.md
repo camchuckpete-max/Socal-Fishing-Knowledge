@@ -60,6 +60,7 @@ The clip names no specific lure, retrieve, or rig this pairs with.
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Evidence — Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](evidence/tackle-express-baja-light-setup-yellowtail-insurance.md)
+- [Evidence — Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](evidence/tackle-express-cedros-four-rod-quiver.md)
 - [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 - [White Seabass](../species/white-seabass.md)
