@@ -226,3 +226,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T18:40:29Z — locations/zone-lexicon.md — verify-escalate
 - run: 33193047394
 - reason: One of the 7 named pending siblings in the open bass-structure.md type-taxonomy escalation (sources/escalations.md, 2026-08-28T17:04:44Z) — parent:unknown forced into the spot-page type:location skeleton, same pattern already escalate(apply)'d for bightsst-eval-targets.md; Cameron still needs to rule on it before the remaining siblings repeat it.
+
+## 2026-08-29T07:28:12Z — species/yellowtail.md -> locations/cortez-bank.md — verify-escalate
+- run: 33240630796
+- reason: dst redirected at execution to locations/tanner-bank.md; two gazetteer worklist rows still schedule the page the review decided not to build — sources/review-worklist.md:422 locations/cortez-bank.md and :821 locations/cortez-bank-tanner-bank.md, both pending, would produce duplicate pages under the variant spelling
