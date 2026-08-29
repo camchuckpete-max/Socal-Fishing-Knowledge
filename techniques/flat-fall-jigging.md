@@ -220,6 +220,7 @@ Trip reports and per-source provenance: [evidence file](evidence/flat-fall-jiggi
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Flat-Fall Jigging](evidence/flat-fall-jigging.md)
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](../tackle/evidence/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Guadalupe](../locations/guadalupe.md)

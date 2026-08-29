@@ -170,6 +170,7 @@ Per-source provenance: [evidence file](evidence/searcher-rail-rod-ladder.md).
 
 - [Evidence — Gear Classes](evidence/gear-classes.md)
 - [Evidence — Searcher Rail-Rod Ladder — Four Tiers by Line Rating](evidence/searcher-rail-rod-ladder.md)
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](evidence/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)

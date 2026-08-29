@@ -32,6 +32,7 @@
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md) — Per-source provenance for Searcher four-outfit quiver — Fisherman's Landing rental packages: channel status, registration confidence, ASR-uncertain caption read
 - [Evidence — Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](searcher-lever-drag-reel-sizing.md) — Per-source provenance for Searcher lever-drag reel sizing: channel/sponsor status, upload dates, and the ASR-uncertain readings the main note's prose gave up.
 - [Evidence — Searcher Rail-Rod Ladder — Four Tiers by Line Rating](searcher-rail-rod-ladder.md) — Per-source provenance for Searcher rail-rod ladder: channel status, upload date, video title, and the product/model confidence caveats the main note's prose gav
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](searcher-spring-bluefin-yellowtail-quiver.md) — Per-source provenance for Searcher spring bluefin/yellowtail quiver: presenter identification, channel status, and the ASR-uncertain caption readings the main n
 <!-- index:end -->
 
 

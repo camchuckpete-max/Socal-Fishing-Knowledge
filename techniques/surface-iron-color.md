@@ -133,6 +133,7 @@ file](evidence/surface-iron-color.md).
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](../tackle/evidence/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Evidence — Surface Iron — Colour](evidence/surface-iron-color.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)

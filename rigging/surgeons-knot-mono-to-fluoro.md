@@ -227,5 +227,6 @@ SearcherSportfishing byline.
 - [Essential SoCal Knots](essential-knots.md)
 - [Evidence — Essential SoCal Knots](evidence/essential-knots.md)
 - [Searcher 40 lb All-Around Tuna Outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

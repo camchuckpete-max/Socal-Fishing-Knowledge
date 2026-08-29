@@ -208,6 +208,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kite-fishing.md
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Kite Fishing](evidence/kite-fishing.md)
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](../tackle/evidence/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)

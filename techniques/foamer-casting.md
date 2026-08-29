@@ -332,6 +332,7 @@ Trip reports and per-source provenance: [evidence file](evidence/foamer-casting.
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Foamer Casting](evidence/foamer-casting.md)
+- [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](../tackle/evidence/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [May](../seasonal/may.md)
