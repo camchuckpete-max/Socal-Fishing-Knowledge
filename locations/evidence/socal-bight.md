@@ -98,5 +98,6 @@ Observations never change the note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Mackerel Bank](../mackerel-bank.md)
 - [Southern California Bight](../socal-bight.md)
 <!-- backlinks:end -->

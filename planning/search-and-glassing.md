@@ -365,6 +365,7 @@ Trip reports and per-source provenance:
 - [La Jolla](../locations/la-jolla.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
+- [Mackerel Bank](../locations/mackerel-bank.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)

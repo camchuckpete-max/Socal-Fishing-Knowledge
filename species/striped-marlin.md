@@ -312,6 +312,7 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
+- [Mackerel Bank](../locations/mackerel-bank.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)

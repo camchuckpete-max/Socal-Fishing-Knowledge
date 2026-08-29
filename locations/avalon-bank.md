@@ -41,5 +41,6 @@ A charted spot at **33°24.700'N 118°13.500'W** (cameron), in the [Catalina Isl
 ## Linked from
 
 - [Catalina Island — Front Side](catalina-island-front-side.md)
+- [Mackerel Bank](mackerel-bank.md)
 - [The Slide / 152 / 277](slide-152-277.md)
 <!-- backlinks:end -->

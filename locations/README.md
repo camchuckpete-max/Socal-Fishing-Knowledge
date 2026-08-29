@@ -278,6 +278,7 @@
 - [Lower 500](lower-500.md) **[Baja only]** — A charted spot at 31°10.500'N 117°02.500'W (cameron), in the 1140 Finger / 450 zone.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
 - [Lower Cross](lower-cross.md) **[Baja only]** — A zone is a run grouping.
+- [Mackerel Bank](mackerel-bank.md) **[SoCal only]** — An offshore bank northeast of San Clemente Island at 33°02.200'N 118°23.600'W (cameron), charted in the spot library's offshore-banks list and carried by the fr
 - [Mail Point](mail-point.md) **[SoCal only]** — A charted spot at 32°52.760'N 118°31.290'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
@@ -432,5 +433,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 419 notes exceed the 30-node cap._
+_Map skipped: 420 notes exceed the 30-node cap._
 <!-- mermaid:end -->

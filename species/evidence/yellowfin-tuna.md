@@ -447,6 +447,7 @@ matching flagged stubs.
 - [Evidence — Rubber-Band Deep Rig](../../rigging/evidence/rubber-band-deep-rig.md)
 - [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
 - [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md)
+- [Mackerel Bank](../../locations/mackerel-bank.md)
 - [Pyramid Head](../../locations/pyramid-head.md)
 - [Yellowfin Tuna](../yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../yellowfin-tuna-flyline.md)

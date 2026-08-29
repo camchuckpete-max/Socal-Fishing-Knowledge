@@ -130,6 +130,7 @@ Trip reports and per-source provenance:
 - [June–July](../seasonal/june-july.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
+- [Mackerel Bank](../locations/mackerel-bank.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)

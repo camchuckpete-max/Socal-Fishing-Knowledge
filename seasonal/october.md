@@ -90,6 +90,7 @@ the fleet behavior correctly before you run to it. See
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
 - [Hancock Bank](../locations/hancock-bank.md)
+- [Mackerel Bank](../locations/mackerel-bank.md)
 - [Pacific Bonito](../species/bonito.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Southern California Bight](../locations/socal-bight.md)

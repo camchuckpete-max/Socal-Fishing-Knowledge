@@ -460,6 +460,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
+- [Mackerel Bank](../locations/mackerel-bank.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [May](../seasonal/may.md)
 - [Middle Grounds](../locations/middle-grounds.md)

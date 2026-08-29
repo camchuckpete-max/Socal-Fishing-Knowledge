@@ -140,5 +140,6 @@ No per-spot evidence file yet; the trip reports that fed this page are in
 <!-- backlinks:start -->
 ## Linked from
 
+- [Mackerel Bank](mackerel-bank.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 <!-- backlinks:end -->
