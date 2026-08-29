@@ -267,3 +267,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T11:38:24Z — species/striped-marlin.md -> profiles/cameron/README.md — verify-escalate
 - run: 33246070281
 - reason: same trigger as the skipjack row — profiles/ is guard-protected and the README carries no marlin line, so Cameron's stated intention to troll marlin from the panga lives ONLY in species/evidence/striped-marlin.md; Cameron must land it in his profile or rule on unprotecting profiles/ for the relocation pass
+
+## 2026-08-29T12:45:23Z — species/sand-bass.md -> NEW: species/sand-bass-alabama-rig.md — verify-escalate
+- run: 33253040396
+- reason: scripts/review/commit-note.py:119-132 matches relocation rows by src alone and stops at the first hit, so any source note with 2+ queue rows silently mis-stamps; 13 rows across 6 multi-row srcs still queued behind it; patch the setter to key on src+dst
