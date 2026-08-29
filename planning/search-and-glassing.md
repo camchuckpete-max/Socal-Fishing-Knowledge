@@ -358,6 +358,7 @@ Trip reports and per-source provenance:
 - [Evidence — Spotted Bay Bass](../species/evidence/spotted-bay-bass.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

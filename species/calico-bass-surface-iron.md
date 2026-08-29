@@ -139,5 +139,6 @@ provenance: [calico bass evidence](evidence/calico-bass.md).
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Evidence — Calico Bass — surface iron](evidence/calico-bass-surface-iron.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Surface Iron](../techniques/surface-iron.md)
 <!-- backlinks:end -->

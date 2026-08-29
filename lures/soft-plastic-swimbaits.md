@@ -648,6 +648,7 @@ baits and heads from the class terms above; see
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)

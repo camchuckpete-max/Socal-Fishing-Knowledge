@@ -443,6 +443,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

@@ -119,6 +119,7 @@ Trip reports and per-source provenance:
 - [Ensenada](ensenada.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
+- [Geronimo Island](geronimo-island.md)
 - [Guadalupe](guadalupe.md)
 - [Hancock Bank](hancock-bank.md)
 - [Imperial Beach](imperial-beach.md)

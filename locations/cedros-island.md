@@ -402,6 +402,7 @@ with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 
 <!-- children:start -->
 - [Chester's Rock](chester-s-rock.md)
+- [Geronimo Island](geronimo-island.md)
 <!-- children:end -->
 
 ## Evidence
@@ -422,6 +423,7 @@ Trip reports and per-source provenance:
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Geronimo Island](geronimo-island.md)
 - [Guadalupe](guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)

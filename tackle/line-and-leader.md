@@ -589,6 +589,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)

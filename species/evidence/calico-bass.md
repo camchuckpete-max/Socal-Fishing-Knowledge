@@ -453,4 +453,5 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 - [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
+- [Geronimo Island](../../locations/geronimo-island.md)
 <!-- backlinks:end -->

@@ -74,4 +74,5 @@ unregistered channel, capped at medium), which is why the page sits at
 
 - [Calico Bass — surface iron](../calico-bass-surface-iron.md)
 - [Evidence — Calico Bass (Kelp Bass)](calico-bass.md)
+- [Geronimo Island](../../locations/geronimo-island.md)
 <!-- backlinks:end -->

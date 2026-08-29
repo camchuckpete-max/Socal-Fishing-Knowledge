@@ -178,4 +178,5 @@ species-side entries are in
 ## Linked from
 
 - [Cedros / San Benitos](cedros-island.md)
+- [Geronimo Island](geronimo-island.md)
 <!-- backlinks:end -->

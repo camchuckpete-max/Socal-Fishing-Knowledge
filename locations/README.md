@@ -226,6 +226,7 @@
 - [Finger Bank rockfish](finger-bank-rockfish.md) **[Baja only]** — A zone is a run grouping.
 - [Flat Rock](flat-rock.md) **[SoCal only]** — A charted spot at 32°54.755'N 117°15.755'W (cameron), in the Oceanside / North County zone.
 - [Gallaghers](gallaghers.md) **[SoCal only]** — A charted spot at 33°21.927'N 118°20.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Geronimo Island](geronimo-island.md) **[Baja only]** — [Baja only] — the island at the south end of the Cedros / San Benitos complex, and one end of a single continuous stretch of shallow ground running to Chester's
 - [Golf Ball](golf-ball.md) **[SoCal only]** — A charted spot at 33°14.400'N 117°26.270'W (cameron), in the Oceanside / North County zone.
 - [Green Tank](green-tank.md) **[SoCal only]** — A charted spot at 32°42.610'N 117°16.740'W (cameron), in the Point Loma zone.
 - [Guadalupe](guadalupe.md) **[Baja only]** — [Baja only] — Guadalupe Island, the outermost zone of Baja Pacific — North and the only one in the region that no day boat reaches: 215 mi to the north end, 235
@@ -438,5 +439,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 425 notes exceed the 30-node cap._
+_Map skipped: 426 notes exceed the 30-node cap._
 <!-- mermaid:end -->

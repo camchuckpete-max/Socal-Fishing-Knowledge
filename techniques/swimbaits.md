@@ -458,6 +458,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Evidence — Swimbaits](evidence/swimbaits.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Geronimo Island](../locations/geronimo-island.md)
 - [Glide Baits](glide-baits.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [La Paz](../locations/la-paz.md)
