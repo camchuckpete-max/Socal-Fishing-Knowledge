@@ -292,10 +292,11 @@ temperature break and the ~160 lb fish — is on
 interview at the Pacific Coast Sportfishing Show; unregistered
 channel/speaker — medium confidence): the whole programme — the re-headed
 tungsten King Buster-class finesse lure and its hook, the 60/80 lb
-straight-to-the-lure line class, the 7–9 mph speed, the stay-outside/get-way-
-in-front pod approach with its bow-pressure failure mode, the
-feeding-vs-travelling positional read, the lobster-opener window and its
-60–70 lb result, and the Hawaii-skipjack labelled contrast — is on
+straight-to-the-lure line class, the 7–9 mph speed, the
+stay-outside/get-way-in-front pod approach with its bow-pressure failure mode,
+the feeding-vs-travelling positional read, the circa-mid-2010s Dana Point
+origin, the lobster-opener window and its 60–70 lb result, and the
+Hawaii-skipjack labelled contrast — is on
 [yellowfin tuna — trolling](../species/yellowfin-tuna-trolling.md).
 
 ## Baja, Sea of Cortez trolling lure kit
