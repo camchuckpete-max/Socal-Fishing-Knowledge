@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs, iAr6sbRC384]
 confidence: high
 layout: v2
 ---
@@ -203,6 +203,22 @@ buoy-website lookup (`MUpvP-Yl2R0`). The same screen carries the SST
 color-shading described above, used to help pick the day's zone, plus an
 **AIS layer** (other AIS-equipped vessels) and a **structure-scan sonar**
 channel run alongside the main sounder (`MUpvP-Yl2R0`).
+
+## Closure boundaries as a chart layer
+
+A depth-based closure line is a **charted boundary, not a depth reading** —
+the same closure can run at different depths along one stretch of coast, so
+the sounder cannot tell you which side of it the boat is on. Load the
+boundary into a chart app — **Navionics, about $10–15** — and check position
+against the drawn line rather than judging by depth; private boats have been
+boarded and cited for getting that call wrong (`iAr6sbRC384`). The workflow
+is boundary-agnostic: it applies to any closed area that can be carried as a
+chart layer, not only to the depth closure it was described for.
+
+Regulatory context (California / CDFW, as of 2020-03 — verify the current
+boundary and depth limits before fishing): the Rockfish Conservation Area
+depths behind this example are in
+[rockfish and lingcod — regulations](../species/rockfish-lingcod.md#regulations).
 
 ## Bird radar
 

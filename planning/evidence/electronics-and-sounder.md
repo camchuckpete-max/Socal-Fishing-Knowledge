@@ -2,7 +2,7 @@
 type: evidence
 parent: ../electronics-and-sounder.md
 tags: [electronics, sounder, sonar, radar, dsl]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs, iAr6sbRC384]
 confidence: medium
 ---
 
@@ -183,6 +183,19 @@ order. Observations never change the parent's stated doctrine.
   corpus. Unregistered channel — medium confidence on the mechanism, low on
   the product claim.
 
+## Closure boundaries as a chart layer
+
+- `iAr6sbRC384` (Fisher Newb, 2020-03-16, Fred Hall Show 2020 modern
+  rockfishing seminar, presenter Bobby Martinez; unregistered channel):
+  recommended loading the CDFW depth-closure boundary into a chart app — he
+  named **Navionics, ~$10–15** — and checking the boat's position against the
+  drawn line rather than judging by depth alone, because the line runs at
+  different depths along the same stretch of coast; he cited private boats he
+  had heard of being boarded and cited. Unregistered channel, single mention
+  — medium confidence. Relocated from
+  [rockfish & lingcod](../../species/evidence/rockfish-lingcod.md), which
+  keeps the depth-line regulatory claim itself.
+
 ## Bird radar
 
 - `yLpDI8jnizU` (as above): source of the bird-mode radar settings (gain
@@ -251,4 +264,5 @@ order. Observations never change the parent's stated doctrine.
 ## Linked from
 
 - [Electronics and Sounder](../electronics-and-sounder.md)
+- [Evidence — Rockfish & Lingcod](../../species/evidence/rockfish-lingcod.md)
 <!-- backlinks:end -->

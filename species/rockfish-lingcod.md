@@ -236,10 +236,9 @@ to year, and Mexican waters are a separate jurisdiction from California.
   depths along the same stretch of coast — about **240 ft** around the offshore
   islands versus a **75-fathom (450 ft)** line closer to the mainland — so a
   boat can be legal at one position and over the line at a similar depth a
-  short distance away (`iAr6sbRC384`). ⚠ misplaced-content: the compliance tool
-  that goes with it — loading the CDFW boundary into a chart app (Navionics,
-  ~$10–15) so a private boat checks position rather than depth — is
-  chart/electronics planning content sitting in a species router.
+  short distance away (`iAr6sbRC384`). Checking position against the drawn
+  boundary instead of against the depth reading is a chart workflow — see
+  [closure boundaries as a chart layer](../planning/electronics-and-sounder.md#closure-boundaries-as-a-chart-layer).
 - **Depth-limit progression (California / CDFW, as of 2019-02, self-hedged —
   historical only).** A SoCal reopen date of **March 1**, and a depth limit read
   as **300 ft**, held at **350 ft** for "a couple years," then **460 ft**

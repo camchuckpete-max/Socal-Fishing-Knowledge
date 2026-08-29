@@ -210,10 +210,9 @@ beside that doctrine in the parent.
   depth-based closure line as running at different depths along the same
   stretch of coast — about **240 ft** near the offshore islands vs a
   **75-fathom (450 ft)** line nearer the mainland — such that a boat can be
-  legal at one position and illegal a short distance away at a similar depth,
-  and recommended loading the CDFW boundary into a chart app (he named
-  **Navionics, ~$10–15**) rather than judging by depth alone, citing private
-  boats he had heard of being boarded and cited.
+  legal at one position and illegal a short distance away at a similar depth.
+  The chart-app compliance workflow he paired with it moved to
+  [electronics and sounder](../../planning/evidence/electronics-and-sounder.md).
 - `lF6jQklDCrY` (2019-02-06): the SoCal rockfish season reopening **March 1**,
   and a depth-limit progression read off the then-current regs — **300 ft**,
   held at **350 ft** for "a couple years," then **460 ft** effective
@@ -276,6 +275,7 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [Evidence — California Sheephead](sheephead.md)
+- [Evidence — Electronics and Sounder](../../planning/evidence/electronics-and-sounder.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 - [Rockfish & Lingcod](../rockfish-lingcod.md)
 <!-- backlinks:end -->
