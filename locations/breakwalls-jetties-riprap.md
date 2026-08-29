@@ -149,48 +149,10 @@ unusually productive walls invisible from the surface — network with
 scuba/freediving contacts for that intel rather than fishing every wall cold
 (`XyKF34C5iB4`).
 
-## Casting technique
-
-⚠ misplaced-content: the bail-close casting fix and the countdown-to-depth
-method below are generalizable retrieve/casting technique, not wall-specific
-structure knowledge — queued for a dedicated technique note
-(`sources/relocation-queue.md`).
-
-Most break-wall faces sit at roughly a **45°** angle underwater, following
-the rock pile's natural angle of repose. Casting a lead-head or plastic onto
-the wall and lifting the rod tip to "let it sink" drops slack line straight
-into the rock pile — the bait falls into a gap and hangs up; fished that way,
-a guide working the wall hard can burn through "two dozen [jig] heads in a
-couple hours." The fix: **close the bail the instant the lure hits the
-water.** With the bail already closed, the retrieve follows the wall's
-angled contour back toward the boat/shore instead of dropping straight down
-— it may bump the rock once or twice on the way in but does not bury itself
-in a crevice. Fishing a stretch that runs slightly uphill (target depth
-roughly **15-20 ft**), count the bait down to the bottom once on the first
-cast (e.g., a 5-count), then on subsequent casts engage the reel **one count
-short of that bottom count** (e.g., a 4-count) so the retrieve rides along
-the bottom instead of dropping into it (`RUuPNpK0x-s`).
-
-A generalizable version of the same idea works anywhere depth is known from
-the sounder, not just on a wall: count the bait down on a known count to
-reach a given depth, then engage the reel a beat or two **before** it reaches
-bottom (or the fish's depth), so the retrieve arrives swimming in naturally
-from the side rather than dropping in from above — "fish don't swim into
-rocks, they swim a long stretch." Two applications (`RUuPNpK0x-s`):
-
-- **Locating suspended fish precisely:** bass mark stacked up and shaped like
-  an "umbrella" on the meter in summer. Fish showing at 15 ft over a bottom
-  that takes a 20-count to reach get a **16-count** before engaging the reel,
-  so the retrieve swims back up through the school instead of passing under
-  it.
-- **Avoiding snags anywhere depth is known:** at an island stop, read the
-  bottom depth off the sounder (e.g., 30 ft), establish the matching count
-  (e.g., a 5-count), and start winding just before that count is up —
-  matters most where the bottom is uneven and hides rock.
-
-Called "pretty much a lost art" — not many anglers count their bait down
-anymore, but doing it costs fewer jig heads and puts the retrieve in front of
-fish holding tight to structure instead of swimming past them (`RUuPNpK0x-s`).
+A wall face's underwater angle also dictates how a sinking bait must be cast
+onto it — close the bail as the lure lands and count the bait down to a
+chosen depth rather than dropping slack into the rock: see
+[countdown casting](../techniques/countdown-casting.md).
 
 ## Evidence
 
@@ -205,6 +167,7 @@ Trip reports and per-source provenance: [evidence file](evidence/breakwalls-jett
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Countdown Casting — Arriving at a Known Depth](../techniques/countdown-casting.md)
 - [Evidence — Break Walls, Jetties and Riprap](evidence/breakwalls-jetties-riprap.md)
 - [Evidence — Oceanside / North County](evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](evidence/point-loma.md)

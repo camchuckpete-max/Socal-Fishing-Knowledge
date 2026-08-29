@@ -9,6 +9,7 @@
 - [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling move for a SoCal live-bait sportboat (half-day through multi-day trips): rig a spare rod with a swimbait/jig built on a double-collar keeper
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
 - [Clearing a Backlash](clearing-a-backlash.md) — Clearing a backlash frees a tangled baitcast or conventional spool by hand-tensioning the snarled line back out, rather than cutting the tangle out and re-tying
+- [Countdown Casting — Arriving at a Known Depth](countdown-casting.md) **[SoCal only]** — Count the sinking bait down on a known count, then engage the reel a beat before that count is up, so the retrieve starts from a chosen depth and arrives from t
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — A castable, daytime-only presentation for bluefin and yellowfin tuna keyed on small bait and refusing the bigger, "crazy looking" lures fished at night: free-sp
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -62,5 +63,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 49 notes exceed the 30-node cap._
+_Map skipped: 50 notes exceed the 30-node cap._
 <!-- mermaid:end -->
