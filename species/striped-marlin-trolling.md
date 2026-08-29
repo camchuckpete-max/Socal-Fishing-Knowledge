@@ -62,9 +62,10 @@ is handed to the pitch rod — the dropback itself is
 **Everything runs short and tight.** On the corpus's worked SoCal stop the whole
 spread ran short and tight for that boat: on the outriggers roughly **four to
 five wakes** back, the flatlines **real close to the boat** (`3qSY328fFYo`).
-The figures are one captain's setup on his own boat and no second source
-corroborates them. The stated reason the spread is compressed is the watching
-problem below: a marlin's approach has to be visible from the helm.
+The stated reason the spread is compressed is the watching problem below: a
+marlin's approach has to be visible from the helm.
+⚠ Fact-check (single-source): the four-to-five-wakes/flatlines-close setback
+figures are one captain's setup on his own boat, with no second source.
 
 **The roster is swimmers plus one small colour.** The spread pulled on the
 corpus's worked stop was a **flying-fish-pattern swimmer** in one rigger, a

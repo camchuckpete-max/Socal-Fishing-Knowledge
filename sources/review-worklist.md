@@ -884,5 +884,5 @@ by their builders after the transform phase drains.
 | lures/bucktail-jigs.md | standard | transformed | spots(1) | already v2-compliant from relocation; added 1 spot-harvest row (Magdalena Bay), verified against transcript |
 | species/spotted-bay-bass-structure-pitching.md | standard | transformed | gaps(1) | verified compliant; verifier removed 1 fabricated rod-power spec (medium-heavy, unsupported by transcript) from note+evidence |
 | species/spotted-bay-bass-bottom-jig-crawl.md | standard | transformed |  | verified compliant, no changes needed (already v2-compliant from relocation; check-note.py clean, 4 transcript spot-checks faithful, router/evidence cross-references consistent) |
-| species/striped-marlin-trolling.md | standard | pending |  | created by relocation from species/striped-marlin.md |
+| species/striped-marlin-trolling.md | standard | transformed | reg-claims(0), spots(2), gaps(0), misplaced(0) | ad hoc single-source caveat reformatted into standard fact-check flag + Standing ledger row; two spot-harvest rows (tanker lanes, 277 bank) added |
 <!-- review:worklist:end -->

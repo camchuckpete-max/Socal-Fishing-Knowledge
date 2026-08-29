@@ -602,4 +602,6 @@ harvested.
 | Mission Bay / San Diego Bay | species/california-halibut-live-bait-drift.md | When this is the call | bay/harbor channel-edge program fished in 8–10 ft of water | `a5u8BaYzw8c` |
 | Channel Islands | species/california-halibut-live-bait-drift.md | Rigs & gear | 30 lb boat-rod build framed as the outfit for an overnight or two-day trip there | `a5u8BaYzw8c` |
 | Magdalena Bay estuary channel | lures/bucktail-jigs.md | Specs | the one corpus record: a white bucktail popped up off the bottom took a snook here, off the mangrove edge | `OVwqUKim9Pc` |
+| Tanker lanes (shipping lanes off Catalina) | species/striped-marlin-trolling.md | When this is the call | run from the home port, 19.2 mi at 193° to the bottom of the tanker lanes (~17 mi out), before continuing toward the 277 bank | `3qSY328fFYo` |
+| 277 bank | species/striped-marlin-trolling.md | When this is the call | ground at the bottom of the ridge off Catalina's east end, ~35 min past the tanker lanes, worked at 68–69.4°F and producing the corpus's ~160 lb marlin | `3qSY328fFYo` |
 <!-- review:harvest:end -->
