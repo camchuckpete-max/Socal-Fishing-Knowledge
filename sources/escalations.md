@@ -315,3 +315,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T18:44:49Z — locations/farnsworth-bank.md — guard-violation
 - run: 33268530643
 - reason: commit 497ca80f744f40e6baee75d106b60993cc8ad8a1 reverted: out of scope for 'review: locations/farnsworth-bank.md': locations/catalina-island-backside.md
+
+## 2026-08-29T19:00:26Z — locations/mackerel-bank.md — guard-violation
+- run: 33268530643
+- reason: commit 5e764c94cd9035bae64e4cd839bab018887e1fa2 reverted: out of scope for 'review: locations/mackerel-bank.md': locations/san-clemente-island-front-side.md
