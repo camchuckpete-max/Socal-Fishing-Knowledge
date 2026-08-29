@@ -879,7 +879,7 @@ by their builders after the transform phase drains.
 | species/lingcod-jigging.md | standard | transformed | gaps(2) | verified compliant, no changes needed (159 lines; check-note.py clean, 5 transcript spot-checks faithful) |
 | species/sand-bass-sliding-sinker.md | standard | transformed | none | verified compliant, no changes needed (154 lines; check-note.py clean, transcript spot-checks faithful) |
 | species/sand-bass-alabama-rig.md | standard | transformed | none | verified compliant, no changes needed (141 lines; check-note.py clean, 6 transcript spot-checks faithful) |
-| species/sheephead-sliding-sinker.md | standard | pending |  | created by relocation from species/sheephead.md |
+| species/sheephead-sliding-sinker.md | standard | transformed | none | verified compliant, no changes needed (161 lines; check-note.py clean, 3 transcript spot-checks faithful) |
 | species/sheephead-tube-bait-fishing.md | standard | pending |  | created by relocation from species/sheephead.md |
 | lures/bucktail-jigs.md | standard | pending |  | created by relocation from species/snook.md |
 | species/spotted-bay-bass-structure-pitching.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |
