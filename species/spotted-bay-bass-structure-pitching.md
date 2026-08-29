@@ -81,8 +81,8 @@ this swimbait program.
 ## Rigs & gear
 
 - **Rod: an all-graphite, super light and sensitive casting rod rated
-  12–20 lb** — a 7 ft 6 in medium-heavy is the stated size, and the same blank
-  is fished for calico and off break walls (`46ha7J1Fc6A`).
+  12–20 lb** — 7 ft 6 in is the stated size, and the same blank is fished for
+  calico and off break walls (`46ha7J1Fc6A`).
 - **Reel: a low-profile 200-size**, stepped to a **300-size** in heavier piling
   work, at a **6.6:1** ratio (`46ha7J1Fc6A`).
 - **Main line: 20–30 lb braid** — very strong and with no stretch, so nothing is

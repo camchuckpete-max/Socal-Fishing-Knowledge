@@ -22,10 +22,10 @@ the sources this page does not draw on, is in
 - `46ha7J1Fc6A` (Roman Castro, 2020 Fred Hall Show, Long Beach, 2020-03-12):
   Rick Fuentes (Fishing Syndicate) on the San Diego Bay / Mission Bay dock,
   piling and mooring program this page is built from — an all-graphite, super
-  light and sensitive casting rod rated 12–20 lb (the 7 ft 6 in medium-heavy
-  size is named later in the same video by the rod builder, not by Fuentes),
-  sensitive enough that "you can literally feel the tail kicking on the swim
-  bait" and fished with 3 in and 4 in swimbaits and Band of Anglers dart-spins
+  light and sensitive casting rod rated 12–20 lb (the 7 ft 6 in size is named
+  later in the same video by the rod builder, not by Fuentes), sensitive
+  enough that "you can literally feel the tail kicking on the swim bait" and
+  fished with 3 in and 4 in swimbaits and Band of Anglers dart-spins
   on a 3/8–1/2 oz jighead; 200-size low-profile reels, stepped to a 300 in the
   heavier structure work, at a preferred 6.6:1 ratio for the speed to "turn that
   head around real quick and get them out of the structure" where docks are "only
