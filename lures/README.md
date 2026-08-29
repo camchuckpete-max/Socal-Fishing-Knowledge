@@ -13,7 +13,7 @@
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Slender minnow-profile hardbaits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline rock and submerged structure in the Se
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, split by cross-section and how it falls.
-- [Lingcod Specialty Baits — the Ling Cod Killers](lingcod-specialty-baits.md) **[SoCal only]** — A small family of large-profile baits sold specifically for lingcod, shown on a San Diego tackle-shop counter as the "Ling Cod Killers": the Living Squid and th
+- [Lingcod Specialty Baits — the Ling Cod Killers](lingcod-specialty-baits.md) **[SoCal only]** — A small family of large-profile baits sold specifically for lingcod, grouped on the tackle-shop counter as the "Ling Cod Killers": the Living Squid and the Ling
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A 110 mm shallow-diving hardbait, and the generic term SoCal surf anglers use for any minnow-type lure in this class: "if you call it a Lucky Craft to a surf an
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.

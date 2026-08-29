@@ -15,7 +15,7 @@ contradicting one is also traced beside that doctrine in the parent.
 
 ## Specs
 
-- `S9sQ8Vg8-5o` (Tackle Express, 2025-03-28, San Diego shop counter, SoCal
+- `S9sQ8Vg8-5o` (Tackle Express, 2025-03-28, shop counter, SoCal
   rockfish gear guide): the two baits are shown as stock on the counter under
   the grouping "Ling Cod Killers" — the living squid and the ling killer —
   inside a walk-through of hooks, weights, baits and jigs for the SoCal rockfish

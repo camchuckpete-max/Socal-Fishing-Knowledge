@@ -14,14 +14,14 @@ run_speed: unknown — no retrieve, cadence or speed is given on camera
 
 # Lingcod Specialty Baits — the Ling Cod Killers
 
-A small family of **large-profile baits sold specifically for lingcod**, shown
-on a San Diego tackle-shop counter as the "Ling Cod Killers": the **Living
-Squid** and the **Ling Killer**. They are not vertical metal jigs — they sit
-beside [knife jigs](knife-jigs.md) and [iron](iron-jigs.md) in a rockfish
-program as the deliberate size-over-numbers option, and the only thing the
-corpus records about them is what job they do: "you're not really looking for a
-ton of fish, you're looking for one big fish to seal the deal" (`S9sQ8Vg8-5o`).
-Everything below that is a gap, not doctrine.
+A small family of **large-profile baits sold specifically for lingcod**, grouped
+on the tackle-shop counter as the "Ling Cod Killers": the **Living Squid** and
+the **Ling Killer**. They are not vertical metal jigs — they sit beside
+[knife jigs](knife-jigs.md) and [iron](iron-jigs.md) in a SoCal rockfish program
+as the deliberate size-over-numbers option: "you're not really looking for a ton
+of fish, you're looking for one big fish to seal the deal" (`S9sQ8Vg8-5o`).
+What either bait physically is, and how it is rigged and worked, are flagged
+gaps below.
 
 ## Specs
 
@@ -41,11 +41,9 @@ are stated on camera and nothing more, so this note cannot yet say whether they
 belong to the same lure class as each other.
 
 ⚠ Fact-check (single-source): the whole note rests on one shop-counter product
-callout on an unregistered channel, re-cut as a short from the same footage —
-one source appearance, not two (`S9sQ8Vg8-5o`, `iR8CDCyofDM`). Single-source is
-not wrong, and the row stands until a second source lands; the promotional
-setting is why this note carries `confidence: low` rather than the medium an
-unregistered channel would otherwise cap at.
+callout, re-cut as a short from the same footage — one source appearance, not
+two (`S9sQ8Vg8-5o`, `iR8CDCyofDM`). It stands until a second source names either
+bait or gives a spec for it.
 
 ## Size over numbers — the trade this class exists for
 
@@ -57,9 +55,9 @@ same breath: if you simply want to catch fish and do not care how, fish a
 parameter of the baits themselves — is the whole reason the class is stocked
 separately.
 
-The same size-filter logic, worked through with the cadence and gear the corpus
-does carry, is in [lingcod — jigging](../species/lingcod-jigging.md); that page
-names these two baits as a class term and points here.
+The same size-filter logic, worked through with the flat-fall cadence and the
+rockfish outfit, is in [lingcod — jigging](../species/lingcod-jigging.md), which
+names these two baits as a class term at the top of its jig range.
 
 ## When to choose it
 
