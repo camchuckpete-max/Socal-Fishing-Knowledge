@@ -130,9 +130,9 @@ colour read, or any month outside the fall long-range window for this ground.
 stop — Alijos Rocks or the Ridge — is to start the boat's
 [trolling](../techniques/wahoo-trolling.md) spread and "get the lay of the
 land" before switching to cast or live-bait presentations (`4uNPLknRAQg`).
-Two further sizes of the Nomad DTX are called out by name for this ground and
-Alijos Rocks as the long-range trolling kit, chosen because the lure swims
-deeper than most (`it_YYh_8Z-w`;
+Two sizes of the Nomad DTX are named for this ground and Alijos Rocks as the
+long-range trolling kit, chosen because the lure swims deeper in the water than
+most trolling lures (`it_YYh_8Z-w`;
 [DTX Minnow](../lures/dtx-minnow.md#wahoo-trolling-application-dtx-200)).
 
 **The bomb is the cast presentation, and speed is the non-negotiable.** On

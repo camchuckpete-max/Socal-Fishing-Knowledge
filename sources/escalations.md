@@ -339,3 +339,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T21:18:05Z — locations/ridge-uncle-sam-bank.md — zone-page-stale-prose
 - run: 33275312057
 - reason: locations/baja-pacific-south.md still carries "The Ridge / Uncle Sam Bank" as a flagged stub under "Named grounds the census derives no zone for" and omits it from the Zones table, and locations/alijos-rocks.md Spots says both it and Thetis Bank "are carried as flagged stubs on Baja Pacific — South" — both are now stale, the page exists. Also a ladder-rung question: this ground is zone-scale (the standing alternative to the Alijos Rocks ZONE on the same trip) but was queued as a spot row, so it is parented straight to the region page like locations/la-bocana.md; Cameron to decide whether it should be promoted to type: zone.
+
+## 2026-08-29T21:24:42Z — locations/ridge-uncle-sam-bank.md — verify-escalate
+- run: 33275312057
+- reason: ridge name-collision: species/evidence/wahoo.md treats the Magdalena-area 'the ridge' as the same ground while the new page keeps them apart under unverifiable; plus stale flagged-stub prose on baja-pacific-south.md + alijos-rocks.md and the zone-vs-spot ladder rung
