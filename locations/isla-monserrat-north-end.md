@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [isla-monserrat, loreto, puerto-escondido, sea-of-cortez, baja, roosterfish, cabrilla, island]
-sources: [n4nMCLLW3tY]
+sources: [ikiXx9sUsoA, n4nMCLLW3tY]
 confidence: medium
 regions: [cortez-south]
 waters: [island]
@@ -16,12 +16,12 @@ distance_nm: unknown — the run is described only as further than the previous 
 
 **[Baja only]** — the **outside run** of the
 [Loreto & Puerto Escondido](loreto.md) island cluster, and the end of the island
-local word rates: *"Monserrat north end is the best"* (`n4nMCLLW3tY`). It is the
-only ground in the zone the corpus records as a **destination chosen on a
-recommendation** rather than on a fish someone had already caught there.
+local word rates: *"Monserrat north end is the best"* (`n4nMCLLW3tY`). The day
+on record ran here on that recommendation rather than on a fish someone had
+already caught there (`n4nMCLLW3tY`).
 
 The whole record is **one day — 2023-07-31** — on which the island produced a
-[roosterfish](../species/pacific-crevalle-jack.md) on the troll and
+roosterfish on the troll and
 [cabrilla](../species/cabrilla.md) in **5–10 ft** of water (`n4nMCLLW3tY`). Read
 the page as that day, not as the island's fishery.
 
@@ -56,7 +56,7 @@ earlier trip, triggerfish, a Pinto bass and a skipjack on this one — sits on
 at anchor with an **18 ft** Grady White towed behind it, Puerto Escondido
 Marina as the working base, and sardines ordered from the bait vendor who meets
 boats out front are all on
-[the zone page](loreto.md#getting-there) (`n4nMCLLW3tY`).
+[the zone page](loreto.md#getting-there) (`ikiXx9sUsoA`, `n4nMCLLW3tY`).
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -96,7 +96,7 @@ nothing in the corpus lays out any other month at this island (`n4nMCLLW3tY`).
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Cabrilla](../species/cabrilla.md) | 2023-07-31 (`n4nMCLLW3tY`); ⚠ Flagged gap — no corpus source: the rest of the year here | The ground's most productive fish and the reason the day ended here. Several came from **5–10 ft** on a Shimano suspending jerkbait — one too small to keep and released, one kept for dinner — and the crew stayed once they found them: *"I do want to stay here because they're here"* (`n4nMCLLW3tY`). One was called on camera *"a different type of cabrilla"*, so more than one species is in the mix. This is the [cabrilla](../species/cabrilla.md) router's **shallowest documented depth** and its only record south of Bahía de los Ángeles |
+| [Cabrilla](../species/cabrilla.md) | 2023-07-31 (`n4nMCLLW3tY`); ⚠ Flagged gap — no corpus source: the rest of the year here | The ground's most productive fish and the reason the day ended here. Several came from **5–10 ft** on a Shimano suspending jerkbait — one too small to keep and released, one kept for dinner — and the crew stayed once they found them: *"I do want to stay here because they're here"* (`n4nMCLLW3tY`). One was called on camera *"a different type of cabrilla"*, so more than one species is in the mix. This is the [cabrilla](../species/cabrilla.md) router's **shallowest documented depth** (`n4nMCLLW3tY`) |
 | Roosterfish | 2023-07-31 (`n4nMCLLW3tY`); ⚠ Flagged gap — no corpus source: season shape here | Taken **on the troll**, on a Halco, close in beside the islet — *"rooster man that's shallow water"* (`n4nMCLLW3tY`). It is the day's first fish off the island and the zone's clearest break from [Cortez North](cortez-north.md), where roosterfish are a matter of luck ([the zone page](loreto.md)). ⚠ Flagged stub — no corpus source yet for a roosterfish router; the nearest is [Pacific crevalle jack](../species/pacific-crevalle-jack.md) |
 | Houndfish | 2023-07-31 (`n4nMCLLW3tY`) | Chased lures here rather than eating them — *"that was just from the lure he was going after"* (`n4nMCLLW3tY`). Bycatch and a sign of life, not a target |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this island for [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), sierra, [barracuda](../species/barracuda.md) or sailfish. Every one of those is recorded against other grounds in the zone ([zone page](loreto.md#whats-there)); the triggerfish, skipjack and Pinto bass belong to Six Mile Reef on the way out, not to this island |
