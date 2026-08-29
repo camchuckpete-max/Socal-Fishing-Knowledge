@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2261 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
+_Totals: 2262 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 ## species/
 
@@ -4173,4 +4173,6 @@ _Totals: 2261 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
   - `Hooks`: gap
 - **tackle/tackle-express-night-bluefin-tg-jig-rig.md**
   - `Leader — the "Jarry rig"`: gap — mechanism
+- **tackle/tackle-express-rockfish-leader-line.md**
+  - `Line size and material`: gap — mechanism for why fluorocarbon helps on a
 <!-- review:gaps:end -->
