@@ -200,7 +200,7 @@ by their builders after the transform phase drains.
 | tackle/rod-and-reel-selection.md | light | done | spots(3) | LIGHT-tier v2 migration, house-style rewrite, evidence file created, decision frames added to 2 doctrine conflicts; verified faithful, all 27 cites conserved |
 | tackle/rod-blank-and-component-materials.md | light | done | none | LIGHT-tier v2 migration, provenance moved to evidence file, stale anchor fixed; verifier fixed 1 unscoped-generalization drift on a presenter's personal practice |
 | tackle/rod-length-for-angler-size.md | light | done | none | restructured to house style, provenance split to evidence file, layout v2; verifier fixed 1 quote-hardening drift and removed 1 banned reconciliation phrase |
-| tackle/searcher-30lb-large-tuna-outfit.md | light | pending |  |  |
+| tackle/searcher-30lb-large-tuna-outfit.md | light | done | none | transform verified with in-tree conservation fixes (named-attribution drops + a direction-inversion bug) |
 | tackle/searcher-40lb-all-around-tuna-outfit.md | light | pending |  |  |
 | tackle/searcher-50-60-80lb-flyline-outfit.md | light | pending |  |  |
 | tackle/searcher-6-to-8-day-heavy-outfit.md | light | pending |  |  |

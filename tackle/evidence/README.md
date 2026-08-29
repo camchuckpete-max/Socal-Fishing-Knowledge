@@ -20,6 +20,7 @@
 - [Evidence — Rod & Reel Selection — by Application](rod-and-reel-selection.md) — Per-source provenance for rod & reel selection: presenter/channel status, upload dates, registration/confidence detail, and ASR-uncertain reasoning the main not
 - [Evidence — Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md) — Per-source provenance for rod blank, reel-seat, and grip materials: channel status, upload dates, and the re-cut/reposted-clip relationships behind the note's s
 - [Evidence — Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Per-source provenance for rod length — fitting the stick to the angler: channel status, upload dates, and corroboration-strength notes the main note's prose gav
+- [Evidence — Searcher 30 lb Large-Tuna Outfit](searcher-30lb-large-tuna-outfit.md) — Per-source provenance for Searcher 30 lb large-tuna outfit: channel status, registration confidence, upload dates, and the single-trip 95 lb-tuna observation th
 <!-- index:end -->
 
 

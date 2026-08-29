@@ -125,7 +125,7 @@ single-trip island observations, and Carson doesn't specify a location beyond
 ## Linked from
 
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
-- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
+- [Searcher 30 lb Large-Tuna Outfit](searcher-30lb-large-tuna-outfit.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
