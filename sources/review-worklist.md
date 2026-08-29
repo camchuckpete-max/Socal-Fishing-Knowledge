@@ -888,4 +888,5 @@ by their builders after the transform phase drains.
 | species/wahoo-live-bait.md | standard | pending |  | created by relocation from species/wahoo.md |
 | species/white-seabass-dropper-loop.md | standard | pending |  | created by relocation from species/white-seabass.md |
 | species/white-seabass-leadhead-squid.md | standard | pending |  | created by relocation from species/white-seabass.md |
+| species/yellowfin-tuna-flyline.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 <!-- review:worklist:end -->

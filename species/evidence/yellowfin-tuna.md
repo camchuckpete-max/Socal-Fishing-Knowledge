@@ -234,18 +234,15 @@ regardless.
 ## Situations → techniques
 
 - `8M4QhL-Qb7E` (BDOutdoors — Jordan Jennings, "Yellowfin Tuna Tricks & Tips,"
-  2021-08-16, San Diego, private boat): the whole private-boat live-bait
-  programme — a two-scoop bait maximum against the sportboat's bottomless chum;
-  a Gamakatsu Nautilus 2/0 circle as the default, matched to healthy sardines;
-  scaling the 30 lb setup down to a 20 or 15 lb leader with a size 1 thin-wire
-  Nautilus circle when a chummed school rolls on freebies but will not eat the
-  hook bait, then working back up to 25 and 30; the bait-net trick, learned from
-  a friend on a 20–25 lb school that would not eat — dip three to five baits,
-  nose-hook one, and throw the netful with the hook bait mixed in so it reads as
-  "a little mini bait ball"; and the slow troll — nose-hooked bait, one engine
-  just in gear, bait well back off the props, clicker set just heavy enough that
-  the bait cannot pull line by itself, then free spool a 10-count on the bite
-  before going to strike and winding tight on the circle.
+  2021-08-16, San Diego, private boat): the grade framing the router carries
+  (8–10 lb up to 40–50 lb, with 15–25 lb the bread-and-butter fish, starting to
+  show under paddies mixed in with other schools), the private boat's two-scoop
+  bait maximum against the sportboat's bottomless chum, and the rule that a few
+  freebies go over the side any time a school is located, before a hook bait is
+  presented. The live-bait programme this clip is otherwise given over to — the
+  30 lb / 2/0 entry point, the scale-down ladder, the bait-net trick, the slow
+  troll and the 10-count on the bite — moved with the sub-article and is logged
+  in [yellowfin — flyline evidence](yellowfin-tuna-flyline.md).
 - `5Oh3IPIC5g4` (Chad, HookUp Baits co-owner, Fred Hall 2020 seminar): with
   skipjack blanketing the surface over yellowfin holding below, a fast-sinking
   1 oz swimbait worked quickly through the skipjack layer beats live bait,
@@ -424,23 +421,10 @@ matching flagged stubs.
   cooperative than bluefin when it comes to throwing lures and a lot of times if
   they're there fighting lures on the surface the bluefin will become more
   cooperative as well."
-- `AIHvJj-paoo` (StokedOnFishing, 2016-11-29, offshore San Clemente Island near
-  Desperation Point; sponsor-heavy Okuma reel-demo episode, trip-tips segment):
-  on a picky private-boat bite that day, the trip-tip was to downsize line — a
-  25 lb fluorocarbon leader with a lighter thin-wire size 2 circle hook,
-  reasoned as letting the bait swim better. Multiple anglers aboard were
-  independently running 20–25 lb fluorocarbon that day: one stated as 20 lb line
-  with a 20–25 lb leader, another as a roughly 4 ft, 20–25 lb fluoro leader on
-  50 lb Spectra. Kept beside, not merged into, the 15–20 lb / size 1 numbers
-  from `8M4QhL-Qb7E`, since the two sources give different figures for the same
-  situation. Unregistered channel.
-- `NN5MWeRA28o` (SearcherSportfishing, "Tackle Tip Thursday Vol. 20,"
-  2018-10-31): for school-grade yellowfin that had been around the Coronado
-  Islands with the bite described as still "starting," the tip was light-line
-  fluorocarbon — 20 lb or 25 lb Seaguar Blue Label. No reason given beyond
-  naming the product and pound test. The segment opens by pitching a Seaguar
-  Blue Label sale at the shop's own tackle day, so it is a promotional claim
-  capped at low confidence.
+- The picky-bite leader-and-hook figures (`8M4QhL-Qb7E`, `AIHvJj-paoo`,
+  `NN5MWeRA28o`) moved with the flyline programme: full per-source detail is in
+  [yellowfin — flyline evidence](yellowfin-tuna-flyline.md#rigs--gear), and the
+  router keeps the pointer plus the decision frame.
 - `cameron`: alongside the warmest × cleanest water read the parent carries
   (chlorophyll and water colour weighted at least as heavily as SST in
   warm-water years, and "dirty green" water not fished for gamefish at all), a
@@ -457,5 +441,7 @@ matching flagged stubs.
 ## Linked from
 
 - [Evidence — Rubber-Band Deep Rig](../../rigging/evidence/rubber-band-deep-rig.md)
+- [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
 - [Yellowfin Tuna](../yellowfin-tuna.md)
+- [Yellowfin Tuna — flyline](../yellowfin-tuna-flyline.md)
 <!-- backlinks:end -->

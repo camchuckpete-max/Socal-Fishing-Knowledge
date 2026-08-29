@@ -171,22 +171,20 @@ silent.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Marked / chummed-up school, eager** | [Flyline](../techniques/flyline.md) a live sardine on a circle hook; chum a few freebies first to fire them | **30 lb class**, size 2/0 circle ([gear classes](../tackle/gear-classes.md)) | Match hook to bait size; **go to strike and wind tight** — no swing on circles (`8M4QhL-Qb7E`) |
-| **School reacting to chum but not eating the hook bait (picky)** | Scale down to **15–20 lb leader, size 1 thin-wire circle**; then the **bait-net trick** — pitch 3–4 freebies with your hook bait mixed in | Light **flyline class** | Work back up to 25–30 lb once they commit (`8M4QhL-Qb7E`). Competing leader/hook figures for this same situation are in [Doctrine & conflicts](#doctrine--conflicts) [a] |
+| **Marked / chummed-up school, eager** | [Flyline](../techniques/flyline.md) a live sardine on a circle hook — full programme in [yellowfin — flyline](yellowfin-tuna-flyline.md) | **30 lb class**, size 2/0 circle ([gear classes](../tackle/gear-classes.md)) | The sub-article holds the chum sequencing, the hook-to-bait match and the bite handling |
+| **School reacting to chum but not eating the hook bait (picky)** | Scale down leader and hook, then the **bait-net trick** — ladder, mechanism and climb-back in [yellowfin — flyline](yellowfin-tuna-flyline.md) | Light **flyline class** | Competing leader/hook figures for this same situation are kept side by side there, with the decision frame |
 | **Surface feeders / foamers**, fish crashing bait or flying fish | [Foamer casting](../techniques/foamer-casting.md) — poppers (Chug Norris 150 class), stickbaits, small lead baits | **Jig-stick class** | Matches sardine/anchovy; a topwater stickbait cast into visible activity was eaten on the second cast (`BQ2U1PqxWi8`). A surface yellowfin bite fires the bluefin (`CMQkHQMxbXM`) |
 | **Skipjack blanketing the surface over yellowfin holding below them** | A **fast-sinking 1 oz swimbait** worked quickly through the skipjack layer, instead of live bait | Bass casting / swimbait class | Live bait gets intercepted by the skipjack before it reaches the yellowfin (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) and [skipjack tuna](skipjack-tuna.md). ⚠ promotional seminar source, low confidence |
 | **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt**; on the jig strike, stop and convert with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling is a *search* tool as much as a catch method. ⚠ Flagged gap — no corpus source: yellowfin troll spread geometry — the corpus gives *speeds*, never setback distances or lure positions in the pattern [b] |
 | **Dolphin/porpoise pod sighted, fish not showing** | Troll a deep-diving hardbait and a [cedar plug](../lures/cedar-plug.md) around the pod, or a small finesse trolling lure at **7–9 mph**; stay outside the pod and get in front of it — never drive through | Light **troll class** | Busting through the pod splits it and it dodges the lure (`ouBrIdO7d4k`); a ~60 lb fish came on the deep diver off San Clemente (`H-vIGWPIPVc`), and a slow-trolled cedar plug turned an Ensenada pod into a full foamer (`0bcDBGzQnGw`) — see [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling) |
 | **Schooling under a traveling dolphin/porpoise pod, suspended, not showing at the surface** | Nose-hooked live bait on the [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen) — **drop, don't cast**, off the stern as the boat closes at ~6–7 kt | **Flyline class**, weighted (4 oz inline torpedo sinker, 60 lb braid/leader, 50 lb fluoro) | Common dolphin and spotted spinner dolphin are the two SoCal pod types that hold suspended yellowfin (`fK2AT460xW4`) |
-| **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but cannot pull line; free-spool a 10-count on the bite (`8M4QhL-Qb7E`) |
+| **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice — [yellowfin — flyline](yellowfin-tuna-flyline.md) | Flyline / **troll class** | Boat-in-gear setup, bait setback, clicker tension and the free-spool count are on the sub-article; general method in [slow-trolling live bait](../techniques/slow-trolling-bait.md) |
 | **Slow-trolling big live bait, Baja** | Large live **scad mackerel** slow-trolled; run a **flat-fall jig** on a ripping retrieve vertically off the side at the same time | **30–40 lb class** / flat-fall class | Strikes on the big baits described as "vicious"; the flat-fall took a 15–20 lb-class fish in the same drift (`BQ2U1PqxWi8`) — see [flat-fall jigging](../techniques/flat-fall-jigging.md) |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish move paddy-to-paddy only at night, so a dry paddy will not turn on by waiting ([kelp paddies](../conditions/kelp-paddies.md)) |
 | **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid/50 lb mono top shot, 80 lb fluoro leader | Named on camera for both species — same row as [bluefin tuna](bluefin-tuna.md#situations--techniques) (`TU5quAG4atM`) |
 | **Night, or fish sounded below casting range** | ⚠ Flagged stub — no corpus source yet: no yellowfin-specific night programme is documented, though the same boats run one for bluefin — see [bluefin tuna](bluefin-tuna.md#situations--techniques) | — | Corpus records yellowfin biting "into the dark" on live squid (`tU4jhAkdzNw`) but gives no rig, depth or light doctrine for it |
 | **Big grade located, calm water, kite conditions** | ⚠ Flagged stub — no corpus source yet: [kite fishing](../techniques/kite-fishing.md) is documented in this KB for bluefin only, never for yellowfin | — | Named here so its absence reads as a corpus gap, not as "not a method" |
 
-[a] Start at 30 lb with a 2/0 circle, drop only as far as the bite forces you,
-and climb back — the scale-down is a concession, not a setting (`8M4QhL-Qb7E`).
 [b] Yellowfin troll speed is ~6–6.5 kt for cedar plugs and feathers, and
 7–9 mph for the small finesse lure worked around a dolphin pod (`ouBrIdO7d4k`);
 no source gives a spread layout for either.
@@ -196,7 +194,9 @@ no source gives a spread layout for either.
 - **Bait:** **30 lb flyline class**, circle hooks **2/0 down to size 1** with
   leader **30 lb down to 15 lb** when they get picky — thin wire lets the bait
   swim free and hides better (`8M4QhL-Qb7E`).
-  [Gear classes](../tackle/gear-classes.md).
+  [Gear classes](../tackle/gear-classes.md); the ladder itself, the bait-net
+  trick and the slow-troll variant are in
+  [yellowfin — flyline](yellowfin-tuna-flyline.md).
 - **Surface lures:** **jig-stick class**;
   [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md) and small lead
   baits in the 120–150 mm range; a light popper for 10–20 lb fish.
@@ -272,16 +272,12 @@ One charter sequence ran the other way — an 80–90 lb bluefin morning switchi
 into a wide-open yellowfin bite (`tU4jhAkdzNw`) — which establishes neither
 fish's activity as causing the other's and does not overturn the doctrine.
 
-**Picky-bite leader and hook: three figures, one situation.** The decision turns
-on how far down you have to go to get bit, not on which source you follow — go
-in at 30 lb and a 2/0 circle, step down only until the bite comes, then climb
-back (`8M4QhL-Qb7E`). The three recorded stepping-off points are **15–20 lb
-leader with a size 1 thin-wire circle** (`8M4QhL-Qb7E`), a **25 lb fluorocarbon
-leader with a thin-wire size 2 circle**, with 20–25 lb fluoro running on
-multiple rods the same day (`AIHvJj-paoo`), and **20 or 25 lb fluorocarbon**
-for a still-forming school at the Coronado Islands (`NN5MWeRA28o`, promotional,
-low confidence). All three give the same reason where they give one: thinner
-wire and lighter leader let the bait swim free and hide the terminal end.
+**Picky-bite leader and hook: three figures, one situation.** Three sources give
+three stepping-off points for the same scaled-down flyline bite
+(`8M4QhL-Qb7E`, `AIHvJj-paoo`, `NN5MWeRA28o`). They are kept side by side,
+unreconciled and with the decision frame, on
+[yellowfin — flyline](yellowfin-tuna-flyline.md#rigs--gear), which holds the
+whole live-bait programme.
 
 **Guadalupe line class runs 20 lb to 60 lb; grade and line-shyness pick the
 build.** One build runs a
@@ -417,4 +413,5 @@ Trip reports and per-source provenance:
 - [Wahoo](wahoo.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
+- [Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md)
 <!-- backlinks:end -->

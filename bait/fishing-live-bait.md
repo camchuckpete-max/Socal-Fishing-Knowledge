@@ -497,4 +497,5 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Underhand Casting](../techniques/underhand-casting.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
+- [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 <!-- backlinks:end -->

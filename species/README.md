@@ -43,6 +43,7 @@
 - [White Seabass — dropper loop](white-seabass-dropper-loop.md) **[SoCal only]** — One species, one technique.
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md) **[SoCal only]** — One species, one technique.
 - [White Seabass](white-seabass.md) — White seabass is a squid fishery before it is a seabass fishery: the fish sit on island squid beds in 60–90 ft, close to the bottom, eating spawning squid that
+- [Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md) **[SoCal only]** — One species, one technique.
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna: 8–10 lb up to 40–50 lb, with 15–25 lb the average grade (8M4QhL-Qb7E).
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
 - [Yellowtail — surface iron](yellowtail-surface-iron.md) — The long rod and a Tady 45 or Salas 7X is the first outfit off the rack when yellowtail show on top, and the reason is reach: it puts a big profile on fish that
@@ -56,5 +57,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 43 notes exceed the 30-node cap._
+_Map skipped: 44 notes exceed the 30-node cap._
 <!-- mermaid:end -->

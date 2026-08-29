@@ -880,5 +880,6 @@ confidence.
 - [Wahoo — live bait](../species/wahoo-live-bait.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

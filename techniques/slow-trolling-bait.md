@@ -152,5 +152,7 @@ Trip reports and per-source provenance: [evidence file](evidence/slow-trolling-b
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](trolling.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
