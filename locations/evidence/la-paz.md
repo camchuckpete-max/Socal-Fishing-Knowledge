@@ -156,5 +156,6 @@ slow-troll), `qM7iOO7fOBw` is day 2 (shared high spot, after a windy day 1),
 <!-- backlinks:start -->
 ## Linked from
 
+- [Isla Espíritu Santo](../isla-espiritu-santo.md)
 - [La Paz](../la-paz.md)
 <!-- backlinks:end -->

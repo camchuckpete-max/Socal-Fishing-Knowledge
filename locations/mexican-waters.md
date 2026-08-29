@@ -124,6 +124,7 @@ Trip reports and per-source provenance:
 - [Hancock Bank](hancock-bank.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [Isla Espíritu Santo](isla-espiritu-santo.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [La Paz](la-paz.md)
 - [Loreto & Puerto Escondido](loreto.md)

@@ -265,6 +265,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Evidence — Cabrilla (Leopard Grouper)](evidence/cabrilla.md)
 - [Evidence — Line & Leader](../tackle/evidence/line-and-leader.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [La Paz](../locations/la-paz.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

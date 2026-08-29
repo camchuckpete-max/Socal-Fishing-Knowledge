@@ -284,7 +284,7 @@ All five are logged in [the spot harvest](../sources/spot-harvest.md) for the
 gazetteer rather than minted as pages, because none carries a position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Isla Espíritu Santo](isla-espiritu-santo.md)
 <!-- children:end -->
 
 ## Evidence
@@ -299,4 +299,5 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [East Cape](east-cape.md)
 - [Evidence — La Paz](evidence/la-paz.md)
+- [Isla Espíritu Santo](isla-espiritu-santo.md)
 <!-- backlinks:end -->

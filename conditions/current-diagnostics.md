@@ -169,6 +169,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-diagnos
 - [Evidence — Current Diagnostics](evidence/current-diagnostics.md)
 - [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
+- [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Island Structure](../locations/island-structure.md)
 - [La Paz](../locations/la-paz.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

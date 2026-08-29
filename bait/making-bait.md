@@ -290,6 +290,7 @@ shortages, where the barge isn't an option.
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
+- [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [La Jolla](../locations/la-jolla.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

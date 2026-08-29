@@ -351,6 +351,7 @@ Trip reports and per-source provenance:
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)
+- [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)

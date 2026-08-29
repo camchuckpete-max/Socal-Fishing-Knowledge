@@ -594,6 +594,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](../rigging/john-collins-knot.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
