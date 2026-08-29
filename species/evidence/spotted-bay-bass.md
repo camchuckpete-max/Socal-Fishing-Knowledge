@@ -117,11 +117,13 @@ parent.
   "Mouths are funny critters" — a spotty will hide behind a single blade of
   eelgrass and consider itself hidden. Unregistered speaker, single mention.
 - `lP6cg4eEU6s` (Fisher Newb, 2020-03-06): duplicate-of the Where & when entry
-  above, kept here for the bottom-grind craw/creature program and the
-  hook-them-outside-the-cover reasoning. Bait brand rendered "war bait" in the
-  auto-captions — asr-uncertain, not confidently resolved to a model and not
-  matched to the [War Baits HD spinnerbait](../../techniques/spinnerbaits.md)
-  already documented for this fishery. Unregistered channel.
+  above, kept here for the hook-them-outside-the-cover reasoning and the
+  tide-height and shade reads on the router. The bottom-grind craw/creature
+  program from this seminar — the bottom-composition read, the
+  re-establish-contact pause, the fall-rate variation and the `asr-uncertain`
+  "war bait" brand rendering — is logged in
+  [evidence — spotted bay bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md).
+  Unregistered channel.
 - `XyKF34C5iB4` (Time on the Water, saltwater bass seminar, Pacific Coast
   Sportfishing show, 2025-04-19): panelist "Lane" gave the Newport Harbor
   three-bait plan (downsized PK3 on a neck-breaker head in "spotty" colour, 1 oz
@@ -191,7 +193,9 @@ bay bass. Each bay below is a flagged stub in the parent's Zone guides section.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md)
 - [Evidence — Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Spotted Bay Bass (Spotties)](../spotted-bay-bass.md)
+- [Spotted Bay Bass — bottom jig crawl](../spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](../spotted-bay-bass-structure-pitching.md)
 <!-- backlinks:end -->

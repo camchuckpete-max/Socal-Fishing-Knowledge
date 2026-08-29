@@ -294,6 +294,7 @@ file](evidence/bay-bass-plastics.md).
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 <!-- backlinks:end -->

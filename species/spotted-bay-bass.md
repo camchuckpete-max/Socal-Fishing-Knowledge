@@ -221,7 +221,7 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Docks/pilings, water clear rather than coloured | **Flip a slow-pitch jig or crank the pilings** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | bass class | In clear water the fish are less willing to leave the grass to feed because they are exposed to birds and seals; they still relate to the grass but feed from dock and piling cover instead (`XyKF34C5iB4`) |
 | Docks, pilings, riprap — pitch to cover (finesse) | **Small plastics** — Zoom fluke on a 1/4–3/8 oz ballhead flipped into the pilings, watch the line, swing on the take ([bay bass plastics](../lures/bay-bass-plastics.md)) | light spinning / low-profile, 10–20 lb | Deadly effective — 60 fish in a San Diego afternoon; a beefier hook on the head weighs the bait down and kills the action, so accept the occasional straightened hook. Swing hard: fish run around pilings and into grass (`GVP3IChsmRQ`) |
 | Pilings and moorings **2–3 ft apart**, the fish has to be turned before it wraps | **[Structure pitching — docks, pilings and moorings](spotted-bay-bass-structure-pitching.md)** — pitch a small swimbait or dart-spin at the cover and steer it out immediately ([general method](../techniques/swimbaits.md)) | structure-casting class, 12–20 lb, [gear classes](../tackle/gear-classes.md) | Gear ratio and its mechanism, leader class, bait and head sizing, and the fight rule are all in the sub-article (`46ha7J1Fc6A`) [a] |
-| Fish sitting hard on the bottom, colder months, shore or boat | **Craw/creature bait on a jighead** — cast, sink fully, then either slow grind along the bottom or swim it straight, varying the fall rate and swapping the trailer to conditions | bass class | Read bottom composition off the line and rod tip over several casts, and stop periodically to feel back down, because the bait drifts up off the bottom unnoticed. Rate of fall is the stated variable — imitate a crab darting down and popping back up (`lP6cg4eEU6s`) [b] |
+| Fish sitting hard on the bottom, colder months, shore or boat | **[Bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md)** — craw/creature bait on a jighead: cast, sink fully, then either slow grind along the bottom or swim it straight ([general method](../techniques/leadhead-swimbait-retrieve.md)) | bass class | The bottom-composition read, the re-establish-contact pause and the fall-rate variation are all in the sub-article (`lP6cg4eEU6s`) [b] |
 | Back-bay, smaller aggressive fish, finesse | **[Ned rig](../techniques/ned-rig.md)** — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap or speed-up; one durable bait catches 50 fish (`GVP3IChsmRQ`, `um5MAeCjNDg`) |
 | Fish suspended off structure / need a slow horizontal fall | **[Drop shot](../techniques/drop-shot.md)** | light spinning class | Holds the bait at their level over a channel edge |
 | Live bait around structure | **Sabiki whatever bait is on the spot, then fish it live** ([flyline](../techniques/flyline.md)) | finesse fly-line class | Catch the small baitfish holding on the dock or bridge and fish it right there — "every single one gets eaten" (`AH4Eiya1Hn0`) |
@@ -233,10 +233,10 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 and its mechanism, the halibut-sized leader, bait and jighead sizing, the
 rod/reel spec and the wind-don't-pump fight — is in
 [spotted bay bass — structure pitching](spotted-bay-bass-structure-pitching.md).
-[b] The full bottom-grind craw program — bottom-composition reading, the
-re-establish-contact pause and the fall-rate variation — is queued as a
-species-technique sub-article. Bait brand rendered "war bait" in the source's
-auto-captions and not resolved to a model, `asr-uncertain`.
+[b] The full bottom-grind craw program — bottom-composition reading over
+several casts, the re-establish-contact pause, the fall-rate variation with its
+crab mechanism, and the `asr-uncertain` bait brand — is in
+[spotted bay bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md).
 
 ## Gear summary (class terms)
 
@@ -373,6 +373,7 @@ Trip reports and per-source provenance:
 - [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
+- [Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

@@ -235,6 +235,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 <!-- species-applications:start -->
 ## Species applications
 
+- [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -252,6 +253,8 @@ file](evidence/leadhead-swimbait-retrieve.md).
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
 - [Swimbaits](swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->
