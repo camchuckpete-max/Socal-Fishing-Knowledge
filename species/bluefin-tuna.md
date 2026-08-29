@@ -471,6 +471,7 @@ Trip reports and per-source provenance:
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — San Quintin](../locations/evidence/san-quintin.md)
+- [Evidence — Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder](../tackle/evidence/searcher-big-tuna-rig-ladder.md)
 - [Evidence — Sliding Sinker](../techniques/evidence/sliding-sinker.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
