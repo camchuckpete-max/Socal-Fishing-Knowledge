@@ -71,11 +71,12 @@
 - [Evidence — Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md) — Per-source provenance for Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive.
 - [Evidence — Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — Per-source provenance for Shimano Talica — S Compact Body, Infinity Drive, Hagane Body.
 - [Evidence — Shimano Tranx 300B Body, Gearing, and Model Lineup (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md) — Per-source provenance for Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder.
+- [Evidence — Shimano Tranx 300B Braking System (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md) — Per-source provenance for Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 67 notes exceed the 30-node cap._
+_Map skipped: 68 notes exceed the 30-node cap._
 <!-- mermaid:end -->

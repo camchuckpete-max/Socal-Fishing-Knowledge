@@ -131,6 +131,7 @@ file](evidence/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.m
 ## Linked from
 
 - [Evidence — Shimano Tranx 300B Body, Gearing, and Model Lineup (Tackle Express)](evidence/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
+- [Evidence — Shimano Tranx 300B Braking System (Tackle Express)](evidence/tackle-express-shimano-tranx-300b-braking-system.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 <!-- backlinks:end -->

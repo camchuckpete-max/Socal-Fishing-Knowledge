@@ -259,7 +259,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-shimano-sedona-reel-features.md | light | done | none | transform verified faithful, layout v2 + evidence split, 74->80 lines |
 | tackle/tackle-express-shimano-talica-reel-features.md | light | done | none | transform verified clean: provenance split to evidence file, claims conserved, 3 transcript spot-checks confirmed, 139->112 lines |
 | tackle/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md | light | done | none | transform verified, fixed malformed asr-uncertain flag (non-canonical category), all else conserved, 124->134 lines |
-| tackle/tackle-express-shimano-tranx-300b-braking-system.md | light | pending |  |  |
+| tackle/tackle-express-shimano-tranx-300b-braking-system.md | light | done | none | transform applied clean, evidence split, no information loss, 87->97 lines |
 | tackle/tackle-express-shimano-tranx-300b-x-protect-water-resistance.md | light | pending |  |  |
 | tackle/tackle-express-shimano-vanford-fa-reel.md | light | pending |  |  |
 | tackle/tackle-express-shogun-maxcuatro-braid.md | light | pending |  |  |
