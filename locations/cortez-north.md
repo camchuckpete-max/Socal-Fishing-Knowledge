@@ -323,6 +323,7 @@ Trip reports and per-source provenance:
 - [Isla Monserrat — north end](isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Regions & Waters — the gating vocabulary](regions.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

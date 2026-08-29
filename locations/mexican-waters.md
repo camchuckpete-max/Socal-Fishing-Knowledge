@@ -139,6 +139,7 @@ Trip reports and per-source provenance:
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

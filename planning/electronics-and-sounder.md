@@ -367,6 +367,7 @@ Trip reports and per-source provenance:
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Benito Islands](../locations/san-benito-island.md)

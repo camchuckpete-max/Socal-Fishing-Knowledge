@@ -329,6 +329,7 @@
 - [Ponto](ponto.md) **[SoCal only]** — A charted spot at 33°05.235'N 117°19.183'W (cameron), in the Oceanside / North County zone.
 - [Potato Bank](potato-bank.md) **[SoCal only]** — A charted spot at 33°15.000'N 119°49.600'W (cameron), in the San Nicolas Island zone.
 - [Powerhouse Kelp](powerhouse-kelp.md) **[SoCal only]** — A charted spot at 32°57.564'N 117°16.743'W (cameron), in the Oceanside / North County zone.
+- [Puerto Escondido Marina](puerto-escondido-marina.md) **[Baja only]** — [Baja only] — the marina a little south of Loreto that the Loreto & Puerto Escondido zone runs out of: the documented launch, the bait stop, and the place a bro
 - [Pukey Point](pukey-point.md) **[Baja only]** — The northern end of the Coronado Islands chain, at 32°26.850'N 117°18.000'W (cameron).
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) **[Baja only]** — The coastal stretch immediately south of Ensenada, from La Bufadora down to Punta Santo Tomás, and the densest coastal spot list in Baja Pacific — North — twelv
 - [Punta Banda (caution — boilers)](punta-banda.md) **[Baja only]** — A charted spot at 31°45.430'N 116°45.330'W (cameron), in the Ensenada zone.
@@ -451,5 +452,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 438 notes exceed the 30-node cap._
+_Map skipped: 439 notes exceed the 30-node cap._
 <!-- mermaid:end -->

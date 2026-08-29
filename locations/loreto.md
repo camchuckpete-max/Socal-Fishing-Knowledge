@@ -241,6 +241,7 @@ written up here.
 <!-- children:start -->
 - [Honeymoon Bay](honeymoon-bay.md)
 - [Isla Monserrat — north end](isla-monserrat-north-end.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 <!-- children:end -->
 
 ## Evidence
@@ -259,6 +260,7 @@ Trip reports and per-source provenance:
 - [Honeymoon Bay](honeymoon-bay.md)
 - [Isla Monserrat — north end](isla-monserrat-north-end.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Sea of Cortez](sea-of-cortez.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

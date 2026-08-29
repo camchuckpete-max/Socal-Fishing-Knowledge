@@ -145,4 +145,5 @@ observations behind this page, so it serves as the provenance layer:
 ## Linked from
 
 - [Loreto & Puerto Escondido](loreto.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 <!-- backlinks:end -->

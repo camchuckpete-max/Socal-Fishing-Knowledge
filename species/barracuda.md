@@ -264,6 +264,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

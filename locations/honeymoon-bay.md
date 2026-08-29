@@ -124,4 +124,5 @@ page: [evidence — Loreto & Puerto Escondido](evidence/loreto.md).
 ## Linked from
 
 - [Loreto & Puerto Escondido](loreto.md)
+- [Puerto Escondido Marina](puerto-escondido-marina.md)
 <!-- backlinks:end -->

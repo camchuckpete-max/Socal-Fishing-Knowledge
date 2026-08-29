@@ -149,4 +149,5 @@ carries doctrine, only what was done and what it produced.
 - [Honeymoon Bay](../honeymoon-bay.md)
 - [Isla Monserrat — north end](../isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../loreto.md)
+- [Puerto Escondido Marina](../puerto-escondido-marina.md)
 <!-- backlinks:end -->

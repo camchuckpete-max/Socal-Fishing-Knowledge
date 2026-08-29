@@ -196,6 +196,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bird-reading.md
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Point Loma](../locations/point-loma.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

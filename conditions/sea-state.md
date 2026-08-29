@@ -245,6 +245,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Point Loma](../locations/point-loma.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

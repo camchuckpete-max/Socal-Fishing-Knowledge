@@ -97,4 +97,5 @@ Trip reports and per-source provenance:
 - [Evidence — Dorado & General Fish Care](evidence/dorado-and-general.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 <!-- backlinks:end -->

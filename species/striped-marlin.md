@@ -318,6 +318,7 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
+- [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Skipjack Tuna](skipjack-tuna.md)
