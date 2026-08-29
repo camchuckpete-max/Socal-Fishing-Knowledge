@@ -302,7 +302,7 @@
 - [North 9 Mile Bank](north-9-mile-bank.md) **[SoCal only]** — A charted spot at 32°38.000'N 117°26.000'W (cameron), in the North 9 Mile Bank / 178 zone.
 - [North County Artificial Reefs](north-county-artificial-reefs.md) **[SoCal only]** — The built-structure zone of San Diego's north county coast: three numbered artificial-reef series — Pendleton, Oceanside and Carlsbad — charted as 38 waypoints
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md) **[Baja only]** — A charted spot at 32°27.380'N 117°18.000'W (cameron), in the Coronado Islands zone.
-- [North Point](north-point.md) **[Baja only]** — [Baja only] — the north end of Cedros Island, in the Cedros / San Benitos zone, and the ground the operator names when the target is a bigger grade of yellowtai
+- [North Point](north-point.md) **[Baja only]** — [Baja only] — the north end of Cedros Island, in the Cedros / San Benitos zone, and the ground the crew names when the target is a bigger grade of yellowtail: "
 - [Northeast Bank](northeast-bank.md) **[SoCal only]** — A charted spot at 32°20.800'N 119°38.400'W (cameron), in the Hancock Bank zone.
 - [Northwest Corner](northwest-corner.md) **[SoCal only]** — A charted spot at 32°50.630'N 117°18.460'W (cameron), in the La Jolla zone.
 - [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md) **[SoCal only]** — A charted spot at 33°13.050'N 117°25.402'W (cameron), in the North County artificial reefs zone.

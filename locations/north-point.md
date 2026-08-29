@@ -15,7 +15,7 @@ distance_nm: unknown — the only stated sequence is a bait stop then a run from
 # North Point
 
 **[Baja only]** — the north end of Cedros Island, in the
-[Cedros / San Benitos](cedros-island.md) zone, and the ground the operator names
+[Cedros / San Benitos](cedros-island.md) zone, and the ground the crew names
 when the target is a bigger grade of [yellowtail](../species/yellowtail.md):
 "we're going to go to North Point, and that's where the bigger 30 plus yellows
 are at" (`wdbqTio1SQU`). The same crew framed the following morning as running
@@ -47,11 +47,14 @@ envelope for the run to North Point, or how the ground is reached by anyone not
 on the lodge program.
 
 **Regulatory — Mexico.** Mexican entry and sport-fishing paperwork, and the
-zone's operator-level catch-and-release agreement for
+zone's operator-level **100% catch-and-release** agreement for
 [calico bass](../species/calico-bass.md), grouper (cabrilla) and black seabass,
 are recorded on [the zone page](cedros-island.md) and
-[Mexican waters](mexican-waters.md). **Verify current rules with your operator
-before fishing** ([regulatory claims](../sources/regulatory-claims.md)).
+[Mexican waters](mexican-waters.md). That agreement is an operator agreement,
+not a federal or state regulation. Recorded on or before 2023-05-24; the Mexican
+paperwork requirements were checked as of 2026-08; **verify current status with
+your operator before fishing**
+([regulatory claims](../sources/regulatory-claims.md)).
 
 ## Structure & bathymetry
 
@@ -72,12 +75,12 @@ shape of the point, or how far off it the boats work.
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | documented on a March 2017 trip; the island's fish are resident "home guard" and no season shape is stated for this point | The reason to run here. North Point is the operator's call for the bigger grade — "the bigger 30 plus yellows," framed the next morning as **30–40 lb** fish (`wdbqTio1SQU`). No fish was weighed on camera, so the grade is the crew's call, not a measured figure. Zone-wide, a true home-guard fish of **40+ lb** can turn up anywhere around the island ([zone page](cedros-island.md#whats-there)) |
+| [Yellowtail](../species/yellowtail.md) | documented on one trip, published 2017-03-27 with no filming date stated on camera; the island's fish are resident "home guard" and no season shape is stated for this point | The reason to run here. North Point is the crew's call for the bigger grade — "the bigger 30 plus yellows," framed the next morning as **30–40 lb** fish (`wdbqTio1SQU`). No fish was weighed on camera, so the grade is the crew's call, not a measured figure. Zone-wide, a true home-guard fish of **40+ lb** can turn up anywhere around the island ([zone page](cedros-island.md#whats-there)) |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this point for any other species. The zone's calico, halibut, dorado, yellowfin, bonito, rockfish and sheephead records all attach to other Cedros grounds ([zone page](cedros-island.md#whats-there)) |
 
 ⚠ Flagged gap — no corpus source: a month-by-month picture, a temperature band,
-or what the fish are eating here. The one documented trip is a March 2017 visit
-and states no forage beyond the mackerel the crew made for bait.
+or what the fish are eating here. The one documented trip was published
+2017-03-27 and states no forage beyond the mackerel the crew made for bait.
 
 ## How it fishes
 
@@ -85,7 +88,8 @@ and states no forage beyond the mackerel the crew made for bait.
 The one confirmed hookup called on camera at this ground came on the jig, not the
 bait — "was that on bait or jig? Jigging. Yo-yo." (`wdbqTio1SQU`) — so
 [yo-yo iron](../techniques/yo-yo-iron.md) works alongside the live mackerel the
-crew ran up for. Doubles were called during the same session (`wdbqTio1SQU`).
+crew ran up for. Doubles were called on the same morning, though the footage
+does not separate them from the mackerel bait stop (`wdbqTio1SQU`).
 
 **Precision on the trip's opening fish:** the trip's first yellowtail, taken
 within the opening ten minutes on [surface iron](../techniques/surface-iron.md)
