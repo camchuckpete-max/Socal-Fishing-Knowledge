@@ -91,5 +91,6 @@ Trip reports and per-source provenance for
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — White Seabass — lead head and squid](../../species/evidence/white-seabass-leadhead-squid.md)
 - [Leadhead Mods & Rigging](../leadhead-mods.md)
 <!-- backlinks:end -->

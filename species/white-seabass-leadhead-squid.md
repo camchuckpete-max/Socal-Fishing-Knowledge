@@ -1,7 +1,7 @@
 ---
 type: species-technique
 tags: [white-seabass, wsb, leadhead, squid, gray-light, islands, mid-column]
-sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4]
+sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU]
 confidence: medium
 regions: [socal-bight]
 waters: [island, nearshore-coast]
@@ -38,10 +38,10 @@ window, not a location.
 
 **Fish called mid-column, with current running.** The lead head is the same
 concept as a [sliding sinker](../techniques/sliding-sinker.md) when the fish
-are up off the bottom, fished differently: the angler holds the rod and works
-it (`Eo_bA8IWvyU`). Current is wanted, not tolerated — the whole point of
-flicking it behind the boat is to get the bait back behind and **away from**
-the boat rather than dropping straight down underneath it (`Eo_bA8IWvyU`). See
+are up off the bottom, fished differently (`Eo_bA8IWvyU`). Current is wanted,
+not tolerated — the whole point of flicking it behind the boat is to get the
+bait back behind and **away from** the boat rather than dropping straight down
+underneath it (`Eo_bA8IWvyU`). See
 the router's [situations → techniques](white-seabass.md#situations--techniques)
 row.
 
@@ -62,10 +62,9 @@ three if they are small**, because that is what mating squid look like
 **Head weight is sized to sink *to* the fish, not past them.** The head has to
 carry a squid on a big hook and still be light enough to sink down the water
 column well rather than dropping like a stone (`ShSxNKAcUB4`), which is the
-same reason more current takes more weight and less current takes less.
-⚠ Flagged gap — no corpus source: a head-weight-by-current ladder stated for
-the squid version specifically; the numbers the corpus does give for this rig
-are in [leadhead mods & rigging](../rigging/leadhead-mods.md).
+same reason squid-fished heads go bigger for more current and lighter for less
+(`F-vOTerdulU`). The stated ranges are in
+[leadhead mods & rigging](../rigging/leadhead-mods.md).
 
 **The sink is worked, not waited out.** Flick it out behind the boat and let it
 sink back while keeping steady tension on the free spool with the thumb — "that
@@ -94,10 +93,17 @@ where fish are being released — see
 
 ## Rigs & gear
 
-- **Head: the 3/4–1 oz lead-head class**, sized up in more current and down in
-  less, with a hook big enough to support a whole squid (`ShSxNKAcUB4`). Weight
-  figures stated elsewhere for the same rig — 5/8–3/4 oz on Catalina squid-nest
-  trips, and a 1/8–1 oz dockside range — are in
+- **Head: the 3/4–1 oz lead-head class** carried over from the
+  [router's row](white-seabass.md#situations--techniques), sized up in more
+  current and down in less (`F-vOTerdulU`). The head has to carry a whole squid
+  on a big hook and still be light enough to sink down the column well
+  (`ShSxNKAcUB4`). The same source's weight doctrine — the least weight that
+  will still sink, rarely a full ounce — is stated for the
+  [sliding sinker](../techniques/sliding-sinker.md) in the
+  [router's row](white-seabass.md#situations--techniques), so read the top of
+  this class as a heavy-current setting rather than a default. Weight figures
+  stated elsewhere for the same rig — 5/8–3/4 oz on Catalina squid-nest trips,
+  and a 1/8–1 oz dockside range — are in
   [leadhead mods & rigging](../rigging/leadhead-mods.md).
 - **Colour: orange as a reaction colour on the sink.** An orange-headed lead
   head is read as a reaction colour for a seabass watching the squid sink down
@@ -107,10 +113,11 @@ where fish are being released — see
   colour as a general selection question — orange against white, and glow for
   dark conditions — is in
   [leadhead mods & rigging](../rigging/leadhead-mods.md).
-- **Rod/reel: the 30–40 lb bait/jig class**, and a low-profile baitcaster is the
-  reel type this presentation is built around — its braking and spool tensioner
-  make it extremely castable, which is what a flick-and-drift presentation needs
-  (`Eo_bA8IWvyU`). See [gear classes](../tackle/gear-classes.md).
+- **Rod/reel: the 30–40 lb bait/jig class**, and a low-profile baitcaster suits
+  this presentation — its internal brakes and spool tensioner make it extremely
+  castable, which is what a flick-and-drift program wants, though a conventional
+  star drag fishes it fine too (`Eo_bA8IWvyU`). See
+  [gear classes](../tackle/gear-classes.md).
 - **Line: mono, not straight braid**, because a soft mouth pulls the hook; where
   a baitcaster's spool capacity forces braid, compensate with a soft rod and a
   lighter drag (`Eo_bA8IWvyU`). The mono top-shot minimum is in
@@ -125,13 +132,20 @@ Against [leadhead mods & rigging](../rigging/leadhead-mods.md), which owns the
 rigging — how the squid is threaded and pinned to track straight, head
 selection and weight ranges, and the hook-spring and split-ring mods:
 
-- **This page is the presentation, that one is the build.** What earns it is
-  the cast-and-sink program: flick behind the boat, thumb-tensioned free spool,
-  wind-and-pop, and the light window that sets when the mating pair is worth
-  imitating at all (`Xr4nURK-Z48`, `Eo_bA8IWvyU`).
-- **The current is a requirement, not a variable to be beaten.** The rig note
-  sizes heads by current; here the current is what carries the bait away from
-  the boat, and without it the presentation loses its drift (`Eo_bA8IWvyU`).
+- **The parent is a multi-species leadhead rig note; this is the white seabass
+  program.** It owns the build — swimbait-style threading, the straight-tracking
+  hook insertion, head selection and the weight ranges — alongside the
+  hook-spring, split-ring, banana-head, Neck-Breaker and swing-head variants
+  that belong to other fish entirely. Its "Squid rigging for white seabass" and
+  "Working it mid-column" sections still carry this program's own parameters as
+  well; that duplication is queued for compression to a pointer
+  ([relocation queue](../sources/relocation-queue.md)) and this page is the
+  destination, so read the delta below against the rigging half.
+- **The bite handling is species doctrine, not rig doctrine.** White seabass
+  chomp and eat slowly, so the set comes when the rod loads down rather than on
+  the first tap (`Eo_bA8IWvyU`); the rig note's own active-style bite read —
+  what a rapid tap-tap means against a held, building pressure — is stated there
+  for the rig across species, not for this fish.
 - **Colour is chosen for the sink, not for the retrieve.** Orange is argued
   from what the fish sees as the squid falls, which is why it belongs to a
   program built around a worked sink (`ShSxNKAcUB4`).

@@ -2,7 +2,7 @@
 type: evidence
 parent: ../white-seabass-leadhead-squid.md
 tags: [white-seabass, wsb, leadhead, squid]
-sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4]
+sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU]
 confidence: medium
 ---
 
@@ -62,6 +62,16 @@ is an unregistered channel that caps at medium on its own.
 
 ## Rigs & gear
 
+- `F-vOTerdulU` (BDOutdoors — dockside leadhead tutorial, Channel Islands
+  squid nests; registered channel): lead heads for seabass, halibut and
+  yellowtail "range anywhere from [an eighth of an ounce] all the way up to 1
+  oz. You can fish them depending on the current, you know, bigger for more
+  current, less weight for less current," with the squid pinned through the top
+  of the mantle "to mimic the spawning that they do." The full dockside
+  selection and its cast-and-jig retrieve stay in
+  [leadhead mods evidence](../../rigging/evidence/leadhead-mods.md); only the
+  weight-by-current rule is carried here, where the parent note's head-sizing
+  parameter needed its cite.
 - `ShSxNKAcUB4` (Your Saltwater Guide — Capt. Dave Hansen, 2020-12-08, "How to
   catch white seabass," filmed 2021-05-25 per the on-camera date; registered
   channel): the lead heads he fishes are orange, poured by a friend and "not for
