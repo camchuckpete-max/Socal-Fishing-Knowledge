@@ -263,3 +263,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T10:59:59Z — species/skipjack-tuna.md -> profiles/cameron/README.md — verify-escalate
 - run: 33246070281
 - reason: destination profiles/cameron/README.md carries NO line for this interest and the guard blocks writing profiles/, so the interest lives only in species/evidence/skipjack-tuna.md — Cameron must land 'interested in rare/unusual species and oddball bycatch, not just target fish' in his profile himself; also a cameron-cited Doctrine & conflicts sentence was edited
+
+## 2026-08-29T11:38:24Z — species/striped-marlin.md -> profiles/cameron/README.md — verify-escalate
+- run: 33246070281
+- reason: same trigger as the skipjack row — profiles/ is guard-protected and the README carries no marlin line, so Cameron's stated intention to troll marlin from the panga lives ONLY in species/evidence/striped-marlin.md; Cameron must land it in his profile or rule on unprotecting profiles/ for the relocation pass

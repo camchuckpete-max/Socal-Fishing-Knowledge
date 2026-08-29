@@ -277,11 +277,13 @@ merged into the SoCal doctrine.
   panga himself" (memory §1), flagged as thin/open because the corpus points at
   the ingredients — fall timing, clean blue water on a bait/color seam, slack
   tide — without a crisp "deploy now" threshold.
-- `cameron`: the stated intention to run the marlin troll from a panga. Flagged
-  `⚠ misplaced-content` in the parent and queued in
-  [`sources/relocation-queue.md`](../../sources/relocation-queue.md) — an
-  angler's stated plans are profile data; the universal note keeps only the
-  operational half, that no corpus source states a deployment threshold.
+- `cameron`: the stated intention to run the marlin troll from a panga — wanting
+  to learn the water conditions that trigger marlin lure deployment so he can
+  troll marlin from the panga himself (memory §1). The ambition is an angler's
+  stated plan rather than fishery doctrine, held here and in
+  [Cameron's profile](../../profiles/cameron/README.md) — which does not yet
+  carry it — while the parent keeps only the operational half, that no corpus
+  source states a water-condition threshold for deploying the marlin jigs.
 
 <!-- backlinks:start -->
 ## Linked from

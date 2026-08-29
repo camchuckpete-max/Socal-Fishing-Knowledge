@@ -253,10 +253,7 @@ the boat's until an agency rule is checked.
 threshold for "deploy the marlin jigs now." The ingredients are all stated —
 mid-August-to-October timing, clean blue water on a bait/color seam, 68–69°F,
 and a slack-tide window — but the crisp trigger is a research target rather than
-settled doctrine, specifically for running the troll from a panga (cameron).
-⚠ misplaced-content: the stated intention to troll marlin from a panga is
-profile data, not fishery doctrine — queued in
-[`sources/relocation-queue.md`](../sources/relocation-queue.md).
+settled doctrine (cameron).
 
 ## Landing & handling
 
