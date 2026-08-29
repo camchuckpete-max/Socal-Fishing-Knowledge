@@ -184,6 +184,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bird-reading.md
 - [Evidence — Fishing Live Bait](../bait/evidence/fishing-live-bait.md)
 - [Evidence — North 9 Mile Bank / 178](../locations/evidence/north-9-mile-bank-178.md)
 - [Geronimo Island](../locations/geronimo-island.md)
+- [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [La Bocana](../locations/la-bocana.md)
 - [La Paz](../locations/la-paz.md)

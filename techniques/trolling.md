@@ -1035,6 +1035,7 @@ covered above, not a new tool.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [La Bocana](../locations/la-bocana.md)

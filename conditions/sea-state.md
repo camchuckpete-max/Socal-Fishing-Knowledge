@@ -235,6 +235,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [Evidence — Sea State](evidence/sea-state.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
+- [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

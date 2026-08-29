@@ -123,6 +123,7 @@ Trip reports and per-source provenance:
 - [Geronimo Island](geronimo-island.md)
 - [Guadalupe](guadalupe.md)
 - [Hancock Bank](hancock-bank.md)
+- [Honeymoon Bay](honeymoon-bay.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [Isla Espíritu Santo](isla-espiritu-santo.md)

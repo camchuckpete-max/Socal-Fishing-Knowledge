@@ -350,6 +350,7 @@ Trip reports and per-source provenance:
 - [Guadalupe](../locations/guadalupe.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
+- [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)

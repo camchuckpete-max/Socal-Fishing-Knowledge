@@ -238,6 +238,7 @@
 - [Hidden Reef / 170](hidden-reef-170.md) **[SoCal only]** — A zone is a run grouping.
 - [Hidden Reef](hidden-reef.md) **[SoCal only]** — A charted spot at 33°43.800'N 119°09.733'W (cameron), in the Hidden Reef / 170 zone.
 - [Hill Street](hill-street.md) **[SoCal only]** — A charted spot at 32°43.790'N 117°16.660'W (cameron), in the Point Loma zone.
+- [Honeymoon Bay](honeymoon-bay.md) **[Baja only]** — [Baja only] — the windy-day option in the Loreto & Puerto Escondido island cluster: a bay called *"pretty sheltered"* from the boat, with a sailboat lying at an
 - [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md) **[SoCal only]** — A charted spot at 33°29.500'N 117°47.100'W (cameron), in the Dana Point zone.
 - [Hotel Del Hardbottom](hotel-del-hardbottom.md) **[SoCal only]** — A charted spot at 32°40.100'N 117°11.280'W (cameron), in the Point Loma zone.
 - [Imperial Beach Flats](imperial-beach-flats.md) **[SoCal only]** — A charted spot at 32°34.000'N 117°12.000'W (cameron), in the Imperial Beach zone.
@@ -448,5 +449,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 435 notes exceed the 30-node cap._
+_Map skipped: 436 notes exceed the 30-node cap._
 <!-- mermaid:end -->

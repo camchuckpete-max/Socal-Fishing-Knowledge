@@ -512,6 +512,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Guadalupe](../locations/guadalupe.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
+- [Honeymoon Bay](../locations/honeymoon-bay.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

@@ -239,7 +239,7 @@ spot page needs, so they are logged in
 written up here.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Honeymoon Bay](honeymoon-bay.md)
 <!-- children:end -->
 
 ## Evidence
@@ -255,6 +255,7 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [East Cape](east-cape.md)
 - [Evidence — Loreto & Puerto Escondido](evidence/loreto.md)
+- [Honeymoon Bay](honeymoon-bay.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Sea of Cortez](sea-of-cortez.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

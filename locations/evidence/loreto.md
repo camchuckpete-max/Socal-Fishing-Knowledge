@@ -146,5 +146,6 @@ carries doctrine, only what was done and what it produced.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Honeymoon Bay](../honeymoon-bay.md)
 - [Loreto & Puerto Escondido](../loreto.md)
 <!-- backlinks:end -->
