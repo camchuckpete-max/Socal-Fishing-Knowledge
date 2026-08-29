@@ -594,4 +594,6 @@ harvested.
 | Cedros Island | species/calico-bass-surface-iron.md | When this is the call | fish located on the sounder as reef bottom at 18–20 ft with birds working overhead; iron fished wide open on the drift | `I-QBxuV2p7M` |
 | Geronimo Island / Chester's Rock (Cedros Island) | species/calico-bass-surface-iron.md | When this is the call | birds flaring over ground is the search cue; crew ran to the birds and threw the jig | `3SATCeA3KaU` |
 | Cedros Island | species/calico-bass-surface-iron.md | When this is the call | mid-day filler ground when the yellowtail bite quit inside the first two hours; calico thick enough to be "raining calicos" | `IdMJnlg_rZk`, `2cxeg_AE418` |
+| Mission Bay / San Diego Bay | species/california-halibut-live-bait-drift.md | When this is the call | bay/harbor channel-edge program fished in 8–10 ft of water | `a5u8BaYzw8c` |
+| Channel Islands | species/california-halibut-live-bait-drift.md | Rigs & gear | 30 lb boat-rod build framed as the outfit for an overnight or two-day trip there | `a5u8BaYzw8c` |
 <!-- review:harvest:end -->
