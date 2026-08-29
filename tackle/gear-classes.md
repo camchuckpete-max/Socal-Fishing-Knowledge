@@ -256,7 +256,7 @@ file](evidence/gear-classes.md).
 - [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
-- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb](searcher-finesse-live-bait-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)

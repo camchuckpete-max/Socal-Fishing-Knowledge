@@ -136,7 +136,7 @@ Captain Armando, 2021-10-21).
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
-- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb](../tackle/searcher-finesse-live-bait-outfit.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

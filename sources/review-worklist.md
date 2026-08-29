@@ -208,7 +208,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-big-tuna-rig-ladder.md | light | done | none | faithful v2 transform, cites added, provenance/confidence/sponsor detail + 2 observed catches split to new evidence file, no claims lost, doctrine conflict preserved with added decision frame |
 | tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md | light | done | none | transform verified: plain-statement conversion clean, all product names/asr-uncertain flags/hook numbers/depths conserved into evidence split, link-maintenance 0 dead links |
 | tackle/searcher-daytime-dart-jig-outfit-ladder.md | light | done | gaps(1) | transform verified faithful, evidence split compliant, no conservation or drift defects |
-| tackle/searcher-finesse-live-bait-outfit.md | light | pending |  |  |
+| tackle/searcher-finesse-live-bait-outfit.md | light | done | none | evidence file created; two video citations merged per-parameter into 20lb/15lb structure, 44lb-bluefin observation split to evidence with doctrine trace kept, stale anchors fixed |
 | tackle/searcher-four-outfit-guadalupe-quiver.md | light | pending |  |  |
 | tackle/searcher-lever-drag-reel-sizing.md | light | pending |  |  |
 | tackle/searcher-rail-rod-ladder.md | light | pending |  |  |

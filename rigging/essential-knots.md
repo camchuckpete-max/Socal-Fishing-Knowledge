@@ -283,7 +283,7 @@ Per-source provenance: [evidence file](evidence/essential-knots.md).
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 - [Searcher 30 lb Large-Tuna Outfit](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md)
-- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb](../tackle/searcher-finesse-live-bait-outfit.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
