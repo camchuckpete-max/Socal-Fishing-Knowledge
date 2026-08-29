@@ -54,11 +54,12 @@
 - [Evidence — Fish Kicker Quick Clip (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — Per-source provenance for Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging.
 - [Evidence — HOW Co Split-Ring Pliers (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) — Per-source provenance for HOW Co Split-Ring Pliers — One Pair Across the Size Range.
 - [Evidence — Penn Fathom II and Penn Authority ICAST 2022 (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Per-source provenance for Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters.
+- [Evidence — Izorline XXX (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Per-source provenance for Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 50 notes exceed the 30-node cap._
+_Map skipped: 51 notes exceed the 30-node cap._
 <!-- mermaid:end -->
