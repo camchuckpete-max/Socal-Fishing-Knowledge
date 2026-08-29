@@ -147,6 +147,7 @@ file](evidence/tuna-feathers-and-skirts.md).
 - [Pacific Bonito](../species/bonito.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

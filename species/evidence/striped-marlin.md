@@ -89,10 +89,11 @@ merged into the SoCal doctrine.
   pre-v2 note read it as taken on a live mackerel dropback once the fish showed
   in the spread; that reading is retired, not conserved as fact). Mid-fight the
   angler said "now I wish it was 50 lb tackle," which places the outfit lighter
-  than 50 lb. Full spread setup, the troll-downhill sun rule,
-  sounder use and dropback-bait mechanics from this same stop are logged in
-  [trolling — SoCal, Catalina tanker lanes/277 bank](../../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll)
-  and [bait-and-switch](../../techniques/bait-and-switch.md).
+  than 50 lb. Full spread setup, the troll-downhill sun rule and sounder use
+  from this same stop are logged in
+  [striped marlin — trolling evidence](striped-marlin-trolling.md), and the
+  dropback-bait mechanics in
+  [bait-and-switch](../../techniques/bait-and-switch.md).
 - `3qSY328fFYo` (same stop, temperature detail): target water was **68°F**, the
   fished water read **69.3** then **69.4°F**, and mid-morning the boat crossed a
   break of about **two-tenths of a degree** after a friend on another boat
@@ -286,5 +287,7 @@ merged into the SoCal doctrine.
 ## Linked from
 
 - [Evidence — Bait-and-Switch (Striped Marlin)](../../techniques/evidence/bait-and-switch.md)
+- [Evidence — Striped Marlin — trolling](striped-marlin-trolling.md)
 - [Striped Marlin](../striped-marlin.md)
+- [Striped Marlin — trolling](../striped-marlin-trolling.md)
 <!-- backlinks:end -->

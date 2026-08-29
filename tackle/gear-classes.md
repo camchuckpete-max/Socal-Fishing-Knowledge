@@ -304,6 +304,7 @@ file](evidence/gear-classes.md).
 - [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)

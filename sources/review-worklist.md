@@ -884,4 +884,5 @@ by their builders after the transform phase drains.
 | lures/bucktail-jigs.md | standard | pending |  | created by relocation from species/snook.md |
 | species/spotted-bay-bass-structure-pitching.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |
 | species/spotted-bay-bass-bottom-jig-crawl.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |
+| species/striped-marlin-trolling.md | standard | pending |  | created by relocation from species/striped-marlin.md |
 <!-- review:worklist:end -->

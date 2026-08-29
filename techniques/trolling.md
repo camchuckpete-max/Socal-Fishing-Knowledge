@@ -1149,7 +1149,7 @@ covered above, not a new tool.
 - [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
-- [Striped Marlin](../species/striped-marlin.md)
+- [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)

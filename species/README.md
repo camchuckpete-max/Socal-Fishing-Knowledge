@@ -35,6 +35,7 @@
 - [Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md) **[SoCal only]** — One species, one technique.
 - [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md) **[SoCal only]** — One species, one technique.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — Spotted bay bass are the bay-and-harbor fishery that runs on the tide clock: the fish hold ambush stations keyed to which way the water is moving, so a spot tha
+- [Striped Marlin — trolling](striped-marlin-trolling.md) **[SoCal only]** — One species, one technique.
 - [Striped Marlin](striped-marlin.md) — Striped marlin are the SoCal island zone's late-summer-into-fall sight-and-troll billfishery: a short, tight lure spread pulled along the clean side of a bait/c
 - [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal broadbill are a daytime deep-drop fishery built on one fact: the fish ride the deep scattering layer by day, so you hunt the layer and its bait over deep
 - [Wahoo](wahoo.md) — Water temperature is the gate on wahoo, not the calendar: 72 °F or warmer is the standing condition for a chance at one, and fall — late September, October, ear
@@ -52,5 +53,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 39 notes exceed the 30-node cap._
+_Map skipped: 40 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -148,7 +148,9 @@ is silent.
   outrigger clip or the rubber-band release, so someone staring at the jigs and
   prop wash is the most important job after driving the boat; miss those moments
   and you can lose **four or five fish** in a day and read them as kelp
-  (`3qSY328fFYo`).
+  (`3qSY328fFYo`). The spread that gets watched — setback, roster, sun angle —
+  is in
+  [striped marlin — trolling](striped-marlin-trolling.md#how-striped-marlin-changes-the-execution).
 - **On the meter.** Marlin themselves are not a meter target. The sounder's job
   is bait: run the console display down to **120 ft** so you can tell whether
   bait is at 100, 30 or 20 ft while under way (`3qSY328fFYo`), and lay the
@@ -166,16 +168,16 @@ is silent.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Mid-August–October, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Jigs go out **on the edge where bait meets clear water**; be on the spot an hour before the tide change (`HzE4FHHcvTk`, `6TBxHnkYXI0`) [a] |
+| **Mid-August–October, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](striped-marlin-trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Jigs go out **on the edge where bait meets clear water**; be on the spot an hour before the tide change (`HzE4FHHcvTk`, `6TBxHnkYXI0`) [a] |
 | **A fish shows in or behind the spread — slashing, or a tailing/finning/sleeping fish sighted — with or without a jig strike** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — drop back a live green-back mackerel to the fish, boat left in gear | Flyline / live-bait class | The pitch rod sits rigged the whole troll; get the bait in the water without waiting to confirm a jig strike (`3qSY328fFYo`) [b] |
 | **Charter or crew who cannot feel the bite on a dropback** | Nose-hook the live mackerel on a **circle hook** and do not set — water tension alone pins it in the corner of the mouth | Live-bait class | 90% of clients cannot feel the bite; a long-shank J hook is the alternative for anglers who will set, chosen because the longer shank is less likely to be sawed off (`m2q22sPPkEM`). See [hooks](../tackle/hooks.md) [c] |
 | **Marlin feeding on sardines rather than mackerel** (Magdalena Bay) | Downsize the trolled lures | Trolling class | Bigger lures in the same spread are aimed at blue/black marlin; scoped to Mag Bay, not evaluated elsewhere in the corpus (`4t_Z75shK_E`) |
 | **Marlin-fleet working** (outriggers, circling) | Fish it for marlin on the fleet's pattern, or move off for tuna; don't stop expecting a tuna bite | — | Fleet read only, no gear change implied (`5to3Q5P7w90`) |
 | **Tailer spotted off the spread, boat repositioned ahead of it** | Cast the pitch bait ahead of the fish's line of travel while the teaser keeps swimming | Flyline / live-bait class | ⚠ Flagged stub — no corpus source yet: the teaser-and-switch skeleton in [bait-and-switch](../techniques/bait-and-switch.md#method-skeleton-unsourced--carried-from-the-initial-build) is unsourced, as are teaser clearing and pitch-rod hookset |
 
-[a] Spread geometry, lure roster, the troll-downhill sun rule and the
-jig-to-hookup conversion rate live in
-[trolling — SoCal, Catalina tanker lanes/277 bank](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll).
+[a] Spread geometry, lure roster, the troll-downhill sun rule, the spread-watch
+discipline, the 120 ft sounder setting and the jig-to-hookup conversion rate
+live in [striped marlin — trolling](striped-marlin-trolling.md).
 [b] Dropback delivery, bait hook placement and boat handling live in
 [bait-and-switch — dropback bait execution](../techniques/bait-and-switch.md#dropback-bait-execution).
 [c] Stated for the Cabo charter fishery (`baja-pacific-south`); no SoCal source
@@ -185,7 +187,10 @@ states a hook style for the dropback bait.
 
 - **Trolling:** 60–100 lb trolling class pulling
   [tuna/marlin skirts and feathers](../lures/tuna-feathers-and-skirts.md); a
-  Mad-Scad-class stickbait has taken striped marlin (`VgpgJ8IAyJo`).
+  Mad-Scad-class stickbait has taken striped marlin (`VgpgJ8IAyJo`). The
+  spread's own rig detail — release clips, rubber-band flatline releases, and
+  the sub-50 lb outfit the corpus's 160 lb fish was actually landed on — is in
+  [striped marlin — trolling](striped-marlin-trolling.md#rigs--gear).
 - **Dropback / pitch:** a flyline / live-bait class rod carrying a live
   green-back mackerel, rigged and ready the whole troll
   ([bait-and-switch](../techniques/bait-and-switch.md)) — flylining a mackerel is
@@ -318,6 +323,7 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Striped Marlin — trolling](striped-marlin-trolling.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

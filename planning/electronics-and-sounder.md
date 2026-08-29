@@ -369,6 +369,7 @@ Trip reports and per-source provenance:
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)

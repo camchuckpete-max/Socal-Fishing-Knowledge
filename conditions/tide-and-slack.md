@@ -147,6 +147,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Striped Marlin — trolling](../species/striped-marlin-trolling.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)

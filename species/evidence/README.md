@@ -35,6 +35,7 @@
 - [Evidence — Spotted Bay Bass — bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md) — Trip reports and per-source provenance backing spotted bay bass — bottom jig crawl.
 - [Evidence — Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md) — Trip reports and per-source provenance backing spotted bay bass — structure pitching.
 - [Evidence — Spotted Bay Bass](spotted-bay-bass.md) — Trip reports and per-source provenance backing spotted bay bass.
+- [Evidence — Striped Marlin — trolling](striped-marlin-trolling.md) — Trip reports and per-source provenance backing striped marlin — trolling.
 - [Evidence — Striped Marlin](striped-marlin.md) — Per-source provenance backing striped marlin.
 - [Evidence — Swordfish (Broadbill)](swordfish.md) — Per-source provenance backing swordfish.
 - [Evidence — Wahoo](wahoo.md) — Per-source provenance backing wahoo.
@@ -48,5 +49,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 38 notes exceed the 30-node cap._
+_Map skipped: 39 notes exceed the 30-node cap._
 <!-- mermaid:end -->
