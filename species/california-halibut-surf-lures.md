@@ -15,9 +15,10 @@ conditions_window: a SoCal beach on a spring grunion cycle — the incoming tide
 # California Halibut — surf lures
 
 Fishing lures for halibut from the sand is one program with a depth ladder in
-it: the water you can reach on foot runs from ankle-deep to about **10 ft**,
-and which lure goes on is set by that depth rather than by preference
-(`E4CDqBFOaP8`). The windows worth walking down for are set by the grunion
+it: which lure goes on is set by the depth in front of you rather than by
+preference — a shallow-running minnow hardbait in **1–4 ft**, a leadhead and
+swimbait at **10 ft** (`E4CDqBFOaP8`). The windows worth walking down for are
+set by the grunion
 cycle in spring (`EuYOlsnxXko`), the retrieve is a drag-and-shake cadence sized
 to the fish you want (`9qwsg-e9ECA`), and depth is trimmed inside each lure
 class with rod-tip height rather than another lure change (`QJd7A6oiV4U`). The
@@ -113,8 +114,8 @@ follows is species-general and lives in
   including colour selection, is in
   [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
   (`E4CDqBFOaP8`).
-- **Leadhead and swimbait** for the deep end of the wadeable range; the
-  retrieve rhythm and its stated beach limitation are in
+- **Leadhead and swimbait** at **10 ft**, the stated deep end of this ladder
+  (`E4CDqBFOaP8`); the retrieve rhythm and its stated beach limitation are in
   [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md).
 - **Rods:** a light, moderate-action spinning rod covers both the minnow
   hardbait and the leadhead from the beach, with a heavier striper-rod class
@@ -133,7 +134,7 @@ owns the rod-tip lever, and the lure-class notes each program sits on:
 - **The rod-tip lever is NOT a halibut delta.** The three tip positions are
   stated as a general beach-casting mechanism across lure classes
   (`QJd7A6oiV4U`); what is halibut-specific is the depth ladder it serves —
-  shallow minnow in **1–4 ft**, leadhead and swimbait by **10 ft**
+  shallow minnow in **1–4 ft**, leadhead and swimbait at **10 ft**
   (`E4CDqBFOaP8`).
 - **The drag length is set by the target fish, not by the rig.**
   [Drop shot](../techniques/drop-shot.md) owns the shake-in-place presentation
@@ -141,7 +142,7 @@ owns the rod-tip lever, and the lure-class notes each program sits on:
   in** between shakes, sized to the halibut being fished for, with a stated
   **3–4 ft** radius of attraction (`9qwsg-e9ECA`).
 - **Depth choice overrides lure preference.** The general beach answer to a
-  lure digging in is a rod-tip adjustment; the halibut answer past **4 ft** is
+  lure digging in is a rod-tip adjustment; the halibut answer at **10 ft** is
   a presentation swap to a leadhead and swimbait (`E4CDqBFOaP8`), which
   [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)
   separately states is a poor beach method because the head returns to bottom
