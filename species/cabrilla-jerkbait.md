@@ -19,8 +19,7 @@ program's default tool, and the light on the water — not the calendar — sets
 the size fished (`EmZO8QiOfik`). Bait models, specs and the hook upgrade are
 in [jerkbaits](../lures/jerkbaits.md); whether to throw a jerkbait or an iron
 at all is the [cabrilla](cabrilla.md) router's call. This page is the program
-itself: how it is fished for this fish, and where the corpus disagrees with
-itself about it.
+itself: how it is fished for this fish, and which parts of it are contested.
 
 ## When this is the call
 
@@ -54,9 +53,9 @@ the bite; a rolling or slow-rolled bait does not (`EmZO8QiOfik`). The one
 exception raised is a lethargic spawning fish, stated as unconfirmed
 (`EmZO8QiOfik`; [cabrilla spawning](cabrilla.md#spawning)).
 
-**Read the swim before you commit the bait.** Both Cortez voices in the corpus
+**Read the swim before you commit the bait.** **Cesar** and **Ray Sharifi**
 judge a jerkbait by the same test — a fast, tight kick, no wide sweep and no
-roll — and they reach opposite verdicts on which production baits pass it
+roll — and reach opposite verdicts on which production baits pass it
 (`EmZO8QiOfik`, `dEPuDrhoClM`). Swim the bait boatside and read the action
 rather than trusting a model name.
 
@@ -88,19 +87,18 @@ is part of that same live disagreement: the shallow class works the top
 ## Differs from the general method
 
 Against [jerkbaits](../lures/jerkbaits.md), which owns the bait specs, the
-depth ratings, the hook upgrade and the carry counts as a single-source
-program:
+depth ratings, the hook upgrade and the carry counts:
 
-- **The sizing ladder is contested, not settled.** The lure note's 170 → 150
-  downsize is one voice; a second Cortez voice fishes the 170 through the
-  downsize window (`dEPuDrhoClM`), which is why this page keeps both.
+- **The sizing ladder is contested, not settled.** The lure note carries the
+  170 → 150 downsize as settled; **Ray Sharifi** fishes the 170 straight
+  through that window (`dEPuDrhoClM`), so this page keeps both positions.
 - **The reel is chosen for cast volume, not only retrieve speed.** The level
   wind is an endurance and backlash requirement at **2–3 casts a minute**
   (`EmZO8QiOfik`) — a constraint that comes from the cabrilla program's cast
   count, not from how a jerkbait swims.
 - **The action test is a pre-fishing gate rather than a bait description.**
-  Because the two voices disagree on which production baits kick tight enough
-  for this fish, the bait is judged boatside before it is fished
+  Because **Cesar** and **Ray Sharifi** disagree on which production baits kick
+  tight enough for this fish, the bait is judged boatside before it is fished
   (`EmZO8QiOfik`, `dEPuDrhoClM`).
 
 ## Doctrine & conflicts
