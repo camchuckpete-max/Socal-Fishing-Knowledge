@@ -264,7 +264,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-shimano-vanford-fa-reel.md | light | done | none | light-tier v2 transform verified: evidence split, claims cite-checked, malformed asr-uncertain flag reworded, 106->76 lines note + evidence file |
 | tackle/tackle-express-shogun-maxcuatro-braid.md | light | done | none | transform verified: attribution/trip narration split to evidence file, facts conserved, 79->81 lines + evidence file |
 | tackle/tackle-express-speedmaster-fathom-reel-sizing.md | light | done | none | transform verified: genuine provenance split to evidence file, no information loss across spot-checked sections, fixed 2x malformed asr-uncertain flag, 361->282 lines + 92-line evidence |
-| tackle/tackle-express-surf-halibut-rod-lineup.md | light | pending |  |  |
+| tackle/tackle-express-surf-halibut-rod-lineup.md | light | done | none | transform verified clean, dead anchor repaired in-scope, evidence-file gap flag kept out of drop-shot.md per touch-only rule, 97->101 lines + 36-line evidence |
 | tackle/tackle-express-trophy-bluefin-jig-outfit.md | light | pending |  |  |
 | tackle/tackle-express-white-seabass-rod-reel-line.md | light | pending |  |  |
 | species/yellowtail-coronado-islands.md | standard | transformed | gaps(4) spots(2) | zone-guide exemplar: nate program + Coronados corpus, corpus-only verified with 11 timestamped spot-checks; name-cites stripped per v2.1 |

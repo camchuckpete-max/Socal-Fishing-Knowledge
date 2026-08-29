@@ -75,11 +75,12 @@
 - [Evidence — Shimano Vanford (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — Per-source provenance for Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive.
 - [Evidence — Maxcuatro Metered Braid, Shogun Trip (Tackle Express)](tackle-express-shogun-maxcuatro-braid.md) — Per-source provenance for Maxcuatro metered braid — night-jig and between-stops bait depth.
 - [Evidence — Shimano Speedmaster vs. Penn Fathom Reel Sizing (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Per-source provenance for Shimano Speedmaster vs.
+- [Evidence — Surf Halibut Rod Lineup (Tackle Express)](tackle-express-surf-halibut-rod-lineup.md) — Per-source provenance for Surf Halibut Rod Lineup — Light vs.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 71 notes exceed the 30-node cap._
+_Map skipped: 72 notes exceed the 30-node cap._
 <!-- mermaid:end -->
