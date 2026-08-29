@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2346 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
+_Totals: 2362 flagged gaps, 358 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -2739,6 +2739,15 @@ _Totals: 2346 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/isla-espiritu-santo.md**
+  - `Getting there`: gap — any closure, park boundary, protected area or
+  - `Structure & bathymetry`: gap — soundings, bottom composition, relief, the
+  - `What's there`: flagged stub row
+  - `What's there`: gap — any cabrilla-specific hook, leader or presentation detail here |
+  - `What's there`: gap — names this island for any other species. The zone's [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), roosterfish and jack records all attach to other La Paz grounds ([zone page](la-paz.md#whats-there)) |
+  - `What's there`: gap — any month other than November, any water
+  - `How it fishes`: gap — line class, hook, weight or rig for this stop
+  - `How it fishes`: gap — a tide, moon or current *window* for this
 - **locations/island-structure.md**
   - `What's there`: gap — season/catchability windows tied
   - infobox `parent`: unknown
@@ -2824,6 +2833,11 @@ _Totals: 2346 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/la-bocana.md**
+  - `Getting there`: gap — the
+  - `Structure & bathymetry`: gap — bottom, banks, high spots,
+  - `What's there`: gap — any month at La Bocana
+  - `How it fishes`: gap — current, tide, swell, wind or water-colour
 - **locations/la-bufadora.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3157,6 +3171,12 @@ _Totals: 2346 flagged gaps, 357 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/north-point.md**
+  - `Getting there`: gap — distance, heading, run time or a sea-state
+  - `Structure & bathymetry`: gap — soundings, bottom composition, kelp extent, the
+  - `What's there`: gap — names this point for any other species. The zone's calico, halibut, dorado, yellowfin, bonito, rockfish and sheephead records all attach to other Cedros grounds ([zone page](cedros-island.md#whats-there)) |
+  - `What's there`: gap — a month-by-month picture, a temperature band,
+  - `How it fishes`: gap — a tide, moon, current, wind or water-colour
 - **locations/northeast-bank.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
