@@ -89,7 +89,7 @@ recorded so the figure isn't mistaken for a verified limit:
 
 | Claim | Figure | As of | Note | Source |
 | --- | --- | --- | --- | --- |
-| San Clemente Island is a U.S. Navy training range; individual zones open and close for military training on a rotating schedule rather than a fixed one | closures rotate; check zone status before the trip | 2025-04-19 (seminar); verify current access before running the crossing | [island structure](../locations/island-structure.md) | `XyKF34C5iB4` |
+| San Clemente Island is a U.S. Navy training range; individual zones open and close for military training on a rotating schedule rather than a fixed one | closures rotate; check zone status before the trip | 2025-04-19 (seminar); verify current access before running the crossing | [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md) | `XyKF34C5iB4` |
 
 ## Mexico
 

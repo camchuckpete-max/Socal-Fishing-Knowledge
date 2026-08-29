@@ -29,17 +29,10 @@ This is universal structure-reading knowledge, not a single spot — it has no
 launch point or transit leg of its own. Getting-there detail for individual
 islands and banks belongs on their own zone and spot pages, e.g.
 [Catalina Island — Front Side](catalina-island-front-side.md) and
-[San Clemente Island — Front Side](san-clemente-island-front-side.md).
-
-San Clemente Island is a U.S. Navy training range, not open coastline. Zones
-open and close for military training on a rotating schedule rather than a
-fixed one, so checking which zones are open is a standard pre-trip step
-alongside safety prep for the crossing — roughly 60 miles, straight off the
-beach (`XyKF34C5iB4`). **U.S. Navy, as of the 2025-04-19 seminar; verify
-current access before running the crossing.** ⚠ misplaced-content: San
-Clemente Island access/closure facts sit in a universal island-typology note
-rather than on the island's own zone page (queued:
-`sources/relocation-queue.md`).
+[San Clemente Island — Front Side](san-clemente-island-front-side.md) — which
+is also where San Clemente Island's Navy-controlled access sits: the rotating
+open and closed training zones, the pre-trip check that goes with them, and
+the crossing distance.
 
 ## Structure & bathymetry
 
@@ -211,7 +204,6 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
-- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)

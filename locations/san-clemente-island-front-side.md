@@ -21,11 +21,10 @@ Mackerel Bank (cameron). Its documented program is a **morning fishery**: the
 front-side yellowtail bite is "a morning thing" that slows into a pick day of
 bass, barracuda and bonito, so the arrival time decides which species the trip
 actually gets (`Blh2BA-7Ono`). The island is an overnight-range destination
-rather than a full-day run (`LTCFjqtSI8g`) and a U.S. Navy training range with
-rotating closures
-([island structure](island-structure.md#san-clemente-island--navy-controlled-access)),
-and the northern-most spot of the run is charted as a naval security zone
-(cameron). At its offshore edge Mackerel Bank is the northern limit of the
+rather than a full-day run (`LTCFjqtSI8g`) and a U.S. Navy training range whose
+zones open and close on a rotating training schedule (`XyKF34C5iB4`), and the
+northern-most spot of the run is charted as a naval security zone (cameron). At
+its offshore edge Mackerel Bank is the northern limit of the
 **below-Clemente search box**, which is hunted for hours rather than checked
 (`Blh2BA-7Ono`, [zone lexicon](zone-lexicon.md)).
 
@@ -38,13 +37,12 @@ carries a 50 lb top shot here against the 40 lb used closer in (`LTCFjqtSI8g`,
 [surface iron](../techniques/surface-iron.md)). The crossing is described as
 roughly 60 miles straight off the beach (`XyKF34C5iB4`).
 
-**Check the Navy schedule before you leave.** The island is a training range,
-not open coastline, and which zones are open or closed rotates with the Navy's
-schedule rather than being fixed; the access check is a standard pre-trip item
-alongside safety prep — full statement and as-of date in
-[island structure](island-structure.md#san-clemente-island--navy-controlled-access)
-(`XyKF34C5iB4`). **Verify current access with the Navy before running the
-crossing.**
+**Check the Navy schedule before you leave.** San Clemente Island is a U.S.
+Navy training range, not open coastline. Zones open and close for military
+training on a rotating schedule rather than a fixed one, so checking which
+zones are open is a standard pre-trip step alongside safety prep for the
+roughly 60-mile crossing (`XyKF34C5iB4`). **Jurisdiction: U.S. Navy, as of the
+2025-04-19 seminar — verify current access before running the crossing.**
 
 **Access edge — as recorded in [the spot library](../sources/spot-lists.md) as
 of 2026-08** (cameron):
@@ -237,6 +235,7 @@ Trip reports and per-source provenance:
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Reef](pyramid-reef.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Southern California Bight](socal-bight.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
