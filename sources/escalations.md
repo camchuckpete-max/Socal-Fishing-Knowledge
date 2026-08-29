@@ -303,3 +303,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T17:07:42Z — techniques/yo-yo-iron.md -> profiles/cameron/rods.md — verify-escalate
 - run: 33262433629
 - reason: The restored 10 ft Phoenix Axis sentence traces solely to memory-export-2026-08-11.md:15 where it is a cameron OPEN ITEM (rarely used, wants reps, considering yo-yoing with it), so stating it as doctrine violates the CLAUDE.md Cameron nuance; Step-3-era defect, out of a relocation pass's scope — Cameron to decide keep-as-attributed-open-item vs drop
+
+## 2026-08-29T17:24:35Z — bait/bait-tanks.md — check-note-failed
+- run: 33262433629
+- reason: FAIL  bait/bait-tanks.md: conservation: 1 cited source id(s) lost: ztpj1Xll0-U
