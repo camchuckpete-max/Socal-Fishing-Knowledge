@@ -3,45 +3,39 @@ type: tackle
 tags: [swimbait, savage-gear, line-thru, hollow-body, rigging, mainline-threading, mono, tackle-express]
 sources: [valIU8lsMX4]
 confidence: medium
+layout: v2
 ---
 
 # Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)
 
-Tackle Express, "How To Rig a Savage Gear Line Thru 12-in 3D Swimbait"
-(`valIU8lsMX4`, uploaded 2014-12-04, 92 s; presenter unnamed on camera). A
-shop-counter fix for a stated customer complaint rather than a straight
-product pitch — "the problem is... guys have been saying that they're having
-a hard time getting the line through" — demonstrated on the **12-in**
-version of the Savage Gear Line Thru 3D, a hollow-body swimbait built to be
-rigged with the mainline run through an internal channel rather than tied to
-an external eye. No species, region, or fishing application is named on
-camera; `tackle-express` is an unregistered channel, single mention — capped
-at **medium**.
+A pull-through method for running the mainline through the internal channel
+of the Savage Gear Line Thru 3D Swimbait, a hollow-body swimbait built to be
+rigged with the mainline threaded internally rather than tied to an external
+eye (`valIU8lsMX4`). Fixes the hard-to-feed mainline that anglers report
+with this bait (`valIU8lsMX4`). Shown on the **12-in** size, for the
+bottom-hook channel specifically; no species, region, or fishing application
+is named.
 
 ## The pull-through fix
 
-Rather than trying to feed the stiffer/thicker mainline through the bait's
-internal channel directly, pull it through using a loop of lighter line as a
-leader:
+Rather than feeding the stiffer/thicker mainline through the bait's internal
+channel directly, pull it through using a loop of lighter line as a leader:
 
-- Take a length of **12 lb monofilament** — stated reason for the material
-  and weight: **a lighter line works best** for pulling through the channel.
-- Push that 12 lb mono in through the channel opening for the bottom hook
-  (the video specifies this method is shown "for the bottom hook") until it
-  comes out the bait's head.
+- Take a length of **12 lb monofilament** — a lighter line pulls through the
+  channel more easily than the mainline (`valIU8lsMX4`).
+- Push the 12 lb mono in through the channel opening for the bottom hook
+  until it comes out the bait's head.
 - Feed the same piece of mono back through the same channel a second time,
   so both ends now exit together — this leaves a **loop of the lighter mono**
   sitting inside/through the channel.
 - Pass the **mainline** through that loop.
-- Pull on **both ends of the lighter mono at once**; the loop draws back
-  through the channel and pulls the mainline through with it ("it pulls
-  right through").
+- Pull both ends of the lighter mono at once; the loop draws back through
+  the channel and pulls the mainline through with it (`valIU8lsMX4`).
 - Once the mainline is through, tie it on as normal.
 
-Scope as shown: the demo is explicitly for the **bottom-hook** channel of the
-**12-in** Line Thru 3D; the video does not say whether the same method is
-needed on, or applies to, the top-hook channel or other sizes in the line —
-not extended beyond what's shown on camera.
+Scope: shown for the **bottom-hook** channel of the **12-in** Line Thru 3D
+only — not extended to the top-hook channel or other sizes in the line
+(`valIU8lsMX4`).
 
 ## Related
 
