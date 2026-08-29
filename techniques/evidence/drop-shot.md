@@ -19,9 +19,11 @@ parent.
 - `k4mD2d6C81k` (BDOutdoors, Nathan Winch, 2024-01-16, San Diego Bay):
   on-camera rigging demo — spinning outfit, hook tie, weight, ZMan finesse
   fluke — that lands a legal halibut on camera during the same clip.
-- `1enjjFVcDG0` (BDOutdoors, Rod Marquez, 2019-05-03): on-camera rigging demo
-  with stated reasoning ("my theory") behind the hook-exposure and
-  hook-to-weight-distance doctrine.
+- `1enjjFVcDG0` (BDOutdoors, Rod Marquez, 2019-05-03): on-camera rigging demo —
+  weight sizing matched to line class, plastic choice, and the grub and fluke
+  retrieves. The hook-exposure and hook-to-weight-distance portion of the same
+  demo, offered on camera as "my theory," moved with that content to
+  [California halibut — surf lures evidence](../../species/evidence/california-halibut-surf-lures.md).
 
 ## Hook options
 
@@ -56,8 +58,10 @@ parent.
   channel — medium confidence. The same cadence is queued for the halibut
   surf-lure spin-out — see `sources/relocation-queue.md`.
 - `fHMwcm1xRQk` (Tackle Express, "Halibut Gear & Techniques | Beaches &
-  Harbor Tips with Shannon Gallagher (Pt 4/4)," 2026-01-13): beach-specific
-  longer-leader reasoning; unregistered channel — medium confidence.
+  Harbor Tips with Shannon Gallagher (Pt 4/4)," 2026-01-13): the beach-specific
+  longer-leader reasoning moved with that content to
+  [California halibut — surf lures evidence](../../species/evidence/california-halibut-surf-lures.md);
+  unregistered channel — medium confidence.
 - `EGKesj7V64M` (Roman Castro, "Spotted Bay Bass Fishing Tips Revealed,"
   2019-06-18): a 25-beginner-tips video; the slack-line hookset failure is
   demonstrated on camera with a length of 6 lb mono snapped by hand to
@@ -101,4 +105,5 @@ parent.
 ## Linked from
 
 - [Drop Shot](../drop-shot.md)
+- [Evidence — California Halibut — surf lures](../../species/evidence/california-halibut-surf-lures.md)
 <!-- backlinks:end -->

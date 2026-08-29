@@ -2,7 +2,7 @@
 type: evidence
 parent: ../california-halibut-surf-lures.md
 tags: [halibut, surf, beach, grunion, drop-shot, lure-color]
-sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w]
+sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk]
 confidence: medium
 ---
 
@@ -41,6 +41,19 @@ including the sources this page does not draw on, is in
   reeling so the whole lure moves forward and the flash tricks dance, and
   repeat; stated radius of attraction is a halibut within **three or four
   feet** of the bait.
+- `1enjjFVcDG0` (BDOutdoors, Rod Marquez, 2019-05-03): on-camera drop-shot
+  rigging demo; the **6 to 10 in** hook-to-weight spacing and the
+  expose-the-point-toward-the-tail rigging are given with their reasoning but
+  labelled on camera as "my theory" rather than as established doctrine. The
+  rest of that demo — weight sizing, the grub and fluke retrieves, the
+  move-after-20-minutes rule — stays with
+  [drop shot evidence](../../techniques/evidence/drop-shot.md).
+- `fHMwcm1xRQk` (Tackle Express, "Halibut Gear & Techniques | Beaches & Harbor
+  Tips with Shannon Gallagher (Pt 4/4)," 2026-01-13; unregistered channel —
+  medium confidence): the beach-slope leader reasoning — a rod-tip lift from a
+  sloped beach doesn't separate hook and weight the way it does off a boat or
+  pier, leaving the lure end **2–3 in** off the bottom, so the leader runs
+  slightly longer.
 - `E4CDqBFOaP8` (Tackle Express, 2025-12-23, "Halibut LOVE This Surf Lure |
   Lucky Craft Flash Minnow Explained"; unregistered channel, single mention —
   medium confidence): the Flash Minnow is called effectively synonymous with
@@ -81,4 +94,5 @@ including the sources this page does not draw on, is in
 
 - [California Halibut — surf lures](../california-halibut-surf-lures.md)
 - [Evidence — California Halibut](california-halibut.md)
+- [Evidence — Drop Shot](../../techniques/evidence/drop-shot.md)
 <!-- backlinks:end -->

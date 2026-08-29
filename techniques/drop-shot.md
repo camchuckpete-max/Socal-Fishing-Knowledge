@@ -7,7 +7,7 @@ regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
 layout: v2
 gear_classes: [light-spinning-finesse-10-20lb]
-depth_band: on bottom; bait suspended 6-10 in above the weight (longer on a sloped beach)
+depth_band: on bottom; bait suspended just above the weight (spacing set by the target species)
 retrieve_speed: shake-in-place / twitch-reel-twitch (fluke); steady slow-medium (grub); drag-shake-drag (surf)
 ---
 
@@ -53,20 +53,13 @@ is the router; this note owns the rig and the retrieve.
   weight, stepping up to **15 to 20 lb test with a 2 oz** weight
   (`1enjjFVcDG0`).
 - Bait: a **4-inch scented finesse fluke** (ZMan), threaded like any plastic
-  using the hook slot (`k4mD2d6C81k`). An alternate build feeds a **Gamakatsu
-  size 1 straight worm hook** through the plastic to **expose the hook closer
-  to the tail** — halibut chase and **bite from behind**, so a more exposed
-  point near the tail lifts the hookup ratio (`1enjjFVcDG0`). The rig is
-  versatile: swap the fluke for a **grub or a swimbait**. ⚠ misplaced-content:
-  the tail-exposed hook rigging is halibut-specific execution, queued for a
-  halibut × surf/drop-shot sub-article
-- **Hook-to-weight distance: 6 to 10 inches** — the halibut strike zone. A
-  predator won't burn energy chasing a bait 15 ft off; at 6 to 10 in it only
-  takes a little effort to commit, and the weight stays in contact with the
-  sandy bottom so the bait sits right in the zone (`1enjjFVcDG0`). ⚠
-  misplaced-content: the 6-10 in strike-zone spacing and its energy-expenditure
-  mechanism are halibut-specific execution, queued for a halibut ×
-  surf/drop-shot sub-article
+  using the hook slot (`k4mD2d6C81k`). The rig is versatile: swap the fluke for
+  a **grub or a swimbait**.
+- **Hook-to-weight distance** sets how high the bait rides while the weight
+  stays pinned to the bottom. The halibut strike-zone spacing, the reasoning
+  behind it, and where to expose the hook point in the plastic for a fish that
+  bites from behind are in
+  [California halibut — surf lures](../species/california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 
 ## Hook options
 
@@ -132,16 +125,9 @@ marginal edges rather than a load-bearing claim.
   radius:** a halibut within roughly **3 to 4 ft** of the bait's path is
   expected to get curious, come over, and eat it. This cadence layers onto the
   rig built above (weight on bottom, bait suspended above it); it doesn't
-  specify hook, weight, or leader — use the rig build above for those.
-- **Longer leader on a sloped beach** (`fHMwcm1xRQk`): running a slightly
-  longer leader specifically when beach fishing corrects for the **angle of
-  the beach itself** — lifting the rod tip to shake the rig from a sloped
-  beach doesn't lift hook and weight the same amount it would straight down
-  off a boat or pier, so the **weight can sit on the bottom while the lure end
-  is only 2–3 in off it**, short of the 6–10 in strike-zone spacing above. A
-  longer leader restores the separation the sloped bottom otherwise eats into.
-  ⚠ misplaced-content: the beach-specific longer-leader rule is halibut-surf
-  execution, queued for a halibut × surf/drop-shot sub-article
+  specify hook, weight, or leader — use the rig build above for those. Leader
+  length off a sloped beach is a halibut-surf parameter — see
+  [California halibut — surf lures](../species/california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - **Hookset — take up slack first** (`EGKesj7V64M`): the drop shot's light
   spinning line is why beginner bay anglers are pointed to this rig first to
   learn what a bite feels like — and that same light line makes the hookset
@@ -225,10 +211,8 @@ in [bay bass plastics](../lures/bay-bass-plastics.md).
 
 - **Hook not facing upward** after the Palomar — the single most common rigging
   error; the point must ride up.
-- **Wrong hook-to-weight distance** — too long and the bait leaves the 6-to-10-inch
+- **Wrong hook-to-weight distance** — too long and the bait rides out of the
   strike zone; too short and it isn't above the bottom.
-- **Under-exposed hook near the head** — halibut bite from behind, so expose the
-  point toward the tail.
 - **Camping dead water** — move after ~20 minutes with no bite.
 
 ## Evidence

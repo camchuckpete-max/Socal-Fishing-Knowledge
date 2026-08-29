@@ -1,7 +1,7 @@
 ---
 type: species-technique
 tags: [halibut, surf, beach, grunion, drop-shot, minnow-hardbait, leadhead-swimbait, lure-color]
-sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w]
+sources: [EuYOlsnxXko, 9qwsg-e9ECA, E4CDqBFOaP8, QJd7A6oiV4U, eOLoHxoqk6E, dWqD8l3jW6w, 1enjjFVcDG0, fHMwcm1xRQk]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast]
@@ -67,6 +67,24 @@ attraction is a halibut within **3 to 4 ft** of the lure's path, which is what
 makes the repeated short drag a water-covering retrieve rather than a
 soak-and-wait (`9qwsg-e9ECA`).
 
+**The bait rides 6 to 10 in above the weight — that spacing is the halibut
+strike zone.** A halibut won't burn energy chasing a bait 15 ft off; at **6 to
+10 in** it only takes a little effort to commit, and the weight stays in contact
+with the sandy bottom so the bait sits right in the zone (`1enjjFVcDG0`).
+
+**Expose the hook point back toward the tail.** An alternate drop-shot build
+feeds a **Gamakatsu size 1 straight worm hook** through the plastic so the point
+sits closer to the tail: halibut chase and **bite from behind**, so a more
+exposed point back there lifts the hookup ratio (`1enjjFVcDG0`). The matching
+failure is a point buried up near the head of the bait.
+
+**On a sloped beach, lengthen the leader to hold that spacing.** Lifting the rod
+tip to shake the rig from a sloped beach doesn't separate hook and weight the
+way it does straight down off a boat or pier, so the **weight can sit on the
+bottom while the lure end is only 2–3 in off it** — short of the 6–10 in strike
+zone above. A slightly longer leader restores the separation the sloped bottom
+otherwise eats into (`fHMwcm1xRQk`).
+
 **The lure ladder is keyed to depth, not to preference.** In **1–4 ft** with
 little wave action the call is a shallow-running minnow hardbait, because a
 deeper diver digs into the sand there and does not get bit — the intent is
@@ -106,9 +124,11 @@ follows is species-general and lives in
 ## Rigs & gear
 
 - **Drop shot — [light spinning class](../tackle/gear-classes.md)**, with the
-  rig build (hook style, hook-to-weight spacing, weight sizing) in
-  [drop shot](../techniques/drop-shot.md). The surf cadence above layers onto
-  that build and does not change it (`9qwsg-e9ECA`).
+  base build (hook style, weight sizing, the Palomar tie and the hook-point-up
+  rule) in [drop shot](../techniques/drop-shot.md); the hook-to-weight spacing,
+  the tail-exposed hook and the beach leader length are the halibut parameters
+  stated above. The surf cadence layers onto that build and does not change it
+  (`9qwsg-e9ECA`).
 - **Shallow minnow hardbait —
   [minnow-bait spinning class](../tackle/gear-classes.md)**; the lure itself,
   including colour selection, is in
@@ -141,6 +161,12 @@ owns the rod-tip lever, and the lure-class notes each program sits on:
   for fish holding on the bottom; here the rig is deliberately dragged **22–30
   in** between shakes, sized to the halibut being fished for, with a stated
   **3–4 ft** radius of attraction (`9qwsg-e9ECA`).
+- **The rig geometry is set by the fish and by the beach slope.** Drop shot owns
+  the base build; the **6–10 in** hook-to-weight spacing with its
+  energy-expenditure reasoning, the tail-exposed straight-worm-hook rigging for a
+  fish that bites from behind, and the longer leader that restores that spacing
+  on a slope are halibut and beach parameters stated here rather than in the
+  general note (`1enjjFVcDG0`, `fHMwcm1xRQk`).
 - **Depth choice overrides lure preference.** The general beach answer to a
   lure digging in is a rod-tip adjustment; the halibut answer at **10 ft** is
   a presentation swap to a leadhead and swimbait (`E4CDqBFOaP8`), which
@@ -168,5 +194,6 @@ halibut source provenance:
 
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [California Halibut](california-halibut.md)
+- [Drop Shot](../techniques/drop-shot.md)
 - [Evidence — California Halibut — surf lures](evidence/california-halibut-surf-lures.md)
 <!-- backlinks:end -->
