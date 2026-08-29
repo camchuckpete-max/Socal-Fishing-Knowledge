@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2381 flagged gaps, 358 flagged stubs, 1052 unknown infobox values._
+_Totals: 2397 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -3744,6 +3744,17 @@ _Totals: 2381 flagged gaps, 358 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/san-miguel-island.md**
+  - `Getting there`: gap — closures, MPA boundaries, landing or anchoring
+  - `Getting there`: gap — a distance, heading, run time, fuel figure or
+  - `Structure & bathymetry`: gap — any charted position, sounding, kelp line,
+  - `Structure & bathymetry`: gap — names a
+  - `Structure & bathymetry`: gap — says
+  - `What's there`: flagged stub row
+  - `What's there`: gap — gives a grade, count, average size or bag
+  - `What's there`: zone guide missing
+  - `How it fishes`: gap — a public position for
+  - `How it fishes`: gap — a tide, slack, light or current window for San
 - **locations/san-miguel-reef.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3800,6 +3811,19 @@ _Totals: 2381 flagged gaps, 358 flagged stubs, 1052 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program — which
+- **locations/santa-cruz-island.md**
+  - `Getting there`: gap — states the Conception night-wind behaviour for
+  - `Getting there`: gap — closures, MPA boundaries, landing or anchoring
+  - `Getting there`: gap — a distance, heading, run time, fuel figure or
+  - `Structure & bathymetry`: gap
+  - `Structure & bathymetry`: gap — any charted position, sounding, kelp line,
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — gives a grade, count or average size for any
+  - `What's there`: flagged stub row
+  - `How it fishes`: gap — an
+  - `How it fishes`: gap
 - **locations/sea-of-cortez.md**
   - `(lead)`: gap — this note's own place in the geographic
   - `What's there`: gap — month-by-month timing for the San Felipe
