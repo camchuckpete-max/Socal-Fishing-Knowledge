@@ -579,6 +579,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — California Sheephead](../species/evidence/sheephead.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Charter Bait-Tank Hook & Leader Kit (Tackle Express)](evidence/tackle-express-charter-bait-tank-hook-kit.md)
 - [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — Hook Assortment by Trip Length — Overnight Through 5–6 Day](evidence/hook-assortment-by-trip-length.md)
 - [Evidence — Hooks](evidence/hooks.md)

@@ -44,11 +44,12 @@
 - [Evidence — BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Trip reports and per-source provenance for BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express).
 - [Evidence — Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md) — Trip reports and per-source provenance for Tackle Express — Cedros Four-Rod Quiver (the Gear Vault).
 - [Evidence — Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — Trip reports and per-source provenance for Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express).
+- [Evidence — Charter Bait-Tank Hook & Leader Kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Per-source provenance for Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 40 notes exceed the 30-node cap._
+_Map skipped: 41 notes exceed the 30-node cap._
 <!-- mermaid:end -->

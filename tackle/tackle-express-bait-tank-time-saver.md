@@ -76,6 +76,7 @@ Per-source provenance for the re-cut and product-identification chain:
 
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Evidence — Bait-Tank Time-Savers (Tackle Express)](evidence/tackle-express-bait-tank-time-saver.md)
+- [Evidence — Charter Bait-Tank Hook & Leader Kit (Tackle Express)](evidence/tackle-express-charter-bait-tank-hook-kit.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 <!-- backlinks:end -->
