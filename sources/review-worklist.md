@@ -221,7 +221,7 @@ by their builders after the transform phase drains.
 | tackle/star-drag-vs-lever-drag.md | light | done | none | transform verified faithful, LIGHT-tier prose/cite normalization, no information loss |
 | tackle/tackle-express-accurate-tern-2-reel.md | light | done | asr-uncertain(guest name, Torx driver sizing, twin-drag stack mechanism, closing 165 lb anecdote) | transform applied with 2 verifier fixes (evidence-file wording contradiction, restored species-ambiguity caveat) |
 | tackle/tackle-express-accurate-valiant-2-spj-reel.md | light | done | none | transform verified: evidence split conserved, quotes match transcript, link-maintenance run |
-| tackle/tackle-express-bait-tank-time-saver.md | light | transformed | asr-uncertain(product names: double-8 octopus trailer; Gulp swimming mullets/grub series) | v2 transform verified, one dropped cross-reference restored to evidence file |
+| tackle/tackle-express-bait-tank-time-saver.md | light | done | asr-uncertain(product names: double-8 octopus trailer; Gulp swimming mullets/grub series) | v2 transform verified, one dropped cross-reference restored to evidence file |
 | tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md | light | transformed | none | transform verified: plain-statement rewrite, evidence split, contested-doctrine decision frame added, check-note.py clean |
 | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md | light | transformed | none | clean v2 transform, all specs/provenance conserved to evidence file, transcript-verified |
 | tackle/tackle-express-bates-edc-100-reel.md | light | transformed | none | transform verified, one hedge-smoothing fix applied |
