@@ -68,7 +68,7 @@ _Filled incrementally per step. Format: `video_id — note(s) | skipped: reason`
 | KuVwmfF6RAo | species/swordfish |
 | nRFFM8DT-og | conditions/deep-scattering-layer |
 | yLpDI8jnizU | conditions/deep-scattering-layer, bird-reading; planning/electronics-and-sounder |
-| 0KQ--N5TjqE | conditions/current-structure; locations/island-structure, bass-structure |
+| 0KQ--N5TjqE | conditions/current-structure; locations/island-structure, bass-structure; techniques/swimbaits (covering-water move distance + re-bite — added at the relocation pass) |
 | Kf5wk_TFgTc | seasonal/february-march |
 | pcwcRdmWmLc | seasonal/february-march; techniques/surface-iron (P2 size/weight doctrine — added at GATE B punch list) |
 | CMQkHQMxbXM | seasonal/august |

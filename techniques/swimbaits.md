@@ -269,8 +269,8 @@ whether it actually saved the fish it was tried on (`L3tkGVu516A`).
   rather than beating it up (`0KQ--N5TjqE`).
 - **Grade a bed off the prime edge:** put the first few casts on the leading /
   outside edge, and if nothing comes *"they're probably not going to be
-  anywhere in the bed"* — five fruitless casts is enough to leave. This is what
-  the 10–12-cast floor above is buying (`YIABTTYXeqc`).
+  anywhere in the bed"* — five fruitless casts on the prime stuff is enough to
+  leave, well inside the 10–12-cast budget above (`YIABTTYXeqc`).
 - **Beds re-bite, so come back.** Once you have fished through the biting
   stringers, go work somewhere else for a few minutes and run the same stretch
   again — a bed will often bite several times in a session, including re-running
