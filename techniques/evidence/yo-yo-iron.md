@@ -293,5 +293,6 @@ parent.
 
 - [Evidence — Ocean Whitefish](../../species/evidence/ocean-whitefish.md)
 - [San Augustine](../../locations/san-augustine.md)
+- [San Benito Islands](../../locations/san-benito-island.md)
 - [Yo-Yo Iron](../yo-yo-iron.md)
 <!-- backlinks:end -->

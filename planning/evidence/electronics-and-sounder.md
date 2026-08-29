@@ -265,4 +265,5 @@ order. Observations never change the parent's stated doctrine.
 
 - [Electronics and Sounder](../electronics-and-sounder.md)
 - [Evidence — Rockfish & Lingcod](../../species/evidence/rockfish-lingcod.md)
+- [San Benito Islands](../../locations/san-benito-island.md)
 <!-- backlinks:end -->

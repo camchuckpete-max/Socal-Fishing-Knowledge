@@ -283,4 +283,5 @@ Parked for the zone guides the parent note stubs out:
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 - [Lingcod — jigging](../lingcod-jigging.md)
 - [Rockfish & Lingcod](../rockfish-lingcod.md)
+- [San Benito Islands](../../locations/san-benito-island.md)
 <!-- backlinks:end -->

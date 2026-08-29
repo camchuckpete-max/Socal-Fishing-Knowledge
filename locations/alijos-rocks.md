@@ -236,6 +236,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — South](baja-pacific-south.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Alijos Rocks](evidence/alijos-rocks.md)
+- [San Benito Islands](san-benito-island.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)

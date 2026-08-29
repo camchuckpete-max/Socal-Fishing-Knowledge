@@ -279,6 +279,7 @@ Trip reports and per-source provenance:
 - [Evidence — Guadalupe](evidence/guadalupe.md)
 - [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [San Benito Islands](san-benito-island.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

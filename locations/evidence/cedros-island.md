@@ -405,4 +405,5 @@ Observations never change the note's stated doctrine.
 - [Geronimo Island](../geronimo-island.md)
 - [North Point](../north-point.md)
 - [San Augustine](../san-augustine.md)
+- [San Benito Islands](../san-benito-island.md)
 <!-- backlinks:end -->

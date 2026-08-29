@@ -142,6 +142,7 @@ Trip reports and per-source provenance:
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Augustine](san-augustine.md)
+- [San Benito Islands](san-benito-island.md)
 - [San Quintin](san-quintin.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)

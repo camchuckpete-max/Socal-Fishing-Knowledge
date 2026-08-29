@@ -611,6 +611,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [San Augustine](../locations/san-augustine.md)
+- [San Benito Islands](../locations/san-benito-island.md)
 - [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md)

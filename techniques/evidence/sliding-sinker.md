@@ -97,6 +97,7 @@ change the parent note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
+- [San Benito Islands](../../locations/san-benito-island.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../sliding-sinker.md)
 <!-- backlinks:end -->

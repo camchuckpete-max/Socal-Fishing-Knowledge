@@ -33,5 +33,6 @@ Trip reports and per-source provenance backing [surface iron — colour](../surf
 ## Linked from
 
 - [Evidence — Calico Bass — surface iron](../../species/evidence/calico-bass-surface-iron.md)
+- [San Benito Islands](../../locations/san-benito-island.md)
 - [Surface Iron — Colour](../surface-iron-color.md)
 <!-- backlinks:end -->

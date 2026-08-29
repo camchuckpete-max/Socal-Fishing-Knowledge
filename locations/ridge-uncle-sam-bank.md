@@ -184,4 +184,5 @@ with the species and region notes that carry them:
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [San Benito Islands](san-benito-island.md)
 <!-- backlinks:end -->

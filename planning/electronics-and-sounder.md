@@ -366,6 +366,7 @@ Trip reports and per-source provenance:
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [San Benito Islands](../locations/san-benito-island.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

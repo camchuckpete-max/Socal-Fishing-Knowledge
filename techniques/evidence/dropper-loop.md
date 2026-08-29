@@ -201,5 +201,6 @@ parent.
 
 - [Dropper Loop](../dropper-loop.md)
 - [Evidence — Yellowtail — dropper loop](../../species/evidence/yellowtail-dropper-loop.md)
+- [San Benito Islands](../../locations/san-benito-island.md)
 - [Yellowtail — dropper loop](../../species/yellowtail-dropper-loop.md)
 <!-- backlinks:end -->
