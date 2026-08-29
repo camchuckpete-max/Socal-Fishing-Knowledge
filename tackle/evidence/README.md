@@ -76,11 +76,12 @@
 - [Evidence — Maxcuatro Metered Braid, Shogun Trip (Tackle Express)](tackle-express-shogun-maxcuatro-braid.md) — Per-source provenance for Maxcuatro metered braid — night-jig and between-stops bait depth.
 - [Evidence — Shimano Speedmaster vs. Penn Fathom Reel Sizing (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Per-source provenance for Shimano Speedmaster vs.
 - [Evidence — Surf Halibut Rod Lineup (Tackle Express)](tackle-express-surf-halibut-rod-lineup.md) — Per-source provenance for Surf Halibut Rod Lineup — Light vs.
+- [Evidence — Trophy (Triple-Digit) Bluefin Jig Outfit (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Per-source provenance for trophy (triple-digit) bluefin jig outfit.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 72 notes exceed the 30-node cap._
+_Map skipped: 73 notes exceed the 30-node cap._
 <!-- mermaid:end -->
