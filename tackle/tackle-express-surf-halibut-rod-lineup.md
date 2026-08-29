@@ -97,6 +97,7 @@ file](evidence/tackle-express-surf-halibut-rod-lineup.md).
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Evidence — Surf Halibut Rod Lineup (Tackle Express)](evidence/tackle-express-surf-halibut-rod-lineup.md)
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
 <!-- backlinks:end -->

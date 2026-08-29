@@ -130,14 +130,10 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
   Grunion spawn on a predictable set of tides and come up the beach on **high
   tides after dark**; staging fish show **100–500 ft off the beach** from
   around midday before a run, marked by gulls, pelicans and terns working that
-  zone. Two windows bracket the run:
-  - **The incoming tide that afternoon**, when an onshore wind in your face
-    forces a castable lure and the rising water covers structure you can wade a
-    few feet to reach.
-  - **The following morning's low tide**, when the fish that came up on the
-    high tide are pushed back gradually rather than leaving at once, and
-    concentrate in **knee- to hip-deep water** at the sand-water edge — often
-    shallower than a waders angler is standing.
+  zone. Two windows bracket the run — the incoming tide that afternoon and the
+  following morning's low tide; how each is fished, and how shallow to stand,
+  are in
+  [surf lures](california-halibut-surf-lures.md#when-this-is-the-call).
 - **Overcast extends the window.** Those mornings run overcast about **90%** of
   the time, lengthening the low-light period and with it the bite window on
   reaction baits (`EuYOlsnxXko`).
@@ -194,8 +190,8 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 | **Bay or harbor channel edge, 8–15 ft**, live bait | Same [live-bait drift](california-halibut-live-bait-drift.md) trap rig, downsized | 15 lb fluoro, 200-class inshore reel ([gear classes](../tackle/gear-classes.md)) | Fished the same way as the island build, one hook size smaller (`a5u8BaYzw8c`); rig attitude and the subtle bite read are in the sub-article [a] |
 | **Squid available at the islands** | [Sliding sinker](../techniques/sliding-sinker.md) or a dropped squid on a single J, no stinger | 30 lb bait class | Squid needs solid purchase in the nose, so the trap's treble comes off — hook size in [live-bait drift](california-halibut-live-bait-drift.md) (`a5u8BaYzw8c`) |
 | **Artificial, covering water on short drifts** | [Drop-shot](../techniques/drop-shot.md) a plastic near the bottom | [Light spinning class](../tackle/gear-classes.md) | Keeps the bait in the strike zone on the edge; picks apart bubbler zones and rockpiles instead of long straight drifts |
-| **Casting from the surf** | [Drop-shot](../techniques/drop-shot.md) on a drag-then-shake cadence | Light spinning class | Drag it the length of the fish you want (**22–30 in**), then shake the slack while reeling so the whole lure moves forward; a halibut within **3–4 ft** comes over to look (`9qwsg-e9ECA`) |
-| **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; a deeper diver digs into the sand there and does not get bit (`E4CDqBFOaP8`) [b] |
+| **Casting from the surf** | [Drop-shot](../techniques/drop-shot.md) on a drag-then-shake cadence | Light spinning class | The cadence, its drag length and the stated strike radius are in the sub-article [b] (`9qwsg-e9ECA`) |
+| **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; the depth ladder past this band, and the rod-tip depth trim inside it, are in the sub-article [b] (`E4CDqBFOaP8`) |
 | **Open flats, casting from a boat or from shore** | Fast-retrieve hard bait — a crankbait or jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | [Crank class](../tackle/gear-classes.md) | Halibut chase it down and commit hard once it is moving (`46ha7J1Fc6A`) [c] |
 | **Deeper than a shallow hardbait can run without digging in** | [Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom, repeat | Leadhead + soft-plastic swimbait class | A **3-in** swimbait covers about **90%** of deeper fishing and smaller baits are favored in the harbor; ineffective from the beach, where a leadhead returns to bottom too fast for a mid-column swim (`OURS05qEGcA`, `fHMwcm1xRQk`) |
 | **Drifting a squid nest or sonar mark with the bait rail stacked on the wind-face side**, fish willing to chase | Cast a **white fluke to the flanks** rather than crowding the rail | Baitcaster / [bass class](../tackle/gear-classes.md) | As the boat drifts toward the flanking caster, the fluke reaches a chasing fish before the rail's dropper-loop and trap rigs do; an inactive fish that will only eat bait still gets caught eventually — worked example in [swimbaits](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (`hjZ3hgq0Bzg`) |
@@ -206,9 +202,10 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 cannonball sinker shape and its weight band, the straight-up-and-down rig
 attitude and the bite read — is in
 [California halibut — live-bait drift](california-halibut-live-bait-drift.md).
-[b] Past that depth the call is to switch presentations, not just lures: at
-**10 ft** the leadhead-and-swimbait row above is stated to be much more
-effective (`E4CDqBFOaP8`).
+[b] The full beach program — the drag-then-shake cadence and its drag length,
+the depth-keyed lure ladder past 4 ft, rod-tip height as the depth trim, the
+reaction-bait colour family and the hook-set on the thump — is in
+[California halibut — surf lures](california-halibut-surf-lures.md).
 [c] **Catalina** is the named place this has produced, and the same fast
 retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
 
@@ -236,13 +233,10 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
   [inshore crankbaits — rigging](../techniques/inshore-crankbaits.md#rigging).
 - **Colors:** hardbaits start at white, or white with a pink belly, with pink
   called a classic halibut color and especially a surf-halibut one
-  (`Qqdt6f8Mjd4`); soft-plastic reaction
-  baits run a four-color family — white, chartreuse, pink, mint
-  (`eOLoHxoqk6E`). The stated reason solid white draws bites: a halibut lying
-  on the bottom looking up mostly sees a baitfish's white belly, and from that
-  position it already holds the advantage, so a solid white lure reads as an
-  easy, energy-efficient meal (`eOLoHxoqk6E`). ⚠ Fact-check (single-source):
-  one source, offered on camera as a theory.
+  (`Qqdt6f8Mjd4`); the four-color family the soft-plastic reaction baits run,
+  and the stated reason solid white draws bites, are in
+  [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution)
+  (`eOLoHxoqk6E`).
 - **Tube baits sized by water:** size up outside in the surf and coastal zone,
   run **3/8 or 5/8 oz** inside a bay; **mint** and **glow green** named as
   working, and a white "shad" pattern for **morning and evening**
@@ -251,9 +245,9 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
   ⚠ misplaced-content: the color list is lure implementation and belongs with
   the lure note, not in the router.
 - **Depth control from the beach is a rod-handling lever, not only a lure
-  choice:** tip low runs the lure deepest, mid-height moderates it, tip up
-  keeps it off the bottom, the same across leadhead plastics, metals and minnow
-  hardbaits (`QJd7A6oiV4U`) — see
+  choice** (`QJd7A6oiV4U`) — the tip-height ladder as it applies to this fish is
+  in [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution),
+  and the general mechanism in
   [beach depth control](../techniques/beach-lure-depth-control.md).
 
 ## Zone guides
@@ -329,9 +323,10 @@ Section order below is not a ranking.
   **40 in** class) often winds straight in with no real fight until it sees the
   boat, then bolts; both slacking the line off and pulling too hard against
   that run pull the hook (`akUrZ_OYy4c`).
-- **Hook-set depends on what it ate.** On a lure the bite is a distinct thump:
-  point the rod, wind fast until the line comes tight, and only then swing —
-  the slack has to come out first (`dWqD8l3jW6w`). On bait the bite is subtle,
+- **Hook-set depends on what it ate.** On a lure the bite is a distinct thump
+  and the swing waits for the slack to come out — the mechanic is in
+  [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution)
+  (`dWqD8l3jW6w`). On bait the bite is subtle,
   so lift and wind rather than swinging (`a5u8BaYzw8c`) — how the take reads on
   the drift is in [live-bait drift](california-halibut-live-bait-drift.md).
 - **Gaffing:** a **3-in hook on a ~6-ft gaff** covers halibut up to 40–50 lb —
@@ -360,6 +355,7 @@ Trip reports and per-source provenance:
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [California Halibut — live-bait drift](california-halibut-live-bait-drift.md)
+- [California Halibut — surf lures](california-halibut-surf-lures.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

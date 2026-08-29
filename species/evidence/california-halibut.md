@@ -39,7 +39,9 @@ beside that doctrine in the parent.
   Halibut in Spring & Fall | Beaches & Harbors," part 2 of 4; unregistered
   channel — medium confidence): source of the grunion-cycle windows, the
   waders-are-counterproductive call, the overcast-90% figure, and the fall
-  9–11 ft structure pattern.
+  9–11 ft structure pattern. The two windows and the wading-depth call moved
+  with the beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#when-this-is-the-call).
 - `6TBxHnkYXI0` (BDOutdoors, Erik Landesfeind, SoCal Bight fishing report
   2025-02-21): the "find a local variation of today's condition" framing for
   seabass/halibut-colour water, the anchoring set-up distances (20–30 ft behind
@@ -152,12 +154,9 @@ beside that doctrine in the parent.
   [California halibut — live-bait drift
   evidence](california-halibut-live-bait-drift.md#how-california-halibut-changes-the-execution).
 - `9qwsg-e9ECA` (Tackle Express, 2026-02-07, "Unlock the Secret Halibut Rhythm
-  for Massive Surf Catches"; unregistered channel — medium confidence): the
-  surf drop-shot cadence — cast, put it in gear, drag it "about the length of
-  the halibut I want to catch, so **22 to 30 in**," then shake the slack while
-  reeling so the whole lure moves forward and the flash tricks dance, and
-  repeat; stated radius of attraction is a halibut within **three or four
-  feet** of the bait.
+  for Massive Surf Catches"): the surf drop-shot cadence and its stated
+  radius of attraction moved with the beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - `fHMwcm1xRQk` (Tackle Express, Shannon Gallagher, 2026-01-13, "Halibut Gear &
   Techniques," part 4 of 4; unregistered channel — medium confidence): the
   leadhead retrieve rhythm on a Warbaits head with a 3-in Sudden Impact —
@@ -171,13 +170,9 @@ beside that doctrine in the parent.
   standalone clip; feeds
   [leadhead swimbait retrieve](../../techniques/leadhead-swimbait-retrieve.md).
 - `E4CDqBFOaP8` (Tackle Express, 2025-12-23, "Halibut LOVE This Surf Lure |
-  Lucky Craft Flash Minnow Explained"; unregistered channel, single mention —
-  medium confidence): the Flash Minnow is called effectively synonymous with
-  SoCal surf halibut fishing; the shallow-diver reasoning is "I don't want a
-  jerkbait that gets down to the fish, I want a jerkbait or minnow lure that
-  gets the fish up to the minnow lure," scoped to little wave action and fish
-  in **1–4 ft**; past that, at **10 ft**, the call is a leadhead and swimbait,
-  "much more effective."
+  Lucky Craft Flash Minnow Explained"): the shallow-diver reasoning and the
+  depth-keyed swap to a leadhead and swimbait moved with the beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - `46ha7J1Fc6A` (Roman Castro, 2020-03-12, "Fishing Tips And Techniques from
   The Fred Hall Show 2020," Long Beach — speaker Brent of Aquatek Imaging
   Solutions; unregistered speaker, single mention — medium confidence): his
@@ -193,11 +188,9 @@ beside that doctrine in the parent.
   [tube baits](../../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
 - `eOLoHxoqk6E` (Tackle Express, 2025-11-28, "Halibut Fishing Lures That WORK,"
   part 3; unregistered channel, single mention — medium confidence): the
-  four-colour soft-plastic family — "there's something about those four colors
-  that if you just choose that as a solid color, you will get bit" — plus the
-  explicitly labelled white-belly theory: a halibut lying on the bottom looking
-  up mostly sees a baitfish's white belly, and from below it already has "a
-  complete advantage," so solid white reads as an easy, energy-efficient meal.
+  four-colour soft-plastic family and the white-belly theory behind solid white
+  moved with the beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - `eOLoHxoqk6E` (Tackle Express, 2025-11-28), same session: fishing a Warbaits
   mini A-rig slow with occasional single handle-turns produced no bites and
   fish missing it; switching to burning it and pausing in glassed-off water
@@ -221,10 +214,10 @@ beside that doctrine in the parent.
   the lure in
   [Lucky Craft Flash Minnow — color selection](../../lures/lucky-craft-flash-minnow.md#color-selection-tackle-express-qqdt6f8mjd4-2026-05-09-unregistered-channel-single-mention-medium-confidence).
 - `QJd7A6oiV4U` (Tackle Express, 2026-05-09, "Master your lure depth with this
-  one simple rod tip trick."; unregistered channel, single mention — medium
-  confidence): rod tip low runs a lure at maximum depth, mid-height moderates
-  it, tip-up keeps it off the bottom — stated to work the same across leadhead
-  plastics, metal lures and minnow hardbaits. Detail in
+  one simple rod tip trick."): the rod-tip-height depth ladder moved with the
+  beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution);
+  general method in
   [beach depth control](../../techniques/beach-lure-depth-control.md).
 - `hjZ3hgq0Bzg` (Tackle Express with Shannon Gallagher, 2025-04-28, "Don't Fish
   White Flukes Until You Watch This!"; unregistered channel, single mention —
@@ -249,13 +242,9 @@ beside that doctrine in the parent.
   especially important on minnow-style hard baits with small trebles. The take
   is framed as a telltale — a heavy, uncertain pull that suddenly does "that
   thing."
-- `dWqD8l3jW6w` (Tackle Express, 2026-02-09, "That Halibut THUMP!"; unregistered
-  channel, single mention — medium confidence): the surf bite is a distinct
-  thump compared to a largemouth eating a skirted jig, called "wonderful" and
-  "exciting"; the caution is not to swing immediately — point the rod, turn the
-  handle quickly until the line comes tight, then swing, because the slack has
-  to come out first. The clip cuts off mid-sentence moving into surf rod/reel
-  selection; no usable detail there.
+- `dWqD8l3jW6w` (Tackle Express, 2026-02-09, "That Halibut THUMP!"): the surf
+  thump and the point-wind-then-swing hook-set moved with the beach program to
+  [California halibut — surf lures evidence](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
 - `akUrZ_OYy4c` (Tackle Express, 2026-02-09, "The exact moment a giant halibut
   sees your boat!"; unregistered channel, single mention — medium confidence):
   a big fish (stated examples **30 in**, **40 in** class) often winds straight
@@ -298,5 +287,7 @@ Parked for the zone guides the parent note stubs out:
 
 - [California Halibut](../california-halibut.md)
 - [California Halibut — live-bait drift](../california-halibut-live-bait-drift.md)
+- [California Halibut — surf lures](../california-halibut-surf-lures.md)
 - [Evidence — California Halibut — live-bait drift](california-halibut-live-bait-drift.md)
+- [Evidence — California Halibut — surf lures](california-halibut-surf-lures.md)
 <!-- backlinks:end -->

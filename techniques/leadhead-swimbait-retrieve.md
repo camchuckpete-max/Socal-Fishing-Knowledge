@@ -242,6 +242,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Leadhead Swimbait Retrieve](evidence/leadhead-swimbait-retrieve.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)

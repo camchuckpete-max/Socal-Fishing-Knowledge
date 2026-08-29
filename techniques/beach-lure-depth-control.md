@@ -92,13 +92,16 @@ reel, line) is not defined yet.
 <!-- species-applications:start -->
 ## Species applications
 
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
+- [Evidence — California Halibut — surf lures](../species/evidence/california-halibut-surf-lures.md)
 - [Inshore Crankbaits](inshore-crankbaits.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)

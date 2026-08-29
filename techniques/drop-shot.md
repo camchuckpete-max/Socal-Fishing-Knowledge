@@ -245,6 +245,7 @@ Trip reports and per-source provenance: [evidence file](evidence/drop-shot.md).
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
 - [Evidence — Drop Shot](evidence/drop-shot.md)
 - [Evidence — Surf Halibut Rod Lineup (Tackle Express)](../tackle/evidence/tackle-express-surf-halibut-rod-lineup.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
