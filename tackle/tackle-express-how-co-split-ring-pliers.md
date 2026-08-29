@@ -53,6 +53,6 @@ file](evidence/tackle-express-how-co-split-ring-pliers.md).
 ## Linked from
 
 - [Evidence — HOW Co Split-Ring Pliers (Tackle Express)](evidence/tackle-express-how-co-split-ring-pliers.md)
-- [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
+- [Evidence — Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](evidence/tackle-express-maxima-shark-tooth-leader-tool.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 <!-- backlinks:end -->

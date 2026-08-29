@@ -57,11 +57,12 @@
 - [Evidence — Izorline XXX (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Per-source provenance for Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke.
 - [Evidence — Jig Stick Doubles as a Trolling Outfit (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Per-source provenance for Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence.
 - [Evidence — PowerPro Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) — Per-source provenance for PowerPro Maxcuatro vs.
+- [Evidence — Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md) — Per-source provenance for Maxima Shark Tooth — Leader-Spool Band & Cutter.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 53 notes exceed the 30-node cap._
+_Map skipped: 54 notes exceed the 30-node cap._
 <!-- mermaid:end -->
