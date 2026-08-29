@@ -457,6 +457,7 @@ swimbaits](../lures/soft-plastic-swimbaits.md).
 <!-- species-applications:start -->
 ## Species applications
 
+- [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -467,6 +468,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

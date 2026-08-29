@@ -24,6 +24,7 @@
 - [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah are a bycatch of the SoCal offshore tuna program, not a target: they eat a jig or a sinker-weighted bait fished 150–200 ft down while the boat drifts, and
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is an inshore jack of the warm Baja coast that turns up inside somebody else's mixed-bag day rather than as
 - [Rockfish & Lingcod](rockfish-lingcod.md) — Reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingcod as the apex predator on the same high
+- [Barred Sand Bass — Alabama rig](sand-bass-alabama-rig.md) **[SoCal only]** — One species, one technique.
 - [Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md) **[SoCal only]** — One species, one technique.
 - [Barred Sand Bass](sand-bass.md) — Barred sand bass are structure-oriented but not locked to the bottom the way a lingcod or cabezon is — they hover slightly above or within the reef, wreck or ke
 - [California Sheephead](sheephead.md) — California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard structure "every single day," which makes them the target once the water cools and t
@@ -47,5 +48,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 34 notes exceed the 30-node cap._
+_Map skipped: 35 notes exceed the 30-node cap._
 <!-- mermaid:end -->

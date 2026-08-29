@@ -878,4 +878,5 @@ by their builders after the transform phase drains.
 | species/dorado-kelp-paddy.md | standard | pending |  | created by relocation from species/dorado.md |
 | species/lingcod-jigging.md | standard | pending |  | created by relocation from species/rockfish-lingcod.md |
 | species/sand-bass-sliding-sinker.md | standard | pending |  | created by relocation from species/sand-bass.md |
+| species/sand-bass-alabama-rig.md | standard | pending |  | created by relocation from species/sand-bass.md |
 <!-- review:worklist:end -->

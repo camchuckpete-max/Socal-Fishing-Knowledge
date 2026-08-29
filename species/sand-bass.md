@@ -131,8 +131,8 @@ the schools use.
 - **Summer spawn is the switch.** Once a spawning school is fired up the
   live-bait slider and the dropper loop are both getting bit, and plastics
   become the choice for a more entertaining way to catch fish that are already
-  eating; the A-rig is the one program named for fired-up fish *and* for fish
-  that are not (`P2OzCf2CwXI`).
+  eating; the [A-rig](sand-bass-alabama-rig.md) is the one program named for
+  fired-up fish *and* for fish that are not (`P2OzCf2CwXI`).
 - **Winter is a reaction bite, not a feeding bite.** Bottom-locked winter fish
   are not actively feeding, so the bait has to be dropped into them and moved
   aggressively rather than presented and waited on (`P2OzCf2CwXI`,
@@ -192,7 +192,8 @@ See [electronics and sounder](../planning/electronics-and-sounder.md) and
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
 | Summer flats, fish balled up and biting every cast | **Swimbaits / plastics** ([swimbaits](../techniques/swimbaits.md)) — paddle-tail or fluke on a leadhead, cast-and-wind low and slow through the column | 7–8 ft graphite bass class, low-profile 300 reel, [gear classes](../tackle/gear-classes.md) | Neon green, chartreuse and lime green are the classic sand bass colours and colour otherwise matters little; go pearl or white where calico, yellowtail or white seabass are in the mix. Get bit on the sink — watch the free-spool for a speed-up or a tap, give the fish a second, then go into gear (`P2OzCf2CwXI`) |
-| Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5 in + 7 in) on a three-way swivel, smaller bait ahead on a short (~12 in) leader, bigger on a longer (~24 in) leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro, 8 ft heavy rod | The trailing bait swims alongside the hooked fish and picks up the followers (`9br4Z4sfcNI`). The A-rig does the same job by chain reaction — one bite fires the next, four or five fish on a single cast — at the highest cost per rig of any sand bass method (`P2OzCf2CwXI`) [a] |
+| Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5 in + 7 in) on a three-way swivel, smaller bait ahead on a short (~12 in) leader, bigger on a longer (~24 in) leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro, 8 ft heavy rod | The trailing bait swims alongside the hooked fish and picks up the followers (`9br4Z4sfcNI`). The A-rig does the same job by chain reaction — see [barred sand bass — Alabama rig](sand-bass-alabama-rig.md) |
+| Spawning school balled up and firing — or a day they are not fired up at all — and you will spend for it | **[Barred sand bass — Alabama rig](sand-bass-alabama-rig.md)** — lob cast, bites on the sink, then into gear at or near the bottom and low and slow up through the column, off the structure ([general A-rig build](../techniques/swimbaits.md#multi-bait-rigs)) | low-profile bass class, 15–50 lb rod on a 300 reel, [gear classes](../tackle/gear-classes.md) | Chain reaction — one bite fires the next until four or five fish, sometimes a limit, are on a single cast — at the highest cost per rig of any sand bass method (`P2OzCf2CwXI`) [a] |
 | Live anchovy aboard, fish hovering above structure | **[Sliding (egg) sinker live bait — the anchovy program](sand-bass-sliding-sinker.md)** — slow-sink through the whole column ([general method](../techniques/sliding-sinker.md)) | finesse fly-line class, [gear classes](../tackle/gear-classes.md) | Sinker weight and its conditions rule, hook size, leader length and class, and the rod/reel spec with its mechanism are all in the sub-article (`P2OzCf2CwXI`) [b] |
 | Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down (`P2OzCf2CwXI`). For a bigger winter grade, an 8 in slug on a 3 oz sled head is the named big-sand-bass bait, and a lot of the bites come on the sink (`5p6gu14ZC4w`) |
 | Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | Sand bass and calico came off a Newport pipe in 80 ft of water on crankbaits running only 15 ft deep — match the bait's depth, not the bottom's (`kwMIgkCtFUE`). A heavy (~20 g) sinking jig kept tied on through fall and winter covers any part of the column when the fish's depth is unknown; thumb the spool on the drop on conventional tackle (`5fxAN1Ofn8M`). ⚠ Fact-check (single-source): the sinking-jig line rests on one corpus mention, and the source never names the bait |
@@ -204,10 +205,9 @@ See [electronics and sounder](../planning/electronics-and-sounder.md) and
 | Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colours, lit-structure targeting in a harbor | bass class, leader stepped up for abrasion | The full night program lives in the technique note; the corpus's biggest sand bass, 9.5 lb, came off the Long Beach break wall (`XyKF34C5iB4`) |
 | Deep spot in 80–120 ft, too much drift or current to hold on a small spot and fish it vertically — the bait has to sink faster | **Knife jig / slow-pitch jig** ([slow-pitch jigging](../techniques/slow-pitch-jigging.md)) — assist hooks at the top, tied to the solid ring; long rod sweeps off the bottom, let it sink on a slack line, wind up 10–15 turns, sink it again | deep-structure bass class, or a 250 g-class SPJ rod, [gear classes](../tackle/gear-classes.md) | On the drop keep it in free spool under minimal thumb pressure: a free fall lets the jig flutter off sideways and scope the line out, while light thumb pressure drops it straight and reaches the bite zone in about half the time. Never drag one on the bottom — these jigs are not made for it (`-eaaWPN5Fxk`). ⚠ Fact-check (single-source): a second corpus mention names sand bass, alongside sculpin, rockfish and lingcod, as a species SPJ is "very effective" for, with no conditions, depth or scenario attached (`7T6dIYqr3KI`) |
 
-[a] The A-rig program — lob cast so the arms don't break off, bites on the
-sink, then a low-and-slow retrieve cruised up through the column while staying
-off the structure — is queued as a species-technique sub-article rather than
-expanded here.
+[a] The full A-rig program — the lob cast and its failure mode, bite handling on
+the sink, the retrieve cadence and column path, and the standoff from structure
+— is in [barred sand bass — Alabama rig](sand-bass-alabama-rig.md).
 [b] The full anchovy program — rod rating and tip action, reel handle leverage,
 leader length, and sizing the lead to conditions — is in
 [barred sand bass — sliding sinker](sand-bass-sliding-sinker.md).
@@ -313,6 +313,7 @@ Trip reports and per-source provenance:
 
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Barred Sand Bass — Alabama rig](sand-bass-alabama-rig.md)
 - [Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)

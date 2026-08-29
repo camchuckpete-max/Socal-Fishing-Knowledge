@@ -181,6 +181,8 @@ bass. Each zone below is a flagged stub in the parent's Zone guides section.
 ## Linked from
 
 - [Barred Sand Bass](../sand-bass.md)
+- [Barred Sand Bass — Alabama rig](../sand-bass-alabama-rig.md)
 - [Barred Sand Bass — sliding sinker](../sand-bass-sliding-sinker.md)
+- [Evidence — Barred Sand Bass — Alabama rig](sand-bass-alabama-rig.md)
 - [Evidence — Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md)
 <!-- backlinks:end -->
