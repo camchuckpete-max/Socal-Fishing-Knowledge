@@ -67,11 +67,12 @@
 - [Evidence — Phenix Axis Rockfishing Rod (Tackle Express)](tackle-express-phenix-axis-rockfish-rod.md) — Per-source provenance for Phenix Axis — Mid-Tier Rockfishing Rod Spec.
 - [Evidence — Premade P-Line Rock Cod Rig (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Per-source provenance for Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop.
 - [Evidence — Rockfish Leader Line (Tackle Express)](tackle-express-rockfish-leader-line.md) — Per-source provenance for Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite.
+- [Evidence — Daiwa Saltiga 300 Round Jigging Reel (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Per-source provenance for Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 63 notes exceed the 30-node cap._
+_Map skipped: 64 notes exceed the 30-node cap._
 <!-- mermaid:end -->
