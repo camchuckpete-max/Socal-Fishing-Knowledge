@@ -110,7 +110,8 @@ program: the flick-behind-the-boat cast, the current wanted so the bait drifts
 back and away from the boat, the thumb-tensioned free-spool sink, working the
 column from near the surface down to the holding depth, and the wind-and-pop
 that converts a follow into a bite are in [white seabass — lead head and
-squid](../species/white-seabass-leadhead-squid.md).
+squid](../species/white-seabass-leadhead-squid.md) (`0PAPH1uqk4A`,
+`Eo_bA8IWvyU`).
 
 ### Dockside leadhead selection
 
