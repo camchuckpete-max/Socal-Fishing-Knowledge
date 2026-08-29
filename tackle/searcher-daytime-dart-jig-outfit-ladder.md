@@ -135,6 +135,7 @@ file](evidence/searcher-daytime-dart-jig-outfit-ladder.md).
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Evidence — Dart Jig — Daytime Finesse Tuna](../techniques/evidence/dart-jig-tuna.md)
 - [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](evidence/searcher-daytime-dart-jig-outfit-ladder.md)
+- [Evidence — Searcher Rail-Rod Ladder — Four Tiers by Line Rating](evidence/searcher-rail-rod-ladder.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)

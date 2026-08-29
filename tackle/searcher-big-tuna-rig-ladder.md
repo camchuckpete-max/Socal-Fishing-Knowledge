@@ -661,6 +661,7 @@ in this note: [evidence file](evidence/searcher-big-tuna-rig-ladder.md).
 - [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
 - [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](evidence/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](evidence/searcher-four-outfit-guadalupe-quiver.md)
+- [Evidence — Searcher Rail-Rod Ladder — Four Tiers by Line Rating](evidence/searcher-rail-rod-ladder.md)
 - [Evidence — Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder](evidence/searcher-big-tuna-rig-ladder.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yo-Yo Iron](../techniques/evidence/yo-yo-iron.md)
