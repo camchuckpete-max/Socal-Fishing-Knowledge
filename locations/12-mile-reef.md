@@ -320,6 +320,7 @@ corpus touches this mark, so there is no evidence file to link.
 
 - [380](380.md)
 - [Anacapa Island](anacapa-island.md)
+- [Channel Islands](channel-islands.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)

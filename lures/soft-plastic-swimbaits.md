@@ -640,6 +640,7 @@ baits and heads from the class terms above; see
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)

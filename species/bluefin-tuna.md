@@ -445,6 +445,7 @@ Trip reports and per-source provenance:
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Chunking](../techniques/chunking.md)
 - [Colonet](../locations/colonet.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

@@ -209,6 +209,7 @@ source provenance: [white seabass evidence](evidence/white-seabass.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Channel Islands](../locations/channel-islands.md)
 - [Evidence — White Seabass — sliding sinker](evidence/white-seabass-sliding-sinker.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->

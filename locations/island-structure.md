@@ -188,6 +188,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
+- [Channel Islands](channel-islands.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)

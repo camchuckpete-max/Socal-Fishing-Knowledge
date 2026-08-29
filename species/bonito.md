@@ -279,6 +279,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dana Point](../locations/dana-point.md)
 - [Ensenada](../locations/ensenada.md)

@@ -165,6 +165,7 @@
 - [Caverns Area](caverns-area.md) **[SoCal only]** — A charted spot at 33°28.579'N 119°03.146'W (cameron), in the Santa Barbara Island zone.
 - [The Caves](caves.md) **[SoCal only]** — A charted spot at 32°48.450'N 118°24.170'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Cedros / San Benitos](cedros-island.md) **[Baja only]** — [Baja only] — the island complex at the south end of Baja Pacific — North: Cedros Island, the San Benito Islands, Geronimo Island and Chester's Rock, with Punta
+- [Channel Islands](channel-islands.md) **[SoCal only]** — The island group at the north end of the Bight, fished out of Ventura and Oxnard.
 - [Cherry Banks](cherry-banks.md) **[SoCal only]** — A charted spot at 32°52.000'N 119°24.800'W (cameron), in the San Nicolas Island zone.
 - [China Point (San Clemente Is.)](china-point.md) **[SoCal only]** — A charted spot at 32°47.750'N 118°26.000'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Church Rock](church-rock.md) **[SoCal only]** — A charted spot at 33°17.750'N 118°19.700'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -436,5 +437,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 423 notes exceed the 30-node cap._
+_Map skipped: 424 notes exceed the 30-node cap._
 <!-- mermaid:end -->

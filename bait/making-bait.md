@@ -279,6 +279,7 @@ shortages, where the barge isn't an option.
 - [Bait Tanks](bait-tanks.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)

@@ -81,6 +81,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

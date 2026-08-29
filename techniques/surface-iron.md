@@ -484,6 +484,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Desperation Reef](../locations/desperation-reef.md)

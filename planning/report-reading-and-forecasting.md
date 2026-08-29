@@ -120,6 +120,7 @@ Trip reports and per-source provenance:
 - [August](../seasonal/august.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)

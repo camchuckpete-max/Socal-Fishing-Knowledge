@@ -291,6 +291,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Colonet](../locations/colonet.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Dana Point](../locations/dana-point.md)

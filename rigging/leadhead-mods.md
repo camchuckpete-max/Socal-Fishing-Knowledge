@@ -199,6 +199,7 @@ Trip reports and per-source provenance: [evidence file](evidence/leadhead-mods.m
 ## Linked from
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — Leadhead Mods & Rigging](evidence/leadhead-mods.md)
 - [Evidence — White Seabass — dropper loop](../species/evidence/white-seabass-dropper-loop.md)

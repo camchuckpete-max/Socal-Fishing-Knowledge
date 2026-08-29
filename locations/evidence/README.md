@@ -27,6 +27,7 @@
 - [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
 - [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
 - [Evidence — Cedros / San Benitos](cedros-island.md) — The observation layer behind Cedros / San Benitos.
+- [Evidence — Channel Islands](channel-islands.md) — Provenance for Channel Islands.
 - [Evidence — Colonet](colonet.md) — The observation layer behind Colonet.
 - [Evidence — The Corner / 140 / 182](corner-140-182.md) — Provenance for The Corner / 140 / 182.
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
@@ -71,5 +72,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 61 notes exceed the 30-node cap._
+_Map skipped: 62 notes exceed the 30-node cap._
 <!-- mermaid:end -->

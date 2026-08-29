@@ -407,6 +407,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Colonet](../locations/colonet.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

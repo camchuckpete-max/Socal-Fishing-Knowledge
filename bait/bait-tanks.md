@@ -238,6 +238,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bait-tanks.md).
 - [Anacapa Island](../locations/anacapa-island.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Chunking](../techniques/chunking.md)
 - [Dana Point](../locations/dana-point.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)

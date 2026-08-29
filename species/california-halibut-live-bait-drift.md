@@ -160,6 +160,7 @@ California halibut source provenance:
 
 - [California Halibut](california-halibut.md)
 - [California Halibut — surf lures](california-halibut-surf-lures.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Evidence — California Halibut — live-bait drift](evidence/california-halibut-live-bait-drift.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->

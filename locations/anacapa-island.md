@@ -195,5 +195,6 @@ species, in the
 <!-- backlinks:start -->
 ## Linked from
 
+- [Channel Islands](channel-islands.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

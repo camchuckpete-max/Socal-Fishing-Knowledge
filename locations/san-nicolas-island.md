@@ -233,6 +233,7 @@ Trip reports and per-source provenance:
 - [Airplane Rock](airplane-rock.md)
 - [Anacapa Island](anacapa-island.md)
 - [Blockhouse](blockhouse.md)
+- [Channel Islands](channel-islands.md)
 - [Cherry Banks](cherry-banks.md)
 - [Daytona Beach](daytona-beach.md)
 - [Daytona WSB zone](daytona-wsb-zone.md)

@@ -571,6 +571,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [California Sheephead](../species/sheephead.md)
 - [California Sheephead — sliding sinker](../species/sheephead-sliding-sinker.md)
+- [Channel Islands](../locations/channel-islands.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)
 - [Cortez South](../locations/cortez-south.md)
