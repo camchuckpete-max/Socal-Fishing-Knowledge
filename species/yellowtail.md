@@ -472,6 +472,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)

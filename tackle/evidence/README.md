@@ -22,6 +22,7 @@
 - [Evidence — Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Per-source provenance for rod length — fitting the stick to the angler: channel status, upload dates, and corroboration-strength notes the main note's prose gav
 - [Evidence — Searcher 30 lb Large-Tuna Outfit](searcher-30lb-large-tuna-outfit.md) — Per-source provenance for Searcher 30 lb large-tuna outfit: channel status, registration confidence, upload dates, and the single-trip 95 lb-tuna observation th
 - [Evidence — Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md) — Per-source provenance for Searcher 40 lb all-around tuna outfit: channel status, registration confidence, upload dates, ASR-uncertain reasoning, and the single-
+- [Evidence — Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md) — Per-source provenance for Searcher 50/60/80 lb live-bait flyline outfit: channel status, registration confidence, and the ASR-uncertain caption readings the mai
 <!-- index:end -->
 
 

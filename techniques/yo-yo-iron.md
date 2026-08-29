@@ -339,7 +339,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
