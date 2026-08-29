@@ -41,31 +41,32 @@ separates it from a long random sand drift (`OpcKQPA3vAI`); the drift-line
 geometry and the give-it-20–30-minutes rule are in
 [California halibut — finding them](california-halibut.md#finding-them-sign--sonar).
 
-**Squid on the island beds is the same drift with a different hook.** When
+**Squid at the islands is the same drift with a different hook.** When
 squid is what the fish are on, the trap comes apart and a single J carries the
 bait — see [Rigs & gear](#rigs--gear).
 
 ## How California halibut changes the execution
 
 **The rig is fished straight up and down, not trailed.** Maintaining bottom
-contact with the rig vertical under the rod tip is called the basis of the
-whole build, because it is the only way the bite registers (`a5u8BaYzw8c`).
+contact with the rig vertical under the rod tip is the basis of the whole
+build, because it is the only way the bite registers (`a5u8BaYzw8c`).
 That is the opposite of the general slider's wafting bait riding back behind
 the lead.
 
 **A short fluorocarbon leader — 2½ to 3 ft at most, of 25–30 lb** (15 lb in
-the bay) — is called very important (`a5u8BaYzw8c`). The stated evidence is
-outcome, not mechanism: across many trips "the only guy that to not catch a
-fish was the one guy using straight mono," with no explanation offered beyond
-the fluorocarbon being stiffer and doing "something" to the bait's
-presentation (`a5u8BaYzw8c`).
+the bay) — is very important (`a5u8BaYzw8c`). The evidence for it is outcome,
+not mechanism: across many trips "the only guy to not catch a fish was the one
+guy using straight mono," and no mechanism is established beyond the
+fluorocarbon being stiffer and doing "something" to the bait's presentation
+(`a5u8BaYzw8c`).
 
 **Sinker shape is a halibut-specific choice: ball or cannonball over torpedo.**
 Torpedo sinkers are the habit; ball weights are the borrowed commercial
 practice, because they bounce on the bottom rather than burying in the mud,
 disrupt the bottom, and "kick that halibut up off the mud" (`a5u8BaYzw8c`).
-The source flags the kick-them-up half as possibly just his own theory and
-fishes them anyway.
+The bounce-rather-than-bury behaviour is the established half; kicking a
+halibut up off the mud is stated as a theory rather than a demonstrated
+effect, and does not change the shape choice (`a5u8BaYzw8c`).
 
 **Sinker weight is set by depth and current, not by a default.** **1–1½ oz** in
 the bay; **4–6 oz** as the offshore starting point; up to **10 oz** when the
@@ -131,14 +132,14 @@ free-sliding Carolina format and how to feed a bite, and
   (`a5u8BaYzw8c`).
 - **The bite is not fed.** The general note's advantage is the free take — give
   slack, let the fish turn. On this build the instruction is to lift and keep
-  winding on the first pressure change (`a5u8BaYzw8c`). The two are not
-  reconciled here: they are different rig formats, and the free-take logic
-  depends on a weight the fish can pull line through.
+  winding on the first pressure change (`a5u8BaYzw8c`). These are different rig
+  formats: the free-take logic depends on a weight the fish can pull line
+  through, which a three-way does not give it.
 - **Sinker shape is argued the other way.** The Sea of Cortez grouper build on
   the general note prefers sliding egg sinkers and treats a torpedo on a short
   breakaway as the fallback; the halibut build prefers ball/cannonball for the
-  mud-bounce (`a5u8BaYzw8c`). Different bottoms, different fish, kept side by
-  side.
+  mud-bounce (`a5u8BaYzw8c`). Different bottoms, different fish — pick by which
+  the sinker has to sit on.
 - **It supplies the hook sizes the rig note records as unknown.** Size 2/6
   offshore and 2/8 in the bay, plus the 4/0–5/0 single for squid, against
   [trap rig](../rigging/trap-rig.md)'s halibut build, which names the hook

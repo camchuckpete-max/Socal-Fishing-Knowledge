@@ -195,8 +195,8 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 | **Squid available at the islands** | [Sliding sinker](../techniques/sliding-sinker.md) or a dropped squid on a single J, no stinger | 30 lb bait class | Squid needs solid purchase in the nose, so the trap's treble comes off — hook size in [live-bait drift](california-halibut-live-bait-drift.md) (`a5u8BaYzw8c`) |
 | **Artificial, covering water on short drifts** | [Drop-shot](../techniques/drop-shot.md) a plastic near the bottom | [Light spinning class](../tackle/gear-classes.md) | Keeps the bait in the strike zone on the edge; picks apart bubbler zones and rockpiles instead of long straight drifts |
 | **Casting from the surf** | [Drop-shot](../techniques/drop-shot.md) on a drag-then-shake cadence | Light spinning class | Drag it the length of the fish you want (**22–30 in**), then shake the slack while reeling so the whole lure moves forward; a halibut within **3–4 ft** comes over to look (`9qwsg-e9ECA`) |
-| **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; a deeper diver digs into the sand there and does not get bit (`E4CDqBFOaP8`) [c] |
-| **Open flats, casting from a boat or from shore** | Fast-retrieve hard bait — a crankbait or jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | [Crank class](../tackle/gear-classes.md) | Halibut chase it down and commit hard once it is moving (`46ha7J1Fc6A`) [d] |
+| **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; a deeper diver digs into the sand there and does not get bit (`E4CDqBFOaP8`) [b] |
+| **Open flats, casting from a boat or from shore** | Fast-retrieve hard bait — a crankbait or jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | [Crank class](../tackle/gear-classes.md) | Halibut chase it down and commit hard once it is moving (`46ha7J1Fc6A`) [c] |
 | **Deeper than a shallow hardbait can run without digging in** | [Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom, repeat | Leadhead + soft-plastic swimbait class | A **3-in** swimbait covers about **90%** of deeper fishing and smaller baits are favored in the harbor; ineffective from the beach, where a leadhead returns to bottom too fast for a mid-column swim (`OURS05qEGcA`, `fHMwcm1xRQk`) |
 | **Drifting a squid nest or sonar mark with the bait rail stacked on the wind-face side**, fish willing to chase | Cast a **white fluke to the flanks** rather than crowding the rail | Baitcaster / [bass class](../tackle/gear-classes.md) | As the boat drifts toward the flanking caster, the fluke reaches a chasing fish before the rail's dropper-loop and trap rigs do; an inactive fish that will only eat bait still gets caught eventually — worked example in [swimbaits](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (`hjZ3hgq0Bzg`) |
 | **Open bay or beach water, multi-bait reaction rig wanted** | **A-rig** (Warbaits mini rig), worked aggressive **from the first cast** | Heavier [bass class](../tackle/gear-classes.md) A-rig variant — hardware in [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) | Do not start slow and work up to aggressive; halibut chase the rig down rather than eating it dead-slow on the bottom (`eOLoHxoqk6E`) |
@@ -206,10 +206,10 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 cannonball sinker shape and its weight band, the straight-up-and-down rig
 attitude and the bite read — is in
 [California halibut — live-bait drift](california-halibut-live-bait-drift.md).
-[c] Past that depth the call is to switch presentations, not just lures: at
+[b] Past that depth the call is to switch presentations, not just lures: at
 **10 ft** the leadhead-and-swimbait row above is stated to be much more
 effective (`E4CDqBFOaP8`).
-[d] **Catalina** is the named place this has produced, and the same fast
+[c] **Catalina** is the named place this has produced, and the same fast
 retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
 
 ## Gear summary (class terms)
