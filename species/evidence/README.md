@@ -13,6 +13,7 @@
 - [Evidence — Cabrilla (Leopard Grouper)](cabrilla.md) — Trip reports and per-source provenance backing cabrilla.
 - [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md) — Trip reports and per-source provenance backing calico bass — surface iron.
 - [Evidence — Calico Bass (Kelp Bass)](calico-bass.md) — Trip reports and per-source provenance backing calico bass.
+- [Evidence — California Halibut — live-bait drift](california-halibut-live-bait-drift.md) — Trip reports and per-source provenance backing California halibut — live-bait drift.
 - [Evidence — California Halibut](california-halibut.md) — Trip reports and per-source provenance backing California halibut.
 - [Evidence — California Spiny Lobster](california-spiny-lobster.md) — Trip reports and per-source provenance backing California spiny lobster.
 - [Evidence — Dorado (Mahi-Mahi)](dorado.md) — Trip reports and per-source provenance backing dorado.
@@ -49,35 +50,38 @@ graph LR
   n6["Evidence — Cabrilla (Leopard Grouper)"]
   n7["Evidence — Calico Bass — surface iron"]
   n8["Evidence — Calico Bass (Kelp Bass)"]
-  n9["Evidence — California Halibut"]
-  n10["Evidence — California Spiny Lobster"]
-  n11["Evidence — Dorado (Mahi-Mahi)"]
-  n12["Evidence — Ocean Whitefish"]
-  n13["Evidence — Opah"]
-  n14["Evidence — Pacific Crevalle Jack"]
-  n15["Evidence — Rockfish & Lingcod"]
-  n16["Evidence — Barred Sand Bass"]
-  n17["Evidence — California Sheephead"]
-  n18["Evidence — Skipjack Tuna"]
-  n19["Evidence — Snook (Robalo)"]
-  n20["Evidence — Spotted Bay Bass"]
-  n21["Evidence — Striped Marlin"]
-  n22["Evidence — Swordfish (Broadbill)"]
-  n23["Evidence — Wahoo"]
-  n24["Evidence — White Seabass"]
-  n25["Evidence — Yellowfin Tuna"]
-  n26["Evidence — Yellowtail — surface iron"]
-  n27["Evidence — Yellowtail"]
-  n14 --> n11
-  n16 --> n8
-  n17 --> n12
-  n17 --> n15
-  n17 --> n27
+  n9["Evidence — California Halibut — live-bait drift"]
+  n10["Evidence — California Halibut"]
+  n11["Evidence — California Spiny Lobster"]
+  n12["Evidence — Dorado (Mahi-Mahi)"]
+  n13["Evidence — Ocean Whitefish"]
+  n14["Evidence — Opah"]
+  n15["Evidence — Pacific Crevalle Jack"]
+  n16["Evidence — Rockfish & Lingcod"]
+  n17["Evidence — Barred Sand Bass"]
+  n18["Evidence — California Sheephead"]
+  n19["Evidence — Skipjack Tuna"]
+  n20["Evidence — Snook (Robalo)"]
+  n21["Evidence — Spotted Bay Bass"]
+  n22["Evidence — Striped Marlin"]
+  n23["Evidence — Swordfish (Broadbill)"]
+  n24["Evidence — Wahoo"]
+  n25["Evidence — White Seabass"]
+  n26["Evidence — Yellowfin Tuna"]
+  n27["Evidence — Yellowtail — surface iron"]
+  n28["Evidence — Yellowtail"]
+  n10 --> n9
+  n15 --> n12
   n17 --> n8
+  n18 --> n13
+  n18 --> n16
+  n18 --> n28
+  n18 --> n8
   n4 --> n6
   n5 --> n6
   n6 --> n4
   n7 --> n8
   n8 --> n7
+  n9 --> n10
 ```
 <!-- mermaid:end -->

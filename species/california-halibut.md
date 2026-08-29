@@ -190,9 +190,9 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Structure edge in current**, drifting fin bait | [Trap rig](../rigging/trap-rig.md) live-bait drift off a three-way with a breakaway sinker | [30 lb bait class](../tackle/gear-classes.md) at the islands; 15 lb inshore in the bay | Mono for stretch on the bolting run; **2½–3 ft of 25–30 lb fluorocarbon** leader; ball/cannonball sinkers bounce instead of burying and kick the fish up off the mud (`a5u8BaYzw8c`) [a] |
-| **Bay or harbor channel edge, 8–15 ft**, live bait | Same trap rig, downsized | 15 lb fluoro, 200-class inshore reel ([gear classes](../tackle/gear-classes.md)) | Maintain bottom contact with the rig **straight up and down**; the bite is subtle, often just a "dragging through kelp" feel — lift and wind, never swing (`a5u8BaYzw8c`) [b] |
-| **Squid available at the islands** | [Sliding sinker](../techniques/sliding-sinker.md) or a dropped squid on a single **4/0–5/0 J**, no stinger | 30 lb bait class | Squid needs solid purchase in the nose, so the trap's treble comes off (`a5u8BaYzw8c`) |
+| **Structure edge in current**, drifting fin bait | [Live-bait drift](california-halibut-live-bait-drift.md) — a [trap rig](../rigging/trap-rig.md) off a three-way with a breakaway sinker | [30 lb bait class](../tackle/gear-classes.md) at the islands; 15 lb inshore in the bay | Mono for stretch on the bolting run (`a5u8BaYzw8c`); leader, hook pairing, sinker shape and weight band are in the sub-article [a] |
+| **Bay or harbor channel edge, 8–15 ft**, live bait | Same [live-bait drift](california-halibut-live-bait-drift.md) trap rig, downsized | 15 lb fluoro, 200-class inshore reel ([gear classes](../tackle/gear-classes.md)) | Fished the same way as the island build, one hook size smaller (`a5u8BaYzw8c`); rig attitude and the subtle bite read are in the sub-article [a] |
+| **Squid available at the islands** | [Sliding sinker](../techniques/sliding-sinker.md) or a dropped squid on a single J, no stinger | 30 lb bait class | Squid needs solid purchase in the nose, so the trap's treble comes off — hook size in [live-bait drift](california-halibut-live-bait-drift.md) (`a5u8BaYzw8c`) |
 | **Artificial, covering water on short drifts** | [Drop-shot](../techniques/drop-shot.md) a plastic near the bottom | [Light spinning class](../tackle/gear-classes.md) | Keeps the bait in the strike zone on the edge; picks apart bubbler zones and rockpiles instead of long straight drifts |
 | **Casting from the surf** | [Drop-shot](../techniques/drop-shot.md) on a drag-then-shake cadence | Light spinning class | Drag it the length of the fish you want (**22–30 in**), then shake the slack while reeling so the whole lure moves forward; a halibut within **3–4 ft** comes over to look (`9qwsg-e9ECA`) |
 | **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; a deeper diver digs into the sand there and does not get bit (`E4CDqBFOaP8`) [c] |
@@ -202,11 +202,10 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 | **Open bay or beach water, multi-bait reaction rig wanted** | **A-rig** (Warbaits mini rig), worked aggressive **from the first cast** | Heavier [bass class](../tackle/gear-classes.md) A-rig variant — hardware in [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) | Do not start slow and work up to aggressive; halibut chase the rig down rather than eating it dead-slow on the bottom (`eOLoHxoqk6E`) |
 | **Covering flats under power** (no drift-friendly wind or current) | **⚠ Flagged stub — no corpus source yet.** Bounce-ball trolling — a trolled ball weight ticking the sand ahead of a hoochie or swimbait | [Light troll class](../tackle/gear-classes.md) | Bounce-balling is named only in passing, as an alternative to drifting, and the instruction attached to it is to isolate structure and pick it apart rather than bounce-ball a straight line for an extended period (`OpcKQPA3vAI`); no execution parameters are recorded. Stubbed per the router rule so silence does not read as "not a method" |
 
-[a] Sinker weight is set by depth and current: **1–1½ oz** in the bay, **4–6 oz**
-starting offshore, up to **10 oz** when the current is ripping (`a5u8BaYzw8c`).
-[b] The "kelp" feel is about **60%** actual kelp and **25–30%** a halibut
-carrying the bait without a tap, so respond to any pressure change
-(`a5u8BaYzw8c`).
+[a] The full program — leader length and class, trap-hook pairing, ball/
+cannonball sinker shape and its weight band, the straight-up-and-down rig
+attitude and the bite read — is in
+[California halibut — live-bait drift](california-halibut-live-bait-drift.md).
 [c] Past that depth the call is to switch presentations, not just lures: at
 **10 ft** the leadhead-and-swimbait row above is stated to be much more
 effective (`E4CDqBFOaP8`).
@@ -225,11 +224,11 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
   leadhead swimbaits from the beach; a heavier "striper rod" class (~9'6")
   steps up for weedless swimbaits and bigger plugs in kelp (`fHMwcm1xRQk`) —
   see [surf halibut rod lineup](../tackle/tackle-express-surf-halibut-rod-lineup.md).
-- **Terminal:** [trap rig](../rigging/trap-rig.md) — a stout bait hook up front
-  plus a 3–4X-strong treble stinger, **size 2 front / size 6 rear** offshore
-  and **size 2 / size 8** in the bay — off a three-way with a breakaway clip so
-  sinkers swap by depth and current; fluorocarbon leader always;
-  **ball/cannonball sinkers 1–10 oz** to the conditions (`a5u8BaYzw8c`).
+- **Terminal:** a [trap rig](../rigging/trap-rig.md) off a three-way with a
+  breakaway clip so sinkers swap by depth and current, on a short fluorocarbon
+  leader (`a5u8BaYzw8c`). Hook pairing by size, leader length and class, and
+  the sinker shape and weight band are in
+  [live-bait drift](california-halibut-live-bait-drift.md).
 - **Hooks on hard baits:** a stock **size six treble** is effectively a trout
   hook in a 15-lb game fish, so a big fish on one is a gamble; the swap is a
   soft-plastic rig with the same swimming action on one big single hook
@@ -333,7 +332,8 @@ Section order below is not a ranking.
 - **Hook-set depends on what it ate.** On a lure the bite is a distinct thump:
   point the rod, wind fast until the line comes tight, and only then swing —
   the slack has to come out first (`dWqD8l3jW6w`). On bait the bite is subtle,
-  so lift and wind rather than swinging (`a5u8BaYzw8c`).
+  so lift and wind rather than swinging (`a5u8BaYzw8c`) — how the take reads on
+  the drift is in [live-bait drift](california-halibut-live-bait-drift.md).
 - **Gaffing:** a **3-in hook on a ~6-ft gaff** covers halibut up to 40–50 lb —
   orientation and safety in [gaffing](../fish-care/gaffing.md).
 - **Releasing:** large-hole poly rope nets let a halibut's fins pass through
@@ -359,6 +359,7 @@ Trip reports and per-source provenance:
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
+- [California Halibut — live-bait drift](california-halibut-live-bait-drift.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

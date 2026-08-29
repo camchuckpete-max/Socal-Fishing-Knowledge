@@ -73,6 +73,7 @@ Hookers, 2025-05-20) — the grouper build, [00:09:48]-[00:10:27].
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

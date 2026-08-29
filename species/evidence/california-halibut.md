@@ -146,25 +146,11 @@ beside that doctrine in the parent.
 ## Situations → techniques
 
 - `a5u8BaYzw8c` (BDOutdoors, Nate Winnicki of Pacific Coast Bait and Tackle,
-  2023-09-13, "Rigging up for Halibut: Best Ways to Fish a Live Bait"):
-  the full live-bait rig walkthrough — Calstar 800M / Fathom 25 star drag with
-  **30 lb mono** for stretch on the bolting runs; Spro three-way swivel; Rosco
-  breakaway clip; **2½–3 ft of 25–30 lb fluorocarbon** (Seaguar gold or green
-  label), called very important on the stated evidence that across many trips
-  "the only guy to not catch a fish was the one guy using straight mono," with
-  no mechanism claimed beyond the fluorocarbon being stiffer and doing
-  "something" to the bait's presentation; trap rig of a Mustad 94150 bait hook
-  up front and a **4X-strong
-  Kingfish treble** behind, **size 2 front / size 6 rear** offshore and
-  **size 2 / size 8** in the bay; a single **4/0–5/0 J** with no stinger for
-  squid; torpedo sinkers by habit but **cannonball/ball weights** preferred
-  after commercial practice because they bounce rather than bury in the mud and
-  "kick that halibut up off the mud" (stated by the source as possibly just his
-  own theory); **1–1½ oz** in the bay, **4–6 oz** starting offshore and up to
-  **10 oz** in ripping current. Bite feel: a nervous bait usually precedes the
-  bite; the take is often just "dragging along and you've hit a patch of kelp,"
-  which he puts at about **60%** actual kelp and **25–30%** a halibut carrying
-  the bait — lift and wind, never smack it like a spotty or a largemouth.
+  2023-09-13, "Rigging up for Halibut: Best Ways to Fish a Live Bait"): the
+  full live-bait rig walkthrough — leader, hook pairing, sinker shape and
+  weight band, rig attitude and the bite read — moved with the program to
+  [California halibut — live-bait drift
+  evidence](california-halibut-live-bait-drift.md#how-california-halibut-changes-the-execution).
 - `9qwsg-e9ECA` (Tackle Express, 2026-02-07, "Unlock the Secret Halibut Rhythm
   for Massive Surf Catches"; unregistered channel — medium confidence): the
   surf drop-shot cadence — cast, put it in gear, drag it "about the length of
@@ -311,4 +297,6 @@ Parked for the zone guides the parent note stubs out:
 ## Linked from
 
 - [California Halibut](../california-halibut.md)
+- [California Halibut — live-bait drift](../california-halibut-live-bait-drift.md)
+- [Evidence — California Halibut — live-bait drift](california-halibut-live-bait-drift.md)
 <!-- backlinks:end -->

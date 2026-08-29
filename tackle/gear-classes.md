@@ -186,6 +186,7 @@ file](evidence/gear-classes.md).
 - [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

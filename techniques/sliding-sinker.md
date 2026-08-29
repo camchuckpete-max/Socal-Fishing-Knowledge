@@ -341,6 +341,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 <!-- species-applications:start -->
 ## Species applications
 
+- [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -350,6 +351,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Sheephead](../species/sheephead.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
