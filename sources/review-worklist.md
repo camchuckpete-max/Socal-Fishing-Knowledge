@@ -283,7 +283,7 @@ by their builders after the transform phase drains.
 | locations/east-of-pukey-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/middle-grounds.md | gazetteer | transformed |  | gazetteer page verified; distances/coords recomputed correct; one false no-corpus-source gap flag corrected; 4pT0efBD1j0 observation captured in new evidence file |
 | locations/farnsworth-bank.md | gazetteer | escalated |  | escalated: guard: out of scope for 'review: locations/farnsworth-bank.md': locations/catalina-island-backside.md |
-| locations/pyramid-head.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/pyramid-head.md | gazetteer | done | gaps:4 stubs:2 | spot page written: 4 skeleton sections filled from 2 named-at-the-spot trips (2017-06-09 live-squid mixed bite yuXr3IJ8ybg; 2014-11-03 east-end yellowfin Ow3an9lSVh4) plus zone-level access and the cameron bank-geometry distances; 6 species rows (yellowtail, yellowfin, bonito, calico, white seabass stub, barracuda/rockfish stub); 4 gaps, 2 stubs, depth/distance unknown |
 | locations/mackerel-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/desperation-reef.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |

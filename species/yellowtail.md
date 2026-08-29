@@ -470,6 +470,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Point Loma](../locations/point-loma.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Punta Banda / Santo Tomas](../locations/punta-banda-santo-tomas.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)

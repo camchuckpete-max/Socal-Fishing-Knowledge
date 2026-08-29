@@ -324,6 +324,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [October](../seasonal/october.md)
 - [Point Loma](../locations/point-loma.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

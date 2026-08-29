@@ -166,5 +166,6 @@ footage (`lxFNVdDhMy4`).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Pyramid Head](../../locations/pyramid-head.md)
 - [Skipjack Tuna](../skipjack-tuna.md)
 <!-- backlinks:end -->

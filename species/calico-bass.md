@@ -434,6 +434,7 @@ Trip reports and per-source provenance:
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
 - [Point Loma](../locations/point-loma.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)

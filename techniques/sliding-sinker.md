@@ -305,6 +305,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

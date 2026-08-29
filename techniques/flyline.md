@@ -853,6 +853,7 @@ confidence.
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

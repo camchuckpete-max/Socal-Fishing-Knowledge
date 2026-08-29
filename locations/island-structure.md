@@ -204,6 +204,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Pyramid Head](pyramid-head.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)

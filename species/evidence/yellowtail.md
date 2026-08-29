@@ -190,6 +190,7 @@ nothing was deleted, only moved.
 - [Evidence — Yellowtail — knife / speed jigging](yellowtail-knife-jigging.md)
 - [Evidence — Yellowtail — tube-bait fishing](yellowtail-tube-bait-fishing.md)
 - [Guadalupe](../../locations/guadalupe.md)
+- [Pyramid Head](../../locations/pyramid-head.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)
 - [Yellowtail](../yellowtail.md)

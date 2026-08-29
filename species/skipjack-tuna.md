@@ -242,6 +242,7 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 - [Evidence — Skipjack Tuna](evidence/skipjack-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)

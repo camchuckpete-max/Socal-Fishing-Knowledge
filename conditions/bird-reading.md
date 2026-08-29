@@ -189,6 +189,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bird-reading.md
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Point Loma](../locations/point-loma.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

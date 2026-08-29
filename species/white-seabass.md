@@ -366,6 +366,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Moon](../conditions/moon.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [October](../seasonal/october.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

@@ -212,6 +212,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

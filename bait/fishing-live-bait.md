@@ -488,6 +488,7 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Making Bait](making-bait.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
+- [Pyramid Head](../locations/pyramid-head.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)

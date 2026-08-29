@@ -215,6 +215,7 @@ Charted positions for all seven spots are in
 <!-- children:start -->
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
+- [Pyramid Head](pyramid-head.md)
 - [Pyramid Reef](pyramid-reef.md)
 <!-- children:end -->
 
@@ -234,6 +235,7 @@ Trip reports and per-source provenance:
 - [Island Structure](island-structure.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
+- [Pyramid Head](pyramid-head.md)
 - [Pyramid Reef](pyramid-reef.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Southern California Bight](socal-bight.md)

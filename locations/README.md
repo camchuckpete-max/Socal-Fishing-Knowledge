@@ -326,6 +326,7 @@
 - [Punta Santo Tomas](punta-santo-tomas.md) **[Baja only]** — A charted spot at 31°33.270'N 116°41.400'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [Purse Seine Rock](purse-seine-rock.md) **[SoCal only]** — A charted spot at 32°52.292'N 118°24.771'W (cameron), in the San Clemente Island — Front Side (N→S) zone.
 - [Pyramid Cove](pyramid-cove.md) **[SoCal only]** — A charted spot at 32°49.000'N 118°23.000'W (cameron), in the San Clemente Island — Front Side (N→S) zone.
+- [Pyramid Head](pyramid-head.md) **[SoCal only]** — The southeast tip of San Clemente Island at 32°48.920'N 118°21.250'W (cameron), the last mark on the front-side run N→S and the corpus's producing end of that s
 - [Pyramid Reef](pyramid-reef.md) **[SoCal only]** — A charted spot at 32°49.000'N 118°21.500'W (cameron), in the San Clemente Island — Front Side (N→S) zone.
 - [Red Bluff](red-bluff.md) **[SoCal only]** — A charted spot at 33°25.822'N 118°26.119'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer a fish or a technique that doesn't exist where the angler is going.
@@ -431,5 +432,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 418 notes exceed the 30-node cap._
+_Map skipped: 419 notes exceed the 30-node cap._
 <!-- mermaid:end -->
