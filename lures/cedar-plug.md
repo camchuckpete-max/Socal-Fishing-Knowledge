@@ -90,6 +90,7 @@ holder pairing, are in
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](iron-jigs.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)

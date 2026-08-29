@@ -147,5 +147,6 @@ carries doctrine, only what was done and what it produced.
 ## Linked from
 
 - [Honeymoon Bay](../honeymoon-bay.md)
+- [Isla Monserrat — north end](../isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../loreto.md)
 <!-- backlinks:end -->

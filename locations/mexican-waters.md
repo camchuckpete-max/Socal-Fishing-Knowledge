@@ -127,6 +127,7 @@ Trip reports and per-source provenance:
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [Isla Espíritu Santo](isla-espiritu-santo.md)
+- [Isla Monserrat — north end](isla-monserrat-north-end.md)
 - [La Bocana](la-bocana.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [La Paz](la-paz.md)

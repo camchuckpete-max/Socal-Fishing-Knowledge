@@ -456,6 +456,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Island Structure](../locations/island-structure.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)

@@ -364,6 +364,7 @@ Trip reports and per-source provenance:
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

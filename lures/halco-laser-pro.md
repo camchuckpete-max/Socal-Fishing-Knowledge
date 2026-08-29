@@ -85,6 +85,7 @@ file](evidence/halco-laser-pro.md).
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Evidence — Halco Laser Pro](evidence/halco-laser-pro.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Middle Grounds](../locations/middle-grounds.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

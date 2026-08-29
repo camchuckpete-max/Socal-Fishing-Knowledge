@@ -202,6 +202,7 @@ Trip reports and per-source provenance:
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Pacific Crevalle Jack](evidence/pacific-crevalle-jack.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

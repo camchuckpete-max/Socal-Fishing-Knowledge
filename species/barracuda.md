@@ -259,6 +259,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [La Bocana](../locations/la-bocana.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)

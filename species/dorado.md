@@ -288,6 +288,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Bocana](../locations/la-bocana.md)

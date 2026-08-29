@@ -354,6 +354,7 @@ Trip reports and per-source provenance:
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)

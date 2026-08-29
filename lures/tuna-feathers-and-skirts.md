@@ -143,6 +143,7 @@ file](evidence/tuna-feathers-and-skirts.md).
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Tuna Feathers and Skirts](evidence/tuna-feathers-and-skirts.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
