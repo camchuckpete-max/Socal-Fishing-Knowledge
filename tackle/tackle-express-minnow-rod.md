@@ -3,54 +3,54 @@ type: tackle
 tags: [spinning-rod, rod-selection, minnow, finesse, tackle-express]
 sources: [Pxky7drjPkU]
 confidence: medium
+layout: v2
 ---
 
 # Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)
 
-Tackle Express, "The essential rod for vertical minnow fishing is revealed!,"
-`Pxky7drjPkU`, uploaded 2026-02-13 — a 34-second tackle-counter clip.
-`tackle-express` is an **unregistered** channel, single mention — **medium**
-confidence for the mechanism/parameter; the specific rod model named on
-camera is not independently verified (see below).
+"Minnow-style" bait fishing is a versatile, go-to presentation — described on
+camera as the "small block Chevy" of that bait category, not a niche method
+(`Pxky7drjPkU`). The rod pick for it is a medium to medium-light power spinning
+rod. No species, location, or retrieve/rigging mechanics for the technique
+itself are given, so this note carries the rod pick only.
 
-## What's claimed
+## Rod pick
 
-- **"Minnow style" bait fishing** is described on camera as the "small block
-  Chevy" of that bait category — i.e., the versatile, go-to workhorse
-  presentation, not a niche one. No species, location, or specific technique
-  mechanics (retrieve, depth, rigging) are given anywhere in this short clip.
-- **Recommended rod: a spinning rod, medium to medium-light power.**
-- **Stated tip character and reasoning:** the tip is "just stiff enough" to
-  handle the bait, but keeps "a little bit of bend to it" — the stated
-  benefit is that once a fish is pegged (hooked), the angler can **keep a
-  good load on the rod** and "get it through the..." The clip's audio cuts
-  off mid-sentence at that point, so what the fish is worked through (cover,
-  structure, the boat's gear, etc.) is **not stated on camera and not
-  inferred here.**
-- **Rod model:** named on camera, auto-captioned as **"IRD Corkus 702"** —
-  this is not a brand/model the KB can independently confirm from auto-
-  generated captions, so it is **not** carried as a verified product name;
-  flagged `asr-uncertain`. The recommendation to take away is the power
-  class (medium/medium-light spinning) and the tip-character reasoning, not
-  this specific product string.
+- **Medium to medium-light power spinning rod.** The tip needs to be stiff
+  enough to handle the bait but keep enough bend that, once a fish is hooked,
+  the angler can keep a good load on the rod and work the fish through it —
+  the clip's audio cuts off before naming what "it" is (cover, structure, the
+  boat's gear) (`Pxky7drjPkU`). ⚠ asr-uncertain: what the fish is worked
+  through is not stated on camera.
+- The rod model named on camera is auto-captioned "IRD Corkus 702" — not
+  independently confirmed as a real brand/model from auto-generated captions,
+  so it is not carried as a verified product name (`Pxky7drjPkU`). ⚠
+  asr-uncertain: model name unresolved. The takeaway is the power class and
+  tip-character reasoning, not this specific product string.
 
 ## Related
 
 - [Leadhead swimbait retrieve — rod flexibility](../techniques/leadhead-swimbait-retrieve.md#gear-class) —
-  a separate, longer Tackle Express clip (different video, `Oi5n-uVpY9g`)
-  where the same channel frames rod choice loosely for a swimbait/finesse
-  presentation, including a "big spinning rod" pick for shallow-water
-  California halibut. **Not confirmed as the same presenter, technique, or
-  species as this clip** — kept as a separate citation rather than merged.
-- [Gear classes](gear-classes.md#rod--reel-classes) — the **light spinning
-  class** and **finesse fly-line class** rows are the closest existing
-  class-lexicon entries for a medium/medium-light spinning rod; this clip
-  doesn't give enough context (no line class, no species) to confidently
-  fold it into either row, so it stays a standalone citation.
+  the same channel frames rod choice loosely for a swimbait/finesse
+  presentation in a separate, longer clip (`Oi5n-uVpY9g`), including a "big
+  spinning rod" pick for shallow-water California halibut; presenter,
+  technique, and species are not confirmed as the same, so the two stay
+  separate citations rather than merged.
+- [Gear classes](gear-classes.md#rod--reel-classes) — the light spinning class
+  and finesse fly-line class rows are the closest existing class-lexicon
+  entries for a medium/medium-light spinning rod; this clip lacks the line
+  class and species needed to fold it confidently into either row, so it
+  stays a standalone citation.
+
+## Evidence
+
+Per-source provenance and channel-registration detail: [evidence
+file](evidence/tackle-express-minnow-rod.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Spinning Rod for "Minnow-Style" Fishing (Tackle Express)](evidence/tackle-express-minnow-rod.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 <!-- backlinks:end -->

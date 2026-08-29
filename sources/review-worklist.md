@@ -243,7 +243,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-jig-stick-trolling-outfit.md | light | done | gaps(1), spots(1) | light-tier v2 transform: attribution preamble split to evidence file, cites added, verified conserved |
 | tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md | light | done | none | light-tier v2 transform verified, one unsourced inference trimmed |
 | tackle/tackle-express-maxima-shark-tooth-leader-tool.md | light | done | none | light-tier v2 transform verified: provenance split to evidence file, stale anchor fixed, no meaning drift |
-| tackle/tackle-express-minnow-rod.md | light | pending |  |  |
+| tackle/tackle-express-minnow-rod.md | light | done | asr-uncertain(IRD Corkus 702 model name, carried forward) | light-tier v2 transform: evidence split + plain-statement rewrite, verified no info loss |
 | tackle/tackle-express-mustad-heavy-duty-pliers.md | light | pending |  |  |
 | tackle/tackle-express-night-bluefin-tg-jig-rig.md | light | pending |  |  |
 | tackle/tackle-express-penn-handle-knob-replacement.md | light | pending |  |  |
