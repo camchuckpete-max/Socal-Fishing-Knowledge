@@ -68,11 +68,12 @@
 - [Evidence — Premade P-Line Rock Cod Rig (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Per-source provenance for Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop.
 - [Evidence — Rockfish Leader Line (Tackle Express)](tackle-express-rockfish-leader-line.md) — Per-source provenance for Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite.
 - [Evidence — Daiwa Saltiga 300 Round Jigging Reel (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Per-source provenance for Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock.
+- [Evidence — Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md) — Per-source provenance for Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 64 notes exceed the 30-node cap._
+_Map skipped: 65 notes exceed the 30-node cap._
 <!-- mermaid:end -->

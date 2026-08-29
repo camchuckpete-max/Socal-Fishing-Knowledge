@@ -256,7 +256,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md | light | done | none | transform verified with 2 fixes (restored dropped quote, delegalized malformed flag marker); 177->182 lines |
 | tackle/tackle-express-savage-gear-line-thru-swimbait-rigging.md | light | done | none | transform verified, attribution preamble retired to machine layer, no information loss, 62->55 lines |
 | tackle/tackle-express-shimano-nasci-fc-reel.md | light | done | none | transform verified: attribution preamble retired, product claims conserved verbatim, 90->87 lines |
-| tackle/tackle-express-shimano-sedona-reel-features.md | light | pending |  |  |
+| tackle/tackle-express-shimano-sedona-reel-features.md | light | done | none | transform verified faithful, layout v2 + evidence split, 74->80 lines |
 | tackle/tackle-express-shimano-talica-reel-features.md | light | pending |  |  |
 | tackle/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md | light | pending |  |  |
 | tackle/tackle-express-shimano-tranx-300b-braking-system.md | light | pending |  |  |

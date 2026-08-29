@@ -3,42 +3,48 @@ type: tackle
 tags: [reels, shimano, sedona, spinning, budget, hagane-gear, g-free-body, silent-drive, tackle-express]
 sources: [v6X2s1lb1aE]
 confidence: low
+layout: v2
 ---
 
 # Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)
 
-Tackle Express, "Budget-Friendly Ultralight Reel: Shimano Sedona Review!,"
-`v6X2s1lb1aE`, uploaded 2025-01-25 — a 77-second, presenter-unnamed
-straight product-feature rundown for one reel. The clip frames the Sedona
-explicitly as Shimano's more budget-friendly line — "not the least
-expensive that they manufacture" but their "lesser expensive most popular
-seller for us in store and online" (a retail-sales claim, not an
-independently verified figure) — and "a fair costed reel" with a
-"middle of the road price tag." No model size, gear ratio, drag figure,
-line capacity, actual price figure, or species/application is stated. Per
-the confidence rubric ("low — sponsored or promotional claim, regardless of
-channel"), this note is capped at **low** in full, on top of
-`tackle-express` being an unregistered channel — the same cap as the sibling
-feature-rundown notes below.
+A 77-second Tackle Express feature rundown (`v6X2s1lb1aE`, presenter
+unnamed) for the Shimano Sedona spinning reel. The clip frames the Sedona as
+Shimano's more budget-friendly line — "not the least expensive that they
+manufacture" but their "lesser expensive most popular seller for us in store
+and online" (a retail-sales claim, not an independently verified figure) —
+and "a fair costed reel" with a "middle of the road price tag"
+(`v6X2s1lb1aE`). No model size, gear ratio, drag figure, line capacity,
+price figure, or species/application is stated. Per the confidence rubric
+("low — sponsored or promotional claim, regardless of channel"), this
+sponsored/promotional copy from `tackle-express`, an unregistered channel,
+caps the note at **low** in full.
 
 ## What's claimed
 
-- **Hagane gear.** Described as "more developed [and] redesign[ed]," claimed
-  to give **longer-lasting gear longevity**. Stated effect: a smoother reel
-  overall, staying smooth for longer rather than turning gritty with use.
-- **G-Free Body.** Called "a newer feature" that reduces the reel's center of
-  gravity, moving it closer to the rod itself. Stated effects: better balance
-  and comfort in-hand, and less friction "from the propulsion motion when
-  turning the handle" — recorded as stated; the clip does not connect this to
-  Shimano's separately-named Propulsion Line [Management] System feature (see
-  the Nasci FC note below), so the two are not conflated here.
-- **Silent Drive.** Described as a quieter, smoother reeling operation.
-  Stated effect: long-lasting smoothness and "overall great durability for a
-  pretty inexpensive cost."
+- **Hagane gear.** Redesigned gearing claimed to extend gear longevity — the
+  reel stays smooth with use rather than turning gritty over time
+  (`v6X2s1lb1aE`).
+- **G-Free Body.** Lowers the reel's center of gravity, moving it closer to
+  the rod, for better in-hand balance and comfort and less friction "from
+  the propulsion motion when turning the handle" (`v6X2s1lb1aE`). The clip
+  does not connect this to Shimano's separately-named Propulsion Line
+  [Management] System feature (see [Shimano Nasci
+  FC](tackle-express-shimano-nasci-fc-reel.md)) — the two stay unconflated
+  here.
+- **Silent Drive.** Quieter, smoother reeling that stays smooth long-term,
+  with "overall great durability for a pretty inexpensive cost"
+  (`v6X2s1lb1aE`).
 
-No further mechanical detail (how Hagane gear differs from a standard gear
-set, what G-Free Body's construction actually changes, or a sizing/price
-comparison against other Shimano spinning reels) is given in this clip.
+No construction detail explains how Hagane gear differs from a standard gear
+set or what G-Free Body's construction actually changes, and no
+sizing/price comparison against other Shimano spinning reels is given in
+this clip.
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-shimano-sedona-reel-features.md).
 
 ## Related
 
@@ -69,6 +75,7 @@ comparison against other Shimano spinning reels) is given in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](evidence/tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 <!-- backlinks:end -->
