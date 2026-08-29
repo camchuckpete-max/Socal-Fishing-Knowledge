@@ -210,7 +210,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-daytime-dart-jig-outfit-ladder.md | light | done | gaps(1) | transform verified faithful, evidence split compliant, no conservation or drift defects |
 | tackle/searcher-finesse-live-bait-outfit.md | light | done | none | evidence file created; two video citations merged per-parameter into 20lb/15lb structure, 44lb-bluefin observation split to evidence with doctrine trace kept, stale anchors fixed |
 | tackle/searcher-four-outfit-guadalupe-quiver.md | light | done | asr-uncertain(Captain Arch identity, Talica 20/25 reads) | transform verified, one minor conservation gap (dropped old faithful nickname) fixed in evidence file |
-| tackle/searcher-lever-drag-reel-sizing.md | light | pending |  |  |
+| tackle/searcher-lever-drag-reel-sizing.md | light | done | none | light transform verified: attribution split to evidence file, ASR flags and worked-capacity figures conserved |
 | tackle/searcher-rail-rod-ladder.md | light | pending |  |  |
 | tackle/searcher-spring-bluefin-yellowtail-quiver.md | light | pending |  |  |
 | tackle/searcher-three-outfit-minimum-quiver.md | light | pending |  |  |

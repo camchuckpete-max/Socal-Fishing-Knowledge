@@ -125,7 +125,7 @@ this video extends that same trip-length window out to 4 days.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](searcher-lever-drag-reel-sizing.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
-- [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 <!-- backlinks:end -->

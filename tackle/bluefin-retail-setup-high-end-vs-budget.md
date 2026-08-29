@@ -79,5 +79,5 @@ file](evidence/bluefin-retail-setup-high-end-vs-budget.md).
 - [Evidence — Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](evidence/lightweight-reel-pick-turners-outdoorsman.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
-- [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
+- [Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](searcher-lever-drag-reel-sizing.md)
 <!-- backlinks:end -->

@@ -30,6 +30,7 @@
 - [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](searcher-daytime-dart-jig-outfit-ladder.md) — Per-source provenance for Searcher daytime dart-jig outfit ladder: channel status, video title/date, and the on-camera bite-mark detail the main note's prose ga
 - [Evidence — Searcher Finesse Live-Bait Outfit](searcher-finesse-live-bait-outfit.md) — Per-source provenance for Searcher finesse live-bait outfit: channel status, registration confidence, upload dates, and the single-trip 44 lb-tuna observation t
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md) — Per-source provenance for Searcher four-outfit quiver — Fisherman's Landing rental packages: channel status, registration confidence, ASR-uncertain caption read
+- [Evidence — Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](searcher-lever-drag-reel-sizing.md) — Per-source provenance for Searcher lever-drag reel sizing: channel/sponsor status, upload dates, and the ASR-uncertain readings the main note's prose gave up.
 <!-- index:end -->
 
 
