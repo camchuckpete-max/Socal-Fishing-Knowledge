@@ -216,7 +216,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-three-outfit-minimum-quiver.md | light | done | asr-uncertain(rod model 72 mismatch, Colt Sniper caption, 6X junior caption) | transform verified: attribution preamble split cleanly into evidence file, all before-facts traced into after-state with cites |
 | tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md | light | done | gaps(1) | transform verified, faithful split to evidence file, cites checked against transcript |
 | tackle/spectra-hollow-vs-solid.md | light | done | none | transform applied with one restored claim (deleted TactX/Threadlock sponsored-caveat sentence, no relocation logged) |
-| tackle/spinning-reel-bait-feeder.md | light | pending |  |  |
+| tackle/spinning-reel-bait-feeder.md | light | transformed | none | transform applied, attribution preamble retired to cite per v2 style guide, no facts lost, check-note.py clean |
 | tackle/spooling-line-tension-and-twist.md | light | pending |  |  |
 | tackle/star-drag-vs-lever-drag.md | light | pending |  |  |
 | tackle/tackle-express-accurate-tern-2-reel.md | light | pending |  |  |
