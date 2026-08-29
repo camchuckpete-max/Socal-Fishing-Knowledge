@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8, jeJAsY_M0oc, mgUjxUoGkZU]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8, jeJAsY_M0oc, mgUjxUoGkZU, EmZO8QiOfik]
 confidence: medium
 layout: v2
 ---
@@ -232,6 +232,18 @@ Set against the bait-size doctrine in
   leader reasoning already logged above and in
   [line ↔ leader matching](#line--leader-matching--the-actual-combo-logic)
   (`hMLwRt6Sxn8`).
+
+### Braid wear from cast volume — carry a spare spool
+
+Cast count, not fish landed, is what wears the braid running through the
+guides. On a high-volume cast-and-burn program — **2–3 casts per minute,
+500–700 casts a day**, the rate a dedicated Sea of Cortez
+[cabrilla](../species/cabrilla.md) day runs at — the braid is worn by the end
+of one day's fishing, so a **spare 300 yd one-shot spool of braid plus extra
+top shot** goes in the bag for a multi-day trip (`EmZO8QiOfik`). The
+arithmetic is a property of cast volume, not of the target species: any
+program throwing at that rate hits the same wear, and the fix is a spare
+one-shot rather than a heavier class.
 
 ### Braid construction — hollow vs solid, smooth vs rough
 

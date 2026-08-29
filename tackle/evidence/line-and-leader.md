@@ -2,7 +2,7 @@
 type: evidence
 parent: ../line-and-leader.md
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [aXF0bxAFtU0, jeJAsY_M0oc, zVIfArUrpDI, Rtwz0oEfrKw, mgUjxUoGkZU, Et2TUskzCSs, ZoIzpyyS9xw, hMLwRt6Sxn8, CdgSBcN6PDo, fyJA3o2hVh0, YntRJAN88fs, ILBl12Jm7-0, PKf7G3uL4io, gn2yquuU6eM, 1wFoa11jPxQ, Lj2NCznK7Zg, UbbkPKZ8_W4, PnAnAS6QoG8, 3g82igEL8yk, 49joKHD7Umc, lP6cg4eEU6s, Oi5n-uVpY9g, WE643Fue1_A, QSmE3mdEL28, _Wb4z4ammoM, A6s-A1NARuA, pk2blktDQ9Y, NXvqLUZ6qp8, ew7Lru8wmQs, uWGGeDOprsE]
+sources: [aXF0bxAFtU0, jeJAsY_M0oc, zVIfArUrpDI, Rtwz0oEfrKw, mgUjxUoGkZU, Et2TUskzCSs, ZoIzpyyS9xw, hMLwRt6Sxn8, CdgSBcN6PDo, fyJA3o2hVh0, YntRJAN88fs, ILBl12Jm7-0, PKf7G3uL4io, gn2yquuU6eM, 1wFoa11jPxQ, Lj2NCznK7Zg, UbbkPKZ8_W4, PnAnAS6QoG8, 3g82igEL8yk, 49joKHD7Umc, lP6cg4eEU6s, Oi5n-uVpY9g, WE643Fue1_A, QSmE3mdEL28, _Wb4z4ammoM, A6s-A1NARuA, pk2blktDQ9Y, NXvqLUZ6qp8, ew7Lru8wmQs, uWGGeDOprsE, EmZO8QiOfik]
 confidence: medium
 ---
 
@@ -46,6 +46,16 @@ caveats) and the on-the-water trip observations for
 - `hMLwRt6Sxn8` (Tackle Express, "Why your braided line needs a leader, and
   why you should wait before judging it.," 2026-05-24; unregistered channel,
   single mention — medium confidence).
+- `EmZO8QiOfik` (Dirty Hookers, 2025-03-04, studio tackle-talk): the
+  cast-volume braid-wear bullet, relocated here from
+  [cabrilla](../../species/cabrilla.md) — a line fact stated inside a
+  cabrilla tackle breakdown by **Cesar**, a rod-company rep with **25+
+  years** fishing the Sea of Cortez, with **Ray Sharifi** co-hosting. Both
+  registered voices; `cesar` carries a product-endorsement caveat, so his
+  mechanism and parameter doctrine is eligible for `high` while model picks
+  stay `low`. Single mention of the wear figure — medium confidence. Full
+  per-source provenance for this episode:
+  [evidence — cabrilla](../../species/evidence/cabrilla.md).
 
 ## When mono top shot
 

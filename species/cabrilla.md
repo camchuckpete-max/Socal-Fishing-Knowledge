@@ -185,12 +185,9 @@ the captions — see the [evidence file](evidence/cabrilla.md).
 - **Hooks/hardware for jerkbaits:** see
   [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing) for the Baja / Sea of
   Cortez jerkbait hook upgrade.
-- **Carry a spare 300 yd one-shot spool of braid and extra top shot** — at
-  500–700 casts a day the braid running through the guides is worn by the end
-  of one day's fishing (`EmZO8QiOfik`).
-  ⚠ misplaced-content: braid wear as a function of cast volume is a line
-  fact, not a cabrilla fact, and belongs in
-  [line & leader](../tackle/line-and-leader.md).
+- **Spare line is a packing item on this program**, because the cast volume
+  wears braid inside a day: parameters in
+  [braid wear from cast volume](../tackle/line-and-leader.md#braid-wear-from-cast-volume--carry-a-spare-spool).
 - **Size for the bycatch, not the average fish.** Jerkbait tackle built for
   cabrilla routinely hooks yellowtail, roosterfish, dorado, sierra and snappers
   tight against the rocks (`EmZO8QiOfik`), so hooks, leader and drag are sized
@@ -284,9 +281,11 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Cortez South](../locations/cortez-south.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Evidence — Cabrilla (Leopard Grouper)](evidence/cabrilla.md)
+- [Evidence — Line & Leader](../tackle/evidence/line-and-leader.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [La Paz](../locations/la-paz.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
