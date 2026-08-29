@@ -226,7 +226,7 @@ Trip reports and per-source provenance:
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](../tackle/tackle-express-penn-vs-avet-lever-drag.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher 30 lb Large-Tuna Outfit](../tackle/searcher-30lb-large-tuna-outfit.md)
-- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 40 lb All-Around Tuna Outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)

@@ -686,7 +686,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Searcher 30 lb Large-Tuna Outfit](searcher-30lb-large-tuna-outfit.md)
-- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)

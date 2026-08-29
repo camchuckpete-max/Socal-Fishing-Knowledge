@@ -594,7 +594,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
-- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 40 lb All-Around Tuna Outfit](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
