@@ -876,4 +876,5 @@ by their builders after the transform phase drains.
 | locations/geronimo-island-chester-s-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/mission-bay-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | species/dorado-kelp-paddy.md | standard | pending |  | created by relocation from species/dorado.md |
+| species/lingcod-jigging.md | standard | pending |  | created by relocation from species/rockfish-lingcod.md |
 <!-- review:worklist:end -->

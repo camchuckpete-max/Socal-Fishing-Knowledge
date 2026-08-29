@@ -211,6 +211,7 @@ Trip reports and per-source provenance: [evidence file](evidence/flat-fall-jiggi
 <!-- species-applications:start -->
 ## Species applications
 
+- [Lingcod — jigging](../species/lingcod-jigging.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -226,6 +227,7 @@ Trip reports and per-source provenance: [evidence file](evidence/flat-fall-jiggi
 - [Guadalupe](../locations/guadalupe.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)

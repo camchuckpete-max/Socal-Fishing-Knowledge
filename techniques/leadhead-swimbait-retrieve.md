@@ -247,6 +247,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 - [Evidence — Leadhead Swimbait Retrieve](evidence/leadhead-swimbait-retrieve.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [La Jolla](../locations/la-jolla.md)
+- [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

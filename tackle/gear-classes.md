@@ -240,6 +240,7 @@ file](evidence/gear-classes.md).
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)

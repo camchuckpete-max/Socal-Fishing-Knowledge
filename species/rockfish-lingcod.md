@@ -85,9 +85,10 @@ morning — a calm-looking morning can sit behind an extremely rough crossing
 - **Lingcod nest, and a nest defence is a different eat from a feed.**
   Depending on the time of year they are spawning, a big-profile bait that
   lands in a lingcod's nest gets eaten as a territorial response rather than a
-  hunger response — the reason to carry bigger profiles at the outer islands
-  (`iAr6sbRC384`). It is the same aggression that produces the reaction bite in
-  [Feeding triggers](#feeding-triggers).
+  hunger response (`iAr6sbRC384`). It is the same aggression that produces the
+  reaction bite in [Feeding triggers](#feeding-triggers). What it means for
+  lure choice — carrying the bigger profiles at the outer islands — is in
+  [lingcod — jigging](lingcod-jigging.md#when-this-is-the-call).
 - ⚠ Flagged gap — no corpus source: the months of the lingcod spawn in
   SoCal/Baja, the depths and structure they nest on, and whether the rockfish
   spawn affects the bite at all.
@@ -108,9 +109,11 @@ morning — a calm-looking morning can sit behind an extremely rough crossing
   up eats again the moment the bait starts moving (`O5aQkex0qGg`). The
   mechanism is the bait escaping: a slug wound fast the second it touches
   bottom draws an aggressive strike rather than a hungry one (`iAr6sbRC384`).
-- **Lingcod bite from the side and miss.** A big lingcod with a big mouth still
-  misses the hook, so on a pulled hook drop straight back down, let it sit, and
-  start hopping again — they chase the bait that got away (`O5aQkex0qGg`).
+- **Lingcod bite from the side and miss.** They come up and take the bait from
+  the side, so a pulled hook is normal rather than a mistake, and the fish stays
+  catchable (`O5aQkex0qGg`). The recovery — drop back to the bottom and start
+  hopping again — is execution, in
+  [lingcod — jigging](lingcod-jigging.md#how-lingcod-changes-the-execution).
 - ⚠ Flagged gap — no corpus source: any light window, tide/slack gate or moon
   effect on the bottomfish bite. See [tide and slack](../conditions/tide-and-slack.md)
   and [moon](../conditions/moon.md) for the general layers.
@@ -157,9 +160,9 @@ No surface sign — this is a meter-and-chart fishery, and you are hunting the
 | Shallower rock (100–250 ft), fish chasing / suspended reds | **Lead-head slug** — drop slack, **5–6 quick winds off the bottom** ([lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)) | 3 oz lead-head class on the heavy bass rod | ~90% of bites come on the first drop or the instant you kick back into gear (`O5aQkex0qGg`); **free-swing head** for suspended reds, standard head when you want them to spit so you can reach the bottom [a] |
 | Island rock and kelp in ~100 ft, live squid aboard | [Sliding sinker](../techniques/sliding-sinker.md) — light lead so the squid swims | **1/2 lb sliding sinker**, 30 lb test (25 lb lighter option), 2/0–5/0 hooks | The reds bite it hard off kelp and a ridge in roughly 102 ft; this is the shallow-island squid program, not the deep gangion (`SGbynqaiHdY`) |
 | Deep water (300–900 ft), bigger reds, dropping past picked-over fish | [Deep-dropping](../techniques/rockfish-deep-dropping.md) the gangion or a heavy jig | 30 lb braid, level-wind, high line capacity | Thin braid means less scope and a straighter fall at depth; a low spool at 700–900 ft is the real problem, hence the fine line (`O5aQkex0qGg`) |
-| Lings on a shallow high spot, Nov–Dec Santa Ana window | Heavy [iron/knife jig](../lures/iron-jigs.md) or slug worked with bottom contact | 6 oz Ahi-Assault iron class **or** 200–250 g slow-pitch class | Big sweeps, flutter back down, keep bottom contact and snap the rod tip; drop back after a missed ling (`O5aQkex0qGg`) |
+| Lings on a shallow high spot, Nov–Dec Santa Ana window | Heavy [iron/knife jig](../lures/iron-jigs.md) or slug worked with bottom contact — [lingcod — jigging](lingcod-jigging.md) | 6 oz Ahi-Assault iron class **or** 200–250 g slow-pitch class | The sweep-and-flutter cadence, the bottom-contact rule and the missed-ling drop-back are on the sub-page (`O5aQkex0qGg`) |
 | Rosa/Miguel inside water, 20–30 ft, clear, after the deep-water reds are boxed | **Slug on the bottom** — the only presentation the source has taken lings on there; [inshore crankbait](../techniques/inshore-crankbaits.md) and [spinnerbait](../techniques/spinnerbaits.md) are named as a plan to try, not a proven eat | 3 oz lead-head class or heavy bass class | Sight-fishing depth: the fish rolls on the bottom on the eat, so wait a second before setting the hook (`Z3rZqy2Pi8E`) [b] |
-| Want one trophy lingcod rather than numbers | **Big-profile lingcod jig** (living-squid / ling-killer class) / [flat-fall](../techniques/flat-fall-jigging.md) — sink to the bottom, one or two turns up, lift and let it flutter back | Heavy jig class | Numbers-versus-size choice: small flat-falls, Colt Snipers and the double dropper loop are the numbers answer; the big jigs are for one fish (`iR8CDCyofDM`, `XxN7EzNDnf8`) |
+| Want one trophy lingcod rather than numbers | **Big-profile lingcod jig** (living-squid / ling-killer class) / [flat-fall](../techniques/flat-fall-jigging.md) — [lingcod — jigging](lingcod-jigging.md) | Heavy jig class | Numbers-versus-size choice: small flat-falls, Colt Snipers and the double dropper loop are the numbers answer; the big jigs are for one fish (`iR8CDCyofDM`, `XxN7EzNDnf8`). Cadence, profile logic and the missed-bite recovery on the sub-page |
 | Deep, non-biting, or want to cover the column | [Slow-pitch / knife jig](../techniques/slow-pitch-jigging.md) — bring it up ~30 ft off the bottom, thumb the spool on the drop | 200–250 g [knife-jig](../lures/knife-jigs.md) / slow-pitch class | Keep tension on the drop so it falls straight and fast; release near the bottom for flutter action. Works split-crew alongside a dead-bait dropper rig (`0dIwWiOc1NY`) |
 | Hard-bottom structure to ~200 ft, want to A/B two colours or run two depths at once | **Double-bait tube-bait dropper rig** ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | Heavy tube-bait class, 40 lb+ | 3-way swivel, two matched-weight baits (two 1.5 oz, or two 1 oz to get down easier) in two colours, ≥3 in leader-length offset to stop them tangling, sacrificial ~25 lb dropper below a 40 lb fluoro leader so a snag costs one bait not the rig (`5Oh3IPIC5g4`); a second HookUp Baits source runs 80 lb braid → 60 lb fluoro → 25 lb/40 lb droppers instead — see [tube-bait fishing](../techniques/tube-bait-fishing.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft). ⚠ Fact-check (single-source): two promotional seminars from the same product line |
 | Drifting rock/structure on a party boat (not anchored) | **Cast–drift–bounce** from the bow — cast up-drift, let the bait bounce down with the drift, reel up and re-cast ([tube-bait fishing](../techniques/tube-bait-fishing.md#party-boat-rock-fishing-technique-castdriftbounce)) | 8 ft parabolic-bend bass/tube-bait class | Cast up-current and work the bait down over the structure as the boat passes (`5Oh3IPIC5g4`). ⚠ Fact-check (single-source): one promotional seminar |
@@ -379,6 +382,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Lingcod — jigging](lingcod-jigging.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)

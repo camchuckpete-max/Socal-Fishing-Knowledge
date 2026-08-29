@@ -19,6 +19,7 @@
 - [Evidence — California Spiny Lobster](california-spiny-lobster.md) — Trip reports and per-source provenance backing California spiny lobster.
 - [Evidence — Dorado — kelp-paddy flyline](dorado-kelp-paddy.md) — Per-source provenance backing dorado — kelp-paddy flyline.
 - [Evidence — Dorado (Mahi-Mahi)](dorado.md) — Trip reports and per-source provenance backing dorado.
+- [Evidence — Lingcod — jigging](lingcod-jigging.md) — Per-source provenance backing lingcod — jigging.
 - [Evidence — Ocean Whitefish](ocean-whitefish.md) — Trip reports and per-source provenance backing ocean whitefish.
 - [Evidence — Opah](opah.md) — Per-source provenance backing opah.
 - [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md) — Per-source provenance backing Pacific crevalle jack.
@@ -41,5 +42,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 31 notes exceed the 30-node cap._
+_Map skipped: 32 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -115,8 +115,10 @@ beside that doctrine in the parent.
   framed as aggression rather than hunger — "it's not like a hungry, it's just
   an aggressive bite" — and, "depending on what time of the year they're
   spawning, if it lands in their nest they're gonna eat a big profile bait
-  like this," which is why the presenter carries bigger profiles for the outer
-  islands. No months, depths or nesting sites are given.
+  like this." No months, depths or nesting sites are given. The lure
+  consequence he draws from it — carrying the bigger profiles for the outer
+  islands — moved to
+  [lingcod — jigging evidence](lingcod-jigging.md#when-this-is-the-call).
 
 ## Feeding triggers
 
@@ -164,14 +166,15 @@ beside that doctrine in the parent.
   glow**, fished in about **270 ft** off San Diego.
 - `XxN7EzNDnf8` (Tackle Express, 2026-04-07, 40 s clip; unregistered channel):
   larger-profile flat-fall jigs take the same rockfish variety — "vermilions,
-  reds, chuckleheads" — and pull the more predatory lingcod; fished by sinking
-  to the bottom, taking one or two turns up, lifting the rod and letting the
-  jig flutter back down.
+  reds, chuckleheads." The lingcod half of the clip — the more predatory fish
+  the larger profile is aimed at, and the sink-to-bottom / one-or-two-turns /
+  lift-and-flutter cadence — moved to
+  [lingcod — jigging evidence](lingcod-jigging.md#how-lingcod-changes-the-execution).
 - `iR8CDCyofDM` (Tackle Express, 2026-04-01, 38 s clip; unregistered channel):
-  the big lingcod-specific jigs (a "living squid" and a "ling killer") are
-  numbers-versus-size gear — "you're not really looking for a ton of fish,
-  you're looking for one big fish"; if you just want bites, fish a double
-  dropper loop, a Colt Sniper or a smaller flat-fall.
+  the big lingcod-specific jigs are numbers-versus-size gear — if you just want
+  bites, fish a double dropper loop, a Colt Sniper or a smaller flat-fall. The
+  named baits and the one-big-fish framing moved to
+  [lingcod — jigging evidence](lingcod-jigging.md#when-this-is-the-call).
 - `5Oh3IPIC5g4` (Fisher Newb, Fred Hall HookUp Baits seminar; promotional,
   single product line): the double tube-bait dropper rig is presented for
   rockfish, with rockfish framed as almost a by-catch of the red-crab-coloured
@@ -276,6 +279,8 @@ Parked for the zone guides the parent note stubs out:
 
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Electronics and Sounder](../../planning/evidence/electronics-and-sounder.md)
+- [Evidence — Lingcod — jigging](lingcod-jigging.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
+- [Lingcod — jigging](../lingcod-jigging.md)
 - [Rockfish & Lingcod](../rockfish-lingcod.md)
 <!-- backlinks:end -->
