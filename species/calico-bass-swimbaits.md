@@ -60,9 +60,7 @@ method: here the decision is made per fish, on sight, before the cast.
 
 **Profile order, worked as a sequence.** Start on a **baitfish/anchovy**
 profile, step to a **crab/crustacean-style** profile, then to a **shiny/flash**
-change-up (`lP6cg4eEU6s`). Colour is subordinate to profile in that ladder —
-the change being made between casts is what the bait reads as, not what shade
-it is.
+change-up (`lP6cg4eEU6s`).
 
 **Fish faster as the water warms.** The July–August instruction is explicitly
 not to be scared to fish fast, alongside the bigger bait (`lP6cg4eEU6s`) — a
@@ -83,19 +81,21 @@ the named brands and the application method stay in
   [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md).
 - **Class:** the [bass casting / swimbait class](../tackle/gear-classes.md) —
   the same inshore build the rest of the calico artificials program runs on.
-- **Leader is stepped DOWN, not up, for this water.** The same source's
+- **Leader is light, and action is the stated reason.** The same source's
   inshore-bass swimbait/crank spec is **20–25 lb fluorocarbon** on **40 lb
   braid**, chosen because heavier leader (30 lb) stiffens enough to deaden a
   swimbait's action; it is recorded in
-  [line & leader](../tackle/line-and-leader.md) (`lP6cg4eEU6s`). That is far
-  lighter than the 40–65 lb kelp/structure classes in
-  [swimbaits — weedless rigging](../techniques/swimbaits.md#weedless-rigging),
-  and the reason is the water: open, low-kelp water carries less abrasion risk
-  than a stringer cast.
+  [line & leader](../tackle/line-and-leader.md) (`lP6cg4eEU6s`). It is stated
+  for inshore bass swimbait and crank fishing generally rather than scoped to
+  the boiler program, and it is far lighter than the 40–65 lb kelp/structure
+  classes in
+  [swimbaits — weedless rigging](../techniques/swimbaits.md#weedless-rigging) —
+  two specs from different sources, left unreconciled.
 
 ⚠ Flagged gap — no corpus source: rod length, reel size and gear ratio for this
-specific boiler program; the retrieve cadence for the hard bait; and how the
-trailer is attached behind it.
+specific boiler program; the retrieve cadence for the hard bait; how the
+trailer is attached behind it; and whether the boiler program runs the same
+20–25 lb leader or steps up away from the kelp.
 
 ## Differs from the general method
 
@@ -124,10 +124,13 @@ cover-water boat program:
   ambusher sitting on structure, the other is already up and chasing bait in
   the open — so the read that applies is set by which of those you are looking
   at, not by which source is preferred.
-- **Colour gives way to a profile sequence.** The general note treats colour as
-  a confidence pattern that matters little — fish a green-top/gold-bottom you
-  believe in. Here the change-up ladder is explicit and is about *profile*:
-  baitfish, then crustacean, then flash (`lP6cg4eEU6s`).
+- **A change-up ladder replaces the single confidence pattern.** The general
+  note treats colour as mattering little — fish a green-top/gold-bottom you
+  believe in
+  ([boat work](../techniques/swimbaits.md#boat-work--covering-water)). Here the
+  change-up is an explicit
+  sequence run between casts: baitfish/anchovy, then crab/crustacean, then
+  flash (`lP6cg4eEU6s`).
 - **Speed is set by water temperature, not by the current angle.** The general
   note's retrieve speed varies with fishing with, against or across the current
   and is hunted by cadence
