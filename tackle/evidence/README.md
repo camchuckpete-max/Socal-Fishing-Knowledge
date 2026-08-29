@@ -41,11 +41,12 @@
 - [Evidence — Baitcaster Gear Ratio for Landing Big Yellowtail (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md) — Trip reports and per-source provenance for Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express).
 - [Evidence — Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md) — Trip reports and per-source provenance for Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express).
 - [Evidence — Bates EDC 100 (Tackle Express)](tackle-express-bates-edc-100-reel.md) — Per-source provenance for Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster.
+- [Evidence — BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Trip reports and per-source provenance for BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express).
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 37 notes exceed the 30-node cap._
+_Map skipped: 38 notes exceed the 30-node cap._
 <!-- mermaid:end -->
