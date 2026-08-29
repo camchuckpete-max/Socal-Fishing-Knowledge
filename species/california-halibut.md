@@ -390,6 +390,7 @@ Trip reports and per-source provenance:
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)

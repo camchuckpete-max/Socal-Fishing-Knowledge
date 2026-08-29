@@ -882,4 +882,5 @@ by their builders after the transform phase drains.
 | species/sheephead-sliding-sinker.md | standard | pending |  | created by relocation from species/sheephead.md |
 | species/sheephead-tube-bait-fishing.md | standard | pending |  | created by relocation from species/sheephead.md |
 | lures/bucktail-jigs.md | standard | pending |  | created by relocation from species/snook.md |
+| species/spotted-bay-bass-structure-pitching.md | standard | pending |  | created by relocation from species/spotted-bay-bass.md |
 <!-- review:worklist:end -->

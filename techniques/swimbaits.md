@@ -458,6 +458,7 @@ swimbaits](../lures/soft-plastic-swimbaits.md).
 ## Species applications
 
 - [Barred Sand Bass — Alabama rig](../species/sand-bass-alabama-rig.md)
+- [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -495,6 +496,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

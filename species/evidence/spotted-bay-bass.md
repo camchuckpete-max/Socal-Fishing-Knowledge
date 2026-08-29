@@ -110,10 +110,10 @@ parent.
   interview — Rick Fuentes (Fishing Syndicate) on the San Diego Bay / Mission
   Bay structure program, with a Newport Harbor extension (10 ft- and
   16 ft-rated crankbaits in the deeper eelgrass, called "dynamite on the really
-  really big spotted bay bass"): a ~6.6:1 reel for head-turning speed off
-  pilings 2–3 ft apart, 20–30 lb braid to a ~15 lb fluorocarbon leader sized for
-  the large halibut sharing the zone, 3–4 in swim and dart-spin baits on a
-  3/8–1/2 oz jighead, and "whine on that fish" rather than pumping the rod.
+  really big spotted bay bass"). The structure-program parameters from this
+  interview — gear ratio, line and leader classes, bait and jighead sizing and
+  the fight rule — are logged in
+  [evidence — spotted bay bass — structure pitching](spotted-bay-bass-structure-pitching.md).
   "Mouths are funny critters" — a spotty will hide behind a single blade of
   eelgrass and consider itself hidden. Unregistered speaker, single mention.
 - `lP6cg4eEU6s` (Fisher Newb, 2020-03-06): duplicate-of the Where & when entry
@@ -191,5 +191,7 @@ bay bass. Each bay below is a flagged stub in the parent's Zone guides section.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Spotted Bay Bass (Spotties)](../spotted-bay-bass.md)
+- [Spotted Bay Bass — structure pitching](../spotted-bay-bass-structure-pitching.md)
 <!-- backlinks:end -->

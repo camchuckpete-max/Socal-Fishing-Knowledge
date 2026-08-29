@@ -220,7 +220,7 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Shore-pounding/skiff shallow eelgrass, windy, water carrying some colour | **[Spinnerbait](../techniques/spinnerbaits.md)** (War Baits HD, 1 oz) — sink to bottom, rip clear of grass, wind on the blade lift, pause and flutter | harbor bass class | Newport Harbor plan: pair with a downsized PK3-on-neck-breaker in "spotty" colour; if the water turns up clear instead, switch the whole plan to the docks below rather than keep fishing the grass (`XyKF34C5iB4`) |
 | Docks/pilings, water clear rather than coloured | **Flip a slow-pitch jig or crank the pilings** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | bass class | In clear water the fish are less willing to leave the grass to feed because they are exposed to birds and seals; they still relate to the grass but feed from dock and piling cover instead (`XyKF34C5iB4`) |
 | Docks, pilings, riprap — pitch to cover (finesse) | **Small plastics** — Zoom fluke on a 1/4–3/8 oz ballhead flipped into the pilings, watch the line, swing on the take ([bay bass plastics](../lures/bay-bass-plastics.md)) | light spinning / low-profile, 10–20 lb | Deadly effective — 60 fish in a San Diego afternoon; a beefier hook on the head weighs the bait down and kills the action, so accept the occasional straightened hook. Swing hard: fish run around pilings and into grass (`GVP3IChsmRQ`) |
-| Pilings and moorings **2–3 ft apart**, the fish has to be turned before it wraps | **Pitch a 3–4 in swimbait or dart-spin on a 3/8–1/2 oz jighead** and steer it out immediately ([swimbaits](../techniques/swimbaits.md)) | 12–20 lb casting class, ~6.6:1 reel, 20–30 lb braid to ~15 lb fluorocarbon | The fast gear ratio is for head-turning speed, not cranking power; the leader is stepped up because large halibut share the same dock and mooring zones (`46ha7J1Fc6A`) [a] |
+| Pilings and moorings **2–3 ft apart**, the fish has to be turned before it wraps | **[Structure pitching — docks, pilings and moorings](spotted-bay-bass-structure-pitching.md)** — pitch a small swimbait or dart-spin at the cover and steer it out immediately ([general method](../techniques/swimbaits.md)) | structure-casting class, 12–20 lb, [gear classes](../tackle/gear-classes.md) | Gear ratio and its mechanism, leader class, bait and head sizing, and the fight rule are all in the sub-article (`46ha7J1Fc6A`) [a] |
 | Fish sitting hard on the bottom, colder months, shore or boat | **Craw/creature bait on a jighead** — cast, sink fully, then either slow grind along the bottom or swim it straight, varying the fall rate and swapping the trailer to conditions | bass class | Read bottom composition off the line and rod tip over several casts, and stop periodically to feel back down, because the bait drifts up off the bottom unnoticed. Rate of fall is the stated variable — imitate a crab darting down and popping back up (`lP6cg4eEU6s`) [b] |
 | Back-bay, smaller aggressive fish, finesse | **[Ned rig](../techniques/ned-rig.md)** — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap or speed-up; one durable bait catches 50 fish (`GVP3IChsmRQ`, `um5MAeCjNDg`) |
 | Fish suspended off structure / need a slow horizontal fall | **[Drop shot](../techniques/drop-shot.md)** | light spinning class | Holds the bait at their level over a channel edge |
@@ -229,9 +229,10 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Fishing at night, artificial light on the water (dock/parking-lot/terminal lighting) | **[Night bass fishing](../techniques/night-bass-fishing.md)** — target the lit stretches with a reaction bait | bass/crank class | Fish expose themselves to feed in the light after dark; pre-mark light posts on a map and run the lit zones as a pattern rather than blind-working the harbor |
 | Harbor worked and nothing is happening | **Cycle the structure types, fast bait then slow, before leaving** | whatever is already tied on | Grass to docks, then commit to any rock present, trying a moving presentation and a slow one at each; if a long drive is already sunk into the spot, slow down and crawl a jig through the same water instead of relocating (`XyKF34C5iB4`) |
 
-[a] The full dock/piling/mooring structure program — gear ratio, leader step-up,
-rod class and the fight — is queued as a species-technique sub-article rather
-than expanded here.
+[a] The full dock/piling/mooring structure program — the head-turning gear ratio
+and its mechanism, the halibut-sized leader, bait and jighead sizing, the
+rod/reel spec and the wind-don't-pump fight — is in
+[spotted bay bass — structure pitching](spotted-bay-bass-structure-pitching.md).
 [b] The full bottom-grind craw program — bottom-composition reading, the
 re-establish-contact pause and the fall-rate variation — is queued as a
 species-technique sub-article. Bait brand rendered "war bait" in the source's
@@ -246,11 +247,10 @@ auto-captions and not resolved to a model, `asr-uncertain`.
 - **Light spinning / low-profile finesse class, 10–20 lb:** flukes, Ned rig and
   drop shot.
 - **Structure-casting class, 12–20 lb:** an all-graphite, light and sensitive
-  casting rod with a low-profile 200-size reel (300-size in heavier piling
-  work), **20–30 lb braid** to a **fluorocarbon leader stepped up to about
-  15 lb** in shallower structure water; braid for zero stretch on the hookset
-  and the turn, the heavier leader for the halibut that share the zone
-  (`46ha7J1Fc6A`).
+  casting rod on a low-profile reel for pitching docks, pilings and mooring
+  blocks (`46ha7J1Fc6A`). Reel size and ratio, braid and leader classes and the
+  bait/jighead sizing are in
+  [spotted bay bass — structure pitching](spotted-bay-bass-structure-pitching.md#rigs--gear).
 - Big spotties are small fish, so this is a light-line inshore arsenal that
   doubles for coastal 8 lb calico cranking (`GVP3IChsmRQ`). See
   [gear classes](../tackle/gear-classes.md).
@@ -329,10 +329,10 @@ Section order below is not a ranking.
   surface and its weight still in the water, grab the line right above the hook,
   then lip it — a fish handled on a fully loaded rod fires the hook at your face
   or hand if it shakes off (`EGKesj7V64M`).
-- **In structure, wind and keep the rod loaded** — "whine on that fish" and get
-  it clear. Pumping the rod and dropping the tip is how you lose them: that
-  momentary slack is when a fish gets back into the piling or the grass
-  (`46ha7J1Fc6A`).
+- **In structure, wind and keep the rod loaded** rather than pumping it
+  (`46ha7J1Fc6A`); the rule, its failure mode and why 2–3 ft of piling gap makes
+  it the whole program are in
+  [spotted bay bass — structure pitching](spotted-bay-bass-structure-pitching.md#how-spotted-bay-bass-changes-the-execution).
 - **Hook them outside their cover.** A bass hooked deep inside the structure it
   is holding in has almost no distance to be pulled before it is back in the
   snag, so trigger the bite so the fish comes out to eat before setting
@@ -373,5 +373,6 @@ Trip reports and per-source provenance:
 - [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
+- [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

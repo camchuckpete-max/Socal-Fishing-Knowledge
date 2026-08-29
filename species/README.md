@@ -32,6 +32,7 @@
 - [California Sheephead](sheephead.md) — California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard structure "every single day," which makes them the target once the water cools and t
 - [Skipjack Tuna](skipjack-tuna.md) — Skipjack — "skippies" — are the fish that reaches the offering first on the SoCal/Baja tuna grounds: they pile into a chum line laid for yellowfin (lxFNVdDhMy4)
 - [Snook (Robalo)](snook.md) **[Baja only]** — The corpus documents snook in exactly one fishery — Magdalena Bay / Lopez Mateos, Baja California Sur — and it is two programs, not one.
+- [Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md) **[SoCal only]** — One species, one technique.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — Spotted bay bass are the bay-and-harbor fishery that runs on the tide clock: the fish hold ambush stations keyed to which way the water is moving, so a spot tha
 - [Striped Marlin](striped-marlin.md) — Striped marlin are the SoCal island zone's late-summer-into-fall sight-and-troll billfishery: a short, tight lure spread pulled along the clean side of a bait/c
 - [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal broadbill are a daytime deep-drop fishery built on one fact: the fish ride the deep scattering layer by day, so you hunt the layer and its bait over deep
@@ -50,5 +51,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 37 notes exceed the 30-node cap._
+_Map skipped: 38 notes exceed the 30-node cap._
 <!-- mermaid:end -->

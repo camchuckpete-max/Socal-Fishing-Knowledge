@@ -281,5 +281,6 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 <!-- backlinks:end -->

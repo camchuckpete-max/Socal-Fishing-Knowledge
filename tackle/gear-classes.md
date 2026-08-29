@@ -300,6 +300,7 @@ file](evidence/gear-classes.md).
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Spotted Bay Bass — structure pitching](../species/spotted-bay-bass-structure-pitching.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)
