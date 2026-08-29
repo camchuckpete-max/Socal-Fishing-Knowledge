@@ -284,4 +284,5 @@ Parked for the zone guides the parent note stubs out:
 - [Lingcod — jigging](../lingcod-jigging.md)
 - [Rockfish & Lingcod](../rockfish-lingcod.md)
 - [San Benito Islands](../../locations/san-benito-island.md)
+- [San Miguel Island](../../locations/san-miguel-island.md)
 <!-- backlinks:end -->

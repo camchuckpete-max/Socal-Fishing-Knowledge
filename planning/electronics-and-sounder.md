@@ -369,6 +369,7 @@ Trip reports and per-source provenance:
 - [San Benito Islands](../locations/san-benito-island.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

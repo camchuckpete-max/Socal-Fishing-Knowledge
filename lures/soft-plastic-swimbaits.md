@@ -656,6 +656,7 @@ baits and heads from the class terms above; see
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)

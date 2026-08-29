@@ -138,6 +138,7 @@ Trip reports and per-source provenance: [evidence file](evidence/spinnerbaits.md
 - [Evidence — Spinnerbaits (Bay Bass)](evidence/spinnerbaits.md)
 - [Evidence — Spotted Bay Bass — bottom jig crawl](../species/evidence/spotted-bay-bass-bottom-jig-crawl.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)

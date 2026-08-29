@@ -212,6 +212,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Juan Seamount](san-juan-seamount.md)
+- [San Miguel Island](san-miguel-island.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [San Quintin](san-quintin.md)
 - [Santa Barbara Island](santa-barbara-island.md)

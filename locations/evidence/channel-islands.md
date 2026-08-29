@@ -107,4 +107,5 @@ repeated rather than moved.
 ## Linked from
 
 - [Channel Islands](../channel-islands.md)
+- [San Miguel Island](../san-miguel-island.md)
 <!-- backlinks:end -->

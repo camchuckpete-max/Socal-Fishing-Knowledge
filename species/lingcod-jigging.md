@@ -157,4 +157,5 @@ provenance: [rockfish & lingcod evidence](evidence/rockfish-lingcod.md).
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 <!-- backlinks:end -->

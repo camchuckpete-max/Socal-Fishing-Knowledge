@@ -94,6 +94,7 @@ the fleet behavior correctly before you run to it. See
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Pacific Bonito](../species/bonito.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)

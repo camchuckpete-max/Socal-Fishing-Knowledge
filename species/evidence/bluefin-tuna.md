@@ -139,5 +139,6 @@ Tanner Bank, the other SoCal offshore zones, and Baja/Ensenada.
 
 - [Bluefin Tuna](../bluefin-tuna.md)
 - [Evidence — San Nicolas Island](../../locations/evidence/san-nicolas-island.md)
+- [San Miguel Island](../../locations/san-miguel-island.md)
 - [Tanner Bank](../../locations/tanner-bank.md)
 <!-- backlinks:end -->

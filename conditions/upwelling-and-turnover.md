@@ -205,6 +205,7 @@ the pre-turnover window.
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)

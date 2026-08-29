@@ -371,6 +371,7 @@
 - [San Martin Island Natural Jetty Kelp](san-martin-island-natural-jetty-kelp.md) **[Baja only]** — A charted spot at 30°29.060'N 116°05.910'W (cameron), in the San Quintin zone.
 - [San Mateo Point](san-mateo-point.md) **[SoCal only]** — A charted spot at 33°22.960'N 117°36.800'W (cameron), in the Dana Point zone.
 - [San Miguel Gap](san-miguel-gap.md) **[SoCal only]** — A charted spot at 33°56.600'N 121°00.000'W (cameron), in the Davis Knoll / San Miguel Gap / Rodriguez Seamount zone.
+- [San Miguel Island](san-miguel-island.md) **[SoCal only]** — The northwest outer end of the Channel Islands, and a late-fall bottom-fishing destination that a Santa Ana opens.
 - [San Miguel Reef](san-miguel-reef.md) **[Baja only]** — A charted spot at 31°51.200'N 116°48.100'W (cameron), in the Ensenada zone.
 - [San Nicolas Island](san-nicolas-island.md) **[SoCal only]** — A zone is a run grouping.
 - [San Onofre Kelp](san-onofre-kelp.md) **[SoCal only]** — A charted spot at 33°20.880'N 117°34.050'W (cameron), in the Oceanside / North County zone.
@@ -445,5 +446,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 432 notes exceed the 30-node cap._
+_Map skipped: 433 notes exceed the 30-node cap._
 <!-- mermaid:end -->

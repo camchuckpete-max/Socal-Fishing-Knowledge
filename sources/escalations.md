@@ -347,3 +347,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T21:43:26Z — locations/san-benito-island.md — verify-escalate
 - run: 33275312057
 - reason: locations/cedros-island.md still stamps the Cedros catch-and-release operator agreement 'on or before 2023-05-24' where sources/regulatory-claims.md reframed it to on-or-before 2023-03-26 (ZBRSB4iwtbU); zone page out of scope for this unit
+
+## 2026-08-29T22:07:24Z — locations/san-miguel-island.md — verify-escalate
+- run: 33277178670
+- reason: Yellowtail row + CDFW no-retention claim rests on Z3rZqy2Pi8E auto-caption 'a really nice yellow ... cant keep them in Southern California waters'; yellowtail retention is legal in CA while yelloweye rockfish is not — caption likely dropped 'eye'. Claim left untouched because the same inherited doctrine already sits in species/evidence/rockfish-lingcod.md and locations/evidence/socal-bight.md; Cameron should adjudicate species identity once and fix all three.

@@ -268,6 +268,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)

@@ -237,6 +237,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

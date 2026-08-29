@@ -154,6 +154,7 @@ Trip reports and per-source provenance:
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [San Juan Seamount](san-juan-seamount.md)
+- [San Miguel Island](san-miguel-island.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)

@@ -196,5 +196,6 @@ species, in the
 ## Linked from
 
 - [Channel Islands](channel-islands.md)
+- [San Miguel Island](san-miguel-island.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

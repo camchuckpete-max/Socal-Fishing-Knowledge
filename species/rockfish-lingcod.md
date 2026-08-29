@@ -406,6 +406,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
+- [San Miguel Island](../locations/san-miguel-island.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)

@@ -241,5 +241,6 @@ Dated days and per-source provenance: [Channel Islands evidence](evidence/channe
 ## Linked from
 
 - [Evidence — Channel Islands](evidence/channel-islands.md)
+- [San Miguel Island](san-miguel-island.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->
