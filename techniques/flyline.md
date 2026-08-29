@@ -877,6 +877,7 @@ confidence.
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](trolling.md)
 - [Underhand Casting](underhand-casting.md)
+- [Wahoo — live bait](../species/wahoo-live-bait.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

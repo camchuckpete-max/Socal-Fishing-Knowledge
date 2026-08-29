@@ -166,10 +166,12 @@ Per-source provenance: [evidence file](evidence/haywire-twist.md).
 - [California Barracuda](../species/barracuda.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Evidence — Haywire Twist](evidence/haywire-twist.md)
+- [Evidence — Wahoo — live bait](../species/evidence/wahoo-live-bait.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
+- [Wahoo — live bait](../species/wahoo-live-bait.md)
 - [Wiring a Surface Iron](wiring-a-surface-iron.md)
 <!-- backlinks:end -->

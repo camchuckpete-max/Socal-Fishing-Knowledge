@@ -443,4 +443,5 @@ Rocks) — not a confirmed wahoo catch, and not merged into
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
+- [Wahoo — live bait](../species/wahoo-live-bait.md)
 <!-- backlinks:end -->

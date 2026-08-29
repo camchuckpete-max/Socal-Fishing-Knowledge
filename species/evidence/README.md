@@ -38,6 +38,7 @@
 - [Evidence — Striped Marlin — trolling](striped-marlin-trolling.md) — Trip reports and per-source provenance backing striped marlin — trolling.
 - [Evidence — Striped Marlin](striped-marlin.md) — Per-source provenance backing striped marlin.
 - [Evidence — Swordfish (Broadbill)](swordfish.md) — Per-source provenance backing swordfish.
+- [Evidence — Wahoo — live bait](wahoo-live-bait.md) — Per-source provenance backing wahoo — live bait.
 - [Evidence — Wahoo](wahoo.md) — Per-source provenance backing wahoo.
 - [Evidence — White Seabass](white-seabass.md) — Per-source provenance backing white seabass.
 - [Evidence — Yellowfin Tuna](yellowfin-tuna.md) — Per-source provenance backing yellowfin tuna.
@@ -49,5 +50,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 39 notes exceed the 30-node cap._
+_Map skipped: 40 notes exceed the 30-node cap._
 <!-- mermaid:end -->

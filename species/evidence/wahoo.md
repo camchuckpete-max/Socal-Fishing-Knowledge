@@ -139,8 +139,10 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
 - `9IhmYstB8sA` (SearcherSportfishing, 2019-11-14): names the Nomad DTX 200 for
   high-speed trolling plus a second plug whose brand is not resolvable from the
   captions — asr-uncertain(second plug brand), so it is not carried as a named
-  product. Same tip gives the live-bait leader at 200 or 300 lb wire with small
-  connector rings, a sardine, and "don't swing — wind through the bite."
+  product. The same tip's live-bait half — 200 or 300 lb wire with small
+  connector rings, a sardine, and "don't swing — wind through the bite" — moved
+  with the live-bait program to
+  [wahoo — live bait evidence](wahoo-live-bait.md#how-wahoo-changes-the-execution).
 - `4t_Z75shK_E` (StokedOnFishing, 2020-09-25, Magdalena Bay, dockside
   pre-trip): a lure-company owner/guide describes his own transit lure — a
   magnet holds the hook against the body so it "runs true" up to 20 kt, letting
@@ -173,24 +175,13 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
 
 ## Doctrine & conflicts
 
-- `jqyu3wZdNF4` (SearcherSportfishing, "Tackle Tip Thursday Vol. 21,"
-  2018-11-08): the earliest-dated wahoo tackle tip from this channel in the KB.
-  Wahoo often take only half a live bait; engaging the reel right after that
-  first hit is said to end the bite outright — "you don't have a bite anymore"
-  — with no mechanism stated for why. The fix is free spool immediately on the
-  bite, leaving the half-eaten bait as a chunk; framed on camera as the secret
-  to wahoo live-bait fishing.
-- `vNIazq1aVwc` (SearcherSportfishing, "Tackle Tip Thursday Vol. 126 (Live Bait
-  Wahoo Fishing)," 2020-11-19): the crew has "seen on multiple occasions" that
-  you put the reel in gear to set on the bite and come up with nothing there,
-  because the wahoo ate half the bait, leaving a chunk with the hook still in
-  it; back to free spool and count to about 15, and "you'd be amazed how many
-  times" the chunk is still on the hook when you wind in. Reactive trigger,
-  where `jqyu3wZdNF4` is proactive.
-- `4uNPLknRAQg` (SearcherSportfishing, 2020-05-06): the same eat-half mechanism
-  framed as learned "through decades of fishing," with the fix at free spool
-  and 10–15 seconds; the trigger is stated as the bait having gone dead after
-  the bite rather than a failed hookset. Chronologically between the other two.
+- **Live-bait bite handling — moved.** The three eat-half / free-spool entries
+  (`jqyu3wZdNF4` proactive on the hit, `vNIazq1aVwc` reactive after an empty
+  hookset, `4uNPLknRAQg` triggered by the bait going dead) now sit with the
+  program they back, in
+  [wahoo — live bait evidence](wahoo-live-bait.md#how-wahoo-changes-the-execution).
+  The half-bite behaviour they establish is still carried in this note's parent
+  under [feeding triggers](../wahoo.md#feeding-triggers).
 - `97clKtVsEOs` (StokedOnFishing, 2015-10-29, Alijos Rocks): one angler
   preferred trolling a bomb-style lure over a jig-and-reel presentation
   specifically for hookup ratio on the wahoo's back-half strike.
@@ -213,17 +204,13 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
   the host's own stated preference is wire on everything — "wow, this lure is
   25 bucks... I'm putting a piece of wire on that" — but he frames Howard's
   approach as valid for someone willing to take the trade.
-- `S80GRyuAbLY` (SearcherSportfishing, "Tackle Tip Thursday Vol 160 (Wahoo Wire
-  Leaders)," 2021-11-04): a sleeve-crimped (not haywire-twisted) wahoo
-  live-bait wire leader at 60 lb on a 1/0 or 2/0 hook.
-- `_Z4yMtrYgeA` (SearcherSportfishing, "Tackle Tip Thursday Vol. 123 (Wahoo
-  Leader)," 2020-10-29): duplicate-of `S80GRyuAbLY` — the same demonstration,
-  aired a year earlier; re-cut footage, not an independent confirmation of the
-  60 lb figure.
-- `G81HN0dIDg0` (SearcherSportfishing, "Tackle Tip Thursday Vol.193 (Wahoo
-  Lures 101)," 2022-08-11, Taylor): 44 lb wire to a 3/0 hook for flylining
-  wahoo — roughly a fourth to a seventh of the 200–300 lb figure from
-  `9IhmYstB8sA`, with no stated reason for the gap.
+- **Live-bait wire tests — moved.** The three unreconciled leader builds
+  (`S80GRyuAbLY` at 60 lb on a 1/0–2/0 hook, its re-cut duplicate
+  `_Z4yMtrYgeA`, and `G81HN0dIDg0` at 44 lb on a 3/0) now sit with the program
+  they back, in
+  [wahoo — live bait evidence](wahoo-live-bait.md#rigs--gear). `G81HN0dIDg0` is
+  also the source of the teeth-cut-mono-regardless-of-test rule this note's
+  parent states in its lead and gear summary.
 
 ## Landing & handling
 
@@ -240,5 +227,7 @@ both are SearcherSportfishing); the registry, not the prose, is authoritative.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Wahoo — live bait](wahoo-live-bait.md)
 - [Wahoo](../wahoo.md)
+- [Wahoo — live bait](../wahoo-live-bait.md)
 <!-- backlinks:end -->

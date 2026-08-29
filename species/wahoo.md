@@ -23,8 +23,9 @@ October, early November — is when the Baja banks reach it (`4uNPLknRAQg`,
 grounds, Alijos Rocks and "the Ridge," a mixed-troll catch out of Magdalena Bay
 and the East Cape, and a once-in-an-El-Niño stray inside the Bight. Three
 programs cover the fishery: a trolled bomb or diving plug, a cast
-bomb or Raider jig burned back, and a flylined sardine — all three on **wire
-leader**, because the teeth cut mono regardless of test (`G81HN0dIDg0`). See
+bomb or Raider jig burned back, and a [flylined sardine](wahoo-live-bait.md) —
+all three on **wire leader**, because the teeth cut mono regardless of test
+(`G81HN0dIDg0`). See
 [haywire twist](../rigging/haywire-twist.md).
 
 ## Where & when
@@ -113,8 +114,8 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
   a kelp paddy the fish have gathered on (`4uNPLknRAQg`).
 - **The strike itself is a half-bite.** Wahoo often take only the back half of
   a bait or lure and leave rather than eat it whole (`jqyu3wZdNF4`,
-  `vNIazq1aVwc`, `4uNPLknRAQg`) — the behaviour that drives the bite-handling
-  doctrine below.
+  `vNIazq1aVwc`, `4uNPLknRAQg`) — the behaviour that drives the live-bait
+  bite-handling program in [wahoo — live bait](wahoo-live-bait.md).
 - ⚠ Flagged gap — no corpus source: any light window, tide/slack, moon or
   wind effect on the wahoo bite, and no mechanism for why warm water switches
   them on beyond the fact that it does.
@@ -144,17 +145,15 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
 | Dedicated wahoo stop on a bank or the rocks, water ≥ 72 °F | 1) Trolled bomb-style lure 2) Cast a **wahoo bomb / Raider jig**, or a **Catch DC Strike** or **6X Jr-class** jig, sink then burn | Trolling class 80 lb / [jig-stick class](../tackle/gear-classes.md) | Trolling is what gets the boat stopped and lets you fish the heaviest outfit (`4uNPLknRAQg`); the bomb-and-Raider pair is the standard cast kit and the two "Catch"-brand jigs are the named alternatives when not trolling (`-62xDo4UQzo`, `0zgmoOH3Qag`, `9IhmYstB8sA`). Execution: [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice), [wahoo trolling](../techniques/wahoo-trolling.md), [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) [a] |
 | A trolling rod hooks up and the boat slides to a stop | Cast a bomb off the opposite side, let it sink to the depth called, then wind as fast as you can — the "on the slide" bite (`J3FGJj5zYPE`) | [jig-stick class](../tackle/gear-classes.md) | Over 90–100 ft, stay in the top 60 ft (`4uNPLknRAQg`). Free-spool the *trolling* lure for a 10–15 count as the boat slides so it drops back another 50–60 ft, then wind it in for a second chance (`4uNPLknRAQg`) |
 | Trolling with hard baits instead of a bomb | Single-hook high-speed diving plugs — **Nomad DTX 200** named, plus a Yo-Zuri Marauder-class plug run at **7–8 kt**, or up to **10.5 kt** once in 72 °F-plus water | Trolling class 80 lb | The DTX runs deeper than most trolling lures, which is the stated reason for it on any long-range trip (`9IhmYstB8sA`, `it_YYh_8Z-w`, `4uNPLknRAQg`) — see [DTX Minnow — wahoo trolling application](../lures/dtx-minnow.md#wahoo-trolling-application-dtx-200) |
-| Live bait on hand, fish holding on structure | Sardine flylined on a wire leader; on the bite **don't swing — wind through it** | [flyline class](../tackle/gear-classes.md) | Wire is single- or multi-strand, **200 or 300 lb**, with small connector rings in the build (`9IhmYstB8sA`) — see [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader). An unreconciled alternate bite response is in [Doctrine & conflicts](#doctrine--conflicts) [b] |
-| Bait comes back half-eaten, or the hookset finds nothing | Put the reel back in **free spool** and count to **10–15**; the fish circles back for the other half of the chunk | [flyline class](../tackle/gear-classes.md) | Repeated across three tackle tips (`jqyu3wZdNF4`, `4uNPLknRAQg`, `vNIazq1aVwc`); which moment triggers it is contested — see [Doctrine & conflicts](#doctrine--conflicts) |
+| Live bait on hand, fish holding on structure | Flyline a sardine on a wire leader — **[wahoo — live bait](wahoo-live-bait.md)** carries the bite handling (wind through it, don't swing) and the free-spool-and-count recovery on a half-eaten bait | [flyline class](../tackle/gear-classes.md) | Wire is single- or multi-strand with small connector rings; the three unreconciled wire tests and their hook sizes are on the sub-article (`9IhmYstB8sA`, `jqyu3wZdNF4`, `vNIazq1aVwc`, `4uNPLknRAQg`) — build detail in [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader) [a] |
 | Wahoo hooked, fighting it | Wind continuously — **do not pump the rod**; slack lets a wahoo throw the hook | Trolling class 80 lb | Two-speed reel: high gear for the strike, low to settle in — [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
 | Running between grounds, no time to slow down | Run a dedicated transit lure (magnet-held hook, stated to "run true" to ~**20 kt**) without dropping boat speed | Trolling class | ⚠ promotional claim — the lure-company owner describing his own product (`4t_Z75shK_E`); see [trolling — Magdalena Bay](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin) |
 | Mixed offshore troll (tuna/dorado/marlin) picking up wahoo | Standard offshore trolled spread, wire leader on at least one lure | Trolling class | No wahoo-specific rigging documented beyond the wire requirement (`tcso7Lpm_Xs`, `mG8ZZLFGlT8`, `APsnsunT4gM`) — see [trolling — East Cape](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin) |
 
 [a] Hooks come out of the package dull for this fishery: sharpen trolling
 plugs, bombs and live-bait hooks, because a wahoo's jaw is bony
-(`4uNPLknRAQg`).
-[b] Sardine is the named live bait; spend extra time at the tank selecting one
-and change baits regularly (`4uNPLknRAQg`, `vNIazq1aVwc`).
+(`4uNPLknRAQg`). Bait selection and the change-baits-regularly discipline are
+in [wahoo — live bait](wahoo-live-bait.md#how-wahoo-changes-the-execution).
 
 ## Gear summary (class terms)
 
@@ -169,8 +168,9 @@ and change baits regularly (`4uNPLknRAQg`, `vNIazq1aVwc`).
   bite-off — see
   [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md).
 - **Live bait:** [flyline class](../tackle/gear-classes.md), **60–65 lb** braid
-  with a **40 lb** top shot (`4uNPLknRAQg`), sardine on a **200–300 lb**
-  single- or multi-strand wire leader — see
+  with a **40 lb** top shot (`4uNPLknRAQg`), sardine on a single- or
+  multi-strand wire leader — leader test, hook sizes and bite handling in
+  [wahoo — live bait](wahoo-live-bait.md#rigs--gear), build detail in
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 - **Terminal:** wire leader on every presentation; the teeth cut mono
   regardless of test (`G81HN0dIDg0`). See
@@ -213,22 +213,13 @@ differing from a CDFW one is two jurisdictions, not a conflict. Registered in
 
 Section order below is not a ranking.
 
-**Free spool and wait is the settled response to a half-eaten bait; what is
-contested is which moment triggers it.** All three accounts agree the wahoo
-bites a live bait in half, leaves, and comes back for the remaining chunk if
-it is given time, and all three give the same fix — reel into free spool, wait
-roughly **10–15 seconds**, do not keep winding (`jqyu3wZdNF4`, `4uNPLknRAQg`,
-`vNIazq1aVwc`). The trigger differs: free-spool immediately on the initial hit,
-before engaging the reel at all, because putting it in gear right after the hit
-ends the bite outright (`jqyu3wZdNF4`); or free-spool reactively, after you set
-on the bite and come up with nothing but a chunk still on the hook
-(`vNIazq1aVwc`); the intermediate account frames the trigger as the bait having
-gone dead after the bite rather than a failed hookset (`4uNPLknRAQg`).
-**Decision frame:** the choice turns on whether you set the hook at all — an
-angler who sets gets the reactive version, an angler who does not gets the
-proactive one. It also sits against the "don't swing — wind through the bite"
-instruction in the router table (`9IhmYstB8sA`); all four agree on not reacting
-aggressively to the strike.
+**The two live-bait conflicts are carried on the sub-article.** The contested
+trigger for the free-spool recovery — proactive on the initial hit versus
+reactive after an empty hookset — and the factor-of-five spread in live-bait
+wire test, both unreconciled and each with its decision frame, are in
+[wahoo — live bait](wahoo-live-bait.md#how-wahoo-changes-the-execution) and its
+[rigs & gear](wahoo-live-bait.md#rigs--gear) (`jqyu3wZdNF4`, `vNIazq1aVwc`,
+`4uNPLknRAQg`, `9IhmYstB8sA`).
 
 **Wire versus heavy fluorocarbon on lures turns on lure attrition, not on hookup
 rate.** The house rule is wire everything, because a lost lure costs **$25** and
@@ -240,19 +231,6 @@ no wire, no wahoo caveat — is given while naming wahoo among the targets
 (`JHMCguO7sXE`) — see
 [tuna poppers and stickbaits — casting gear](../lures/tuna-poppers-and-stickbaits.md#casting-gear-for-poppers-and-burn-baits)
 and [wahoo trolling — rigging](../techniques/wahoo-trolling.md#rigging).
-
-**Live-bait wire test is unreconciled by a factor of five.** One build runs
-**200–300 lb** wire (`9IhmYstB8sA`), another **60 lb**
-sleeve-crimped to a 1/0 or 2/0 hook (`S80GRyuAbLY`; the same demonstration
-re-aired as `_Z4yMtrYgeA`, re-cut footage rather than independent
-confirmation), and **44 lb** to a 3/0 hook for flylining (`G81HN0dIDg0`), with
-no stated reason for the gap. **Decision frame:** no source ties the test to
-bait size, water clarity or fish grade, so the choice is between a leader that
-will not be bitten off and one that will not deaden a bait — pick per your
-tolerance for losing fish versus losing bites. All three builds are in
-[haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
-⚠ Fact-check (contradicted-internal): three wire tests for one application from
-one channel.
 
 **Cast versus troll for the same bomb-style lure turns on hookup ratio versus
 water covered.** Trolling is preferred at Alijos Rocks specifically for hookup
@@ -295,6 +273,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [Evidence — Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/evidence/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/evidence/searcher-four-outfit-guadalupe-quiver.md)
 - [Evidence — Wahoo](evidence/wahoo.md)
+- [Evidence — Wahoo — live bait](evidence/wahoo-live-bait.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
@@ -312,5 +291,6 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
+- [Wahoo — live bait](wahoo-live-bait.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

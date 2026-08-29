@@ -165,4 +165,5 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo-trolling.
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
+- [Wahoo — live bait](../species/wahoo-live-bait.md)
 <!-- backlinks:end -->
