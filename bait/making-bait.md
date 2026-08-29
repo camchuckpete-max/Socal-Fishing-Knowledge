@@ -295,6 +295,7 @@ shortages, where the barge isn't an option.
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [North Point](../locations/north-point.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)

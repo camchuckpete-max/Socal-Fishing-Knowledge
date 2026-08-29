@@ -151,6 +151,7 @@ route, and the insurance carriers by name.
 - [Guadalupe](../locations/guadalupe.md)
 - [La Bocana](../locations/la-bocana.md)
 - [Mexican waters](../locations/mexican-waters.md)
+- [North Point](../locations/north-point.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)

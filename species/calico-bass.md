@@ -435,6 +435,7 @@ Trip reports and per-source provenance:
 - [Moon](../conditions/moon.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
+- [North Point](../locations/north-point.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)

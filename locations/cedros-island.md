@@ -403,6 +403,7 @@ with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 <!-- children:start -->
 - [Chester's Rock](chester-s-rock.md)
 - [Geronimo Island](geronimo-island.md)
+- [North Point](north-point.md)
 <!-- children:end -->
 
 ## Evidence
@@ -427,6 +428,7 @@ Trip reports and per-source provenance:
 - [Guadalupe](guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [North Point](north-point.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [San Quintin](san-quintin.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

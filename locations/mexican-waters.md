@@ -132,6 +132,7 @@ Trip reports and per-source provenance:
 - [Lower Cross](lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Middle Grounds](middle-grounds.md)
+- [North Point](north-point.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

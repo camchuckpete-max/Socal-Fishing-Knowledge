@@ -334,6 +334,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [La Jolla](../locations/la-jolla.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [North Point](../locations/north-point.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

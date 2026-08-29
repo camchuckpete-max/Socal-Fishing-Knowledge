@@ -523,6 +523,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [May](../seasonal/may.md)
 - [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
+- [North Point](../locations/north-point.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
