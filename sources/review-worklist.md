@@ -245,7 +245,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-maxima-shark-tooth-leader-tool.md | light | done | none | light-tier v2 transform verified: provenance split to evidence file, stale anchor fixed, no meaning drift |
 | tackle/tackle-express-minnow-rod.md | light | done | asr-uncertain(IRD Corkus 702 model name, carried forward) | light-tier v2 transform: evidence split + plain-statement rewrite, verified no info loss |
 | tackle/tackle-express-mustad-heavy-duty-pliers.md | light | done | asr-uncertain(sheath/sheet), contradicted-internal(1) | light-tier v2 transform verified: provenance split to evidence file, material conflict flagged with ledger row, all claims conserved |
-| tackle/tackle-express-night-bluefin-tg-jig-rig.md | light | pending |  |  |
+| tackle/tackle-express-night-bluefin-tg-jig-rig.md | light | done | gaps(1) | light-tier v2 transform verified: evidence split, one miscitation and one dropped cross-reference fixed during verify |
 | tackle/tackle-express-penn-handle-knob-replacement.md | light | pending |  |  |
 | tackle/tackle-express-penn-pull-to-turn-preset-drag.md | light | pending |  |  |
 | tackle/tackle-express-penn-vs-avet-lever-drag.md | light | pending |  |  |

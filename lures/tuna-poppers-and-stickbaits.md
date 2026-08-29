@@ -821,6 +821,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Essential SoCal Knots](../rigging/evidence/essential-knots.md)
 - [Evidence — Foamer Casting](../techniques/evidence/foamer-casting.md)
+- [Evidence — Tungsten (TG) Jig Rig for Bluefin (Tackle Express)](../tackle/evidence/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
