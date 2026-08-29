@@ -72,10 +72,12 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 ## Open items (attributed, not doctrine)
 
 - **Setup 3 (Tranx)** braid weight pending respool — do not record a weight yet.
-- Shopping a **dedicated SPJ / speed-jig setup** for night bluefin +
-  September BOLA bottom yellowtail (one setup for both if possible) — see
+- Shopping a **dedicated SPJ / speed-jig setup** for night
+  [bluefin](../../species/bluefin-tuna.md) knife jigging + September BOLA
+  bottom yellowtail (one setup for both if possible) — see
   [slow-pitch jigging](../../techniques/slow-pitch-jigging.md) and
-  [knife jigging](../../techniques/knife-jigging.md).
+  [knife jigging](../../techniques/knife-jigging.md). **Not yet owned** —
+  resolve gear from class terms until it lands.
 - May strip the Fathom 80's 100 lb braid to a bulk spool and bank it; wants a
   library of banked bulk braid spools to swap reel setups per program (e.g.
   future daytime swordfish on manual reels).
@@ -91,6 +93,5 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
-- [Slow-Pitch Jigging (SPJ)](../../techniques/slow-pitch-jigging.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
 <!-- backlinks:end -->
