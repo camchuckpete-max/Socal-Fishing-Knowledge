@@ -39,11 +39,12 @@
 - [Evidence — Accurate Valiant 2 SPJ (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Per-source provenance for Accurate Valiant 2 SPJ — centrifugal brake, strike button, single/two-speed.
 - [Evidence — Bait-Tank Time-Savers (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Per-source provenance and re-cut tracing for Bait-Tank Time-Savers — artificial octopus and pre-scented Gulp on the rock-cod dropper loop.
 - [Evidence — Baitcaster Gear Ratio for Landing Big Yellowtail (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md) — Trip reports and per-source provenance for Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express).
+- [Evidence — Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md) — Trip reports and per-source provenance for Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express).
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 35 notes exceed the 30-node cap._
+_Map skipped: 36 notes exceed the 30-node cap._
 <!-- mermaid:end -->
