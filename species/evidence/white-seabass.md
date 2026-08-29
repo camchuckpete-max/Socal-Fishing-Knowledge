@@ -317,8 +317,10 @@ Program and trip context, not fishing doctrine any angler can replicate. Flagged
 
 - [Evidence — White Seabass — dropper loop](white-seabass-dropper-loop.md)
 - [Evidence — White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
+- [Evidence — White Seabass — sliding sinker](white-seabass-sliding-sinker.md)
 - [White Seabass](../white-seabass.md)
 - [White Seabass — dropper loop](../white-seabass-dropper-loop.md)
 - [White Seabass — lead head and squid](../white-seabass-leadhead-squid.md)
 - [White Seabass — leadhead swimbait](../white-seabass-leadhead-swimbait.md)
+- [White Seabass — sliding sinker](../white-seabass-sliding-sinker.md)
 <!-- backlinks:end -->

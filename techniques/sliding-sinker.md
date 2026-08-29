@@ -72,81 +72,21 @@ the squid and adds a light attractant on the common **night** bite
   behind it in the current, which triggers bites — strong on both the anchor
   and the drift (`apyGy3XKlss`).
 
-## White seabass weight ladder & suspend-and-retrieve
+## White seabass — suspend-and-retrieve
 
-- **Hook:** a thin-wire Mustad hook rather than an octopus hook, squid hooked
-  the same way as the same channel's dedicated hook-a-squid video
-  (`ShSxNKAcUB4`).
-- **Weight ladder, scaled to current and depth:** run the least weight that
-  will still get the bait down — an eighth of an ounce or a quarter ounce when
-  conditions allow. Step up to a half or **three-quarters of an ounce** as
-  current picks up or the water gets deeper. Rarely goes to a full ounce on a
-  live or dead squid — it sinks through the column too fast at that weight
-  (`ShSxNKAcUB4`). In genuinely heavy current over deep water, the slider is
-  dropped entirely for a heavy jig with the squid hooked on it, fished
-  straight down (asr-uncertain: captions render the jig name as "a TLC" — not
-  carried as a brand; see LOG).
-- **The same heavy-current jig, independently corroborated and extended:**
-  two Tady-brand jig sizes fill this role — a smaller one captioned
-  identically as "TLC" and a larger **Tady 40** — both carrying an oversized
-  single hook built to pin a whole fresh dead squid (1-3 squid per jig,
-  deckhand/captain permitting) and a glow-in-the-dark backside. The same "TLC"
-  ASR string recurring independently across two Tackle Express transcripts
-  reads as corroboration that this is close to the jig's actual model
-  designation, though the full brand/model isn't confirmed against a catalog
-  (`Eo_bA8IWvyU`). **Fished as a stationary bottom soak, not a worked jig:**
-  drop to bottom, crank up roughly 3-6 to 10 ft to clear snags and bottom
-  bycatch, then leave it hanging in the rod holder — the boat's own roll works
-  the jig passively rather than the angler jigging it. Framed as a
-  **gray-light/very-low-light technique specifically** (pre-dawn, heavy fog,
-  or a spot shadowed from the sun), on the reasoning that most white seabass
-  are caught in low light and the glow back draws the look before the squid
-  pile draws the eat (`Eo_bA8IWvyU`).
-- **Lead-head color, a separate point from the same source:** orange-headed
-  lead heads for squid — not heavy, sink well through the column, sized with a
-  big enough hook to carry the squid — read as a **reaction color** for white
-  seabass watching the squid sink (`ShSxNKAcUB4`). Whether this orange lead
-  head is the same lure as the heavy current-jig above or a separate, lighter,
-  general-purpose pick is not established on camera.
-- **Suspend-and-retrieve:** cast the bait out and let it sink slowly through
-  the water column; once it reaches bottom, reel it straight back up and cast
-  again immediately — never leave it soaking on the bottom. Produces action
-  (white seabass, yellowtail, calico bass, perch, sheephead, or bottom
-  bycatch) on close to every cast; if a stretch of casts draws nothing at all,
-  move (`ShSxNKAcUB4`).
-- **Why suspend, not soak:** white seabass have a forward-facing mouth and
-  feed up in the column, not down in the sand — a bait left on the bottom
-  draws bat rays, shovelnose guitarfish, and leopard sharks instead
-  (`ShSxNKAcUB4`).
-- **Dropper-loop alternative** for anglers who prefer to soak a rod in the
-  holder instead of casting and retrieving: a dropper loop tied 12 to 18
-  inches above the sinker holds the squid up out of bottom contact the same
-  way — see [dropper loop](dropper-loop.md) (`ShSxNKAcUB4`).
-
-**A second slider build, chosen by where the fish sit in the column**
-(`Eo_bA8IWvyU`). Where the ladder above emphasizes going as light as the
-current allows, this build frames the choice around depth: reach for the
-sliding/egg sinker over the dropper loop specifically when the skipper calls
-fish **higher in the column or near the surface** — e.g. fish called at 20-30
-ft over 60-100 ft of bottom — rather than pinned to the bottom, where the
-dropper loop is the better tool.
-
-- **Glow-in-the-dark egg sinkers**, fished the same free-sliding way, are a
-  variant for a more natural presentation (`Eo_bA8IWvyU`).
-- **Weight for the same fish-higher-in-the-column trigger, a companion
-  citation:** the "slider squid" rig runs a **1/4 oz or 1/2 oz slider** paired
-  with an **Owner Aki Twist hook** — see [hooks](../tackle/hooks.md) for the
-  same channel's Aki Twist sizing. A second data point in the same weight
-  range as the general ladder above, not reconciled to a single number
-  (`nRIAgz5G_Bc`).
-- **Working the column instead of one static depth:** let line out under
-  steady tension (never dump it in slack) so the bait sinks cleanly; after it
-  has had time to settle, engage the reel and take a few cranks to bring the
-  sinker back up near the bait, then free-spool again to let it separate and
-  keep sinking — repeating the cycle works the bait progressively deeper
-  through the zone the skipper is calling rather than fishing one fixed
-  depth. Fished on full fresh dead squid or fin bait, same as the dropper
-  loop (`Eo_bA8IWvyU`).
+The white seabass variation is now its own page: the 1/8-3/4 oz weight ladder
+scaled to current and depth (with a full ounce already too fast), the thin-wire
+Mustad hook in place of the octopus default, the cast-sink-to-bottom-then-reel-
+straight-up cadence and the forward-set-mouth mechanism behind it, the stepped
+free-spool cycle that works the whole column, the glow egg-sinker and 1/4-1/2 oz
+Aki-Twist "slider squid" variants, the depth-triggered choice between this rig
+and the dropper loop (fish called 20-30 ft over 60-100 ft), and the heavy-current
+exit to a squid-pinned glow jig all live in [white seabass — sliding
+sinker](../species/white-seabass-sliding-sinker.md) (`ShSxNKAcUB4`,
+`Eo_bA8IWvyU`, `nRIAgz5G_Bc`). The orange-lead-head reaction-colour doctrine
+stated in the same breath belongs with its lure and is in [white seabass — lead
+head and squid](../species/white-seabass-leadhead-squid.md). See
+[white seabass](../species/white-seabass.md) for species-level routing.
 
 ## Baja, Sea of Cortez grouper leader
 
@@ -324,6 +264,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md)
 - [California Sheephead — sliding sinker](../species/sheephead-sliding-sinker.md)
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
+- [White Seabass — sliding sinker](../species/white-seabass-sliding-sinker.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -350,6 +291,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../tackle/evidence/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Evidence — Sliding Sinker](evidence/sliding-sinker.md)
 - [Evidence — Snook (Robalo) — sliding sinker](../species/evidence/snook-sliding-sinker.md)
+- [Evidence — White Seabass — sliding sinker](../species/evidence/white-seabass-sliding-sinker.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](flyline.md)
@@ -383,5 +325,6 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 - [White Seabass — lead head and squid](../species/white-seabass-leadhead-squid.md)
+- [White Seabass — sliding sinker](../species/white-seabass-sliding-sinker.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

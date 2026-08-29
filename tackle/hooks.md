@@ -618,6 +618,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Trolling](../techniques/trolling.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
+- [White Seabass — sliding sinker](../species/white-seabass-sliding-sinker.md)
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — dropper loop](../species/yellowtail-dropper-loop.md)

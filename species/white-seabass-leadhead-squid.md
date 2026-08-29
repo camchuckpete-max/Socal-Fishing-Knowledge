@@ -166,5 +166,8 @@ source provenance: [white seabass evidence](evidence/white-seabass.md).
 ## Linked from
 
 - [Evidence — White Seabass — lead head and squid](evidence/white-seabass-leadhead-squid.md)
+- [Evidence — White Seabass — sliding sinker](evidence/white-seabass-sliding-sinker.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [White Seabass](white-seabass.md)
+- [White Seabass — sliding sinker](white-seabass-sliding-sinker.md)
 <!-- backlinks:end -->

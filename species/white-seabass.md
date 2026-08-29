@@ -388,4 +388,5 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [White Seabass — dropper loop](white-seabass-dropper-loop.md)
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
 - [White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md)
+- [White Seabass — sliding sinker](white-seabass-sliding-sinker.md)
 <!-- backlinks:end -->

@@ -895,4 +895,5 @@ by their builders after the transform phase drains.
 | species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/snook-sliding-sinker.md | standard | transformed | none | verified already-compliant, no note changes needed; 1 accurate spot-harvest row appended and confirmed against transcript |
 | locations/lopez-mateos-magdalena-bay-boca.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| species/white-seabass-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
 <!-- review:worklist:end -->

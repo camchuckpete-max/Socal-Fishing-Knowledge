@@ -174,4 +174,5 @@ source provenance: [white seabass evidence](evidence/white-seabass.md).
 - [White Seabass](white-seabass.md)
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
 - [White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md)
+- [White Seabass — sliding sinker](white-seabass-sliding-sinker.md)
 <!-- backlinks:end -->
