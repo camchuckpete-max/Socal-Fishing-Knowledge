@@ -38,13 +38,13 @@ Trip reports and per-source provenance for
 
 ## Working it mid-column
 
-- `0PAPH1uqk4A` (Tackle Express, 2025-04-25): unregistered channel, medium
-  confidence. Describes the current-assisted, flick-it-out, wind-and-pop
-  mid-column squid presentation.
-- `Eo_bA8IWvyU` (Tackle Express, 2025-04-16 — nine days before
-  `0PAPH1uqk4A`, same channel/presenter): near-identical mechanics to
-  `0PAPH1uqk4A`; treated as the same doctrine repeated across two uploads
-  rather than an independent confirmation.
+- Moved with the section body to [white seabass — lead head and squid
+  evidence](../../species/evidence/white-seabass-leadhead-squid.md): the
+  `0PAPH1uqk4A` and `Eo_bA8IWvyU` provenance for the current-assisted,
+  flick-it-out, wind-and-pop mid-column presentation — including the reading
+  that the two uploads are the same doctrine repeated nine days apart on the
+  same channel rather than independent confirmation — now sits with the
+  program it backs.
 
 ## Banana head
 

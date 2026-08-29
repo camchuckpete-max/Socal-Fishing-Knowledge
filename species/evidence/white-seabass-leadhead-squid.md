@@ -2,7 +2,7 @@
 type: evidence
 parent: ../white-seabass-leadhead-squid.md
 tags: [white-seabass, wsb, leadhead, squid]
-sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU]
+sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU, 0PAPH1uqk4A]
 confidence: medium
 ---
 
@@ -53,6 +53,24 @@ is an unregistered channel that caps at medium on its own.
   distance, "I'll click it into gear and I might wind and pop the rod... you're
   getting the tail of the squid to pop, flick, pop, flick... trying to get that
   fish to become from curious to becoming a biter."
+- `0PAPH1uqk4A` (Tackle Express — "How & When to Fish Leadhead + Squid for
+  White Seabass (Quick Tip!)", 2025-04-25; unregistered channel): the same
+  mid-column presentation as the walkthrough above, uploaded nine days after it
+  by the same channel and presenter — a full squid on the head, "I'll flick it
+  out behind the boat, let it sink back. I do like there to be some current when
+  I fish these lead heads just that way I could get it back behind the boat and
+  away from us," the column fished "from pretty high to the surface" and sunk
+  "down to wherever the skipper's telling me that the fish are," "always have
+  some good tension on the free spool. That way it's not just sinking like a
+  rock... I want that to kind of flow, dance, and go with the current by
+  itself," then "once I get to a depth or a distance away from the boat that I
+  think is sufficient, I'll click it into gear and I might wind and pop the
+  rod... getting the tail of the [squid] to pop, flick" to move the fish "from
+  curious to becoming a biter." Treated as the same doctrine repeated across two
+  uploads rather than an independent confirmation, so it does not lift the
+  parent above `confidence: medium`. Moved here with the section body from
+  [leadhead mods evidence](../../rigging/evidence/leadhead-mods.md), which had
+  carried the mid-column presentation before this page existed.
 - `Eo_bA8IWvyU` (same walkthrough, bite handling): "sea bass, you do want to let
   them eat it — they're going to chomp, slowly eat it, and once that rod loads
   down, that's when you're going to want to set the hook." Stated species-general
@@ -97,6 +115,7 @@ is an unregistered channel that caps at medium on its own.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Leadhead Mods & Rigging](../../rigging/evidence/leadhead-mods.md)
 - [Evidence — White Seabass](white-seabass.md)
 - [White Seabass — lead head and squid](../white-seabass-leadhead-squid.md)
 <!-- backlinks:end -->

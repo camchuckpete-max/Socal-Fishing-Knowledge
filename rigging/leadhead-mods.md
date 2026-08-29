@@ -105,16 +105,12 @@ below (`xFS3MW4GpDU`).
 
 ### Working it mid-column
 
-When fish sit mid-column rather than on the bottom, rig a full squid on the
-leadhead, flick it out behind the boat, and let it sink back with some
-current present so it drifts back and away from the boat instead of dropping
-straight down underneath it (`0PAPH1uqk4A`, `Eo_bA8IWvyU`). Hold steady
-tension on the free-spool through the drop for a slow, natural drift with
-the current rather than a straight drop, working the column from up near the
-surface down to whatever depth is holding fish; once the bait reaches
-sufficient depth, engage the reel and work it with a "wind and pop" — short
-pops/flicks of the rod tip to kick the squid's tail — to turn a follow into
-a bite (`0PAPH1uqk4A`, `Eo_bA8IWvyU`).
+Fishing this rig mid-column rather than on the bottom is a white seabass
+program: the flick-behind-the-boat cast, the current wanted so the bait drifts
+back and away from the boat, the thumb-tensioned free-spool sink, working the
+column from near the surface down to the holding depth, and the wind-and-pop
+that converts a follow into a bite are in [white seabass — lead head and
+squid](../species/white-seabass-leadhead-squid.md).
 
 ### Dockside leadhead selection
 

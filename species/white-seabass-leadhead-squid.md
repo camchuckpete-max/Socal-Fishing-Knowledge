@@ -1,7 +1,7 @@
 ---
 type: species-technique
 tags: [white-seabass, wsb, leadhead, squid, gray-light, islands, mid-column]
-sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU]
+sources: [Xr4nURK-Z48, Eo_bA8IWvyU, ShSxNKAcUB4, F-vOTerdulU, 0PAPH1uqk4A]
 confidence: medium
 regions: [socal-bight]
 waters: [island, nearshore-coast]
@@ -20,12 +20,12 @@ pair reads as squid mating, which happens in the night and gray-light hours
 (`Xr4nURK-Z48`). It is fished as a drift, not a drop: flicked out behind the
 boat and let down on a thumb-tensioned free spool so it flows and dances away
 with the current, then worked with a wind-and-pop that turns a curious looker
-into a biter (`Eo_bA8IWvyU`). Reach for it when the fish are mid-column rather
-than pinned to the bed, and when there is current to carry the bait. Threading
-the squid, the straight-tracking hook insertion and head selection are in
-[leadhead mods & rigging](../rigging/leadhead-mods.md); this page is what
-changes because the fish is a white seabass and the bait is a mating pair of
-squid.
+into a biter (`Eo_bA8IWvyU`, `0PAPH1uqk4A`). Reach for it when the fish are
+mid-column rather than pinned to the bed, and when there is current to carry
+the bait. Threading the squid, the straight-tracking hook insertion and head
+selection are in [leadhead mods & rigging](../rigging/leadhead-mods.md); this
+page is what changes because the fish is a white seabass and the bait is a
+mating pair of squid.
 
 ## When this is the call
 
@@ -38,10 +38,10 @@ window, not a location.
 
 **Fish called mid-column, with current running.** The lead head is the same
 concept as a [sliding sinker](../techniques/sliding-sinker.md) when the fish
-are up off the bottom, fished differently (`Eo_bA8IWvyU`). Current is wanted,
-not tolerated — the whole point of flicking it behind the boat is to get the
-bait back behind and **away from** the boat rather than dropping straight down
-underneath it (`Eo_bA8IWvyU`). See
+are up off the bottom, fished differently (`Eo_bA8IWvyU`, `0PAPH1uqk4A`).
+Current is wanted, not tolerated — the whole point of flicking it behind the
+boat is to get the bait back behind and **away from** the boat rather than
+dropping straight down underneath it (`Eo_bA8IWvyU`, `0PAPH1uqk4A`). See
 the router's [situations → techniques](white-seabass.md#situations--techniques)
 row.
 
@@ -69,17 +69,18 @@ same reason squid-fished heads go bigger for more current and lighter for less
 **The sink is worked, not waited out.** Flick it out behind the boat and let it
 sink back while keeping steady tension on the free spool with the thumb — "that
 way it's not just sinking like a rock," so the bait flows, dances and goes with
-the current by itself (`Eo_bA8IWvyU`). Fish the column from up near the surface
-down to whatever depth the skipper is calling the fish, which is what gives the
-best chance of the bait passing them on the way (`Eo_bA8IWvyU`).
+the current by itself (`Eo_bA8IWvyU`, `0PAPH1uqk4A`). Fish the column from up
+near the surface down to whatever depth the skipper is calling the fish, which
+is what gives the best chance of the bait passing them on the way
+(`Eo_bA8IWvyU`, `0PAPH1uqk4A`).
 
 **Wind and pop converts a curious looker into a biter.** Once the bait is at a
 depth and a distance from the boat that look sufficient, click into gear and
 wind and pop the rod — the pops kick the squid's tail so it pops and flicks —
 and that small burst of motion is what turns a curious fish into a biting one
-(`Eo_bA8IWvyU`). White seabass are described as lazy and curious, which is why
-motion rather than a bigger bait is the lever here; the same curiosity
-mechanism is in the router's
+(`Eo_bA8IWvyU`, `0PAPH1uqk4A`). White seabass are described as lazy and
+curious, which is why motion rather than a bigger bait is the lever here; the
+same curiosity mechanism is in the router's
 [presence & forage](white-seabass.md#presence--forage).
 
 **The bite is taken slowly, and the rod is in your hands.** This is a held-rod
@@ -136,11 +137,10 @@ selection and weight ranges, and the hook-spring and split-ring mods:
   program.** It owns the build — swimbait-style threading, the straight-tracking
   hook insertion, head selection and the weight ranges — alongside the
   hook-spring, split-ring, banana-head, Neck-Breaker and swing-head variants
-  that belong to other fish entirely. Its "Squid rigging for white seabass" and
-  "Working it mid-column" sections still carry this program's own parameters as
-  well; that duplication is queued for compression to a pointer
-  ([relocation queue](../sources/relocation-queue.md)) and this page is the
-  destination, so read the delta below against the rigging half.
+  that belong to other fish entirely. Its "Working it mid-column" section is now
+  a pointer to this page; its "Squid rigging for white seabass" section still
+  carries the rig-side parameters this program shares, so read the delta below
+  against that rigging half.
 - **The bite handling is species doctrine, not rig doctrine.** White seabass
   chomp and eat slowly, so the set comes when the rod loads down rather than on
   the first tap (`Eo_bA8IWvyU`); the rig note's own active-style bite read —
@@ -167,6 +167,7 @@ source provenance: [white seabass evidence](evidence/white-seabass.md).
 
 - [Evidence — White Seabass — lead head and squid](evidence/white-seabass-leadhead-squid.md)
 - [Evidence — White Seabass — sliding sinker](evidence/white-seabass-sliding-sinker.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [White Seabass](white-seabass.md)
 - [White Seabass — sliding sinker](white-seabass-sliding-sinker.md)
