@@ -355,6 +355,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rubber-band-dee
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Essential SoCal Knots](evidence/essential-knots.md)
 - [Evidence — Rubber-Band Deep Rig](evidence/rubber-band-deep-rig.md)
+- [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/evidence/searcher-four-outfit-guadalupe-quiver.md)
 - [Evidence — Sliding Sinker](../techniques/evidence/sliding-sinker.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Guadalupe](../locations/guadalupe.md)
@@ -364,7 +365,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rubber-band-dee
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md)
-- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

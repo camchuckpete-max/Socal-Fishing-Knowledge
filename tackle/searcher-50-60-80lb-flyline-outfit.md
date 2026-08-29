@@ -136,6 +136,7 @@ file](evidence/searcher-50-60-80lb-flyline-outfit.md).
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Evidence — Searcher 50/60/80 lb Live-Bait Flyline Outfit](evidence/searcher-50-60-80lb-flyline-outfit.md)
-- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
+- [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](evidence/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

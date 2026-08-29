@@ -492,7 +492,7 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Searcher 30 lb Large-Tuna Outfit](../tackle/searcher-30lb-large-tuna-outfit.md)
-- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Underhand Casting](../techniques/underhand-casting.md)
 - [White Seabass](../species/white-seabass.md)

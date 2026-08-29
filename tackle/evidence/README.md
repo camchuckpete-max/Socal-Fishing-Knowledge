@@ -29,6 +29,7 @@
 - [Evidence — Searcher Bluefin Jig Ladder by Daypart and Depth](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) — Per-source provenance for Searcher bluefin jig ladder by daypart and depth: channel status, upload date, and asr-uncertain naming detail the main note's prose g
 - [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](searcher-daytime-dart-jig-outfit-ladder.md) — Per-source provenance for Searcher daytime dart-jig outfit ladder: channel status, video title/date, and the on-camera bite-mark detail the main note's prose ga
 - [Evidence — Searcher Finesse Live-Bait Outfit](searcher-finesse-live-bait-outfit.md) — Per-source provenance for Searcher finesse live-bait outfit: channel status, registration confidence, upload dates, and the single-trip 44 lb-tuna observation t
+- [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md) — Per-source provenance for Searcher four-outfit quiver — Fisherman's Landing rental packages: channel status, registration confidence, ASR-uncertain caption read
 <!-- index:end -->
 
 
