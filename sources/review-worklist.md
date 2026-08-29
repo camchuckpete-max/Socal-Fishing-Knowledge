@@ -873,4 +873,6 @@ by their builders after the transform phase drains.
 | species/calico-bass-surface-iron.md | standard | transformed | gaps(1 pre-existing), misplaced(0), spots(3), reg-claims(0) | verified: note already compliant; diff is 3-row spot-harvest addition (Cedros Island x2, Geronimo Island/Chester's Rock) |
 | species/california-halibut-live-bait-drift.md | standard | transformed | gaps(0), misplaced(0), spots(2), reg-claims(0) | verified: already v2-compliant; diff is 2-row spot-harvest addition (Mission Bay/San Diego Bay, Channel Islands) |
 | species/california-halibut-surf-lures.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
+| locations/geronimo-island-chester-s-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/mission-bay-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
