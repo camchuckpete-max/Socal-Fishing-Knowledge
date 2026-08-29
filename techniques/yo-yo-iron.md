@@ -93,9 +93,9 @@ splash, and wind it as a swim retrieve, or cast, splash, let it hit bottom, and
 fish it like a yo-yo jig (`HQC-NwW4018`); see also
 [dart jig — daytime finesse tuna](dart-jig-tuna.md) for its usual application.
 
-**Baja, Sea of Cortez — cabrilla runs a cast-and-burn, not a bottom hop**, on
-its own cadence count, bite window and depth-keyed iron picks: see
-[cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md).
+**Baja, Sea of Cortez — cabrilla runs a cast-and-burn, not a bottom hop**
+(`EmZO8QiOfik`), on its own cadence count, bite window and depth-keyed iron
+picks: see [cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md).
 
 ## Cadence variants
 
