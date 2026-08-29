@@ -290,7 +290,9 @@ guide per zone:
 - **San Clemente Island** — ⚠ Flagged stub — no zone guide yet; material in
   the evidence file.
 - **Offshore banks (Cortez/Tanner)** — ⚠ Flagged stub — no zone guide yet;
-  material in the evidence file.
+  material in the evidence file. The run, the bank's depth bands, and the
+  Cortez/Tanner naming tension are on the zone page,
+  [Tanner Bank](../locations/tanner-bank.md).
 - **Cedros Island** — ⚠ Flagged stub — no zone guide yet; material in the
   evidence file.
 - **Bahía de los Ángeles (BOLA)** — ⚠ Flagged stub — no zone guide yet;

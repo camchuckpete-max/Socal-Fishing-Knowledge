@@ -388,10 +388,12 @@ Per-trip detail and conditions are in
 - [Evidence — Ocean Whitefish](../species/evidence/ocean-whitefish.md)
 - [Evidence — Rockfish & Lingcod](../species/evidence/rockfish-lingcod.md)
 - [Evidence — Tanner Bank](evidence/tanner-bank.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hancock Bank](hancock-bank.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
