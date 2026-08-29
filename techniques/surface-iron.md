@@ -466,6 +466,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 <!-- species-applications:start -->
 ## Species applications
 
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- species-applications:end -->
 
@@ -477,6 +478,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
@@ -487,7 +489,6 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
-- [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Imperial Beach](../locations/evidence/imperial-beach.md)

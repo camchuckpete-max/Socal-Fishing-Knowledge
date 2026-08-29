@@ -32,5 +32,6 @@ Trip reports and per-source provenance backing [surface iron — colour](../surf
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Calico Bass — surface iron](../../species/evidence/calico-bass-surface-iron.md)
 - [Surface Iron — Colour](../surface-iron-color.md)
 <!-- backlinks:end -->

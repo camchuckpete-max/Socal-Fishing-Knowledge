@@ -209,14 +209,15 @@ whether the bite shuts down post-spawn.
 | --- | --- | --- | --- |
 | Kelp bed, parallel current, fish tight to individual stringers | **Weedless swimbait** ([swimbaits](../techniques/swimbaits.md)) — short targeted casts to the stringers, fast steady wind, pause on the eat | 7–8 ft graphite-composite [bass class](../tackle/gear-classes.md), 40–60 lb | 7" weedless slug on a 3/8–3/4 oz keel-weighted spring hook; soft glass tip so you don't pull it out of the fish's mouth; heavy fluoro leader for kelp abrasion (`YIABTTYXeqc`) |
 | Kelp/beach edge, need to draw fish from a distance, picky fish | **Open (un-weedless) slug / surface presentation** ([swimbaits](../techniques/swimbaits.md)) — bomb cast, skitter with a 1-2-3 pause | 8–9 ft bass class | The slug calls fish off the stringers; pause after the eat, then set |
-| Bigger cruising fish, current up, want to cover the edge on top | **Surface iron** ([surface iron](../techniques/surface-iron.md)) — steady grind along the kelp line | [jig-stick class](../tackle/gear-classes.md), [iron jigs](../lures/iron-jigs.md) | Change kick and speed to the bite; a slow drawn-out profile for slack or picky current |
+| Bigger cruising fish, current up, want to cover the edge on top | **[Surface iron — for calico](calico-bass-surface-iron.md)** ([general method](../techniques/surface-iron.md)) — grind the kelp line | [jig-stick class](../tackle/gear-classes.md), [iron jigs](../lures/iron-jigs.md) | Covers a whole edge where a weedless cast covers one stringer; retrieve, working depth and colour are in the sub-article [c] |
+| **Shallow reef, birds working, no surface sign** — fish found on the meter rather than on top | **[Surface iron — for calico](calico-bass-surface-iron.md)** worked on the drift | jig-stick class, [iron jigs](../lures/iron-jigs.md) | Reef bottom at **18–20 ft**, wide-open bite with birds overhead marking the fish (`I-QBxuV2p7M`) [c] |
 | Sparse kelp lanes, fish not committing to weedless | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** / hard bait / Wax Wing (⚠ Flagged stub — no corpus source yet) through the lanes | 7–10 ft graphite bass / **crank class** | Crank the 80–100 ft lanes; execution, rigging upgrades and depth doctrine in the technique note |
 | Live bait aboard, fish deeper on the edge or in wind | **Flyline** a sardine or mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
 | Tight to the beach, current ripping, no kelp | **Free-spool bounce a weighted soft-plastic tube** off the bottom — enough weight to hold, let the current sweep it between bounces ([swimbaits — beach bounce](../techniques/swimbaits.md#beach-bounce-in-ripping-current--the-stupid-tube-tackle-express)) | bass class | 1.5 oz held bottom in ripping current; the current pulled the bait 5–10 ft further each bounce, "calicos every cast" (`9a-Zy_D6c3w`) |
 | **Grunion or bait blitz in the kelp**, even in ugly stagnant water | Match the bait — 7" split-tail slug on a sled or leadhead, every cast | bass class | Overrides the water read entirely; birds stay on top of the moving bait (`OYOda6T3f-8`) |
 | Fish holding tight **underneath a dense kelp canopy**, not just the edge, with an established bite pattern | **Flip or punch a heavy jighead into gaps in the canopy** — a freshwater-bass flipping presentation borrowed onto kelp ([flipping the kelp canopy](../techniques/swimbaits.md#flipping-the-kelp-canopy-observed-aaron-martens--benny-florentino)) | bass casting class | ⚠ Fact-check (single-source): one session at San Clemente Island, December 2013 (`P6Slg6RQiXw`) — a pattern, not established doctrine |
-| **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **Downsized surface iron** ([surface iron](../techniques/surface-iron.md)) — a 5.5 in mini-iron worked in tight on the beach | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calico on the small iron, wait for the yellows to reappear. Calico are thick there — *"it's raining calicos"* (`IdMJnlg_rZk`, `2cxeg_AE418`) |
+| **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **[Surface iron — for calico](calico-bass-surface-iron.md)**, downsized for the in-tight beach water | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calico, wait for the yellows to reappear. Calico are thick there — *"it's raining calicos"* (`IdMJnlg_rZk`, `2cxeg_AE418`) [c] |
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (`RXNebDr4j7s`) |
 | Grass or heavy kelp fouls a standard weedless rig | **Tube bait** on an Owner sled weedless rig ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement from the weedless-swimbait row above (`0HwYl0HO2tc`) [a] |
 | Fishing from a kayak or small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — kelp as anchor, close-range boiler-rock work, fan-casting | bass class, sized to the boat | The current and edge doctrine above is unchanged; what changes is standoff distance, anchoring and navigation without electronics |
@@ -231,6 +232,9 @@ hook retention to rod action.
 [b] The trophy program and the numbers program are alternatives, not a
 progression — see [Doctrine & conflicts](#doctrine--conflicts) for what the
 choice turns on.
+[c] Cadence keyed to current state, the 18–20 ft reef-drift band, the 5.5 in
+beach mini-iron and the recorded colour pair are in
+[calico bass — surface iron](calico-bass-surface-iron.md#how-calico-bass-changes-the-execution).
 
 **Covering water is the method** — a bed is graded by a handful of casts to the
 prime edge and then you move on. Cast counts, move distances, the re-bite, and
@@ -242,7 +246,9 @@ the boat-positioning mechanics are in
 
 - **Rod/reel:** 7–9 ft **graphite-composite bass class** (200–300 size reel,
   30–65 lb braid) for slugs, weedless rigs and hard baits; a **jig-stick class**
-  for surface iron; a **crank class** (8–10 ft, 200 reel) for cranking. See
+  for surface iron (the lighter star-drag build and the jig sizes are in
+  [calico bass — surface iron](calico-bass-surface-iron.md#rigs--gear)); a
+  **crank class** (8–10 ft, 200 reel) for cranking. See
   [gear classes](../tackle/gear-classes.md).
 - **Terminal/lures:** [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)
   and slugs on keel-weighted weedless or leadhead hooks; surface
@@ -380,6 +386,7 @@ Trip reports and per-source provenance:
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Cabrilla (Leopard Grouper)](cabrilla.md)
+- [Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [California Barracuda](barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)

@@ -183,6 +183,7 @@ file](evidence/gear-classes.md).
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)

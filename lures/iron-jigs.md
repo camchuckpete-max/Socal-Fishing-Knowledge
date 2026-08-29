@@ -588,6 +588,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cabrilla — yo-yo iron](../species/cabrilla-yo-yo-iron.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

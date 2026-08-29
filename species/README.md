@@ -11,6 +11,7 @@
 - [Cabrilla — jerkbait](cabrilla-jerkbait.md) **[Baja only]** — A slender minnow-profile hardbait burned fast at rock is the cabrilla program's default tool, and the light on the water — not the calendar — sets the size fish
 - [Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md) **[Baja only]** — Once the sun is up and cabrilla have backed off the shallow rock, the iron takes the day over from the jerkbait — but it is fished as a cast-and-burn, not as a
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
+- [Calico Bass — surface iron](calico-bass-surface-iron.md) — The iron is how you cover a whole kelp line or a reef edge from one drift instead of picking stringers one cast at a time, and on a Baja island it is what fills
 - [Calico Bass (Kelp Bass)](calico-bass.md) — Calico bass sit on a defined structure edge — kelp, reef, boiler rock, breakwall — and eat what the current sweeps past them, so a coastal bass day is planned o
 - [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — Spiny lobster is the one target in this KB with no rod-and-reel route: the recreational program is baited hoop nets on rock, riprap and kelp edge, worked after
@@ -50,74 +51,78 @@ graph LR
   n4["Cabrilla — jerkbait"]
   n5["Cabrilla — yo-yo iron"]
   n6["Cabrilla (Leopard Grouper)"]
-  n7["Calico Bass (Kelp Bass)"]
-  n8["California Halibut"]
-  n9["California Spiny Lobster"]
-  n10["Dorado (Mahi-Mahi)"]
-  n11["Ocean Whitefish"]
-  n12["Opah (Moonfish)"]
-  n13["Pacific Crevalle Jack (Toro)"]
-  n14["Rockfish & Lingcod"]
-  n15["Barred Sand Bass"]
-  n16["California Sheephead"]
-  n17["Skipjack Tuna"]
-  n18["Snook (Robalo)"]
-  n19["Spotted Bay Bass (Spotties)"]
-  n20["Striped Marlin"]
-  n21["Swordfish (Broadbill)"]
-  n22["Wahoo"]
-  n23["White Seabass"]
-  n24["Yellowfin Tuna"]
-  n25["Targeting yellowtail — Coronado Islands"]
-  n26["Yellowtail — surface iron"]
-  n27["Yellowtail"]
+  n7["Calico Bass — surface iron"]
+  n8["Calico Bass (Kelp Bass)"]
+  n9["California Halibut"]
+  n10["California Spiny Lobster"]
+  n11["Dorado (Mahi-Mahi)"]
+  n12["Ocean Whitefish"]
+  n13["Opah (Moonfish)"]
+  n14["Pacific Crevalle Jack (Toro)"]
+  n15["Rockfish & Lingcod"]
+  n16["Barred Sand Bass"]
+  n17["California Sheephead"]
+  n18["Skipjack Tuna"]
+  n19["Snook (Robalo)"]
+  n20["Spotted Bay Bass (Spotties)"]
+  n21["Striped Marlin"]
+  n22["Swordfish (Broadbill)"]
+  n23["Wahoo"]
+  n24["White Seabass"]
+  n25["Yellowfin Tuna"]
+  n26["Targeting yellowtail — Coronado Islands"]
+  n27["Yellowtail — surface iron"]
+  n28["Yellowtail"]
   n0 --> n3
-  n0 --> n7
+  n0 --> n8
   n1 --> n2
-  n11 --> n14
-  n11 --> n16
-  n12 --> n2
-  n12 --> n24
-  n14 --> n11
-  n14 --> n2
-  n16 --> n11
-  n16 --> n14
-  n17 --> n2
-  n17 --> n20
-  n17 --> n24
-  n17 --> n27
-  n17 --> n3
-  n18 --> n13
-  n18 --> n19
-  n18 --> n6
-  n19 --> n15
-  n19 --> n7
+  n12 --> n15
+  n12 --> n17
+  n13 --> n2
+  n13 --> n25
+  n15 --> n12
+  n15 --> n2
+  n17 --> n12
+  n17 --> n15
+  n18 --> n2
+  n18 --> n21
+  n18 --> n25
+  n18 --> n28
+  n18 --> n3
+  n19 --> n14
+  n19 --> n20
+  n19 --> n6
   n2 --> n1
-  n2 --> n14
-  n2 --> n17
-  n21 --> n2
-  n22 --> n10
-  n22 --> n15
-  n22 --> n24
-  n23 --> n27
-  n23 --> n8
-  n24 --> n13
-  n24 --> n17
-  n24 --> n2
-  n24 --> n22
-  n25 --> n27
-  n26 --> n27
-  n27 --> n25
-  n27 --> n26
+  n2 --> n15
+  n2 --> n18
+  n20 --> n16
+  n20 --> n8
+  n22 --> n2
+  n23 --> n11
+  n23 --> n16
+  n23 --> n25
+  n24 --> n28
+  n24 --> n9
+  n25 --> n14
+  n25 --> n18
+  n25 --> n2
+  n25 --> n23
+  n26 --> n28
+  n27 --> n28
+  n28 --> n26
+  n28 --> n27
   n3 --> n0
-  n3 --> n27
-  n3 --> n7
+  n3 --> n28
+  n3 --> n8
   n4 --> n6
   n5 --> n6
   n6 --> n4
   n6 --> n5
-  n6 --> n7
-  n7 --> n19
-  n8 --> n23
+  n6 --> n8
+  n7 --> n27
+  n7 --> n8
+  n8 --> n20
+  n8 --> n7
+  n9 --> n24
 ```
 <!-- mermaid:end -->

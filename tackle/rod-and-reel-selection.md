@@ -833,6 +833,7 @@ ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md)
 - [Cortez North](../locations/cortez-north.md)

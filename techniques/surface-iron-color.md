@@ -129,6 +129,7 @@ file](evidence/surface-iron-color.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Barracuda](../species/barracuda.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

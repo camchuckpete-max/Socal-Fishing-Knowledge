@@ -122,6 +122,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [Evidence — Yellowtail — surface iron](evidence/yellowtail-surface-iron.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Yellowtail](yellowtail.md)

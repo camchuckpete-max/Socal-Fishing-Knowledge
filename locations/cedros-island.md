@@ -416,6 +416,7 @@ Trip reports and per-source provenance:
 - [179 / 220](179-220.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Sheephead](../species/sheephead.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)

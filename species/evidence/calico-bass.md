@@ -124,7 +124,9 @@ or reaction-only episodes. Provenance tails record that per entry.
   Geronimo Island to Chester's Rock. The same ground was mixed-species enough
   that calico repeatedly interrupted a deliberate yellowtail push the following
   morning — "pesky 5-pound calicoes… putting off my 50-pound yellow"; see the
-  [yellowtail](../yellowtail.md) Cedros entry. Shares the "part 3" numbering with,
+  [yellowtail](../yellowtail.md) Cedros entry. The bird cue and the iron detail
+  are in [calico bass — surface iron evidence](calico-bass-surface-iron.md).
+  Shares the "part 3" numbering with,
   but is a different video, date and episode from, the `_C8w6zeVPak` "Shogun
   Skiff Trip part 3" entry — evidently a separate year's trip reusing the
   numbering. No current or water-colour detail. Unregistered channel.
@@ -198,12 +200,10 @@ or reaction-only episodes. Provenance tails record that per entry.
   2022-06-15 upload, Cedros Island, "Stoked to Be Back in Cedros Island Calico
   Bass Fishing"): after a full day's trolling for a giant yellowtail produced
   zero bites (see the [yellowtail](../yellowtail.md) entry for that leg), the crew
-  diverted to a calico ground worked as drifts over reef bottom ("reef reef
-  reef reef") at 18–20 ft, with birds working overhead marking the fish. The
-  bite was wide-open on surface iron — "catching them pretty much every cast" —
-  with repeated doubles. Two colours both produced that session: one angler on
-  white, the other on blue/greenish (see the surface-iron colour data points in
-  [surface iron](../../techniques/surface-iron.md)). Later in the same session,
+  diverted to a calico ground and found a wide-open bite. The drift depth, the
+  bird cue and the two colours run side by side that session are in
+  [calico bass — surface iron evidence](calico-bass-surface-iron.md).
+  Later in the same session,
   well after the pivot to the calico drift and not clearly a continuation of
   the earlier 30 ft yellowtail troll, a mackerel bait hooked an old, large
   ("grumpy") calico, landed on a visually confirmed circle hook and released.
@@ -445,7 +445,9 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../calico-bass.md)
+- [Calico Bass — surface iron](../calico-bass-surface-iron.md)
 - [Evidence — Barred Sand Bass](sand-bass.md)
+- [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md)
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 <!-- backlinks:end -->
