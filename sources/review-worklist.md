@@ -215,7 +215,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-spring-bluefin-yellowtail-quiver.md | light | done | none | transform (light tier): plain-statement rewrite, cite insertion, evidence-file split for presenter/provenance detail |
 | tackle/searcher-three-outfit-minimum-quiver.md | light | done | asr-uncertain(rod model 72 mismatch, Colt Sniper caption, 6X junior caption) | transform verified: attribution preamble split cleanly into evidence file, all before-facts traced into after-state with cites |
 | tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md | light | done | gaps(1) | transform verified, faithful split to evidence file, cites checked against transcript |
-| tackle/spectra-hollow-vs-solid.md | light | pending |  |  |
+| tackle/spectra-hollow-vs-solid.md | light | done | none | transform applied with one restored claim (deleted TactX/Threadlock sponsored-caveat sentence, no relocation logged) |
 | tackle/spinning-reel-bait-feeder.md | light | pending |  |  |
 | tackle/spooling-line-tension-and-twist.md | light | pending |  |  |
 | tackle/star-drag-vs-lever-drag.md | light | pending |  |  |
