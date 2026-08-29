@@ -27,6 +27,7 @@
 - [Evidence — Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md) — Per-source provenance for Searcher five-outfit quiver — 7-day trip to Alijos Rocks and "the Ridge": channel status, registration confidence, ASR-uncertain capti
 - [Evidence — Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder](searcher-big-tuna-rig-ladder.md) — Per-source provenance for Searcher big/giant tuna rig ladder: channel registration status, confidence tiers, sponsor disclosures, ASR-uncertain reasoning, and t
 - [Evidence — Searcher Bluefin Jig Ladder by Daypart and Depth](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) — Per-source provenance for Searcher bluefin jig ladder by daypart and depth: channel status, upload date, and asr-uncertain naming detail the main note's prose g
+- [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](searcher-daytime-dart-jig-outfit-ladder.md) — Per-source provenance for Searcher daytime dart-jig outfit ladder: channel status, video title/date, and the on-camera bite-mark detail the main note's prose ga
 <!-- index:end -->
 
 

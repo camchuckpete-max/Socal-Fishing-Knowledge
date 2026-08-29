@@ -659,6 +659,7 @@ in this note: [evidence file](evidence/searcher-big-tuna-rig-ladder.md).
 - [Evidence — Knife / Speed Jigging](../techniques/evidence/knife-jigging.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
+- [Evidence — Searcher Daytime Dart-Jig Outfit Ladder](evidence/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Evidence — Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder](evidence/searcher-big-tuna-rig-ladder.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yo-Yo Iron](../techniques/evidence/yo-yo-iron.md)

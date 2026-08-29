@@ -207,7 +207,7 @@ by their builders after the transform phase drains.
 | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md | light | done | spots(2), asr-uncertain(Avitz-Avet reel brand; seven strand monofilament wire caption) | v2 transform: plain-statement rewrite, evidence file split, layout v2 added; all doctrine, quotes, figures, cross-links conserved |
 | tackle/searcher-big-tuna-rig-ladder.md | light | done | none | faithful v2 transform, cites added, provenance/confidence/sponsor detail + 2 observed catches split to new evidence file, no claims lost, doctrine conflict preserved with added decision frame |
 | tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md | light | done | none | transform verified: plain-statement conversion clean, all product names/asr-uncertain flags/hook numbers/depths conserved into evidence split, link-maintenance 0 dead links |
-| tackle/searcher-daytime-dart-jig-outfit-ladder.md | light | pending |  |  |
+| tackle/searcher-daytime-dart-jig-outfit-ladder.md | light | done | gaps(1) | transform verified faithful, evidence split compliant, no conservation or drift defects |
 | tackle/searcher-finesse-live-bait-outfit.md | light | pending |  |  |
 | tackle/searcher-four-outfit-guadalupe-quiver.md | light | pending |  |  |
 | tackle/searcher-lever-drag-reel-sizing.md | light | pending |  |  |
