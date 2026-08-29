@@ -89,8 +89,7 @@ the named brands and the application method stay in
   for inshore bass swimbait and crank fishing generally rather than scoped to
   the boiler program, and it is far lighter than the 40–65 lb kelp/structure
   classes in
-  [swimbaits — weedless rigging](../techniques/swimbaits.md#weedless-rigging) —
-  two specs from different sources, left unreconciled.
+  [swimbaits — weedless rigging](../techniques/swimbaits.md#weedless-rigging).
 
 ⚠ Flagged gap — no corpus source: rod length, reel size and gear ratio for this
 specific boiler program; the retrieve cadence for the hard bait; how the
