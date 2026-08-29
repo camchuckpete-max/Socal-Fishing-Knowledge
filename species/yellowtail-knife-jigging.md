@@ -68,11 +68,11 @@ speed jigging wants as much line gained per pump as possible — is in
   and jig-stick top shots but still deliberately sizable, to absorb the first
   initial bite and the head shakes that follow. The jig on the rod at filming
   was a **200 g Daiwa SK** (`LTCFjqtSI8g`).
-  - **Status: a starting point, not tested doctrine.** The source states
-    plainly that speed/vertical jigging was new to him in 2023 and that he is
-    relaying what he was told by anglers already doing it, declining to go
-    further on the setup for that reason (`LTCFjqtSI8g`). Treat the build as
-    a documented entry point rather than established practice.
+  - **Status: a starting point, not tested doctrine.** The build is relayed
+    secondhand — speed/vertical jigging was new to the angler documenting it
+    in 2023 and the setup is what he had been told by others already fishing
+    it, not his own tested practice (`LTCFjqtSI8g`). Treat it as a documented
+    entry point rather than established doctrine.
 
 ## Differs from the general method
 
@@ -87,8 +87,9 @@ built around night bluefin on deep marks:
   technique note's daytime-warmth guidance is to try slowing down when the
   working pace draws *no* bites; the yellowtail cue answers a different
   signal — fish are already hitting the jig and not getting hooked — and the
-  answer there is more speed (`M8hOYQ_6rSg`). The two are kept side by side,
-  not reconciled: they respond to different symptoms.
+  answer there is more speed (`M8hOYQ_6rSg`). Read the symptom before picking:
+  no bites at all in warm daytime water points at slowing down; bumps without
+  a hookup point at speeding up.
 - **The line is far lighter than the night-bluefin floors, and there is no
   bite leader.** 40–60 lb mono tied straight to the jig, against the
   technique note's 65–100 lb braid with 100–200 lb leaders and its crimped
