@@ -82,6 +82,7 @@ file](evidence/tackle-express-ci4-plus-reel-features.md).
 ## Linked from
 
 - [Evidence — "Next-Gen" CI4+ Reel Features (Tackle Express)](evidence/tackle-express-ci4-plus-reel-features.md)
+- [Evidence — Shimano Vanford (Tackle Express)](evidence/tackle-express-shimano-vanford-fa-reel.md)
 - [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
