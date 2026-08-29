@@ -290,7 +290,6 @@ merged into the SoCal doctrine.
 
 - [Evidence — Bait-and-Switch (Striped Marlin)](../../techniques/evidence/bait-and-switch.md)
 - [Evidence — Striped Marlin — trolling](striped-marlin-trolling.md)
-- [Mackerel Bank](../../locations/mackerel-bank.md)
 - [Striped Marlin](../striped-marlin.md)
 - [Striped Marlin — trolling](../striped-marlin-trolling.md)
 <!-- backlinks:end -->

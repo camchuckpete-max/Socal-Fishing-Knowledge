@@ -118,7 +118,6 @@ line per observation. Observations never change the note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Mackerel Bank](../mackerel-bank.md)
 - [Pyramid Head](../pyramid-head.md)
 - [San Clemente Island — Front Side](../san-clemente-island-front-side.md)
 <!-- backlinks:end -->

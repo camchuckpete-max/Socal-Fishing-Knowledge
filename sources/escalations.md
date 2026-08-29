@@ -315,7 +315,3 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T18:44:49Z — locations/farnsworth-bank.md — guard-violation
 - run: 33268530643
 - reason: commit 497ca80f744f40e6baee75d106b60993cc8ad8a1 reverted: out of scope for 'review: locations/farnsworth-bank.md': locations/catalina-island-backside.md
-
-## 2026-08-29T19:00:22Z — locations/mackerel-bank.md — verify-escalate
-- run: 33268530643
-- reason: Worker converted BD weekly-report publication dates into trip dates; sweep other pages built from -JZpyWLdKlk, CMQkHQMxbXM, HzE4FHHcvTk, HnqiE05vdXs, 5to3Q5P7w90 for false 'On YYYY-MM-DD a boat...' trip dates

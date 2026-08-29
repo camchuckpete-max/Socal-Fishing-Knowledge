@@ -199,8 +199,8 @@ Seven charted spots, grouped as the run reads N→S:
   and the off-the-east-end yellowfin grade (`Ow3an9lSVh4`) both sit here.
   Pyramid Cove is one of the BightSST evaluation targets
   ([BightSST eval targets](bightsst-eval-targets.md), cameron).
-- **Attached offshore bank** — [Mackerel Bank](mackerel-bank.md), charted in the
-  library's offshore-banks list and assigned to this zone as its nearest run grouping
+- **Attached offshore bank** — Mackerel Bank, charted in the library's
+  offshore-banks list and assigned to this zone as its nearest run grouping
   (cameron). It is named only as part of the below-Clemente search box and the
   fall warmest-water path (`Blh2BA-7Ono`, `OYOda6T3f-8`); ⚠ Flagged gap — no
   corpus source describes fishing the bank itself.
@@ -213,7 +213,6 @@ Charted positions for all seven spots are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-- [Mackerel Bank](mackerel-bank.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Head](pyramid-head.md)
@@ -234,7 +233,6 @@ Trip reports and per-source provenance:
 - [81 / 381](81-381.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
 - [Island Structure](island-structure.md)
-- [Mackerel Bank](mackerel-bank.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Head](pyramid-head.md)

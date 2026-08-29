@@ -235,7 +235,6 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Paz](../locations/la-paz.md)
-- [Mackerel Bank](../locations/mackerel-bank.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)

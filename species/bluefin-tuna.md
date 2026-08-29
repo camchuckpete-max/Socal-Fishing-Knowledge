@@ -496,7 +496,6 @@ Trip reports and per-source provenance:
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Lower Cross](../locations/lower-cross.md)
-- [Mackerel Bank](../locations/mackerel-bank.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [May](../seasonal/may.md)
 - [Moon](../conditions/moon.md)

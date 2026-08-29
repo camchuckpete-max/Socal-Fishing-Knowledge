@@ -308,7 +308,6 @@ Trip reports and per-source provenance: [evidence file](evidence/swordfish.md).
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
-- [Mackerel Bank](../locations/mackerel-bank.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)

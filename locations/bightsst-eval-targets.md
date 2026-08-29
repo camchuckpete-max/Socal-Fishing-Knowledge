@@ -112,7 +112,6 @@ key output is time-to-turnover / the approach, not the turnover event itself
 - [LA - 270 / 286](la-270-286.md)
 - [La Jolla](la-jolla.md)
 - [Lower Cross](lower-cross.md)
-- [Mackerel Bank](mackerel-bank.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [Pyramid Head](pyramid-head.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
