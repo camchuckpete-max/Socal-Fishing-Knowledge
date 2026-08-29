@@ -171,5 +171,6 @@ provenance: [yellowfin evidence](evidence/yellowfin-tuna.md).
 ## Linked from
 
 - [Evidence — Yellowfin Tuna — trolling](evidence/yellowfin-tuna-trolling.md)
+- [Trolling](../techniques/trolling.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->
