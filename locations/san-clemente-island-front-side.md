@@ -231,6 +231,7 @@ Trip reports and per-source provenance:
 - [289 / 284](289-284.md)
 - [43 / 91 / 300](43-91-300.md)
 - [81 / 381](81-381.md)
+- [Desperation Reef](desperation-reef.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
 - [Island Structure](island-structure.md)
 - [Purse Seine Rock](purse-seine-rock.md)

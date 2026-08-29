@@ -34,6 +34,7 @@
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.
 - [Evidence — Dana Point](dana-point.md) — The observation layer behind Dana Point.
 - [Evidence — Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md) — Provenance for Davis Knoll / San Miguel Gap / Rodriguez Seamount.
+- [Evidence — Desperation Reef](desperation-reef.md) — The observation layer behind Desperation Reef.
 - [Evidence — East Cape](east-cape.md) — The observation layer behind East Cape.
 - [Evidence — Ensenada](ensenada.md) — The observation layer behind Ensenada.
 - [Evidence — Guadalupe](guadalupe.md) — The observation layer behind Guadalupe.
@@ -69,5 +70,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 59 notes exceed the 30-node cap._
+_Map skipped: 60 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -449,6 +449,7 @@ Trip reports and per-source provenance:
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

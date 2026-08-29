@@ -327,6 +327,7 @@ Trip reports and per-source provenance:
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Ensenada](../locations/ensenada.md)

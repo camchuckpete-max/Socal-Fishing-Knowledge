@@ -294,6 +294,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Deep Scattering Layer](deep-scattering-layer.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)

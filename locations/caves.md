@@ -40,5 +40,6 @@ A charted spot at **32°48.450'N 118°24.170'W** (cameron), in the [San Clemente
 <!-- backlinks:start -->
 ## Linked from
 
+- [Desperation Reef](desperation-reef.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 <!-- backlinks:end -->

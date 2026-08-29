@@ -302,6 +302,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 
 - [157](157.md)
 - [483/500 / 437](483-500-437.md)
+- [Desperation Reef](desperation-reef.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Mushroom](mushroom.md)
 - [Southern California Bight](socal-bight.md)

@@ -411,6 +411,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

@@ -343,6 +343,7 @@ Trip reports and per-source provenance:
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](electronics-and-sounder.md)

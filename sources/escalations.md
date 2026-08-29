@@ -319,3 +319,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T19:00:26Z — locations/mackerel-bank.md — guard-violation
 - run: 33268530643
 - reason: commit 5e764c94cd9035bae64e4cd839bab018887e1fa2 reverted: out of scope for 'review: locations/mackerel-bank.md': locations/san-clemente-island-front-side.md
+
+## 2026-08-29T19:10:15Z — locations/desperation-reef.md — verify-escalate
+- run: 33268530643
+- reason: Pre-existing false hedge 'source does not say which side' in san-clemente-island-back-side.md:152 + its evidence file (contradicted by DnSqw4r7A1s); and the 'West End tuna zone' name conflict may be a KB artifact unsupported by Rb5I2ljAqeE

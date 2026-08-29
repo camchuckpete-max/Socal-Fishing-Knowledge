@@ -824,6 +824,7 @@ confidence.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [East Cape](../locations/east-cape.md)

@@ -345,6 +345,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Cortez North](../locations/cortez-north.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [Desperation Reef](../locations/desperation-reef.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Ensenada](../locations/ensenada.md)
