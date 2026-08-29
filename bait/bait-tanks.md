@@ -108,14 +108,10 @@ loading judgment at much larger scale — a multi-day trip loaded roughly 700
 scoops and still treated day one as the trip's most important load (see
 [evidence](evidence/bait-tanks.md)).
 
-**Barge queue timing.** Dana Point's sportboat fleet leaves around 6:00
-a.m., which is when the private-boat line at the barge also forms; arriving
-by 5:00 a.m., or earlier (4:30 a.m.), beats the line entirely, while 7:00
-a.m. finds the window "all gone" (`ztpj1Xll0-U`). ⚠ misplaced-content:
-barge-queue timing is bait-buying logistics, not tank content, and
-duplicates the barge-etiquette timing doctrine already in
-[making bait](making-bait.md#buying-at-the-bait-barge-etiquette-hailing-timing-dave-hansen-7wapaxdtjqg-2022-01-04-dana-point-example);
-queued in `sources/relocation-queue.md`.
+**Barge timing** — when to reach the barge to beat the sportboat line, and
+what a late arrival costs — is bait-buying logistics, in
+[making bait](making-bait.md#buying-at-the-bait-barge-etiquette-hailing-timing-dave-hansen-7wapaxdtjqg-2022-01-04-dana-point-example)
+(`ztpj1Xll0-U`).
 
 ## Selecting bait at the receiver
 
