@@ -410,7 +410,7 @@ by their builders after the transform phase drains.
 | locations/pendleton-ar.md | gazetteer | done |  | mechanical: AR complex, 5 waypoints |
 | locations/oceanside-ar.md | gazetteer | done |  | mechanical: AR complex, 19 waypoints |
 | locations/carlsbad-ar.md | gazetteer | done |  | mechanical: AR complex, 12 waypoints |
-| locations/181-182-289.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/181-182-289.md | gazetteer | skipped |  | skipped: composite alias, not a spot — the 181, 182 and 289 are already published pages in three different zones (no single resolvable parent); the below-Clemente search-box claim is already carried by zone-lexicon.md, socal-bight.md and the four member zone pages |
 | locations/anacapa-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/bird-rock-two-harbors.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/catalina-island.md | gazetteer | pending |  | harvest: 5 mention(s) |
