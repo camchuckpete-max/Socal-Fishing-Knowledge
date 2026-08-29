@@ -45,11 +45,12 @@
 - [Evidence — Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md) — Trip reports and per-source provenance for Tackle Express — Cedros Four-Rod Quiver (the Gear Vault).
 - [Evidence — Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — Trip reports and per-source provenance for Penn Fathom Low Profile — Staff-Pick Surf/Lake Combo (Tackle Express).
 - [Evidence — Charter Bait-Tank Hook & Leader Kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Per-source provenance for Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank.
+- [Evidence — "Next-Gen" CI4+ Reel Features (Tackle Express)](tackle-express-ci4-plus-reel-features.md) — Per-source provenance for "Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 41 notes exceed the 30-node cap._
+_Map skipped: 42 notes exceed the 30-node cap._
 <!-- mermaid:end -->
