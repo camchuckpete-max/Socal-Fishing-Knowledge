@@ -189,6 +189,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)

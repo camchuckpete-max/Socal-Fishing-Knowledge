@@ -24,7 +24,9 @@ with them, others produce a handful, with the first fish showing in July and
 August (`E4vKwRaRueA`). They are voracious and can turn as picky as any fish, so
 the program is find the paddy, confirm fish are home, then step leader and hook
 down until they eat (`E4vKwRaRueA`). SoCal grade averages 8–15 lb with fish to
-30 lb (`P9H-bpzT7eU`).
+30 lb (`P9H-bpzT7eU`). That paddy program — boat approach, how long a paddy
+gets, hook style and size, the leader ladder and the bite count — is in
+[dorado — kelp-paddy flyline](dorado-kelp-paddy.md).
 
 ## Where & when
 
@@ -84,12 +86,13 @@ on the bite. Nothing in the corpus addresses it.
 - **Dorado feed charging straight ahead**, eating a bait and driving at the boat
   looking for more, picking off as many as they can — where tunas and yellowtail
   grab a bait and immediately turn sideways (`E4vKwRaRueA`). That difference is
-  what sets hook style; see [Doctrine & conflicts](#doctrine--conflicts).
-- **In a picky bite, hook size matters as much as leader size.** The stated read
-  is that the fish is not seeing the line so much as something out of the
-  ordinary: a sardine dragging an oversized hook does not swim right and does not
-  get bit (`E4vKwRaRueA`). Step the hook down alongside the leader rather than
-  changing baits.
+  what sets hook style — the J-hook call and its counter-examples are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution)
+  and [Doctrine & conflicts](#doctrine--conflicts).
+- **In a picky bite, hook size matters as much as leader size** — step the hook
+  down alongside the leader rather than changing baits (`E4vKwRaRueA`). The
+  sizes and the bait-cannot-swim mechanism behind them are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear).
 - ⚠ Flagged gap — no corpus source: light-window, tide, current or moon triggers
   for dorado.
 
@@ -104,8 +107,9 @@ on the bite. Nothing in the corpus addresses it.
   the first place (`E4vKwRaRueA`) — see
   [bird reading](../conditions/bird-reading.md).
 - **Drive right up to the edge and start fishing; do not sneak up on it**
-  (`ZFqe49jRgA0`, `HcEh5KOYTH4`). Sportboats arrive loud, drive to the kelp, drop
-  in and catch fish, which is the evidence that a quiet drift-down buys nothing.
+  (`ZFqe49jRgA0`, `HcEh5KOYTH4`) — the approach and the argument against a
+  drift-down are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 - **Sonar signature — upper water column, not a deep bottom mark.** Dorado hold
   under and around the paddy; over open ocean that reads as boomerang-shaped arcs
   at 90–120 ft on the fathometer, plus the bait ball packed under the kelp
@@ -114,26 +118,24 @@ on the bite. Nothing in the corpus addresses it.
   [electronics & sounder](../planning/electronics-and-sounder.md). One incidental
   dorado has been taken off the bottom during a deep Cedros halibut drift
   (`9tIp4n7q850`) — an outlier beside this doctrine, not a revision of it.
-- **Qualify the paddy fast:** throw a Mad Scad from the tower and watch for a chase
-  — usually a dorado (`VgpgJ8IAyJo`); if there is no surface activity and nothing
-  on the meter, give it about a minute or two before ruling it dead
-  (`ZFqe49jRgA0`).
+- **Qualify the paddy fast, then move** (`VgpgJ8IAyJo`, `ZFqe49jRgA0`) — the
+  tower-cast test and the one-to-two-minute clock are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 
 ## Situations → techniques
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** [a]; **match hook to bait** — 1/0 live-bait hook for a typical 6 in SoCal sardine, 2/0–3/0 on donkey sardines (`E4vKwRaRueA`) [b] |
+| Fish on/under a **kelp paddy** | 1) **[Flylined bait — the paddy program](dorado-kelp-paddy.md)** ([general method](../techniques/flyline.md)) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | Approach, dwell, hook style and size, leader ladder and the bite count are all in the sub-article [a] [b] |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; confirm fish with a Mad Scad from the tower before committing (`VgpgJ8IAyJo`). ⚠ cite-unresolved: sources/bd-transcript-knowledge-proposal.md — the slow-troll swing and the deck-hose spray trace to a KB input doc, not to a transcript |
 | **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | A pink ("Dorado") colour, 1 oz or 5/8 oz, is a named dorado favourite at paddies (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) [c] |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade attacks a jig its own size and even marlin-size lures (`E4vKwRaRueA`) [d] |
-| **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | Below ~20 lb you start getting bit off, so 15 lb is the floor and only when nothing else draws a bite (`E4vKwRaRueA`) |
+| **Picky/finicky** dorado circling the boat, won't commit | **Step the leader and the hook down together**, keeping a live bait swimming naturally — the ladder, its floor and the hook band are in [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear) | Light flyline class | Do not change baits; change the size of what the bait is dragging (`E4vKwRaRueA`) |
 
-[a] Dorado charge the boat feeding straight ahead and do not reliably turn
-sideways, so a circle hook has nothing to set against (`E4vKwRaRueA`); the
-independent second reason is a comparatively small mouth, which a J-hook suits on
-a flylined sardine (`P9H-bpzT7eU`). Circle hooks have connected on dorado in the
-corpus — see [Doctrine & conflicts](#doctrine--conflicts).
+[a] The hook-style call is **J-hook, not circle** (`E4vKwRaRueA`,
+`P9H-bpzT7eU`), with both of its reasons and the corpus counter-examples in
+[dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution)
+and [Doctrine & conflicts](#doctrine--conflicts).
 [b] Skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up
 alternative to the standard swim, named for tuna/dorado/yellowtail generically
 (`OL8D1l73RVg`). ⚠ Fact-check (single-source): the term, not the mechanic.
@@ -154,8 +156,10 @@ to this thing" comes from a Nomad brand feature and caps at low confidence
   40–60 lb class above. Named rod and reel models on that source are product
   mentions and stay low confidence per the `searcher-sportfishing` sponsored-claim
   caveat in the source registry.
-- **Terminal:** a **5–6 ft fluorocarbon top shot**, **20–40 lb leaders stepping
-  down** for picky fish, and **J-hooks matched to bait size** (`E4vKwRaRueA`).
+- **Terminal:** a **5–6 ft fluorocarbon top shot**, leaders stepped down for
+  picky fish, and **J-hooks matched to bait size** (`E4vKwRaRueA`) — the ladder
+  and the hook band are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear).
 - **Casting/trolling lures:**
   [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md) and a
   pink/silver troll lure (Mad Scad class) for testing paddies and open-water
@@ -188,10 +192,10 @@ No dorado zone guide exists yet; corpus material for each zone is parked in the
 Section order below is not a ranking.
 
 - **Hook style: J-hook over circle, on the paddy program.** The choice turns on
-  how the fish eats — dorado charge the boat feeding straight ahead rather than
-  grabbing and turning sideways, so there is nothing for a circle to set against
-  (`E4vKwRaRueA`), and their comparatively small mouth suits a J-hook on a
-  flylined sardine (`P9H-bpzT7eU`). Two dorado in the evidence file have
+  how the fish eats (`E4vKwRaRueA`) and on a comparatively small mouth
+  (`P9H-bpzT7eU`) — both reasons stated in full in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
+  Two dorado in the evidence file have
   nonetheless connected on
   circle hooks: one on a #2 circle in an inshore East Cape beach sardine soak
   (`APsnsunT4gM`), one square on the jaw inside the offshore kelp-paddy program
@@ -215,15 +219,14 @@ Section order below is not a ranking.
 
 - **Hook-set:** put the reel in gear, point the rod at the fish, wind tight, then
   lift the rod. Swinging causes bad hook sets and pulled hooks (`E4vKwRaRueA`).
-- **On a flylined sardine, give a 3–5 second count** after the bite before putting
-  the reel in gear (`P9H-bpzT7eU`).
+- **The bite-to-gear count on a flylined sardine** (`P9H-bpzT7eU`) is in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 - **Delay boating the first fish.** Leaving a hooked dorado in the water holds the
   school beside the boat and draws followers, so get a second bait in before you
   land it (`tcso7Lpm_Xs`, `qM7iOO7fOBw`, `brx6Ie_L2FM`).
-- **Cut back and re-tie the leader between fish.** Dorado teeth and gill plates
-  chafe the leader over repeated fights and passes near the boat, so take a foot
-  or two off and re-tie rather than fishing one leader section through a run of
-  fish (`VWClGAn2WEw`).
+- **Cut back and re-tie the leader between fish** (`VWClGAn2WEw`) — the chafe
+  mechanism and how much to take off are in
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 - **Gaffing:** dorado fall in the **3-in hook, ~6-ft gaff** class — orientation and
   the shot in [gaffing](../fish-care/gaffing.md).
 - **Care: no bleed, ice immediately, never freshwater-rinse** the fillets
@@ -267,6 +270,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
+- [Dorado — kelp-paddy flyline](dorado-kelp-paddy.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)

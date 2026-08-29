@@ -573,6 +573,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [East Cape](../locations/east-cape.md)

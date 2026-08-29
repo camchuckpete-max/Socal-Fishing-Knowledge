@@ -210,6 +210,7 @@ file](evidence/gear-classes.md).
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)

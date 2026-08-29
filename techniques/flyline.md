@@ -824,6 +824,7 @@ confidence.
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

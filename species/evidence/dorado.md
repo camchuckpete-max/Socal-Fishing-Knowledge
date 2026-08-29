@@ -18,14 +18,19 @@ also traced beside that doctrine in the parent.
 - `E4vKwRaRueA` (BDOutdoors, Ali Hussainy, 2021-09-21, "Dorado Fishing Tactics,"
   ~15 mi off San Diego): the parent's primary doctrine source — season, the
   green/blue boundary at 71.6 °F measured on a productive paddy, paddy forage
-  list, J-hook rationale, leader step-down ladder, hook-to-bait matching, glassing
-  ranges and the care rules. Registered source — high confidence.
+  list, glassing ranges and the care rules. Its execution half — the J-hook
+  rationale, the leader step-down ladder and the hook-to-bait matching — is
+  logged in
+  [dorado — kelp-paddy flyline evidence](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
+  Registered source — high confidence.
 - `P9H-bpzT7eU` (SearcherSportfishing, Carl Schmidt, Fisherman's Landing,
   2022-09-29, "Tackle Tip Thursday Vol. 198 — Dorado Fishing 101," SoCal): source
   of the 8–15 lb average grade with fish to 30 lb, the voluntary release of 4–6 lb
-  fish for table fare, the 25–40 lb / 8 ft / 30 lb-top-shot / 2/0 J-hook outfit,
-  the 3–5 second count, the live-bait-over-jig call and the small-mouth J-hook
-  rationale. Registered channel, single mention on each claim — medium confidence;
+  fish for table fare, and the 25–40 lb / 8 ft / 30 lb-top-shot / 2/0 J-hook
+  outfit. The 3–5 second count, the live-bait-over-jig call and the small-mouth
+  J-hook rationale are logged in
+  [dorado — kelp-paddy flyline evidence](dorado-kelp-paddy.md).
+  Registered channel, single mention on each claim — medium confidence;
   asr-uncertain(the small-mouth rationale — the auto-captions render it as "they
   have a pretty small amount," read in context as "small mouth"); the named
   Calstar 800M rod and Penn Fathom 32 Speed reel are product mentions and stay
@@ -139,9 +144,11 @@ also traced beside that doctrine in the parent.
   numerous dorado — visual confirmation of "loaded" surface activity ahead of
   working the paddy, consistent with the live-vs-dead-paddy read in the parent.
 - `ZFqe49jRgA0` (Your Saltwater Guide / Capt. Dave Hansen, 2019-05-26, "Top 5
-  Offshore Fishing Tips You Must Know!"): source of the drive-right-up-to-the-edge
-  rule, the boomerang arcs at 90–120 ft, the one-to-two-minute paddy test, and the
-  paddies-restock-at-night mechanism behind "it is not a time-of-day bite."
+  Offshore Fishing Tips You Must Know!"): source of the boomerang arcs at
+  90–120 ft and the paddies-restock-at-night mechanism behind "it is not a
+  time-of-day bite." The same video's drive-right-up-to-the-edge rule and
+  one-to-two-minute paddy test are logged in
+  [dorado — kelp-paddy flyline evidence](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 - `Cobp85UvHmM` (StokedOnFishing, 2018-02-07 upload, La Bocana, Baja California
   Sur, Pacific side, "Stoked On La Bocana," part 2): 25 miles offshore, working
   birds led the crew to a school of dorado that "sunk down" in water only ~60 ft
@@ -283,9 +290,11 @@ also traced beside that doctrine in the parent.
   [tube-bait fishing](../../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4).
   Promotional seminar source — low confidence.
 - `VgpgJ8IAyJo` (BDOutdoors, Ali Hussainy, 2020-06-08, "Best Offshore Lures for
-  Dorado, Yellowfin, Bluefin Tuna | NOMAD"): source of the throw-a-Mad-Scad-from-
-  the-tower paddy test and the pink-accented Mad Scad claim. A Nomad brand feature
-  — sponsored claims cap at low confidence.
+  Dorado, Yellowfin, Bluefin Tuna | NOMAD"): source of the pink-accented Mad
+  Scad claim; the throw-it-from-the-tower paddy test from the same video is
+  logged in
+  [dorado — kelp-paddy flyline evidence](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
+  A Nomad brand feature — sponsored claims cap at low confidence.
 - `OL8D1l73RVg` (SearcherSportfishing, 2020-10-08, "Tackle Tip Thursday Vol. 120 —
   Surface Skip Lure"): source of the skip-jigging mechanic and the term, named for
   tuna/dorado/yellowtail generically. Single mention on the term — see the
@@ -293,13 +302,12 @@ also traced beside that doctrine in the parent.
 
 ## Landing & handling
 
-- `VWClGAn2WEw` (StokedOnFishing, 2022-10-13, offshore SoCal): after a run of
-  consecutive dorado hookups on the same leader, the crew described dorado's teeth
-  and gill plates as prone to chafing/fraying the leader over repeated fights and
-  passes near the boat; the stated practice was to cut back a foot or two and
-  re-tie before the next bait, checking for chafe damage each time rather than
-  fishing the same leader section through many fish in a row. duplicate-of the
-  `VWClGAn2WEw` Where & when entry above (same video, different claim).
+- `VWClGAn2WEw` (StokedOnFishing, 2022-10-13, offshore SoCal): the
+  between-fish leader cut-back and the teeth/gill-plate chafe behind it are
+  logged in
+  [dorado — kelp-paddy flyline evidence](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
+  The same video's plan-B pivot into the paddy bite is in the Where & when
+  entry above.
 - `tcso7Lpm_Xs` (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort, East
   Cape, Baja California Sur, "Stoked On Hotel Buena Vista Beach Resort"): a full
   trip's offshore troll produced roughly 15–16 dorado in one session, most
@@ -336,5 +344,7 @@ Cedros Island (`brx6Ie_L2FM`, `A8SuzB5qiKE`, `YUdbrIm9vrE`, `yjwIGFzWO8I`,
 ## Linked from
 
 - [Dorado (Mahi-Mahi)](../dorado.md)
+- [Dorado — kelp-paddy flyline](../dorado-kelp-paddy.md)
+- [Evidence — Dorado — kelp-paddy flyline](dorado-kelp-paddy.md)
 - [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md)
 <!-- backlinks:end -->

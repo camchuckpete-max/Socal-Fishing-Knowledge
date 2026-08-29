@@ -875,4 +875,5 @@ by their builders after the transform phase drains.
 | species/california-halibut-surf-lures.md | standard | skipped |  | skipped: verifier-reject: no-op, transform diff empty (note already compliant) |
 | locations/geronimo-island-chester-s-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/mission-bay-san-diego-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| species/dorado-kelp-paddy.md | standard | pending |  | created by relocation from species/dorado.md |
 <!-- review:worklist:end -->

@@ -17,6 +17,7 @@
 - [California Halibut — surf lures](california-halibut-surf-lures.md) **[SoCal only]** — Fishing lures for halibut from the sand is one program with a depth ladder in it: which lure goes on is set by the depth in front of you rather than by preferen
 - [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — Spiny lobster is the one target in this KB with no rod-and-reel route: the recreational program is baited hoop nets on rock, riprap and kelp edge, worked after
+- [Dorado — kelp-paddy flyline](dorado-kelp-paddy.md) **[SoCal only]** — One species, one technique.
 - [Dorado (Mahi-Mahi)](dorado.md) — Dorado concentrate where the cold green coastal water butts against the warm blue water offshore — 71.6 °F on a productive paddy — and stack under the broken-of
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish, and it fishes as a school over hard bottom and sand-edge transitions: at the Channe
 - [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah are a bycatch of the SoCal offshore tuna program, not a target: they eat a jig or a sinker-weighted bait fished 150–200 ft down while the boat drifts, and
@@ -44,5 +45,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 31 notes exceed the 30-node cap._
+_Map skipped: 32 notes exceed the 30-node cap._
 <!-- mermaid:end -->

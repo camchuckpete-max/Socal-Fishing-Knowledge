@@ -816,6 +816,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Dorado — kelp-paddy flyline](../species/dorado-kelp-paddy.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
