@@ -165,6 +165,5 @@ source provenance:
 ## Linked from
 
 - [Evidence — Spotted Bay Bass — umbrella rig (A-rig)](evidence/spotted-bay-bass-swimbaits.md)
-- [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->
