@@ -79,10 +79,9 @@ depth, not set once (`ShSxNKAcUB4`).
 
 **The column is worked in steps, not fished at one depth.** Let line out under
 steady tension — never dump it and let it pile in front of you — so the bait
-falls cleanly. After it has had a couple of minutes to settle, click into gear
-and take a couple of turns to bring the sinker back to the hook and the bait —
-roughly 20 ft of separation is the case given — then go back into free spool
-and let the two separate and keep sinking. Repeating the cycle
+falls cleanly. After it has had a minute or two to settle, click into gear and
+take a couple of turns to bring the sinker back down to the bait, then go back
+into free spool and let the two separate and keep sinking. Repeating the cycle
 walks the bait progressively deeper through the band the skipper is calling
 rather than parking it (`Eo_bA8IWvyU`).
 
