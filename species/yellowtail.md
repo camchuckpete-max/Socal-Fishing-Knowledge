@@ -477,7 +477,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
-- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [September](../seasonal/september.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Skipjack Tuna](skipjack-tuna.md)

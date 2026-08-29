@@ -600,7 +600,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb](searcher-finesse-live-bait-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md)
-- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

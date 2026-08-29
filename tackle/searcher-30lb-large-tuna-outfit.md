@@ -208,9 +208,10 @@ dates, and the single-trip 95 lb-tuna observation:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Evidence — Bluefin Rig Ladder by Grade](evidence/bluefin-rig-ladder-by-grade.md)
 - [Evidence — Searcher 30 lb Large-Tuna Outfit](evidence/searcher-30lb-large-tuna-outfit.md)
+- [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](evidence/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
-- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

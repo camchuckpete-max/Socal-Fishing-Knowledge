@@ -34,11 +34,12 @@
 - [Evidence — Searcher Rail-Rod Ladder — Four Tiers by Line Rating](searcher-rail-rod-ladder.md) — Per-source provenance for Searcher rail-rod ladder: channel status, upload date, video title, and the product/model confidence caveats the main note's prose gav
 - [Evidence — Searcher Spring Bluefin/Yellowtail Quiver](searcher-spring-bluefin-yellowtail-quiver.md) — Per-source provenance for Searcher spring bluefin/yellowtail quiver: presenter identification, channel status, and the ASR-uncertain caption readings the main n
 - [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](searcher-three-outfit-minimum-quiver.md) — Per-source provenance for Searcher minimum tackle — three-outfit quiver: channel status, registration confidence, and the ASR-uncertain caption readings the mai
+- [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Per-source provenance for Searcher yellowtail live-bait sliding-sinker rig: channel status, upload date, and cross-reference notes the main note's prose gave up.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_No intra-folder links yet._
+_Map skipped: 31 notes exceed the 30-node cap._
 <!-- mermaid:end -->
