@@ -493,6 +493,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](../tackle/searcher-6-to-8-day-heavy-outfit.md)

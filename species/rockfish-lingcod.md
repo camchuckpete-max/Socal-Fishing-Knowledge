@@ -409,6 +409,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

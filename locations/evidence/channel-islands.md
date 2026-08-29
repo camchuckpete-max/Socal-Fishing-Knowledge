@@ -108,4 +108,5 @@ repeated rather than moved.
 
 - [Channel Islands](../channel-islands.md)
 - [San Miguel Island](../san-miguel-island.md)
+- [Santa Cruz Island](../santa-cruz-island.md)
 <!-- backlinks:end -->

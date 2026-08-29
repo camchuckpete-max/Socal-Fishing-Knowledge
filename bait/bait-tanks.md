@@ -247,5 +247,6 @@ Trip reports and per-source provenance: [evidence file](evidence/bait-tanks.md).
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)
 - [North Point](../locations/north-point.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

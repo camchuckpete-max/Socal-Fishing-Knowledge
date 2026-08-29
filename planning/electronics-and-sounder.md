@@ -371,6 +371,7 @@ Trip reports and per-source provenance:
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)

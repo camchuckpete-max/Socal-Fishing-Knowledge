@@ -252,6 +252,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)

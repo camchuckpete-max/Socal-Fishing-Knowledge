@@ -218,6 +218,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Pyramid Head](../locations/pyramid-head.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

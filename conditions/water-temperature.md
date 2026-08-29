@@ -203,6 +203,7 @@ Trip reports and per-source provenance: [evidence file](evidence/water-temperatu
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)

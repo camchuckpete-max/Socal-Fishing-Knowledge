@@ -99,5 +99,6 @@ Observations never change the note's stated doctrine.
 ## Linked from
 
 - [San Miguel Island](../san-miguel-island.md)
+- [Santa Cruz Island](../santa-cruz-island.md)
 - [Southern California Bight](../socal-bight.md)
 <!-- backlinks:end -->

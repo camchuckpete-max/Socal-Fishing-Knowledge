@@ -454,6 +454,7 @@ Trip reports and per-source provenance:
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

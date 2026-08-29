@@ -351,3 +351,11 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T22:07:24Z — locations/san-miguel-island.md — verify-escalate
 - run: 33277178670
 - reason: Yellowtail row + CDFW no-retention claim rests on Z3rZqy2Pi8E auto-caption 'a really nice yellow ... cant keep them in Southern California waters'; yellowtail retention is legal in CA while yelloweye rockfish is not — caption likely dropped 'eye'. Claim left untouched because the same inherited doctrine already sits in species/evidence/rockfish-lingcod.md and locations/evidence/socal-bight.md; Cameron should adjudicate species identity once and fix all three.
+
+## 2026-08-29T22:30:00Z — locations/santa-cruz-island.md — verify-escalate
+- run: verifier (gazetteer)
+- reason: inherited meaning inversion on `CMQkHQMxbXM` (2022-08-03, 00:02:06–00:02:18). The transcript says the barracuda zone was not "doable up there unless you're on a sport[boat] — but maybe not even then", i.e. the wind vetoed the PRIVATE boat first. Three already-committed notes state the opposite: locations/anacapa-island.md ("reachable only aboard a private boat", under the heading "Private-boat access is the difference between a report and a trip"), species/evidence/barracuda.md ("not doable that week except aboard a boat"), and locations/289-284.md ("a private-boat weather veto on this exact water"). Corrected in this unit's note only; the other three are outside this unit's scope and no queued unit reaches them. Corroborating cites for the sportboat-vs-private split: `5p6gu14ZC4w` 00:01:09–00:01:19 and `OYOda6T3f-8` 00:07:30–00:07:36.
+
+## 2026-08-29T22:20:50Z — locations/santa-cruz-island.md — verify-escalate
+- run: 33277178670
+- reason: CMQkHQMxbXM 00:02:06-00:02:18 says the zone was not doable except on a sportboat (a veto on the PRIVATE boat); the inverted reading 'reachable only aboard a private boat' is already committed in locations/anacapa-island.md, species/evidence/barracuda.md and locations/289-284.md, which this unit cannot touch. Cameron should adjudicate once and fix all three.

@@ -319,6 +319,7 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

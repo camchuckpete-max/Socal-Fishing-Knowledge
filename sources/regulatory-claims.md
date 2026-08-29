@@ -161,6 +161,7 @@ route, and the insurance carriers by name.
 - [San Augustine](../locations/san-augustine.md)
 - [San Benito Islands](../locations/san-benito-island.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

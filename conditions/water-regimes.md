@@ -152,6 +152,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)

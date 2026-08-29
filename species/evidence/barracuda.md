@@ -261,4 +261,5 @@ Parked for the zone guides the parent note stubs out:
 - [Anacapa Island](../../locations/anacapa-island.md)
 - [California Barracuda](../barracuda.md)
 - [La Bocana](../../locations/la-bocana.md)
+- [Santa Cruz Island](../../locations/santa-cruz-island.md)
 <!-- backlinks:end -->

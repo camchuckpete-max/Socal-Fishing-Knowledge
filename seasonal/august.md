@@ -90,6 +90,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
