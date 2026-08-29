@@ -181,6 +181,7 @@ nothing was deleted, only moved.
 - [Catalina Island — Backside](../../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../../locations/cedros-island.md)
+- [Chester's Rock](../../locations/chester-s-rock.md)
 - [Evidence — Bahía de los Ángeles](../../locations/evidence/bahia-de-los-angeles.md)
 - [Evidence — California Sheephead](sheephead.md)
 - [Evidence — Dropper Loop](../../techniques/evidence/dropper-loop.md)

@@ -342,6 +342,7 @@ Trip reports and per-source provenance:
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Desperation Reef](../locations/desperation-reef.md)

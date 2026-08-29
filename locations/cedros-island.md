@@ -401,7 +401,7 @@ with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 (`_r_qKX_7080`) — they belong to the San Quintín grouping, not here.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Chester's Rock](chester-s-rock.md)
 <!-- children:end -->
 
 ## Evidence
@@ -418,6 +418,7 @@ Trip reports and per-source provenance:
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Sheephead](../species/sheephead.md)
+- [Chester's Rock](chester-s-rock.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

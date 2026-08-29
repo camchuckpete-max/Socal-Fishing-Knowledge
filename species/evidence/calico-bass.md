@@ -447,6 +447,7 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 - [Calico Bass (Kelp Bass)](../calico-bass.md)
 - [Calico Bass — boiler-bite swimbait](../calico-bass-swimbaits.md)
 - [Calico Bass — surface iron](../calico-bass-surface-iron.md)
+- [Chester's Rock](../../locations/chester-s-rock.md)
 - [Evidence — Barred Sand Bass](sand-bass.md)
 - [Evidence — Calico Bass — boiler-bite swimbait](calico-bass-swimbaits.md)
 - [Evidence — Calico Bass — surface iron](calico-bass-surface-iron.md)

@@ -167,6 +167,7 @@
 - [Cedros / San Benitos](cedros-island.md) **[Baja only]** — [Baja only] — the island complex at the south end of Baja Pacific — North: Cedros Island, the San Benito Islands, Geronimo Island and Chester's Rock, with Punta
 - [Channel Islands](channel-islands.md) **[SoCal only]** — The island group at the north end of the Bight, fished out of Ventura and Oxnard.
 - [Cherry Banks](cherry-banks.md) **[SoCal only]** — A charted spot at 32°52.000'N 119°24.800'W (cameron), in the San Nicolas Island zone.
+- [Chester's Rock](chester-s-rock.md) **[Baja only]** — [Baja only] — the shallow rock at the south end of the Cedros / San Benitos complex, "historically a good big yellowtail spot" for 40–50 lb fish and one corner
 - [China Point (San Clemente Is.)](china-point.md) **[SoCal only]** — A charted spot at 32°47.750'N 118°26.000'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Church Rock](church-rock.md) **[SoCal only]** — A charted spot at 33°17.750'N 118°19.700'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Clam Beds](clam-beds.md) **[SoCal only]** — A charted spot at 33°14.300'N 117°27.300'W (cameron), in the Oceanside / North County zone.
@@ -437,5 +438,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 424 notes exceed the 30-node cap._
+_Map skipped: 425 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -108,6 +108,7 @@ Trip reports and per-source provenance:
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cedros / San Benitos](cedros-island.md)
+- [Chester's Rock](chester-s-rock.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)

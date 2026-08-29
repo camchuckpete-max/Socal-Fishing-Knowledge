@@ -577,6 +577,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

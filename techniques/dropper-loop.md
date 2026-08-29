@@ -402,6 +402,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Dana Point](../locations/dana-point.md)

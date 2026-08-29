@@ -143,6 +143,7 @@ route, and the insurance carriers by name.
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
 - [Evidence — Dehooking & Release Handling](../fish-care/evidence/dehooking-and-release.md)

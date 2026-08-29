@@ -642,6 +642,7 @@ baits and heads from the class terms above; see
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)

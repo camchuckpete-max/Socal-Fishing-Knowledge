@@ -823,6 +823,7 @@ confidence.
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
 - [Desperation Reef](../locations/desperation-reef.md)

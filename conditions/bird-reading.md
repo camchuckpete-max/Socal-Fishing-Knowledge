@@ -172,6 +172,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bird-reading.md
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

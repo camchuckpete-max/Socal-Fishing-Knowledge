@@ -134,6 +134,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

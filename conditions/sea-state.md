@@ -222,6 +222,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [Bight Geography](../locations/bight-geography.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Channel Islands](../locations/channel-islands.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Current Diagnostics](current-diagnostics.md)

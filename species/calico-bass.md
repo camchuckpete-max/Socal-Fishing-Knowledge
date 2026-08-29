@@ -395,6 +395,7 @@ Trip reports and per-source provenance:
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Channel Islands](../locations/channel-islands.md)
+- [Chester's Rock](../locations/chester-s-rock.md)
 - [Chunking](../techniques/chunking.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)

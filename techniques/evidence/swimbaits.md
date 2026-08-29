@@ -137,6 +137,7 @@ with their doctrine to
 <!-- backlinks:start -->
 ## Linked from
 
+- [Chester's Rock](../../locations/chester-s-rock.md)
 - [Evidence — Island Structure](../../locations/evidence/island-structure.md)
 - [Swimbaits](../swimbaits.md)
 <!-- backlinks:end -->
