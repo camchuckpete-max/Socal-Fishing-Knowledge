@@ -54,7 +54,7 @@ leader-lighter-than-braid rule for bottom rigs that snag and must break off.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
+- [Bait-Tank Time-Savers — Artificial Octopus and Pre-Scented Gulp on the Rock-Cod Dropper Loop (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](tackle-express-premade-rock-cod-rig.md)

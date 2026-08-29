@@ -208,7 +208,8 @@ sized for fin bait is essential, not an afterthought.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
+- [Bait-Tank Time-Savers — Artificial Octopus and Pre-Scented Gulp on the Rock-Cod Dropper Loop (Tackle Express)](tackle-express-bait-tank-time-saver.md)
+- [Evidence — Bait-Tank Time-Savers (Tackle Express)](evidence/tackle-express-bait-tank-time-saver.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [White Seabass](../species/white-seabass.md)

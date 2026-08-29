@@ -343,7 +343,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
-- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
+- [Bait-Tank Time-Savers — Artificial Octopus and Pre-Scented Gulp on the Rock-Cod Dropper Loop (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

@@ -37,11 +37,12 @@
 - [Evidence — Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Per-source provenance for Searcher yellowtail live-bait sliding-sinker rig: channel status, upload date, and cross-reference notes the main note's prose gave up.
 - [Evidence — Accurate Tern 2 (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Per-source provenance and single-catch testimonials for Accurate Tern 2 — cast-control brake and redesigned twin drag.
 - [Evidence — Accurate Valiant 2 SPJ (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Per-source provenance for Accurate Valiant 2 SPJ — centrifugal brake, strike button, single/two-speed.
+- [Evidence — Bait-Tank Time-Savers (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Per-source provenance and re-cut tracing for Bait-Tank Time-Savers — artificial octopus and pre-scented Gulp on the rock-cod dropper loop.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 33 notes exceed the 30-node cap._
+_Map skipped: 34 notes exceed the 30-node cap._
 <!-- mermaid:end -->

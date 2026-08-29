@@ -563,7 +563,6 @@ groupings: [evidence file](evidence/hooks.md).
 ## Linked from
 
 - [Alijos Rocks](../locations/alijos-rocks.md)
-- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
@@ -576,6 +575,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [East Cape](../locations/east-cape.md)
+- [Evidence — Bait-Tank Time-Savers (Tackle Express)](evidence/tackle-express-bait-tank-time-saver.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — California Sheephead](../species/evidence/sheephead.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
