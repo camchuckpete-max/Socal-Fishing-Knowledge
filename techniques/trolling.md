@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA, ouBrIdO7d4k]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA, ouBrIdO7d4k, poqjnb1r1zk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island]
@@ -1021,6 +1021,31 @@ trolling as the presentation.
 - **Cross-reference:** the live-bait slow-troll — a different technique with a
   different purpose — is in
   [slow-trolling bait](slow-trolling-bait.md).
+
+## SoCal local coast — small-feather daisy chain for bonito
+
+**Observed** (Your Saltwater Guide, 2019-07-02 upload, either side of Dana
+Point Harbor, SoCal — `poqjnb1r1zk`; the presenter is not named on camera and
+the channel's registered voice is `dave-hansen`, so attribution is likely but
+unconfirmed for this clip — medium confidence; region: socal-bight): the
+small-boat counterpart to the offshore feather spreads above, run for
+[bonito](../species/bonito.md) scattered off a coastal harbour mouth with no
+boil showing.
+
+- **Spread — small feathers rigged as a short daisy chain.** The chain is
+  built soft and small ("a little soft made daisy-chain, just small booties"),
+  not the full-size offshore feather rig — see
+  [tuna feathers and skirts](../lures/tuna-feathers-and-skirts.md) for the
+  lure class.
+- **Speed — 5.5 kt.**
+- **The troll locates; the cast fishes.** The working instruction is to **cast
+  a lure the moment you get bit** — the trolled chain finds a scattered
+  school, and the cast is what you actually fish it with. Same troll-to-locate
+  logic as the prospecting section above, at bonito scale.
+- **Cast follow-up on the same program:** a small sardine-profile diving hard
+  bait (Rapala-class) twitched behind the boat, fished either alongside the
+  trolled feathers or on its own — detail in
+  [bonito](../species/bonito.md#situations--techniques).
 
 ## Resetting a long-set-back line after kelp — a drill-powered crank
 
