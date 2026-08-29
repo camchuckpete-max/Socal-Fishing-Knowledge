@@ -153,6 +153,7 @@
 - [Cabo San Lucas](cabo-san-lucas.md) **[Baja only]** — [Baja only] — The charter end of Baja Pacific — South, at the cape itself.
 - [Can Dump Kelp](can-dump-kelp.md) **[SoCal only]** — A charted spot at 33°19.819'N 118°18.416'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Cape Cortes](cape-cortes.md) **[SoCal only]** — A charted spot at 33°25.701'N 118°31.996'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md) **[Baja only]** — [Baja only] — the one island in the Bahía de los Ángeles zone that the corpus names on camera while fishing it: a rising shelf that comes up to 60 ft "a ways of
 - [Carlsbad AR](carlsbad-ar.md) **[SoCal only]** — The Carlsbad AR series — 12 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
 - [Carlsbad Canyon](carlsbad-canyon.md) **[SoCal only]** — A charted spot at 33°07.500'N 117°21.400'W (cameron), in the Oceanside / North County zone.
 - [Cat Harbor (partial-take SMCA inside — see DFW)](cat-harbor.md) **[SoCal only]** — A charted spot at 33°25.422'N 118°30.500'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -447,5 +448,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 434 notes exceed the 30-node cap._
+_Map skipped: 435 notes exceed the 30-node cap._
 <!-- mermaid:end -->

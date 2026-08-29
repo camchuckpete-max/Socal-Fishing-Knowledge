@@ -481,6 +481,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Cortez North](../locations/cortez-north.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Bluefin Bite Leaders](../rigging/evidence/bite-leaders.md)

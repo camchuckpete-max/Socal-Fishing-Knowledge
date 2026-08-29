@@ -146,5 +146,6 @@ unless a trip date is stated on camera.
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../bahia-de-los-angeles.md)
+- [Cardonosa / "Isla Cartito"](../cardonosa-isla-cartito.md)
 - [Evidence — Loreto & Puerto Escondido](loreto.md)
 <!-- backlinks:end -->

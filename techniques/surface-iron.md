@@ -482,6 +482,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Channel Islands](../locations/channel-islands.md)

@@ -404,6 +404,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bight Geography](../locations/bight-geography.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

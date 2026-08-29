@@ -107,6 +107,7 @@ Trip reports and per-source provenance:
 - [Cabo San Lucas](cabo-san-lucas.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)
+- [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Chester's Rock](chester-s-rock.md)
 - [Colonet](colonet.md)

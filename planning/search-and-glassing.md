@@ -341,6 +341,7 @@ Trip reports and per-source provenance:
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

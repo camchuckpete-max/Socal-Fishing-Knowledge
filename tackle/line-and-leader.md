@@ -575,6 +575,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chester's Rock](../locations/chester-s-rock.md)

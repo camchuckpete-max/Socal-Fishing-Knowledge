@@ -316,6 +316,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
+- [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cortez South](cortez-south.md)
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 - [Evidence — Cortez North](evidence/cortez-north.md)

@@ -337,7 +337,7 @@ spot page needs, so they are logged in
 written up here.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 <!-- children:end -->
 
 ## Evidence
@@ -349,6 +349,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Cortez North](cortez-north.md)
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)

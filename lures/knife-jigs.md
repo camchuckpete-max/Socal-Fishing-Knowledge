@@ -422,6 +422,7 @@ file](evidence/knife-jigs.md).
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cardonosa / "Isla Cartito"](../locations/cardonosa-isla-cartito.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](../techniques/evidence/knife-jigging.md)

@@ -178,6 +178,7 @@ nothing was deleted, only moved.
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../../locations/bahia-de-los-angeles.md)
+- [Cardonosa / "Isla Cartito"](../../locations/cardonosa-isla-cartito.md)
 - [Catalina Island — Backside](../../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../../locations/cedros-island.md)
