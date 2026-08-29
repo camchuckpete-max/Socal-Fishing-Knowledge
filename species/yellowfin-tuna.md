@@ -272,12 +272,14 @@ One charter sequence ran the other way — an 80–90 lb bluefin morning switchi
 into a wide-open yellowfin bite (`tU4jhAkdzNw`) — which establishes neither
 fish's activity as causing the other's and does not overturn the doctrine.
 
-**Picky-bite leader and hook: three figures, one situation.** Three sources give
-three stepping-off points for the same scaled-down flyline bite
-(`8M4QhL-Qb7E`, `AIHvJj-paoo`, `NN5MWeRA28o`). They are kept side by side,
-unreconciled and with the decision frame, on
-[yellowfin — flyline](yellowfin-tuna-flyline.md#rigs--gear), which holds the
-whole live-bait programme.
+**Picky-bite leader and hook: three figures, one situation.** How far down you
+go is set by how far the bite forces you, not by which source you follow — start
+at 30 lb with a 2/0 circle, step down only until they commit, then work back up
+to 25 and 30 (`8M4QhL-Qb7E`). Three sources give three different stepping-off
+points for that same scaled-down flyline bite; all three, with the decision
+frame, are on [yellowfin — flyline](yellowfin-tuna-flyline.md#rigs--gear)
+(`8M4QhL-Qb7E`, `AIHvJj-paoo`, `NN5MWeRA28o`), which holds the whole live-bait
+programme.
 
 **Guadalupe line class runs 20 lb to 60 lb; grade and line-shyness pick the
 build.** One build runs a

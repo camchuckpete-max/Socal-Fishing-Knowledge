@@ -3,7 +3,7 @@ type: species-technique
 tags: [yellowfin, tuna, flyline, live-bait, sardine, private-boat, offshore]
 sources: [8M4QhL-Qb7E, lxFNVdDhMy4, AIHvJj-paoo, NN5MWeRA28o]
 confidence: medium
-regions: [socal-bight]
+regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank, island]
 layout: v2
 species: yellowfin-tuna.md
