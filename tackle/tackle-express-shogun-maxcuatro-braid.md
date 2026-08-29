@@ -3,55 +3,56 @@ type: tackle
 tags: [braid, maxcuatro, metered-line, bluefin, jigging, tackle-express, shogun]
 sources: [Lj2NCznK7Zg]
 confidence: low
+layout: v2
 ---
 
 # Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)
 
-Tackle Express (James, on camera; `Lj2NCznK7Zg`, "Why This Braid Caught 100-lb
-Bluefin on the Shogun," uploaded 2026-06-22, 69 s). A trip recap coming off
-the **Shogun**, described as "our last day here... a three-day," for SoCal
-bluefin fishing, with fish up to the **100-lb mark**. The clip closes as an
-explicit sponsor/shop plug — "amazing people from Shimano... check it out at
-tackleexpress.com" — a **sponsored/promotional claim**, so this stays **low**
-confidence regardless of the parameters named, per the confidence rubric in
-[CLAUDE.md](../CLAUDE.md).
+Tackle Express spools Power Pro Maxcuatro braid for a Shogun SoCal bluefin
+trip running fish up to the 100-lb mark (`Lj2NCznK7Zg`), on both the night
+knife-jig bite and a bait fished behind the boat between jig stops. The clip
+closes as a Shimano/tackleexpress.com shop plug; per the confidence rubric
+this stays **low** confidence regardless of the parameters named, on top of
+tackle-express being an unregistered channel.
 
 ## The line
 
-**Maxcuatro** braid (read as **Power Pro Maxcuatro** — see the cross-reference
-below), marketed on camera as **metered every 100 ft** and **25% thinner**
-[than standard braid at the same rated strength, per the source's own
-framing]. Stated effect: the thinner diameter **kept the line vertical**,
-letting jigs get down into the strike zone and get bit. This is a second,
-independent citation of the same **"25% thinner" Power Pro Maxcuatro**
-marketing claim already logged — also at low confidence, also a sponsor-style
-product tip — in [line & leader — long-range tuna backing
+Maxcuatro (read as **Power Pro Maxcuatro** — see Related) is marketed as
+**metered every 100 ft** and **25% thinner than standard braid at the same
+rated strength** (`Lj2NCznK7Zg`). The thinner diameter is stated to keep the
+line running more vertical under a jig, letting it get down into the strike
+zone and get bit (`Lj2NCznK7Zg`) — the same mechanism already logged for this
+product generically (no 100 ft-metering detail given there) in [line &
+leader — long-range tuna backing
 capacity](line-and-leader.md#length-and-weight-by-application) (Pete Gray,
-SearcherSportfishing, `1wFoa11jPxQ`). That earlier citation didn't mention a
-100 ft metering interval for this specific product; this clip adds it,
-folding Maxcuatro into the same **100 ft-interval metered-braid doctrine**
+`1wFoa11jPxQ`), and it joins the same 100 ft-interval metered-braid doctrine
 already logged for other named products in [knife jigging — depth control &
 jig calling](../techniques/knife-jigging.md#depth-control--jig-calling).
 
-## Reel/rod pairings named on camera
+## Reel and rod pairings
 
 - **Night jig bite:** Shimano **Ocea Jigger** reels paired with **Grappler
-  Type J** jigging rods, spooled with Maxcuatro. Also paired on **Trevala**
-  rods "for our jigging night time bite" — a second named rod line for the
-  same night-jig application, not distinguished from the Ocea
-  Jigger/Grappler pairing by any stated reason.
+  Type J** jigging rods, spooled with Maxcuatro; also paired on **Trevala**
+  rods for the same night-jig application — a second named rod line, not
+  distinguished from the Ocea Jigger/Grappler pairing by any stated reason
+  (`Lj2NCznK7Zg`).
 - **Between stops, daytime:** a Shimano **Ledge Runner** reel, also spooled
-  with Maxcuatro, used to fish a bait behind the boat while running between
-  jig stops — the source's stated reason for naming the metered line here is
-  knowing "exactly where we're setting that bait behind the boat," described
-  as producing "quite nice fish" in that window. The transcript doesn't
-  specify boat speed, bait type, or whether the boat was underway or drifting
-  at the point of the bite, so this is recorded as a bait-behind-the-boat
-  application rather than asserted as a match to
-  [slow-trolling live bait](../techniques/slow-trolling-bait.md) or
+  with Maxcuatro, fishes a bait behind the boat while running between jig
+  stops. The metered line lets the angler know exactly where the bait sits
+  behind the boat, stated to produce "quite nice fish" in that window
+  (`Lj2NCznK7Zg`). Boat speed, bait type, and whether the boat was underway
+  or drifting at the bite aren't given, so this stays a bait-behind-the-boat
+  application rather than an asserted match to [slow-trolling live
+  bait](../techniques/slow-trolling-bait.md) or
   [trolling](../techniques/trolling.md) specifically.
 
-No leader, drag, or jig-model detail is given in this short clip.
+No leader, drag, or jig-model detail is given in this short clip
+(`Lj2NCznK7Zg`).
+
+## Evidence
+
+Per-source provenance: [evidence
+file](evidence/tackle-express-shogun-maxcuatro-braid.md).
 
 ## Related
 
@@ -63,8 +64,8 @@ No leader, drag, or jig-model detail is given in this short clip.
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) —
   same shop, a different named 100 ft-metered product (Power Pro Depth
   Hunter Offshore) for the same night-bluefin-jig problem.
-- [Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) —
-  same shop's direct head-to-head counter comparison of this product against
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) —
+  same shop's direct head-to-head counter-comparison of this product against
   Depth Hunter Offshore, with line-class availability and a cost/reel-size
   selection tradeoff this trip-recap clip doesn't cover.
 - [Bluefin Tuna](../species/bluefin-tuna.md) — the species router.
@@ -72,6 +73,7 @@ No leader, drag, or jig-model detail is given in this short clip.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Maxcuatro Metered Braid, Shogun Trip (Tackle Express)](evidence/tackle-express-shogun-maxcuatro-braid.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
