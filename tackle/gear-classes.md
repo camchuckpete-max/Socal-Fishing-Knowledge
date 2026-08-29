@@ -325,6 +325,7 @@ file](evidence/gear-classes.md).
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)
 - [White Seabass — lead head and squid](../species/white-seabass-leadhead-squid.md)
+- [White Seabass — leadhead swimbait](../species/white-seabass-leadhead-swimbait.md)
 - [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../species/yellowfin-tuna-flyline.md)

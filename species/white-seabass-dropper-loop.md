@@ -174,4 +174,5 @@ source provenance: [white seabass evidence](evidence/white-seabass.md).
 - [Evidence — White Seabass — dropper loop](evidence/white-seabass-dropper-loop.md)
 - [White Seabass](white-seabass.md)
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
+- [White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md)
 <!-- backlinks:end -->

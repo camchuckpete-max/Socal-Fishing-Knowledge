@@ -657,4 +657,5 @@ baits and heads from the class terms above; see
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
+- [White Seabass — leadhead swimbait](../species/white-seabass-leadhead-swimbait.md)
 <!-- backlinks:end -->

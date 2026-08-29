@@ -7,8 +7,8 @@ regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
 layout: v2
 gear_classes: [bass-casting-swimbait, jig-stick]
-depth_band: harbor/bay bottom contact (e.g. 10 ft); open-water column work around the Channel Islands, countdown-to-bottom casts of 20-30 s
-retrieve_speed: count-and-pause (3 turns, watch the line fall slack) for bottom contact; open water splits erratic crack-slack (seabass/yellowtail) vs. a smooth glide (halibut), with a slow current-worked walk for lazy seabass
+depth_band: harbor/bay bottom contact (e.g. 10 ft); open-water column work around the Channel Islands
+retrieve_speed: count-and-pause (3 turns, watch the line fall slack) for bottom contact; open water splits erratic crack-slack (seabass/yellowtail) vs. a smooth glide (halibut)
 ---
 
 # Leadhead Swimbait Retrieve — Depth Control by Feel
@@ -153,29 +153,12 @@ prefer a **smoother, steadier action** — bottom contact, then lift and
 tight-line it so it glides across the bottom rather than the erratic
 crack-slack action (`hjZ3hgq0Bzg`).
 
-**White seabass-specific execution within this open-water program is queued
-for a species-technique spin-out** (pending,
-`species/white-seabass-leadhead-swimbait.md`): a countdown-to-bottom cast
-pair for a sonar mark or squid spot — count the first cast down to bottom
-(the example given: **30 seconds**), then on the next cast engage the reel
-at **20 seconds** rather than waiting for bottom, to fish a shallower zone;
-from there, fish most casts shallow but try a **midwater-column swim roughly
-every third cast** — stated reason: a boat with fish riding mid-column (not
-cruising bottom) would be missed entirely by dropper-loop anglers, and a
-caster can confirm that with a rod and reel rather than needing the
-wheelhouse to call it out (`hjZ3hgq0Bzg`). A separate, slow current-worked
-retrieve conflicts with the hard-crack call above for the same species:
-for a white seabass that "wants to chase something" rather than eat
-dead-drifted squid, cast/drop the lure down, then work it through the
-current walking the rod **slowly down-up-down**, deliberately imitating a
-live squid holding and drifting in the current rather than a fleeing
-baitfish — going slow despite the light, buoyant leadhead having a lot of
-drag in the water, because seabass are often "extremely lazy" and taking
-their time (`qLKLlZdiflA`). The choice between the two turns on how actively
-the fish are feeding: hard, erratic crack-slack draws curious, mobile fish;
-the slow walk matches fish holding and drifting rather than chasing. See
-also [white seabass — situations →
-techniques](../species/white-seabass.md#situations--techniques).
+**White seabass has its own program inside this retrieve family** — the
+countdown-to-bottom cast pair, the midwater-column swim tried roughly every
+third cast, and the slow current-worked walk that conflicts with the hard
+crack above — in [white seabass — leadhead
+swimbait](../species/white-seabass-leadhead-swimbait.md)
+(`hjZ3hgq0Bzg`, `qLKLlZdiflA`).
 
 ## Where it doesn't work
 
@@ -236,6 +219,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 ## Species applications
 
 - [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
+- [White Seabass — leadhead swimbait](../species/white-seabass-leadhead-swimbait.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -247,6 +231,7 @@ file](evidence/leadhead-swimbait-retrieve.md).
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Leadhead Swimbait Retrieve](evidence/leadhead-swimbait-retrieve.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
+- [Evidence — White Seabass — leadhead swimbait](../species/evidence/white-seabass-leadhead-swimbait.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
@@ -257,4 +242,5 @@ file](evidence/leadhead-swimbait-retrieve.md).
 - [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
 - [Swimbaits](swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
+- [White Seabass — leadhead swimbait](../species/white-seabass-leadhead-swimbait.md)
 <!-- backlinks:end -->

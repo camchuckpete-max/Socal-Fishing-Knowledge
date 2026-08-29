@@ -42,6 +42,7 @@
 - [Wahoo](wahoo.md) — Water temperature is the gate on wahoo, not the calendar: 72 °F or warmer is the standing condition for a chance at one, and fall — late September, October, ear
 - [White Seabass — dropper loop](white-seabass-dropper-loop.md) **[SoCal only]** — One species, one technique.
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md) **[SoCal only]** — One species, one technique.
+- [White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md) **[SoCal only]** — One species, one technique.
 - [White Seabass](white-seabass.md) — White seabass is a squid fishery before it is a seabass fishery: the fish sit on island squid beds in 60–90 ft, close to the bottom, eating spawning squid that
 - [Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md) — One species, one technique.
 - [Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md) — One species, one technique.
@@ -60,5 +61,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 47 notes exceed the 30-node cap._
+_Map skipped: 48 notes exceed the 30-node cap._
 <!-- mermaid:end -->

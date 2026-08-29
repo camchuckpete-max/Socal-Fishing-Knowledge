@@ -363,7 +363,6 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [June–July](../seasonal/june-july.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
-- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Moon](../conditions/moon.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [October](../seasonal/october.md)
@@ -388,4 +387,5 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [White Seabass — dropper loop](white-seabass-dropper-loop.md)
 - [White Seabass — lead head and squid](white-seabass-leadhead-squid.md)
+- [White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md)
 <!-- backlinks:end -->

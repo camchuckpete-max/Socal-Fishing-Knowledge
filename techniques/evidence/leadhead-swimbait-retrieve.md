@@ -55,13 +55,18 @@ not citation count.
 
 - `hjZ3hgq0Bzg` (Tackle Express, Shannon Gallagher, 2025-04-28, 22:27):
   source for the chop-glide/sweep-and-drop/crack-and-slack/
-  bottom-check-and-suspend retrieve family, the seabass/yellowtail-vs-halibut
-  species split, and the white seabass countdown-to-bottom cadence;
-  unregistered channel, single mention — medium confidence.
-- `qLKLlZdiflA` (Tackle Express, "Essentials You Need For Tuna Fishing in
-  Southern California," 2023-04-20): source for the slow, current-worked
-  white seabass retrieve that conflicts with the hard-crack call from
-  `hjZ3hgq0Bzg`; unregistered channel — medium confidence.
+  bottom-check-and-suspend retrieve family and the
+  seabass/yellowtail-vs-halibut species split; unregistered channel, single
+  mention — medium confidence. Its white seabass countdown-to-bottom cadence
+  and midwater-check cadence moved with that program to
+  [white seabass — leadhead swimbait
+  evidence](../../species/evidence/white-seabass-leadhead-swimbait.md).
+- `qLKLlZdiflA` (Tackle Express, 2023-04-20): its slow, current-worked white
+  seabass retrieve — and the conflict it opens with the hard-crack call from
+  `hjZ3hgq0Bzg` — moved to
+  [white seabass — leadhead swimbait
+  evidence](../../species/evidence/white-seabass-leadhead-swimbait.md) with
+  that program; unregistered channel — medium confidence.
 
 ## Gear class
 
@@ -72,5 +77,6 @@ not citation count.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — White Seabass — leadhead swimbait](../../species/evidence/white-seabass-leadhead-swimbait.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../leadhead-swimbait-retrieve.md)
 <!-- backlinks:end -->

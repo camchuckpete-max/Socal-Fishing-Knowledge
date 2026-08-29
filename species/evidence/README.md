@@ -42,6 +42,7 @@
 - [Evidence — Wahoo](wahoo.md) — Per-source provenance backing wahoo.
 - [Evidence — White Seabass — dropper loop](white-seabass-dropper-loop.md) — Per-source provenance backing white seabass — dropper loop.
 - [Evidence — White Seabass — lead head and squid](white-seabass-leadhead-squid.md) — Per-source provenance backing white seabass — lead head and squid.
+- [Evidence — White Seabass — leadhead swimbait](white-seabass-leadhead-swimbait.md) — Per-source provenance backing white seabass — leadhead swimbait.
 - [Evidence — White Seabass](white-seabass.md) — Per-source provenance backing white seabass.
 - [Evidence — Yellowfin Tuna — flyline](yellowfin-tuna-flyline.md) — Per-source provenance backing yellowfin tuna — flyline.
 - [Evidence — Yellowfin Tuna — trolling](yellowfin-tuna-trolling.md) — Per-source provenance backing yellowfin tuna — trolling.
@@ -56,5 +57,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 46 notes exceed the 30-node cap._
+_Map skipped: 47 notes exceed the 30-node cap._
 <!-- mermaid:end -->
