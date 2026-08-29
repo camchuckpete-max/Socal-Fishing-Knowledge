@@ -3,32 +3,34 @@ type: tackle
 tags: [reels, daiwa-saltiga, shimano-talica, two-speed, lever-drag, reel-sizing, gear-ratio, drag, lever-drag-stop, handle-style, line-class, tackle-express]
 sources: [E273T9jAmpg, JgD1gOuQAaE]
 confidence: medium
+layout: v2
 ---
 
 # Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)
 
-Two Tackle Express clips comparing the same two reel lines, both presented by
-Harry (self-identified on camera in both), `tackle-express` unregistered
-channel — parameters below stay **medium** confidence:
+Two Tackle Express clips compare the same two reel lines, both presented by
+Harry, self-identified on camera in both. `tackle-express` is an
+unregistered channel, so parameters below stay **medium** confidence
+throughout.
 
-- `JgD1gOuQAaE`, "Daiwa Saltiga vs. Shimano Talica: Which 2-Speed Lever Drag
-  Reel Reigns Supreme?," uploaded 2024-12-27, 13:13 — the longer, earlier of
-  the two, covering **both** a smaller pair (Saltiga 35 / Talica 12) and a
-  larger pair (Saltiga 55 / Talica 20), plus decision-level commentary (lever
-  drag stop, handle style, price, target line class/fish size by pair).
-- `E273T9jAmpg`, "Daiwa Saltiga 35 vs. Shimano Talica 12," uploaded
-  2024-12-31 (four days later) — 91 seconds, small pair only. Its spec figures
-  match `JgD1gOuQAaE`'s small-pair segment exactly (same weights, capacities,
-  drag, and gear ratios) — this is a **re-cut of the same footage/script, not
-  an independent confirmation**, consistent with this channel's pattern of
-  re-using the same spec/feature copy across multiple clips (see also
-  [Daiwa Saltiga — CRBB bearings, Digigear, and Automatic Tournament
-  Drag](tackle-express-daiwa-saltiga-reel.md)). Kept as a second citation for
-  the record, not as corroborating evidence.
+`JgD1gOuQAaE`, "Daiwa Saltiga vs. Shimano Talica: Which 2-Speed Lever Drag
+Reel Reigns Supreme?," uploaded 2024-12-27, 13:13, is the longer, earlier
+clip: it covers both a smaller pair (Saltiga 35 / Talica 12) and a larger
+pair (Saltiga 55 / Talica 20), plus decision-level commentary (lever drag
+stop, handle style, price, target line class/fish size by pair).
+`E273T9jAmpg`, "Daiwa Saltiga 35 vs. Shimano Talica 12," uploaded 2024-12-31
+(four days later), runs 91 seconds and covers the small pair only; its spec
+figures match `JgD1gOuQAaE`'s small-pair segment exactly (same weights,
+capacities, drag, and gear ratios) — a **re-cut of the same footage/script,
+not an independent confirmation**, consistent with this channel's pattern of
+reusing spec/feature copy across clips (see also [Daiwa Saltiga — CRBB
+bearings, Digigear, and Automatic Tournament
+Drag](tackle-express-daiwa-saltiga-reel.md)). It is kept here as a second
+citation for the record, not as corroborating evidence.
 
-Neither clip is a pitch for one reel over the other — Harry states he fishes
-and likes both — so this doesn't fall under the sponsored-claim/
-product-endorsement cap the way a single-model feature clip would.
+Neither clip favors one reel over the other — Harry fishes and likes both —
+so this stays outside the sponsored-claim/product-endorsement confidence cap
+a single-model feature clip would trigger.
 
 ## Specs, side by side — small pair (Saltiga 35 / Talica 12)
 
@@ -44,15 +46,16 @@ product-endorsement cap the way a single-model feature clip would.
 | Low gear, inches per turn | 23 in | 22.6 in |
 
 The line-capacity figures are stated on camera as approximate ("roughly");
-weight, drag, and gear-ratio figures are given as exact.
+weight, drag, and gear-ratio figures are given as exact
+(`JgD1gOuQAaE`, `E273T9jAmpg`).
 
-Harry's own framing, closing this comparison: the two reels are "extremely
-comparable" on line capacity, drag output, inches per turn, and overall cost
-— he fishes both and loves both. In `E273T9jAmpg` he starts naming one thing
-he prefers about each individually, opening with the Saltiga 35 ("I do think
-it is extremely pretty, it has a[n] m...") and the clip cuts off mid-sentence
-there. `JgD1gOuQAaE` completes the same thought and continues past it — see
-"Decision factors" below.
+Harry frames the small pair as "extremely comparable" on line capacity, drag
+output, inches per turn, and overall cost — he fishes both and likes both
+(`JgD1gOuQAaE`). In `E273T9jAmpg` he begins naming one preference for each
+reel individually, opening with the Saltiga 35 ("I do think it is extremely
+pretty, it has a[n] m...") before the clip cuts off mid-sentence; `JgD1gOuQAaE`
+completes the same thought and continues past it — see Decision factors
+below.
 
 ## Specs, side by side — large pair (Saltiga 55 / Talica 20) (`JgD1gOuQAaE` only)
 
@@ -67,57 +70,59 @@ there. `JgD1gOuQAaE` completes the same thought and continues past it — see
 | Low gear ratio | 1.9:1 | 2.3:1 |
 | Low gear, inches per turn | 17 in | 20.6 in |
 
-Harry's summary of this pair: "exceptionally comparable," with the Talica 20
-having roughly 50 more yards of 100 lb capacity and 5 lb more max drag than
-the Saltiga 55 — a difference he frames as making the Talica "look really
-nice," immediately followed by the handle-style point below as the Saltiga's
-counterweight.
+Harry summarizes this pair as "exceptionally comparable": the Talica 20 carries
+roughly 50 more yards of 100 lb capacity and 5 lb more max drag than the
+Saltiga 55, a difference he says makes the Talica "look really nice,"
+immediately followed by the handle-style point below as the Saltiga's
+counterweight (`JgD1gOuQAaE`).
 
-## Decision factors (`JgD1gOuQAaE`, Harry's stated reasoning)
+## Decision factors
+
+Harry's own reasoning, given while closing the `JgD1gOuQAaE` comparison:
 
 - **Lever drag stop — Saltiga's stated biggest feature for Harry, across both
   sizes.** The Saltiga's lever physically stops at the **strike** position
   every time it's pushed forward from free spool, "no matter how hard, no
   matter how fast" — going past strike into full requires clicking in and
   slowly pushing further. Stated reason: this is "a great feature" because it
-  removes the risk of overshooting. **The Talica has no such stop** — nothing
-  blocks the lever from traveling straight from free spool into full — so
-  jumping the gun or getting excited on the strike can send it too far,
-  which Harry says "could make or break your trip." Stated mitigation for a
+  removes the risk of overshooting. **The Talica has no such stop** — nothing blocks the lever
+  from traveling straight from free spool into full — so jumping the gun or
+  getting excited on the strike can send it too far, which Harry calls
+  something that "could make or break your trip." Stated mitigation for a
   Talica-style reel without the stop: push the lever forward slowly and
   incrementally; strike is still identifiable by a click/resistance point,
-  then continue past it deliberately for full.
+  then continue past it deliberately for full (`JgD1gOuQAaE`).
 - **Handle style — T-bar (Saltiga 55) vs. knob (Talica 20), large pair only.**
-  The Saltiga 55 comes stock with a **T-bar handle** — described once as
-  stainless steel and, when Harry circles back to summarize the large pair
-  near the end of the clip, again as aluminum (the transcript doesn't
-  reconcile the two material words for what appears to be the same handle;
-  both are preserved as stated rather than picking one) — stated reasons:
-  comfortable, smooth, less prone to slipping out of a wet or bloody hand, and
-  more torque/power on a fish. The Talica 20 comes stock with a **knob-style
-  handle** — "nothing wrong with the knob," but it doesn't allow as much
-  torque/leverage as the T-bar. Both manufacturers sell **replacement/upgrade
-  handles**; the next size up, the **Talica 25**, comes stock with the
-  upgraded T-handle already. Neither clip discusses handle style for the small
-  pair (Saltiga 35 / Talica 12).
+  The Saltiga 55 ships with a **T-bar handle** — described once as stainless
+  steel and, when Harry circles back to summarize the large pair near the end
+  of the clip, again as aluminum (the transcript doesn't reconcile the two
+  material words for what appears to be the same handle; both are preserved
+  as stated rather than picking one). Stated reasons: comfortable, smooth,
+  less prone to slipping out of a wet or bloody hand, and more torque/power on
+  a fish. The Talica 20 ships with a **knob-style handle** — "nothing wrong
+  with the knob," but it doesn't allow as much torque/leverage as the T-bar.
+  Both manufacturers sell **replacement/upgrade handles**; the next size up,
+  the **Talica 25**, ships with the upgraded T-handle already. Neither clip
+  discusses handle style for the small pair (Saltiga 35 / Talica 12)
+  (`JgD1gOuQAaE`).
 - **Price.** Across both size pairs, the Saltiga runs "a little bit more
-  expensive" ("a squeak bit more") than its Talica counterpart.
-- **Free spool vs. smoothness, restated at the close:** Saltiga — "an
-  excellent free spool like nobody's business"; Talica — "exceptional
+  expensive" ("a squeak bit more") than its Talica counterpart (`JgD1gOuQAaE`).
+- **Free spool vs. smoothness, restated at the close.** Saltiga: "an
+  excellent free spool like nobody's business." Talica: "exceptional
   smoothness like no other reel." Same framing as the small-pair close above,
-  now stated for the line generally rather than one model pair.
+  now stated for the line generally rather than one model pair (`JgD1gOuQAaE`).
 
-## Line class and target fish size by pair (`JgD1gOuQAaE`)
+## Line class and target fish size by pair
 
 - **Small pair (Saltiga 35 / Talica 12):** a **20–40 lb** line-class reel,
-  targeting fish Harry puts at roughly **20 up to 60–70 lb**, "you could
-  probably get a little bit bigger, definitely smaller."
+  targeting fish Harry puts at roughly **20 up to 60–70 lb** — "you could
+  probably get a little bit bigger, definitely smaller" (`JgD1gOuQAaE`).
 - **Large pair (Saltiga 55/60, Talica 20/25):** spooled with **60–100 lb**
   mainline, for "the heavy fish," stated as **60 lb and up**. The upper bound
   Harry gives — "upwards of 20,000 lb potentially" — is preserved as stated
   but is almost certainly hyperbole or a transcription artifact (no real
   SoCal/Baja gamefish approaches that weight); flagged `asr-uncertain` and not
-  read literally.
+  read literally (`JgD1gOuQAaE`).
 
 ## Notes on scope
 

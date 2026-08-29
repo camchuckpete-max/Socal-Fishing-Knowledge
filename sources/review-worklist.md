@@ -253,7 +253,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-premade-rock-cod-rig.md | light | done | none | light-tier v2 transform verified clean: attribution preamble split to evidence file, plain-statement prose, dead dropper-loop anchor fixed, check-note.py and link-maintenance.py both pass, 69→64 lines |
 | tackle/tackle-express-rockfish-leader-line.md | light | done | gaps(1) | transform (light) applied with one conservation fix (restored dropped Berkley-product option); 62->63 lines, check-note.py clean |
 | tackle/tackle-express-saltiga-300-round-jigging-reel.md | light | done | none | transform applied, light tier, evidence split conserved, 6 cites added, 84->88 lines |
-| tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md | light | pending |  |  |
+| tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md | light | done | none | transform verified with 2 fixes (restored dropped quote, delegalized malformed flag marker); 177->182 lines |
 | tackle/tackle-express-savage-gear-line-thru-swimbait-rigging.md | light | pending |  |  |
 | tackle/tackle-express-shimano-nasci-fc-reel.md | light | pending |  |  |
 | tackle/tackle-express-shimano-sedona-reel-features.md | light | pending |  |  |
