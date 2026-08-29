@@ -151,4 +151,5 @@ carries doctrine, only what was done and what it produced.
 - [Loreto & Puerto Escondido](../loreto.md)
 - [Puerto Escondido Marina](../puerto-escondido-marina.md)
 - [Punta Perico](../punta-perico.md)
+- [Six Mile Reef](../six-mile-reef.md)
 <!-- backlinks:end -->

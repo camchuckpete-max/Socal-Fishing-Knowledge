@@ -244,6 +244,7 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

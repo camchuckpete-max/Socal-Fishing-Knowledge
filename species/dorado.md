@@ -304,6 +304,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [September](../seasonal/september.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

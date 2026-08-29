@@ -503,6 +503,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)
 - [Surface Iron](surface-iron.md)

@@ -392,6 +392,7 @@
 - [Sentinel Rock](sentinel-rock.md) **[SoCal only]** — A charted spot at 33°22.559'N 118°29.327'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Ship Rock (stay W of MPA at 118 29.300)](ship-rock.md) **[SoCal only]** — A charted spot at 33°27.760'N 118°29.430'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Silver Canyon](silver-canyon.md) **[SoCal only]** — A charted spot at 33°19.174'N 118°23.361'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Six Mile Reef](six-mile-reef.md) **[Baja only]** — [Baja only] — the stop on the way out in the Loreto & Puerto Escondido island cluster: a high spot held as a mark on the plotter, fished to the bottom on the ru
 - [The Slide / 152 / 277](slide-152-277.md) **[SoCal only]** — A zone is a run grouping.
 - [The Slide (Catalina)](slide.md) **[SoCal only]** — A charted spot at 33°18.800'N 118°18.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md) **[Baja only]** — A zone is a run grouping.
@@ -453,5 +454,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 440 notes exceed the 30-node cap._
+_Map skipped: 441 notes exceed the 30-node cap._
 <!-- mermaid:end -->

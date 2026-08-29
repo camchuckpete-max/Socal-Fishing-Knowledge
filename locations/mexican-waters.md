@@ -149,6 +149,7 @@ Trip reports and per-source provenance:
 - [San Augustine](san-augustine.md)
 - [San Benito Islands](san-benito-island.md)
 - [San Quintin](san-quintin.md)
+- [Six Mile Reef](six-mile-reef.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [Snook (Robalo)](../species/snook.md)

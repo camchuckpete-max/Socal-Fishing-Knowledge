@@ -378,6 +378,7 @@ Trip reports and per-source provenance:
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Search and Glassing](search-and-glassing.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

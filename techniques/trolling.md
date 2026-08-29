@@ -1053,6 +1053,7 @@ covered above, not a new tool.
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](speed-trolling.md)

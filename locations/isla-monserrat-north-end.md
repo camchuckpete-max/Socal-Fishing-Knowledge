@@ -146,4 +146,5 @@ observations behind this page, so it serves as the provenance layer:
 
 - [Loreto & Puerto Escondido](loreto.md)
 - [Puerto Escondido Marina](puerto-escondido-marina.md)
+- [Six Mile Reef](six-mile-reef.md)
 <!-- backlinks:end -->

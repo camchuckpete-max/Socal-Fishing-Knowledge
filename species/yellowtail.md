@@ -506,6 +506,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [September](../seasonal/september.md)
+- [Six Mile Reef](../locations/six-mile-reef.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
