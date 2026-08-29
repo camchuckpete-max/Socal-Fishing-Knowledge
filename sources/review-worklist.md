@@ -887,7 +887,7 @@ by their builders after the transform phase drains.
 | species/striped-marlin-trolling.md | standard | transformed | reg-claims(0), spots(2), gaps(0), misplaced(0) | ad hoc single-source caveat reformatted into standard fact-check flag + Standing ledger row; two spot-harvest rows (tanker lanes, 277 bank) added |
 | species/wahoo-live-bait.md | standard | escalated |  | escalated: guard: out of scope for 'review: species/wahoo-live-bait.md': species/wahoo.md |
 | species/white-seabass-dropper-loop.md | standard | transformed | none | verifier confirmed compliance, fixed two v2.1 prose-hygiene defects (self-narration filler, corpus-attribution preamble) |
-| species/white-seabass-leadhead-squid.md | standard | pending |  | created by relocation from species/white-seabass.md |
+| species/white-seabass-leadhead-squid.md | standard | transformed | none | already layout-v2 compliant, no changes needed; verifier confirmed conservation and drift checks pass |
 | species/yellowfin-tuna-flyline.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 | species/yellowfin-tuna-trolling.md | standard | pending |  | created by relocation from species/yellowfin-tuna.md |
 | species/yellowtail-dropper-loop.md | standard | pending |  | created by relocation from techniques/dropper-loop.md |
