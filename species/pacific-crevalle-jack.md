@@ -201,6 +201,7 @@ Trip reports and per-source provenance:
 - [Cortez South](../locations/cortez-south.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Pacific Crevalle Jack](evidence/pacific-crevalle-jack.md)
+- [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
@@ -209,5 +210,4 @@ Trip reports and per-source provenance:
 - [Southern California Bight](../locations/socal-bight.md)
 - [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
-- [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

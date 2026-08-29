@@ -264,9 +264,6 @@ water available crossed against the cleanest water on the chlorophyll chart
 (`OYOda6T3f-8`), and in warm-water years chlorophyll and water colour carry at
 least as much weight as SST, with "dirty green" water not fished for gamefish
 at all (cameron). Nothing in the corpus disputes this.
-⚠ misplaced-content: the stated personal interest in warm-water arrivals
-generally (e.g. [Pacific crevalle jack](pacific-crevalle-jack.md)) is profile
-data, not fishery doctrine.
 
 **Yellowfin activity is a bluefin signal, not the reverse.** Yellowfin are more
 cooperative on lures than bluefin, and when they are up fighting lures on the

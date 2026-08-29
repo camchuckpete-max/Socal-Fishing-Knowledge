@@ -2,7 +2,7 @@
 type: evidence
 parent: ../yellowfin-tuna.md
 tags: [yellowfin, tuna, offshore, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA, _r08B4bItAY, uWGGeDOprsE, fK2AT460xW4, qv0QbLgp72o, fri_BWI-VA0]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA, _r08B4bItAY, uWGGeDOprsE, fK2AT460xW4, qv0QbLgp72o, fri_BWI-VA0, cameron]
 confidence: medium
 ---
 
@@ -441,6 +441,17 @@ matching flagged stubs.
   naming the product and pound test. The segment opens by pitching a Seaguar
   Blue Label sale at the shop's own tackle day, so it is a promotional claim
   capped at low confidence.
+- `cameron`: alongside the warmest × cleanest water read the parent carries
+  (chlorophyll and water colour weighted at least as heavily as SST in
+  warm-water years, and "dirty green" water not fished for gamefish at all), a
+  stated interest in warm-water arrivals generally — e.g.
+  [Pacific crevalle jack](../pacific-crevalle-jack.md) — when the water brings
+  them into range. That interest is an angler's stated preference rather than
+  fishery doctrine, so it is held here and in
+  [Cameron's profile](../../profiles/cameron/README.md) — which does not yet
+  carry it — while the parent keeps only the operational water read. The same
+  open item is already recorded, attributed, on the
+  [crevalle router](../pacific-crevalle-jack.md#doctrine--conflicts).
 
 <!-- backlinks:start -->
 ## Linked from
