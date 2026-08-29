@@ -604,6 +604,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](knife-jigs.md)
+- [Lingcod Specialty Baits — the Ling Cod Killers](lingcod-specialty-baits.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

@@ -146,6 +146,7 @@ file](evidence/tube-baits.md).
 - [California Sheephead](../species/sheephead.md)
 - [California Sheephead — tube-bait fishing](../species/sheephead-tube-bait-fishing.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
+- [Evidence — Lingcod Specialty Baits](evidence/lingcod-specialty-baits.md)
 - [Evidence — Tube Baits (HookUp Baits)](evidence/tube-baits.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

@@ -155,5 +155,6 @@ provenance: [rockfish & lingcod evidence](evidence/rockfish-lingcod.md).
 
 - [Evidence — Lingcod — jigging](evidence/lingcod-jigging.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
+- [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 <!-- backlinks:end -->

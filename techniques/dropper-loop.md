@@ -420,6 +420,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
+- [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)

@@ -899,4 +899,5 @@ by their builders after the transform phase drains.
 | species/spotted-bay-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
 | species/calico-bass-swimbaits.md | standard | pending |  | created by relocation from techniques/swimbaits.md |
 | species/yellowtail-tube-bait-fishing.md | standard | pending |  | created by relocation from techniques/tube-bait-fishing.md |
+| lures/lingcod-specialty-baits.md | standard | pending |  | created by relocation from lures/knife-jigs.md |
 <!-- review:worklist:end -->

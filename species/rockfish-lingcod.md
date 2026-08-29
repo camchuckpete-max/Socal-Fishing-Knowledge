@@ -382,6 +382,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Lingcod — jigging](lingcod-jigging.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)

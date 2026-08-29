@@ -262,10 +262,9 @@ vertical for bite sensitivity — a jig scoped out toward the horizon reads as
 no bites, not as "not fishing here"; correct it by flicking the jig up-swell
 of the drift so it sinks back toward vertical as the boat drifts onto it.
 
-⚠ misplaced-content: two named large-profile lingcod-only baits, branded "Ling
-Cod Killers" — the Living Squid and the Ling Killer — are not knife/vertical
-jigs and carry no weight, color, or rig detail on camera (`S9sQ8Vg8-5o`);
-queued to the relocation queue rather than covered here.
+The same segment also puts two large-profile, lingcod-only baits on the counter
+beside those jigs — they are not vertical metal jigs and have their own note:
+[lingcod specialty baits](lingcod-specialty-baits.md) (`S9sQ8Vg8-5o`).
 
 ## Night lure sizing by outfit
 
@@ -427,12 +426,14 @@ file](evidence/knife-jigs.md).
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](../techniques/evidence/knife-jigging.md)
 - [Evidence — Knife Jigs](evidence/knife-jigs.md)
+- [Evidence — Lingcod Specialty Baits](evidence/lingcod-specialty-baits.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
+- [Lingcod Specialty Baits — the Ling Cod Killers](lingcod-specialty-baits.md)
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](../tackle/reel-maintenance.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

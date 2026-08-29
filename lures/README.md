@@ -13,6 +13,7 @@
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Slender minnow-profile hardbaits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline rock and submerged structure in the Se
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, split by cross-section and how it falls.
+- [Lingcod Specialty Baits — the Ling Cod Killers](lingcod-specialty-baits.md) **[SoCal only]** — A small family of large-profile baits sold specifically for lingcod, shown on a San Diego tackle-shop counter as the "Ling Cod Killers": the Living Squid and th
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A 110 mm shallow-diving hardbait, and the generic term SoCal surf anglers use for any minnow-type lure in this class: "if you call it a Lucky Craft to a surf an
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
@@ -41,34 +42,38 @@ graph LR
   n6["Iron Jigs"]
   n7["Jerkbaits (Baja Cabrilla Program)"]
   n8["Knife Jigs"]
-  n9["Lucky Craft Flash Minnow"]
-  n10["Mad Mac"]
-  n11["Rapala Husky Magnum"]
-  n12["Soft-Plastic Swimbaits"]
-  n13["Spreader Bar"]
-  n14["Tube Baits (HookUp Baits)"]
-  n15["Tuna Feathers and Skirts"]
-  n16["Tuna Poppers and Stickbaits"]
-  n0 --> n12
-  n11 --> n10
-  n12 --> n0
-  n13 --> n10
-  n15 --> n10
-  n16 --> n12
-  n16 --> n2
-  n16 --> n5
-  n16 --> n6
-  n16 --> n8
-  n2 --> n10
+  n9["Lingcod Specialty Baits — the Ling Cod Killers"]
+  n10["Lucky Craft Flash Minnow"]
+  n11["Mad Mac"]
+  n12["Rapala Husky Magnum"]
+  n13["Soft-Plastic Swimbaits"]
+  n14["Spreader Bar"]
+  n15["Tube Baits (HookUp Baits)"]
+  n16["Tuna Feathers and Skirts"]
+  n17["Tuna Poppers and Stickbaits"]
+  n0 --> n13
+  n12 --> n11
+  n13 --> n0
+  n14 --> n11
+  n16 --> n11
+  n17 --> n13
+  n17 --> n2
+  n17 --> n5
+  n17 --> n6
+  n17 --> n8
+  n2 --> n11
   n3 --> n6
-  n4 --> n10
-  n5 --> n10
-  n6 --> n16
+  n4 --> n11
+  n5 --> n11
+  n6 --> n17
   n6 --> n2
   n6 --> n3
   n6 --> n8
   n7 --> n6
-  n8 --> n16
+  n8 --> n17
   n8 --> n6
+  n8 --> n9
+  n9 --> n6
+  n9 --> n8
 ```
 <!-- mermaid:end -->
