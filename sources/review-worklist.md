@@ -220,7 +220,7 @@ by their builders after the transform phase drains.
 | tackle/spooling-line-tension-and-twist.md | light | transformed | none | transform applied, light tier, 0 check-note warnings, no information loss found |
 | tackle/star-drag-vs-lever-drag.md | light | transformed | none | transform verified faithful, LIGHT-tier prose/cite normalization, no information loss |
 | tackle/tackle-express-accurate-tern-2-reel.md | light | transformed | asr-uncertain(guest name, Torx driver sizing, twin-drag stack mechanism, closing 165 lb anecdote) | transform applied with 2 verifier fixes (evidence-file wording contradiction, restored species-ambiguity caveat) |
-| tackle/tackle-express-accurate-valiant-2-spj-reel.md | light | pending |  |  |
+| tackle/tackle-express-accurate-valiant-2-spj-reel.md | light | transformed | none | transform verified: evidence split conserved, quotes match transcript, link-maintenance run |
 | tackle/tackle-express-bait-tank-time-saver.md | light | pending |  |  |
 | tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md | light | pending |  |  |
 | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md | light | pending |  |  |
