@@ -271,3 +271,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T12:45:27Z — species/sand-bass.md — guard-violation
 - run: 33253040396
 - reason: commit bcd8e824de37fbc469fc2665cea899084f81f1ed reverted: unparseable review commit subject: 'review: relocate species/sand-bass.md → NEW: species/sand-bass-alabama-rig.md'
+
+## 2026-08-29T12:45:49Z — species/sand-bass.md -> species/sand-bass-alabama-rig.md — verify-escalate
+- run: 33253040396
+- reason: commit-note.py set_relocation_status keys on src alone and takes the first match, so any src with 2+ queue rows mis-stamps; ~13 rows across 6 multi-row srcs still queued; key on src+dst
