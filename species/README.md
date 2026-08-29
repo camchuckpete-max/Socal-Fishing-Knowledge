@@ -28,6 +28,7 @@
 - [Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md) **[SoCal only]** — One species, one technique.
 - [Barred Sand Bass](sand-bass.md) — Barred sand bass are structure-oriented but not locked to the bottom the way a lingcod or cabezon is — they hover slightly above or within the reef, wreck or ke
 - [California Sheephead — sliding sinker](sheephead-sliding-sinker.md) **[SoCal only]** — One species, one technique.
+- [California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md) — One species, one technique.
 - [California Sheephead](sheephead.md) — California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard structure "every single day," which makes them the target once the water cools and t
 - [Skipjack Tuna](skipjack-tuna.md) — Skipjack — "skippies" — are the fish that reaches the offering first on the SoCal/Baja tuna grounds: they pile into a chum line laid for yellowfin (lxFNVdDhMy4)
 - [Snook (Robalo)](snook.md) **[Baja only]** — The corpus documents snook in exactly one fishery — Magdalena Bay / Lopez Mateos, Baja California Sur — and it is two programs, not one.
@@ -49,5 +50,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 36 notes exceed the 30-node cap._
+_Map skipped: 37 notes exceed the 30-node cap._
 <!-- mermaid:end -->

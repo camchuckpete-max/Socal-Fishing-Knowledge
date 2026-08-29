@@ -23,8 +23,10 @@ sits in
 [sheephead — sliding sinker evidence](sheephead-sliding-sinker.md). The
 red-crab grade claims come from one
 presenter selling his own bait at two Fred Hall seminars, which caps at low
-under the sponsored-claim rule. Everything else in the corpus records sheephead
-as by-catch on somebody else's program.
+under the sponsored-claim rule; that program's per-source detail now sits in
+[sheephead — tube-bait fishing evidence](sheephead-tube-bait-fishing.md).
+Everything else in the corpus records sheephead as by-catch on somebody else's
+program.
 
 ## Where & when
 
@@ -98,24 +100,21 @@ as by-catch on somebody else's program.
   seminar, presenter Chad, HookUp Baits co-owner; unregistered channel,
   promotional seminar for the presenter's own product — **low confidence** under
   the sponsored-claim rule): calls sheephead the brand's "almost our mascot
-  fish," says he has "never caught so many big sheep head in my life" since
-  fishing the red-crab bait mainly, and states that in 2019 he caught a **24 lb**
-  sheephead throwing a red crab up into the island. Sizing: "usually the one
-  ounce bullet is a really good one because they have the smaller [mouth], so a
-  little smaller profile bait is easier for them to eat." Weight range for the
-  island cast: "five eighths, one ounce, and throw it right up into the island …
-  work it right above the rocks." Framing: "we catch the big sheep head while
-  we're bass fishing for calicos … it's almost a bycatch, you know." Red-crab
-  structure named as Catalina, San Clemente, tight to the Coronado Islands,
-  Cedros Island (ASR renders it "seed Rose Island") and Ensenada/Baja
-  (asr-uncertain: the island name).
+  fish" and says he has "never caught so many big sheep head in my life" since
+  fishing the red-crab bait mainly. Red-crab structure named as Catalina, San
+  Clemente, tight to the Coronado Islands, Cedros Island (ASR renders it "seed
+  Rose Island") and Ensenada/Baja (asr-uncertain: the island name). The same
+  video's program detail — the 1 oz bullet sizing call, the 5/8–1 oz island
+  cast, the scent exception, the by-catch framing and the 24 lb grade record —
+  is logged in
+  [sheephead — tube-bait fishing evidence](sheephead-tube-bait-fishing.md#how-california-sheephead-changes-the-execution).
 - `0HwYl0HO2tc` (Orange County SUP Fishing, 2018-03-08, Fred Hall 2018 Long
   Beach HookUp Baits seminar, same presenter and product; unregistered channel,
-  promotional): between two anglers, "about five sheep[head] between 15 to 20
-  pounds, every single one of them came on the [red-crab scent]" — the second
-  grade record for the red-crab program, from the same presenter, so
-  corroboration of the presenter rather than independent corroboration of the
-  bait.
+  promotional): the second red-crab-bait grade record — about five sheephead of
+  15–20 lb between two anglers, all on the red-crab scent — logged in
+  [sheephead — tube-bait fishing evidence](sheephead-tube-bait-fishing.md#how-california-sheephead-changes-the-execution).
+  From the same presenter as `5Oh3IPIC5g4`, so corroboration of the presenter
+  rather than independent corroboration of the bait.
 - `kwMIgkCtFUE` (BDOutdoors / SoCal Bight Fishing Academy ep. 5, 2023-01-27,
   nearshore bass structure): most of what a meter shows over inshore bass
   structure is blacksmith and blue perch, with "the occasional small white fish
@@ -221,5 +220,7 @@ Parked for the zone guides the parent note stubs out:
 
 - [California Sheephead](../sheephead.md)
 - [California Sheephead — sliding sinker](../sheephead-sliding-sinker.md)
+- [California Sheephead — tube-bait fishing](../sheephead-tube-bait-fishing.md)
 - [Evidence — California Sheephead — sliding sinker](sheephead-sliding-sinker.md)
+- [Evidence — California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md)
 <!-- backlinks:end -->

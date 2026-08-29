@@ -28,6 +28,7 @@
 - [Evidence — Barred Sand Bass — sliding sinker](sand-bass-sliding-sinker.md) — Trip reports and per-source provenance backing barred sand bass — sliding sinker.
 - [Evidence — Barred Sand Bass](sand-bass.md) — Trip reports and per-source provenance backing sand bass.
 - [Evidence — California Sheephead — sliding sinker](sheephead-sliding-sinker.md) — Trip reports and per-source provenance backing California sheephead — sliding sinker.
+- [Evidence — California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md) — Trip reports and per-source provenance backing California sheephead — tube-bait fishing.
 - [Evidence — California Sheephead](sheephead.md) — Trip reports and per-source provenance backing California sheephead.
 - [Evidence — Skipjack Tuna](skipjack-tuna.md) — Per-source provenance backing skipjack tuna.
 - [Evidence — Snook (Robalo)](snook.md) — Per-source provenance backing snook.
@@ -45,5 +46,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 35 notes exceed the 30-node cap._
+_Map skipped: 36 notes exceed the 30-node cap._
 <!-- mermaid:end -->

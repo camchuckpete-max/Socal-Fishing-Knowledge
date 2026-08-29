@@ -25,9 +25,10 @@ small thin-wire hook (`OSbAHdB4uPs`) — the full program, with its weights, hoo
 sizes and bait ranking, is in
 [sheephead — sliding sinker](sheephead-sliding-sinker.md). Everywhere else they
 arrive as by-catch on somebody else's program — the island bass drift, the bank
-rockfish stop, the slow-pitch drop — and the biggest recorded fish, **15–24 lb**,
-came on red-crab soft baits thrown into island rock (`5Oh3IPIC5g4`,
-`0HwYl0HO2tc`).
+rockfish stop, the slow-pitch drop — and the biggest fish in the corpus come as
+by-catch on a red-crab soft bait thrown into island rock (`5Oh3IPIC5g4`,
+`0HwYl0HO2tc`), a program with its own page:
+[sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md).
 
 ## Where & when
 
@@ -71,26 +72,27 @@ sheephead" (`46ha7J1Fc6A`) — see [Regulations](#regulations).
 
 ## Presence & forage
 
-- **Red crab is the forage that produces the biggest fish.** A red-crab-imitating bait
-  thrown up into island rock is what produced a **24 lb** fish in 2019
-  (`5Oh3IPIC5g4`) and five fish of **15–20 lb** on one 2018 trip
-  (`0HwYl0HO2tc`), on structure known to carry live red crab — Catalina, San
-  Clemente, the Coronado Islands, Cedros and Ensenada (`5Oh3IPIC5g4`). The
-  match-the-forage read has a saturation limit: on a spot already packed with
-  live red crab, the red-crab bait becomes the hardest one to get bit — see
-  [tube baits](../lures/tube-baits.md).
-  ⚠ Fact-check (single-source): both grade figures come from one presenter
-  promoting his own bait at two seminars.
+- **Red crab is the forage that produces the biggest fish.** Sheephead sit on
+  structure known to carry live red crab — Catalina, San Clemente, the Coronado
+  Islands, Cedros and Ensenada — and a red-crab-imitating bait thrown up into
+  that rock is what produces the biggest fish in the corpus (`5Oh3IPIC5g4`,
+  `0HwYl0HO2tc`). The grades, the sizing, the presentation and the
+  saturation reversal that sends you to a sardine or mint bait instead are in
+  [sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md).
+  ⚠ Fact-check (single-source): red crab is the corpus's only account of what
+  sheephead eat naturally, and it comes from one presenter promoting his own
+  red-crab bait at two seminars.
 - **The mouth sits at the front of the face, not underneath** (`OSbAHdB4uPs`),
   so they feed up into the column rather than down into the sand. That is the
   mechanism behind the whole suspended-bait program — what a bottomed bait
   catches instead is in
   [sheephead — sliding sinker](sheephead-sliding-sinker.md).
-- **The mouth is small for the body**, so a **1 oz "bullet"** profile
-  out-produces the larger "Big Game" size of the same bait — a smaller profile
-  is easier for them to take in (`5Oh3IPIC5g4`). The same logic runs through
-  the bait rules: thin strips rather than a bunched chunk, so the fish can suck
-  the bait straight in (`yKaHcxX46l4`).
+- **The mouth is small for the body** (`5Oh3IPIC5g4`), so the bait rules run
+  small in both directions: a soft-plastic profile is downsized for them rather
+  than scaled to their weight — see
+  [sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md) — and cut bait
+  goes on as thin strips rather than a bunched chunk, so the fish can suck the
+  bait straight in (`yKaHcxX46l4`).
 - **They share hard bottom with the whole variety bag** — reds, whitefish, blue
   bass and lingcod over the same island and bank rock (`fDSd9kqwYW0`,
   `6-8KfjEg0x8`, `CKq0Z6ExVs4`) — and with sargo and small bass on the chummed
@@ -151,7 +153,7 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | --- | --- | --- | --- |
 | Anchored on a chummed artificial reef or inshore rock — the dedicated program | [Chunking](../techniques/chunking.md) to draw fish up, then **[a suspended strip bait on a slider — the chummed-reef program](sheephead-sliding-sinker.md)** ([general method](../techniques/sliding-sinker.md)) | Light spinning or small level-wind, light bait class | Slider weight ceiling, hook size and finish, the suspend-never-bottom rule and the bait ranking are all in the sub-article (`OSbAHdB4uPs`); the title-only sliding-egg-sinker clip is logged there too (`QEpa3WYbEa8`) [a] |
 | No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback (`OSbAHdB4uPs`, `yKaHcxX46l4`) — strip prep and the ranking in [sheephead — sliding sinker](sheephead-sliding-sinker.md) and [hooks](../tackle/hooks.md) |
-| Bass or rockfish fishing island rock that holds red crab | **Red-crab-colored/scented soft bait**, **1 oz bullet** profile, thrown up into the rocks and worked right above them | Bass casting / swimbait class | The bullet out-produces the bigger "Big Game" size on a small-mouthed fish; **5/8–1 oz** is the weight range thrown at the island (`5Oh3IPIC5g4`). Caught almost always as by-catch while bass or rockfish fishing, not targeted. On a spot saturated with live red crab, switch to sardine or mint — see [tube baits](../lures/tube-baits.md) and [tube-bait fishing](../techniques/tube-bait-fishing.md) [b] |
+| Bass or rockfish fishing island rock that holds red crab | **[A red-crab tube bait thrown up into the rocks — the by-catch program](sheephead-tube-bait-fishing.md)** ([general method](../techniques/tube-bait-fishing.md)) | Bass casting / swimbait class | Caught almost always as by-catch while bass or rockfish fishing, not targeted (`5Oh3IPIC5g4`). The bullet-over-"Big Game" profile call, the **5/8–1 oz** island weights, the worked-above-the-rocks presentation, the grades it produces and the switch to sardine or mint on a crab-saturated spot are all in the sub-article (`5Oh3IPIC5g4`, `0HwYl0HO2tc`) [b] |
 | Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) |
 | Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) |
 | Live crab aboard as bait for big fish | ⚠ Flagged stub — no corpus source yet: live crabs are named as a thing anglers now carry out on boats specifically for sheephead (`PRNMGpLj7Pw`), with no rig, hook, weight or presentation given anywhere in the corpus | — | Fill in when a source gives the rigging |
@@ -161,8 +163,10 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 [a] Deep execution for this row is in
 [sheephead — sliding sinker](sheephead-sliding-sinker.md); the same terminal
 detail is also carried on [hooks](../tackle/hooks.md).
-[b] Deep execution for this row is queued as a sub-article; the bait's colors,
-sizes and the saturation read live in [tube baits](../lures/tube-baits.md).
+[b] Deep execution for this row is in
+[sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md); the bait
+class's colors, scents and construction live in
+[tube baits](../lures/tube-baits.md).
 
 ## Gear summary (class terms)
 
@@ -188,9 +192,10 @@ sizes and the saturation read live in [tube baits](../lures/tube-baits.md).
   are in [sheephead — sliding sinker](sheephead-sliding-sinker.md#rigs--gear).
   See [chunking](../techniques/chunking.md) for the chum that draws fish up
   first.
-- **Lures:** **1 oz** red-crab bullet-profile [tube baits](../lures/tube-baits.md)
-  on the bass casting class; stubby-profile slow-pitch jigs on the SPJ class
-  (`PRNMGpLj7Pw`).
+- **Lures:** red-crab bullet-profile [tube baits](../lures/tube-baits.md) on the
+  bass casting class — sizes and presentation in
+  [sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md#rigs--gear);
+  stubby-profile slow-pitch jigs on the SPJ class (`PRNMGpLj7Pw`).
 
 ## Zone guides
 
@@ -267,6 +272,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Sheephead — sliding sinker](sheephead-sliding-sinker.md)
+- [California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Ensenada](../locations/ensenada.md)

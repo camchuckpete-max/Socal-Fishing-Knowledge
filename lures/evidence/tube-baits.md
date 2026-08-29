@@ -47,5 +47,6 @@ Trip reports and per-source provenance backing
 ## Linked from
 
 - [Evidence — California Halibut](../../species/evidence/california-halibut.md)
+- [Evidence — California Sheephead — tube-bait fishing](../../species/evidence/sheephead-tube-bait-fishing.md)
 - [Tube Baits (HookUp Baits)](../tube-baits.md)
 <!-- backlinks:end -->

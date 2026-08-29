@@ -144,6 +144,7 @@ file](evidence/tube-baits.md).
 
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
+- [California Sheephead — tube-bait fishing](../species/sheephead-tube-bait-fishing.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Tube Baits (HookUp Baits)](evidence/tube-baits.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)

@@ -308,6 +308,7 @@ classes](../tackle/gear-classes.md#lure-classes-cross-reference).
 <!-- species-applications:start -->
 ## Species applications
 
+- [California Sheephead — tube-bait fishing](../species/sheephead-tube-bait-fishing.md)
 <!-- species-applications:end -->
 
 ## Evidence
@@ -320,6 +321,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tube-bait-fishi
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
+- [California Sheephead — tube-bait fishing](../species/sheephead-tube-bait-fishing.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Barred Sand Bass](../species/evidence/sand-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

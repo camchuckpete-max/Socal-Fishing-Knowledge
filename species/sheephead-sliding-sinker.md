@@ -155,6 +155,7 @@ sheephead source provenance: [sheephead evidence](evidence/sheephead.md).
 ## Linked from
 
 - [California Sheephead](sheephead.md)
+- [California Sheephead — tube-bait fishing](sheephead-tube-bait-fishing.md)
 - [Evidence — California Sheephead — sliding sinker](evidence/sheephead-sliding-sinker.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->
