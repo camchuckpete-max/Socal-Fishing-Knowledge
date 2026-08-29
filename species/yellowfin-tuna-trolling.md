@@ -77,8 +77,7 @@ out **on the flanks and out in front**, sometimes as far as **50 yd** ahead of
 the pod with terns picking there (`ouBrIdO7d4k`). Read which of the two you are
 looking at before committing the pass — the flanks-and-front water is the target
 on a feeding pod, and there are always some fish underneath either way
-(`ouBrIdO7d4k`). The two positions sit side by side rather than in conflict: one
-describes the travelling pattern, the other the feeding one.
+(`ouBrIdO7d4k`).
 
 **Pair a deep diver with a surface plug on a pod.** Off
 [San Clemente Island](../locations/san-clemente-island-front-side.md) a
@@ -91,18 +90,18 @@ school; the deep diver got bit and the boat landed a yellowfin of about
 **20–30 mi** out from [Cedros Island](../locations/cedros-island.md), two lines
 were run **one short, one long**, and running the *same* colour on both —
 **purple/purple** named on camera — was credited with the simultaneous doubles
-that came aboard, including on a hardbait-to-feather swap. The captain reported
-that a different-colour Rapala two days earlier had not produced the same
-doubles (`YUdbrIm9vrE`) — same-source corroboration, not independent
-confirmation.
+that came aboard, including on a hardbait-to-feather swap. A different-colour
+Rapala run two days earlier out of the same operation did not produce the same
+doubles (`YUdbrIm9vrE`).
 
 **Feathers can restart a bite that live bait has killed.** In the same Cedros
 session a flylined sardine drew hookups until it stopped drawing them; the crew
 was told to "forget the bait" and put the feathers back on — the same
 feather/hardbait combination that had produced the morning's tuna — and the bite
-restarted (`YUdbrIm9vrE`). This runs the opposite direction to the
-stop-and-convert rule above and is kept beside it, not reconciled: convert on the
-strike, but the troll is still available when the converted bite dies.
+restarted, on dorado rather than on more yellowfin (`YUdbrIm9vrE`). What the
+choice turns on is the state of the bite, not a standing preference between troll
+and bait: convert on the strike, and go back on the troll when the converted bite
+dies.
 
 ## Rigs & gear
 
@@ -123,8 +122,7 @@ strike, but the troll is still available when the converted bite dies.
 - **Pod pair: a deep diver plus a plug.** Nomad-class deep-diving hardbait in
   sardine colour alongside a cedar plug (`H-vIGWPIPVc`).
 - **Cedros offshore: 60 lb line class** on the trolling outfits, running
-  Rapala-class hardbaits and feathers; the reel and rod named on camera are
-  ASR-uncertain and are not carried (`YUdbrIm9vrE`).
+  Rapala-class hardbaits and feathers (`YUdbrIm9vrE`).
 - ⚠ Flagged gap — no corpus source: rod, reel, main-line or leader build for the
   cedar-plug-and-feather open-zone programme, and **setback distances** for any
   yellowfin spread — the corpus gives speeds, a 60 lb line class and a

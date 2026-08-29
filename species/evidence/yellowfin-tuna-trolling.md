@@ -89,7 +89,9 @@ is `cameron`, carried at his confidence.
   5-day trip ran straight offshore for yellowfin and dorado. Two trolled
   Rapala-class hardbaits (captions render "ralas"/"ralos" — ASR-uncertain, read
   against the established Rapala-class product family) were run **one short, one
-  long** on a **60 lb** line class, one line later swapped to a surface popper.
+  long** on a **60 lb** line class, one line later swapped to a surface popper;
+  the reel and rod models named on camera are ASR-uncertain and are not carried
+  on the parent.
   Running the same colour on both — **purple/purple** named on camera — was
   called out as the reason simultaneous doubles came aboard, including on a
   hardbait-to-feather swap; the captain separately reported that switching to a
@@ -99,7 +101,10 @@ is `cameron`, carried at his confidence.
   hookups until the bait stopped drawing bites, at which point the crew was told
   to "forget the bait" and put the feathers back on — the same feather/hardbait
   combination that had produced the morning's tuna — which restarted the bite;
-  the catches from that stretch were dorado rather than more tuna. The bite's own
+  the catches from that stretch were dorado rather than more tuna, which is why
+  the parent scopes the restart to dorado. The colour-doubles claim and its
+  two-days-earlier counter-example both come from the same captain on the same
+  trip — same-source corroboration, not independent confirmation. The bite's own
   pace when it turned on: a double struck just behind the stern, and a separate
   stretch put three fish in the well inside about 10 seconds. Unregistered
   channel.
