@@ -215,6 +215,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [Point Loma](point-loma.md)
 - [Southern California Bight](socal-bight.md)
 - [The 270 rockfish area](270-rockfish-area.md)
+- [The 43](43.md)
 - [The Airplane rockfish area](airplane-rockfish-area.md)
 - [The Bump](bump.md)
 - [The Corner / 140 / 182](corner-140-182.md)

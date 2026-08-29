@@ -211,6 +211,7 @@ Trip reports and per-source provenance: [evidence file](evidence/water-temperatu
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

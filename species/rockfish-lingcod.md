@@ -412,6 +412,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Southern California Bight](../locations/socal-bight.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The 43](../locations/43.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

@@ -199,6 +199,7 @@ zone/spot pages this note supports).
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](tanner-bank.md)
+- [The 43](43.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [The Bumps](bumps.md)
 - [The Corner / 140 / 182](corner-140-182.md)

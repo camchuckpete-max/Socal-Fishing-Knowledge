@@ -141,6 +141,7 @@ Trip reports and per-source provenance:
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Color](../conditions/water-color.md)

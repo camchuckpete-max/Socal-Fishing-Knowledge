@@ -225,6 +225,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
+- [The 43](../locations/43.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)

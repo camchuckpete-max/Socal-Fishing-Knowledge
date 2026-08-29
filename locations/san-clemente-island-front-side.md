@@ -240,6 +240,7 @@ Trip reports and per-source provenance:
 - [Pyramid Reef](pyramid-reef.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Southern California Bight](socal-bight.md)
+- [The 43](43.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
 - [White Seabass](../species/white-seabass.md)

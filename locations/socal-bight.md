@@ -340,6 +340,7 @@ Trip reports and per-source provenance:
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Tanner Bank](tanner-bank.md)
+- [The 43](43.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [US waters](us-waters.md)

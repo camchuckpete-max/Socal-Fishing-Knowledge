@@ -179,6 +179,7 @@ Trip reports and per-source provenance: [evidence file](evidence/moon.md).
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The 43](../locations/43.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Tide and Slack](tide-and-slack.md)

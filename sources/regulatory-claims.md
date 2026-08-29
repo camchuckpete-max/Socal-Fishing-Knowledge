@@ -159,6 +159,7 @@ route, and the insurance carriers by name.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The 43](../locations/43.md)
 - [US waters](../locations/us-waters.md)
 - [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)

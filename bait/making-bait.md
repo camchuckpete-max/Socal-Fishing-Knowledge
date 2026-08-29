@@ -295,6 +295,7 @@ shortages, where the barge isn't an option.
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [The 43](../locations/43.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

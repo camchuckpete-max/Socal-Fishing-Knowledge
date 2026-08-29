@@ -74,6 +74,7 @@
 - [421](421.md) **[Baja only]** — A charted spot at 32°08.000'N 117°52.000'W (cameron), in the Upper Cross / 421 / 390 zone.
 - [425](425-bank.md) **[Baja only]** — A charted spot at 32°15.000'N 117°23.200'W (cameron), in the 101 / 425 zone.
 - [43 / 91 / 300](43-91-300.md) **[SoCal only]** — A zone is a run grouping.
+- [The 43](43.md) **[SoCal only]** — A charted offshore bank at 32°39.333'N 117°58.417'W (cameron), the northern mark of the 43 / 91 / 300 zone, sitting on the numbered offshore-bank grid west of S
 - [437](437.md) **[Baja only]** — A charted spot at 31°32.000'N 118°12.000'W (cameron), in the 483/500 / 437 zone.
 - [439](439.md) **[SoCal only]** — A charted spot at 32°29.500'N 117°24.000'W (cameron), in the South 9 Mile Bank / 439 zone.
 - [450](450.md) **[Baja only]** — A charted spot at 31°27.200'N 117°05.250'W (cameron), in the 1140 Finger / 450 zone.
@@ -434,5 +435,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 421 notes exceed the 30-node cap._
+_Map skipped: 422 notes exceed the 30-node cap._
 <!-- mermaid:end -->

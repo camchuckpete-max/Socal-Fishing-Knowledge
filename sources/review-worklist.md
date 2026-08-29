@@ -287,7 +287,7 @@ by their builders after the transform phase drains.
 | locations/mackerel-bank.md | gazetteer | escalated |  | escalated: guard: out of scope for 'review: locations/mackerel-bank.md': locations/san-clemente-island-front-side.md |
 | locations/desperation-reef.md | gazetteer | transformed | gaps(6), name-discrepancy, name-collision | new spot page + evidence verified faithful; one source-scope claim corrected, one missing source id added; all cameron geometry recomputed and matching |
 | locations/14-mile-bank.md | gazetteer | transformed | gaps(9), parent-page-suggestion: stale yellowfin gap row on 279-267-14-mile-bank.md | gazetteer spot page verified clean — coordinates match spot library, all derived distances recompute, 5 transcript spot-checks faithful |
-| locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/43.md | gazetteer | transformed | gaps(6) | new spot page under 43/91/300; all 16 derived distances, both superlatives and 4 transcript cites verified; 3 fixes (false evidence-coverage claim, neighbour ordering, heading/bearing contradiction) |
 | locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
 | locations/socal-bight.md | geo | transformed | gaps:5 stubs:18 | region page, 41/41 census zones; verified with 5 fixes (cite rescope, compass fix, obs scoping, evidence pair) |
 | locations/baja-pacific-north.md | geo | transformed |  | region page from 26 sources, 28/28 census zones; verified with 3 fixes (mis-cite re-sourced, unsupported descriptor, over-scoped caution) |

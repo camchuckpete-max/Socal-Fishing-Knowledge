@@ -141,6 +141,7 @@ Trip reports and per-source provenance:
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [South Kelp Ridge](south-kelp-ridge.md)
+- [The 43](43.md)
 - [The Bumps](bumps.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

@@ -158,6 +158,7 @@ Trip reports and per-source provenance:
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Tanner Bank](tanner-bank.md)
+- [The 43](43.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Slide / 152 / 277](slide-152-277.md)

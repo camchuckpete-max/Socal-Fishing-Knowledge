@@ -81,6 +81,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [The 43](../locations/43.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](../species/white-seabass.md)

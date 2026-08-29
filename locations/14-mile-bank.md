@@ -224,4 +224,5 @@ Trip reports and per-source provenance:
 
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [Evidence — 14 Mile Bank](evidence/14-mile-bank.md)
+- [The 43](43.md)
 <!-- backlinks:end -->
