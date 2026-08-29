@@ -291,3 +291,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T15:16:34Z — techniques/sliding-sinker.md -> species/snook-sliding-sinker.md — verify-escalate
 - run: 33253040396
 - reason: the sibling cabrilla row escalated the same classification question and this one was resolved rather than escalated: a mixed grouper-and-snook build now lives on a single-species page with the unnamed ~100 lb grouper as bycatch context - Cameron should confirm one answer covers both rows
+
+## 2026-08-29T15:29:07Z — species/wahoo-live-bait.md — guard-violation
+- run: 33259853768
+- reason: commit 09847021912e0070906b98b6d01caca7ac61ea70 reverted: out of scope for 'review: species/wahoo-live-bait.md': species/wahoo.md
