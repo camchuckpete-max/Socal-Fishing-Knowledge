@@ -892,6 +892,6 @@ by their builders after the transform phase drains.
 | species/yellowfin-tuna-trolling.md | standard | transformed | spots(4) | verified already-compliant, no note changes; appended 4 accurate spot-harvest rows |
 | species/yellowtail-dropper-loop.md | standard | transformed | none | verified already fully v2-compliant, no changes needed; 3 check-note.py WARN confirmed benign (restatements of in-note-cited figures) |
 | species/yellowtail-knife-jigging.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
-| species/white-seabass-leadhead-swimbait.md | standard | pending |  | created by relocation from techniques/leadhead-swimbait-retrieve.md |
+| species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/snook-sliding-sinker.md | standard | pending |  | created by relocation from techniques/sliding-sinker.md |
 <!-- review:worklist:end -->
