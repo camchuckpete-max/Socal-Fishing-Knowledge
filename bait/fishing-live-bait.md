@@ -489,6 +489,7 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Making Bait](making-bait.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
+- [Punta Perico](../locations/punta-perico.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)

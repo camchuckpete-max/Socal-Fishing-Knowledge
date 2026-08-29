@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
+_Totals: 2435 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -2761,6 +2761,14 @@ _Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - `What's there`: gap — any month other than November, any water
   - `How it fishes`: gap — line class, hook, weight or rig for this stop
   - `How it fishes`: gap — a tide, moon or current *window* for this
+- **locations/isla-monserrat-north-end.md**
+  - `Getting there`: gap — a distance, heading, run time or sea-state
+  - `Structure & bathymetry`: gap — bottom composition, relief, how far the
+  - `What's there`: gap — the rest of the year here | The ground's most productive fish and the reason the day ended here. Several came from **5–10 ft** on a Shimano suspending jerkbait — one too small to keep and released, one kept for dinner — and the crew stayed once they found them: *"I do want to stay here because they're here"* (`n4nMCLLW3tY`). One was called on camera *"a different type of cabrilla"*, so more than one species is in the mix. This is the [cabrilla](../species/cabrilla.md) router's **shallowest documented depth** (`n4nMCLLW3tY`) |
+  - `What's there`: gap — season shape here | Taken **on the troll**, on a Halco, close in beside the islet — *"rooster man that's shallow water"* (`n4nMCLLW3tY`). It is the day's first fish off the island and the zone's clearest break from [Cortez North](cortez-north.md), where roosterfish are a matter of luck ([the zone page](loreto.md)). ⚠ Flagged stub — no corpus source yet for a roosterfish router; the nearest is [Pacific crevalle jack](../species/pacific-crevalle-jack.md) |
+  - `What's there`: gap — names this island for [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), sierra, [barracuda](../species/barracuda.md) or sailfish. Every one of those is recorded against other grounds in the zone ([zone page](loreto.md#whats-there)); the triggerfish, skipjack and Pinto bass belong to Six Mile Reef on the way out, not to this island |
+  - `What's there`: gap — grade or weight for anything taken here,
+  - `How it fishes`: gap — tide, current, moon, wind direction or
 - **locations/island-structure.md**
   - `What's there`: gap — season/catchability windows tied
   - infobox `parent`: unknown
@@ -3040,6 +3048,12 @@ _Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/lower-banks.md**
+  - `Getting there`: gap — a sea-state or weather envelope for this
+  - `Structure & bathymetry`: gap — any depth,
+  - `What's there`: gap — names another target species on this ground; the only other animal recorded is sea turtles moving in on the anchored boat (`ASitOLYzFEA`), and no source identifies the forage the giant tuna are on — the one bait ball recorded is never identified (`Fq4aRI3YrKE`) |
+  - `What's there`: gap — water temperature, a break or colour read,
+  - `How it fishes`: gap — current, tide, moon, wind or light-window
 - **locations/lower-cross.md**
   - `Getting there`: gap — any run distance, heading, timing or fuel
   - `Getting there`: gap — says whether those
@@ -3375,6 +3389,15 @@ _Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/puerto-escondido-marina.md**
+  - `Getting there`: gap — the ramp, fuel dock, slips, parking, hours,
+  - `Getting there`: gap — what any of it costs — no slip fee, panga day
+  - `Getting there`: gap — closures, park boundaries or protected areas
+  - `Structure & bathymetry`: gap — depth in the basin or on the approach, bottom
+  - `What's there`: gap — whether the vendor works the marina year-round | The only thing the corpus records coming aboard here. Sardines are bought from a local bait vendor, Antonio, who meets boats out front of the marina; one crew missed the order at the dock and got bait only because he was still working out front (`n4nMCLLW3tY`). See [making bait](../bait/making-bait.md) for the alternative |
+  - `What's there`: gap — puts a fish in this basin. The zone's yellowtail, cabrilla, roosterfish, sierra, [dorado](../species/dorado.md), sailfish, [striped marlin](../species/striped-marlin.md), pargo and [barracuda](../species/barracuda.md) are all recorded against island and shoreline grounds ([zone page](loreto.md#whats-there)) |
+  - `What's there`: gap — any inshore or dock fishery here — no
+  - `How it fishes`: gap — tide, current or wind at the mouth; how
 - **locations/pukey-point.md**
   - `Getting there`: gap — approach, anchoring and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, kelp and how the
@@ -3423,6 +3446,14 @@ _Totals: 2408 flagged gaps, 364 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/punta-perico.md**
+  - `Getting there`: gap — a distance, heading, run time or sea-state
+  - `Structure & bathymetry`: gap — depth, bottom composition, relief, how far the
+  - `What's there`: gap — the rest of the year here | The reason to make the run. The bait vendor placed them **close to shore**, under **diving birds** and around **weed**, being caught **roughly 10:20–11:00** — a late-morning window, not a grey-light one — and the bait he sold for them was live sardine (`n4nMCLLW3tY`). ⚠ Fact-check (single-source): the whole row is a bait vendor's second-hand report of other boats' fish, relayed in a mix of English and Spanish, and it was never tested — the boat that set out on it broke down before it arrived (`n4nMCLLW3tY`) |
+  - `What's there`: gap — season. The fish is recalled from an earlier, undated trip | The point's only fish the corpus can attach to a named angler: *"where we caught that yellowtail before, Lou and I"* — one remembered catch, which is what made this ground the crew's choice over the local word (`n4nMCLLW3tY`). No month, grade, depth or method is given with it |
+  - `What's there`: gap — names this point for cabrilla, roosterfish, sierra, barracuda or sailfish. Every one of those is recorded against other grounds in the zone ([zone page](loreto.md#whats-there)) |
+  - `What's there`: gap — grade, water temperature, forage, or any
+  - `How it fishes`: gap — tide, current, moon or wind read for this
 - **locations/punta-salsipuedes.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.

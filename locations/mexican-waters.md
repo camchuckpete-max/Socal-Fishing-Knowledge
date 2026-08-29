@@ -142,6 +142,7 @@ Trip reports and per-source provenance:
 - [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Punta Perico](punta-perico.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](rosarito-descanso.md)

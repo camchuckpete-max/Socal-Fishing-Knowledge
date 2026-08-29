@@ -297,6 +297,7 @@ shortages, where the barge isn't an option.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North Point](../locations/north-point.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
+- [Punta Perico](../locations/punta-perico.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)

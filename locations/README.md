@@ -336,6 +336,7 @@
 - [Punta Descanso](punta-descanso.md) **[Baja only]** — A charted spot at 32°15.880'N 117°01.890'W (cameron), in the Rosarito / Descanso zone.
 - [Punta Mesquite](punta-mesquite.md) **[Baja only]** — A charted spot at 32°09.580'N 116°54.800'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
 - [Punta Morro](punta-morro.md) **[Baja only]** — A charted spot at 31°52.185'N 116°41.260'W (cameron), in the Ensenada zone.
+- [Punta Perico](punta-perico.md) **[Baja only]** — [Baja only] — the dorado ground of the Loreto & Puerto Escondido island cluster: a shoreline point up the coast where the bait vendor placed dorado being caught
 - [Punta Salsipuedes](punta-salsipuedes.md) **[Baja only]** — A charted spot at 31°58.385'N 116°50.010'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
 - [Punta San Miguel](punta-san-miguel.md) **[Baja only]** — A charted spot at 31°54.110'N 116°44.980'W (cameron), in the Ensenada zone.
 - [Punta Santo Tomas](punta-santo-tomas.md) **[Baja only]** — A charted spot at 31°33.270'N 116°41.400'W (cameron), in the Punta Banda / Santo Tomas zone.
@@ -452,5 +453,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 439 notes exceed the 30-node cap._
+_Map skipped: 440 notes exceed the 30-node cap._
 <!-- mermaid:end -->

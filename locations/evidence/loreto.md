@@ -150,4 +150,5 @@ carries doctrine, only what was done and what it produced.
 - [Isla Monserrat — north end](../isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../loreto.md)
 - [Puerto Escondido Marina](../puerto-escondido-marina.md)
+- [Punta Perico](../punta-perico.md)
 <!-- backlinks:end -->

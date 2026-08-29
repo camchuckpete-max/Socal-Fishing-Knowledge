@@ -368,6 +368,7 @@ Trip reports and per-source provenance:
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
+- [Punta Perico](../locations/punta-perico.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Benito Islands](../locations/san-benito-island.md)
