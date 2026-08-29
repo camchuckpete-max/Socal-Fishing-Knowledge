@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
+_Totals: 2289 flagged gaps, 347 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -83,6 +83,8 @@ _Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - infobox `sonar_depth`: unknown
 - **species/calico-bass-surface-iron.md**
   - `Rigs & gear`: gap — a line class stated specifically for the
+- **species/calico-bass-swimbaits.md**
+  - `Rigs & gear`: gap — rod length, reel size and gear ratio for this
 - **species/calico-bass.md**
   - `Presence & forage`: gap — crustacean or benthic forage, and any
   - `Spawning`: gap — the calendar window of the SoCal spawn, and
@@ -370,6 +372,8 @@ _Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `The program`: gap — the anchor-vs-drift commit call at the
   - `Reading the day`: gap — mechanism
   - `Differs from nearby zones`: gap — the La Jolla program shape (search
+- **species/yellowtail-tube-bait-fishing.md**
+  - `Rigs & gear`: gap — rod length or rating, line class, leader
 - **species/yellowtail.md**
   - `Where & when`: gap — the numeric SST bands;
   - `Spawning`: gap — when, where, or how yellowtail spawn, or
@@ -384,7 +388,7 @@ _Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — California (CDFW) bag/size limits for
-  - `Landing & handling`: gap — yellowtail-specific bleeding, chilling,
+  - `Landing & handling`: gap — yellowtail-specific chilling (slurry
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
 
@@ -405,6 +409,9 @@ _Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
   - infobox `gear_classes`: unknown
 - **techniques/clearing-a-backlash.md**
   - `Common failures`: gap — how to tell when a backlash is wound too
+- **techniques/countdown-casting.md**
+  - `Common failures`: gap — how current, wind drift, or bait weight
+  - infobox `gear_classes`: unknown
 - **techniques/dropper-loop.md**
   - `Gear class`: gap — a named
 - **techniques/fighting-big-bluefin.md**
@@ -451,6 +458,10 @@ _Totals: 2283 flagged gaps, 347 flagged stubs, 1051 unknown infobox values._
 - **lures/jerkbaits.md**
   - `Specs`: gap — exact micro-profile jerkbait model names
   - infobox `weights`: unknown
+- **lures/lingcod-specialty-baits.md**
+  - `Specs`: gap — none of it is given on camera for either bait |
+  - `Specs`: gap — no rod, reel, line or leader is matched to these baits |
+  - `Specs`: gap — what either bait physically is (soft plastic,
 - **lures/lucky-craft-flash-minnow.md**
   - infobox `weights`: unknown
   - infobox `run_speed`: unknown
