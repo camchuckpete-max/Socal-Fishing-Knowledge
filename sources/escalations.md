@@ -311,3 +311,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T18:08:44Z — species/spotted-bay-bass-swimbaits.md — guard-violation
 - run: 33266976281
 - reason: commit 58685d75ad9e20f94501372e72746d99687a8966 reverted: out of scope for 'review: species/spotted-bay-bass-swimbaits.md': species/spotted-bay-bass.md
+
+## 2026-08-29T18:44:49Z — locations/farnsworth-bank.md — guard-violation
+- run: 33268530643
+- reason: commit 497ca80f744f40e6baee75d106b60993cc8ad8a1 reverted: out of scope for 'review: locations/farnsworth-bank.md': locations/catalina-island-backside.md

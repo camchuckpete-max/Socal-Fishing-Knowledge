@@ -282,7 +282,7 @@ by their builders after the transform phase drains.
 | locations/north-of-north-island-rockfish-area.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/east-of-pukey-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/middle-grounds.md | gazetteer | transformed |  | gazetteer page verified; distances/coords recomputed correct; one false no-corpus-source gap flag corrected; 4pT0efBD1j0 observation captured in new evidence file |
-| locations/farnsworth-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/farnsworth-bank.md | gazetteer | escalated |  | escalated: guard: out of scope for 'review: locations/farnsworth-bank.md': locations/catalina-island-backside.md |
 | locations/pyramid-head.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/mackerel-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/desperation-reef.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
