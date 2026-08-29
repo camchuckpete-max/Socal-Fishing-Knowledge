@@ -192,6 +192,7 @@ the following more detailed, application-specific entries:
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
+- [Evidence — Penn vs. Avet Lever Drag (Tackle Express)](evidence/tackle-express-penn-vs-avet-lever-drag.md)
 - [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)

@@ -219,6 +219,7 @@ Trip reports and per-source provenance:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — Fighting a Big Bluefin](evidence/fighting-big-bluefin.md)
+- [Evidence — Penn vs. Avet Lever Drag (Tackle Express)](../tackle/evidence/tackle-express-penn-vs-avet-lever-drag.md)
 - [Evidence — Two-Speed Reel Technique](evidence/two-speed-low-gear-fight.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
