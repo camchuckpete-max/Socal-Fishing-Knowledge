@@ -36,13 +36,25 @@ Lopez Mateos / Magdalena Bay is the only snook fishery in the corpus. Three
 depth zones hold them: the **mangrove interior** (general depth **12–15 ft**,
 with the root program worked down to about **2 ft** and casts landing in
 **12–18 in** of water), the **estuary channel** at **25–30 ft**, and the **boca**
-at **40–50 ft** (`EcQK5elTPJE`, `dlxA22FVNGc`, `isXJONlpUP4`). Zone detail and
+at **40–50 ft** (`EcQK5elTPJE`, `dlxA22FVNGc`, `isXJONlpUP4`).
+⚠ Fact-check (contradicted-by-source): only `isXJONlpUP4` gives the channel
+figure, and it is hedged there — the guide answers "probably 25 30 foot" on
+camera. `EcQK5elTPJE` carries no depth between 2 ft and 40 ft at all, and
+`dlxA22FVNGc` gives only "a foot to a foot and a half … maybe less than 12
+inches"; the 12–15 ft interior figure is `EcQK5elTPJE` alone.
+Zone detail and
 the trip-level story live on the
 [location note](../locations/bahia-magdalena-lopez-mateos.md).
 
 Snook bite year-round here and no month-by-month pattern is recorded for them;
 the bay as a whole is stated to have no time that it does not bite, with the
 inside fishing carrying the winter (`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-by-source): the same seminar does give a season —
+the stated best window is "mid September till about the end of December" and
+the speaker who fishes it says he does not want to go in the winter time,
+directly beside the year-round line (`EcQK5elTPJE`). The window is stated for
+the trip as a whole rather than for snook specifically, but it is a
+month-by-month pattern the note and the gap flag below both record as absent.
 ⚠ Flagged gap — no corpus source: a seasonal presence, spawning-season or
 temperature pattern for snook anywhere on the Baja Pacific coast.
 
@@ -54,9 +66,19 @@ seen holding in one productive slot alongside pargo and grouper (`frX09YMQxKE`)
 
 Grade splits by zone. The boca produces the big fish: **42 lb** was the best of
 one day, and snook **over 20 lb** are named as the reason to fish it
-(`EcQK5elTPJE`). The mangrove root program produces small fish — a **5 lb**
+(`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-by-source): "snook over 20 lb" is said while
+listing the bucket-list species Lopez Mateos offers — "I got my marlin, I got
+my snook over 20 lb, I got my grouper … 100 lb" — not as a reason to fish the
+boca; the boca's own billing in the same talk is "world class grouper snook
+fishery" (`EcQK5elTPJE`).
+The mangrove root program produces small fish — a **5 lb**
 snook is called perfect eating size, and "little" and "baby" fish come off the
 roots repeatedly (`FxgLol_IHa0`, `dlxA22FVNGc`).
+⚠ Fact-check (contradicted-by-source): "little baby" is one sequence in
+`dlxA22FVNGc`, which otherwise calls the root fish "a nice snook" repeatedly,
+and `FxgLol_IHa0` says "nice little snook" of the 5 lb fish and never "baby" —
+neither cite shows the root program producing small fish repeatedly.
 
 ## Presence & forage
 
@@ -89,6 +111,14 @@ roots repeatedly (`FxgLol_IHa0`, `dlxA22FVNGc`).
   [jack crevalle](pacific-crevalle-jack.md) (`-5kooyIyavs`, `dlxA22FVNGc`,
   `vyX5FGoDH0A`). At the boca the bycatch is grouper to **100 lb**
   (`EcQK5elTPJE`).
+  ⚠ Fact-check (contradicted-by-source): the list does not distribute across
+  its three cites. `-5kooyIyavs` carries almost all of it — "snook, corvina,
+  pargo, triggerfish, baby halibut, all in this one little spot", plus a baby
+  broomtail on camera. `vyX5FGoDH0A` names only a fish corrected on camera
+  from grouper to spotted bay bass. **Jack crevalle is named by no source**:
+  `dlxA22FVNGc` has an unidentified "little jack" and never says crevalle, and
+  the `vyX5FGoDH0A` caption read as crevalle ("ravallo"/"rubble") is robalo —
+  snook — on the sardine flyline.
 
 ## Spawning
 
@@ -113,6 +143,10 @@ spawning does to the bite. The corpus says nothing about snook spawning.
   a fast outgoing tide a well-placed bait is swept out of the zone almost
   immediately, so the program is cast–wind–recast rather than soak
   (`-5kooyIyavs`).
+  ⚠ Fact-check (contradicted-by-source): `-5kooyIyavs` never mentions a
+  channel — the clip is fished at the mangrove edge, casting into a cove and a
+  pocket — and "it's only in there for a second because of the current" is a
+  figure of speech about the bait being swept out, not a measured window.
 - **Chum is the on-switch, not an attractant that pulls fish in.** The fish are
   already in the cove; the chum tells them food is washing by and starts the
   boils (`dlxA22FVNGc`).
@@ -126,6 +160,11 @@ spawning does to the bite. The corpus says nothing about snook spawning.
   the fish themselves visible in the slot (`dlxA22FVNGc`, `frX09YMQxKE`). The
   meter is not used: the mangrove program is precision-cast to visible roots and
   the boca is fished blind over a known mark.
+  ⚠ Fact-check (contradicted-by-source): neither cite gives fish visible in
+  clear water from the boat. `dlxA22FVNGc` describes the water going the other
+  way as the ebb builds — "the water is getting dirtier … that dirty brownish
+  sandy water" — and in `frX09YMQxKE` the fish are seen only because the
+  presenter gets in and free-dives the slot before fishing it.
 - **Prospect small spots, then commit.** Fish a series of mangrove pockets, find
   the one where snook are actually biting, and anchor on it rather than keep
   drifting across it (`FxgLol_IHa0`, `dlxA22FVNGc`). Read which way the tide is
@@ -133,6 +172,10 @@ spawning does to the bite. The corpus says nothing about snook spawning.
   of the boat ends up laid along the target root line (`FxgLol_IHa0`).
 - **Boca:** no visual or sonar sign is given — it is fished as a known bottom
   mark in **40–50 ft** (`EcQK5elTPJE`).
+  ⚠ Fact-check (contradicted-by-source): "known bottom mark" is not in the
+  source. `EcQK5elTPJE` gives the depth and the five-minute run from the dock
+  and nothing else — no mark, no sounding, no spot-finding and no statement
+  that the spot is fished blind.
 - ⚠ Flagged gap — no corpus source: a sonar signature or arc depth for snook in
   any of these zones. Silence here is a source gap, not a statement that snook
   cannot be metered. General method:
@@ -145,8 +188,8 @@ spawning does to the bite. The corpus says nothing about snook spawning.
 | **Mangrove roots, 1–2 ft of water, ebb from peak high** | [Flyline](../techniques/flyline.md) — no-weight live sardine placed **on** the root edge / [mangrove structure livebait](../techniques/mangrove-structure-livebait.md) — the same cast on the heavy locked-drag build | Baja Pacific mangrove-snook class — see [gear classes](../tackle/gear-classes.md) | A sinker in 12 in of water hangs directly in the roots, so nothing rides the line but hook and leader (`dlxA22FVNGc`). Which of the two builds you bring is the live argument — see [Doctrine & conflicts](#doctrine--conflicts) [a] |
 | **Mangrove interior, 12–15 ft, tide running** | [Flyline](../techniques/flyline.md) — same presentation worked along the branch line | Same mangrove-snook class | Bait placement, not soak time, is what gets bit: wind a short or wide cast straight back in and throw again rather than leaving it (`-5kooyIyavs`) |
 | **Boca / nearshore structure, 40–50 ft, mixed with grouper** | [Sliding sinker](../techniques/sliding-sinker.md) — Carolina rig, live shrimp or sardine dropped to just off the bottom, two-speed reel mandatory | Baja Pacific grouper/snook bottom class — see [gear classes](../tackle/gear-classes.md) | The fight is decided in roughly the first **5 seconds**; a hooked snook rises toward the boat rather than diving for the rock the way a grouper does, which is how the crew tells the two apart on the strike (`EcQK5elTPJE`) [b] |
-| **Estuary channel, 25–30 ft, fish on or near the bottom off the mangrove edge** | [Bucktail jig](../lures/bucktail-jigs.md) worked up off the bottom | ⚠ Flagged gap — no corpus source: no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md) |
-| **Estuary channel, wind chop, prospecting the mangrove edge** | ⚠ Flagged stub — no corpus source yet: [trolling](../techniques/trolling.md) small lures tight to the mangrove edge is the documented inside program, but the only fish lost to the mangroves on it was called "probably snook" and never landed (`isXJONlpUP4`) | — | Fill in when a source lands a snook on the troll and gives speed, lure and standoff |
+| **Estuary channel, 25–30 ft, fish on or near the bottom off the mangrove edge** | [Bucktail jig](../lures/bucktail-jigs.md) worked up off the bottom | ⚠ Flagged gap — no corpus source: no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md). ⚠ Fact-check (contradicted-by-source): the Situation column is not in `OVwqUKim9Pc` — that video states no depth at all and places the fish only "back at it in the estuary", with no channel, no mangrove edge and no bottom position; the 25–30 ft comes from `isXJONlpUP4`, a different day. "Popping it up off the bottom" is the cameraman's question, not the angler's description |
+| **Estuary channel, wind chop, prospecting the mangrove edge** | ⚠ Flagged stub — no corpus source yet: [trolling](../techniques/trolling.md) small lures tight to the mangrove edge is the documented inside program, but the only fish lost to the mangroves on it was called "probably snook" and never landed (`isXJONlpUP4`) | — | Fill in when a source lands a snook on the troll and gives speed, lure and standoff. ⚠ Fact-check (contradicted-by-source): `isXJONlpUP4` has several fish lost that day, not one — two more come off within the same hour and two more later — so "the only fish lost to the mangroves" overstates it, and the trolled lures are never called small; the one lure size given in that video is a ¾ oz Castmaster, which was cast, not trolled |
 
 [a] Both builds fish the identical cast; only line, leader, hook and drag
 differ.
@@ -205,6 +248,13 @@ Section order below is not a ranking.
   states that as the rule.
   ⚠ Flagged gap — no corpus source: an explicit rule for when to bring which
   build.
+  ⚠ Fact-check (contradicted-by-source): the stealth rationale and the 25 lb
+  number are about nine minutes apart in `dlxA22FVNGc` and do not belong to
+  each other. "To make sure that the fish can't see the line, can't see the
+  hook" is said of the size 4 thin-wire bronze hook with no line rating
+  attached; the later segment that does say "we're using 25 fluoro" says the
+  opposite about visibility — "the fish aren't line shy here, it's just about
+  making the right cast."
   ⚠ Fact-check (contradicted-internal): the same segment that specifies 25 lb
   fluorocarbon states that anything under **35 lb** has zero chance of coming
   out of the bushes once snagged (`dlxA22FVNGc`); one of the two numbers is
@@ -212,7 +262,13 @@ Section order below is not a ranking.
 - **The boca's 100–130 lb leader was arrived at by losing fish, not by
   reasoning.** The first six snook hooked in that fishery all broke off, and the
   leader was stepped up through **60, 80, 100 and finally 130 lb** before fish
-  were landed (`EcQK5elTPJE`). This is the origin of the 100–130 lb spec now
+  were landed (`EcQK5elTPJE`).
+  ⚠ Fact-check (contradicted-by-source): the source never says 130 lb ended the
+  break-offs. It gives the six break-offs and the 60 → 80 → 100 → 130 lb
+  progression, and then reports still breaking off on "100 to 130 lb test"
+  three times on a later trip (`EcQK5elTPJE`); "before fish were landed" is an
+  inference from the 42 lb fish mentioned next.
+  This is the origin of the 100–130 lb spec now
   carried on [sliding sinker](../techniques/sliding-sinker.md), not a second
   rule beside it.
 - **The ~100 lb "grouper" caught alongside snook at the boca is never
@@ -229,6 +285,13 @@ Section order below is not a ranking.
   descriptions come from the fish's own structure — there is nothing to rock a
   leader against in open water at the boca, and everything to rock it against in
   the roots.
+  ⚠ Fact-check (contradicted-internal): the "open water at the boca" half is
+  this note's own mechanism, and the rest of the KB reads the boca as rock —
+  the same source has a hooked grouper heading "straight back for the rock" at
+  that mark and a single-speed reel "breaking off all day" against the
+  structure there (`EcQK5elTPJE`), which is why
+  [the boca page](../locations/lopez-mateos-magdalena-bay-boca.md) carries this
+  same flag and the ledger row naming both notes.
 - **A snook's mouth is abrasive enough to wear a hook out**, so the fish is
   played clean of the structure rather than held against it, and **4X** hooks
   are used — boca fish have straightened them (`EcQK5elTPJE`).

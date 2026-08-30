@@ -170,4 +170,5 @@ and, for the boca's execution program,
 ## Linked from
 
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->
