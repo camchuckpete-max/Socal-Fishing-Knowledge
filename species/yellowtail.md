@@ -530,6 +530,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

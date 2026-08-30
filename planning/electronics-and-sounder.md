@@ -396,6 +396,7 @@ Trip reports and per-source provenance:
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Thetis Bank](../locations/thetis-bank.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)

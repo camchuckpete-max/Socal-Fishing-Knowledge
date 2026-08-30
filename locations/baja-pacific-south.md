@@ -199,6 +199,7 @@ omitted, because silence would read as "nothing there":
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [The "lower banks"](lower-banks.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
+- [Thetis Bank](thetis-bank.md)
 <!-- children:end -->
 
 ## Access & range
@@ -267,4 +268,5 @@ Trip reports and per-source provenance:
 - [Mexican waters](mexican-waters.md)
 - [The "lower banks"](lower-banks.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
+- [Thetis Bank](thetis-bank.md)
 <!-- backlinks:end -->

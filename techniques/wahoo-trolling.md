@@ -164,6 +164,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo-trolling.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
+- [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)

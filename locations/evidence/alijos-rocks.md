@@ -158,4 +158,5 @@ observation. Observations never change the note's stated doctrine.
 ## Linked from
 
 - [Alijos Rocks](../alijos-rocks.md)
+- [Thetis Bank](../thetis-bank.md)
 <!-- backlinks:end -->

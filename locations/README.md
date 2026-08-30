@@ -410,6 +410,7 @@
 - [Tanner Bank](tanner-bank.md) **[SoCal only]** — A zone is a run grouping.
 - [Terramar Kelp](terramar-kelp.md) **[SoCal only]** — A charted spot at 33°07.490'N 117°20.440'W (cameron), in the Oceanside / North County zone.
 - [The Ridge (Magdalena Bay)](the-ridge.md) **[Baja only]** — [Baja only] — the longer of the two offshore banks a Magdalena Bay day picks between, run when the wave state outside the boca allows it and given up for the cl
+- [Thetis Bank](thetis-bank.md) **[Baja only]** — [Baja only] — a named offshore bank on the Magdalena-Bay-to-Alijos Rocks corridor, worked as a stop by San Diego long-range boats.
 - [Three Sisters (caution — boilers)](three-sisters.md) **[SoCal only]** — A charted spot at 33°28.022'N 119°02.646'W (cameron), in the Santa Barbara Island zone.
 - [Todos Santos Island](todos-santos-island.md) **[Baja only]** — A charted spot at 31°48.000'N 116°47.400'W (cameron), in the Banda Bank / Todos Santos Island zone.
 - [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md) **[SoCal only]** — The Torrey Pines Artificial Reef series — 2 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
@@ -455,5 +456,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 442 notes exceed the 30-node cap._
+_Map skipped: 443 notes exceed the 30-node cap._
 <!-- mermaid:end -->

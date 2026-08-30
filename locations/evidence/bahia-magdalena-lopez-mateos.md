@@ -213,4 +213,5 @@ local guide Reuben.
 
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../bahia-magdalena-lopez-mateos.md)
 - [The Ridge (Magdalena Bay)](../the-ridge.md)
+- [Thetis Bank](../thetis-bank.md)
 <!-- backlinks:end -->

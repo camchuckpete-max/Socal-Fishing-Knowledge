@@ -241,6 +241,7 @@ Trip reports and per-source provenance:
 - [The "lower banks"](lower-banks.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
+- [Thetis Bank](thetis-bank.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

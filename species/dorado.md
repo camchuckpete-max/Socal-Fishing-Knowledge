@@ -319,6 +319,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

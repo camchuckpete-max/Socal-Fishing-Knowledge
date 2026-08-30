@@ -289,6 +289,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [The "lower banks"](../locations/lower-banks.md)
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
+- [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)

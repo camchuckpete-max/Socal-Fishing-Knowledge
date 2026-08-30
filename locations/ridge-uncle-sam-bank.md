@@ -187,4 +187,5 @@ with the species and region notes that carry them:
 - [San Benito Islands](san-benito-island.md)
 - [The "lower banks"](lower-banks.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
+- [Thetis Bank](thetis-bank.md)
 <!-- backlinks:end -->
