@@ -24,7 +24,9 @@ boat-approach mechanics drive catch rate as much as spot selection.
 
 - Targeting spiny lobster on **rock, riprap, boulder fields, reef, or kelp
   edges** at **night**, in season. Drop **on the rock, not off it in open
-  sand** (`b19_AJjYCok`).
+  sand** (`b19_AJjYCok`). ⚠ Fact-check (contradicted-by-source): `b19_AJjYCok`'s
+  transcript covers licensing, gear code, and the carapace-size gauge only —
+  it never states a rock-vs-sand placement rule.
 
 ## The rig
 
@@ -32,7 +34,10 @@ boat-approach mechanics drive catch rate as much as spot selection.
 - A **clipped-in bait cage / closed bait bucket** — sea-lion-proof, so seals
   and sea lions can't strip the bait and kill the set.
 - **~40-50 ft of rope** to the buoy (matches the working depth on the
-  structure).
+  structure). ⚠ Fact-check (contradicted-by-source): `Qs9oEsh3b_w` states a
+  ~30-35 ft working section for Mission Bay depth (matching the [Rope length](#rope-length--match-it-dont-over-carry-it)
+  subsection below, same cite), not 40-50 ft; that figure instead appears in
+  `b19_AJjYCok`.
 - A **torpedo weight** at the buoy end of the rope to force the buoy upright
   and visible.
 - An **LED-lit buoy** to relocate each net in the dark; the buoy must carry
@@ -101,6 +106,12 @@ below (`Qs9oEsh3b_w`).
 Fresh bait outfishes old bait: a lobster's long antennae read the electrical
 field a bait gives off as it starts to break down, so bait right at the point
 of breaking down draws lobsters in fastest (`YQsbwfQ4wzY`, `AH4Eiya1Hn0`).
+⚠ Fact-check (single-source): both cites are the same speaker (Capt. Dave
+Hansen) repeating the same mechanism across two of his own videos, not two
+independent sources; the two videos even disagree on the mechanism's origin
+(`YQsbwfQ4wzY` credits a commercial-fisherman friend, `AH4Eiya1Hn0` credits a
+marine-biologist colleague instead), and the claim itself is unverified
+against outside biology sources.
 
 - **Ranking: fresh (never frozen/defrosted) sardines first**, ahead of
   anchovies and everything else — bought same-trip at the bait barge, cut
@@ -137,7 +148,9 @@ of breaking down draws lobsters in fastest (`YQsbwfQ4wzY`, `AH4Eiya1Hn0`).
   into the hoop net with **at least two zip ties per corner** (diagonal),
   using **11 in** ties for the bait-cage closure and heavier-duty ties for
   the cage-to-net-ring lashing — two is the floor, more is angler preference
-  (`Qs9oEsh3b_w`).
+  (`Qs9oEsh3b_w`). ⚠ Fact-check (contradicted-by-source): the transcript says
+  two heavy-duty ties total, placed diagonally corner-to-corner ("put two of
+  these big ones on there so I go diagonal"), not two per corner.
 - **DIY black PVC bait tube:** a self-built alternative to a mesh bait cage —
   **2-inch-diameter PVC pipe, 18 inches long**, with a screw/unscrew cap for
   loading, small drilled holes (just enough to let scent out, not to expose
@@ -281,7 +294,12 @@ statement describes the conventional practice: measure immediately after
 shaking the net out, put shorts straight into a bucket, and tip them over the
 side right away rather than letting them sit loose on deck, framing
 possession of a short as carrying a serious fine (`cEscIy278ew`,
-2020-11-13). A later statement instead describes dropping a short back into
+2020-11-13). ⚠ Fact-check (contradicted-by-source): the transcript's actual
+sequence is catch into a bucket first, then measured from the bucket, then
+shorts over the side ("we try to put them right straight into a bucket when
+we shake them out of the net and then measure them from the bucket and dump
+the shorts over the side immediately") — not measure-then-bucket as stated
+here. A later statement instead describes dropping a short back into
 the hoop net and redeploying the net on the bottom, reasoning that a short
 lobster left in the net can draw more lobsters in to investigate — "nothing
 attracts a crowd like a crowd" — possibly including as a mating draw. That
