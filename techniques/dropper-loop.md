@@ -58,7 +58,12 @@ this note owns the rig and the retrieve.
   **Sinker weight tracks drift speed, not just species/depth:** on a
   low-drift day, a **6 oz** sinker held bottom — light end of the 6–10 oz
   SoCal range above, since low drift needs less weight to get down and hold;
-  step the weight up as drift/current picks up (`eEcRPEoG4DQ`).
+  step the weight up as drift/current picks up (`eEcRPEoG4DQ`). ⚠ Fact-check
+  (contradicted-by-source): `eEcRPEoG4DQ` only gives the specific-day
+  rationale for the 6 oz choice ("we're going to use six because we're not
+  really drifting a lot today so it'll get you down to the bottom") and never
+  states or implies a general rule to increase weight as drift/current picks
+  up — that generalization is not in the source.
 - **White seabass loop height:** hook **12 to 18 inches above the sinker** so
   the squid rides clear of the bottom over/near a squid nest — the same
   "seabass → lighter sinker, kept off bottom" principle above, with a
@@ -71,7 +76,11 @@ this note owns the rig and the retrieve.
   pin a whole fresh dead squid; asr-uncertain — a follow-up clip from the same
   channel renders the hook name two ways in the same video, "Owner Oy twist"
   and "Owner Octy twist" (`d93vB_EBu30`), which does not resolve which is
-  correct. Sinker: **8–12 oz torpedo**, sized to depth and current, fished
+  correct. ⚠ Fact-check (contradicted-by-source): neither cited transcript
+  ever says "Ai twist" — `Eo_bA8IWvyU` consistently says "Owner Oy twist"
+  ("This is an Owner Oy twist"; "Grab our owner Oy twist hook") and
+  `d93vB_EBu30` renders it "Owner Oy twist" / "Owner Octy twist"; "Ai" is a
+  third variant not present in either source. Sinker: **8–12 oz torpedo**, sized to depth and current, fished
   typically in **60–90 ft** close to bottom over a squid bed. **Leader from
   sinker to hook: about 4 ft**, sized for bycatch avoidance (bat rays,
   sharks) rather than presentation, though it can also net a yellowtail or
