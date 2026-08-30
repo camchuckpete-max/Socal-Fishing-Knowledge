@@ -45,6 +45,12 @@ riprap](../locations/breakwalls-jetties-riprap.md), and
 [island rock](../locations/island-structure.md) at
 [Catalina](../locations/catalina-island-front-side.md) (`b19_AJjYCok`,
 `Qs9oEsh3b_w`, `YQsbwfQ4wzY`, `Ow3an9lSVh4`).
+⚠ Fact-check (contradicted-by-source): the ground *types* are not in the four
+cited transcripts — "riprap", "break wall", "jetty", "boulder", "reef" and
+"kelp edge" appear in none of them (the only "kelp" hits in `Ow3an9lSVh4` are
+offshore paddies in its tuna segment). The cites support the *places* only:
+San Diego Bay and Mission Bay (`b19_AJjYCok`, `Qs9oEsh3b_w`), Long Beach/LA
+Harbor and Catalina (`YQsbwfQ4wzY`), Catalina (`Ow3an9lSVh4`).
 
 **Depth.** The corpus's worked bands are **20–30 ft** at Catalina
 (`YQsbwfQ4wzY`), **25–30 ft** as a general big-boat working depth
@@ -85,7 +91,10 @@ gear is in the water when it stops is the night's catch (`EiItVWqFMYc`).
   the producing spot (`EiItVWqFMYc`).
 - **Predation pressure is why they only move in the dark** — everything in the
   system eats a lobster, which is what makes them nocturnal feeders
-  (`fri_BWI-VA0`).
+  (`fri_BWI-VA0`). ⚠ Fact-check (contradicted-by-source): the source hedges —
+  "lobsters are **typically** nocturnal feeders because of the fact that
+  everything wants to eat a lobster". "Only move in the dark" hardens
+  "typically nocturnal" into an absolute the speaker does not state.
 - ⚠ Flagged gap — no corpus source: what California spiny lobster eat
   naturally. Every forage claim in the corpus is about hook bait
   (mackerel, anchovy, sardine, salmon heads), not about the natural diet.
@@ -140,6 +149,10 @@ dark.
   finfish — and drop **on the rock, not off it in open sand** (`b19_AJjYCok`).
   Chart the rock and boulder edges the way you would hunt bottomfish structure
   ([electronics and sounder](../planning/electronics-and-sounder.md)).
+  ⚠ Fact-check (contradicted-by-source): `b19_AJjYCok` contains no net-placement
+  content at all — across its 5:21 runtime it never mentions structure, rock,
+  kelp, sand or where to drop. It is a licence/report-card/gear/size video. The
+  whole bullet is uncited in the corpus as it stands.
 - **The sounder's job is depth, not detection.** A depth finder is called
   mandatory on a hoop-net boat because it tells you what is on the bottom, not
   because it shows lobster (`Ow3an9lSVh4`) — and what is on the bottom is what
@@ -177,7 +190,13 @@ a rain-triggered crawl at the islands or on the open coast.
   sized to the sounded depth, torpedo-weighted self-righting buoy with an LED
   light. Full build in [hoop netting](../techniques/hoop-netting.md).
 - **Bait class** — oily fin bait: mackerel, anchovies, sardines, or cut-up
-  salmon heads (`b19_AJjYCok`, `YQsbwfQ4wzY`).
+  salmon heads (`b19_AJjYCok`, `YQsbwfQ4wzY`). ⚠ Fact-check
+  (contradicted-by-source): `YQsbwfQ4wzY` argues *against* salmon heads —
+  "salmon heads let me tell you they're a big hassle to use they're a big
+  hassle to get and the sea lions absolutely love them" — in the segment that
+  motivates the black bait tube. Salmon heads are `b19_AJjYCok`'s
+  recommendation only; the two sources disagree on this bait and the joint cite
+  merges them.
 - **No rod-and-reel class applies.** Lobster do not route to
   [gear classes](../tackle/gear-classes.md) the way the finfish notes do.
 
@@ -202,11 +221,19 @@ Hard requirements:
 
 - **Season.** Fishing is legal only in the open season, roughly early October
   to mid-March; the 2024 season closed **March 20** (`Q196GVwVqro`).
+  ⚠ Fact-check (unverifiable): only the closing half is sourced —
+  `Q196GVwVqro` gives "the end of the season which is March 20th" for 2024. No
+  cited transcript names an **October opener**; `b19_AJjYCok` says only "you
+  have to fish during open season." The opener month needs a CDFW check.
 - **Two licences.** A California **fishing licence** *plus* a **lobster report
   card**. The card is filled out **before you fish** — month, date, location
   code, and gear code (**gear code 1** for hoop netting) — with "lobster
   retained" left blank until after (`b19_AJjYCok`).
 - **Bag limit: 7 lobster per person per day** (`JiJYamo0QHk`).
+  ⚠ Fact-check (single-source): a hard legal limit resting on one 2019 seminar
+  aside in a heavily garbled caption block — "seven period end of story" and "I
+  can only kill seven lobsters a day", with a stray ASR "I can only kill ten a
+  day" five seconds earlier. No second corpus source states a bag limit.
 - **Gear counts: 5 hoop nets per angler from a boat, 10 maximum per boat**
   regardless of how many anglers are aboard, and **2 nets per person** from
   shore or a public pier. Fishing the full 10-net boat limit therefore
@@ -218,6 +245,14 @@ Hard requirements:
   eye-socket horns, parallel down the centre of the shell, to the rear edge of
   the carapace. If the gauge fits between — even by a millimetre — the lobster
   is short and goes back immediately (`b19_AJjYCok`).
+  ⚠ Fact-check (contradicted-by-source): the **3.25 in** threshold and the
+  millimetre rule are verbatim, but the measurement *method* is stated more
+  precisely than the source. `b19_AJjYCok` says "in between the lobsters eye
+  sockets and then parallel line in the center of the body of the shell … to
+  the carapace", and the speaker hedges the term ("the carapace I believe
+  that's how you say it"). "Eye-socket **horns**" and "**rear edge** of the
+  carapace" are not in the transcript — the gauge's endpoints need a CDFW
+  check, since a wrong endpoint is a short-lobster citation.
 
 Practice, not requirement:
 
@@ -252,7 +287,14 @@ Section order below is not a ranking.
   same as a small one, and that the commercial fleet's best seasons have come
   in the same years as heavy recreational take (`JiJYamo0QHk`, `Q196GVwVqro`);
   the release-the-big-ones position is characterised on camera but never
-  argued by its own holders anywhere in the corpus. What the choice turns on
+  argued by its own holders anywhere in the corpus.
+  ⚠ Fact-check (contradicted-by-source): the commercial-fleet argument is
+  **absent from `Q196GVwVqro`**, which carries only the taste argument ("you
+  know what big giant lobsters taste like — lobster"). In `JiJYamo0QHk` it is
+  singular and rhetorical — "the lobster fishermen had the greatest year of
+  lobster fishing they've ever had **at the beginning of the season**" — so
+  "best seasons" (plural) overstates one partial season.
+  What the choice turns on
   is whether large egg-bearing females are disproportionate breeding stock,
   which nothing in the corpus establishes — see the flagged gap in
   [Spawning](#spawning). ⚠ Fact-check (single-source): a stock-effect claim
@@ -263,13 +305,27 @@ Section order below is not a ranking.
 - **Lobster grip the net, so never pause a pull.** A fish large enough to
   cover the whole ring of a **36 in** hoop will hold on and can come back over
   the rail if the rope stops moving; the rule is that the rope only stops when
-  the net is in the boat (`Q196GVwVqro`). Retrieval mechanics:
+  the net is in the boat (`Q196GVwVqro`). ⚠ Fact-check
+  (contradicted-by-source): inverted conditional. The transcript runs the other
+  way — "**if he didn't stop** that Lobster was holding on for dear life it
+  would have came right back over the rail" — i.e. coming over the rail is the
+  *good* outcome of not stopping; the deckhand did stop and the fish "almost
+  went into the water". The rule itself is verbatim ("do not stop pulling only
+  stop when it's in the boat"), and it is Justin Botrell's boat rule, not
+  Hansen's. Retrieval mechanics:
   [hoop netting](../techniques/hoop-netting.md#retrieval-scotty-qs9oesh3b_w).
 - **Shake the net out into a bucket, measure from the bucket.** Legal fish go
   straight into the bait tank and shorts go over the side immediately —
   possession of a short carries a heavy fine, and the net goes back in the
-  water while two people measure (`cEscIy278ew`). Short-lobster handling in
-  the net itself:
+  water while two people measure (`cEscIy278ew`). ⚠ Fact-check
+  (contradicted-internal): `EiItVWqFMYc` — the same channel and speaker — does
+  the opposite with shorts ("I don't throw the shorts over, I throw them back
+  in the hoop net, throw them back down on the bottom"), on the stated
+  reasoning that a lobster able to crawl out of a net is not in possession and
+  that "nothing attracts a crowd like a crowd". That practice is carried in
+  [hoop netting](../techniques/hoop-netting.md) while this note states
+  over-the-side-immediately as the rule; the two are not reconciled anywhere.
+  Short-lobster handling in the net itself:
   [hoop netting](../techniques/hoop-netting.md#sublegal-short-lobster-handling-dave-hansen-your-saltwater-guide-eiitvwqfmyc-2021-01-05).
 - **Kept lobster are held alive in the bait tank** rather than iced
   (`cEscIy278ew`).
