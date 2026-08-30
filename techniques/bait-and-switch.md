@@ -97,6 +97,10 @@ when they land.
 - **Low conversion is normal, not a sign of an error.** Even with the play run
   correctly, one experienced captain put raised-fish-to-hookup at roughly one
   in five or six (`3qSY328fFYo`).
+  ⚠ Fact-check (contradicted-by-source): `3qSY328fFYo` scopes this figure to
+  jig-strike conversion — "to get a jig fish is usually get one out of five
+  or six if you're lucky" — not a raised-fish-to-bait-and-switch-hookup rate,
+  and drops the source's own hedge ("if you're lucky").
 - **A hooked fish can still shake free.** Same session, a second angler's
   marlin came unbuttoned on a trolled teaser lure shortly after the strike
   (`3qSY328fFYo`).
