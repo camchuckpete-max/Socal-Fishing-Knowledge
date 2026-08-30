@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2483 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
+_Totals: 2490 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -2939,6 +2939,14 @@ _Totals: 2483 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — tide and moon for this zone. El Bajo's depth
   - `How it fishes`: gap — a start-and-move order for the zone — which
+- **locations/la-rasa-high-spot.md**
+  - `Getting there`: gap — a heading, distance, run time or sea-state
+  - `Structure & bathymetry`: gap — bottom composition, relief, the extent of the
+  - `What's there`: gap — season shape for this mark | The captain's stated reason to fish here, and a *"big cabrilla"* was called on the boat at this stop and photographed (`odiIWmut6gM`) — the captions render it "Big Cabria". Nothing states its weight or what it ate |
+  - `What's there`: gap — season | Both named in the captain's plan for this ground (`odiIWmut6gM`); no fish of either is recorded at the stop. ⚠ Flagged stub — no corpus source yet for a pargo/snapper router or a grouper router; the zone's deep grouper program is a different fishery entirely, at [600–800 ft](bahia-de-los-angeles.md#deep--grouper-and-pargo-at-600800-ft) |
+  - `What's there`: gap — names this high spot for any other species. The same trip's other fish are all recorded against other stops ([zone page](bahia-de-los-angeles.md#whats-there)) |
+  - `What's there`: gap — a month, a water temperature, what the fish
+  - `How it fishes`: gap — line class, leader, hook, lure or jig choice
 - **locations/lab.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
