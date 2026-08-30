@@ -26,6 +26,10 @@ every technique and sign statement below is transferred from the
 yellowtail-class structure-jack program and carries a flag; the only sourced
 program is a live sardine on a beach drop at East Cape (`APsnsunT4gM`).
 
+⚠ Fact-check (unverifiable): no corpus source gives the scientific name
+*Caranx caninus* or the common name "toro" — both are external knowledge, not
+transcript content.
+
 ## Where & when
 
 - **East Cape, Baja California Sur — the only sourced location.** Crevalle are
@@ -34,6 +38,19 @@ program is a live sardine on a beach drop at East Cape (`APsnsunT4gM`).
   catchable by casting from the beach (`mL4Ph7t0WcQ`), and one was landed out
   of the same resort fishery in a mixed morning catch with four tuna
   (`84XPJAeH0Rw`). See [East Cape](../locations/east-cape.md).
+  ⚠ Fact-check (contradicted-by-source): `mL4Ph7t0WcQ` never says "crevalle" —
+  the drop's assemblage is given as "there's sharks there's uh rooster Jacks
+  kuas everything's right here on this Edge big guy Jack Jackel Dorado even the
+  yant tuna you can catch it from the Beach here," so both the species-level
+  identification and "yellowfin" are ASR readings, not stated names.
+  ⚠ Fact-check (single-source): the only corpus record of a landed crevalle is
+  one guest's spoken recap of the previous day — "we got four nice tunas
+  yesterday in a jack crevalle" — with no footage; the "65" weight called out
+  in the same breath is answered "nice nice tuna," so it belongs to a tuna, not
+  the jack.
+  ⚠ Fact-check (contradicted-internal): [East Cape](../locations/east-cape.md)
+  additionally cites `tcso7Lpm_Xs` for jack crevalle on the sand, but that
+  transcript's only "jack" is "skipjack" and it names no crevalle.
 - **Presence is not a season here.** No month, water temperature or run timing
   is stated for crevalle at East Cape, and the three recordings are upload
   dates, not catch dates. ⚠ Flagged gap — no corpus source: when crevalle are
@@ -66,6 +83,9 @@ program is a live sardine on a beach drop at East Cape (`APsnsunT4gM`).
   East Cape crew makes sardines first, then fishes "roosters, some jacks, some
   snappers" (`APsnsunT4gM`). That is hook bait, not a demonstrated natural
   forage.
+  ⚠ Fact-check (contradicted-by-source): the source states this as a forward
+  plan — "big enough sardines we're gonna go and get some roosters some jacks
+  some snappers everything at the lighthouse" — not a session that fished them.
 - ⚠ Flagged gap — no corpus source: what Pacific crevalle jack eat naturally,
   and what bait, structure, current or temperature puts them on a given point.
 
@@ -80,6 +100,11 @@ spawn, or what spawning does to the bite. The corpus is silent.
   the afternoon and at night** (`mL4Ph7t0WcQ`). Scope: that is stated for the
   point's beach program as a whole, so it says when the spot is fished, not
   when crevalle eat.
+  ⚠ Fact-check (contradicted-by-source): the source attaches sight-fishing and
+  the afternoon/night window to the roosterfish beach fishery specifically —
+  "beach fishing over here is world famous to catch rooster fish is prime …
+  you B you see them it's side fishing there uh afternoon night fish" — not to
+  the point's program as a whole.
 - ⚠ Flagged gap — no corpus source: any light window, tide or slack gate,
   current or moon effect on the crevalle bite — and no mechanism for one.
 
@@ -111,6 +136,9 @@ spawn, or what spawning does to the bite. The corpus is silent.
 [a] `APsnsunT4gM` states the plan and the water it was fished in; it never
 confirms a crevalle was landed, so the row is a program shape, not a proven
 producer.
+⚠ Fact-check (contradicted-by-source): the source's stated reason for the #2
+circle hook is roosters, not sardine sizing — "with the number two circle hook
+in case we get any roosters."
 [b] ⚠ Fact-check (unverifiable): rows 2–4 carry no crevalle source at all —
 technique, retrieve, gear class, fight description and the not-leader-shy call
 are all transferred from the yellowtail-class structure-jack program. Nothing
@@ -139,6 +167,9 @@ on them.
   dorado, not a crevalle; no corpus source gives a crevalle-specific leader
   class, hook size, jig weight or line class, and none exists at all for the
   iron rows.
+  ⚠ Fact-check (contradicted-by-source): the hook's stated reason in the source
+  is roosters only — "with the number two circle hook in case we get any
+  roosters"; "sized for the sardine" is not in the transcript.
 
 ## Zone guides
 
@@ -154,6 +185,11 @@ on them.
   current rules with CONAPESCA before fishing.** A circle hook is mandatory in
   the East Cape fishery the crevalle records come from (`GptrotE0x5M`). Entry
   and licence paperwork: [Mexican waters](../locations/mexican-waters.md).
+  ⚠ Fact-check (contradicted-by-source): the source line is an unidentified
+  angler's on-boat aside — "good news is a circle hook it's mandatory to have a
+  circle hook" — with no jurisdiction, rule-giver, penalty or framing; the
+  Mexico / Baja California Sur / CONAPESCA attribution is not in the transcript,
+  and the episode's other circle-hook talk is hookup performance, not rules.
 - ⚠ Flagged gap — no corpus source: any Mexican (CONAPESCA) bag limit, size
   gauge or closed season for Pacific crevalle jack. **Verify current Mexican
   limits and the licence and entry paperwork before fishing.**
