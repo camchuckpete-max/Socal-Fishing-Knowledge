@@ -117,7 +117,12 @@ marginal edges rather than a load-bearing claim.
   halibut on plastic is never a sure thing (`1enjjFVcDG0`).
 - **Surf cadence — drag length matches target size** (`9qwsg-e9ECA`): cast
   out, engage the reel, and **drag the rig a distance matching the halibut
-  you're trying to catch** — the stated example is **22 to 30 in** of drag. On
+  you're trying to catch** — the stated example is **22 to 30 in** of drag.
+  ⚠ Fact-check (single-source): `9qwsg-e9ECA` is a verbatim re-cut of the
+  longer video `fHMwcm1xRQk` (identical wording throughout this passage),
+  not an independent source — the same "re-cut, not independent
+  confirmation" caveat this note applies to `_XfScSliRVk`/`M2qZiY2lR98` (both
+  re-cuts of `_rcxIWhNMSE`) is not currently applied here. On
   the settle, **shake out the slack while reeling**, which pulls the whole
   lure forward instead of letting it sink in place, while the flash/blade
   dances. **Repeat the drag-shake-drag cadence** rather than resetting and
@@ -155,7 +160,12 @@ Positions kept side by side, attributed; **section order is not a ranking.**
   mosquito** hooks (size not stated on camera), fished with a **Basstrix
   Flash Trick** swimbait in **3-in and 4-in** sizes — see [Bay Bass
   Plastics](../lures/bay-bass-plastics.md#basstrix-flash-trick-halibut-drop-shot-lure-tackle-express-bpxe3xn3gac-2026-01-24-medium-confidence)
-  for sizing, colors, and rigging (`BPxE3xn3gAc`). The decision rule: scale
+  for sizing, colors, and rigging (`BPxE3xn3gAc`). ⚠ Fact-check
+  (single-source): `BPxE3xn3gAc` is a verbatim re-cut of the longer video
+  `fHMwcm1xRQk` (identical wording throughout this passage), not an
+  independent source — the same "re-cut, not independent confirmation"
+  caveat this note applies to `_XfScSliRVk`/`M2qZiY2lR98` (both re-cuts of
+  `_rcxIWhNMSE`) is not currently applied here. The decision rule: scale
   the rig to the water the way a bass angler scales a finesse presentation —
   the light build is the default, and the heavier build (or a different lure
   entirely) is for **casting distance**, not for extra size or toughness on
