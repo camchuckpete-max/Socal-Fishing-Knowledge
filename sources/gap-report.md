@@ -263,7 +263,7 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
   - `Spawning`: gap — when, where or how snook spawn, or what
   - `Feeding triggers`: gap — any light-window, moon-phase or
   - `Finding them (sign & sonar)`: gap — a sonar signature or arc depth for snook in
-  - `Situations → techniques`: gap — no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md) |
+  - `Situations → techniques`: gap — no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md). ⚠ Fact-check (contradicted-by-source): the Situation column is not in `OVwqUKim9Pc` — that video states no depth at all and places the fish only "back at it in the estuary", with no channel, no mangrove edge and no bottom position; the 25–30 ft comes from `isXJONlpUP4`, a different day. "Popping it up off the bottom" is the cameraman's question, not the angler's description |
   - `Situations → techniques`: flagged stub row
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — any Mexican (CONAPESCA) bag limit, size
