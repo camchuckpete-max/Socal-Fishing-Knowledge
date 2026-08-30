@@ -174,11 +174,9 @@ artificial reef using this exact chum method (`f4qYtHACGyk`).
 
 **Origin and species mix.** The SoCal artificial-reef system was built
 specifically for sport fishermen in the **1950s–70s**, funded by sportfishing
-money rather than a commercial-fishing program (`bM2vUS1B-yQ`). ⚠ Fact-check
-(single-source): this construction-era claim rests on this one seminar aside,
-uncorroborated by another source in this note's citation set. Species mix
-named on these reefs: **calico bass, sand bass, halibut, white seabass, a range
-of rockfish, sculpin, and sargo** (`bM2vUS1B-yQ`).
+money rather than a commercial-fishing program (`bM2vUS1B-yQ`, `f4qYtHACGyk`).
+Species mix named on these reefs: **calico bass, sand bass, halibut, white
+seabass, a range of rockfish, sculpin, and sargo** (`bM2vUS1B-yQ`).
 
 **Generalized beyond artificial reefs.** The same prey-density mechanism holds
 as a general SoCal principle, not reef-specific: increase the prey density
