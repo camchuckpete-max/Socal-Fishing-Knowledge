@@ -41,9 +41,16 @@ gets, hook style and size, the leader ladder and the bite count — is in
 - **Where.** ~15 mi off San Diego is the typical big-concentration zone
   (`E4vKwRaRueA`); by the late warm-stable phase, typically September, they hold
   as open-water schools below and behind Catalina (`5to3Q5P7w90`).
+  ⚠ Fact-check (single-source): the Catalina half rests on one 2022-09-14 charter
+  report describing that week's fish; the source states no seasonal-phase rule,
+  and its location wording is ASR-garbled ("behind the below cat").
 - **Water.** Fish the boundary where cold green water on the beach meets warm blue
   water offshore — reference band ~71–72 °F, with 71.6 °F measured on a productive
-  paddy (`E4vKwRaRueA`). See
+  paddy (`E4vKwRaRueA`).
+  ⚠ Fact-check (contradicted-by-source): the source gives one reading — 71.6 °F,
+  taken on arrival at the paddy, before it was fished — and names no band and no
+  productive/unproductive comparison; ~71–72 °F (and front-matter `sst_band_f`)
+  is extrapolated from that single number. See
   [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
 - **Grade.** SoCal average ran 8–15 lb as of September 2022, with fish to 30 lb
@@ -85,7 +92,12 @@ on the bite. Nothing in the corpus addresses it.
   move to the next one.
 - **Dorado feed charging straight ahead**, eating a bait and driving at the boat
   looking for more, picking off as many as they can — where tunas and yellowtail
-  grab a bait and immediately turn sideways (`E4vKwRaRueA`). That difference is
+  grab a bait and immediately turn sideways (`E4vKwRaRueA`).
+  ⚠ Fact-check (contradicted-by-source): the source hedges the dorado half —
+  "they might turn sideways they might not" — so the straight-ahead take is a
+  tendency there, not the exclusive behaviour stated here. The hedge is
+  load-bearing: this contrast is the whole stated reason for the J-hook call.
+  That difference is
   what sets hook style — the J-hook call and its counter-examples are in
   [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution)
   and [Doctrine & conflicts](#doctrine--conflicts).
@@ -113,11 +125,23 @@ on the bite. Nothing in the corpus addresses it.
 - **Sonar signature — upper water column, not a deep bottom mark.** Dorado hold
   under and around the paddy; over open ocean that reads as boomerang-shaped arcs
   at 90–120 ft on the fathometer, plus the bait ball packed under the kelp
-  (`ZFqe49jRgA0`). A live paddy reads as loaded with life; a dead one is bare.
+  (`ZFqe49jRgA0`).
+  ⚠ Fact-check (contradicted-by-source): the source attaches 90–120 ft to
+  unspecified "boomerangs … some fish there" on the meter at a paddy, not to
+  dorado — the species attribution is the KB's. The "bait ball packed under the
+  kelp" half is absent from that transcript entirely. The figure propagates as
+  dorado-specific into front-matter `sonar_depth`,
+  [kelp paddies](../conditions/kelp-paddies.md) and
+  [dorado — kelp-paddy flyline](dorado-kelp-paddy.md).
+  A live paddy reads as loaded with life; a dead one is bare.
   General method:
   [electronics & sounder](../planning/electronics-and-sounder.md). One incidental
   dorado has been taken off the bottom during a deep Cedros halibut drift
   (`9tIp4n7q850`) — an outlier beside this doctrine, not a revision of it.
+  ⚠ Fact-check (contradicted-by-source): "deep" is the KB's; the source states no
+  depth for that drift, and the trip's only depth remark is the opposite ("we're
+  shallow dude", spoken in the earlier yellowtail segment). The word carries the
+  outlier's whole weight against the upper-column read.
 - **Qualify the paddy fast, then move** (`VgpgJ8IAyJo`, `ZFqe49jRgA0`) — the
   tower-cast test and the one-to-two-minute clock are in
   [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
@@ -128,9 +152,9 @@ on the bite. Nothing in the corpus addresses it.
 | --- | --- | --- | --- |
 | Fish on/under a **kelp paddy** | 1) **[Flylined bait — the paddy program](dorado-kelp-paddy.md)** ([general method](../techniques/flyline.md)) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | Approach, dwell, hook style and size, leader ladder and the bite count are all in the sub-article [a] [b] |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; confirm fish with a Mad Scad from the tower before committing (`VgpgJ8IAyJo`). ⚠ cite-unresolved: sources/bd-transcript-knowledge-proposal.md — the slow-troll swing and the deck-hose spray trace to a KB input doc, not to a transcript |
-| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | A pink ("Dorado") colour, 1 oz or 5/8 oz, is a named dorado favourite at paddies (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) [c] |
+| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | A pink ("Dorado") colour, 1 oz or 5/8 oz, is a named dorado favourite at paddies (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) [c] [e] |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade attacks a jig its own size and even marlin-size lures (`E4vKwRaRueA`) [d] |
-| **Picky/finicky** dorado circling the boat, won't commit | **Step the leader and the hook down together**, keeping a live bait swimming naturally — the ladder, its floor and the hook band are in [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear) | Light flyline class | Do not change baits; change the size of what the bait is dragging (`E4vKwRaRueA`) |
+| **Picky/finicky** dorado circling the boat, won't commit | **Step the leader and the hook down together**, keeping a live bait swimming naturally — the ladder, its floor and the hook band are in [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear) | Light flyline class | Do not change baits; change the size of what the bait is dragging (`E4vKwRaRueA`) [f] |
 
 [a] The hook-style call is **J-hook, not circle** (`E4vKwRaRueA`,
 `P9H-bpzT7eU`), with both of its reasons and the corpus counter-examples in
@@ -144,6 +168,18 @@ alternative to the standard swim, named for tuna/dorado/yellowtail generically
 to this thing" comes from a Nomad brand feature and caps at low confidence
 (`VgpgJ8IAyJo`); the pink/silver troll doctrine itself is independently stated in
 `E4vKwRaRueA`.
+[e] ⚠ Fact-check (contradicted-by-source): in `5Oh3IPIC5g4` "Dorado" is the FISH,
+not a colour name — the speaker's colour is pink ("the 5/8 pink … Dorado
+absolutely love that pink one"), and the colours he actually names are mint,
+sardine, red crab, glow green, white shad and fin bait. The 1 oz / 5/8 oz sizes
+and the paddy context are verbatim. Cross-note:
+[tube-bait fishing](../techniques/tube-bait-fishing.md) renders the same
+check-cast from the same cite as a 1 oz bullet in **mint or sardine**, so the two
+notes hand a reader different colours for one action.
+[f] ⚠ Fact-check (contradicted-by-source): "do not change baits" is not in
+`E4vKwRaRueA` — changing baits never comes up. The source says the hook step-down
+applies "the same" as the leader step-down when a visible fish will not bite; the
+prohibition and the "as much as leader size" equivalence are both the KB's.
 
 ## Gear summary (class terms)
 
@@ -153,7 +189,15 @@ to this thing" comes from a Nomad brand feature and caps at low confidence
 - **Lighter dorado-dedicated option:** an **8 ft, 25–40 lb class** rod, 30 lb mono
   top shot over a spectra main line, and a **2/0 J-hook** sized for a flylined
   sardine (`P9H-bpzT7eU`) — a dorado-specific alternative to the mixed-species
-  40–60 lb class above. Named rod and reel models on that source are product
+  40–60 lb class above.
+  ⚠ Fact-check (contradicted-internal): 2/0 is stated here as the baseline hook on
+  a sardine, but [dorado — kelp-paddy flyline](dorado-kelp-paddy.md) makes **1/0**
+  the all-around size on a ~6 in receiver sardine and reserves 2/0–3/0 for "big
+  donkey sardines" (`E4vKwRaRueA`), and [hooks](../tackle/hooks.md) carries size 2
+  and 1–1/0 for paddy dorado with no 2/0 figure. Neither note flags the split.
+  Separately, `P9H-bpzT7eU` never says "flyline" or gives a top-shot length — it
+  says "a short Top Shot a 30 pound mono" on a cast sardine.
+  Named rod and reel models on that source are product
   mentions and stay low confidence per the `searcher-sportfishing` sponsored-claim
   caveat in the source registry.
 - **Terminal:** a **5–6 ft fluorocarbon top shot**, leaders stepped down for
@@ -164,6 +208,12 @@ to this thing" comes from a Nomad brand feature and caps at low confidence
   [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md) and a
   pink/silver troll lure (Mad Scad class) for testing paddies and open-water
   schools (`VgpgJ8IAyJo`).
+  ⚠ Fact-check (contradicted-by-source): `VgpgJ8IAyJo` says pink, never silver
+  ("anything that's got some pink in it"), and the paddy test it describes is a
+  **cast from the tower**, not a troll — "I'd throw this from the tower … if we
+  didn't see something come out and chase it … move on to the next one," which is
+  how the router row above states it. The pink/silver **troll** colour is
+  `E4vKwRaRueA`'s, not this source's.
 
 ## Zone guides
 
@@ -186,6 +236,11 @@ No dorado zone guide exists yet; corpus material for each zone is parked in the
   Baja and Sea of Cortez waters. Verify with the issuing agency before fishing.
 - The **4–6 lb release encouragement** on SoCal sportboats is a voluntary
   table-fare practice, not a CDFW size or bag regulation (`P9H-bpzT7eU`).
+  ⚠ Fact-check (unverifiable): the source states only the practice — "most boats
+  encourage you to release those little four five six Pounders … so you get some
+  fish tacos out of them." It says nothing about CDFW either way, so "voluntary"
+  and "not a regulation" are an unsourced regulatory negative asserted beside a
+  gap flag that admits the limits are unknown.
 
 ## Doctrine & conflicts
 
@@ -201,6 +256,13 @@ Section order below is not a ranking.
   (`APsnsunT4gM`), one square on the jaw inside the offshore kelp-paddy program
   itself (`r4J5nP5Bkl4`) — the second is a genuine counter-example to the paddy
   doctrine and is not reconciled with it.
+  ⚠ Fact-check (contradicted-by-source): the circle-hook fish in `r4J5nP5Bkl4` is
+  never called a dorado on camera — only "he", "a big dude on 30 lb test" — so the
+  species is inferred from the surrounding kelp session (the evidence file records
+  this; the main note asserts it flatly). The source also puts the backside of San
+  Clemente on the later **bluefin** sundown stop, sequenced after the kelp/dorado
+  picking, so the paddy session's location is unstated. Both matter because this
+  is the only counter-example carried against the J-hook doctrine.
 - **Bait or jig: bait lands more fish, jig covers visible fish you cannot reach.**
   Crews stick to live bait because dorado jump and shake their heads and a jig
   hookup often pulls free on the way back to the boat, where live bait holds
@@ -211,7 +273,13 @@ Section order below is not a ranking.
   Sniper — colour, hook style, retrieve — is in
   [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md#colt-sniper-foamer-stickbait).
 - **Depth: upper water column, with one bottom outlier.** The paddy program treats
-  dorado as an upper-column fish (`ZFqe49jRgA0`, `E4vKwRaRueA`); a dorado taken off
+  dorado as an upper-column fish (`ZFqe49jRgA0`, `E4vKwRaRueA`).
+  ⚠ Fact-check (contradicted-by-source): neither cite states a water-column
+  position for dorado. `E4vKwRaRueA` says only that they "hang out underneath
+  these kelps … patrol around the kelps"; `ZFqe49jRgA0` gives species-agnostic
+  boomerangs at 90–120 ft. The upper-column reading is the KB's inference, which
+  is what the bottom fish below is being contradicted against.
+  A dorado taken off
   the bottom on a Cedros halibut drift (`9tIp4n7q850`) stands beside that and does
   not revise it.
 
@@ -224,13 +292,25 @@ Section order below is not a ranking.
 - **Delay boating the first fish.** Leaving a hooked dorado in the water holds the
   school beside the boat and draws followers, so get a second bait in before you
   land it (`tcso7Lpm_Xs`, `qM7iOO7fOBw`, `brx6Ie_L2FM`).
+  ⚠ Fact-check (contradicted-by-source): the third cite does not state this
+  tactic. `brx6Ie_L2FM` supports only the weaker school-follows observation
+  ("you hook a fish they're on you … and then they fish right around you") and
+  otherwise shows fish gaffed promptly; its one instruction is to throw a bait on
+  a fish being brought **in**. The doctrine rests on two sources, not three.
 - **Cut back and re-tie the leader between fish** (`VWClGAn2WEw`) — the chafe
   mechanism and how much to take off are in
   [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#how-dorado-changes-the-execution).
 - **Gaffing:** dorado fall in the **3-in hook, ~6-ft gaff** class — orientation and
   the shot in [gaffing](../fish-care/gaffing.md).
 - **Care: no bleed, ice immediately, never freshwater-rinse** the fillets
-  (`E4vKwRaRueA`). See
+  (`E4vKwRaRueA`).
+  ⚠ Fact-check (contradicted-by-source): `E4vKwRaRueA` contains no fish-care
+  content at all — it ends at the hookup. The doctrine is correct but the cite is
+  stale: the actual source is `5to3Q5P7w90` ("you don't even need to pop a kill
+  and bleed them … get them ice quick"; "you don't want to do this with a fresh
+  water hose ever"), as already re-cited in
+  [dorado & general fish care](../fish-care/dorado-and-general.md). This is the
+  fix left outstanding by the 2026-08-28 ledger row on that note. See
   [dorado & general fish care](../fish-care/dorado-and-general.md).
 
 ## Evidence
