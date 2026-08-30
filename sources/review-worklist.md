@@ -36,7 +36,7 @@ by their builders after the transform phase drains.
 | species/yellowfin-tuna.md | full | fact-checked | contradicted-by-source(26), ext-verify(3) | apply-with-changes: 26 inline flags / 26 ledger rows one-to-one, zero claim text reworded or deleted, 11 of 26 spot-checked verbatim against 11 transcripts with no verifier corrections needed; 1 truncated worklist summary repaired |
 | species/yellowtail.md | full | fact-checked | single-source(2), contradicted-by-source(23), contradicted-internal(1), ext-verify(3) | apply: 26 flags + 26 matching ledger rows, no claim touched, 7 transcript spot-checks all confirm the findings |
 | techniques/bait-and-switch.md | standard | transformed | contradicted-by-source(1) | fact-check flag added for jig-strike-vs-bait-and-switch conversion-rate conflation, ledger row appended, claim text untouched |
-| techniques/beach-lure-depth-control.md | standard | transformed | gaps(3) | transform verified, one cite-support fix applied in Gear class section, no information loss found |
+| techniques/beach-lure-depth-control.md | standard | transformed | none | fact-check: no flags warranted, all 5 cited claims verify verbatim against the sole source, zero contradiction/drift/overclaim found |
 | techniques/cheater-troll.md | standard | transformed | gaps(1) | transform verified faithful, ASR caveats conserved to evidence, gap flags correct, check-note.py clean |
 | techniques/chunking.md | standard | transformed | spots(4) | transform verified faithful, observations split to evidence, execution consolidated into Gear class, no information loss found |
 | techniques/clearing-a-backlash.md | standard | transformed | gaps(1) | transform verified faithful, template-compliant, mechanics conserved, backlinks regenerated |
