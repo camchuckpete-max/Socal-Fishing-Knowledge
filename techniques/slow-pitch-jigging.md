@@ -31,6 +31,8 @@ side. Execution only; species and situations are the reverse map in
   (`7T6dIYqr3KI`). The same source's second-biggest personal catch on SPJ gear
   was a [calico bass](../species/calico-bass.md) — see that note's evidence
   for the catch.
+  ⚠ Fact-check (contradicted-by-source): the source hedges this as "probably
+  the second biggest if not the biggest," not a flat statement.
 - Contrast with [knife/speed jigging](knife-jigging.md): SPJ works the fall;
   speed jigging rips a slender jig up through the column to imitate a *fleeing*
   bait. Different jigs, different strikes.
@@ -86,6 +88,9 @@ side. Execution only; species and situations are the reverse map in
   low-frequency thud fish can hear and feel via the lateral line, which reads
   as curiosity-triggering rather than a warning — the mechanism behind the
   bounce-the-bottom habit in Reading the drop, below (`-nIhadZwxAA`).
+  ⚠ Fact-check (single-source): a precise fish-hearing-range figure resting
+  on one East Coast/Gulf-sourced seminar, no independent SoCal/Baja
+  corroboration.
 - **Boat control, best to worst for keeping the jig vertical:** a boat locked
   in place electronically (Power-Pole, Minn Kota, spot-lock trolling motor)
   beats a sea anchor, which beats a free drift — free-drifting is the hardest
@@ -194,7 +199,11 @@ line kills the fall action the whole method is built on.
     **280 g (~10 oz)** jig. Both jigs carried dual "dancing stinger" assists
     front and back for yellowtail/tuna; for rockfish, the tail hook was pulled
     off entirely to stop it from snagging bottom — a different route to the
-    same never-cross-hooks goal as the on-bottom/suspended rule below. A
+    same never-cross-hooks goal as the on-bottom/suspended rule below.
+    ⚠ Fact-check (contradicted-by-source): the source describes the dual
+    dancing-stinger assists only for the 250 g jig; it does not establish the
+    same hook setup for the 280 g/450 g-rod jig, so "both jigs" overstates
+    the source. A
     padded lure wrap around the jig in transit keeps it from rattling loose
     and denting the exposed carbon blank (`7T6dIYqr3KI`).
 - **Reel:** small, narrow, high-speed conventional, single- or two-speed. A
