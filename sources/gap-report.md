@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2458 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
+_Totals: 2462 flagged gaps, 368 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -3227,6 +3227,13 @@ _Totals: 2458 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/northwest-harbor.md**
+  - `Getting there`: gap — run time and distance from a named departure
+  - `Structure & bathymetry`: gap — charted depth for the harbor, its bottom
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — whether the harbor holds squid or hard bottom at all |
+  - `How it fishes`: gap — how the anchor is set and where, what wind
 - **locations/oceanside-ar-2l.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
