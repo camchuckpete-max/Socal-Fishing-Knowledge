@@ -34,6 +34,8 @@ note owns the rig and the cadence.
   small soft bait — a **ZMan finesse TRD** is a favorite because the elastic
   plastic **stretches and survives — you can catch 50 fish on one bait**
   (`um5MAeCjNDg`), which matters when the back bay hands you fish after fish.
+  ⚠ Fact-check (single-source): the 50-fish-per-bait durability figure comes
+  from one video only, no other corpus source corroborates it.
 - The TRD has a **top and a bottom**: it is **slightly thinner toward the top
   and tapers to a thicker bottom** (which helps it sink better), and markings
   on top show where the hook exits. Thread it by **stretching the plastic
@@ -42,10 +44,14 @@ note owns the rig and the cadence.
 - Fish it on **light spinning: 10 lb braid, 8 lb leader, a 4-to-10 lb rod**
   (`um5MAeCjNDg`). The fish aren't giants — if you hook a big one, **let it run
   and play it out** on the light tackle.
+  ⚠ Fact-check (single-source): this exact braid/leader/rod-rating combo
+  comes from one video only, no other corpus source corroborates it.
 - **A second combo for the same TRD-on-Ned-head presentation:** a 6'6"
   medium-heavy, fast-action spinning rod (rated 8–15 lb line, 3/16–3/4 oz lure
   weight) and a 2500-class spinning reel, 10 lb mainline to a 10 lb
   fluorocarbon leader (`6L8nIFeqvkw`).
+  ⚠ Fact-check (single-source): this specific rod/reel/leader spec comes from
+  one video only, no other corpus source corroborates it.
 
 ## Cadence — and watch the line
 
@@ -94,6 +100,8 @@ note owns the rig and the cadence.
   line outright. Contrasts with a heavier-tackle habit (65 lb braid to 15 lb
   fluorocarbon, drag near max, swing hard on the bite) that doesn't transfer
   to this finesse gear (`6L8nIFeqvkw`).
+  ⚠ Fact-check (single-source): the 7–8 lb drag figure on 10 lb line comes
+  from one video only, no other corpus source corroborates it.
 - **Learn the difference between bottom contact and a bite** by keeping the
   bait on the bottom and feeling out the normal nicks, bumps, and scrapes of
   rock and eelgrass — a bite reads as the bait suddenly *not* touching bottom
