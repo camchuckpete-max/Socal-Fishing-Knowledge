@@ -48,13 +48,24 @@ in **Linked from**.
   [deep-drop swordfish](deep-drop-swordfishing.md) territory instead
   (`gimFbgN5Jjk`). A documented outlier: a bite at roughly 90 fathoms
   (~540 ft) in the Sea of Cortez — worth noting, not worth planning around
-  (`gimFbgN5Jjk`).
+  (`gimFbgN5Jjk`). ⚠ Fact-check (contradicted-by-source): the transcript
+  states the outlier depth as "almost 600 feet," not the ~540 ft this note
+  derives by converting 90 fathoms at 6 ft/fathom — the source's own spoken
+  estimate is looser than the note's computed figure.
+
+  ⚠ Fact-check (contradicted-internal): front-matter `depth_band` states
+  "commonly 150–350 ft; documented from 100 ft to a 540 ft outlier," but this
+  bullet's own confident zone is 150–240 ft (workable to 300 ft) and no
+  passage in this note documents a 100 ft floor (`gimFbgN5Jjk`).
 - Gear scales by rail crowding, not just the fish. Sportboats (~70% of SoCal
   trips) put a social floor under tackle weight — fishing lighter than the
   rail around you tangles on a crossed fish, so gear effectively matches the
   boat, not the ideal presentation. Private/4- to 6-pack boats remove that
   constraint; scale down there, especially for the more gear-shy daytime bite
-  (`Et2TUskzCSs`).
+  (`Et2TUskzCSs`). ⚠ Fact-check (single-source): the ~70% sportboat-share
+  figure is one speaker's own estimate ("about 30% of people... owns private
+  boats... about 70%... goes into the sport fishing boats"), uncorroborated
+  elsewhere, and it sets the framing for this whole gear-scaling bullet.
 - Bite timing flips day vs. night, which is why tackle should too. At night
   roughly 70% of bluefin bites come on the fall — a fall-triggered bite even
   on a mechanically-worked speed jig ("when that jig stops, it's game on").
@@ -62,7 +73,10 @@ in **Linked from**.
   mechanism this technique is built around. Night tackle can run
   heavier/thicker because fish are less leader-shy in the dark; day tackle
   scales down — thinner line, smaller jigs, more refined presentation
-  (`Et2TUskzCSs`).
+  (`Et2TUskzCSs`). ⚠ Fact-check (single-source): the 70%-on-the-fall figure
+  and its daytime-flip counterpart are this one speaker's own numbers,
+  uncorroborated elsewhere, and drive the night/day tackle-stiffness split
+  stated here.
 
 ## Mechanics
 
@@ -76,11 +90,16 @@ in **Linked from**.
   depends on which rail you're fishing.** From the bow, throw up-current, let
   the jig sink straight down, and walk back toward the stern as it settles —
   dropping with the crowd off the stern instead lets the line scope out, so a
-  300 ft mark can leave the jig only ~80 ft down (`Ul5FLB2dFgQ`). From the
+  300 ft mark can leave the jig only ~80 ft down (`Ul5FLB2dFgQ`). ⚠ Fact-check
+  (contradicted-by-source): no mention of scoping out, the stern, or an 80 ft
+  figure appears anywhere in `Ul5FLB2dFgQ`. From the
   stern, cast down-swell (or downwind) so the boat drifts onto the jig by the
   time it reaches the bite zone; fish from the very front or very back of the
   boat, never midship — midship blocks the path around the bow or stern once
-  a fish is on (`UfuiWFVvz2E`, `G1YIlakiRqg`). Cast distance follows
+  a fish is on (`UfuiWFVvz2E`, `G1YIlakiRqg`). ⚠ Fact-check
+  (contradicted-by-source): `G1YIlakiRqg` conditions this on the wind blowing
+  at the angler's back, not as an unconditional never-midship rule. Cast
+  distance follows
   conditions, not a fixed number: a fast wind-driven drift needs a long
   downwind cast to give the jig time to sink; a flat-calm, slow drift needs
   as little as 20–30 ft, since a long cast on a slow day scopes the jig out
@@ -89,7 +108,10 @@ in **Linked from**.
 - **More jigs working the water reads to the fish as a moving bait school.**
   Five idle rods on the rail don't produce the same draw as five worked
   jigs — participation is framed as mattering most at night, though it helps
-  by day too (`UfuiWFVvz2E`).
+  by day too (`UfuiWFVvz2E`). ⚠ Fact-check (contradicted-by-source): the
+  source hedges this ("the five, sometimes it'll work, sometimes it
+  doesn't") and frames it as several anglers jigging together looking like a
+  bait school, not an idle-rods-vs-worked-rods contrast.
 - The short parabolic jigging rod lets the jig **dart** and gives leverage to
   fight a big fish with less angler fatigue than a rail rod.
 - **The coordinated stroke:** on the down-stroke, drop the jig; on the
@@ -130,7 +152,9 @@ in **Linked from**.
   see [knife jigs](../lures/knife-jigs.md) (`Ul5FLB2dFgQ`).
 - **Reaction time on the fall decides whether a bite converts.** Roughly 80%
   of night bluefin bites happen while the lure is sinking (`G1YIlakiRqg`),
-  consistent with the 70%-on-the-fall figure above. Hold the rod butt tucked
+  consistent with the 70%-on-the-fall figure above. ⚠ Fact-check
+  (single-source): one speaker's figure, uncorroborated elsewhere, and it is
+  the stated reason for the rod-hold technique that follows. Hold the rod butt tucked
   under the left armpit, right-hand fingers resting lightly on the spool
   during free-spool — just enough tension to prevent a backlash without
   slowing the drop — and the right thumb resting on the reel's
@@ -172,6 +196,9 @@ in **Linked from**.
   or stops on the drop, work the jig through that zone, and drop back to the
   same color to return to it. 100 ft marks are fine when there's a depth
   reference (bottom, or a captain's call) and light current (`t0kkwlrNwHk`).
+  ⚠ Fact-check (contradicted-by-source): the source states only "very
+  little current" as the condition; the "(bottom, or a captain's call)"
+  depth-reference parenthetical is not stated.
 - **Failing to mark line at all is the single most common beginner
   mistake** — a fish holding at 350 ft will not eat a jig worked at 250 or
   550 ft (`UP_3fBu7VPA`). Without marked line, three fallback methods are
@@ -181,7 +208,13 @@ in **Linked from**.
   100 ft) and Sharpie the line at that interval before the trip
   (`fgTmUq78ofQ`, `eehDVb6_GoI`); or, with no marked line at all, count a
   slow ("Mississippi") count — roughly 1 second per 10 ft of fall, so fish
-  called at 170 ft is a count to "17" (`gimFbgN5Jjk`).
+  called at 170 ft is a count to "17" (`gimFbgN5Jjk`). ⚠ Fact-check
+  (contradicted-by-source): `UP_3fBu7VPA` frames the 3 ft figure as its own
+  speaker's personal (and shorter-than-usual) reach, not a stated "average."
+  ⚠ Fact-check (contradicted-by-source): `fgTmUq78ofQ` says "cul-de-sac,"
+  not "driveway," and its 100 ft figure there is the speaker's own
+  reel-filling interval, not a home-measuring instruction — this conflates
+  two different parts of that source's transcript.
 - **Thumb tension on the drop keeps the jig vertical** — counterintuitive
   but effective for either speed or slow-pitch jigging. Light drag on the
   spool as the jig falls keeps it vertical instead of scoping out, shooting
@@ -232,7 +265,16 @@ in **Linked from**.
   microbait, sized down to 35–60 g through the June–August microbait window
   (see [bluefin tuna](../species/bluefin-tuna.md#where--when)), then back up
   to 400–500 g in windy fall conditions (`UfuiWFVvz2E`, `LsFMBCa9DOQ`,
-  `qLKLlZdiflA`).
+  `qLKLlZdiflA`). ⚠ Fact-check (contradicted-by-source): `qLKLlZdiflA` is the
+  actual source of the full seasonal progression (80–100 g early season,
+  35–60 g June–August, up to 400–500 g windy fall); `LsFMBCa9DOQ` contains no
+  seasonal progression at all — only an in-trip August weight comparison
+  ("500 g rip rollers" vs. others' "250 or 350") that instead matches the
+  "up to 500 g on a windy, hard-drifting night" clause earlier in this same
+  bullet; and `UfuiWFVvz2E` supports only the night floor (300 g minimum,
+  250 g for experienced anglers) — not the 150–400 g baseline range, the
+  ~220 g upper-column figure, or the up-to-500 g windy-night figure this
+  citation cluster is attached to.
 - **The "Eddie bomb":** the bluntest tool in the same lineup — a
   wire-through 16 oz sinker with a treble hook on the bottom and a bite
   leader. Multiple 200 lb night bluefin have come on a straight sinker; it's
@@ -285,7 +327,10 @@ boat-driven landing method for trolled/kited/flylined bluefin in
   jig tackle. A drag set to read, say, 25 lb on a scale at home is not what
   the fish feels at the hook — bending the rod and stretching the line each
   consume a chunk of that pressure before it reaches the fish, "well over"
-  5 lb off a 25 lb setting. Pointing the rod tip directly at the fish's nose
+  5 lb off a 25 lb setting. ⚠ Fact-check (contradicted-by-source): the
+  90%-of-the-fight rod-tip figure is verbatim in `Et2TUskzCSs`, but the
+  "well over 5 lb off a 25 lb setting" figure does not appear anywhere in
+  that transcript. Pointing the rod tip directly at the fish's nose
   instead of lifting into a bend removes most of that loss and keeps the
   fish from turning broadside, where its body gains extra water
   resistance — framed as leverage, not finesse or brute force. It's also
@@ -322,7 +367,9 @@ transmit the rip that makes this presentation work.
   (≈110 lb) of pulling power at a 60° rod angle** despite a slow action,
   because the blank loads and bends all the way through to the butt; fishing
   it flat on the rail throws away roughly half the rod's power, so fish it
-  in hand, not racked (`Ul5FLB2dFgQ`). A slower-action, small-diameter
+  in hand, not racked (`Ul5FLB2dFgQ`). ⚠ Fact-check (single-source): a
+  striking, precise capacity figure from one demo, uncorroborated elsewhere
+  in the corpus. A slower-action, small-diameter
   blank — nicknamed a "trout pole" for its light-tackle look — carries far
   more fighting power than it appears to, provided the angler keeps the rod
   at 60° or lower and doesn't bounce or high-stick the fish; an ultralight
@@ -330,7 +377,14 @@ transmit the rip that makes this presentation work.
   offshore tuna trip on that logic. The mechanism: the rod's slower action
   works as a shock absorber that keeps the hook pinned without
   high-sticking, while the actual fighting load is carried by the reel's
-  drag, not the rod (`GeydGK-62fw`, `ZrcwcugaEe4`, `bB8zs0lXvvo`).
+  drag, not the rod (`GeydGK-62fw`, `ZrcwcugaEe4`, `bB8zs0lXvvo`). ⚠
+  Fact-check (contradicted-by-source): `GeydGK-62fw` (a 48-second clip)
+  contains none of this — no braid weight, yellowtail weight, jig weight, or
+  offshore-trip mention. `bB8zs0lXvvo` confirms the 32 lb yellowtail/60 g
+  jig catch and the 60° mechanism but never states a braid weight; only
+  `ZrcwcugaEe4` carries the full claim, including the ~30 lb braid figure
+  (inferred from "this outfit" referencing an earlier-stated 30 lb-braid
+  rig in that same video).
   Tackle-shop shorthand recommends a **1x, 2x, or even 3x-rated rail rod**
   for this style — a heavier "X" rating generally helps, without a stated
   mechanism beyond that (`6_E5JCRvazc`).
@@ -369,7 +423,11 @@ transmit the rip that makes this presentation work.
   and a single-speed reel in 15 minutes — both faster than anglers on the
   same trip fishing heavier 100–130 lb braid on 450–500 g jigs at the same
   depth, whose heavier line put more scope/belly in the water for the extra
-  weight (`ZrcwcugaEe4`). Documented night-class floors from other sources
+  weight (`ZrcwcugaEe4`). ⚠ Fact-check (contradicted-by-source): the 6-minute
+  and 15-minute fight times are verbatim in `ZrcwcugaEe4`, but that
+  source's own 100–130 lb/450–500 g comparison is about reaching the strike
+  zone faster (sink rate), not about fight time — the source never compares
+  fight duration between the two setups. Documented night-class floors from other sources
   sit within this same 65–150 lb range: a minimum of 80 lb (80–100 lb
   recommended) with leader to 200 lb for the night bite specifically, since
   night fish can run anywhere from ~20 lb schoolies to 200 lb+ cows on the
@@ -419,7 +477,11 @@ transmit the rip that makes this presentation work.
   on different trips) — where a bulky knot's resistance through the guides
   on the retrieve is the deliberate warning sign to slow down before it
   winds into the rod tip and cracks the guide (`gevNj2Y1Ep8`,
-  `-MP2RqJC7B0`).
+  `-MP2RqJC7B0`). ⚠ Fact-check (contradicted-by-source): `gevNj2Y1Ep8`
+  documents only a 10 ft leader for this no-crimp/no-swivel jig connection —
+  the 6 ft figure belongs to a separate fly-line setup discussed elsewhere
+  in that same video. `-MP2RqJC7B0` states a "six to eight foot leader," not
+  10 ft.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender
   profiles.
 
@@ -429,7 +491,11 @@ speed-up-not-slow-down bite response, and a secondhand SoCal starter build
 (Phoenix Megalodon 607, Shimano Trinidad 20A, a short mono top shot straight to
 the jig) live in
 [yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
-(`M8hOYQ_6rSg`, `LTCFjqtSI8g`).
+(`M8hOYQ_6rSg`, `LTCFjqtSI8g`). ⚠ Fact-check (contradicted-by-source):
+`LTCFjqtSI8g` contains no Sea of Cortez 150–350 g jig-weight progression at
+all (only `M8hOYQ_6rSg` supports that figure), and it presents the Phoenix
+Megalodon 607 / Shimano Trinidad 20A build as new/current gear, not
+"secondhand."
 
 A separate night deep-drop rig for bluefin marked to ~400 ft (a wired-through
 weighted jig body, not a slender knife profile) and a speed/fast-pitch
