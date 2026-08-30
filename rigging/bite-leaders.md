@@ -121,6 +121,7 @@ Per-source provenance: [evidence file](evidence/bite-leaders.md).
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
+- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

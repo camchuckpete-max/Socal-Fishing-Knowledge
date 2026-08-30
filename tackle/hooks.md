@@ -596,6 +596,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Pacific Bonito](../species/bonito.md)

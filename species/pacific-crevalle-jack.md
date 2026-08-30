@@ -204,6 +204,7 @@ Trip reports and per-source provenance:
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [La Paz](../locations/la-paz.md)
+- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

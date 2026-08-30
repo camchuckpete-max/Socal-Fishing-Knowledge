@@ -358,6 +358,7 @@ Trip reports and per-source provenance:
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)
+- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Middle Grounds](../locations/middle-grounds.md)

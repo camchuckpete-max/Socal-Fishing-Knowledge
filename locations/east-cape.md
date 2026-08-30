@@ -338,11 +338,13 @@ the zone's headline program cannot be rigged from this page — only from
 
 ## Spots
 
-**No place in this zone has a public name plus a charted position in the KB, so
-no spot pages hang below it.** The named grounds on record are:
+**No place in this zone carries a charted position in the KB, and only one has
+a public name of its own** — [Lighthouse Point](lighthouse-lighthouse-point.md),
+which has a page; the rest stay on this page. The named grounds on record are:
 
-- **The lighthouse (Lighthouse Point)** — the zone's one properly named ground
-  and its beach fishery: a drop very close to shore holding sharks, roosterfish,
+- **The lighthouse ([Lighthouse Point](lighthouse-lighthouse-point.md))** — the
+  zone's one properly named ground and its beach fishery: a drop very close to
+  shore holding sharks, roosterfish,
   jacks, cabrilla, dorado and reportedly yellowfin, all fishable by surf-casting,
   and called one of the operation's main spots (`mL4Ph7t0WcQ`). The structure
   itself is put at built in the **1980s** (`mL4Ph7t0WcQ`). The same beach
@@ -377,10 +379,11 @@ never named in any of the eleven sources — the corpus knows this zone only as
 names.
 
 All of the above are logged in [the spot harvest](../sources/spot-harvest.md)
-for the gazetteer rather than minted as pages, because none carries a position.
+for the gazetteer; only the lighthouse was minted as a page, because it is the
+only one with a public name, and none of them carries a position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Lighthouse Point (the lighthouse)](lighthouse-lighthouse-point.md)
 <!-- children:end -->
 
 ## Evidence
@@ -394,6 +397,7 @@ Trip reports and per-source provenance:
 
 - [Cortez South](cortez-south.md)
 - [Evidence — East Cape](evidence/east-cape.md)
+- [Lighthouse Point (the lighthouse)](lighthouse-lighthouse-point.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)

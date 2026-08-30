@@ -293,6 +293,7 @@ shortages, where the barge isn't an option.
 - [Isla Espíritu Santo](../locations/isla-espiritu-santo.md)
 - [La Jolla](../locations/la-jolla.md)
 - [La Paz](../locations/la-paz.md)
+- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North Point](../locations/north-point.md)
