@@ -40,7 +40,11 @@ Speed is scaled to what's in the tank, not fixed to a target species
 - **Small-grade sardine** (the kind that needs a size 1 or 2 hook) — go **as
   slow as you possibly can**; a small bait can't swim against much speed.
 - **Mackerel, or any bait big enough for a 3/0–5/0 hook** — pull it **faster**
-  within the range.
+  within the range. ⚠ Fact-check (contradicted-by-source): `HTowqnwAMeA`
+  states this faster-pull trigger as bait large enough for a "40 or 50"
+  (4/0–5/0) hook — 3/0 is not given as this bullet's lower bound in the
+  source, though it is separately the note's stated default working hook
+  size elsewhere.
 
 The test is the bait, not the speedometer: watch it swim, and slow down the
 moment it starts reading as dragged rather than swimming (`HTowqnwAMeA`).
@@ -94,7 +98,11 @@ boat's behavior, not the tackle (`HTowqnwAMeA`).
   10, 30, and 50 to match whatever bait size is on the dock that day — full
   hook detail in
   [hooks](../tackle/hooks.md#owner-ringed-offshore-hook--cedros-mackerelsardine-slow-troll-sizing-by-bait-size-tackle-express-_c7tjogt0nw-2025-09-26-unregistered-channel--medium-confidence-region-baja-pacific-cedros-island)
-  (`_C7TJoGT0nw`).
+  (`_C7TJoGT0nw`). ⚠ Fact-check (contradicted-internal): the linked
+  [hooks](../tackle/hooks.md) note reads this same source's hook sizes as
+  1/0, 3/0, and 5/0 (standard hook notation) rather than literal sizes
+  10/30/50; the source's ASR renders the numbers ambiguously and neither
+  note flags the ambiguity.
 
 ## Common failures
 
