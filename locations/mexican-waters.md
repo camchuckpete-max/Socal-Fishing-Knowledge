@@ -123,6 +123,7 @@ Trip reports and per-source provenance:
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [Geronimo Island](geronimo-island.md)
+- [Gonzaga Bay](gonzaga-bay.md)
 - [Guadalupe](guadalupe.md)
 - [Hancock Bank](hancock-bank.md)
 - [Honeymoon Bay](honeymoon-bay.md)

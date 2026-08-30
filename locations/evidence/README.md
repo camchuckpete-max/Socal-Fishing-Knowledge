@@ -39,6 +39,7 @@
 - [Evidence — Desperation Reef](desperation-reef.md) — The observation layer behind Desperation Reef.
 - [Evidence — East Cape](east-cape.md) — The observation layer behind East Cape.
 - [Evidence — Ensenada](ensenada.md) — The observation layer behind Ensenada.
+- [Evidence — Gonzaga Bay](gonzaga-bay.md) — Trip reports and per-source provenance behind Gonzaga Bay.
 - [Evidence — Guadalupe](guadalupe.md) — The observation layer behind Guadalupe.
 - [Evidence — Imperial Beach](imperial-beach.md) — The observation layer behind Imperial Beach.
 - [Evidence — International Artificial Reef](international-artificial-reef.md) — The observation layer behind International Artificial Reef.
@@ -72,5 +73,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 62 notes exceed the 30-node cap._
+_Map skipped: 63 notes exceed the 30-node cap._
 <!-- mermaid:end -->

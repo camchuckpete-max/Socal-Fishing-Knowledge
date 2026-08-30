@@ -399,3 +399,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T04:14:29Z — locations/desperation-point.md — guard-violation
 - run: 33291144882
 - reason: commit d1f56e3c5b58e6a1d31a5de7e82077fea4e4b80b reverted: out of scope for 'review: locations/desperation-point.md': locations/san-clemente-island-back-side.md
+
+## 2026-08-30T06:19:43Z — locations/gonzaga-bay.md — ladder-rung + cross-note-misattribution
+- run: 33296071116
+- reason: (1) Ladder: Gonzaga Bay is bay-scale like Bahia de los Angeles (which is type: zone), but was queued as a spot row and the census derived no zone for it, so the page parents straight to the region locations/cortez-north.md — Cameron to decide whether it should be promoted to type: zone. Same open question already standing on locations/sea-of-cortez.md (parent: unknown) and on la-bocana / ridge-uncle-sam-bank. (2) Stale prose: locations/cortez-north.md still carries Gonzaga Bay under 'Named grounds the census derives no zone for' as a flagged stub — the page now exists. (3) Cross-note: species/cabrilla.md and species/evidence/cabrilla.md file the 0dNfsle54Wo day (5-10 lb grade, 15s, the 17 lb spring-scale best, the foam stops) as a Bahia de los Angeles trip, but the video narrates 'today we're at Gonzaga Bay' and ts9rJgxjmSg has the mothership running there overnight; ledgered as contradicted-internal, router out of scope for a gazetteer unit.

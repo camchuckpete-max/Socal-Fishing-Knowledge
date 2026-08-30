@@ -856,6 +856,7 @@ ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)

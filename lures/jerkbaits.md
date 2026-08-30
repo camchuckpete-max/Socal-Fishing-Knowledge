@@ -113,6 +113,7 @@ file](evidence/jerkbaits.md).
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Jerkbaits (Baja Cabrilla Program)](evidence/jerkbaits.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

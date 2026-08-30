@@ -311,6 +311,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Imperial Beach](../locations/imperial-beach.md)

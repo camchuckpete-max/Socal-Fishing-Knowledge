@@ -601,6 +601,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Evidence — Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/evidence/searcher-four-outfit-guadalupe-quiver.md)
 - [Evidence — Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip](../tackle/evidence/searcher-three-outfit-minimum-quiver.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](knife-jigs.md)

@@ -234,6 +234,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — LA - 270 / 286](../locations/evidence/la-270-286.md)
 - [Evidence — Sea State](evidence/sea-state.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Honeymoon Bay](../locations/honeymoon-bay.md)

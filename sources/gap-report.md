@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2502 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
+_Totals: 2507 flagged gaps, 377 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -2521,6 +2521,16 @@ _Totals: 2502 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/gonzaga-bay.md**
+  - `(lead)`: gap — a **zone rung** between this page and the
+  - `Getting there`: gap — the ramp's position or name, fuel or water
+  - `Structure & bathymetry`: gap — any coordinate, sounding, chart or sounder
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — a water temperature, a moon or tide window,
+  - `How it fishes`: gap — mechanism for any of it — why the foam
 - **locations/green-tank.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.

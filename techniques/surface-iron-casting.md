@@ -282,6 +282,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron-ca
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Clearing a Backlash](clearing-a-backlash.md)
 - [Evidence — Surface Iron — The Cast](evidence/surface-iron-casting.md)
+- [Gonzaga Bay](../locations/gonzaga-bay.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
