@@ -202,7 +202,11 @@ class's colors, scents and construction live in
   and an all-purpose **island rod fished in the middle of its line rating**
   covers calicos, whitefish and sheephead off the same structure
   (`7L7OVoXE7KU`, `DfLcSS-J3g4`) — see
-  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md).
+  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md). For
+  the chummed light-line reef program, drop to light spinning or a small
+  level-wind with the hook tied straight to the line, no swivel or beads — the
+  light-line finesse rig in [chunking](../techniques/chunking.md). See
+  [gear classes](../tackle/gear-classes.md).
   ⚠ Fact-check (contradicted-internal): both transcripts frame the island rod as
   a **second** stick you "double up with" alongside the all-purpose 30 lb bait
   stick, not as the all-purpose rod itself, and neither states the island rod's
@@ -211,11 +215,7 @@ class's colors, scents and construction live in
   so explicitly ("Neither source gives the island rod's own rating or line
   class, only its species job"), while this line attaches the
   middle-of-the-rating rule to it. Neither source says "off the same
-  structure". For
-  the chummed light-line reef program, drop to light spinning or a small
-  level-wind with the hook tied straight to the line, no swivel or beads — the
-  light-line finesse rig in [chunking](../techniques/chunking.md). See
-  [gear classes](../tackle/gear-classes.md).
+  structure".
 - **Terminal:** a small slider weight and a small thin-wire hook in a stealth
   finish for the chummed reef program (`OSbAHdB4uPs`, `yKaHcxX46l4`) — the
   weight ceiling, hook sizes and finish rule are in
