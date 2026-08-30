@@ -51,6 +51,14 @@ A breezer is also called a **"boiler,"** and has a choppy-water counterpart —
 see [surface sign vocabulary](../planning/search-and-glassing.md#surface-sign-vocabulary)
 for the "flat spot" read, the same near-surface fish flattening the chop
 instead of rippling calm water (`91ZJbhAnzMg`).
+⚠ Fact-check (contradicted-by-source): in `91ZJbhAnzMg`, "boiler" is given as
+a synonym for the whitewater-breaking **foamer** ("fish up on top boiling...
+we call that a boiler or a foamer"), a distinct sign from the calm-water
+**breezer** ("fish very close to the surface... making a ripple") — the cited
+transcript does not equate breezer with boiler. The linked
+[surface sign vocabulary](../planning/search-and-glassing.md#surface-sign-vocabulary)
+section, citing the same source, keeps "boiler / foamer" and "breezer" as two
+separate entries, so this line also disagrees with that note.
 
 ## Timing
 
