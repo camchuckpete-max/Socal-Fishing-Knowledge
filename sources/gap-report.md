@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2513 flagged gaps, 379 flagged stubs, 1053 unknown infobox values._
+_Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -3043,6 +3043,13 @@ _Totals: 2513 flagged gaps, 379 flagged stubs, 1053 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/lopez-mateos-magdalena-bay-boca.md**
+  - `Getting there`: gap — a distance, bearing or heading to the mark;
+  - `Structure & bathymetry`: gap — the bottom composition, the width or extent
+  - `What's there`: flagged stub row
+  - `What's there`: gap — names another species at this mark. The bay's headline fisheries — [striped marlin](../species/striped-marlin.md), [wahoo](../species/wahoo.md), [dorado](../species/dorado.md), tuna — are run *through* the boca to water outside it, never fished at it ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
+  - `What's there`: gap — forage at the boca, water temperature or
+  - `How it fishes`: gap — a tide, current, moon or light window for
 - **locations/loreto.md**
   - `Getting there`: gap — closures, protected areas, park boundaries or
   - `Getting there`: gap — what it costs to fish here — no panga day
