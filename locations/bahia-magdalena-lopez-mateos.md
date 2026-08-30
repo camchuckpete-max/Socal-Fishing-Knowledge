@@ -282,6 +282,7 @@ logged in [the spot harvest](../sources/spot-harvest.md) for the gazetteer
 rather than written up as pages here.
 
 <!-- children:start -->
+- [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
 <!-- children:end -->
 
@@ -296,6 +297,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](evidence/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)

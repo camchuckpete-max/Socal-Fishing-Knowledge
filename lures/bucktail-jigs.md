@@ -63,5 +63,6 @@ file](evidence/bucktail-jigs.md).
 ## Linked from
 
 - [Evidence — Bucktail Jigs](evidence/bucktail-jigs.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->

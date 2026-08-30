@@ -138,6 +138,7 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Lower Cross](lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md)
 - [Middle Grounds](middle-grounds.md)
 - [North Point](north-point.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

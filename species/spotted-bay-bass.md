@@ -366,6 +366,7 @@ Trip reports and per-source provenance:
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [La Bocana Estuary (the Estero), Baja California Sur](../locations/la-bocana-estuary-baja-california-sur.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

@@ -1044,6 +1044,7 @@ covered above, not a new tool.
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Making Bait](../bait/making-bait.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [Middle Grounds](../locations/middle-grounds.md)

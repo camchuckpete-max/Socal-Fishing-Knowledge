@@ -262,6 +262,7 @@ Trip reports and per-source provenance:
 - [Honeymoon Bay](honeymoon-bay.md)
 - [Isla Monserrat — north end](isla-monserrat-north-end.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md)
 - [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Punta Perico](punta-perico.md)
 - [Sea of Cortez](sea-of-cortez.md)

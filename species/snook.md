@@ -256,6 +256,7 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 - [Evidence — Snook (Robalo)](evidence/snook.md)
 - [Evidence — Snook (Robalo) — sliding sinker](evidence/snook-sliding-sinker.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

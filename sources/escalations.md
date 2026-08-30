@@ -391,3 +391,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T03:30:14Z — locations/la-bocana-estuary-baja-california-sur.md — worker-escalate + verify-escalate
 - run: 33289281861
 - reason: Ladder rung: the Estero is a sub-feature of the La Bocana camp, but the camp is itself type: location (a spot, not a container rung), so the child parents past it to the region page baja-pacific-south.md and the camp/estuary relation is carried in prose only. Cameron should decide whether La Bocana warrants a zone rung, or whether the Estero should be a section of locations/la-bocana.md instead of a sibling page. Minor: locations/la-bocana.md still reads 'queued as its own page' and has no inline forward link to the now-published child.
+
+## 2026-08-30T03:40:21Z — locations/magdalena-bay-estuary-channel.md — stale-parent-crossref
+- run: 33290531286
+- reason: locations/bahia-magdalena-lopez-mateos.md Spots section still states 'No ground in this zone has a charted position in the KB, so no spot pages hang below it' and lists no estuary-channel bullet, but two spot pages now hang below it (the-ridge.md and this page). Parent prose is out of scope for a gazetteer unit (only the generated children block may change), so the correction needs a zone-page pass.

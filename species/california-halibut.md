@@ -381,6 +381,7 @@ Trip reports and per-source provenance:
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Point Loma](../locations/point-loma.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

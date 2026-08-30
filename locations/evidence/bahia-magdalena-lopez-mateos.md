@@ -212,6 +212,7 @@ local guide Reuben.
 ## Linked from
 
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../magdalena-bay-estuary-channel.md)
 - [The Ridge (Magdalena Bay)](../the-ridge.md)
 - [Thetis Bank](../thetis-bank.md)
 <!-- backlinks:end -->

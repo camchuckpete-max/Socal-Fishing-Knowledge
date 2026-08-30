@@ -243,6 +243,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Paz](../locations/la-paz.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Northwest Harbor](../locations/northwest-harbor.md)
 - [November–December](../seasonal/november-december.md)

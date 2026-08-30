@@ -250,6 +250,7 @@ file](evidence/gear-classes.md).
 - [Lingcod — jigging](../species/lingcod-jigging.md)
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Mad Mac](../lures/mad-mac.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Ned Rig](../techniques/ned-rig.md)

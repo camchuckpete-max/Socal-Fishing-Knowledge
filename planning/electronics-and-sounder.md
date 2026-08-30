@@ -361,6 +361,7 @@ Trip reports and per-source provenance:
 - [La Jolla](../locations/la-jolla.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)

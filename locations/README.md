@@ -295,6 +295,7 @@
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
 - [The "lower banks"](lower-banks.md) **[Baja only]** — [Baja only] — The San Diego long-range fleet's giant-tuna ground, and the heaviest grade of fish anywhere in this KB.
 - [Lower Cross](lower-cross.md) **[Baja only]** — A zone is a run grouping.
+- [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md) **[Baja only]** — [Baja only] — the middle depth band of Magdalena Bay: the 25–30 ft channel running past the mangrove edge, between the 2–15 ft root program inside the mangroves
 - [Mail Point](mail-point.md) **[SoCal only]** — A charted spot at 32°52.760'N 118°31.290'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
@@ -463,5 +464,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 450 notes exceed the 30-node cap._
+_Map skipped: 451 notes exceed the 30-node cap._
 <!-- mermaid:end -->

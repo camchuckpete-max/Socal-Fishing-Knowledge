@@ -853,6 +853,7 @@ confidence.
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)

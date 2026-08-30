@@ -144,6 +144,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Moon](moon.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
