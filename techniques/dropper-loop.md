@@ -181,7 +181,13 @@ under the boat — casting it away from the boat carries the bait off the fish
   (`F0g5r9Rkrd4`); that note's hookset is wind-only, no swing, while this one
   calls for an active two-crank-and-lift set below — the grip repeats, the
   hookset does not, kept side by side rather than reconciled. Holding the
-  rod any other way means missing bites that come on the drop.
+  rod any other way means missing bites that come on the drop. ⚠ Fact-check
+  (contradicted-internal): [drag setting](../tackle/drag-setting.md) itself
+  attributes this note's repeat of the grip to `OIqdmhKfuOc` ("the same
+  index-on-spool/thumb-on-trigger grip is repeated in the dropper loop
+  deploy walkthrough (`OIqdmhKfuOc`)"), not `F0g5r9Rkrd4`; `OIqdmhKfuOc` does
+  independently contain the identical "index finger on the spool thumb on
+  the trigger left hand in front of the reel" phrasing.
 - **Detecting bottom:** the line stops paying out once the sinker reaches
   bottom, confirmed by slack forming at the rod tip. Take a **half crank up**
   off the bottom, then put the reel in gear. Keep re-checking through the
@@ -198,7 +204,12 @@ under the boat — casting it away from the boat carries the bait off the fish
   get horsed). Contrast the circle-hook no-swing set in the rock-cod quick
   gangion below and the slow-steady-wind retrieve in *Fishing it* below
   (`U-dGRQ0X-Mc`) — three different hook/rig combinations on the same rig
-  family, kept side by side rather than reconciled to one retrieve.
+  family, kept side by side rather than reconciled to one retrieve. ⚠
+  Fact-check (contradicted-by-source): the "two cranks and lift up hard"
+  mackerel/fish's-mouth hookset wording matches `OIqdmhKfuOc` ("take two
+  cranks... up hard set that hook drive that hook"; "two cranks pull up
+  hard"), not `U-dGRQ0X-Mc`, which contains only a rockfish slow-steady-wind
+  retrieve with no crank count or lift-hard instruction.
 - **When the mackerel is too strong for the sinker** and keeps dragging the
   weight off bottom, clip a portion of its tail fin (top or bottom lobe)
   with line clippers. It doesn't kill the bait — it still swims and kicks —
@@ -285,7 +296,10 @@ A fast, hands-on-the-rail build for rockfish when the surface bite is off
 (`zVIfArUrpDI`). Captions render the rig name as "quick canyon" throughout —
 an ASR mishearing of the established term **gangion** (a leader with
 dropper-loop hooks), which is what's demonstrably being tied; not carried as
-a separate rig name.
+a separate rig name. ⚠ Fact-check (contradicted-by-source): not consistently
+"quick canyon" — the captions render it as "quick canyon" twice but as
+"rock-cut canyon" once ("and that will be my rock-cut canyon and then i'm
+ready to go").
 
 - **Sinker:** tie an **8 oz torpedo sinker** straight to the end of the main
   line — no separate light-line breakaway, unlike the **24 oz torpedo
