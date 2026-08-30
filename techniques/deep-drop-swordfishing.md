@@ -171,8 +171,19 @@ against a much faster Gulf Stream drift (~2.5–3 kt versus SoCal's ~1–2.5 kt)
 with tip-rod leads running **10–15 lb** (light current to heavy current) and
 a buoy-rod lead of **6–8 lb**, and **long leaders** run out to 60–100 ft
 instead of SoCal's short-leader system, so the fish is kept farther from the
-boat when the weight comes off (`yMiBtZ7k8-w`). Different enough that the
-numbers do not transfer — use the SoCal parameters above for the Bight.
+boat when the weight comes off (`yMiBtZ7k8-w`).
+⚠ Fact-check (contradicted-by-source): Rush Maltz's own confirmed rig
+elsewhere in this source is a **150 ft wind-on with a short 6–7 ft main
+leader** ("we got 150 foot wind on and then ... our six and seven foot main
+leaders," tied to the same speaker turn as his already-flagged 15 lb lead
+above) — comparable in length to SoCal's system, not long. The 60 ft/"a
+buddy ... gone to a hundred foot leader" passage sits in an unlabeled turn
+immediately after Duane's confirmed 35 ft-total SoCal answer, and cannot be
+confidently attributed to either captain from the transcript alone; as
+stated, this contrast's "short SoCal vs. long East-coast leader" framing is
+not what the corpus's one identified East-coast captain describes for
+himself (`yMiBtZ7k8-w`). Different enough that the numbers do not transfer —
+use the SoCal parameters above for the Bight.
 
 <!-- species-applications:start -->
 ## Species applications
