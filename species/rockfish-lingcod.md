@@ -102,6 +102,11 @@ morning — a calm-looking morning can sit behind an extremely rough crossing
   reaction bite in [Feeding triggers](#feeding-triggers). What it means for
   lure choice — carrying the bigger profiles at the outer islands — is in
   [lingcod — jigging](lingcod-jigging.md#when-this-is-the-call).
+  ⚠ Fact-check (single-source): the corpus's only spawning statement for the
+  species — one 2020 seminar line ("depending on what time of the year they're
+  spawning if it lands in their nest they're gonna eat a big profile bait like
+  this") — and load-bearing, since it is the stated reason for carrying the
+  bigger profiles at the outer islands (`iAr6sbRC384`).
 - ⚠ Flagged gap — no corpus source: the months of the lingcod spawn in
   SoCal/Baja, the depths and structure they nest on, and whether the rockfish
   spawn affects the bite at all.
@@ -258,6 +263,10 @@ to year, and Mexican waters are a separate jurisdiction from California.
   Stated from recollection at a live seminar; the surrounding canary-rockfish
   and species-count detail is too garbled in the captions to carry
   (asr-uncertain).
+  ⚠ Fact-check (single-source): one 2020 seminar, given off the cuff as a
+  reminder ("as far as your bag limit don't forget it's 10 rockfish"), is the
+  corpus's only statement of the rockfish daily bag, and the number sits inside
+  a groundfish aggregate CDFW re-sets annually (`iAr6sbRC384`).
 - **Depth-based closure line (California / CDFW, as of 2020-03 — verify the
   current boundary).** The Rockfish Conservation Area line runs at different
   depths along the same stretch of coast — about **240 ft** around the offshore
@@ -266,11 +275,18 @@ to year, and Mexican waters are a separate jurisdiction from California.
   short distance away (`iAr6sbRC384`). Checking position against the drawn
   boundary instead of against the depth reading is a chart workflow — see
   [closure boundaries as a chart layer](../planning/electronics-and-sounder.md#closure-boundaries-as-a-chart-layer).
+  ⚠ Fact-check (single-source): one seminar voice for both depths, and the
+  captions render the island figure as "a two-point winner 40 feet" (read as
+  240 ft); RCA boundaries are re-drawn annually. The chart workflow the bullet
+  teaches does not depend on the numbers (`iAr6sbRC384`).
 - **Depth-limit progression (California / CDFW, as of 2019-02, self-hedged —
   historical only).** A SoCal reopen date of **March 1**, and a depth limit read
   as **300 ft**, held at **350 ft** for "a couple years," then **460 ft**
   effective January 2019, with the presenter saying he "could be totally wrong"
   about the reading (`lF6jQklDCrY`).
+  ⚠ Fact-check (single-source): one 2019 video whose presenter disclaims his
+  own reading; carried because it is the corpus's only account of how the depth
+  line moved (`lF6jQklDCrY`).
 - **Depth allowance varies by season (California / CDFW, as of 2026-04,
   self-hedged — verify current).** The allowance runs from a fully "unlimited"
   status down to the deepest local SoCal boats are said to fish, **about
@@ -280,6 +296,10 @@ to year, and Mexican waters are a separate jurisdiction from California.
   not an independent sighting. See [rockfish deep-dropping — weight & staying
   off the snag](../techniques/rockfish-deep-dropping.md#weight--staying-off-the-snag)
   for the torpedo-sinker sizing this range drives.
+  ⚠ Fact-check (single-source): the figure is hearsay inside that re-cut — "the
+  most that I've ever been told is about 8 to 850" — and describes what boats
+  fish rather than a stated limit, though it sits in a regulatory bullet
+  (`D0bQjAL0gGU`).
 - **Cow Cod Conservation Area (California / Federal, as of 2024-03, describing a
   2023 change, self-hedged — verify the current boundary and depth limit).**
   The CCCA depth restriction loosened to allow fishing to **600 ft with two
@@ -287,10 +307,20 @@ to year, and Mexican waters are a separate jurisdiction from California.
   protected species (`AH4Eiya1Hn0`). A ~20 lb cow cod needs far more descending
   weight than a typical rockfish to reach the bottom alive — an estimated
   **40–80 lb**, or a winch-equipped boat.
+  ⚠ Fact-check (single-source): one 2024 seminar, and a subscription-site pitch
+  (low confidence under the rubric), for the 600 ft / two-hook / no-retain
+  facts; the descending-weight figure is an explicit guess in the source ("what
+  do I need like 40 50 lbs of weight 80 pounds weight I don't know")
+  (`AH4Eiya1Hn0`).
 - **Area closure (California / CDFW, as of 2020-12 — verify current).** The 43
   bank, in the below-Clemente complex, fell inside a closed rockfish area, so
   effort that used to target it for rockfish shifted to
   [bluefin tuna](bluefin-tuna.md) on the same high spot (`Rf1HKJG-SDg`).
+  ⚠ Fact-check (single-source): one captain's 2020 aside ("everyone goes to the
+  43 because rockfish area is closed to catch the giant bluefin") naming no
+  boundary; the transcript never locates the 43 relative to San Clemente, so
+  the below-Clemente placement is KB geography, not the source's
+  (`Rf1HKJG-SDg`).
 - **Mexico (CONAPESCA / INM).** California rockfish regs do not apply in
   Mexican waters. ⚠ Flagged gap — no corpus source: any Mexican bag limit,
   size gauge or season covering the Ensenada, Cedros or San Benito bottomfish
@@ -329,14 +359,14 @@ Section order below is not a ranking.
   Tackle Express calls the coating a stinging **mucus** rather than venom
   (`J40VxLNuZhk`). Both name the California scorpionfish
   ([sculpin](../fish-care/sculpin-handling.md)) as genuinely venomous enough to
-  "ruin your day," and both land on avoiding all spines on all rockfish.
+  "ruin your day," and both land on avoiding all spines on all rockfish. The
+  Tackle Express clip is a short re-cut of the closing minute of `S9sQ8Vg8-5o`
+  (2025-03-28), not an independent sighting.
   ⚠ Fact-check (contradicted-by-source): only `J40VxLNuZhk` does. `_ZThckj2TIM`
   names no scorpionfish or sculpin, states no "ruin your day" line and gives no
   avoid-all-spines rule — its whole contribution is "the spines have like very
   minor poison kind of don't be too worried about it but you could lift them,"
-  so the shared conclusion is one source's, not two. The
-  Tackle Express clip is a short re-cut of the closing minute of `S9sQ8Vg8-5o`
-  (2025-03-28), not an independent sighting.
+  so the shared conclusion is one source's, not two.
 
 ## Landing & handling
 
