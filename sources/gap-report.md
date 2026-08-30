@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2494 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
+_Totals: 2502 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -3095,6 +3095,15 @@ _Totals: 2494 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
   - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/magdalena-bay-estuary-channel.md**
+  - `Getting there`: gap — a distance, bearing or run time from the dock
+  - `Structure & bathymetry`: gap — the channel's bottom composition, width,
+  - `What's there`: gap — season; the one day on record is October 2020 | Fast, repeated action trolling small lures tight to the mangrove edge; the guide called it a colour variant of pompano that grows bigger (`isXJONlpUP4`). ⚠ Flagged stub — no corpus source yet for a palometa router |
+  - `What's there`: gap — season | Schools show on top in the channel — "looks like peppers" — and are cast to with light spinning tackle rather than trolled past (`isXJONlpUP4`). ⚠ Flagged stub — no corpus source yet for a pargo router |
+  - `What's there`: gap — season | Named by the guide as inshore targets going into the day, none shown caught in this water (`isXJONlpUP4`). Grouper are a boca and mangrove-root fish everywhere else in the corpus ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
+  - `What's there`: gap — names another species in this channel. Striped marlin, the bay's headline draw, is an offshore fishery and is never attached to the estuary ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
+  - `What's there`: gap — forage in the channel, water temperature or
+  - `How it fishes`: gap — troll speed, lure size or standoff distance
 - **locations/mail-point.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
