@@ -395,3 +395,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T03:40:21Z — locations/magdalena-bay-estuary-channel.md — stale-parent-crossref
 - run: 33290531286
 - reason: locations/bahia-magdalena-lopez-mateos.md Spots section still states 'No ground in this zone has a charted position in the KB, so no spot pages hang below it' and lists no estuary-channel bullet, but two spot pages now hang below it (the-ridge.md and this page). Parent prose is out of scope for a gazetteer unit (only the generated children block may change), so the correction needs a zone-page pass.
+
+## 2026-08-30T04:14:29Z — locations/desperation-point.md — guard-violation
+- run: 33291144882
+- reason: commit d1f56e3c5b58e6a1d31a5de7e82077fea4e4b80b reverted: out of scope for 'review: locations/desperation-point.md': locations/san-clemente-island-back-side.md
