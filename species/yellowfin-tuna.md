@@ -359,6 +359,7 @@ Trip reports and per-source provenance:
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Desperation Point](../locations/desperation-point.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [East Cape](../locations/east-cape.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

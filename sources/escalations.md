@@ -395,3 +395,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T03:40:21Z — locations/magdalena-bay-estuary-channel.md — stale-parent-crossref
 - run: 33290531286
 - reason: locations/bahia-magdalena-lopez-mateos.md Spots section still states 'No ground in this zone has a charted position in the KB, so no spot pages hang below it' and lists no estuary-channel bullet, but two spot pages now hang below it (the-ridge.md and this page). Parent prose is out of scope for a gazetteer unit (only the generated children block may change), so the correction needs a zone-page pass.
+
+## 2026-08-30T04:14:24Z — locations/desperation-point.md — verify-escalate
+- run: 33291144882
+- reason: Cameron to rule whether Desperation Point warrants a standalone spot page at all: no charted position, no sources/spot-lists.md entry, and one hedged ASR mention ('outside of desperation point I think') that may simply be Desperation Reef — locations/desperation-reef.md already conserves this trip as 'a second Desperation name', and comparable units (locations/west-end-tuna-zone.md) were skipped for less. Related: worklist row locations/san-clemente-island-desperation-point.md is the same ground from the same single source and needs skipping as a duplicate slug.

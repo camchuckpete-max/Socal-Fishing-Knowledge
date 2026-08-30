@@ -148,6 +148,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Desperation Point](desperation-point.md)
 - [Evidence — Desperation Reef](evidence/desperation-reef.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 <!-- backlinks:end -->

@@ -82,5 +82,6 @@ Trip reports and per-source provenance for [Fishing Live Bait](../fishing-live-b
 <!-- backlinks:start -->
 ## Linked from
 
+- [Desperation Point](../../locations/desperation-point.md)
 - [Fishing Live Bait](../fishing-live-bait.md)
 <!-- backlinks:end -->
