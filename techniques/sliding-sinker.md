@@ -327,6 +327,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass — dropper loop](../species/white-seabass-dropper-loop.md)

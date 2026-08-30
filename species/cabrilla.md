@@ -283,5 +283,6 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [Snook (Robalo)](snook.md)
 - [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

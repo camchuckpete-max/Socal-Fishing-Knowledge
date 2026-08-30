@@ -164,6 +164,7 @@ Trip reports and per-source provenance:
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tanner Bank](tanner-bank.md)
 - [The "lower banks"](lower-banks.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 - [The Bumps](bumps.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)

@@ -617,6 +617,7 @@ groupings: [evidence file](evidence/hooks.md).
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)

@@ -306,6 +306,7 @@ shortages, where the barge isn't an option.
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The 43](../locations/43.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

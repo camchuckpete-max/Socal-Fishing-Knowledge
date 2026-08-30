@@ -313,6 +313,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [The "lower banks"](../locations/lower-banks.md)
 - [The 43](../locations/43.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

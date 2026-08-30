@@ -287,6 +287,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The "lower banks"](../locations/lower-banks.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)
 - [Thetis Bank](../locations/thetis-bank.md)

@@ -327,6 +327,7 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin — trolling](striped-marlin-trolling.md)
 - [The 43](../locations/43.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

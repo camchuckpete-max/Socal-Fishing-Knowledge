@@ -153,4 +153,5 @@ provenance: [snook evidence](evidence/snook.md).
 
 - [Evidence — Snook (Robalo) — sliding sinker](evidence/snook-sliding-sinker.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->

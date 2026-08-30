@@ -397,6 +397,7 @@ Trip reports and per-source provenance:
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The "lower banks"](../locations/lower-banks.md)
 - [The 43](../locations/43.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 - [The Bumps](../locations/bumps.md)
 - [The Ridge (Magdalena Bay)](../locations/the-ridge.md)
 - [The Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md)

@@ -76,4 +76,5 @@ without an evidence entry of its own.
 ## Linked from
 
 - [Snook (Robalo) — sliding sinker](../snook-sliding-sinker.md)
+- [The Boca (Magdalena Bay Entrance)](../../locations/lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->

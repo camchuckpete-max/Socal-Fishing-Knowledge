@@ -161,4 +161,5 @@ observations behind this page, so it serves as the provenance layer:
 ## Linked from
 
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->

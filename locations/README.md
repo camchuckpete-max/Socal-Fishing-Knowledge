@@ -290,6 +290,7 @@
 - [Little Harbor](little-harbor.md) **[SoCal only]** — A charted spot at 33°23.073'N 118°28.563'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Lobster Bay](lobster-bay.md) **[SoCal only]** — A charted spot at 33°25.667'N 118°31.448'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Long Point (stay E/S of MPA at 33 24.380 x 118 21.980)](long-point.md) **[SoCal only]** — A charted spot at 33°24.350'N 118°21.930'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md) **[Baja only]** — [Baja only] — the mouth of Magdalena Bay and the outermost of the bay's three inside depth rungs: 40–50 ft, about five minutes by boat from the Lopez Mateos doc
 - [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The island end of Cortez South: a fishery worked around a cluster of big islands rather than off a mainland shore.
 - [Lost Point](lost-point.md) **[SoCal only]** — A charted spot at 32°51.060'N 118°30.210'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Lower 500](lower-500.md) **[Baja only]** — A charted spot at 31°10.500'N 117°02.500'W (cameron), in the 1140 Finger / 450 zone.
@@ -466,5 +467,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 453 notes exceed the 30-node cap._
+_Map skipped: 454 notes exceed the 30-node cap._
 <!-- mermaid:end -->

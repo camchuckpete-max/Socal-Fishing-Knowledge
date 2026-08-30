@@ -283,6 +283,7 @@ rather than written up as pages here.
 
 <!-- children:start -->
 - [Magdalena Bay Estuary Channel](magdalena-bay-estuary-channel.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
 <!-- children:end -->
 
@@ -303,6 +304,7 @@ Trip reports and per-source provenance:
 - [Snook (Robalo) — sliding sinker](../species/snook-sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [The "lower banks"](lower-banks.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Wahoo](../species/wahoo.md)

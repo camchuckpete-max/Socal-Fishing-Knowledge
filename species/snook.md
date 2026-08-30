@@ -261,4 +261,5 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
+- [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->
