@@ -739,7 +739,7 @@ by their builders after the transform phase drains.
 | locations/albatross-knoll.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/cortes-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/northeast-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
-| locations/el-arco.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/el-arco.md | gazetteer | skipped | skipped(landmark, not a fished ground; no charted position, no spot-lists entry; sole cite fully conserved on the parent zone page) | skipped: navigational landmark, not a publishable spot — the sole harvest row (sources/spot-harvest.md line 130, `XH-Hrfet6To`) describes El Arco as "the rock arch at the cape, cleared on the way out of the harbor ... a landmark, not a ground" in the row's own words; no source ever fishes it, gives it a depth, a species or a run, so nothing could fill the template past the lead. sources/spot-lists.md has no Cabo San Lucas section and no coordinate anywhere at the cape, there is no charted position in the KB and no cameron waypoint. The parent zone locations/cabo-san-lucas.md already records… |
 | locations/the-petroglyph.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/thetis-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/beach-in-front-of-buena-vista-beach-resort.md | gazetteer | pending |  | harvest: 1 mention(s) |
