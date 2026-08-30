@@ -34,15 +34,15 @@ This note routes the fishery; structure detail is in
 sewer pipes all fish the same way regardless of what they are built from, and
 the hard-to-soft transition where reef meets sand is the edge that holds them
 (`kwMIgkCtFUE`). Isolated rocks roughly the size of a small car sitting on open
-sand off Huntington Beach hold sand bass on their own (`kwMIgkCtFUE`).
-⚠ Fact-check (contradicted-by-source): `kwMIgkCtFUE` never names "high spots",
-and it gives the reef-to-sand edge as where to look for BAIT — "where this
-Rocky Reef goes to the bottom … look along that edge for Bait fish" — not as
-the edge that holds the bass. In
+sand off Huntington Beach hold sand bass on their own (`kwMIgkCtFUE`). In
 summer add the open **sand flats** where they aggregate to spawn
 (`P2OzCf2CwXI`); pipes and man-made structure on the flats hold winter fish
 ([break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md),
 [bass structure](../locations/bass-structure.md)).
+⚠ Fact-check (contradicted-by-source): `kwMIgkCtFUE` never names "high spots",
+and it gives the reef-to-sand edge as where to look for BAIT — "where this
+Rocky Reef goes to the bottom … look along that edge for Bait fish" — not as
+the edge that holds the bass.
 
 **Summer.** They ball up and spawn through the early
 [warm-stable regime](../conditions/water-regimes.md), peaking around late
@@ -55,36 +55,33 @@ into a peak here and in the `season_peak` infobox field.
 
 **Winter.** Through the winter/upwelling regime (typically mid-December through
 March) they are less active and **locked to the bottom** on deep structure
-(`P2OzCf2CwXI`).
-⚠ Fact-check (contradicted-by-source): `P2OzCf2CwXI` says only that winter fish
-are "a little bit less active … not as fired up", and its one "locked to the
-bottom" line is general rather than winter-scoped; "deep structure" is not in
-that transcript. The lead carries the same reading.
-The coastal "hit and switch" sand bass stop is a standing
+(`P2OzCf2CwXI`). The coastal "hit and switch" sand bass stop is a standing
 mid-December option, worked with a swimbait fished on the bottom or a slug
 (`5D1vx29LVpI`); the deep-structure crankbait program over suspended bait above
 pipes fishes all season and stays productive when rain washes out the shallow
 island zones. See [February–March](../seasonal/february-march.md).
+⚠ Fact-check (contradicted-by-source): `P2OzCf2CwXI` says only that winter fish
+are "a little bit less active … not as fired up", and its one "locked to the
+bottom" line is general rather than winter-scoped; "deep structure" is not in
+that transcript. The lead carries the same reading.
 
 **Presence is not catchability — the fish move, the spot does not.** Sand bass
 are highly migratory and local abundance tracks that migration path, which
 follows water temperature, so a spot that goes empty in warm water is a
 temperature-driven range shift rather than a population collapse
-(`JK2-cpaXkI8`).
-⚠ Fact-check (single-source): the migration-follows-temperature model is one
-2025 seminar's stated position, and the corpus's only explanation for the
-fishery's decline that is not the squid or bait-size reading below.
-The mirror case from the same warm event: during the
+(`JK2-cpaXkI8`). The mirror case from the same warm event: during the
 2014–2015 El Niño, with water at **85 °F**, wahoo — a tropical pelagic well
 outside its normal SoCal range — were caught at the oil platforms off
 Huntington Beach, and are long gone now that the water has cooled back down
-(`JK2-cpaXkI8`).
+(`JK2-cpaXkI8`). See the ENSO section of
+[upwelling and turnover](../conditions/upwelling-and-turnover.md).
+⚠ Fact-check (single-source): the migration-follows-temperature model is one
+2025 seminar's stated position, and the corpus's only explanation for the
+fishery's decline that is not the squid or bait-size reading below.
 ⚠ Fact-check (contradicted-by-source): `JK2-cpaXkI8` gives the 85 reading with
 no unit, and it does not attribute the wahoo's disappearance to cooling water —
 the line is "we're not catching them at the oil Platforms in Huntington
 anymore", said as a reductio against a claim that wahoo went extinct.
-See the ENSO section of
-[upwelling and turnover](../conditions/upwelling-and-turnover.md).
 
 **Grade by zone.** Against the ~6 lb benchmark for a big fish (`P2OzCf2CwXI`),
 the Long Beach break wall and the structure inside Long Beach Harbor produce
@@ -139,15 +136,14 @@ specifically, and the harbor forage list above is scoped to bass generally.
 
 They **ball up and spawn** on the open sand flats through early summer, peaking
 around late June–July, and a spawning school is what turns a half-day or
-twilight trip into a fish-every-cast day (`P2OzCf2CwXI`).
+twilight trip into a fish-every-cast day (`P2OzCf2CwXI`). A schooled, spawning
+aggregation also feeds as a unit: a bait cruised past the school draws one
+bite, which fires the next, and a limit can come off a single cast
+(`P2OzCf2CwXI`).
 ⚠ Fact-check (contradicted-by-source): "sand flats" appears nowhere in
 `P2OzCf2CwXI`, which gives only "they're spawning right now, which means they
 can get really balled up". The same reading is carried in the lead, in
 Where & when, in the sonar meatball bullet and in the `sonar_depth` field.
-A schooled, spawning
-aggregation also feeds as a unit: a bait cruised past the school draws one
-bite, which fires the next, and a limit can come off a single cast
-(`P2OzCf2CwXI`).
 ⚠ Fact-check (contradicted-by-source): in `P2OzCf2CwXI` the one-bite-fires-the-
 next chain is the Alabama rig's multi-bait mechanism and is hedged — "it's one
 bite and that fires up the next one … until you got a full limit on one cast
