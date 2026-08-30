@@ -279,7 +279,6 @@
 - [The Lab](lab.md) **[SoCal only]** — A charted spot at 32°41.450'N 117°16.310'W (cameron), in the Point Loma zone.
 - [Landing Cove](landing-cove.md) **[SoCal only]** — A charted spot at 33°28.933'N 119°01.754'W (cameron), in the Santa Barbara Island zone.
 - [Leucadia rockfish area](leucadia-rockfish-area.md) **[SoCal only]** — A charted spot at 33°04.100'N 117°20.600'W (cameron), in the Oceanside / North County zone.
-- [Lighthouse Point (the lighthouse)](lighthouse-lighthouse-point.md) **[Baja only]** — [Baja only] — the beach fishery of the East Cape, and the one ground in that zone the corpus names properly.
 - [Lighthouse](lighthouse.md) **[Baja only]** — A charted spot at 32°23.290'N 117°14.570'W (cameron), in the Coronado Islands zone.
 - [Lions Head (partial-take SMCA, no inverts; stay S from 33 27.170)](lions-head.md) **[SoCal only]** — A charted spot at 33°27.235'N 118°30.073'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md) **[SoCal only]** — A charted spot at 33°25.391'N 118°24.603'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -457,5 +456,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 444 notes exceed the 30-node cap._
+_Map skipped: 443 notes exceed the 30-node cap._
 <!-- mermaid:end -->

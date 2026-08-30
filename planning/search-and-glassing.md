@@ -371,7 +371,6 @@ Trip reports and per-source provenance:
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Bocana](../locations/la-bocana.md)
 - [La Jolla](../locations/la-jolla.md)
-- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)

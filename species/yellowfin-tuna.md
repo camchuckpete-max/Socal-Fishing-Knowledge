@@ -385,7 +385,6 @@ Trip reports and per-source provenance:
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
-- [Lighthouse Point (the lighthouse)](../locations/lighthouse-lighthouse-point.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)

@@ -363,7 +363,3 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T22:54:51Z — locations/isla-carmen-north-end.md — guard-violation
 - run: 33278623566
 - reason: commit c1c7c2c9cd737638dce83855c478a9b1710e0151 reverted: out of scope for 'review: locations/isla-carmen-north-end.md': locations/loreto.md
-
-## 2026-08-30T00:27:41Z — locations/lighthouse-lighthouse-point.md — verify-escalate
-- run: 33282762773
-- reason: beach-vs-boat session boundary in mL4Ph7t0WcQ: tackle/evidence/hooks.md and species/evidence/pacific-crevalle-jack.md credit the ~30 ft thumbed cast and '10 count' circle-hook coaching to 'Lighthouse Point beach', but the lighthouse is only pointed out from the boat there and the beach segment is unnamed; also worklist rows locations/lighthouse-point.md and locations/lighthouse-point-beach.md are the same ground (duplicates of this page)
