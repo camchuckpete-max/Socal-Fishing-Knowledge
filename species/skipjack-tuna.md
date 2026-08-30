@@ -205,15 +205,18 @@ lure column has no cited source. Row 3's "on the way out" framing is also absent
 `Ow3an9lSVh4` says "if you run into a school of skip jack, just don't leave.
 Catch **a couple** and use them for chunk bait instead of your fin bait."
 
-⚠ Fact-check (contradicted-by-source): "holds fish at the boat **better than**
-premium live bait" is not what the cites say, and `n4nMCLLW3tY` does not support
-it at all — that transcript's only chunk line is "or skip Jack, keep it for some
-chunk bait," it makes no live-vs-chunk comparison, and its bait advice runs the
-other way (chum with the live sardines). `uyjTdgIw-1k` says chunked bonito,
-mackerel, skipjack and/or squid "did the trick," with the stated rationale being
-**bait conservation** ("we're using chunk because we don't want to use anymore"),
-not superiority; the one preference anecdote there is a dorado, not a tuna. Same
-mis-cite recurs in the Doctrine & conflicts and Landing & handling sections.
+⚠ Fact-check (contradicted-by-source): `n4nMCLLW3tY` does not support this row at
+all — its only chunk line is "or skip Jack, keep it for some chunk bait," it
+makes no live-vs-chunk comparison, and its own bait program is live sardines on
+the flyline. The holding claim is stated, but by the other two cites only:
+`Ow3an9lSVh4` ("having some chunk bait on board and using it when the timing is
+right will keep the fish around your boat") and `uyjTdgIw-1k` ("not our pristine
+sardines but chunked up bonita, mackerel, skipjack and or squid did the trick
+keeping the fish around the boat"), the latter being the only source that puts
+chunk ahead of premium live bait — and its on-the-water line gives **bait
+conservation** as the reason ("we're using chunk because we don't want to use
+anymore"). The same mis-cite of `n4nMCLLW3tY` recurs in the Doctrine & conflicts
+and Landing & handling sections.
 
 ⚠ Fact-check (contradicted-internal): footnote [c]'s **1/2 oz to 3 oz** is
 verbatim in `KajL5TsgBzU`, but the [sliding-sinker](../techniques/sliding-sinker.md)
@@ -323,11 +326,11 @@ surface — carries three different correct responses:
   bait tank is the constraint or nothing better is marked.
   ⚠ Fact-check (contradicted-by-source): `n4nMCLLW3tY` states only "or skip Jack,
   keep it for some chunk bait" and never claims chunk holds the school at the
-  boat; `Ow3an9lSVh4` says "catch **a couple**" and frames chunk as a substitute
-  that spares the fin bait, not as a school-holder — the holding claim traces to
-  `uyjTdgIw-1k`, which is not cited here. "Do not run past a skipjack school" is
-  also not the source's framing: it says "if you run into a school of skip jack,
-  just don't leave."
+  boat; the holding claim is `Ow3an9lSVh4`'s ("having some chunk bait on board
+  and using it when the timing is right will keep the fish around your boat"),
+  corroborated by `uyjTdgIw-1k`, which is not cited here. "Do not run past a
+  skipjack school" is also not the source's framing: `Ow3an9lSVh4` says "if you
+  run into a school of skip jack, just don't leave. Catch **a couple**."
 - **Stay and wait.** A paddy or piece of structure loaded with skipjack can turn
   into a tuna stop when the tuna arrive and displace them (`Ow3an9lSVh4`).
   Applies when the spot itself is worth the time.
