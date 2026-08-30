@@ -63,6 +63,9 @@ this method doesn't apply there.
 - Thumbing the spool while clearing the tangle re-applies the pressure that
   caused the backlash, cinching loops tighter instead of freeing them — this
   is why the method calls for no thumb contact during the pull (`Vl0BuetK2D0`).
+  ⚠ Fact-check (contradicted-by-source): same unsupported causal claim as the
+  Mechanics section above — the source only shows the thumb withheld during
+  recovery and never states that thumb pressure caused the original backlash.
 - ⚠ Flagged gap — no corpus source: how to tell when a backlash is wound too
   tight to clear by hand and should be cut out instead.
 
