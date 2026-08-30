@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2452 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
+_Totals: 2458 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -1963,6 +1963,13 @@ _Totals: 2452 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/cedros-island-west-end.md**
+  - `Getting there`: gap — distance, heading, run time, a wind threshold
+  - `Structure & bathymetry`: gap — soundings, bottom composition, relief, kelp
+  - `What's there`: gap — names this stretch for any other species. The zone's dorado, yellowfin, bonito, rockfish and sheephead records all attach to other Cedros grounds ([zone page](cedros-island.md#whats-there)) |
+  - `What's there`: gap — a month-by-month picture, a temperature or
+  - `How it fishes`: gap — what a slower
+  - `How it fishes`: gap — a tide, moon or current read for this stretch,
 - **locations/cedros-island.md**
   - `Getting there`: gap — what a fly-in angler
   - `Getting there`: gap — ports, fuel, ramps or haul-out anywhere in this
