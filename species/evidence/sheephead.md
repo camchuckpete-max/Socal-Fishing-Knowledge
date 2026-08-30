@@ -192,6 +192,10 @@ program.
   the boat's current program as "rockfish, lingcod, whitefish and sheephead" —
   the corpus's only statement tying sheephead access to the California
   groundfish opener.
+  ⚠ Fact-check (contradicted-by-source): the transcript introduces the speaker
+  as "Bubba at the Channel Island sport fishing booth" — Channel Islands
+  Sportfishing, Oxnard/Ventura, not San Diego. The quoted program line and its
+  California/CDFW jurisdiction are unaffected; the home port is not.
 
 ## Zone material
 

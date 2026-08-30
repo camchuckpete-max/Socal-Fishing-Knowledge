@@ -47,9 +47,17 @@ by-catch on a red-crab soft bait thrown into island rock (`5Oh3IPIC5g4`,
   Channel Islands variety stop lost a pair off the shallow island rock
   (`6-8KfjEg0x8`). Over inshore bass structure they are resident but sparse —
   most of what a meter paints there is perch (`kwMIgkCtFUE`).
+  ⚠ Fact-check (contradicted-by-source): `oadK6zIYyCo` names no side of
+  Catalina — "front side" appears nowhere in the transcript — and anchoring is
+  stated only as the pre-trip plan, not at the catch.
 - **Offshore banks.** Moving into the shallows of [Cortez Bank](../locations/tanner-bank.md)
   after limiting on rockfish picks up sheephead with the whitefish, off a drift
   the crew put at roughly **150 ft** (`fDSd9kqwYW0`).
+  ⚠ Fact-check (contradicted-by-source): the "roughly 150 ft" reading in
+  `fDSd9kqwYW0` comes later in the trip, setting up a rockfish drift "up on the
+  ridge here just on the edge of the" bank; the sheephead pickup itself is
+  placed only in "the shallows" with no depth. The same 150 ft figure is
+  carried as a sheephead depth on [Tanner Bank](../locations/tanner-bank.md).
 - **Baja Pacific north.** A high spot roughly **7–8 mi** off the Hotel Coral
   marina at [Ensenada](../locations/ensenada.md), rising to about **25 ft from
   roughly 200 ft**, gives sheephead in the mixed bottomfish bag (`CKq0Z6ExVs4`).
@@ -82,11 +90,24 @@ sheephead" (`46ha7J1Fc6A`) — see [Regulations](#regulations).
   ⚠ Fact-check (single-source): red crab is the corpus's only account of what
   sheephead eat naturally, and it comes from one presenter promoting his own
   red-crab bait at two seminars.
+  ⚠ Fact-check (contradicted-by-source): `5Oh3IPIC5g4` names Catalina, San
+  Clemente, the Coronado Islands, Cedros and Ensenada as red-crab **bass**
+  ground; the only sheephead tied to that structure is a 24 lb fish thrown "up
+  into the island" with the island unnamed. The place list is not stated as
+  sheephead ground.
+  ⚠ Fact-check (contradicted-by-source): `0HwYl0HO2tc` does not corroborate the
+  red-crab bait — the words "red crab" never appear in it. It credits the five
+  15–20 lb fish to the **red scent** ("the red is a shrimp and crab"), and says
+  nothing about biggest-in-corpus grade.
 - **The mouth sits at the front of the face, not underneath** (`OSbAHdB4uPs`),
   so they feed up into the column rather than down into the sand. That is the
   mechanism behind the whole suspended-bait program — what a bottomed bait
   catches instead is in
   [sheephead — sliding sinker](sheephead-sliding-sinker.md).
+  ⚠ Fact-check (single-source): `OSbAHdB4uPs` states the mouth position ("their
+  mouth is in front it's not on the bottom") and the suspend rule, but not the
+  feed-up-into-the-column mechanism joining them; the sand/bottom-feeding
+  contrast is worked in `ShSxNKAcUB4`, a white seabass video.
 - **The mouth is small for the body** (`5Oh3IPIC5g4`), so the bait rules run
   small in both directions: a soft-plastic profile is downsized for them rather
   than scaled to their weight — see
@@ -97,6 +118,12 @@ sheephead" (`46ha7J1Fc6A`) — see [Regulations](#regulations).
   bass and lingcod over the same island and bank rock (`fDSd9kqwYW0`,
   `6-8KfjEg0x8`, `CKq0Z6ExVs4`) — and with sargo and small bass on the chummed
   inshore reefs (`OSbAHdB4uPs`).
+  ⚠ Fact-check (contradicted-by-source): no cite puts sheephead and **reds** on
+  the same stop. In `fDSd9kqwYW0` the reds are limited at the edge of the bank
+  before the boat moves to the shallows for sheephead and whitefish; in
+  `6-8KfjEg0x8` the sheephead are lost in the shallows and the reds come later
+  at a separate ~175 ft spot; `CKq0Z6ExVs4` names no reds at all (lingcod, rock
+  bass, whitefish, sheephead). Whitefish and lingcod co-occurrence is supported.
 - ⚠ Flagged gap — no corpus source: any forage other than red crab, what
   concentrates them on one reef rather than the next, or any temperature that
   moves them.
@@ -154,7 +181,7 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Anchored on a chummed artificial reef or inshore rock — the dedicated program | [Chunking](../techniques/chunking.md) to draw fish up, then **[a suspended strip bait on a slider — the chummed-reef program](sheephead-sliding-sinker.md)** ([general method](../techniques/sliding-sinker.md)) | Light spinning or small level-wind, light bait class | Slider weight ceiling, hook size and finish, the suspend-never-bottom rule and the bait ranking are all in the sub-article (`OSbAHdB4uPs`); the title-only sliding-egg-sinker clip is logged there too (`QEpa3WYbEa8`) [a] |
 | No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback (`OSbAHdB4uPs`, `yKaHcxX46l4`) — strip prep and the ranking in [sheephead — sliding sinker](sheephead-sliding-sinker.md) and [hooks](../tackle/hooks.md) |
 | Bass or rockfish fishing island rock that holds red crab | **[A red-crab tube bait thrown up into the rocks — the by-catch program](sheephead-tube-bait-fishing.md)** ([general method](../techniques/tube-bait-fishing.md)) | Bass casting / swimbait class | Caught almost always as by-catch while bass or rockfish fishing, not targeted (`5Oh3IPIC5g4`). The bullet-over-"Big Game" profile call, the **5/8–1 oz** island weights, the worked-above-the-rocks presentation, the grades it produces and the switch to sardine or mint on a crab-saturated spot are all in the sub-article (`5Oh3IPIC5g4`, `0HwYl0HO2tc`) [b] |
-| Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) |
+| Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) ⚠ Fact-check (contradicted-by-source): `6-8KfjEg0x8` says "we lost a couple sheephead" — none was landed, and the reds came afterward at a separate ~175 ft spot, not on that drift |
 | Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) |
 | Live crab aboard as bait for big fish | ⚠ Flagged stub — no corpus source yet: live crabs are named as a thing anglers now carry out on boats specifically for sheephead (`PRNMGpLj7Pw`), with no rig, hook, weight or presentation given anywhere in the corpus | — | Fill in when a source gives the rigging |
 | Cold-water months, summer pelagics gone or slow | Fish the chummed-structure program rather than putting gear away | Same light bait class | A year-round bite that does not depend on the warm-water season (`OSbAHdB4uPs`) |
@@ -175,7 +202,16 @@ class's colors, scents and construction live in
   and an all-purpose **island rod fished in the middle of its line rating**
   covers calicos, whitefish and sheephead off the same structure
   (`7L7OVoXE7KU`, `DfLcSS-J3g4`) — see
-  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md). For
+  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md).
+  ⚠ Fact-check (contradicted-internal): both transcripts frame the island rod as
+  a **second** stick you "double up with" alongside the all-purpose 30 lb bait
+  stick, not as the all-purpose rod itself, and neither states the island rod's
+  own rating —
+  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md) says
+  so explicitly ("Neither source gives the island rod's own rating or line
+  class, only its species job"), while this line attaches the
+  middle-of-the-rating rule to it. Neither source says "off the same
+  structure". For
   the chummed light-line reef program, drop to light spinning or a small
   level-wind with the hook tied straight to the line, no swivel or beads — the
   light-line finesse rig in [chunking](../techniques/chunking.md). See
@@ -255,6 +291,11 @@ Section order below is not a ranking.
   called out on camera both times a landed fish is handled (`CKq0Z6ExVs4`,
   `qKOmJH_WtJo`). General method:
   [dehooking and release](../fish-care/dehooking-and-release.md).
+  ⚠ Fact-check (contradicted-by-source): in `CKq0Z6ExVs4` the "watch his teeth"
+  warning is said over a **lingcod**, not the sheephead — the sheephead there
+  draws no handling warning. Only `qKOmJH_WtJo` (and its duplicate cut
+  `QEpa3WYbEa8`, one landing) points at sheephead teeth, so this is one on-camera
+  callout, not two.
 - **They are a table fish, kept rather than released** — called "Poor Man's
   Lobster" on camera (`oadK6zIYyCo`), and the whole inshore program is fished
   to take dinner home (`OSbAHdB4uPs`).
