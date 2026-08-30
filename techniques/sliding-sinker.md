@@ -141,7 +141,13 @@ sinker → swivel → ~6 ft of 100-130 lb leader order, the 4X hook sized to sar
 or live shrimp, the locked drag with its five-second fight window, the
 snook-rises/grouper-dives species tell, and the 60/80/100/130 lb leader-test
 progression behind the leader spec all live in [snook — sliding
-sinker](../species/snook-sliding-sinker.md) (`EcQK5elTPJE`). Different region,
+sinker](../species/snook-sliding-sinker.md) (`EcQK5elTPJE`). ⚠ Fact-check
+(contradicted-by-source): the transcript's 60→80→100→130 lb progression
+(00:16:29) is Dave's separate personal anecdote about his first six snook
+hookups on early trips, told ~26 min before the ~6 ft/100-130 lb Carolina-rig
+leader spec (00:42:38-00:43:23) — the source never ties that progression to
+this specific spec; the spec passage instead cites its own break-off count.
+Different region,
 different specs and a different species mix from the Sea of Cortez cabrilla
 build above. See [Lopez Mateos & Magdalena
 Bay](../locations/bahia-magdalena-lopez-mateos.md) for the fishery and
@@ -170,7 +176,11 @@ the Searcher," for yellowtail in the **12-22 lb** range (`yGXSrUauo2w`):
   them and in front of the yellowtail more quickly (`yGXSrUauo2w`).
 - **Hook: J hook, not circle**, roughly 2/0 up to 4/0 for a larger bait — see
   [hooks](../tackle/hooks.md#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem)
-  for the full circle-vs-J doctrine this corroborates (`yGXSrUauo2w`).
+  for the full circle-vs-J doctrine this corroborates (`yGXSrUauo2w`). ⚠
+  Fact-check (contradicted-by-source): the transcript's auto captions render
+  the sizes as "about a 20... to maybe a 40," not "2/0"/"4/0" — the same
+  aught-vs-digit ASR ambiguity already caveated for the 12/0 grouper hook
+  elsewhere in this note, but presented here without a caveat.
 
 Full rod/reel/line build and the tuna-rig cross-reference in
 [Searcher yellowtail live-bait sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md).
