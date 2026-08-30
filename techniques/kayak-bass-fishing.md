@@ -121,7 +121,10 @@ turbulence (`LqW32NSkObY`):
   Walker" — model name asr-uncertain, not confidently resolved) and a
   swimbait line named "Persuaders," both named on camera as go-to topwater/
   moving baits — worked best on calm, mid-day topwater conditions rather than
-  fished on the bottom (`LqW32NSkObY`).
+  fished on the bottom (`LqW32NSkObY`). ⚠ Fact-check (contradicted-by-source):
+  the transcript's auto-captions render this "mid-calm topwater" (~00:30:00),
+  a water/weather-state description, not "mid-day" — no time-of-day claim
+  appears in the source (`LqW32NSkObY`).
 - **Spinnerbait retrieve:** wind at a steady, medium-light pace rather than
   ripping it — enough motion to keep the blade's flutter smooth and constant,
   so the bait reads as part of the water rather than an obviously worked lure
