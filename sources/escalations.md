@@ -436,3 +436,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T09:27:23Z — species/california-halibut.md — check-note-failed
 - run: 33303639715
 - reason: FAIL  species/california-halibut.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the cited transcript gives the
+
+## 2026-08-30T16:07:21Z — techniques/drop-shot.md — worker-escalate
+- run: 33319347373
+- reason: worker self-committed and pushed 62ea26fb directly instead of leaving the patch in the working tree, bypassing the orchestrator's independent verifier step entirely; post-hoc verification confirms the content (new contradicted-by-source flag, miscited video ID _XfScSliRVk vs actual source _rcxIWhNMSE/M2qZiY2lR98) is accurate and flags-only, but the missing pre-commit gate is a process-integrity issue Cameron should review
