@@ -388,6 +388,7 @@
 - [San Salvador Knoll](san-salvador-knoll.md) **[SoCal only]** — A charted spot at 32°19.000'N 117°54.000'W (cameron), in the E.
 - [Santa Barbara Island](santa-barbara-island.md) **[SoCal only]** — A zone is a run grouping.
 - [Santa Cruz Island](santa-cruz-island.md) **[SoCal only]** — Santa Cruz is one of the north Channel Islands, at the Santa Barbara Channel end of the Southern California Bight.
+- [Santa Rosa Island](santa-rosa-island.md) **[SoCal only]** — One of the northwest outer Channel Islands, and the only island in that group the corpus places in two different programs.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
 - [Seabass Rock](seabass-rock.md) **[SoCal only]** — A charted spot at 33°14.106'N 119°25.080'W (cameron), in the San Nicolas Island zone.
 - [Seal Cove](seal-cove.md) **[SoCal only]** — A charted spot at 32°54.210'N 118°32.130'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
@@ -460,5 +461,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 447 notes exceed the 30-node cap._
+_Map skipped: 448 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -523,6 +523,7 @@ Trip reports and per-source provenance:
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Searcher 30 lb Large-Tuna Outfit](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md)

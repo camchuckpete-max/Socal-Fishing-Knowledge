@@ -159,6 +159,7 @@ share it).
 - [San Miguel Island](san-miguel-island.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [September](../seasonal/september.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)

@@ -251,6 +251,7 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [Point Loma](../locations/point-loma.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

@@ -659,6 +659,7 @@ baits and heads from the class terms above; see
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spotted Bay Bass — umbrella rig (A-rig)](../species/spotted-bay-bass-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)

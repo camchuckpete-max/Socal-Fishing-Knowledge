@@ -100,5 +100,6 @@ Observations never change the note's stated doctrine.
 
 - [San Miguel Island](../san-miguel-island.md)
 - [Santa Cruz Island](../santa-cruz-island.md)
+- [Santa Rosa Island](../santa-rosa-island.md)
 - [Southern California Bight](../socal-bight.md)
 <!-- backlinks:end -->

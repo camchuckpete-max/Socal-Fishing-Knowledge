@@ -865,6 +865,7 @@ ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Lever-Drag Reel Sizing — Penn Fathom 30 vs. 60](searcher-lever-drag-reel-sizing.md)

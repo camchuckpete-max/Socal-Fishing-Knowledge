@@ -228,4 +228,5 @@ parents, in the
 ## Linked from
 
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 <!-- backlinks:end -->

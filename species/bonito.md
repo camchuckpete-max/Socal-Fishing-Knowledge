@@ -303,6 +303,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)

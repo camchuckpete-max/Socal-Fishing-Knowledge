@@ -273,6 +273,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)

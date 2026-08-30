@@ -439,6 +439,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "the Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Quiver — Fisherman's Landing Rental Packages](../tackle/searcher-four-outfit-guadalupe-quiver.md)

@@ -139,6 +139,7 @@ Trip reports and per-source provenance:
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

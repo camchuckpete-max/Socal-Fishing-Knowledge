@@ -382,6 +382,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)

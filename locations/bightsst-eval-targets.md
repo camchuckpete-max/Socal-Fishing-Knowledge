@@ -121,6 +121,7 @@ key output is time-to-turnover / the approach, not the turnover event itself
 - [San Juan Seamount](san-juan-seamount.md)
 - [San Miguel Island](san-miguel-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)

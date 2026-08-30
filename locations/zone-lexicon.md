@@ -193,6 +193,7 @@ zone/spot pages this note supports).
 - [San Quintin](san-quintin.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)

@@ -377,6 +377,7 @@ Trip reports and per-source provenance:
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

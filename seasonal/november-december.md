@@ -100,6 +100,7 @@ Trip reports and per-source provenance:
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sea State](../conditions/sea-state.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

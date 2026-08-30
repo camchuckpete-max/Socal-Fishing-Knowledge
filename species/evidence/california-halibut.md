@@ -290,4 +290,5 @@ Parked for the zone guides the parent note stubs out:
 - [California Halibut — surf lures](../california-halibut-surf-lures.md)
 - [Evidence — California Halibut — live-bait drift](california-halibut-live-bait-drift.md)
 - [Evidence — California Halibut — surf lures](california-halibut-surf-lures.md)
+- [Santa Rosa Island](../../locations/santa-rosa-island.md)
 <!-- backlinks:end -->

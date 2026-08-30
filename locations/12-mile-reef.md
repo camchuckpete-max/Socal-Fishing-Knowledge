@@ -323,6 +323,7 @@ corpus touches this mark, so there is no evidence file to link.
 - [Channel Islands](channel-islands.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)
 <!-- backlinks:end -->

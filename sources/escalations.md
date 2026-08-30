@@ -375,3 +375,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T01:47:47Z — locations/two-harbors.md — guard-violation
 - run: 33286260042
 - reason: commit 8da75557afaf0a652a214afab44710cc07df6a6a reverted: out of scope for 'review: locations/two-harbors.md': locations/catalina-island-front-side.md
+
+## 2026-08-30T02:18:44Z — locations/santa-rosa-island.md — verify-escalate
+- run: 33286864809
+- reason: Inherited router error propagated: halibut squid-bed list says Coronados but OpcKQPA3vAI names Santa Cruz (fix belongs in species/california-halibut.md); 'with squid present' qualifier on the 22-fish day inherited from species/white-seabass.md is not in HnqiE05vdXs

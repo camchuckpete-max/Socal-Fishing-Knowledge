@@ -224,6 +224,7 @@ Trip reports and per-source provenance:
 - [San Juan Seamount](san-juan-seamount.md)
 - [San Miguel Gap](san-miguel-gap.md)
 - [San Miguel Island](san-miguel-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 <!-- backlinks:end -->

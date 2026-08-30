@@ -243,5 +243,6 @@ Dated days and per-source provenance: [Channel Islands evidence](evidence/channe
 - [Evidence — Channel Islands](evidence/channel-islands.md)
 - [San Miguel Island](san-miguel-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

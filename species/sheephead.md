@@ -291,6 +291,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)

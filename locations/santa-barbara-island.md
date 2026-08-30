@@ -277,6 +277,7 @@ Trip reports and per-source provenance:
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Miguel Island](san-miguel-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
+- [Santa Rosa Island](santa-rosa-island.md)
 - [Southern California Bight](socal-bight.md)
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)
 - [The Boot (504) / 307](boot-504-307.md)

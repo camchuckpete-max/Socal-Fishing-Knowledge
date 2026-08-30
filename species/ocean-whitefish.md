@@ -271,6 +271,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

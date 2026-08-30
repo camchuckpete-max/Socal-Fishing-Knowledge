@@ -158,4 +158,5 @@ provenance: [rockfish & lingcod evidence](evidence/rockfish-lingcod.md).
 - [Lingcod Specialty Baits — the Ling Cod Killers](../lures/lingcod-specialty-baits.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 <!-- backlinks:end -->
