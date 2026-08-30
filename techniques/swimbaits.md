@@ -466,6 +466,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Night Bass Fishing](night-bass-fishing.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Point Loma](../locations/point-loma.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

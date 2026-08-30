@@ -46,4 +46,5 @@ one is also traced beside that doctrine in the parent.
 ## Linked from
 
 - [Chunking](../chunking.md)
+- [Northwest Harbor](../../locations/northwest-harbor.md)
 <!-- backlinks:end -->

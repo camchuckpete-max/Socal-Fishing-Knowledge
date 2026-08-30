@@ -244,6 +244,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [La Paz](../locations/la-paz.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [November–December](../seasonal/november-december.md)
 - [Point Loma](../locations/point-loma.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)

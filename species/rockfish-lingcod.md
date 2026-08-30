@@ -393,6 +393,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Middle Grounds](../locations/middle-grounds.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)

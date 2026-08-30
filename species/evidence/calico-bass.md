@@ -456,4 +456,5 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 - [Evidence — Slow-Pitch Jigging (SPJ)](../../techniques/evidence/slow-pitch-jigging.md)
 - [Geronimo Island](../../locations/geronimo-island.md)
 - [La Bocana](../../locations/la-bocana.md)
+- [Northwest Harbor](../../locations/northwest-harbor.md)
 <!-- backlinks:end -->

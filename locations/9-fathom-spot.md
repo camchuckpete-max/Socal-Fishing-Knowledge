@@ -40,5 +40,6 @@ A charted spot at **33°02.650'N 118°37.580'W** (cameron), in the [San Clemente
 <!-- backlinks:start -->
 ## Linked from
 
+- [Northwest Harbor](northwest-harbor.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 <!-- backlinks:end -->

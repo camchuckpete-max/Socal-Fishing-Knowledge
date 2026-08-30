@@ -262,6 +262,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [La Bocana](../locations/la-bocana.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)

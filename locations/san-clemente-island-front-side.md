@@ -213,6 +213,7 @@ Charted positions for all seven spots are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
+- [Northwest Harbor](northwest-harbor.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Head](pyramid-head.md)
@@ -234,6 +235,7 @@ Trip reports and per-source provenance:
 - [Desperation Reef](desperation-reef.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
 - [Island Structure](island-structure.md)
+- [Northwest Harbor](northwest-harbor.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Head](pyramid-head.md)

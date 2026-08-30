@@ -205,6 +205,7 @@ Trip reports and per-source provenance: [evidence file](evidence/island-structur
 - [LA - 270 / 286](la-270-286.md)
 - [Lower Cross](lower-cross.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
+- [Northwest Harbor](northwest-harbor.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pyramid Head](pyramid-head.md)

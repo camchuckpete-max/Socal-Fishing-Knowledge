@@ -367,3 +367,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T00:27:46Z — locations/lighthouse-lighthouse-point.md — guard-violation
 - run: 33282762773
 - reason: commit de9fadb836567e4435a532191021d118b7c08674 reverted: out of scope for 'review: locations/lighthouse-lighthouse-point.md': locations/east-cape.md
+
+## 2026-08-30T01:23:23Z — locations/northwest-harbor.md — verify-escalate
+- run: 33284883534
+- reason: The drop-to-bottom / wind-10-or-15-turns / free-spool-back-down cadence is localized to Northwest Harbor at locations/san-clemente-island-front-side.md:152 and this page propagates it to the spot rung, but in iQLyBzhOSi8 the team leaves the harbor at 08:39 to run down the front, describes water too deep for the harbor's 6 ft shallow-rock framing at 09:28, and only says 'we finally found the spot' at 14:41 just before the cadence at 14:50 — so it probably belongs to an unnamed front-side spot. Cameron to confirm or demote it to the zone rung. Related pre-existing items on the zone page, left out of scope: an off-vocabulary Fact-check (unreconciled) flag, and '3-5 ft forecast four days later' where the transcript says '3 to 5 on Sunday' with no interval.

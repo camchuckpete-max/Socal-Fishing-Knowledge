@@ -487,6 +487,7 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Making Bait](making-bait.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Puerto Escondido Marina](../locations/puerto-escondido-marina.md)
 - [Punta Perico](../locations/punta-perico.md)

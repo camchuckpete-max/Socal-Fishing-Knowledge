@@ -369,6 +369,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Moon](../conditions/moon.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [October](../seasonal/october.md)
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

@@ -321,6 +321,7 @@ Trip reports and per-source provenance: [evidence file](evidence/chunking.md).
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)

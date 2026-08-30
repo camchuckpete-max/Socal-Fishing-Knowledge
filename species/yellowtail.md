@@ -478,6 +478,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [North Point](../locations/north-point.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
 - [Point Loma](../locations/point-loma.md)

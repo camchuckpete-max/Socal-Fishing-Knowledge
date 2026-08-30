@@ -310,6 +310,7 @@
 - [North Point](north-point.md) **[Baja only]** — [Baja only] — the north end of Cedros Island, in the Cedros / San Benitos zone, and the ground the crew names when the target is a bigger grade of yellowtail: "
 - [Northeast Bank](northeast-bank.md) **[SoCal only]** — A charted spot at 32°20.800'N 119°38.400'W (cameron), in the Hancock Bank zone.
 - [Northwest Corner](northwest-corner.md) **[SoCal only]** — A charted spot at 32°50.630'N 117°18.460'W (cameron), in the La Jolla zone.
+- [Northwest Harbor](northwest-harbor.md) **[SoCal only]** — The harbor at the northwest end of San Clemente Island, charted at 33°02.000'N 118°35.250'W and labelled a naval security zone (cameron).
 - [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md) **[SoCal only]** — A charted spot at 33°13.050'N 117°25.402'W (cameron), in the North County artificial reefs zone.
 - [Oceanside AR](oceanside-ar.md) **[SoCal only]** — The Oceanside AR series — 19 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
 - [Oceanside / North County](oceanside-north-county.md) **[SoCal only]** — The mainland coastal strip of San Diego's north county: 18 charted spots in the spot library (cameron), running from San Onofre Kelp (33°20.880'N 117°34.050'W)
@@ -457,5 +458,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 444 notes exceed the 30-node cap._
+_Map skipped: 445 notes exceed the 30-node cap._
 <!-- mermaid:end -->

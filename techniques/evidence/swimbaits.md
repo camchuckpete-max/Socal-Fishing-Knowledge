@@ -139,5 +139,6 @@ with their doctrine to
 
 - [Chester's Rock](../../locations/chester-s-rock.md)
 - [Evidence — Island Structure](../../locations/evidence/island-structure.md)
+- [Northwest Harbor](../../locations/northwest-harbor.md)
 - [Swimbaits](../swimbaits.md)
 <!-- backlinks:end -->

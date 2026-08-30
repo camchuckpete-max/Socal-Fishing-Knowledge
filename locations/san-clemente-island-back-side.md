@@ -233,6 +233,7 @@ Trip reports and per-source provenance:
 - [Evidence — San Clemente Island, Back Side](evidence/san-clemente-island-back-side.md)
 - [Lost Point](lost-point.md)
 - [Mail Point](mail-point.md)
+- [Northwest Harbor](northwest-harbor.md)
 - [Seal Cove](seal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [Tanner Bank](tanner-bank.md)

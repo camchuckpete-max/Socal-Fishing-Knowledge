@@ -324,6 +324,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [La Jolla](../locations/la-jolla.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
+- [Northwest Harbor](../locations/northwest-harbor.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
