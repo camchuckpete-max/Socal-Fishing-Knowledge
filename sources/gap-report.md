@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2490 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
+_Totals: 2494 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -2861,6 +2861,11 @@ _Totals: 2490 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/la-bocana-estuary-baja-california-sur.md**
+  - `Getting there`: gap — how the estuary itself
+  - `Structure & bathymetry`: gap — every physical parameter of this estuary.
+  - `What's there`: gap — any month
+  - `How it fishes`: gap — the read
 - **locations/la-bocana.md**
   - `Getting there`: gap — the
   - `Structure & bathymetry`: gap — bottom, banks, high spots,
