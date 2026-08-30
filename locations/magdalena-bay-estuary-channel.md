@@ -160,5 +160,5 @@ observations behind this page, so it serves as the provenance layer:
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 <!-- backlinks:end -->
