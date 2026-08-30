@@ -27,13 +27,27 @@ bomb or Raider jig burned back, and a [flylined sardine](wahoo-live-bait.md) —
 all three on **wire leader**, because the teeth cut mono regardless of test
 (`G81HN0dIDg0`). See
 [haywire twist](../rigging/haywire-twist.md).
+⚠ Fact-check (contradicted-by-source): `G81HN0dIDg0` scopes wire to flylining
+("very important to have wire on there") and immediately offers the
+alternative — "Some guys like to use fluorocarbon, too. You just have a lot
+less chance of getting bit off" — so it states a bite-off *probability*, not
+"regardless of test," and gives no mono/fluoro test at all. The same claim is
+restated in [gear summary](#gear-summary-class-terms) and
+[doctrine & conflicts](#doctrine--conflicts).
 
 ## Where & when
 
 **Season — fall, on a temperature gate.** Fall is the stated best window:
 late September, October, early November, with the second week of November 2019
 — the boat's last trip of that season — producing "tremendous catches"
-(`4uNPLknRAQg`). October and
+(`4uNPLknRAQg`).
+⚠ Fact-check (contradicted-by-source): in `4uNPLknRAQg` the quoted phrase
+attaches to the months, not to the 2019 trip — "Late September, October, early
+November, there has been tremendous catches of wahoo in those months." The
+trip is described separately as "the last trip of 2019 that Captain Mike ran
+that had all those wahoo... was the second week in November," with no catch
+adjective and no "of that season" framing.
+October and
 November are separately named as "the best time of year to catch wahoo"
 (`9IhmYstB8sA`). The mechanism is incremental summer warming plus the warm
 water a hurricane can push up during hurricane season (`4uNPLknRAQg`). Some
@@ -42,6 +56,13 @@ grounds when nothing is biting locally, which works only if the water is
 already warm enough (`4uNPLknRAQg`). Long-range 6-, 7- and 8-day trips are
 timed to fish Alijos Rocks and the Ridge for wahoo from October onward
 (`tjBeR9tWd4s`, `ETw_3AFxEcM`).
+⚠ Fact-check (contradicted-by-source): neither cited transcript names a month.
+`tjBeR9tWd4s` says only "long range boats, including the Searcher, they're
+going to start their 6 7 8 day trips here... fishing the Alijos Rocks and the
+ridge"; `ETw_3AFxEcM` gives "a seven day or longer trip... either Alijos Rocks
+or the Ridge... where the wahoo are found" and no season at all. "October
+onward" is read off `tjBeR9tWd4s`'s 2022-10-20 upload date, and `ETw_3AFxEcM`
+uploaded 2022-07-14.
 
 **Grounds — two Baja Pacific banks, at long-range distance.**
 [Alijos Rocks](../locations/alijos-rocks.md) is rock structure running "from
@@ -66,17 +87,42 @@ wahoo and dorado population "come fall time" (`4t_Z75shK_E`).
 mixed into the offshore troll for tuna, dorado and marlin — three boated with
 a fourth hooked in one session (`tcso7Lpm_Xs`), and a personal-best fish called
 the fleet's "first wahoo of the season" in April 2020 (`APsnsunT4gM`).
+⚠ Fact-check (contradicted-by-source): the possessive is not in `APsnsunT4gM`
+— the captions render "the first wahoo of the season for the whole job," where
+"the whole job" is unresolved ASR and "the fleet's" is a reconstruction. The
+date is also not stated on camera: the episode opens on "last week in the
+beautiful East Cape... for our fifth annual" trip against a 2020-04-08 upload,
+which places the fishing in late March or the first days of April 2020.
 
 **Presence is not catchability.** On the Baja lower banks in November, wahoo
 swam through the giant-tuna school a boat sat anchored on for four days and
 nothing was landed on them (`ASitOLYzFEA`); at Alijos Rocks wahoo appear in a
 mixed bag where yellowtail, yellowfin and dorado are what fill the deck
 (`6kpWn2sXokI`).
+⚠ Fact-check (contradicted-by-source): neither cited transcript supports the
+presence-without-catch reading. `ASitOLYzFEA` says the opposite — "then wahoo
+started swimming through, we were catching everything just anchored in one
+spot" — and puts them late in the stay ("hundreds of dorado moved in on us,
+wahoo moved in on us on the last day"); the "nothing landed" is absence of
+mention, not a stated zero. In `6kpWn2sXokI` a wahoo-specific program IS run
+("he's throwing a bomb up on the bow, got hooked on a wahoo"), and dorado are
+"a few coming through," not deck-filling; the wrap-up is "really good
+yellowtail fishing, few wahoo scattered in there."
 
 **Southern California Bight — warm-water event only.** During the
 **2014–2015 El Niño**, with water at **85 °F**, wahoo were caught at the oil
 platforms off **Huntington Beach**; they left when the water cooled
-(`JK2-cpaXkI8`). This is a temperature-driven range extension, not a standing
+(`JK2-cpaXkI8`).
+⚠ Fact-check (contradicted-by-source): the catch is verbatim — "what did
+happen in 2014 2015 el niño, the water was 85, we were catching wahoo at the
+oil platforms in Huntington Beach" — but the speaker states no cooling-water
+cause. His follow-on is a sarcastic reductio inside a sand-bass argument
+("we're not catching them at the oil platforms in Huntington anymore... so they
+must be all gone"), and the only temperature mechanism he gives is warm water
+displacing sand bass. The 85 also carries no unit on camera; °F is supplied.
+Same passage and finding on
+[sand bass](sand-bass.md#where--when).
+This is a temperature-driven range extension, not a standing
 Bight pattern — see [sand bass](sand-bass.md#where--when) for the full ENSO
 framing and
 [upwelling and turnover](../conditions/upwelling-and-turnover.md) for the
@@ -110,12 +156,28 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
   is the condition for a chance at a bite; below it, the grounds can be right
   and the season right and there is still no fishery (`4uNPLknRAQg`). See
   [water temperature](../conditions/water-temperature.md).
+  ⚠ Fact-check (contradicted-by-source): `4uNPLknRAQg` states only the positive
+  half — "there's always a chance whenever you're in the right condition water,
+  you know, 72° or warmer than that" and "if the water temperature is warm
+  enough, then you would have a chance." The negative gate ("below it... there
+  is still no fishery") is not in the transcript; the conditional is hardened
+  in one direction. The same 72 °F figure carries the note's `sst_band_f`
+  infobox field.
 - **Structure and current.** Bites come around structure and current, or around
   a kelp paddy the fish have gathered on (`4uNPLknRAQg`).
 - **The strike itself is a half-bite.** Wahoo often take only the back half of
   a bait or lure and leave rather than eat it whole (`jqyu3wZdNF4`,
   `vNIazq1aVwc`, `4uNPLknRAQg`) — the behaviour that drives the live-bait
   bite-handling program in [wahoo — live bait](wahoo-live-bait.md).
+  ⚠ Fact-check (contradicted-by-source): all three cited transcripts have the
+  fish COME BACK for the second half, which is what the free-spool recovery is
+  for — "that wahoo will kill the bait and eat half of it and then come back
+  and eat the other half" (`jqyu3wZdNF4`), "the wahoo will swing back around
+  and eat the second half" (`vNIazq1aVwc`), "circle back around and eat the
+  other half" (`4uNPLknRAQg`). "Leave rather than eat it whole" inverts that.
+  `4uNPLknRAQg` also hedges — "sometimes, not all the time" — against the
+  note's "often," says "whether it's the head or the tail" rather than the back
+  half, and describes live bait only, not lures.
 - ⚠ Flagged gap — no corpus source: any light window, tide/slack, moon or
   wind effect on the wahoo bite, and no mechanism for why warm water switches
   them on beyond the fact that it does.
@@ -131,6 +193,17 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
   the Ridge, work the band from **60 ft to the surface**; letting a bomb sink
   to the bottom gets triggerfish and whitefish instead (`4uNPLknRAQg`). Ask the
   crew for the depth before counting a jig down.
+  ⚠ Fact-check (contradicted-by-source): the two halves come from different
+  sentences and only one names the ridge. `4uNPLknRAQg` gives the band as a
+  generic worked example — "if we're in 90 or 100 ft of water, then you want to
+  be in the water column like 60 to the surface" — while the ridge appears only
+  in the bottom-fish caution, "you don't want to let it sink to the bottom if
+  you're on the ridge, and you get a trigger fish or a white fish." The note
+  reads it as "over 90–100 ft on the Ridge," which both scopes the depth to a
+  ground the source does not attach it to and inverts *in* 90–100 ft into
+  *over* it; the figure also carries the `depth_band` infobox field. The
+  ridge's actual working depth is separately unresolved on
+  [the Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md).
 - ⚠ Flagged gap — no corpus source: a wahoo sonar signature or meter depth,
   bird behaviour, or any surface sign (jumpers, foamers, breezing fish) that
   locates them — every documented catch is a troll, a cast on the slide, or a
@@ -154,6 +227,27 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
 plugs, bombs and live-bait hooks, because a wahoo's jaw is bony
 (`4uNPLknRAQg`). Bait selection and the change-baits-regularly discipline are
 in [wahoo — live bait](wahoo-live-bait.md#how-wahoo-changes-the-execution).
+
+⚠ Fact-check (unverifiable): row 1's "Catch DC Strike" is an ASR
+reconstruction. `0zgmoOH3Qag`, cited on that row, names no such jig — its
+line is "if you're not on the troll I would throw a Raider jig or catch a
+tackle jig with some toothy wire." The string comes from `9IhmYstB8sA`, whose
+captions read "a 6X junior, the cat DC strike 22s." "6X Jr" resolves cleanly (a
+Salas 6X Jr. is named on camera in `4uNPLknRAQg`); "Catch DC Strike" does not.
+
+⚠ Fact-check (contradicted-by-source): row 2's "off the opposite side" is not
+in `J3FGJj5zYPE` — the instruction is positional, not side-specific: "when a
+trolling rod hooks up you want to cast it out off the side of the boat so
+you're not messing with any hooked up fish" — and the sink is "let it sink back
+a little bit," not to a called depth. The crew-called depth belongs to
+`4uNPLknRAQg`, cited separately in that row's notes.
+
+⚠ Fact-check (contradicted-by-source): row 7's "wire leader on at least one
+lure" — none of the three cited East Cape transcripts mentions wire, or any
+leader, for wahoo. `mG8ZZLFGlT8` and `tcso7Lpm_Xs` describe only the mixed bag,
+and `APsnsunT4gM` names a circle hook. The row's own "no wahoo-specific rigging
+documented beyond the wire requirement" therefore has no requirement behind it
+in these sources; see the lead's flag on the same doctrine.
 
 ## Gear summary (class terms)
 
@@ -225,7 +319,19 @@ wire test, both unreconciled and each with its decision frame, are in
 rate.** The house rule is wire everything, because a lost lure costs **$25** and
 the teeth cut mono regardless of test (`G81HN0dIDg0`, `4uNPLknRAQg`).
 Howard Fulmer runs heavy fluorocarbon instead, reasoning that with a full box
-of lures he can afford to lose one or two to a bite-off (`4uNPLknRAQg`). A
+of lures he can afford to lose one or two to a bite-off (`4uNPLknRAQg`).
+⚠ Fact-check (contradicted-by-source): `4uNPLknRAQg` frames wire as personal
+preference, not a house rule — "I guess that's a personal preference, I'm going
+to wire mine," with casting lures explicitly optional ("you have the option").
+The $25 is a casting lure; trolling lures are quoted in the same passage at
+"40 bucks, 45 bucks, maybe 50 dollars." Howard Fulmer's reasoning is the host's
+characterization of him in answering a viewer question ("Howard, if you have
+plenty of lures in your box... you're comfortable with losing a lure or two"),
+not Howard speaking; the host also voices doubt about the fluoro premise — "I
+don't know if I buy into the 'I'm going to get more bites without wire than
+with wire'." [wahoo trolling](../techniques/wahoo-trolling.md#rigging) renders
+the same passage correctly as "the stated preference on this boat."
+A
 multi-species popper leader of **2–2.5 ft of 100 lb fluorocarbon or mono** —
 no wire, no wahoo caveat — is given while naming wahoo among the targets
 (`JHMCguO7sXE`) — see
@@ -241,6 +347,18 @@ about which presentation you commit to when only one is possible — trolling fo
 the hookup ratio on a short strike, casting for the number of bites. On a boat
 that can do both, the troll is what stops the boat and the cast is what works
 the stop (`4uNPLknRAQg`).
+⚠ Fact-check (contradicted-by-source): the trolling half of this conflict is
+not what `97clKtVsEOs` says. Its comparison is bomb-versus-**jig**, not
+troll-versus-cast, and the speaker is casting the bomb — "I'm starting with a
+bomb... the reason I think that success ratio is good on these is because other
+than the head, the wahoo like to take off the back half of a fish... hookup
+ratio in my opinion is a lot better with these than with a jig." The only lure
+trolled in that video is a Marauder. The speaker is Tony, the charter host,
+marking it as opinion ("I feel like," "in my opinion"), not the crew; the trip
+produced one wahoo and its own recap is "we gave it a shot for some wahoo but
+the wahoo weren't there." `-62xDo4UQzo` also makes no troll-versus-cast
+comparison at all — the bite-frequency claim is `J3FGJj5zYPE` alone ("nine
+times out of ten you'll get picked up on these lures").
 
 ## Landing & handling
 

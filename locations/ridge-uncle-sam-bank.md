@@ -188,4 +188,5 @@ with the species and region notes that carry them:
 - [The "lower banks"](lower-banks.md)
 - [The Ridge (Magdalena Bay)](the-ridge.md)
 - [Thetis Bank](thetis-bank.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->
