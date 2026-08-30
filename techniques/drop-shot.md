@@ -71,6 +71,13 @@ pick (`_XfScSliRVk`). The stated reason to reach for it: it lets the bait
 movement of the line or rod tip, or any current, spins the bait in circles
 instead of holding it fixed in one orientation. Stated tradeoff: tying it on
 costs **one more knot** than a standard drop-shot hook tie.
+⚠ Fact-check (contradicted-by-source): this sentence and the 360°-swing claim
+above it are cited to `_XfScSliRVk`, but that 39-second transcript ends after
+the hook-point-up-facing tie instruction and never mentions swinging, 360°,
+current, or an extra-knot tradeoff. That content is only in `_rcxIWhNMSE`
+("it allows your bait to swing freely in a 360°... it'll swing that bait
+around in circles"; "the downfall... is one more knot") and its verbatim
+re-cut `M2qZiY2lR98` — reads as a miscited video ID, not a content error.
 
 **Simpler alternative — number 2 mosquito hook** (`_XfScSliRVk`): for anglers
 who don't want to deal with the swivel-built hook, described as "very popular
