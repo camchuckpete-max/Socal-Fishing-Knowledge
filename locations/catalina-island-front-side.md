@@ -183,8 +183,9 @@ Forty charted spots, grouped as the run reads W→E:
   Landing, and West End Humps 1–3.
 - **Arrow Point to the Isthmus** — Arrow Point, Indian Rock, Eagle Reef Buoy,
   Lions Head, Ship Rock, Isthmus Reef, Bird Rock Reef. This is the MPA-edge
-  stretch: every spot in it carries a boundary rule (cameron). Two Harbors is
-  the corpus's named tournament base for the island (`iQLyBzhOSi8`).
+  stretch: every spot in it carries a boundary rule (cameron).
+  [Two Harbors](two-harbors.md) is the corpus's named tournament base for the
+  island (`iQLyBzhOSi8`).
 - **Mid-island** — Yellowtail Point, Empire Landing, Red Bluff, Little Gibraltar
   Main Big Rock, Long Point, Hen Rock Kelp.
 - **Toyon to the east end** — Toyon Bay, Gallaghers, Can Dump Kelp, East End
@@ -240,6 +241,7 @@ Charted positions for all forty spots are in
 - [Stony Point](stony-point.md)
 - [The Slide (Catalina)](slide.md)
 - [Toyon Bay](toyon-bay.md)
+- [Two Harbors](two-harbors.md)
 - [West End Humps 1](west-end-humps-1.md)
 - [West End Humps 2](west-end-humps-2.md)
 - [West End Humps 3](west-end-humps-3.md)
@@ -307,6 +309,7 @@ Trip reports and per-source provenance:
 - [The Slide (Catalina)](slide.md)
 - [The Slide / 152 / 277](slide-152-277.md)
 - [Toyon Bay](toyon-bay.md)
+- [Two Harbors](two-harbors.md)
 - [West End Humps 1](west-end-humps-1.md)
 - [West End Humps 2](west-end-humps-2.md)
 - [West End Humps 3](west-end-humps-3.md)

@@ -468,4 +468,5 @@ Trip reports and per-source provenance:
 - [Swimbaits](../techniques/swimbaits.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Two Harbors](../locations/two-harbors.md)
 <!-- backlinks:end -->

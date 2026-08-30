@@ -420,6 +420,7 @@
 - [Tranquillo Kelp](tranquillo-kelp.md) **[Baja only]** — A charted spot at 30°17.000'N 115°49.000'W (cameron), in the San Quintin zone.
 - [Trestles](trestles.md) **[SoCal only]** — A charted spot at 33°22.790'N 117°36.280'W (cameron), in the Dana Point zone.
 - [Tuna Hole (179)](tuna-hole-179.md) **[Baja only]** — A charted spot at 30°11.000'N 116°29.000'W (cameron), in the 179 / 220 zone.
+- [Two Harbors](two-harbors.md) **[SoCal only]** — The harbour at Catalina's isthmus, on the island's front side.
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md) **[Baja only]** — A zone is a run grouping.
 - [Upper 500](upper-500.md) **[Baja only]** — A charted spot at 31°46.000'N 117°30.000'W (cameron), in the Upper 500 / Hidden Bank zone.
 - [Upper Cross / 421 / 390](upper-cross-421-390.md) **[Baja only]** — A zone is a run grouping.
@@ -458,5 +459,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 445 notes exceed the 30-node cap._
+_Map skipped: 446 notes exceed the 30-node cap._
 <!-- mermaid:end -->
