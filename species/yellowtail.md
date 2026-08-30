@@ -44,6 +44,10 @@ kelp-line fish from LA to San Diego, and the paddy program peaks
 — island fish keep biting while the water holds, and paddy yellows still show
 as bycatch on dorado-dominated paddies (`HcEh5KOYTH4`, `CrLDC4O8qS8`,
 `VWClGAn2WEw`).
+⚠ Fact-check (contradicted-by-source): no month, "October", "November" or
+"fall" appears in any of the three — October is inferred from their upload
+dates and November from none of them; the "island fish keep biting while the
+water holds" half is absent from all three, which are offshore paddy trips.
 
 Presence is not catchability. Some yellowtail are in La Jolla year-round, and
 half-day boats can go months between fish there — the catchable windows are
@@ -55,6 +59,10 @@ Bocana holds fish more or less year-round, grade improving south; Cedros
 holds resident "home guard" fish — 40+ lb, sometimes 30 lb — in any month
 (`WE643Fue1_A`); BOLA's [September](../seasonal/september.md) fish sit on the
 bottom.
+⚠ Fact-check (contradicted-by-source): `WE643Fue1_A` scopes home-guard fish
+spatially, not seasonally — "you have a shot at hooking a home guard yellowtail
+at any moment any part of the island" — and states no month or year-round
+claim; the grades (40+ lb, "even a 30 pounder") are verbatim.
 
 Zone-by-zone programs live in the [zone guides](#zone-guides) below; every
 named spot is queued in the [spot gazetteer harvest](../sources/spot-harvest.md);
@@ -74,6 +82,14 @@ under kelp paddies.
   the squid relocating, not the fish leaving — find the forage on the meter
   before writing the zone off, and throw a squid-colored jig with glow at
   squid feeders (`YZtX1MiT0y8`).
+  ⚠ Fact-check (contradicted-by-source): `JaKSGkZ6CAc` says "30 40 50 fathoms
+  deep here", not 30–40.
+  ⚠ Fact-check (contradicted-by-source): the squid-colored glow jig in
+  `YZtX1MiT0y8` is a **bluefin** call at Tanner — "when they're at tanner and
+  they're feeding on squid a squid colored jig with some glow could make a
+  difference in getting bit" — not a yellowtail one; "find the forage on the
+  meter" is also absent, the source's remedy being boats searching the zone
+  again.
 - **Sardine and mackerel — bait size selects grade.** Sardine is the standard
   flyline and chum bait. Bigger mackerel selects bigger fish: Cedros crews
   spend days making giant mackerel for the resident grade (`Zo92MG459gQ`,
@@ -82,6 +98,15 @@ under kelp paddies.
   ball key on the larger item (`d0yGBQDeY_4`). Mackerel spawning peaks late
   spring–early summer, putting that bait close to shore and spread out
   (`0dIwWiOc1NY`).
+  ⚠ Fact-check (contradicted-by-source): `d0yGBQDeY_4` records one mackerel on
+  the outside getting eaten — "get on the outside of the bait ball, those
+  yellowtail are surrounding this bait ball... they saw that big nice juicy Mac
+  and they took it" — with no bait fished in the middle for comparison; the
+  comparative "out-produces" is not in the transcript.
+  ⚠ Fact-check (single-source): the mackerel spawning window is the corpus's
+  only statement of it — "late spring and early summer is peak spawning season
+  for mackerel, which means they're close to shore and spread out all over";
+  queued for external verification.
 - **Bank residency has one documented driver:** bait squid staging on the
   bank (`Rb5I2ljAqeE`).
 - **A kelp paddy is its own ecosystem.** Small bait under the kelp draws the
@@ -116,12 +141,30 @@ forage), never yellowtail.
   (`YZtX1MiT0y8`); a Cortez high spot turned on with the incoming tide
   (`UfuiWFVvz2E`). Hour-specific calls — ~5:00–5:45 pm at San Clemente
   (`V_ONnegk95M`), a repeated noon window at one Benitos spot
-  (`ilINTeknKB4`) — are same-spot boat reads, not rules. ⚠ Flagged gap — no
+  (`ilINTeknKB4`) — are same-spot boat reads, not rules.
+  ⚠ Fact-check (contradicted-by-source): `YZtX1MiT0y8` names a **lunar** cycle,
+  not tide or current — "now we're getting into it off the lunar cycle this
+  window lay down"; in `UfuiWFVvz2E` the incoming tide is the captain's stated
+  plan ("we're planning on fishing yellowtail for the first part of the
+  afternoon... as this high tide starts rolling in"), not an observed turn-on.
+  A tide tie does exist elsewhere in the corpus (`0dIwWiOc1NY`, a missed
+  yellowtail window: "the tides were off, too, so we moved on").
+  ⚠ Fact-check (contradicted-by-source): the `V_ONnegk95M` window is a
+  **morning** one — the pre-trip briefing ("nothing happening until about five,
+  five thirty, five forty five... that's when you wanna start soaking baits")
+  is for the next day's fishing, and that next day opens "little gray light
+  bite, that's what captain jeff was saying"; "pm" inverts it.
+  ⚠ Flagged gap — no
   corpus source: scope — whether tide gating applies to open-water paddy fish
   or only structure fish.
 - **Wind moves the bite down, not off.** Hard wind (20–25 kt+) after a run of
   surface days sends the bite to the yo-yo — the fish are still there, no
-  longer showing on top (`ejUTAnONf7o`). ⚠ Flagged gap — no corpus source:
+  longer showing on top (`ejUTAnONf7o`).
+  ⚠ Fact-check (contradicted-by-source): the source gives one unitless number —
+  "super windy out here, I think it's pushing 25" / "Gust 25" — never knots,
+  never mph, and never a 20–25 range; the same figure is carried in the
+  Situations → techniques row below.
+  ⚠ Flagged gap — no corpus source:
   mechanism — why wind takes them off the top.
 - **Depth is not dormancy — and a mark is not a bite.** A school metered deep
   and not showing can still be caught at its depth, so the yo-yo is worth
@@ -146,6 +189,10 @@ below are the yellowtail-specific layer.
   — cast at the activity and read how the iron swims back to the boat
   (`D5DR7Kx42_A`). On paddies, look for fish flashing under the kelp; a
   school can also show as bait "shattering" on the surface (`qM7iOO7fOBw`).
+  ⚠ Fact-check (contradicted-by-source): `qM7iOO7fOBw` has no paddy and no
+  kelp — the call is over a La Paz high spot ("look at the bait over there
+  shattering... it's a Yellow Tail school"), Sea of Cortez, not offshore SoCal
+  kelp water; nothing in it covers fish flashing under kelp.
 - **Birds.** Working terns are the run-to bird; gulls sitting on floating
   kelp are the paddy-finders — behaviors and ranges in
   [bird reading](../conditions/bird-reading.md).
@@ -156,6 +203,11 @@ On the meter, the depth bands come first:
   boil-ups at ~5–10 fathoms near pinnacles and high spots (`D5DR7Kx42_A`).
   Grade the bottom before hunting fish sign: thin return = sand/mud, thick
   return = rock, and the fish hold on rock (`6DzbsElGE7E`).
+  ⚠ Fact-check (contradicted-by-source): `D5DR7Kx42_A` carries no depth figure
+  at all — no fathoms, no feet, and no "arcs", "boil-ups", "pinnacles" or "high
+  spots"; it supports only "we see tight balls of yellowtails sometimes hugging
+  the structure". The 5–10 fathom band also sits in front-matter `sonar_depth`
+  and in the Situations → techniques row below.
 - **Paddy fish** often don't meter at all — check a paddy fast (look, one
   bait, sonar under the kelp). A paddy with no surface activity can still
   carry boomerang-shaped arcs around 90–120 ft; give it a minute or two
@@ -164,6 +216,11 @@ On the meter, the depth bands come first:
 - **Deep Baja high-spot fish** mark in the 150–300 ft band; the logged trip
   found them stacked on the up-current face — observed on deep Baja high
   spots, not generalized (`vqsD0qpwcJA`).
+  ⚠ Fact-check (contradicted-by-source): no current-face language appears in
+  `vqsD0qpwcJA` — its only stacking line is "yellowtail everywhere on this high
+  spot" — and 150–300 ft is a pre-trip expectation there ("that's kind of what
+  I've heard is as far as the zones that we're going to be in") against a
+  fished "we're fishing 150 180 feet deep".
 - **The 40–60 ft read.** Fish metered at 40–60 ft and not yet showing are
   staging up — surface-iron and light-bait fish, not yo-yo fish; when they
   boil, go all-in on the surface iron (`0DKmYId1NN4`). Scoped to structure
@@ -172,6 +229,11 @@ On the meter, the depth bands come first:
   can be the yellowtail pushing bait up off the rocks — the sign to commit
   the anchor over a hard-bottom mark, not the bait pile alone (`6DzbsElGE7E`;
   single-source status in the [evidence file](evidence/yellowtail.md)).
+  ⚠ Fact-check (contradicted-by-source): the source inverts the anchor
+  trigger — the bait pile IS what commits it ("I needed enough bait there to
+  know that I need to get anchored up here", "see all that bait, that lets me
+  know that something's going on here") — and the anchor goes into sand, not
+  onto the rock ("you want to drop your anchor in that sandy part").
 
 Then the shape and spread of the mark show **feeding state**, not just
 position. Fish spread up through the column — stratified lines from the
@@ -182,7 +244,12 @@ tight to the bottom are present but not feeding —
 [dropper loop](../techniques/dropper-loop.md) water, and worth a
 [yo-yo](../techniques/yo-yo-iron.md) burned past them for the reaction strike
 (`HTowqnwAMeA`, `tpmOYXYQwhU`) — but a bottom-hugging ball is not a wide-open
-bite waiting for a good angler. The state flips with the
+bite waiting for a good angler.
+⚠ Fact-check (contradicted-by-source): `tpmOYXYQwhU` contains no bottom-balled
+school, no burned yo-yo and no reaction strike — its yo-yo doctrine is the
+mid-water metered school of the paragraph above ("just about every lure that
+makes it down to the depth that that fish is is a bite").
+The state flips with the
 [triggers above](#feeding-triggers): time the presentation change to tide,
 current, and light, and re-read the meter instead of grinding one read.
 
@@ -191,16 +258,16 @@ current, and light, and re-read the meter instead of grinding one read.
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
 | Boiling/breezing fish, or fish on a **kelp paddy** | 1) [Surface iron — for yellowtail](yellowtail-surface-iron.md) ([general method](../techniques/surface-iron.md)) 2) [flylined bait](../techniques/flyline.md) 3) [stickbait/jerkbait](../lures/tuna-poppers-and-stickbaits.md) | Jig-stick class; 20–30 lb flyline class; 20–50 lb bass-stick class for the hard bait | Cast at the activity, watch the iron's swim; yellowtail iron colors: scrambled egg, bird shit, mint, blue/white ([surface iron — color](../techniques/surface-iron-color.md)); heavier iron (Salas 7X class) in wind to punch the cast [a] |
-| **Tight balls hugging structure** (marks on hard bottom / pinnacles, ~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-speed reel | The yo-yo is the **reaction** presentation — hit bottom and burn it; the strike comes a couple cranks off the bottom. The dropper loop presents **live bait to bottom fish that aren't chasing**. Full-size iron (Salas 6X class, 8 oz) in stronger current, 6X Jr (4 oz) when it's light; vertical/flat-fall change-up 100–180 g by current (`D5DR7Kx42_A`) |
-| **Deep high-spot marks in current** (Baja high spots, 150–300 ft) | 1) [Slow-pitch / knife jigs](../techniques/slow-pitch-jigging.md) 2) [yo-yo iron](../techniques/yo-yo-iron.md) | Slow-pitch / knife-jig class, **130–250 g** | Knife jigs punch down fast through current to deep fish and get bumped on the fall — wind tight (`vqsD0qpwcJA`); the yo-yo owns the mid-to-lower band over ordinary structure (`HTowqnwAMeA`). The 150–300 ft band (bit best 150–180 ft) is a single-trip BOLA data point — status in the [evidence file](evidence/yellowtail.md) |
-| Fish **visible or metered but not eating** | [Flylined bait](../techniques/flyline.md); downsize and fish the window | 20–30 lb flyline class, stepping up by grade/structure [b] | [Hook](../tackle/hooks.md) size follows bait size: No. 2 baseline on a sardine (`fDSd9kqwYW0`, `UfuiWFVvz2E`), J hooks 1–4 downsized when picky (`F9XjGMEvvag`), 2/0–4/0 with bigger baits (`yGXSrUauo2w`); plan the day around the tide/current window |
+| **Tight balls hugging structure** (marks on hard bottom / pinnacles, ~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-speed reel | The yo-yo is the **reaction** presentation — hit bottom and burn it; the strike comes a couple cranks off the bottom. The dropper loop presents **live bait to bottom fish that aren't chasing**. Full-size iron (Salas 6X class, 8 oz) in stronger current, 6X Jr (4 oz) when it's light; vertical/flat-fall change-up 100–180 g by current (`D5DR7Kx42_A`). ⚠ Fact-check (contradicted-by-source): `D5DR7Kx42_A` names "heavy full-size jigs like Salas 6X" with no ounce weight, no 6X Jr and no current-based sizing rule — only the 100–180 g flat-fall figure is verbatim ("from 100 to 180 grams depending on the current"); the row's ~5–10 fm depth is likewise absent from that source. ⚠ Fact-check (contradicted-internal): [yo-yo iron](../techniques/yo-yo-iron.md) puts a Salas 6X at "roughly 5–6 oz" and sizes 6X vs 6X Jr **by depth**, not by current |
+| **Deep high-spot marks in current** (Baja high spots, 150–300 ft) | 1) [Slow-pitch / knife jigs](../techniques/slow-pitch-jigging.md) 2) [yo-yo iron](../techniques/yo-yo-iron.md) | Slow-pitch / knife-jig class, **130–250 g** | Knife jigs punch down fast through current to deep fish and get bumped on the fall — wind tight (`vqsD0qpwcJA`); the yo-yo owns the mid-to-lower band over ordinary structure (`HTowqnwAMeA`). The 150–300 ft band (bit best 150–180 ft) is a single-trip BOLA data point — status in the [evidence file](evidence/yellowtail.md). ⚠ Fact-check (contradicted-by-source): `vqsD0qpwcJA` packs "like 130 gram to 200 gram"; 250 g appears only as one producing jig, so 130–250 g is a merged range rather than a stated one — the same range sits in front-matter `gear_classes` and the Gear summary |
+| Fish **visible or metered but not eating** | [Flylined bait](../techniques/flyline.md); downsize and fish the window | 20–30 lb flyline class, stepping up by grade/structure [b] | [Hook](../tackle/hooks.md) size follows bait size: No. 2 baseline on a sardine (`fDSd9kqwYW0`, `UfuiWFVvz2E`), J hooks 1–4 downsized when picky (`F9XjGMEvvag`), 2/0–4/0 with bigger baits (`yGXSrUauo2w`); plan the day around the tide/current window. ⚠ Fact-check (contradicted-by-source): `UfuiWFVvz2E` states no hook size at all (only "J hooks for the yellowtail"), and `fDSd9kqwYW0`'s ASR reads "a two on hook" / "a two odd hook" — as plausibly 2/0 as No. 2 |
 | **Prospecting an unworked zone** — no sign, no recent report | [Troll](../techniques/trolling.md#socal-local-coast--trolling-hard-baits-to-prospect-a-zone-for-yellowtail) diving hard baits to cover water | Flyline outfit tows 20–30 ft divers; dedicated 6–7 ft troll outfit for 40 ft divers (`HTowqnwAMeA`) | Carry a spread of colors, styles, and dive depths — fish key on presentation, depth, or vibration on any given day (`HTowqnwAMeA`) [c] |
 | **Resident fish over known shallow structure** (Cedros-class zones, 28–30 ft crests) | [Slow-trolled live giant mackerel](../techniques/trolling.md) on a circle hook, worked over the structure | 40 lb line-class floor, 50 lb for most of it ([line & leader](../tackle/line-and-leader.md)) | A standing program over a known rock, not a locate method; no strike — wind tight on the circle hook and back the boat down (`QSmE3mdEL28`). A heavier single-crew bracket is in the [evidence file](evidence/yellowtail.md) |
-| **A trolled rod gets bit** | Keep the other trolled rod working and cast a surface iron/stickbait into the same water while the first fish is fought | Jig-stick class for the follow-up cast | Yellowtail school, so a troll strike means more fish are under the boat — from any boat; a generic 1.5–2 oz jig is the standing follow-up cast (`jo8lMdFZ1bk`); the two-angler version is [panga team trolling](../techniques/panga-team-trolling.md) |
-| **Bonita or similar intercepting flylined baits** before they reach the yellowtail | [Sliding sinker](../techniques/sliding-sinker.md) instead of flyline — the weight carries the bait under the interceptor layer | 30 lb live-bait class, 12–22 lb grade | 2–4 oz egg sinker straight to a J hook (2/0–4/0), scaled to wind/depth (`yGXSrUauo2w`); full build in [Searcher sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md) |
+| **A trolled rod gets bit** | Keep the other trolled rod working and cast a surface iron/stickbait into the same water while the first fish is fought | Jig-stick class for the follow-up cast | Yellowtail school, so a troll strike means more fish are under the boat — from any boat; a generic 1.5–2 oz jig is the standing follow-up cast (`jo8lMdFZ1bk`); the two-angler version is [panga team trolling](../techniques/panga-team-trolling.md). ⚠ Fact-check (contradicted-by-source): `jo8lMdFZ1bk` scopes the drill to a three-man panga ("it's three people, a panga, down there"), not to any boat, and its 1.5–2 oz weight belongs to a Hookup Baits tube jig ("ounce and a half, 2 oz, I call these things the stupid tube"), separate from the stickbait/surface-iron follow-up cast |
+| **Bonita or similar intercepting flylined baits** before they reach the yellowtail | [Sliding sinker](../techniques/sliding-sinker.md) instead of flyline — the weight carries the bait under the interceptor layer | 30 lb live-bait class, 12–22 lb grade | 2–4 oz egg sinker straight to a J hook (2/0–4/0), scaled to wind/depth (`yGXSrUauo2w`); full build in [Searcher sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md). ⚠ Fact-check (contradicted-by-source): `yGXSrUauo2w` shows four weights — "this little one is just a one" plus "2 oz, 3 oz and 4 oz respectively" — so the floor is 1 oz, not 2 |
 | **Hard wind (20–25 kt+) after a run of surface days** — fish metered, not showing | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [surface iron](../techniques/surface-iron.md) as a picker | 40–60 lb yo-yo class | The fleet bite goes mostly yo-yo; the iron still picks a fish — a re-rank, not an abandonment (`ejUTAnONf7o`) |
 | Working a **tube bait** instead of iron — on top or down | [Tube baits](../techniques/tube-bait-fishing.md#yellowtail-surface-pop-retrieve-and-a-half-yo-yo-variant) — surface crank-pop cadence, or the half-yo-yo when fish aren't showing | 8 ft parabolic-bend class, 40 lb+ | Pop-retrieve is easier on spinning gear; downsize to 5/8 oz on follows with no takes; sourcing caveats in the technique note |
-| **Dead time on a live-bait sportboat** between stops | [Cheater troll](../techniques/cheater-troll.md) — one spare rod slow-dragged off the side or back | Swimbait/jig class, double-collar-keeper trailer | An opportunistic one-rod sneak, not a program: stay clear of the live-bait rotation and the boat's own trolling gear — a rail-wide version would be a mess (`NXvqLUZ6qp8`) |
+| **Dead time on a live-bait sportboat** between stops | [Cheater troll](../techniques/cheater-troll.md) — one spare rod slow-dragged off the side or back | Swimbait/jig class, double-collar-keeper trailer | An opportunistic one-rod sneak, not a program: stay clear of the live-bait rotation and the boat's own trolling gear — a rail-wide version would be a mess (`NXvqLUZ6qp8`). ⚠ Fact-check (contradicted-by-source): the window in `NXvqLUZ6qp8` is a troll hookup while the rail queues at the bait tank ("everybody else is standing by the bait tank waiting to give bait, so I will go over to the side"), not dead time between stops; the source says captains are fine with it "as long as you know what you're doing", never that a rail-wide version would be a mess |
 
 [a] The stickbait/jerkbait (Colt Sniper class) is the visual, high-action
 alternative; no distinct retrieve is documented beyond casting to the boil.
@@ -307,6 +374,11 @@ guide per zone:
   else goes back (`5p6gu14ZC4w`). As of 2022-10; registered in
   [regulatory claims](../sources/regulatory-claims.md); **verify current MPA
   rules with CDFW before fishing.**
+  ⚠ Fact-check (contradicted-by-source): the kept-species list is verbatim
+  ("you can only keep yellowtail and Bonita, everything else needs to go back,
+  that's in the Marine closure in there"), but `5p6gu14ZC4w` never names
+  Farnsworth — the auto-caption reads "I'd look at the at the foreign First
+  Bank" — and states no jurisdiction, agency or MPA designation.
 - ⚠ Flagged gap — no corpus source: California (CDFW) bag/size limits for
   yellowtail, and any Mexican (CONAPESCA) yellowtail limits — verify with the
   issuing agencies before a trip.
@@ -331,6 +403,10 @@ guide per zone:
   the surface iron cannot reach; [dropper loop](../techniques/dropper-loop.md)
   on the bottom for inactive fish — and bigger fish hang deeper while the
   school spreads through the column.
+  ⚠ Fact-check (contradicted-by-source): the layer map is verbatim, but the
+  "not interchangeable" framing runs against the same source — "you can't
+  really be glued to a certain technique or style of fishing", and "you can use
+  the same stuff that you use fly lining" for the 20–30 ft divers.
 - **Water state vs the calendar — the decision rule.** Planning a yellowtail
   day: weight water state (temperature + bait), not the date. The
   [year-anniversary prior](../seasonal/year-anniversary-prior.md) — go back
@@ -352,13 +428,29 @@ guide per zone:
   dull gaff cost two shots on a big resident fish — and put a **tail rope**
   on the big ones once gaffed (`RPSRH0jwyw4`); sizing and shot mechanics in
   [gaffing](../fish-care/gaffing.md).
+  ⚠ Fact-check (contradicted-by-source): the species of the multi-shot fish is
+  unconfirmed in `RPSRH0jwyw4` — the crew call it a possible halibut on camera
+  ("possible halibut, is not fighting like a yellowtail") — and the shot count
+  is inferred from "third time the charm"; the dull-gaff and tail-rope details
+  are verbatim.
 - **On resident fisheries, release smaller-grade fish and stop keeping at the
   boat's allotment** — kept fish pile up in the freezer (`QSmE3mdEL28`,
   `u0scEBby7nA`).
+  ⚠ Fact-check (contradicted-by-source): `QSmE3mdEL28` carries this ("they're
+  just going to be sitting in the freezer... if they're small then you let them
+  go"), but `u0scEBby7nA` does not — there the ceiling is an air-freight weight
+  allowance ("36 kilos per person, including luggage and fish"), releases are
+  limit-driven rather than size-driven, and the freezer is the lodge's holding
+  room for transport.
 - **Bleed on deck, hang it head-down, then ice.** Cut the artery as soon as
   the fish is on deck — almost all of its blood pumps through that artery
   within minutes — then hold the fish upside down in a bucket for about
-  5 minutes before icing it (`Klfb433I3Uk`). The same bleed-then-chill chain
+  5 minutes before icing it (`Klfb433I3Uk`).
+  ⚠ Fact-check (single-source): the physiological premise — "almost all the
+  fish's blood goes through this artery within a matter of minutes" — rests on
+  this one source; queued for external verification. The procedure itself is
+  verbatim ("in a bucket upside down like that... five minutes or so").
+  The same bleed-then-chill chain
   in tuna terms is in [tuna care](../fish-care/tuna-care.md).
 - ⚠ Flagged gap — no corpus source: yellowtail-specific chilling (slurry
   mix, chill time by grade) or ikejime parameters — general method in
