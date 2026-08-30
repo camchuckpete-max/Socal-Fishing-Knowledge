@@ -28,6 +28,16 @@ water clarity and how the fish are biting pick between them (`GVP3IChsmRQ`). Thi
 the universal bay layout is in
 [bays and harbors](../locations/bays-and-harbors.md).
 
+⚠ Fact-check (contradicted-by-source): the cited transcript gives only the
+two-bucket split — "they all break down to either power fishing or finesse" —
+and never names the selector. Water clarity as the chooser is stated in
+`XyKF34C5iB4` (clear water → leave the grass for the docks), not here, and
+"how the fish are biting" appears in no cite.
+⚠ Fact-check (contradicted-by-source): the source gives two panelists' separate
+personal bests, not one angler's range — "My biggest spotty is like 2.8… I'm
+still searching for that 3+" and "My biggest spot[ted] bay bass is 3 1/2 lb."
+The 2.8–3.5 span is assembled here, and it is what sets the note's tackle scale.
+
 ## Where & when
 
 **Where.** San Diego Bay, Mission Bay, Newport Bay and the LA/Long Beach
@@ -58,6 +68,11 @@ calendar-driven — Newport fish were still holding summer positions on
 cold-water months they favour calmer zones where the water goes up and down
 rather than in and out, because those hold a more stable temperature instead of
 flushing cold ocean water through twice a day (`YgqXf9iICyg`).
+⚠ Fact-check (contradicted-by-source): the source self-flags this one as
+speculation and nothing else in the corpus carries it — "I truly believe… all
+you spotty experts are probably going to hold my feet to the fire over this."
+Stated flatly here; the mechanism (stable temperature, no daily ocean flush) is
+verbatim, the certainty is not.
 
 **Presence is not catchability.** Winter tournament stretches that produce well
 in cold water go empty in summer — the fish have relocated to the mouth to
@@ -117,6 +132,11 @@ the harbor mouth to do it, and want **20 ft of water and more** to spawn in
 water column, the males swim through and spawn over them, the eggs drift, and
 the larvae settle out onto eelgrass or sand on their own (`YgqXf9iICyg`). Bait
 fish holding near the mouth eat the drifting eggs (`YgqXf9iICyg`).
+⚠ Fact-check (single-source): the corpus's only statement of the spawning mode,
+and the auto-caption of it is garbled — the source has the young "land on
+eelgrass or on the sand and then eventually they hatch," i.e. settle *before*
+hatching, where the note has larvae settling *after*. A reproductive-biology
+claim with published literature outside the corpus.
 
 The bite consequence is positional rather than appetite-driven: once the fish
 have made the move to the mouth there is no reason for them to go back to the
@@ -137,16 +157,35 @@ trigger for it, and whether the bite itself slows during the spawn.
   changes is *how* they bite, not whether — see
   [Doctrine & conflicts](#doctrine--conflicts) for the competing read of the
   slack window ([tide and slack](../conditions/tide-and-slack.md)).
+  ⚠ Fact-check (contradicted-by-source): the cited source puts the half hour
+  only *after* the turn — "once the incoming tide stops these fish have probably
+  a half an hour of slack tide where they could swim around and go catch bait
+  fish out of the open." "Either side of the turn" is the competing
+  (`EGKesj7V64M`) framing, applied here to the source it is being contrasted
+  with, which flattens the conflict the Doctrine section keeps.
 - **Tide swing sizes the day, and the threshold is per-bay.** In San Diego Bay a
   **1–2 ft** swing is a day to do something else — fish can still be caught
   around slack, but it is marginal — and about **3.5–6.5 ft** is the best range
   (`AH4Eiya1Hn0`). In Mission Bay **4–5 ft** is the target range, and a swing
   near **7 ft** pushes fish to hunker down and forces a move to the back bay to
   keep catching (`6-mi3Qxn37c`).
+  ⚠ Fact-check (single-source): the San Diego Bay thresholds are one charter
+  captain's stated rule of thumb, prefaced "this is my theory," and the numbers
+  are verbatim ("one to two foot tide swings find something else to do…
+  ultimate tide in San Diego Bay is like three and a half to 6 and a half
+  foot"). Nothing else in the corpus gives a per-bay swing threshold; the
+  Mission Bay figure beside it comes from a different bay and a different
+  presenter, so the two do not corroborate each other.
 - **Tide height moves them vertically.** On a rising or high tide they push up
   shallow onto ground they cannot reach at low water and ambush from there, so
   work baits as shallow as the tide allows; on a falling or low tide they pull
   off the flat onto the adjacent drop-offs and structure (`lP6cg4eEU6s`).
+  ⚠ Fact-check (contradicted-by-source): the source keys this to tide *height*,
+  not tide *direction* — "during low tide they can't get to certain areas…
+  I'll generally throw this shallow as I can on the higher tide… when it is
+  little tide they will pull off." "Rising" and "falling" are added here, and
+  the drop-off half comes from a separate answer about where he targets in the
+  bay generally.
 - **Shade on a bright high tide.** Bay bass "don't have eyelids", so they favour
   shade and stay off open, sun-exposed flats — stated both for comfort and to
   stay out of a diving seal's sightline (`lP6cg4eEU6s`).
@@ -217,17 +256,17 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | Tide slacked off and the station bite died | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** — cover water, they are hunting in the open | 8–10 ft **crank class**, slow-retrieve 200 reel | Slack does not stop the bite, it changes it; a roaming fish will come 20 ft to a rattling crank, so keep the boat moving instead of grinding one spot (`YgqXf9iICyg`) |
 | Eelgrass flats, mooring cans, channel edges — moving tide (power fishing) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** — the power-fishing pass | 8–10 ft crank class | Vary the cadence and use a total pause — both anglers got bit on the dead stop; rod tip low, lifted to ride above grass and dipped in the water to gain a foot of depth. Execution and the hardware upgrades live in the technique note (`GVP3IChsmRQ`) |
 | Deeper eelgrass beds (Newport Harbor) | **10 ft- and 16 ft-rated crankbaits** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | crank class | Called "dynamite on the really really big spotted bay bass"; a deeper variant beside, not a replacement for, the 8–10 ft crank program (`46ha7J1Fc6A`) |
-| Shore-pounding/skiff shallow eelgrass, windy, water carrying some colour | **[Spinnerbait](../techniques/spinnerbaits.md)** (War Baits HD, 1 oz) — sink to bottom, rip clear of grass, wind on the blade lift, pause and flutter | harbor bass class | Newport Harbor plan: pair with a downsized PK3-on-neck-breaker in "spotty" colour; if the water turns up clear instead, switch the whole plan to the docks below rather than keep fishing the grass (`XyKF34C5iB4`) |
-| Docks/pilings, water clear rather than coloured | **Flip a slow-pitch jig or crank the pilings** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | bass class | In clear water the fish are less willing to leave the grass to feed because they are exposed to birds and seals; they still relate to the grass but feed from dock and piling cover instead (`XyKF34C5iB4`) |
+| Shore-pounding/skiff shallow eelgrass, windy, water carrying some colour | **[Spinnerbait](../techniques/spinnerbaits.md)** (War Baits HD, 1 oz) — sink to bottom, rip clear of grass, wind on the blade lift, pause and flutter | harbor bass class | Newport Harbor plan: pair with a downsized PK3-on-neck-breaker in "spotty" colour; if the water turns up clear instead, switch the whole plan to the docks below rather than keep fishing the grass (`XyKF34C5iB4`) ⚠ Fact-check (contradicted-by-source): the Situation column adds two conditions the source does not give. The scenario is stated as "if I was on the shore, if I was shore pounding" — no skiff — and wind is never a condition in it; the only "windy" in the passage is the retrieve ("you're casting and winding"). The colour read is real but is tied to a specific rain ("it did just rain on Wednesday and Thursday, which means the water gets a little more dirty"), not to a general dirty-water rule |
+| Docks/pilings, water clear rather than coloured | **Flip a slow-pitch jig or crank the pilings** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | bass class | In clear water the fish are less willing to leave the grass to feed because they are exposed to birds and seals; they still relate to the grass but feed from dock and piling cover instead (`XyKF34C5iB4`) ⚠ Fact-check (contradicted-by-source): the source states the reluctance as opinion, not fish behaviour — "I personally feel like they're not as comfortable to come out of the grass because they also have to watch out for predators like birds, seals." He then says *he* goes to the docks ("I'll go straight to the docks and I'll start flipping a slow pitch jig or fishing the crankbait right on those pilings"); that the fish feed from dock cover instead is added here |
 | Docks, pilings, riprap — pitch to cover (finesse) | **Small plastics** — Zoom fluke on a 1/4–3/8 oz ballhead flipped into the pilings, watch the line, swing on the take ([bay bass plastics](../lures/bay-bass-plastics.md)) | light spinning / low-profile, 10–20 lb | Deadly effective — 60 fish in a San Diego afternoon; a beefier hook on the head weighs the bait down and kills the action, so accept the occasional straightened hook. Swing hard: fish run around pilings and into grass (`GVP3IChsmRQ`) |
-| Pilings and moorings **2–3 ft apart**, the fish has to be turned before it wraps | **[Structure pitching — docks, pilings and moorings](spotted-bay-bass-structure-pitching.md)** — pitch a small swimbait or dart-spin at the cover and steer it out immediately ([general method](../techniques/swimbaits.md)) | structure-casting class, 12–20 lb, [gear classes](../tackle/gear-classes.md) | Gear ratio and its mechanism, leader class, bait and head sizing, and the fight rule are all in the sub-article (`46ha7J1Fc6A`) [a] |
+| Pilings and moorings **2–3 ft apart**, the fish has to be turned before it wraps | **[Structure pitching — docks, pilings and moorings](spotted-bay-bass-structure-pitching.md)** — pitch a small swimbait or dart-spin at the cover and steer it out immediately ([general method](../techniques/swimbaits.md)) | structure-casting class, 12–20 lb, [gear classes](../tackle/gear-classes.md) | Gear ratio and its mechanism, leader class, bait and head sizing, and the fight rule are all in the sub-article (`46ha7J1Fc6A`) [a] ⚠ Fact-check (contradicted-by-source): the 2–3 ft spacing is scoped to docks only and hedged — "especially if you're fishing docks pitching docks and so sometimes those docks are only 2 3 feet in between and you got to get them coming your way." Moorings and pilings are discussed separately in the same segment and are never given that spacing; the Situation column widens both the structure type and the certainty |
 | Fish sitting hard on the bottom, colder months, shore or boat | **[Bottom jig crawl](spotted-bay-bass-bottom-jig-crawl.md)** — craw/creature bait on a jighead: cast, sink fully, then either slow grind along the bottom or swim it straight ([general method](../techniques/leadhead-swimbait-retrieve.md)) | bass class | The bottom-composition read, the re-establish-contact pause and the fall-rate variation are all in the sub-article (`lP6cg4eEU6s`) [b] |
 | Back-bay, smaller aggressive fish, finesse | **[Ned rig](../techniques/ned-rig.md)** — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap or speed-up; one durable bait catches 50 fish (`GVP3IChsmRQ`, `um5MAeCjNDg`) |
 | Fish suspended off structure / need a slow horizontal fall | **[Drop shot](../techniques/drop-shot.md)** | light spinning class | Holds the bait at their level over a channel edge |
 | Live bait around structure | **Sabiki whatever bait is on the spot, then fish it live** ([flyline](../techniques/flyline.md)) | finesse fly-line class | Catch the small baitfish holding on the dock or bridge and fish it right there — "every single one gets eaten" (`AH4Eiya1Hn0`) |
-| Covering water, want multiple hookup chances at once | **Umbrella rig / A-rig** — several small swim jigs on a bent-wire harness ([swimbaits](../techniques/swimbaits.md)) | casting, standard bass class | Mission Bay build (`G6YRT4HNxr8`), corroborated by a second presenter (`6-mi3Qxn37c`) |
+| Covering water, want multiple hookup chances at once | **Umbrella rig / A-rig** — several small swim jigs on a bent-wire harness ([swimbaits](../techniques/swimbaits.md)) | casting, standard bass class | Mission Bay build (`G6YRT4HNxr8`), corroborated by a second presenter (`6-mi3Qxn37c`) ⚠ Fact-check (contradicted-by-source): the Situation column is in neither cite. `G6YRT4HNxr8` gives only the build (five arms bent "parabolic" for an even spread, five small anchovy swimbaits, Palomar) and one stated reason — "super fun to fish"; `6-mi3Qxn37c` gives presentation ("keep it in the strike zone," a straight grind) and terminal spec, not a when-to-pick-it. Covering water and multiple hookup chances are the note's rationale, not the corpus's |
 | Fishing at night, artificial light on the water (dock/parking-lot/terminal lighting) | **[Night bass fishing](../techniques/night-bass-fishing.md)** — target the lit stretches with a reaction bait | bass/crank class | Fish expose themselves to feed in the light after dark; pre-mark light posts on a map and run the lit zones as a pattern rather than blind-working the harbor |
-| Harbor worked and nothing is happening | **Cycle the structure types, fast bait then slow, before leaving** | whatever is already tied on | Grass to docks, then commit to any rock present, trying a moving presentation and a slow one at each; if a long drive is already sunk into the spot, slow down and crawl a jig through the same water instead of relocating (`XyKF34C5iB4`) |
+| Harbor worked and nothing is happening | **Cycle the structure types, fast bait then slow, before leaving** | whatever is already tied on | Grass to docks, then commit to any rock present, trying a moving presentation and a slow one at each; if a long drive is already sunk into the spot, slow down and crawl a jig through the same water instead of relocating (`XyKF34C5iB4`) ⚠ Fact-check (contradicted-by-source): one row merges two panelists and drops a third who disagrees. The grass→docks→rock cycle with fast-then-slow at each is Lane's; the long-drive "I'm probably not going to move… I might slow down… I'm crawling a jig" is a second panelist; a third answers the same question with the opposite call — "I'm just trying to find a different area." Stated here as a single agreed procedure |
 
 [a] The full dock/piling/mooring structure program — the head-turning gear ratio
 and its mechanism, the halibut-sized leader, bait and jighead sizing, the
@@ -244,6 +283,15 @@ crab mechanism, and the `asr-uncertain` bait brand — is in
   reel; 10 ft casts furthest and gets the bait down sooner, and 8 ft is the
   floor for casting distance and the practical choice in a small skiff
   (`GVP3IChsmRQ`).
+  ⚠ Fact-check (contradicted-by-source): the rod half is verbatim; the reel half
+  is inverted. The source describes the slow reel as what he *left* — "used to
+  be a real slow retrieve reel… this is an old Abu Garcia winch… but now Eric
+  and I both went… I'm actually fishing a 200, these are six four one [6.4:1],
+  six seven one [6.7:1]… I don't even notice the difference… you don't really
+  need that big winch style reel." "Slow 200-size reel" propagates to the
+  crankbait rows above, the note's `gear_classes` front matter, and
+  [inshore crankbaits](../techniques/inshore-crankbaits.md#gear-class), which
+  cites the same video for it.
 - **Light spinning / low-profile finesse class, 10–20 lb:** flukes, Ned rig and
   drop shot.
 - **Structure-casting class, 12–20 lb:** an all-graphite, light and sensitive
@@ -287,6 +335,12 @@ material".
   before fishing.** Spotted bay bass carry **no minimum size limit**, unlike
   [calico bass](calico-bass.md) and [sand bass](sand-bass.md), which are both
   **14 in** (`usHl-4SfqDA`).
+  ⚠ Fact-check (single-source): the size figures are verbatim narration — "size
+  limits for calico bass and sand bass are 14 inches, while spotted bass don't
+  have a size limit" — but the source names no agency and gives no date. The
+  California/CDFW jurisdiction and the 2024-11 as-of stamp are supplied here
+  from the video's upload date, and one uncited on-camera line is the whole
+  corpus basis for a regulation.
 
 Registered in [regulatory claims](../sources/regulatory-claims.md).
 
@@ -304,6 +358,11 @@ Section order below is not a ranking.
   back bay with flukes and the Ned rig (`YgqXf9iICyg`, `GVP3IChsmRQ`). Spotties
   are the tide-driven opposite of the current-driven, tide-indifferent
   [calico](calico-bass.md) outside the harbor mouth.
+  ⚠ Fact-check (contradicted-internal): [calico bass](calico-bass.md#doctrine--conflicts)
+  carries a standing `contradicted-by-source` flag on **tide-indifferent** —
+  none of the three cites behind it mentions tide at all. This note restates the
+  flagged characterization as the far half of its own contrast, so the contrast
+  is only as good as a claim the KB has already queued for Cameron.
 - **What to do at slack — two reads, and the choice turns on whether you can
   change presentation.** If you can switch from station-fishing to covering
   water, slack is fishable: Erik Landesfeind's position is that the fish do not
@@ -313,6 +372,13 @@ Section order below is not a ranking.
   one spot and one bait, Roman Castro's position applies: current all but stops
   for roughly the half hour either side of the turn, so fish the moving-water
   stretches on either side rather than the window itself (`EGKesj7V64M`).
+  ⚠ Fact-check (contradicted-by-source): Castro's claim is about the fishing,
+  not the water — "the tides… look like a sine wave, right at this half hour
+  before and half hour after the peaks, that's when it's gonna be the slowest
+  fishing; wanna fish when there's the most current and water movement." He
+  never says current stops. Restated as a hydraulic claim, it reads as a
+  factual disagreement with the position above it, when the two sources
+  actually differ over what to *do* in the same window.
 - **The bay is the all-weather fallback.** When the outside coast is blown out
   or rained on, spotties in the harbor stay catchable, which keeps a day alive
   when the offshore or island plan dies.
@@ -343,6 +409,12 @@ Section order below is not a ranking.
 - **Grade and strength.** Personal bests run **2.8–3.5 lb** (`XyKF34C5iB4`), but
   a fish that size in structure is strong enough to "turn a 14-ft skiff on a
   run" (`46ha7J1Fc6A`).
+  ⚠ Fact-check (contradicted-by-source): the quote is verbatim — "these fish
+  although not huge in size make a really good account of themselves, I've had
+  them turn a 14-foot skiff on a run" — but `46ha7J1Fc6A` gives no weight
+  anywhere. "A fish that size" grafts the 2.8–3.5 lb figures from a different
+  seminar onto it, so the skiff claim reads as scoped to a grade its own source
+  never states.
 - **Spotties are typically released rather than kept** — a fighting fish, not a
   table fish (`usHl-4SfqDA`). General procedure is in
   [dehooking & release handling](../fish-care/dehooking-and-release.md).
