@@ -46,7 +46,7 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
   - `Feeding triggers`: gap — mechanism — what puts a school up, and how
   - `Feeding triggers`: gap — light window, tide or slack, current, or
   - `Finding them (sign & sonar)`: gap — species-specific sonar depths for bonito.
-  - `Situations → techniques`: gap — rod/line weight, leader or fly pattern for bonito, and no fly-fishing technique note exists to link |
+  - `Situations → techniques`: gap — rod/line weight, leader or fly pattern for bonito, and no fly-fishing technique note exists to link. ⚠ Fact-check (single-source): the one record is a named **Catalina** fly guide's catch in a 2022-10 report ("catching Calico, Bonita, even Whitefish on flies"); "from a guide skiff, coast or island" generalises it, and the source says "whitefish", not "ocean whitefish" |
   - `Zone guides`: flagged stub row
   - `Zone guides`: zone guide missing
   - `Zone guides`: zone guide missing
