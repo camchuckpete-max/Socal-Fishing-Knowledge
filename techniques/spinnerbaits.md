@@ -27,9 +27,15 @@ out of the grass on its own is the advantage (`XyKF34C5iB4`).
 - **Shore-pounding or skiff-fishing shallow eelgrass flats in a harbor**
   (demonstrated for Newport Harbor) — a long cast covers water fast, and the
   blade keeps the bait riding up out of the grass instead of fouling in it
-  (`XyKF34C5iB4`).
+  (`XyKF34C5iB4`). ⚠ Fact-check (contradicted-by-source): the cited passage
+  only gives "shore pounding" ("if I was on the shore, if I was shore
+  pounding, I would go find zone as grass") — skiff-fishing is not mentioned.
 - **Windy conditions** — the bait's weight and profile cast well into wind,
-  where a lighter finesse plastic struggles (`XyKF34C5iB4`).
+  where a lighter finesse plastic struggles (`XyKF34C5iB4`). ⚠ Fact-check
+  (contradicted-by-source): the source's "windy" in this passage is "because
+  you're casting a[nd] windy" — casting-and-winding the retrieve, not a
+  wind/weather condition; no weather condition is stated in the cited
+  passage.
 - **The water is carrying some color rather than running clear** — the read
   that puts this bait and grass ahead of the docks; see [Newport Harbor plan
   — grass vs. docks](#newport-harbor-plan--grass-vs-docks) below.
@@ -47,7 +53,9 @@ out of the grass on its own is the advantage (`XyKF34C5iB4`).
   Newport Harbor grass plan. The 1 oz size reads heavy for a harbor that's
   often only **10-12 ft** deep in the grass zones being fished, but the
   weight is deliberate (see [Execution](#execution) below), not an oversight
-  (`XyKF34C5iB4`).
+  (`XyKF34C5iB4`). ⚠ Fact-check (single-source): the 1 oz weight and the
+  10-12 ft depth figure it's compared against rest on this one clip alone,
+  with no independent corroboration in the corpus.
 - A second on-camera confidence pick, named as a **"1 oz HP Warhead,"** is
   likely the same product line as the War Baits HD above, but the model name
   as captioned differs enough ("HP Warhead" vs. "HD," "Warhead" vs. "War
@@ -97,7 +105,13 @@ water clarity, which picks grass or docks (`XyKF34C5iB4`):
   to hide their approach, while docks and pilings give the same fish cover to
   feed from without that exposure. Under the docks, presentation switches to
   a flipped slow-pitch jig or a crankbait worked right on the pilings,
-  instead of the spinnerbait/moving-bait program above (`XyKF34C5iB4`).
+  instead of the spinnerbait/moving-bait program above (`XyKF34C5iB4`). ⚠
+  Fact-check (contradicted-by-source): the source states the reluctance to
+  leave the grass as personal opinion, not fish behavior — "I personally feel
+  like they're not as comfortable to come out of the grass because they also
+  have to watch out for predators like birds, seals" — and only says *he*
+  goes fish the docks himself; that the fish feed from dock/piling cover
+  instead is added here.
 - **Reading which water you'll get:** clearer water is more likely later in
   the cooler months; a rain event on the Wednesday and Thursday immediately
   before a hypothetical next-day trip, in the panel's example, dirties the
