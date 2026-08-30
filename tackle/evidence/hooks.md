@@ -373,4 +373,5 @@ main note's prose gave up under the plain-statement style rule.
 ## Linked from
 
 - [Hooks — Style, Size, and Matching to Bait](../hooks.md)
+- [Lighthouse Point](../../locations/lighthouse-point.md)
 <!-- backlinks:end -->

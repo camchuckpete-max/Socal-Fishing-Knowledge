@@ -269,6 +269,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [La Paz](../locations/la-paz.md)
+- [Lighthouse Point](../locations/lighthouse-point.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)

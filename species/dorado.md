@@ -293,6 +293,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Bocana](../locations/la-bocana.md)
 - [La Paz](../locations/la-paz.md)
+- [Lighthouse Point](../locations/lighthouse-point.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

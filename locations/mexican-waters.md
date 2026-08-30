@@ -132,6 +132,7 @@ Trip reports and per-source provenance:
 - [La Bocana](la-bocana.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [La Paz](la-paz.md)
+- [Lighthouse Point](lighthouse-point.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Lower Cross](lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)

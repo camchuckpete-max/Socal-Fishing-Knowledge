@@ -483,6 +483,7 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
+- [Lighthouse Point](../locations/lighthouse-point.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

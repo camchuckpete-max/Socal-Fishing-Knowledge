@@ -380,7 +380,7 @@ All of the above are logged in [the spot harvest](../sources/spot-harvest.md)
 for the gazetteer rather than minted as pages, because none carries a position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Lighthouse Point](lighthouse-point.md)
 <!-- children:end -->
 
 ## Evidence
@@ -394,6 +394,7 @@ Trip reports and per-source provenance:
 
 - [Cortez South](cortez-south.md)
 - [Evidence — East Cape](evidence/east-cape.md)
+- [Lighthouse Point](lighthouse-point.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)

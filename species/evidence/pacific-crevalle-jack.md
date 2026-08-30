@@ -87,5 +87,6 @@ yellowtail-class structure-jack program and carries a fact-check flag.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Lighthouse Point](../../locations/lighthouse-point.md)
 - [Pacific Crevalle Jack (Toro)](../pacific-crevalle-jack.md)
 <!-- backlinks:end -->

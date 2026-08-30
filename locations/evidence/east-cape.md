@@ -289,4 +289,5 @@ airport (`mL4Ph7t0WcQ`).
 ## Linked from
 
 - [East Cape](../east-cape.md)
+- [Lighthouse Point](../lighthouse-point.md)
 <!-- backlinks:end -->

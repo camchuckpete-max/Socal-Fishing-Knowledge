@@ -151,6 +151,7 @@ route, and the insurance carriers by name.
 - [Geronimo Island](../locations/geronimo-island.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [La Bocana](../locations/la-bocana.md)
+- [Lighthouse Point](../locations/lighthouse-point.md)
 - [Mexican waters](../locations/mexican-waters.md)
 - [North Point](../locations/north-point.md)
 - [November–December](../seasonal/november-december.md)
