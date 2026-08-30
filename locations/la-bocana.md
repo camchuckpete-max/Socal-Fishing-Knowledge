@@ -175,4 +175,5 @@ Estero. The offshore troll itself is written up in
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [La Bocana Estuary (the Estero), Baja California Sur](la-bocana-estuary-baja-california-sur.md)
 <!-- backlinks:end -->

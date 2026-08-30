@@ -131,6 +131,7 @@ Trip reports and per-source provenance:
 - [Isla Espíritu Santo](isla-espiritu-santo.md)
 - [Isla Monserrat — north end](isla-monserrat-north-end.md)
 - [La Bocana](la-bocana.md)
+- [La Bocana Estuary (the Estero), Baja California Sur](la-bocana-estuary-baja-california-sur.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [La Paz](la-paz.md)
 - [Lighthouse Point](lighthouse-point.md)

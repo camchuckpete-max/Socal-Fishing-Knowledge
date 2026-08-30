@@ -197,6 +197,7 @@ bay bass. Each bay below is a flagged stub in the parent's Zone guides section.
 - [Evidence — Spotted Bay Bass — structure pitching](spotted-bay-bass-structure-pitching.md)
 - [Evidence — Spotted Bay Bass — umbrella rig (A-rig)](spotted-bay-bass-swimbaits.md)
 - [La Bocana](../../locations/la-bocana.md)
+- [La Bocana Estuary (the Estero), Baja California Sur](../../locations/la-bocana-estuary-baja-california-sur.md)
 - [Spotted Bay Bass (Spotties)](../spotted-bay-bass.md)
 - [Spotted Bay Bass — bottom jig crawl](../spotted-bay-bass-bottom-jig-crawl.md)
 - [Spotted Bay Bass — structure pitching](../spotted-bay-bass-structure-pitching.md)

@@ -364,6 +364,7 @@ Trip reports and per-source provenance:
 - [Evidence — Spotted Bay Bass](evidence/spotted-bay-bass.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [La Bocana Estuary (the Estero), Baja California Sur](../locations/la-bocana-estuary-baja-california-sur.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

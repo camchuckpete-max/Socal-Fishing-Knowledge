@@ -196,6 +196,7 @@ omitted, because silence would read as "nothing there":
 - [Alijos Rocks](alijos-rocks.md)
 - [Cabo San Lucas](cabo-san-lucas.md)
 - [La Bocana](la-bocana.md)
+- [La Bocana Estuary (the Estero), Baja California Sur](la-bocana-estuary-baja-california-sur.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [The "lower banks"](lower-banks.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
