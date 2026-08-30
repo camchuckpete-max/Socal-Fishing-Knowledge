@@ -145,5 +145,6 @@ The species-side entries are in
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 <!-- backlinks:end -->

@@ -278,6 +278,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron-ca
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Clearing a Backlash](clearing-a-backlash.md)
 - [Evidence — Surface Iron — The Cast](evidence/surface-iron-casting.md)

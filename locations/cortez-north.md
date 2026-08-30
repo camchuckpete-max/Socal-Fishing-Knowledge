@@ -315,6 +315,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cortez South](cortez-south.md)

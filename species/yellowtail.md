@@ -371,6 +371,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [101 / 425](../locations/101-425.md)
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [1140 Finger / 450](../locations/1140-finger-450.md)

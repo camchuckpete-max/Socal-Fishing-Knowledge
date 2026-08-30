@@ -337,6 +337,7 @@ spot page needs, so they are logged in
 written up here.
 
 <!-- children:start -->
+- ["La Rasa" high spot](la-rasa-high-spot.md)
 - [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 <!-- children:end -->
 
@@ -348,6 +349,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](la-rasa-high-spot.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](cedros-island.md)

@@ -145,6 +145,7 @@ unless a trip date is stated on camera.
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../bahia-de-los-angeles.md)
 - [Cardonosa / "Isla Cartito"](../cardonosa-isla-cartito.md)
 - [Evidence — Loreto & Puerto Escondido](loreto.md)

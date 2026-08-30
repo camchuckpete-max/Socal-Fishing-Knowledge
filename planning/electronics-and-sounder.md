@@ -298,6 +298,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [14 Mile Bank](../locations/14-mile-bank.md)
 - [179 / 220](../locations/179-220.md)

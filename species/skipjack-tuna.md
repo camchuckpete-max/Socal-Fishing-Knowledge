@@ -226,6 +226,7 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [1140 Finger / 450](../locations/1140-finger-450.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [483/500 / 437](../locations/483-500-437.md)

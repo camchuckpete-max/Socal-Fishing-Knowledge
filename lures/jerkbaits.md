@@ -107,6 +107,7 @@ file](evidence/jerkbaits.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cabrilla — jerkbait](../species/cabrilla-jerkbait.md)

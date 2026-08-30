@@ -125,6 +125,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [April](../seasonal/april.md)

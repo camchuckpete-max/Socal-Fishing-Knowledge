@@ -256,6 +256,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- ["La Rasa" high spot](../locations/la-rasa-high-spot.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Cabrilla — jerkbait](cabrilla-jerkbait.md)
 - [Cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md)
