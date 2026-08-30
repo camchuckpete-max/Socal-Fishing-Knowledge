@@ -198,7 +198,6 @@
 - [Del Mar rockfish area](del-mar-rockfish-area.md) **[SoCal only]** — A charted spot at 32°57.191'N 117°17.981'W (cameron), in the Oceanside / North County zone.
 - [Descanso rockfish 1](descanso-rockfish-1.md) **[Baja only]** — A charted spot at 32°14.836'N 117°00.876'W (cameron), in the Rosarito / Descanso zone.
 - [Descanso rockfish 2](descanso-rockfish-2.md) **[Baja only]** — A charted spot at 32°14.447'N 116°58.562'W (cameron), in the Rosarito / Descanso zone.
-- [Desperation Point](desperation-point.md) **[SoCal only]** — A name carried at San Clemente Island, in the San Clemente Island — Back Side (N→S) zone, and in the corpus a landmark rather than a mark fished: the one record
 - [Desperation Reef](desperation-reef.md) **[SoCal only]** — A charted high spot at 32°45.520'N 118°24.520'W (cameron), at the southeast end of the San Clemente Island — Back Side (N→S) zone and the island's southernmost
 - [Double 220](double-220.md) **[Baja only]** — A charted spot at 31°35.000'N 117°39.000'W (cameron), in the Baja - 270 / Double 220 / 295 zone.
 - [The Dropoff](dropoff.md) **[SoCal only]** — A charted spot at 32°39.150'N 117°15.720'W (cameron), in the Point Loma zone.
@@ -465,5 +464,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 452 notes exceed the 30-node cap._
+_Map skipped: 451 notes exceed the 30-node cap._
 <!-- mermaid:end -->

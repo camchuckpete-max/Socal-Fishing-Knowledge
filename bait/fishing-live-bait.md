@@ -472,7 +472,6 @@ Trip reports and per-source provenance: [evidence file](evidence/fishing-live-ba
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)
 - [Dana Point](../locations/dana-point.md)
-- [Desperation Point](../locations/desperation-point.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Bait Tanks](evidence/bait-tanks.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)

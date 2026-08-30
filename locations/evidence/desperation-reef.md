@@ -49,6 +49,5 @@ line per observation. Observations never change the note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Desperation Point](../desperation-point.md)
 - [Desperation Reef](../desperation-reef.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: zone
 tags: [san-clemente-island, back-side, island, kelp, squid, navy-range, high-spot]
-sources: [YZtX1MiT0y8, Z3rZqy2Pi8E, r4J5nP5Bkl4, Rb5I2ljAqeE, 9xNhdu2aBqE, sHnqSIOjTdM, LTCFjqtSI8g, XyKF34C5iB4, sIoNELGlxmk, DnSqw4r7A1s, AIHvJj-paoo, cameron]
+sources: [YZtX1MiT0y8, Z3rZqy2Pi8E, r4J5nP5Bkl4, Rb5I2ljAqeE, 9xNhdu2aBqE, sHnqSIOjTdM, LTCFjqtSI8g, XyKF34C5iB4, sIoNELGlxmk, DnSqw4r7A1s, cameron]
 confidence: medium
 regions: [socal-bight]
 waters: [island, bank]
@@ -187,15 +187,6 @@ Twelve charted spots, grouped as the run reads N→S:
   bonito day (`YZtX1MiT0y8`, `Z3rZqy2Pi8E`) — and Desperation Reef is the anchor
   spot of the spring bluefin session (`Rb5I2ljAqeE`).
 
-**A thirteenth name carries no charted position.**
-[Desperation Point](desperation-point.md) is named by a source as the landmark
-for open water about six miles off the island, and
-[the spot library](../sources/spot-lists.md) carries no entry under that name
-(`AIHvJj-paoo`, cameron). It is grouped with this zone because the library's
-only Desperation name is Desperation Reef at the southeast end of this run;
-⚠ Flagged gap — no corpus source says what the feature is or which end of the
-island it sits on, or whether it and the reef name the same ground.
-
 **Name collision.** This China Point is a distinct spot from Catalina's China
 Point; the southeast-wind doctrine recorded in
 [island structure](island-structure.md) is about Catalina's, not this one. West
@@ -208,7 +199,6 @@ Charted positions for all twelve spots are in
 - [29 Fathom Spot](29-fathom-spot.md)
 - [9 Fathom Spot](9-fathom-spot.md)
 - [China Point (San Clemente Is.)](china-point.md)
-- [Desperation Point](desperation-point.md)
 - [Desperation Reef](desperation-reef.md)
 - [Eel Point](eel-point.md)
 - [Lost Point](lost-point.md)
@@ -237,7 +227,6 @@ Trip reports and per-source provenance:
 - [9 Fathom Spot](9-fathom-spot.md)
 - [China Point (San Clemente Is.)](china-point.md)
 - [Dana Point](dana-point.md)
-- [Desperation Point](desperation-point.md)
 - [Desperation Reef](desperation-reef.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Eel Point](eel-point.md)

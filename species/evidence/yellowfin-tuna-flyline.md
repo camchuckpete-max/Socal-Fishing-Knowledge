@@ -67,7 +67,6 @@ unregistered channel and a promotional segment respectively.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Desperation Point](../../locations/desperation-point.md)
 - [Evidence — Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowfin Tuna — flyline](../yellowfin-tuna-flyline.md)
 <!-- backlinks:end -->

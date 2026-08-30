@@ -153,7 +153,6 @@ provenance: [yellowfin evidence](evidence/yellowfin-tuna.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [Desperation Point](../locations/desperation-point.md)
 - [Evidence — Yellowfin Tuna — flyline](evidence/yellowfin-tuna-flyline.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->
