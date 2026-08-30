@@ -86,7 +86,12 @@ breezing/eating bait on the surface (a skip jig or surface iron scenario):
 **no** (`fgTmUq78ofQ`) — a single hook is **less likely to hook the fish in
 the first place**, and fish that are hooked on a single hook are **more
 likely to fall off or throw it** before landing, compared with the stock
-treble.
+treble. ⚠ Fact-check (contradicted-internal): this note's own Lures section
+above states the Colt Sniper/Laser Minnow's stock treble can be swapped for a
+single hook to help both action and hook-up (`Ud3hi9r1Nr4`), and
+[foamer casting](foamer-casting.md#colt-sniper--sizing-sink-bite-and-hook-swap)
+reports "single beats treble" for the same Colt Sniper (`lf3S28nh-kk`) — kept
+unreconciled rather than presented side by side with a decision frame.
 
 **Color doesn't matter for this presentation** — "it doesn't make any
 difference," as long as the lure is skipped; the action, not the finish, is
