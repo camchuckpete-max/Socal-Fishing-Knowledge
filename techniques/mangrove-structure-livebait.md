@@ -43,7 +43,9 @@ reaches abrasive structure.
 Baja Pacific mangrove-snook class (see
 [gear classes](../tackle/gear-classes.md)): ~9 ft rod, star-drag reel with
 the drag locked near max, 65 lb braid to an 80 lb fluorocarbon leader, 4/0
-thin-wire hook (`EcQK5elTPJE`).
+thin-wire hook (`EcQK5elTPJE`). ⚠ Fact-check (single-source): the whole
+gear-class spec rests on this one seminar mention and is numerically precise
+and load-bearing for the entire note.
 
 The failure mode in this presentation is abrasion, not fighting power: a
 fish that gets even a short run against an oyster-crusted root parts the
