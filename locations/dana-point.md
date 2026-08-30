@@ -273,4 +273,5 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 - [Southern California Bight](socal-bight.md)
 - [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md)
 - [Trestles](trestles.md)
+- [Two Harbors](two-harbors.md)
 <!-- backlinks:end -->

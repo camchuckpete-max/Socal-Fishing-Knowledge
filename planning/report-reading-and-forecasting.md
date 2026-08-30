@@ -148,6 +148,7 @@ Trip reports and per-source provenance:
 - [The 43](../locations/43.md)
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [Two Harbors](../locations/two-harbors.md)
 - [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

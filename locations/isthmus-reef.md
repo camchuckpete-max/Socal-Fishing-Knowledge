@@ -41,4 +41,5 @@ A charted spot at **33°26.869'N 118°29.448'W** (cameron), in the [Catalina Isl
 ## Linked from
 
 - [Catalina Island — Front Side](catalina-island-front-side.md)
+- [Two Harbors](two-harbors.md)
 <!-- backlinks:end -->
