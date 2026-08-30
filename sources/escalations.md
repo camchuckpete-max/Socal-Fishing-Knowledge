@@ -424,3 +424,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T08:05:00Z — species/bluefin-tuna-trolling.md — cross-note-mistarget
 - run: factcheck
 - reason: the note routes flat-fall execution to the wrong page — "flat-fall depth and mechanism live in [knife jigging](../techniques/knife-jigging.md#reach-for-this-when)" — but techniques/knife-jigging.md carries no flat-fall depth or mechanism content, and techniques/flat-fall-jigging.md exists and is the correct target. Not a claim error, so not a fact-check flag; re-pointing a link is a cross-note edit outside a per-note fact-check unit's scope. The same mis-target appears in species/evidence/bluefin-tuna-trolling.md on the `JiJYamo0QHk` row. Worth noting when it is re-pointed: knife-jigging.md documents a 180 lb bluefin landed in 6 minutes and a 140 lb in 15 minutes on knife-jig gear, against the three-to-five-hour flat-fall fight figure this note carries — different methods, but a reader following the link lands on the contrast without being told it is one.
+
+## 2026-08-30T08:08:33Z — species/bluefin-tuna.md — check-note-failed
+- run: 33299086507
+- reason: WARN  species/bluefin-tuna.md: uncited number: **Advection prior:** open-water bluefin not holding structure move **10–15 nm
