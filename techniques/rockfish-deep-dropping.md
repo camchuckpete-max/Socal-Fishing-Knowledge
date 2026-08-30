@@ -109,10 +109,16 @@ setup is built around **feeling the bite from depth** (`_ZThckj2TIM`):
   (`O5aQkex0qGg`).
 - **Shrimp fly / bait gangion:** same idea with tied flies over squid or Gulp
   when you want to sort species or the bite wants a smaller offering
+  (`IxfTRWmMqQU`). ⚠ Fact-check (contradicted-by-source): the cited clip only
+  compares jig-head weight against torpedo-sinker weight and braid diameter;
+  it never mentions squid, Gulp, tied flies, or sorting species
   (`IxfTRWmMqQU`).
 - **Leadhead + plastic (jigging):** a 3 oz leadhead with a swimbait/grub for
   shallower deep-drops (100–300 ft, `O5aQkex0qGg`), or an 8 oz jig head + 8 in
-  Gulp grub for the bigger reds (`AqW_Z9pFcHU`). A free-swinging head fishes
+  Gulp grub for the bigger reds (`AqW_Z9pFcHU`). ⚠ Fact-check
+  (contradicted-by-source): the cited clip credits this combo with catching
+  "the bigger rock fish" generally, not reds specifically (`AqW_Z9pFcHU`). A
+  free-swinging head fishes
   suspended fish; a fixed head lets you drop through a red already limited-out
   without hooking it, then sink the rest of the way to a copper or ling on the
   bottom (`O5aQkex0qGg`).
@@ -152,6 +158,11 @@ rendering — asr-uncertain), shallower or deeper depending on conditions
 | 600–700 ft | at least 16 oz | `nwjIEWJyjKU`, `qh3hL2Dt3HY` |
 | any depth, quick gangion (fished out to 900 ft on 30 lb braid) | 24 oz torpedo standard — deliberately not sized to depth, so there's no range of weights to carry | `O5aQkex0qGg` |
 | ~800–850 ft (deepest SoCal boats fish, [season-dependent](../species/rockfish-lingcod.md#doctrine--conflicts)) | past the 24 oz standard — the reason large torpedo sinkers get stocked at all | `D0bQjAL0gGU` |
+
+⚠ Fact-check (contradicted-by-source): `D0bQjAL0gGU` states the ~800–850 ft
+depth and that this is why large torpedo sinkers are stocked, but gives no
+sinker-weight figure at all — the "past the 24 oz standard" comparison is not
+in this clip.
 
 The lighter jig-head figures (3 oz at 300 ft) assume a light-thumb-tension jig
 on thin braid, not a torpedo-sinker gangion — see Rigs above for the two rig
@@ -200,6 +211,9 @@ through the day rather than a fatigue-forced break (`S9sQ8Vg8-5o`,
   rocks**, then work **big sweeps of the rod, letting the jig flutter back
   down**, keeping bottom contact. On a slack-line drop, most bites come **on
   the first fall or right when you kick it back into gear** off the bottom
+  (`O5aQkex0qGg`). ⚠ Fact-check (contradicted-by-source): the cited clip gives
+  the jig cadence as "a wind or two" (one to two turns); the two-to-three-turn
+  figure in the same clip is stated for the bait-gangion cadence, not the jig
   (`O5aQkex0qGg`).
 - These fish chase up — reds and lings will come **30 ft off the bottom** to
   eat. Bring the jig as far as ~30 ft up, then flutter it back down. On a
@@ -218,7 +232,11 @@ A presentation distinct from the three rigs above: a skirted bait wound on a
 idea carried over from bass fishing that has reportedly been fished in Japan
 and Australia for 20+ years (`iAr6sbRC384`). The bait's product name renders
 inconsistently in auto-captions (roughly "wrap"/"world"/"walkover," plausibly
-a Daiwa product) and is not carried as a named product (asr-uncertain).
+a Daiwa product) and is not carried as a named product (asr-uncertain). ⚠
+Fact-check (single-source): this entire presentation — the rig, the rod/reel/
+line system below, the retrieve, the colors, and the bite read — rests on one
+2020 seminar clip, with no independent corpus corroboration
+(`iAr6sbRC384`).
 
 - **Tie point changes the action.** Tying the leader to the bait at the
   nose/tip gives a straighter winding action; tying mid-body gives a jerkier
@@ -236,7 +254,12 @@ a Daiwa product) and is not carried as a named product (asr-uncertain).
   anchored stop, the fish right under the boat get picked off fast by
   whoever's gear lands first; working the bait **20–30–50 ft** out from the
   boat on the slow retrieve avoids competing for the same fish everyone else
-  is already on. Rockfish suspending higher over structure than in past years
+  is already on. ⚠ Fact-check (contradicted-by-source): the cited clip's
+  "away from everybody" line is given for walking to the bow to fish, and the
+  20–30–50 ft distance is given separately, in the context of covering
+  suspended fish over red crab — the note combines two distinct statements
+  from the same clip into one avoid-competition rationale (`iAr6sbRC384`).
+  Rockfish suspending higher over structure than in past years
   is tied on camera to **red crab** concentrations in the water column above
   these spots, as observed in the years before 2020-03-16 (`iAr6sbRC384`).
 - **Colors.** Three patterns used most: a **red-crab pattern** (the pick when
@@ -294,7 +317,10 @@ above, applied to a jig rig instead of the wind-retrieve bait (`iAr6sbRC384`).
 - Approach the spot on the chartplotter, flip on the sonar, and idle onto the
   structure — many spots are a **distinct hump coming up 20–30 ft** off the
   surrounding bottom. Drop your autopilot on it and mark a **waypoint**, then
-  work the **track line** back and forth (`11npFUPOJKU`).
+  work the **track line** back and forth (`11npFUPOJKU`). ⚠ Fact-check
+  (contradicted-by-source): the cited clip describes the 20–30 ft hump height
+  for the one example spot being worked on camera, not a "many spots"
+  generalization (`11npFUPOJKU`).
 - Run a **dual-frequency split screen.** **Low frequency** paints everything
   and runs gainy — good for the bait cloud sitting up over the hump. **High
   frequency** distinguishes the game fish: **arches over hard bottom** are
@@ -334,7 +360,9 @@ above, applied to a jig rig instead of the wind-retrieve bait (`iAr6sbRC384`).
 
 Rockfish brought up fast from depth suffer barotrauma and can't swim back
 down on their own — a weighted release device gets them back to depth alive
-(`_ZThckj2TIM`). Clip the fish into the descender (a simple wire release
+(`_ZThckj2TIM`). ⚠ Fact-check (single-source): the barotrauma mechanism and
+its no-swim-back consequence rest on this one clip alone in this note. Clip
+the fish into the descender (a simple wire release
 device, sold online — worked in carefully so it doesn't puncture the fish),
 get enough weight on the device to actually reach bottom depth rather than
 stalling partway up (a fish released too shallow slides free and floats back
@@ -361,7 +389,12 @@ the bite, read before you feel anything through the blank (`WHLz0kR___I`).
 - **On a self-hooking circle hook** (the rock-cod quick gangion in [Rod,
   reel & line for the feel](#rod-reel--line-for-the-feel) above), skip the
   hookset altogether — turn the handle and wind up the fish, consistent with
-  the slow-steady-wind retrieve above (`zVIfArUrpDI`, `U-dGRQ0X-Mc`).
+  the slow-steady-wind retrieve above (`zVIfArUrpDI`, `U-dGRQ0X-Mc`). ⚠
+  Fact-check (contradicted-by-source): `U-dGRQ0X-Mc` never discusses circle
+  hooks or skipping the hookset — it only covers winding after a fish is
+  already hooked; the matching skip-the-hookset content is in `qh3hL2Dt3HY`
+  instead ("when getting bit with a circle hook ... you're just going to turn
+  the handle and lift your rod").
 - Contrast with the wind-retrieve skirted-bait system above, where the rule
   runs the opposite way — **don't swing** on a tap-tap, keep winding steadily
   and let the long-shank hook self-set. A different rig (self-hooking
