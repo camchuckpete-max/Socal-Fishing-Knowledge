@@ -27,6 +27,10 @@ islands from Cedros down to La Bocana give up 4–9 lb fish at volume
 (`NGxyOlPx3ug`, `qri15R3caYE`), where a SoCal 7–10 lb fish is a deliberate
 trophy hunt on 8–10 in baits rather than a by-product of a numbers day
 (`ZoIzpyyS9xw`).
+⚠ Fact-check (contradicted-by-source): the 4–9 lb weights are verbatim in both
+cites, but neither one is Cedros — `NGxyOlPx3ug` is a skiff trip at "Dono /
+Donal Island" (ASR) and `qri15R3caYE` is La Bocana. No cite on this sentence
+anchors the Cedros end of the "Cedros down to La Bocana" span.
 
 ## Where & when
 
@@ -62,6 +66,9 @@ hit a top-water bait (`LqW32NSkObY`). See
 to spot and take the warmer, better patch (`0KQ--N5TjqE`) — unless a bait event
 is running, which overrides the water read entirely (see
 [Feeding triggers](#feeding-triggers)).
+⚠ Fact-check (contradicted-by-source): `0KQ--N5TjqE` states the tracking habit
+but not the "warmer, better" preference — "it doesn't always have to be warm…
+keep tabs on if the fish are biting in cleaner water dirtier water."
 
 **Depth.** The commonly worked bands off Dana Point are **0–8 ft** and **20–100
 ft**, occasionally a little past 100 ft (`LqW32NSkObY`).
@@ -99,6 +106,11 @@ off a hook:
 - **Squid.** Heavy squid around Catalina Island is what a tournament field
   planned around (`iQLyBzhOSi8`), and anchored stops on live squid produce
   calico alongside yellowtail and barracuda (`zUFbCIWZZMw`).
+  ⚠ Fact-check (contradicted-by-source): the dockside briefing lists squid as
+  one of several unresolved variables — full moon, "pretty big tides", "pretty
+  extreme temperatures" — under "we don't have a game plan just yet", and the
+  teams ran to San Clemente. This note's own evidence file already records it
+  as "a stack of live variables without resolving them into a plan."
 - **Mackerel.** Big calico eat a live mackerel fished off a kite — the bait
   size normally used to screen the smaller inshore species out (`YVHdDbkQrKk`).
 - **Anchovy.** A small-anchovy chum line has calico jumping out of the water
@@ -129,6 +141,10 @@ collapse there (`ZBRSB4iwtbU`, `ldVj0BoB-kE`, `Zo92MG459gQ`). See
 Fish take roughly **5–7 years to reach legal size** (`LqW32NSkObY`), which is
 the arithmetic behind the voluntary-release ethic in
 [Landing & handling](#landing--handling).
+⚠ Fact-check (contradicted-by-source): the source pins the 5–7 years to "a
+legal size … or about 12 in", while the same speaker gives the legal minimum as
+14 in and [Regulations](#regulations) carries 14 in. The growth figure is
+therefore to ~12 in, not to the 14 in minimum this note states.
 
 ⚠ Flagged gap — no corpus source: the calendar window of the SoCal spawn, and
 whether the bite shuts down post-spawn.
@@ -155,6 +171,11 @@ whether the bite shuts down post-spawn.
   deciding a large share of SoCal bass-tournament results, including a 30-minute
   giant-bass frenzy right at first light. It applies to wall fishing as well as
   open kelp and reef (`RUuPNpK0x-s`).
+  ⚠ Fact-check (contradicted-by-source): the transcript ties both figures to
+  the tournament clock, not to first light — "a lot of them have been won in
+  the first hour of the tournament" and "a small window where it bit for 30
+  minutes of nothing but giants". Reef is not mentioned; only "that goes for
+  fishing the wall" is stated.
 - **Full moon inverts the day.** Clear full-moon nights have the fish feeding
   overnight, so they bite early and then stop until late in the day; the
   instruction is not to launch until noon or one o'clock if first light is not
@@ -179,6 +200,11 @@ whether the bite shuts down post-spawn.
   canopy itself** — a nuance alongside the leading-edge rule, not a replacement
   for it (`P6Slg6RQiXw`, see the flipping row in
   [Situations → techniques](#situations--techniques)).
+  ⚠ Fact-check (contradicted-by-source): the quoted string is not verbatim —
+  the transcript has "you can hit four sides of it three sides of it", and the
+  "two or three casts" count is not adjacent to it. The doctrine it illustrates
+  is verbatim: "if there is a b[it]ing bass on this kel[p] it's going to be
+  right on the front end of it."
 - **Read the current off the kelp:** kelp **pulled 20 ft under** = raging
   current (surface presentations dead); **laid down** = strong; **resurfacing**
   = slacking, switch presentation back
@@ -202,6 +228,15 @@ whether the bite shuts down post-spawn.
   solid unbroken wall of bait usually has no predators on it; broken or harried
   bait does ([electronics and sounder](../planning/electronics-and-sounder.md),
   [search and glassing](../planning/search-and-glassing.md)).
+  ⚠ Fact-check (unverifiable): the "~50 ft in to ~25 ft" outside-kelp-edge band
+  carries no cite here, appears in no other KB note, and is not in this note's
+  evidence file — yet it is promoted into the `sonar_depth` infobox field.
+  ⚠ Fact-check (contradicted-internal): the "rise 10–15 ft off 80–100 ft of
+  reef" figure recombines two unrelated numbers from
+  [inshore crankbaits](../techniques/inshore-crankbaits.md) — "DD-class divers
+  run ~10–15 ft down and get bit on the rise" (a lure running depth) and
+  "calicos crank off the **80–100 ft** lanes at the islands" (a lane depth).
+  Neither states how far a calico rises off the bottom.
 
 ## Situations → techniques
 
@@ -217,13 +252,13 @@ whether the bite shuts down post-spawn.
 | Tight to the beach, current ripping, no kelp | **Free-spool bounce a weighted soft-plastic tube** off the bottom — enough weight to hold, let the current sweep it between bounces ([swimbaits — beach bounce](../techniques/swimbaits.md#beach-bounce-in-ripping-current--the-stupid-tube-tackle-express)) | bass class | 1.5 oz held bottom in ripping current; the current pulled the bait 5–10 ft further each bounce, "calicos every cast" (`9a-Zy_D6c3w`) |
 | **Grunion or bait blitz in the kelp**, even in ugly stagnant water | Match the bait — 7" split-tail slug on a sled or leadhead, every cast | bass class | Overrides the water read entirely; birds stay on top of the moving bait (`OYOda6T3f-8`) |
 | Fish holding tight **underneath a dense kelp canopy**, not just the edge, with an established bite pattern | **Flip or punch a heavy jighead into gaps in the canopy** — a freshwater-bass flipping presentation borrowed onto kelp ([flipping the kelp canopy](../techniques/swimbaits.md#flipping-the-kelp-canopy-observed-aaron-martens--benny-florentino)) | bass casting class | ⚠ Fact-check (single-source): one session at San Clemente Island, December 2013 (`P6Slg6RQiXw`) — a pattern, not established doctrine |
-| **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **[Surface iron — for calico](calico-bass-surface-iron.md)**, downsized for the in-tight beach water | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calico, wait for the yellows to reappear. Calico are thick there — *"it's raining calicos"* (`IdMJnlg_rZk`, `2cxeg_AE418`) [c] |
+| **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **[Surface iron — for calico](calico-bass-surface-iron.md)**, downsized for the in-tight beach water | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calico, wait for the yellows to reappear. Calico are thick there — *"it's raining calicos"* (`IdMJnlg_rZk`, `2cxeg_AE418`) [c] ⚠ Fact-check (contradicted-by-source): the two cites are one fused claim, not corroboration. The play is Day 1 only (`IdMJnlg_rZk`) and carries no mid-day timing — the yellowtail slowed "within the first 2 hours". The quote is Day 2 (`2cxeg_AE418`), spoken in "68 ft water" during a mixed calico/yellowtail bite, not on the in-tight beach retreat |
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (`RXNebDr4j7s`) |
-| Grass or heavy kelp fouls a standard weedless rig | **Tube bait** on an Owner sled weedless rig ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement from the weedless-swimbait row above (`0HwYl0HO2tc`) [a] |
+| Grass or heavy kelp fouls a standard weedless rig | **Tube bait** on an Owner sled weedless rig ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement from the weedless-swimbait row above (`0HwYl0HO2tc`) [a] ⚠ Fact-check (contradicted-by-source): the word "tube" never appears in `0HwYl0HO2tc` — the bait the Owner weedless sled head, the 8 ft parabolic rod and the 40 lb+ line are specified for is a **Hookup Baits glide bait**, pitched by its own designer. The rig, rod and line figures check out; the bait class this row assigns them to, and its route to [tube-bait fishing](../techniques/tube-bait-fishing.md), do not |
 | Fishing from a kayak or small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — kelp as anchor, close-range boiler-rock work, fan-casting | bass class, sized to the boat | The current and edge doctrine above is unchanged; what changes is standoff distance, anchoring and navigation without electronics |
 | Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette and craw colours, booty spin worked top-to-bottom, lit-structure targeting in a harbor | bass class, leader stepped up to 50 lb+ fluoro for abrasion | Colour, structure choice and the heavier-leader rationale live in the technique note |
 | Deliberately hunting a **trophy fish (7–10+ lb)** rather than numbers | **Size the bait up** — 8–10 in swimbaits instead of the 4–5.5 in numbers baits, matched to bumped-up line and leader ([swimbaits](../techniques/swimbaits.md), [trophy calico tackle](../tackle/line-and-leader.md#trophy-calico-bass-tackle-n6yun-fred-hall-panel-2013-03-09)) | heavy bass-casting class, 65–80 lb braid | Baits under ~5.5 in top out around 1–4 lb; 8–10 in baits are what connect with the 7–10 lb class. Trade fewer bites for bigger average grade (`ZoIzpyyS9xw`) [b] |
-| Open coastal water, less kelp, calico **boiling** on bait on top — want to be selective | **Boiler-calico swimbait** — target only visibly committed fish, work the water-clarity edge ([swimbaits — targeting a boiler bite](../techniques/swimbaits.md#targeting-a-boiler-bite--pick-the-committed-fish-read-the-clarity-edge-jeremy-sav-on-tackleirod-seminar)) | 7–9 ft bass class, 200-size reel | Read clear water over stained and cast to the aggressive fish rather than trying to convince a neutral one; more aggressive fish and bigger baits as the water warms in July–August (`lP6cg4eEU6s`) |
+| Open coastal water, less kelp, calico **boiling** on bait on top — want to be selective | **Boiler-calico swimbait** — target only visibly committed fish, work the water-clarity edge ([swimbaits — targeting a boiler bite](../techniques/swimbaits.md#targeting-a-boiler-bite--pick-the-committed-fish-read-the-clarity-edge-jeremy-sav-on-tackleirod-seminar)) | 7–9 ft bass class, 200-size reel | Read clear water over stained and cast to the aggressive fish rather than trying to convince a neutral one; more aggressive fish and bigger baits as the water warms in July–August (`lP6cg4eEU6s`) ⚠ Fact-check (contradicted-by-source): three mismatches in one row. (1) "Boiler" in the source is a boiler **rock**, not fish boiling on bait — "big boiler Calico situation less kelp more on the open side"; the clarity-edge and committed-fish reads are verbatim, the surface-boil situation is not. (2) The July–August aggression passage is scoped to **spotted bay bass** and "the bait is bigger in the bay" means forage size, not lure size. (3) Rods named are 7'3"–7'9" ("733", "7 foot 6", "794"), never 9 ft; only the 200-size reel is verbatim |
 | **Winter full moon**, fish gorged overnight, nothing actively feeding | **Downsize to a small reaction bait** worked fast enough to trigger a snap | bass class | A long bait leaves the fish swiping behind the tail; a small bait gets taken whole, and every fish hooked that day had it solidly (`5D1vx29LVpI`) |
 
 [a] ⚠ Fact-check (single-source): the parabolic-rod requirement comes from one
@@ -282,6 +317,11 @@ the [evidence file](evidence/calico-bass.md) under "Zone material".
 - **Bag limit — California / CDFW, as of 2019-03-13; the oldest regulatory
   figure in this note, verify before relying on it.** A bag limit of **5** is
   stated for calico bass (`LqW32NSkObY`).
+  ⚠ Fact-check (single-source): the only corpus statement of the number, and
+  the speaker names no jurisdiction — "abide the bag limits or the bag sizes,
+  which is five." California / CDFW is this note's inference. The 14 in
+  minimum above is corroborated four ways (`r6j5w40fVHI`, `HMdrP4-i9MM`,
+  `usHl-4SfqDA`, `SdwwpQMJEOI`); the bag limit is not corroborated at all.
 - **Cedros Island, Baja California — operator agreement, as reported on or
   before 2023-03-26; verify current status before fishing.** The local fishing
   companies collectively adopted **100% catch-and-release** for calico bass,
@@ -308,6 +348,13 @@ Section order below is not a ranking.
   parallel-current leading edge, cover water and let a handful of casts grade
   each bed, and let the kelp's posture pick the presentation
   (`0KQ--N5TjqE`, `YIABTTYXeqc`, `kwMIgkCtFUE`).
+  ⚠ Fact-check (contradicted-by-source): **tide-indifferent** is in none of the
+  three cites — `0KQ--N5TjqE` gives current direction only and never mentions
+  tide, and `kwMIgkCtFUE` is a submerged-structure video with no kelp-posture or
+  parallel-current content (its contribution is "when the current runs fish have
+  to point into it"). The corpus's only ignore-the-tide statement is Jimmy
+  Decker's in `ZoIzpyyS9xw`, cited two bullets below. The same unsourced framing
+  opens the note's lead ("planned off the current read, not the tide clock").
 - **Parallel current is the prior, not the only state.** Late fall at San
   Clemente Island the bass wanted **off-colour water with current running *into*
   the island** — the fish used the dirt to ambush against the structure
@@ -325,6 +372,13 @@ Section order below is not a ranking.
   general bait-sizing guidance
   is in [swimbaits](../techniques/swimbaits.md) and
   [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md).
+  ⚠ Fact-check (contradicted-by-source): the panel is four (Benny Florentino,
+  Jimmy Decker, Jack Saul, Corey Sandon) but only **three** state it — Jack
+  Saul answers "it's pure luck" and endorses a small bait, "it's about half
+  that's five five inch it really works great." Benny also prefaces his answer
+  "I'm going to have to agree with all these guys," so the convergence is not
+  fully independent either. The doctrine stands on three panelists, not four,
+  with one dissent inside the same cite.
 - **Effort or timing — these are answers to different questions.** Asked how to
   catch a big calico, Jimmy Decker (Decker's Guide Service) answers with volume
   of effort: *"throw a big bait, spend a lot of time on the water… forget what
@@ -353,6 +407,11 @@ without wrecking it is in
 - **Rub your hands together to build a light lather or foam, then rinse the fish
   off** before it goes back — a slime-coat step ahead of release
   (`KTsXdQXAnkU`).
+  ⚠ Fact-check (contradicted-by-source): the order is inverted. The transcript
+  releases the fish first, then washes the angler — "throw them over the side.
+  Simply rub your hands together, build up a little lather… Get nice and foamy.
+  Rinse them right off." Nothing is applied to or rinsed off the fish, and no
+  slime coat is mentioned.
 - **Support a tournament-weighed fish by the middle of the body, not the tail**,
   before releasing it (`SdwwpQMJEOI`).
 - **The release ethic is voluntary and regionally consistent.** With calico
@@ -363,6 +422,13 @@ without wrecking it is in
   of the same reasoning (see [Regulations](#regulations)). Guided days run at
   99% release (`P6Slg6RQiXw`), and a big fish is often not weighed at all —
   "we're not going to weigh him… slow to grow so let him go" (`_r_qKX_7080`).
+  ⚠ Fact-check (contradicted-by-source): both figures generalize a single
+  on-camera instance. `P6Slg6RQiXw` scopes 99% to that one trip — "we released
+  99% of the fish that we caught" — not to guided days as a class; and
+  `_r_qKX_7080` is one 7 lb fish, "Captain just said that's 7 lbs we're not
+  going to weigh him", which does not support "often". The release ethic itself
+  is corroborated (`usHl-4SfqDA`, `I-QBxuV2p7M`, `SdwwpQMJEOI`, `tJFSV3AcIdE`);
+  the two rates are what is hardened.
 - ⚠ Flagged gap — no corpus source: whether calico from the deeper 80–100 ft
   band suffer barotrauma and need venting. Dock staff at a bass tournament asked
   whether any fish "need[ed] to be fizzed" without demonstrating it
