@@ -34,9 +34,10 @@ and never names the selector. Water clarity as the chooser is stated in
 `XyKF34C5iB4` (clear water → leave the grass for the docks), not here, and
 "how the fish are biting" appears in no cite.
 ⚠ Fact-check (contradicted-by-source): the source gives two panelists' separate
-personal bests, not one angler's range — "My biggest spotty is like 2.8… I'm
-still searching for that 3+" and "My biggest spot[ted] bay bass is 3 1/2 lb."
-The 2.8–3.5 span is assembled here, and it is what sets the note's tackle scale.
+personal bests, not one angler's range — "my biggest spotty is like 2.8, so not
+quite as big as Matt, but I'm still searching for that 3+", and the next
+panelist's "spotty three and a half… on the sunset wall". The 2.8–3.5 span is
+assembled here, and it is what sets the note's tackle scale.
 
 ## Where & when
 
@@ -411,8 +412,9 @@ Section order below is not a ranking.
   run" (`46ha7J1Fc6A`).
   ⚠ Fact-check (contradicted-by-source): the quote is verbatim — "these fish
   although not huge in size make a really good account of themselves, I've had
-  them turn a 14-foot skiff on a run" — but `46ha7J1Fc6A` gives no weight
-  anywhere. "A fish that size" grafts the 2.8–3.5 lb figures from a different
+  them turn a 14-foot skiff on a run" — but `46ha7J1Fc6A` never grades the fish;
+  its only spotty weight is an upper bound ("spotted bay bass don't get 8–10
+  pounds"). "A fish that size" grafts the 2.8–3.5 lb figures from a different
   seminar onto it, so the skiff claim reads as scoped to a grade its own source
   never states.
 - **Spotties are typically released rather than kept** — a fighting fish, not a
