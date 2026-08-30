@@ -401,6 +401,7 @@ with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 (`_r_qKX_7080`) — they belong to the San Quintín grouping, not here.
 
 <!-- children:start -->
+- [Cedros West End ("Jurassic Park")](cedros-island-west-end.md)
 - [Chester's Rock](chester-s-rock.md)
 - [Geronimo Island](geronimo-island.md)
 - [North Point](north-point.md)
@@ -422,6 +423,7 @@ Trip reports and per-source provenance:
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Calico Bass — surface iron](../species/calico-bass-surface-iron.md)
 - [California Sheephead](../species/sheephead.md)
+- [Cedros West End ("Jurassic Park")](cedros-island-west-end.md)
 - [Chester's Rock](chester-s-rock.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)

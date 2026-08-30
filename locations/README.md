@@ -165,6 +165,7 @@
 - [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md) **[SoCal only]** — A charted spot at 33°28.663'N 119°01.511'W (cameron), in the Santa Barbara Island zone.
 - [Caverns Area](caverns-area.md) **[SoCal only]** — A charted spot at 33°28.579'N 119°03.146'W (cameron), in the Santa Barbara Island zone.
 - [The Caves](caves.md) **[SoCal only]** — A charted spot at 32°48.450'N 118°24.170'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
+- [Cedros West End ("Jurassic Park")](cedros-island-west-end.md) **[Baja only]** — [Baja only] — the west end and backside of Cedros Island, in the Cedros / San Benitos zone, nicknamed "Jurassic Park" by the crews who fish it (RPSRH0jwyw4, 3yK
 - [Cedros / San Benitos](cedros-island.md) **[Baja only]** — [Baja only] — the island complex at the south end of Baja Pacific — North: Cedros Island, the San Benito Islands, Geronimo Island and Chester's Rock, with Punta
 - [Channel Islands](channel-islands.md) **[SoCal only]** — The island group at the north end of the Bight, fished out of Ventura and Oxnard.
 - [Cherry Banks](cherry-banks.md) **[SoCal only]** — A charted spot at 32°52.000'N 119°24.800'W (cameron), in the San Nicolas Island zone.
@@ -456,5 +457,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 443 notes exceed the 30-node cap._
+_Map skipped: 444 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -640,6 +640,7 @@ baits and heads from the class terms above; see
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Barracuda](../species/barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
+- [Cedros West End ("Jurassic Park")](../locations/cedros-island-west-end.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Chester's Rock](../locations/chester-s-rock.md)

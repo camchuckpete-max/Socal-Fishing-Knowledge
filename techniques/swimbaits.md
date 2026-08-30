@@ -447,6 +447,7 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Calico Bass — boiler-bite swimbait](../species/calico-bass-swimbaits.md)
 - [California Halibut](../species/california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
+- [Cedros West End ("Jurassic Park")](../locations/cedros-island-west-end.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Drop Shot](drop-shot.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

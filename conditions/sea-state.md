@@ -221,6 +221,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-state.md).
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
+- [Cedros West End ("Jurassic Park")](../locations/cedros-island-west-end.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

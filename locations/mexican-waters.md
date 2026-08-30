@@ -109,6 +109,7 @@ Trip reports and per-source provenance:
 - [California Sheephead](../species/sheephead.md)
 - [Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md)
 - [Cedros / San Benitos](cedros-island.md)
+- [Cedros West End ("Jurassic Park")](cedros-island-west-end.md)
 - [Chester's Rock](chester-s-rock.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)

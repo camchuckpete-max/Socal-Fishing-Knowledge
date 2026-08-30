@@ -394,6 +394,7 @@ Trip reports and per-source provenance:
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Cedros West End ("Jurassic Park")](../locations/cedros-island-west-end.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Chunking](../techniques/chunking.md)
