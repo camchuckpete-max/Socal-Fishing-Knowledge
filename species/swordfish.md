@@ -36,6 +36,11 @@ September through a red-hot October, while 2020 peaked around **10 days before
 Thanksgiving**; the last fish of 2019 came about **a week before Christmas**
 (`yMiBtZ7k8-w`). See [October](../seasonal/october.md),
 [November–December](../seasonal/november-december.md).
+⚠ Fact-check (contradicted-by-source): the seminar names the window as "a
+September, late September, in the December thing" and gives two divergent annual
+peaks — 2019 late September into a red-hot October, 2020 about 10 days before
+Thanksgiving. A continuous "October to mid-November" peak is never stated; it is
+the envelope of two years that did not overlap.
 
 **Presence vs catchability.** Holdover fish are around year-round, but running
 the same program in August can go **five trips without a bite**; September
@@ -64,6 +69,16 @@ above roughly **2–2.5 kt** of drift the presentation dies (`yMiBtZ7k8-w`). A
 **drift sock** extends marginal days and keeps the bow into the current
 (`yMiBtZ7k8-w`). See [sea-state](../conditions/sea-state.md); drift mechanics in
 the [technique note](../techniques/deep-drop-swordfishing.md).
+⚠ Fact-check (contradicted-by-source): both gates are hedged on camera. The wind
+line is "anything over 15 knots guys aren't really wanting to fish, you're moving
+really fast" — a preference, not "nobody fishes" — and the drift figure is given
+as the range actually fished, "anywhere from a one to two, two and a half knot
+drift… I'm not getting the presentation I like," i.e. presentation degrading
+inside the range rather than a hard 2.5 kt cutoff.
+⚠ Fact-check (contradicted-by-source): the drift sock is an untried purchase in
+the source — "bought a drift sock this year… to be honest I just haven't put it
+out yet" — and both benefits are stated as expectation ("I think it will extend
+the number of days"), not as practice.
 
 **Water.** Pick the day off SST and chlorophyll breaks — converging water masses
 that concentrate bait — and prefer **one big powerful long break, a "highway,"**
@@ -98,6 +113,13 @@ evidence that SoCal swords feed inshore.
 the fishery drops baits, which is why they are the standard hook bait
 (`yMiBtZ7k8-w`). Giant squid hold in the same areas swordfish hold in, and a
 year with them around shreds any bait put down there (`yMiBtZ7k8-w`).
+⚠ Fact-check (contradicted-by-source): the deck-light sighting is given on camera
+as one captain's personal reason for liking the bait — "I like them because
+they're big, I like them because I see them in our deck lights all the time at
+our local banks" — not as the fishery's reason for a standard. The hook baits
+themselves are big squid bought "at our local foreign markets" and through
+wholesale seafood distributors, and are never identified as the same squid seen
+in the deck lights.
 
 **How they eat.** Swordfish are clumsy, unselective feeders — anything with a
 wiggle to it gets eaten (`yMiBtZ7k8-w`). They are also bad at it: fish routinely
@@ -151,6 +173,11 @@ thousand feet below them — the mammals are on the same food (`yMiBtZ7k8-w`). S
 
 - **DSL present at ≥600 ft**, preferred **~950 ft / 150 fathoms or deeper**
   (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-internal): the corpus's only filmed SoCal sword
+  drift works a feed layer "down about 50 or so fathoms, 300, 350 feet" in about
+  1,090 ft of water at the 178 (`KuVwmfF6RAo`) — half the depth this stop
+  criterion sets as the minimum, on the same ground, and the two numbers are
+  never reconciled.
 - **DSL *plus* chunky bait balls** — anchovy, hake or squid balled and squeezed —
   at **100–150+ fathoms**, which is when bites come close to assured
   (`yMiBtZ7k8-w`). A bare layer with no bait in it is not a stop.
@@ -167,6 +194,11 @@ thousand feet below them — the mammals are on the same food (`yMiBtZ7k8-w`). S
 who run offshore for days at a time is that there are far more of them than
 people think, and that seeing them is a function of looking at the water
 correctly (`1iV1GnF4K-c`).
+⚠ Fact-check (contradicted-by-source): the cited exchange says there are "a lot
+more daytime swords" than people know "when you're looking at the water
+correctly" — it never says finning, and never names SoCal. The only finning
+description in that source is the Brazil aggregation, which the same crew says
+"we don't see here, no, never see that."
 ⚠ Flagged stub — no corpus source yet: the sight-fishing sequence on a finner
 (approach, bait, cast) is absent from the corpus. A spotter plane worked the
 island zone in October hunting swordfish while it watched a
@@ -180,7 +212,7 @@ island zone in October hunting swordfish while it watched a
 | **DSL present but no bait balls and no rip** | Keep moving and keep grading the meter | — | Bait *in* the layer is the trigger, not the layer (`yMiBtZ7k8-w`) |
 | **Marginal wind 13–15 kt, or drift >2.5 kt** | [Deep-drop](../techniques/deep-drop-swordfishing.md) with a **drift sock**; above 15 kt it is a no-go | + drift sock | Presentation dies with too much drift; the sock also holds the bow into the current (`yMiBtZ7k8-w`) |
 | **Picking the day** | Weight toward the **new/full moon and the flanking weeks**, on the biggest highway break you can find | — | Moon and structure×edge stack independently (`yMiBtZ7k8-w`) |
-| **Fish finning or sunning on the surface, sighted while running offshore** | ⚠ Flagged stub — no corpus source yet: approach, bait and cast for a SoCal finner. Harpooning surface swords is named as a distinct SoCal fishery with no method detail recorded (`1iV1GnF4K-c`) | — | Sight fishery, not a meter fishery |
+| **Fish finning or sunning on the surface, sighted while running offshore** | ⚠ Flagged stub — no corpus source yet: approach, bait and cast for a SoCal finner. Harpooning surface swords is named as a distinct SoCal fishery with no method detail recorded (`1iV1GnF4K-c`) | — | Sight fishery, not a meter fishery. ⚠ Fact-check (contradicted-by-source): the cite carries a moderator's résumé line ("from sportboat fishing to harpoon swordfishing to running yachts") and one preference statement ("harpooning of swordfish is better than anything you can do") — neither names it as a SoCal fishery |
 | **Night, layer risen shallow** | ⚠ Flagged stub — no corpus source yet: the night program. The corpus states only that swords are caught shallow at night because the DSL is shallow then (`yMiBtZ7k8-w`) | — | Depths, baits and lights for the night drop are absent |
 
 [a] Drift setup, rig geometry, bait rigging, bite handling, drag and the endgame
@@ -192,6 +224,10 @@ all live in [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md).
   2-speed lever-drag, run **manual or electric-assist**. The SoCal fight is
   usually made from the rod holder on the electric, because most fish swim up
   against the lead rather than pulling against the rod (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-by-source): "2-speed lever-drag" is never said in
+  the cited seminar; the only drag hardware named for the SoCal program is a star
+  drag ("we start a little heavier, but we're using star drag"). The stand-up /
+  bent-butt build and the manual-or-electric choice are stated.
 - **Line:** **80 lb braid** main line, chosen to cut the water on a drifty day
   (`yMiBtZ7k8-w`). See [line & leader](../tackle/line-and-leader.md).
 - **Terminal:** heavy **bite-leader class** (200 lb+) on a short leader, with a
