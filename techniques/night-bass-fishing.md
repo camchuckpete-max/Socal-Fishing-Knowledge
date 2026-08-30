@@ -130,6 +130,13 @@ volume (`XyKF34C5iB4`):
   a calico that can reach 10 lb fished around structure. On lighter line
   (15–20 lb) a big fish might get landed by luck, but pulling hard enough by
   hand to horse it out of the rocks parts the line (`XyKF34C5iB4`).
+  ⚠ Fact-check (contradicted-by-source): the source frames 50 lb fluoro as
+  the common/preferred leader for a 10 lb-class calico, used for abrasion
+  resistance around structure, not as insufficient — "people like 50 lb
+  really for calos fish that gets to 10 lbs. But... when you're fishing
+  around structure... you're really using that just for abrasion"
+  (`XyKF34C5iB4`); the note's "even 50 lb is light" hardens that into a
+  stopping-power claim the source does not make.
 - **The goal is one trophy fish, not volume** — fishing heavy costs bites,
   and that cost is the accepted trade for targeting trophy fish over numbers
   (`XyKF34C5iB4`).
@@ -160,6 +167,10 @@ plus targeting lit structure inside a harbor.
   might land a fish by luck, but a big bass that reaches the rocks parts it;
   even 50 lb fluoro is light for a 10 lb-class calico around structure
   (`XyKF34C5iB4`).
+  ⚠ Fact-check (contradicted-by-source): same 50 lb misattribution flagged
+  under Heavy leader for trophy night fishing above — the source frames
+  50 lb fluoro as the common/preferred abrasion leader for a 10 lb-class
+  calico around structure, not as insufficient stopping power (`XyKF34C5iB4`).
 
 <!-- species-applications:start -->
 ## Species applications
