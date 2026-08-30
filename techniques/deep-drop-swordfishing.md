@@ -62,6 +62,13 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
   deliberately **short-leader system** overall, so the fish is in gaff range
   once the swivel reaches the rod tip; heavy
   [bite-leader class](../rigging/bite-leaders.md) (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-by-source): the **65 lb** option under this
+  SoCal-labeled build is Rush Maltz's Gulf Stream/East-coast line class
+  ("both I'm using 80 and 65 ... if the current's running really hard I
+  will drop down to that 65"), not a stated SoCal-crew practice — Duane
+  Diego Mellor, the sole SoCal captain in this source, states only **80 lb
+  braid** ("we're using 80 pound braid") and never mentions 65 lb
+  (`yMiBtZ7k8-w`).
 - **Light:** a single **LP-class clip-on light 10–15 ft from the bait** —
   green or blue is the SoCal standard, switching to **white early and late in
   the day**, run bright to compete with the crowd of other boats' baits on
@@ -102,6 +109,13 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
   setting is more a preference than a critical one: a properly buried circle
   hook holds regardless, the same way a buoy sitting on effectively zero
   rod-and-reel drag still lands fish all day (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-by-source): the 15 lb lead / 150 ft wind-on /
+  "twice as much line as you guys have out" description in this source is
+  Rush Maltz's Gulf Stream rig, not Duane Diego Mellor's — Duane elsewhere in
+  this same video states a 7–10.5 lb lead and a 25 ft wind-on. The speaker
+  with the 15 lb lead also says the opposite of "backs off ... down to about
+  10 lb at the most": "I can't back off that much because ... I already have
+  a 15 pound lead on there" (`yMiBtZ7k8-w`).
 - **Boat stays in gear** through the endgame — a slowly moving boat keeps the
   fish tracking near-motionless alongside, almost "in a trance"; at a
   standstill nearly every fish darts under the boat and into the motors
@@ -130,6 +144,10 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
 - **Line:** **80 lb braid** main, chosen to cut the water on a drifty day;
   some crews step down to **65 lb** for less resistance in hard current
   (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-by-source): same **65 lb** misattribution
+  flagged under Rigging parameters above — that figure is Rush Maltz's Gulf
+  Stream/East-coast practice, not a stated SoCal-crew one; Duane Diego
+  Mellor states only 80 lb braid (`yMiBtZ7k8-w`).
 - **Terminal:** heavy **[bite-leader class](../rigging/bite-leaders.md)**
   (200 lb+) short-leader system — parameters above.
 - A high-ratio casting or spinning reel built for retrieve speed is the wrong
