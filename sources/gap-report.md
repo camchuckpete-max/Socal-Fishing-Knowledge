@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2462 flagged gaps, 368 flagged stubs, 1052 unknown infobox values._
+_Totals: 2469 flagged gaps, 368 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -4192,6 +4192,15 @@ _Totals: 2462 flagged gaps, 368 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/two-harbors.md**
+  - `(lead)`: gap — a charted position for the harbour itself.
+  - `Getting there`: gap — distance, run time or sea-state envelope from
+  - `Structure & bathymetry`: gap — depth, bottom composition, shelter or holding
+  - `What's there`: gap — season shape scoped to this spot | The nearest recorded stop is [Bird Rock Reef](bird-rock-reef.md) just outside the harbour, where an anchored live-squid stop produced a landed yellowtail (`zUFbCIWZZMw`) |
+  - `What's there`: gap — season shape scoped to this spot | Barracuda came off that same anchored Bird Rock stop alongside 3–4 lb calico (`zUFbCIWZZMw`) |
+  - `What's there`: gap — anything caught inside the harbour itself, and
+  - `How it fishes`: gap — current, wind or tide behaviour in and around
+  - infobox `depth_band`: unknown
 - **locations/upper-500-hidden-bank.md**
   - `Getting there`: gap — any run, heading, timing or fuel figure to
   - `Getting there`: gap — says whether
