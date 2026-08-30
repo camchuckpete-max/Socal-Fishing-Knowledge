@@ -56,7 +56,7 @@ by their builders after the transform phase drains.
 | techniques/kite-fishing.md | standard | fact-checked | unverifiable(1) | 9/9 statistics and quotes checked; 1 unverifiable flag (ASR-garbled 40-45 min fight duration) |
 | techniques/knife-jigging.md | standard | transformed | single-source(4), contradicted-by-source(13), contradicted-internal(1), unverifiable(0), ext-verify(0) | fact-check verified: 18 inline flags applied (13 contradicted-by-source, 4 single-source, 1 contradicted-internal) with paired ledger rows, zero claim rewording/deletion, corpus spot-checked |
 | techniques/leadhead-swimbait-retrieve.md | standard | transformed | single-source(4), contradicted-by-source(1) | fact-check verified: 5 inline flags added (1 contradicted-by-source, 4 single-source), ledger rows match 1:1, no claim reworded/deleted |
-| techniques/live-bait-pendulum-cast.md | standard | transformed | gaps(1) | transform verified, 2 defects fixed in-tree (uncited borrowed claim, smoothed specific) |
+| techniques/live-bait-pendulum-cast.md | standard | transformed | none | fact-check verified 3/3 claims accurate, no flags needed |
 | techniques/mangrove-structure-livebait.md | standard | transformed | none | transform verified: attribution preamble to plain-statement+cites, evidence file split, facts conserved and transcript-verified |
 | techniques/ned-rig.md | standard | transformed | none | transform verified, one smuggled-specificity fix applied (baitcast to heavier tackle/drag near max) |
 | techniques/night-bass-fishing.md | standard | transformed | spots(1) | restructured to v2 skeleton, dissolved source-named heading, stripped meta-attribution to evidence, added Common failures + infobox fields; verifier fixed fabricated retrieve_speed claim |
