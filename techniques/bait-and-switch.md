@@ -87,6 +87,8 @@ when they land.
 - A Baja/Cabo data point ties the dropback rig to **80 lb "Soft Steel Ultra"
   monofilament** and a **#9 circle hook** (`Mwx5AAXNMvE`) — sponsor-named
   line, region-labeled rather than treated as the SoCal class default.
+  ⚠ Fact-check (single-source): this exact line/hook pairing comes from one
+  Baja/Cabo trip only, not corroborated elsewhere in the corpus.
 
 ## Common failures
 
