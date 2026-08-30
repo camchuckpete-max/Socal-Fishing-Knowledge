@@ -119,12 +119,18 @@ A hookup-specific counter-move for a fish taken off the
   too-short fighting rod is a direct cause, not just a factor — with a
   **6.5 ft** rod the angler can't push the fish away from the boat once it
   starts circling, so it circles directly under the hull and saws the leader
-  across its teeth on every pass. Fix: **at least 7.5 ft**, a stated sportboat
-  minimum, so the rod has enough length to keep the circle pushed out and
-  away from under the boat. Longer isn't better past a point either — beyond
-  roughly **8 ft 2 in** the leverage works against the angler instead; **10
-  ft rods** are a common mistake among less experienced anglers, who then
-  fight a big fish on a rod as unwieldy as a "seesaw" (`fgTmUq78ofQ`).
+  across its teeth on every pass ⚠ Fact-check (contradicted-by-source):
+  `fgTmUq78ofQ` states the risk generically as "he's going to break that
+  line" when the fish circles under the boat on a too-short rod; it never
+  mentions the leader being sawed across the fish's teeth — that specific
+  mechanism belongs to the death-circle doctrine sourced to `8jC61LzQoxU`
+  earlier in this note, not to this source. Fix: **at least 7.5 ft**, a
+  stated sportboat minimum, so the rod has enough length to keep the circle
+  pushed out and away from under the boat. Longer isn't better past a point
+  either — beyond roughly **8 ft 2 in** the leverage works against the
+  angler instead; **10 ft rods** are a common mistake among less experienced
+  anglers, who then fight a big fish on a rod as unwieldy as a "seesaw"
+  (`fgTmUq78ofQ`).
 - **A reel-side counter for the same problem, on a two-speed reel:** standard
   pump-and-reel lets the fish point its nose down and kick on every
   down-stroke, protracting the fight; shifting to low gear and winding
