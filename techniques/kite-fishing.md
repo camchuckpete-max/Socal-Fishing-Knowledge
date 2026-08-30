@@ -129,7 +129,11 @@ a variant of this one.
 - A kite-hooked 100 lb+ bluefin has been fought **40–45 minutes** before
   landing, in a session that also converted fish on flyline gear fished
   alongside the kite in the same window — kite and flyline aren't mutually
-  exclusive presentations in one spread (`zBd1mayUt_I`).
+  exclusive presentations in one spread (`zBd1mayUt_I`). ⚠ Fact-check
+  (unverifiable): the cited clip's auto-captions render this stretch as
+  "40 45 M move" / "45 mile move for this fight" — the "minutes" reading is
+  the sensible one for a fight duration, but the transcript itself is
+  ASR-garbled and does not cleanly confirm the figure.
 
 ## Wind window
 
