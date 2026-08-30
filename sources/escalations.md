@@ -432,3 +432,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T08:28:57Z — species/bluefin-tuna.md — verify-escalate
 - run: 33299086507
 - reason: (1) new unverifiable DSL flag sits under the (cameron) food-following-vs-reaction-bite sentence and questions the risen-layer premise that cameron claim rests on (ext-verify ledger row 72); (2) ledger row 69: the California/CDFW jurisdiction on the two-fish bag limit is the note's own framing, not sourced; (3) two inline flags overstate vs their precise ledger rows — the sst_band_f flag reads as attributing the 63-65F January finding to water-temperature.md/september.md, and the hooks flag calls tackle/hooks.md contradictory when only the mackerel case conflicts. Process deviation: worker self-committed 3eb20108 (already pushed) instead of leaving the patch in the tree
+
+## 2026-08-30T09:27:23Z — species/california-halibut.md — check-note-failed
+- run: 33303639715
+- reason: FAIL  species/california-halibut.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the cited transcript gives the
