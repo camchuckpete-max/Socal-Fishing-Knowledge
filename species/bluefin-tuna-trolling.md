@@ -38,6 +38,8 @@ a Mad Mac — or a Rapala X-Rap Magnum Extreme — in the **13–15 kt** band is
 tool for "locating fish and finding bites when you don't have the conditions to
 put that kite up" (`z1CmWHqe9uk`). Kite execution lives in
 [kite fishing](../techniques/kite-fishing.md); this note owns what you tow.
+⚠ Fact-check (contradicted-by-source): the source attaches 13–15 kt to the
+Rapala Sarda and X-Rap Magnum Extreme, and gives the Mad Mac no speed at all.
 
 Once the choice to tow is made, the presentation follows the day:
 
@@ -58,6 +60,8 @@ hold you on fish (cameron).
 reconciled in [Mad Mac](../lures/mad-mac.md). The low-profile crimped
 connection and the J-to-treble swap live in
 [speed trolling](../techniques/speed-trolling.md) and the lure note.
+⚠ Fact-check (contradicted-internal): the diver row's 60–100 lb runs against
+[Husky Magnum](../lures/rapala-husky-magnum.md), which specs that lure 40–50 lb.
 
 **Presentation size against forage.** The spreader bar is the small
 presentation and the Mad Mac the large; match what the fish are eating, and let
@@ -82,6 +86,8 @@ set a dead flying fish under the kite to fish the drift over the marks
 (`vCskOx6N-XM`): trolling is the locate step, the kite the convert step. Full
 method: [search & glassing](../planning/search-and-glassing.md),
 [electronics & sounder](../planning/electronics-and-sounder.md).
+⚠ Fact-check (contradicted-by-source): the source bounds tuna movement ("not
+moving 12 miles in an hour") rather than stating a low-single-digit swim speed.
 
 **Two ~8 kt wind rules point opposite ways, and which applies depends on
 whether a kite spread is already in the water.** Inside a kite program, ~8 kt
@@ -96,6 +102,9 @@ same ~8 kt mark the other way — it is the floor below which the kite will not
 fly at all, and the play becomes a full-size Mad Mac at 13–15 kt
 (`z1CmWHqe9uk`), a different lure at a different speed. Mechanics:
 [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
+⚠ Fact-check (contradicted-by-source): `z1CmWHqe9uk` states no wind figure at
+all, and `2y0VznL2qk8` flies a kite under 8 kt, so ~8 kt is a presentation
+split, not a floor below which the kite will not fly.
 
 **Boat type gates the speed band.** A SoCal sportboat at full-speed troll tops
 out around **9 kt** — "if everybody on the boat is running back and forth... as
@@ -107,6 +116,8 @@ claim against the technique: the same source credits speed trolling with
 producing bites driving straight over a sounded-out foamer.
 ⚠ Fact-check (single-source): the 9 kt sportboat ceiling and the
 quarter-gallon-per-mile figure at 14 kt.
+⚠ Fact-check (unverifiable): a quarter gallon per mile is 4 mpg, which is not a
+worst-case burn — the spoken figure may invert to a quarter mile per gallon.
 
 **A volume program skips the flat-fall entirely.** One SoCal kite-and-flyline
 program does not fish the flat-fall/dropped-bait style of bluefin fishing at
@@ -117,6 +128,9 @@ big-fish fights for volume, not a claim the method fails; flat-fall depth and
 mechanism live in
 [knife jigging](../techniques/knife-jigging.md#reach-for-this-when).
 ⚠ Fact-check (single-source): the six-to-one landing-rate comparison.
+⚠ Fact-check (contradicted-by-source): the source says "we don't throw bait" —
+not a flyline program — and states six-to-one as a goal, "we want to catch six
+in the time you catch your one", not an achieved rate.
 
 ## Rigs & gear
 
@@ -129,6 +143,10 @@ mechanism live in
 - **Terminal:** low-profile **200 lb bite leader class**, crimped, no bulky
   swivel on the speed-troll connection; keep it low-profile so it does not kill
   the swim (`z1CmWHqe9uk`). See [bite leaders](../rigging/bite-leaders.md).
+  ⚠ Fact-check (contradicted-internal): [Mad Mac](../lures/mad-mac.md) specs the
+  same crimped, swivel-free Madmacs 200 connection at 100 lb, not 200 lb; the
+  source also crimps a barrel swivel at the main-line end, and runs swivel-free
+  only at the lure end.
 - **Lures by role:** [Mad Mac](../lures/mad-mac.md) (speed-troll),
   [spreader bar](../lures/spreader-bar.md) (school grade),
   [DTX Minnow](../lures/dtx-minnow.md) / [Husky Magnum](../lures/rapala-husky-magnum.md)
