@@ -40,6 +40,10 @@ warm-stable regime into
 (`5to3Q5P7w90`, `XLVUhV8DW64`). See [August](../seasonal/august.md),
 [September](../seasonal/september.md), [October](../seasonal/october.md).
 
+⚠ Fact-check (contradicted-by-source): the late-August anchor is a speculative
+aside, not a marlin report — `HnqiE05vdXs` says only "probably find a marlin up
+that way if you're gonna look for one," and no marlin is reported caught.
+
 **Where — outer banks, ridges, and the island volume zone.** The Santa Barbara
 Island–Nick–Clemente–Catalina "square" holds the bigger pelagics in the fall
 fragmentation window (`5to3Q5P7w90`); the September 2022 Masters marlin
@@ -51,6 +55,10 @@ ridge off Catalina's east end (`3qSY328fFYo`). See
 [island structure](../locations/island-structure.md),
 [zone lexicon](../locations/zone-lexicon.md).
 
+⚠ Fact-check (contradicted-by-source): on `HzE4FHHcvTk` the marlin jigs went out
+only after the boat ran off the 152 Ridge toward Avalon Bank; at the 152 it was
+pulling a Mad Mac, and no marlin was raised anywhere on that trip.
+
 **Water.** Marlin hold in the clear blue water and work the seam where the
 dirty bait water meets it — the jigs go out on the edge where there is still
 bait, then troll into "the clean water where the marlin would likely live"
@@ -59,11 +67,24 @@ is **68°F**, with the fished water reading **69.3–69.4°F** (`3qSY328fFYo`). 
 [water color](../conditions/water-color.md),
 [water temperature](../conditions/water-temperature.md).
 
+⚠ Fact-check (contradicted-by-source): the quoted phrase reads "the **clear**
+water where the marlin would likely live" on `HzE4FHHcvTk`, not "clean," and it
+is the speaker's speculation about where marlin are while narrating one trip
+that raised none — not a stated seam doctrine. The same quote is carried in
+[striped marlin — trolling](striped-marlin-trolling.md).
+
 **Presence vs catchability.** A body of fish holds an area for anywhere from six
 to eight weeks down to six to eight days, so an area that produced last week may
 be empty (`3qSY328fFYo`). Presence alone is not a bite: the conversion from a
 raised fish to a hookup is about one in five or six, and jig strikes cluster in
 the tide window below rather than running all day (`3qSY328fFYo`).
+
+⚠ Fact-check (contradicted-by-source): `6TBxHnkYXI0`, co-cited for this rate in
+the lead, says nothing about raising fish or any conversion rate. On
+`3qSY328fFYo` the figure is "to get a jig fish is usually get one out of five or
+six **if you're lucky**" — scoped to jig fish and hedged. The same figure is
+carried in [striped marlin — trolling](striped-marlin-trolling.md) and
+[bait-and-switch](../techniques/bait-and-switch.md).
 
 **Baja.** Region-labeled, from charter trips rather than SoCal doctrine: marlin
 are described as abundant at [Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
@@ -72,6 +93,13 @@ in fall (`4t_Z75shK_E`), and are caught trolling off
 out of the [East Cape](../locations/east-cape.md) (`BQ2U1PqxWi8`, `mG8ZZLFGlT8`)
 and offshore of [Ensenada](../locations/ensenada.md) (`0bcDBGzQnGw`). Trip detail
 sits in the zone-guide stubs below and the [evidence file](evidence/striped-marlin.md).
+
+⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` records a marlin jumping at
+the boat, not a catch — "actually just saw marlin jump right in front of the
+boat"; the hookup that followed is never tied to it and the fish landed that
+episode are yellowtail, yellowfin, skipjack and dorado. `BQ2U1PqxWi8` likewise
+lists marlin as present and shows a release whose species is not stated on
+camera; the East Cape striped-marlin catch is `mG8ZZLFGlT8` only.
 
 ## Presence & forage
 
@@ -88,6 +116,11 @@ not either side of it (`HzE4FHHcvTk`). A
 [kelp paddy](../conditions/kelp-paddies.md) that lit the graph up with bait was
 the last thing trolled past before the strike on the corpus's one worked SoCal
 marlin stop (`3qSY328fFYo`).
+
+⚠ Fact-check (contradicted-by-source): "the productive line is the seam and not
+either side of it" is not stated on `HzE4FHHcvTk` — the source narrates where
+the jigs happened to go on one fishless trip and hedges the marlin's position
+("would likely live").
 
 **Forage.** Mackerel is what meters under the boat on the marlin grounds and
 what the fishery hooks (`3qSY328fFYo`, `9xHgdtNek1U`). Sauries greyhounding at
@@ -118,6 +151,13 @@ is silent.
   come up behind them (`3qSY328fFYo`); alternatively, the ocean going quiet at
   slack lets the fish hunt better (`6TBxHnkYXI0`). Both are stated as reasoning,
   neither is tested on camera.
+  ⚠ Fact-check (contradicted-by-source): "the water stops moving up and down" is
+  from `6TBxHnkYXI0` — the second reading — not `3qSY328fFYo`, which says only
+  "when the tide goes slack the bait fish pop up, come closer to the surface and
+  the fish come up." The two readings are cross-contaminated. On `6TBxHnkYXI0`
+  the hunt-better mechanism is credited to Sean Morgan and the host declines to
+  endorse it ("I don't know… he's got a lot of marlin so it does make sense").
+  **ext-verify**
 - **A gradual tide keeps it going.** A day with a high at 7:30 and a low three
   to four hours later — a slow, sloping tide rather than a hard swing — was read
   on camera as keeping the fish up longer (`3qSY328fFYo`).
@@ -144,6 +184,11 @@ is silent.
   binoculars you can afford — they get used all day (`3qSY328fFYo`). See
   [search & glassing](../planning/search-and-glassing.md),
   [bird reading](../conditions/bird-reading.md).
+  ⚠ Fact-check (contradicted-by-source): `3qSY328fFYo` lists "a marlin sleeping,
+  tailing, or when it comes up slashing behind the marlin spread" — **finning**
+  never appears, and the source never says what to glass FOR ("get the best pair
+  of binoculars… you will be using them all day long"), so "fins and sudden bait
+  sprays" is added.
 - **Watch the jigs.** A marlin can take a whack at a jig without popping the
   outrigger clip or the rubber-band release, so someone staring at the jigs and
   prop wash is the most important job after driving the boat; miss those moments
@@ -196,9 +241,18 @@ states a hook style for the dropback bait.
   ([bait-and-switch](../techniques/bait-and-switch.md)) — flylining a mackerel is
   the named marlin presentation on that class of gear (`9xHgdtNek1U`,
   `3qSY328fFYo`).
+  ⚠ Fact-check (single-source): only `9xHgdtNek1U` names the presentation, and
+  as that captain's own preference inside a general flylining tutorial ("I like
+  the fly line mackerel for marlin"). `3qSY328fFYo` never says "flyline" — its
+  mackerel is a dropback/pitch bait thrown to a raised fish.
 - **Hooks:** circle hook for the dropback when the angler cannot feel the bite;
   long-shank J when they can and will set (`m2q22sPPkEM`). See
   [hooks](../tackle/hooks.md).
+  ⚠ Fact-check (contradicted-by-source): `m2q22sPPkEM` names "a long shank 7/0"
+  and never says "J hook" — the J is read off the contrast with the circle. The
+  speaker says "my guys can't feel the bite 90% of the time" (not "90% of
+  clients") and hedges the sawed-off rationale as belief ("maybe I'm wrong but
+  that's how I believe it"). Scoped to his Cabo charter fishery, not SoCal.
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
   the bill and the abrasion; class terms in
   [gear classes](../tackle/gear-classes.md). The corpus's landed fish sit under
@@ -236,6 +290,11 @@ disposition rule anywhere in the corpus is one Cabo charter's own practice of
 releasing all billfish (`Mwx5AAXNMvE`) — an operator practice, not law.
 Registered in [regulatory claims](../sources/regulatory-claims.md).
 
+⚠ Fact-check (contradicted-by-source): the on-camera wording is "we
+**primarily** release all the billfish," tied to working fast so the fish is not
+killed — the qualifier is dropped here and again under Doctrine & conflicts.
+**ext-verify**
+
 ## Doctrine & conflicts
 
 Section order below is not a ranking.
@@ -248,6 +307,13 @@ coasts rates striped marlin the best-eating of the marlins and fillets them for
 the grill and the smokehouse (`Dq1x__MI8Wk`). Nothing in the corpus makes any of
 the three a rule, and the regulations gap above is unfilled, so the decision is
 the boat's until an agency rule is checked.
+
+⚠ Fact-check (contradicted-by-source): `Dq1x__MI8Wk` never says the speaker runs
+both coasts — he only ranks striped marlin against blue, black and white marlin
+("it's the very best marlin to eat"). The same channel's `9xHgdtNek1U` has him
+present as West Coast ("on the west coast we fish conventional reels… if I was
+east coast…"). `Dq1x__MI8Wk`, `9xHgdtNek1U` and `m2q22sPPkEM` are the same
+presenter, so they do not corroborate each other independently.
 
 **Open item, not doctrine.** No corpus source gives a single water-condition
 threshold for "deploy the marlin jigs now." The ingredients are all stated —
