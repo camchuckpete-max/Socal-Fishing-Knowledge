@@ -36,6 +36,12 @@ and re-tying or re-spooling (`Vl0BuetK2D0`).
 - Keep the thumb off the spool entirely while working the backlash free —
   thumb pressure is what caused the jam and only cinches it tighter here
   (`Vl0BuetK2D0`).
+  ⚠ Fact-check (contradicted-by-source): the 39-second source only shows the
+  caster withholding the thumb ("I'm not going to use my thumb at all... I'm
+  just going to slowly pull this line out") — it never states that thumb
+  pressure caused the original backlash, only that no thumb is used during
+  recovery. The same unsupported causal claim is restated in Common failures
+  below.
 - Pull the line straight out by hand, slowly (`Vl0BuetK2D0`).
 - When it catches on a wrap or loop, roll back and clear that specific loop
   before continuing to pull (`Vl0BuetK2D0`).
