@@ -148,7 +148,11 @@ fixed rule.
   wear-out-and-upgrade doctrine above; the two describe different failure
   modes (general sufficiency vs. wear over time) rather than a clean
   contradiction. ⚠ Flagged gap — no corpus source: whether hook durability
-  differs by jig model or generation.
+  differs by jig model or generation. ⚠ Fact-check (unverifiable): the cited
+  transcript (`tpmOYXYQwhU`) contains no discussion of flat-fall hook/leader
+  sufficiency or of manufacturers being "keyed in" on swap-it-out feedback at
+  all — its only manufacturer-quality content is a general aside on reel and
+  lure casting ability improving over time.
 - **Incidental catches** on this lure class: yellowfin tuna, yellowtail
   sitting deep on kelp paddies, and — fished too deep in shallow water —
   rockfish (`shZCjX2-fkI`).
@@ -184,7 +188,11 @@ rubber on the foregrip so the rod can be braced against the rail rather than
 fished entirely in hand — paired with a narrow two-speed reel, not a
 single-speed. Reel examples: a **Penn Fathom 60, two-speed** (`an_uw-5pjfw`);
 an **Avid HX Raptor-class two-speed**, spooled with 80 lb test
-(`fgTmUq78ofQ`). Rod example: a Seeker OSP rail rod, captioned "3 to 1" —
+(`fgTmUq78ofQ`). ⚠ Fact-check (contradicted-by-source): at this point in the
+transcript the reel is named only as "a triple speed avid reel with 80 pound
+test"; "HX Raptor" is said later in the same video, in an unrelated segment
+about reel picks, not tied to this leader/lure example. Rod example: a
+Seeker OSP rail rod, captioned "3 to 1" —
 asr-uncertain, plausibly the same Seeker OSP 1x3 rail-rod product already
 logged in [gear classes](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism),
 not confirmed by model number (`an_uw-5pjfw`).

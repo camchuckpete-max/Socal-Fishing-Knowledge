@@ -26,9 +26,12 @@ Per-source provenance backing
   Outdoorsman," 2021-05-14): a second weight tier (350/320/250/120 g) and a
   full leader/knot build (200 lb mono crimped, ~30 in, to an 80 lb main
   line via San Diego jam knot; Avid HX Raptor-class two-speed reel —
-  product/model pick stays low confidence, sponsored-claim caveat).
-  `searcher-sportfishing` registered channel — medium confidence, single
-  mention of this specific weight ladder and rig.
+  product/model pick stays low confidence, sponsored-claim caveat). ⚠
+  Fact-check (contradicted-by-source): at this point in the transcript the
+  reel is named only as "a triple speed avid reel with 80 pound test"; "HX
+  Raptor" is said later in the same video, in an unrelated segment about
+  reel picks. `searcher-sportfishing` registered channel — medium confidence,
+  single mention of this specific weight ladder and rig.
 - `jLFZIh15Fec` ("200 g Shimano Flat-Fall Tackle Tip — Weight, Color,
   Leader, and Gear," Tackle Tip Thursday Vol. 3, uploaded 2018-07-12): the
   earliest-dated citation on the leader-material question, giving 100 lb
