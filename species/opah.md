@@ -25,6 +25,10 @@ is whether to give up tuna time to drop a jig under the boat. Table fare drives
 that decision: the fish carries seven distinct cuts of meat, and the
 frisbee-shaped "abductor muscle" is called one of the best of them
 (`tio1oeibVlM`).
+⚠ Fact-check (contradicted-by-source): the deep presentation is stated as
+"either a sinker or a lure or something like that" (`tpmOYXYQwhU`) — neither
+"jig" nor "sinker-weighted bait" appears in the source, and the evidence file
+already quotes it correctly.
 
 ## Where & when
 
@@ -36,6 +40,11 @@ for the island's structure. Treat that as the extent of the recorded range,
 not as the fish's actual range; opah are described as wide-ranging, "swims all
 over the world" (`tio1oeibVlM`), and a place is recorded here only where a
 source states it.
+⚠ Fact-check (unverifiable): the captions carry "Catalina offshore" as an
+unpunctuated fragment between a taxonomy statement and a sustainability plug —
+"seven different species they've just found out Catalina offshore we've been
+leading the pack and sustainability" — so nothing in the source attaches the
+place to where opah are caught.
 
 **When.** ⚠ Flagged gap — no corpus source: any month, season window, or
 temperature band for opah in the Bight. Neither source dates the catch.
@@ -43,12 +52,19 @@ temperature band for opah in the Bight. Neither source dates the catch.
 **Presence is not catchability.** The fish is present anywhere the offshore
 tuna drift happens, but the encounter rate is low enough that both sources
 class it as incidental rather than plannable (`tio1oeibVlM`, `tpmOYXYQwhU`).
+⚠ Fact-check (contradicted-by-source): only `tpmOYXYQwhU` classes opah —
+"in our experience it's an incidental catch". `tio1oeibVlM` never uses the
+word or ranks opah against a target; its whole framing is "drop that jig down
+deep… when everybody's back there fishin' that tuna".
+
 Build the day around [bluefin](bluefin-tuna.md) or
 [yellowfin](yellowfin-tuna.md) and treat an opah as upside.
 
 ## Presence & forage
 
 - **Opah are warm-blooded** (`tio1oeibVlM`).
+  ⚠ Fact-check (single-source): a physiological claim carried by one 54-second
+  studio clip ("warm blooded fish") and by nothing else in the corpus.
 - **They are wide-ranging rather than resident to a structure** — "swims all
   over the world" (`tio1oeibVlM`); no bank, reef, or high spot is recorded as
   holding them.
@@ -99,6 +115,19 @@ depth read that distinguishes them from the tuna marks already on the screen.
 | Daytime [dart-jig](../techniques/dart-jig-tuna.md) tuna fishing | No dedicated opah program — fish the dart jig for bluefin, yellowfin, and yellowtail and accept opah as an occasional bycatch | [Dart-jig class](../techniques/dart-jig-tuna.md) | Named as a "knock on wood" possibility on this presentation (`pCd6QykcZ0w`) — see [Searcher daytime dart-jig outfit ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md) |
 | Whole trip planned around opah | Do not — the success rate targeting opah is "not too productive" (`tpmOYXYQwhU`) | — | Plan the day on tuna and route through the rows above |
 
+⚠ Fact-check (contradicted-by-source): row 1's situation column adds
+conditions the source does not give. `tio1oeibVlM` says only "when everybody's
+back there fishin' that tuna" — the boat is never described as stopped or
+drifting, and neither chum nor flylined baits are mentioned anywhere in the
+clip.
+⚠ Fact-check (contradicted-internal): row 3's claim also appears in
+[dart-jig-tuna](../techniques/dart-jig-tuna.md), where the bluefin / yellowfin
+/ yellowtail / opah list is cited to `TU5quAG4atM` — a transcript that contains
+no occurrence of opah, yellowtail, or yellowfin. This note's `pCd6QykcZ0w` cite
+is the one the corpus supports ("they're not always bluefin tuna they might be
+yellowfin tuna there might be yellowtail other species knock on wood maybe even
+an opa").
+
 [a] Weight, line class, and jig type are not stated for the deep-jig drop; only
 color and cadence (down deep, worked up and down) are. The closest documented
 SoCal vertical-jig execution is [yo-yo iron](../techniques/yo-yo-iron.md), which
@@ -136,7 +165,13 @@ current rules with the issuing agency before keeping one** — see
 Section order below is not a ranking.
 
 Both sources class opah as an incidental catch, and neither contradicts the
-other. What separates them is **scale of intent**: dropping a jig deep while
+other.
+⚠ Fact-check (contradicted-by-source): the "incidental" classification is
+`tpmOYXYQwhU`'s alone — see the flag in **Where & when**; `tio1oeibVlM` states
+no classification, so the two are not two independent readings of the same
+question.
+
+What separates them is **scale of intent**: dropping a jig deep while
 the boat is already stopped is endorsed (`tio1oeibVlM`), and building a trip
 around opah is not (`tpmOYXYQwhU`). The decision turns on opportunity cost — a
 jig fished under a drifting boat costs one angler's tuna time, a targeted trip
