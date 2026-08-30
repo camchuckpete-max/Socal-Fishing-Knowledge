@@ -363,3 +363,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-29T22:54:51Z — locations/isla-carmen-north-end.md — guard-violation
 - run: 33278623566
 - reason: commit c1c7c2c9cd737638dce83855c478a9b1710e0151 reverted: out of scope for 'review: locations/isla-carmen-north-end.md': locations/loreto.md
+
+## 2026-08-30T00:27:46Z — locations/lighthouse-lighthouse-point.md — guard-violation
+- run: 33282762773
+- reason: commit de9fadb836567e4435a532191021d118b7c08674 reverted: out of scope for 'review: locations/lighthouse-lighthouse-point.md': locations/east-cape.md
