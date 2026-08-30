@@ -27,6 +27,20 @@ the bluefin nearby become more cooperative too (`CMQkHQMxbXM`). Baja grade is a
 different fish entirely — 40–70 lb at Guadalupe (`Sx40JvCXFuA`), 70–100 lb at
 Alijos Rocks (`_r08B4bItAY`, `6kpWn2sXokI`), and 140–350 lb on the lower banks
 in November (`ASitOLYzFEA`).
+⚠ Fact-check (contradicted-by-source): no cited source puts bluefin in a cooler
+zone *alongside* the yellowfin. `OYOda6T3f-8` puts them on separate ground —
+"those things slid out to the Tanner Cortez … and that water is all in a
+slightly cooler zone so that's more ideal for those bluefin" — while the
+yellowfin sit on the warm West End / Mackerel Bank / 181–182 band; the only
+"alongside" statement in either cite is about a temperature *break*, where the
+bluefin hold on the cooler side.
+⚠ Fact-check (contradicted-by-source): "100" appears nowhere in `6kpWn2sXokI`,
+which grades the Alijos Rocks catch "anywhere 70 lb … a couple around 80 lb."
+The 100 lb figure is `_r08B4bItAY`'s "a chance for a hundred pound yellowfin
+tuna at alejo's rocks" — a stated prospect ahead of the trip, not a recorded
+grade — so the pair reads as one range when it is a landed 70–80 lb beside an
+unlanded 100 lb hope. The same fusion carries into [Where &
+when](#where--when) and the [Gear summary](#gear-summary-class-terms).
 
 ## Where & when
 
@@ -46,6 +60,14 @@ water on the coast — the West End of [San Clemente
 Island](../locations/san-clemente-island-front-side.md) down through Mackerel
 Bank to the 181/182 Ridge, with the bigger 50 lb fish off the front side of
 Clemente (`OYOda6T3f-8`).
+⚠ Fact-check (contradicted-by-source): the geography and the 50 lb front-side
+fish are verbatim, but "typically October" is not — `OYOda6T3f-8` describes one
+dated season ("we're getting later in the season… you can see how broken up
+that water temperature is") and puts further break-up in the future ("we're
+going to get a couple of good storms and all these little hot spots are going
+to break up"). It never states an October-typical pattern, and the whole
+fall-fragmentation framing of this section plus the `season_peak` infobox field
+rest on the generalization.
 
 **Water — warmest × cleanest.** Find the warmest water you can, then cross it
 against your chlorophyll chart for the cleanest water; that SST-max ×
@@ -53,6 +75,10 @@ chlorophyll-min combination is where they are most likely (`OYOda6T3f-8`). See
 [water temperature](../conditions/water-temperature.md),
 [water color](../conditions/water-color.md). A SoCal fall bite marked by white
 terns sat over **72 °F** water (`SczdZIq3UmE`).
+⚠ Fact-check (contradicted-by-source): `SczdZIq3UmE` says only "it's 72
+degrees," spoken alongside the bird call with no statement that it is a *water*
+reading. It is the sole figure behind the `sst_band_f` infobox field and is
+repeated in [Finding them](#finding-them-sign--sonar).
 
 **Structure.** They show under [kelp
 paddies](../conditions/kelp-paddies.md) mixed in with other schools
@@ -81,6 +107,30 @@ running **37–46 lb** in 2016 up to **50–72 lb** in 2019–2020 (`_c6UI3lGBVg
 [Ensenada](../locations/ensenada.md) they show **30–40 mi out**
 (`0dIwWiOc1NY`), and off [Cedros](../locations/cedros-island.md) **20–30 mi
 offshore** on an October troll (`YUdbrIm9vrE`).
+⚠ Fact-check (contradicted-by-source): Guadalupe's trip lengths. `ETw_3AFxEcM`
+ties the island to a **six**-day trip and explicitly routes seven-day-and-longer
+elsewhere — "if you're really lucky enough to go on the Searcher on a seven day
+or longer trip now you might get down to either [Alijos] rocks or the ridge or
+[where] the wahoo are found"; `_r08B4bItAY` frames Guadalupe ahead of the
+September five/six-day trips. No cite puts a seven-day trip on Guadalupe.
+⚠ Fact-check (contradicted-by-source): the East Cape years and grades.
+`_c6UI3lGBVg` states its own year on camera — "the stoked on fishing **2018**
+fiestas final days showdown" — so the 72/63/63 lb weigh-in in `GptrotE0x5M`
+(same Fiesta, same anglers) is 2018, not 2019, and **no 2020 yellowfin grade
+appears in any of the three transcripts**; both year labels are read off upload
+dates, which CLAUDE.md's absolute-date rule makes load-bearing. The 37/39.4/46
+lb figures are also tournament *prize placings* — the event's biggest fish, third
+prize, second, grand prize — not a grade sample, and the "consistent all year
+round" quote comes from `_c6UI3lGBVg` alone; neither `mG8ZZLFGlT8` nor
+`GptrotE0x5M` carries any year-round or consistency claim.
+⚠ Fact-check (contradicted-by-source): `Fq4aRI3YrKE` contradicts the
+late-November framing it is co-cited on. Its own dating is pre-Halloween —
+"Lower banks. Beginning of the year. It's not even Halloween yet" — its top
+fish is 314 lb with no 140 lb floor and no 350 lb fish, its tally is "six
+over," and the crew plan "to sit tight for at least one more day," not four.
+Only `ASitOLYzFEA` carries November, 140–350 lb and the four-day anchor, and its
+month comes from the host's dock-day intro rather than a stated annual rule, so
+the `season_peak` infobox's `nov` rests on one trip's date stamp.
 
 **Presence is not catchability.** Small spots of yellowfin boiling at the 14 in
 August refused surface lures before wind chop shut down spotting altogether
@@ -88,6 +138,11 @@ August refused surface lures before wind chop shut down spotting altogether
 report that the crew declined to run at (`0dIwWiOc1NY`). Zone-by-zone trip
 reality lives in the [zone guides](#zone-guides) below and the
 [locations](../locations/README.md) gazetteer.
+⚠ Fact-check (contradicted-by-source): `CMQkHQMxbXM` says the chop made it
+"kind of hard to spot fish," not that spotting shut down altogether, and the
+refusal is a two-cast sample — "got a couple of casts on them with… surface
+lures but they didn't bite and by then there was enough wind chop to make [it]
+kind of hard to spot fish."
 
 ## Presence & forage
 
@@ -104,6 +159,26 @@ show **on the flanks and out in front** of it instead, with terns working
 two SoCal pod types that hold them (`fK2AT460xW4`). What that read does to the
 troll — which water the lure works, and the approach that gets it there — is in
 [yellowfin — trolling](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution).
+⚠ Fact-check (contradicted-by-source): `fK2AT460xW4` carries none of the
+bait-ball mechanism attributed to it. It contains no bait-ball, scattering,
+driving or hunting language at all, no travelling-versus-feeding distinction,
+and no "looks empty from above" reasoning; its whole statement is "this tuna is
+suspended underneath the dolphin schools… they don't come right up to the top
+when they're swimming with the dolphin." The scattering mechanism is
+`ouBrIdO7d4k`'s ("that school of yellowfin is looking for those [bait]balls that
+the dolphin are scatter[ing]"), cited on the next clause.
+⚠ Fact-check (contradicted-by-source): "instead" makes the two reads exclusive,
+but `ouBrIdO7d4k` keeps both in the same breath — "they're not always right on
+them, they're out on the flanks, out in front of them" and, separately,
+"there's always yellowfin underneath them." Flanks-and-front is where the extra
+fish show when the pod is working bait, not a relocation of the school off the
+pod.
+⚠ Fact-check (contradicted-by-source): `fK2AT460xW4` attaches the tuna-holding
+claim to **common** dolphin alone — "that's pretty much what you have in
+southern california are common dolphins and those common dolphins are always
+holding the tuna" — and names spotted spinner dolphin only as something the
+crew will be looking for that day. The same two-pod-type sentence is repeated in
+the [suspended-pod router row](#situations--techniques).
 
 **Forage: small anchovies, and flying fish where they occur.** Yellowfin feed
 on the same "little tiny anchovies" bluefin bust on, which is what the small
@@ -111,6 +186,12 @@ long-cast lure classes are matched to (`VgpgJ8IAyJo`). At the East Cape a ~50 lb
 fish cleared the water by about 5 ft chasing a flying fish (`BQ2U1PqxWi8`). A
 large bait ball sitting directly under the boat is enough to hold a giant-tuna
 school in place for days (`Fq4aRI3YrKE`).
+⚠ Fact-check (contradicted-by-source): the "for days" and the causal "is enough
+to hold" are a synthesis across two different trips. `Fq4aRI3YrKE` states the
+bait ball and a one-day decision — "we're not moving. We got a big big bait ball
+under our boat… we're going to sit tight for at least one more day" — while the
+four-day anchor is `ASitOLYzFEA`, which never attributes the school's
+persistence to a bait ball.
 
 ⚠ Flagged gap — no corpus source: forage confirmed from a yellowfin stomach
 rather than inferred from what the lure matches; any bait concentration,
@@ -133,6 +214,15 @@ silent.
   with free-swimming fish charging alongside (`6zYRI1ZQU3c`). On locating a
   school, throw a few freebies before you ever present a hook bait
   (`8M4QhL-Qb7E`).
+  ⚠ Fact-check (contradicted-by-source): `lxFNVdDhMy4` states the chum and the
+  clock but not the outcome — the deckhand is "chumming the heck out of this
+  bait **trying to** draw the school of the [yellowfin] up towards the surface,"
+  and the follow-up is "it was like two minutes of chumming, just look at that
+  little side scan here… that indicates that there's fish," followed by
+  "hopefully the [yellowfin] are willing to bite, only a matter of time will
+  tell." Nothing says the school came into hook range, "the side scan filling"
+  overstates the one mark call, and the fish landed on camera in that clip are
+  called skipjack.
 - **Small chum bait triggers harder than big.** The stated mechanism is prey
   density: a scoop of small bait raises the density of prey in the water and
   fires a reaction, so the working split is big bait on the hook, small bait
@@ -142,6 +232,13 @@ silent.
   that a bright moon gives a school the confidence to travel and feed in the
   dark; the day after, they bite poorly first thing and better late
   (`fri_BWI-VA0`). See [moon](../conditions/moon.md).
+  ⚠ Fact-check (contradicted-by-source): the 20 mi, the three species, the
+  confidence mechanism and the poor-morning/better-late pattern are all
+  verbatim, but the source hedges them ("that fish **seems to** bite really good
+  after a full moon late in the day") inside a video whose stated thesis is the
+  opposite of a rule — "the moon phase thing, my opinion is it doesn't matter…
+  I've seen a bite in a full moon also." A stated opinion is hardened into a
+  trigger.
 - ⚠ Flagged gap — no corpus source: any tide, slack, gray-light or
   current-speed trigger for yellowfin specifically, and no mechanism for why
   warm clean water switches them on beyond the fact that they hold in it. See
@@ -155,11 +252,33 @@ silent.
   it is dry. Set the sounder range **manually** rather than on auto for these
   shallow marks in deep open water (`SgF5hRlEGqU`) — method:
   [electronics & sounder](../planning/electronics-and-sounder.md).
+  ⚠ Fact-check (contradicted-by-source): the 40–50 ft band is one charter drift
+  in `lxFNVdDhMy4`, not a species signature. The only yellowfin-specific figure
+  there is the captain's single call — "the yellowfin are in 40 feet of water" —
+  and the "40 to 50 feet down" line is an untargeted mark call on the same
+  drift; the note generalizes one event into "commonly," and the `sonar_depth`
+  and `depth_band` infobox fields both derive from it. The paddy-grading
+  instruction in the same bullet is not in `lxFNVdDhMy4` at all — that
+  transcript contains no kelp-paddy content; the check-fast-then-move rule
+  belongs to [kelp paddies](../conditions/kelp-paddies.md) and `VgpgJ8IAyJo`
+  ("if we weren't sure if anything was on that particular kelp… if we didn't see
+  something come out and chase it, we would just move on to the next one").
 - **Visual sign: working birds (terns best), boils, and paddies.** Working
   birds over surface boils marked a ~30 lb school offshore of San Clemente
   Island (`3T4c3Zez_DM`); white terns marked a bite over 72 °F water near the
   209 (`SczdZIq3UmE`). See [bird reading](../conditions/bird-reading.md),
   [search & glassing](../planning/search-and-glassing.md).
+  ⚠ Fact-check (contradicted-by-source): the "~30 lb school" is not a grade.
+  In `3T4c3Zez_DM` the "30 lb" is the anglers joking about the rod/line class —
+  "got a 30 lb… you and 30 lb have had a good relationship on this… yeah, 30 and
+  I have been friends" — and the species is never named yellowfin in that
+  segment (only the part-3 recap, `tU4jhAkdzNw`, identifies the bite). The bird
+  sign, the boils and offshore-of-San-Clemente are all verbatim and stand.
+  ⚠ Fact-check (contradicted-by-source): "near the 209" is an inference —
+  `SczdZIq3UmE` names the 209 only as the outbound heading, then says "we're
+  gonna be racing all over the place today" before the bird stop; the bite is
+  never located on camera. The 72 °F reading carries the same open question
+  flagged in [Where & when](#where--when).
 - **Choosing between dolphin pods: take the one carrying its own bird.** With
   several pods around, even a single bird sitting on a pod is the tell that that
   group is holding fish, over unmarked pods nearby (`SgF5hRlEGqU`). A feeding
@@ -186,6 +305,34 @@ silent.
 | **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid/50 lb mono top shot, 80 lb fluoro leader | Named on camera for both species — same row as [bluefin tuna](bluefin-tuna.md#situations--techniques) (`TU5quAG4atM`) |
 | **Night, or fish sounded below casting range** | ⚠ Flagged stub — no corpus source yet: no yellowfin-specific night programme is documented, though the same boats run one for bluefin — see [bluefin tuna](bluefin-tuna.md#situations--techniques) | — | Corpus records yellowfin biting "into the dark" on live squid (`tU4jhAkdzNw`) but gives no rig, depth or light doctrine for it |
 | **Big grade located, calm water, kite conditions** | ⚠ Flagged stub — no corpus source yet: [kite fishing](../techniques/kite-fishing.md) is documented in this KB for bluefin only, never for yellowfin | — | Named here so its absence reads as a corpus gap, not as "not a method" |
+
+⚠ Fact-check (contradicted-by-source): the skipjack-layer row's lure. In
+`5Oh3IPIC5g4` it is a HookUp Baits "one ounce bullet" — a lead head with a
+4-inch plastic that the presenter explicitly sets *against* swimbaits ("swim
+baits out there") — and the instruction is to let it fall through the layer
+("the bullet goes really fast and you just let it go right through the
+skip[jack]"), not to work it quickly; the same seminar says "the one ounce you
+can work a little slower." The skipjack-intercepts-live-bait reason is verbatim
+and stands.
+
+⚠ Fact-check (contradicted-by-source): the dolphin-pod row's cites overreach.
+`0bcDBGzQnGw` names only cedar plugs ("slow troll some cedar plugs right now
+around this big dolphin school"), carries no deep-diving hardbait, no speed and
+none of the boat-handling doctrine, and never confirms the species on camera.
+"Stay outside the pod… get in front of it… never drive through" is
+`ouBrIdO7d4k` alone. The row's "fish not showing" premise also fails on
+`H-vIGWPIPVc`, where the crew are reading marks that "look like [tuna]" about
+five minutes before the strike, and that source's ~60 lb result and Nomad
+sardine-color deep diver are dropped from the row.
+
+⚠ Fact-check (contradicted-by-source): the Baja slow-troll row's **30–40 lb
+class** has no source. `BQ2U1PqxWi8` gives no line class or rating anywhere for
+either the scad-mackerel slow troll or the flat-fall; its only named outfit is a
+Komodo 450 PCH 8-footer in the separate stickbait sequence. "Vertically off the
+side" and "in the same drift" are also absent — the boat was under way on the
+slow troll, and the transcript says only "Ryan can cast and drop down." The
+scad mackerel, the "vicious" strikes, the ripping flat-fall retrieve and the
+15–20 lb fish are verbatim and stand.
 
 [b] Speeds, spread positions and the pod approach are in
 [yellowfin — trolling](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution):
@@ -249,12 +396,25 @@ guide to hold it:
   corpus's yellowfin records come from (`GptrotE0x5M`). As of 2019-02;
   **verify current rules before fishing.** See
   [flyline](../techniques/flyline.md).
+  ⚠ Fact-check (contradicted-by-source): `GptrotE0x5M` says "mandatory" once, in
+  passing, in angler-to-angler conversation on the boat — "good news is a circle
+  hook, it's mandatory to have a circle hook" — and names **no jurisdiction, no
+  agency and no law**; the words Mexico, Baja California Sur, CONAPESCA, legal
+  and regulation appear nowhere in the transcript. In a resort-tournament
+  setting the remark reads equally as a house or event rule, so the note states
+  a national sportfishing mandate its cite does not carry.
 - **Mexico / federal fishing permit — required to fish Baja and Sea of Cortez
   waters.** A San Diego operator's first Guadalupe Island trip in 2009 was run
   only after obtaining Mexican fishing permits (`Sx40JvCXFuA`). As of 2009;
   every Baja ground in this note sits under that requirement. **Verify the
   current permit and entry paperwork with CONAPESCA before fishing** — see
   [Mexican waters](../locations/mexican-waters.md).
+  ⚠ Fact-check (contradicted-by-source): the whole sentence in `Sx40JvCXFuA` is
+  "our first trip to Guadalupe Island this year after we received the permits
+  from sack in Mexico." The word *fishing* is not in it, the issuing body is
+  unresolved ASR ("sack"), and San Diego is never said in that transcript — so
+  the permit type, the agency and the operator's home port are all
+  reconstruction.
 - ⚠ Flagged gap — no corpus source: any California / CDFW or Mexican
   (CONAPESCA) bag limit, size gauge, gear rule or season for yellowfin tuna, on
   either side of the border. **Verify the current rules with the issuing agency
@@ -287,6 +447,14 @@ points for that same scaled-down flyline bite; all three, with the decision
 frame, are on [yellowfin — flyline](yellowfin-tuna-flyline.md#rigs--gear)
 (`8M4QhL-Qb7E`, `AIHvJj-paoo`, `NN5MWeRA28o`), which holds the whole live-bait
 programme.
+⚠ Fact-check (contradicted-by-source): `NN5MWeRA28o` is not a third
+stepping-off point. It is a 22-second tackle-shop sale plug — "we're talking
+fluorocarbon… 25 pound and 20 pound Seaguar Blue Label, this subsequently buy
+one get one free at tackle day on Saturday… so for that school yellowfin that's
+been around the Coronado Islands… doing what? light line fluorocarbon" — which
+gives a line class but **no hook size**, no picky-bite ladder and no reasoning.
+`8M4QhL-Qb7E` and `AIHvJj-paoo` (25 lb fluoro, light-wire #2 circle, for fish
+that "were being picky") do carry the doctrine.
 
 **Guadalupe line class runs 20 lb to 60 lb; grade and line-shyness pick the
 build.** One build runs a
@@ -301,11 +469,36 @@ class, and the middle account names no line class at all, so it cannot be
 placed. Take the grade the boat is on and the water clarity as the input.
 ⚠ Fact-check (contradicted-internal): three builds for one ground from one
 channel, spanning 20 lb to 60 lb with no stated reason for the spread.
+⚠ Fact-check (contradicted-by-source): the heavy build is not stated for
+Guadalupe yellowfin. Every number verifies in `ETw_3AFxEcM`, but the video is
+"Yoyos for Yellows" and the rod/reel/top-shot spec is given for the **yellowtail
+yo-yo** outfit; it reaches Guadalupe tuna only through the aside "this is also
+your standard live bait fly lining rig for those 50 to 150 pound tuna," and the
+clip's closing restatement of the same outfit gives a **60 lb** top shot, not
+50–60 lb.
+⚠ Fact-check (contradicted-by-source): the 20 lb build's subject is not
+established. `WxlDxFjB8oQ` never says tuna or yellowfin — the words do not
+appear in the transcript, only "the fish" — and the island is a hedged forecast
+("I think our destination is going to be Guadalupe Island"), with the hooks
+themselves hedged as "maybe ones and twos." The evidence file records both
+caveats; the decision frame above places the figure as a confirmed Guadalupe
+yellowfin build, which is the bottom end of the 20-to-60 lb spread the
+contradicted-internal flag rests on. `EfaxxszOYFI`'s light-line framing is
+likewise stated for "Guadalupe Island **and down on the ridge**," two grounds,
+not one.
 
 **Private-boat and sportboat programmes diverge on bait budget.** A private boat
 carries a two-scoop maximum against the sportboat's effectively bottomless
 chum, which is what pushes the private-boat game toward the scale-down and the
 bait-net trick rather than sustained chumming (`8M4QhL-Qb7E`).
+⚠ Fact-check (contradicted-by-source): the causal half is not stated, and the
+source's own practice runs against it — Jordan chums throughout both tricks, and
+the bait-net trick *is* a chumming move ("throw that bait net in as quick as you
+can, get your hook bait mixed in with it"). The transcript only juxtaposes the
+two: "on the sporties you get that bottomless bait… on a private boat such as
+ourselves we have **about** a two scoop max… but there's a couple tips and
+tricks that I've learned." The "about" is also dropped, and the limit is his own
+boat's, not a private-boat rule.
 
 ## Landing & handling
 
