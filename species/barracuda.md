@@ -278,5 +278,4 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Two Harbors](../locations/two-harbors.md)
 <!-- backlinks:end -->

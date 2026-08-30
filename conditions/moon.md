@@ -183,7 +183,6 @@ Trip reports and per-source provenance: [evidence file](evidence/moon.md).
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Tide and Slack](tide-and-slack.md)
-- [Two Harbors](../locations/two-harbors.md)
 - [Water Regimes](water-regimes.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

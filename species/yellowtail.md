@@ -536,7 +536,6 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Trolling](../techniques/trolling.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
-- [Two Harbors](../locations/two-harbors.md)
 - [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)

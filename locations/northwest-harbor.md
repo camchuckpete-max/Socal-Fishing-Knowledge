@@ -146,5 +146,4 @@ No per-spot evidence file yet; the trip reports that fed this page are in
 ## Linked from
 
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
-- [Two Harbors](two-harbors.md)
 <!-- backlinks:end -->
