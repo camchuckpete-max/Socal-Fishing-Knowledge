@@ -37,12 +37,21 @@ and the [zone lexicon](../locations/zone-lexicon.md).
   give a private boat reds, blue bass, bocaccio and lingcod off one rock, often
   on a single drift (`6-8KfjEg0x8`). Blue bass and that island variety are a
   northern-islands fish you do not get in San Diego (`6-8KfjEg0x8`).
+  ⚠ Fact-check (contradicted-by-source): the cited day names no individual
+  island — only "the Channel Islands" and "just outside of Ventura" — and
+  scopes the San-Diego-absence line to blue bass alone ("You catch them up here
+  all the time on the Channel Islands. You do not get these in San Diego"),
+  not to the wider island variety (`6-8KfjEg0x8`).
 - **Deep (300–900 ft) — offshore banks and coastal deep rock** for the bigger
   reds/vermilion, a table-fish run that follows whatever depth band is open.
 - **Very shallow (20–30 ft) — the lings-shallow window.** Lingcod pull onto
   shallow high spots at Santa Rosa and San Miguel in late fall; in 20–30 ft of
   clear water you can watch the fish roll on the bottom after it eats a slug
   and set the hook a second later (`Z3rZqy2Pi8E`).
+  ⚠ Fact-check (contradicted-by-source): the cite is one report dated
+  2022-11-23 and states no Nov–Dec window — the two-month season the lead and
+  the situations table put around this 20–30 ft program is generalised from a
+  single late-November day (`Z3rZqy2Pi8E`).
 
 **When.** The California season is the hard gate — see
 [Regulations](#regulations). Inside it, the seasonal driver is weather, not
@@ -67,6 +76,10 @@ morning — a calm-looking morning can sit behind an extremely rough crossing
   red-coloured bait was the killer on those spots (`iAr6sbRC384`). Red crab was
   also present on the structure during a heavy red bite at Santa Barbara Island
   in roughly 102 ft (`SGbynqaiHdY`).
+  ⚠ Fact-check (contradicted-by-source): the cite hedges the identification and
+  places it in the water column beside the boat rather than on the structure —
+  "a little bit of bait probably some red crab kind of up our starboard side
+  here, 102 ft underneath" (`SGbynqaiHdY`).
 - **Anchovies and sardines suspend over the same rocky bottoms and the rockfish
   eat them** (`iAr6sbRC384`) — the same picture the sounder paints as a bait
   cloud up high with arches on the hard bottom underneath (`11npFUPOJKU`).
@@ -126,6 +139,9 @@ No surface sign — this is a meter-and-chart fishery, and you are hunting the
 - **Run the bottom-discrimination highways.** Drive the contour on autopilot
   over a known hump, read where hard meets soft, waypoint every hard-bottom hit
   and keep the track line running so you can circle back (`11npFUPOJKU`).
+  ⚠ Fact-check (contradicted-by-source): "read where hard meets soft" is not in
+  the cite — it calls out "nice hard bottom" only, with no hard-to-soft
+  transition named (`11npFUPOJKU`).
 - **What a good spot looks like:** a distinct pinnacle or hump rising **20–30 ft**
   off the surrounding floor — a 330 ft spot with a hump coming up 20–30 ft is
   the worked example — with a bait cloud up high over the top and arches on the
@@ -139,6 +155,11 @@ No surface sign — this is a meter-and-chart fishery, and you are hunting the
 - **Species read on the meter:** dense arches tight to a hard pinnacle are the
   reds and the rockfish stack; a bigger, lower mark holding on the rock and
   picking at a bait dropped past it is a lingcod (`O5aQkex0qGg`).
+  ⚠ Fact-check (contradicted-by-source): the cite carries no sonar signature at
+  all — it says only "I'm stopping on what I see is rockfish on the fishfinder"
+  and defers the sounder read to another episode. The arch-under-bait-cloud
+  picture belongs to `11npFUPOJKU`, which does not separate species
+  (`O5aQkex0qGg`).
 - **Species read on where the drift lays the bait.** Which species you get is
   set by where the drift puts the bait relative to the hard bottom, not by
   being "in the zone": on the rock produces reds, off or past it produces
@@ -156,16 +177,16 @@ No surface sign — this is a meter-and-chart fishery, and you are hunting the
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Any hard-bottom spot, want a mixed bag / hands-off | [Dropper loop](../techniques/dropper-loop.md) gangion — two loops ~1.5 ft apart, circle hooks, **24 oz torpedo sinker** on a light breakaway | Heavy 7'10"-H swimbait/rockfish class, level-wind reel, **30 lb braid** for a fast straight drop | The workhorse. Bait a [gulp/plastic grub](../lures/soft-plastic-swimbaits.md) (5–8 in grub, white-glow / nuclear-chicken) — scent fishes as well as live bait and you carry no squid (`O5aQkex0qGg`) |
+| Any hard-bottom spot, want a mixed bag / hands-off | [Dropper loop](../techniques/dropper-loop.md) gangion — two loops ~1.5 ft apart, circle hooks, **24 oz torpedo sinker** on a light breakaway | Heavy 7'10"-H swimbait/rockfish class, level-wind reel, **30 lb braid** for a fast straight drop | The workhorse. Bait a [gulp/plastic grub](../lures/soft-plastic-swimbaits.md) (5–8 in grub, white-glow / nuclear-chicken) — scent fishes as well as live bait and you carry no squid (`O5aQkex0qGg`). ⚠ Fact-check (contradicted-by-source): the cite names one grub, a "nuclear chicken five inch"; the 8 in and white-glow half of the range is `AqW_Z9pFcHU`, a different day and depth |
 | Shallower rock (100–250 ft), fish chasing / suspended reds | **Lead-head slug** — drop slack, **5–6 quick winds off the bottom** ([lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)) | 3 oz lead-head class on the heavy bass rod | ~90% of bites come on the first drop or the instant you kick back into gear (`O5aQkex0qGg`); **free-swing head** for suspended reds, standard head when you want them to spit so you can reach the bottom [a] |
-| Island rock and kelp in ~100 ft, live squid aboard | [Sliding sinker](../techniques/sliding-sinker.md) — light lead so the squid swims | **1/2 lb sliding sinker**, 30 lb test (25 lb lighter option), 2/0–5/0 hooks | The reds bite it hard off kelp and a ridge in roughly 102 ft; this is the shallow-island squid program, not the deep gangion (`SGbynqaiHdY`) |
+| Island rock and kelp in ~100 ft, live squid aboard | [Sliding sinker](../techniques/sliding-sinker.md) — light lead so the squid swims | **1/2 lb sliding sinker**, 30 lb test (25 lb lighter option), 2/0–5/0 hooks | The reds bite it hard off kelp and a ridge in roughly 102 ft; this is the shallow-island squid program, not the deep gangion (`SGbynqaiHdY`). ⚠ Fact-check (contradicted-by-source): the cite's stated reason for the light lead is sink rate in current — "lighter sinkers… letting them sink down in the current" — not letting the squid swim |
 | Deep water (300–900 ft), bigger reds, dropping past picked-over fish | [Deep-dropping](../techniques/rockfish-deep-dropping.md) the gangion or a heavy jig | 30 lb braid, level-wind, high line capacity | Thin braid means less scope and a straighter fall at depth; a low spool at 700–900 ft is the real problem, hence the fine line (`O5aQkex0qGg`) |
-| Lings on a shallow high spot, Nov–Dec Santa Ana window | Heavy [iron/knife jig](../lures/iron-jigs.md) or slug worked with bottom contact — [lingcod — jigging](lingcod-jigging.md) | 6 oz Ahi-Assault iron class **or** 200–250 g slow-pitch class | The sweep-and-flutter cadence, the bottom-contact rule and the missed-ling drop-back are on the sub-page (`O5aQkex0qGg`) |
+| Lings on a shallow high spot, Nov–Dec Santa Ana window | Heavy [iron/knife jig](../lures/iron-jigs.md) or slug worked with bottom contact — [lingcod — jigging](lingcod-jigging.md) | 6 oz Ahi-Assault iron class **or** 200–250 g slow-pitch class | The sweep-and-flutter cadence, the bottom-contact rule and the missed-ling drop-back are on the sub-page (`O5aQkex0qGg`). ⚠ Fact-check (contradicted-by-source): the cite hedges the weight — "I think this is a six ounce… or maybe an eight ounce" — and offers the Ahi as the DEEP-water answer when they will not eat the slug, never as a shallow-high-spot ling program |
 | Rosa/Miguel inside water, 20–30 ft, clear, after the deep-water reds are boxed | **Slug on the bottom** — the only presentation the source has taken lings on there; [inshore crankbait](../techniques/inshore-crankbaits.md) and [spinnerbait](../techniques/spinnerbaits.md) are named as a plan to try, not a proven eat | 3 oz lead-head class or heavy bass class | Sight-fishing depth: the fish rolls on the bottom on the eat, so wait a second before setting the hook (`Z3rZqy2Pi8E`) [b] |
-| Want one trophy lingcod rather than numbers | **Big-profile lingcod jig** (living-squid / ling-killer class) / [flat-fall](../techniques/flat-fall-jigging.md) — [lingcod — jigging](lingcod-jigging.md) | Heavy jig class | Numbers-versus-size choice: small flat-falls, Colt Snipers and the double dropper loop are the numbers answer; the big jigs are for one fish (`iR8CDCyofDM`, `XxN7EzNDnf8`). Cadence, profile logic and the missed-bite recovery on the sub-page |
-| Deep, non-biting, or want to cover the column | [Slow-pitch / knife jig](../techniques/slow-pitch-jigging.md) — bring it up ~30 ft off the bottom, thumb the spool on the drop | 200–250 g [knife-jig](../lures/knife-jigs.md) / slow-pitch class | Keep tension on the drop so it falls straight and fast; release near the bottom for flutter action. Works split-crew alongside a dead-bait dropper rig (`0dIwWiOc1NY`) |
-| Hard-bottom structure to ~200 ft, want to A/B two colours or run two depths at once | **Double-bait tube-bait dropper rig** ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | Heavy tube-bait class, 40 lb+ | 3-way swivel, two matched-weight baits (two 1.5 oz, or two 1 oz to get down easier) in two colours, ≥3 in leader-length offset to stop them tangling, sacrificial ~25 lb dropper below a 40 lb fluoro leader so a snag costs one bait not the rig (`5Oh3IPIC5g4`); a second HookUp Baits source runs 80 lb braid → 60 lb fluoro → 25 lb/40 lb droppers instead — see [tube-bait fishing](../techniques/tube-bait-fishing.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft). ⚠ Fact-check (single-source): two promotional seminars from the same product line |
-| Drifting rock/structure on a party boat (not anchored) | **Cast–drift–bounce** from the bow — cast up-drift, let the bait bounce down with the drift, reel up and re-cast ([tube-bait fishing](../techniques/tube-bait-fishing.md#party-boat-rock-fishing-technique-castdriftbounce)) | 8 ft parabolic-bend bass/tube-bait class | Cast up-current and work the bait down over the structure as the boat passes (`5Oh3IPIC5g4`). ⚠ Fact-check (single-source): one promotional seminar |
+| Want one trophy lingcod rather than numbers | **Big-profile lingcod jig** (living-squid / ling-killer class) / [flat-fall](../techniques/flat-fall-jigging.md) — [lingcod — jigging](lingcod-jigging.md) | Heavy jig class | Numbers-versus-size choice: small flat-falls, Colt Snipers and the double dropper loop are the numbers answer; the big jigs are for one fish (`iR8CDCyofDM`, `XxN7EzNDnf8`). Cadence, profile logic and the missed-bite recovery on the sub-page. ⚠ Fact-check (contradicted-by-source): the numbers-versus-size framing and the living-squid / ling-killer names are `iR8CDCyofDM` alone; `XxN7EzNDnf8` is a 40 s clip covering flat-falls and Colt Snipers with no such trade-off stated |
+| Deep, non-biting, or want to cover the column | [Slow-pitch / knife jig](../techniques/slow-pitch-jigging.md) — bring it up ~30 ft off the bottom, thumb the spool on the drop | 200–250 g [knife-jig](../lures/knife-jigs.md) / slow-pitch class | Keep tension on the drop so it falls straight and fast; release near the bottom for flutter action. Works split-crew alongside a dead-bait dropper rig (`0dIwWiOc1NY`). ⚠ Fact-check (contradicted-by-source): only the split-crew fact and the ~300 ft rocky drop-off are in the cite, which describes the method as "drop the jig to the bottom, work it with slow half turns and gentle lifts… flutter down like a wounded bait fish" and gives no jig weight. The ~30 ft lift, the thumbed spool, the keep-tension-on-the-drop rule and the release-near-bottom step are `O5aQkex0qGg` almost verbatim |
+| Hard-bottom structure to ~200 ft, want to A/B two colours or run two depths at once | **Double-bait tube-bait dropper rig** ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | Heavy tube-bait class, 40 lb+ | 3-way swivel, two matched-weight baits (two 1.5 oz, or two 1 oz to get down easier) in two colours, ≥3 in leader-length offset to stop them tangling, sacrificial ~25 lb dropper below a 40 lb fluoro leader so a snag costs one bait not the rig (`5Oh3IPIC5g4`); a second HookUp Baits source runs 80 lb braid → 60 lb fluoro → 25 lb/40 lb droppers instead — see [tube-bait fishing](../techniques/tube-bait-fishing.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft). ⚠ Fact-check (single-source): two promotional seminars from the same product line. ⚠ Fact-check (contradicted-by-source): the cites are swapped against [tube-bait fishing](../techniques/tube-bait-fishing.md), which attributes this whole build — 3-way swivel, matched 1.5 oz / 1 oz pairs, ≥3 in offset, ~25 lb sacrificial dropper under 40 lb fluoro, 200 ft ceiling — to `0HwYl0HO2tc` (2018), a source absent from this note's front matter, and gives `5Oh3IPIC5g4` the 80 lb → 60 lb → 25/40 lb build instead. The `5Oh3IPIC5g4` transcript carries no matched weights, no 3 in offset and no sacrificial-dropper rationale, and treats 200 ft as an example rather than a ceiling |
+| Drifting rock/structure on a party boat (not anchored) | **Cast–drift–bounce** from the bow — cast up-drift, let the bait bounce down with the drift, reel up and re-cast ([tube-bait fishing](../techniques/tube-bait-fishing.md#party-boat-rock-fishing-technique-castdriftbounce)) | 8 ft parabolic-bend bass/tube-bait class | Cast up-current and work the bait down over the structure as the boat passes (`5Oh3IPIC5g4`). ⚠ Fact-check (single-source): one promotional seminar. ⚠ Fact-check (contradicted-by-source): the cite gives the opposite instruction and no bow/bounce sequence — "if you're on a private boat always fish your down drift… total opposite of fishing live bait on the cattle boat" — and names 8'6" and 9 ft rods, never an 8 ft parabolic one; [tube-bait fishing](../techniques/tube-bait-fishing.md) attributes the entire cast–drift–bounce section to `0HwYl0HO2tc` |
 
 [a] Once you have limited out on reds you often cannot get a free-swing head
 past them to the bottom; the standard head lets a red spit it about 56% of the
@@ -228,6 +249,9 @@ to year, and Mexican waters are a separate jurisdiction from California.
 - **Season (California / CDFW, as of 2026-08 — verify current dates and depth
   limits before you go).** The recreational rockfish season is open most of the
   year and closes at year-end, roughly Jan–Feb depending on the annual regs.
+  ⚠ Fact-check (unverifiable): the only regulatory bullet in this note with no
+  cite at all — no corpus source states the closure months. `lF6jQklDCrY` gives
+  a March 1 reopen, which implies but does not state them.
 - **Bag limit (California / CDFW, as of 2020-03 — verify current limits).** A
   **10 rockfish/day** bag with a **separate 10-fish whitefish allowance stacked
   on top** — "you can keep 10 whitefish with your 10 rockfish" (`iAr6sbRC384`).
@@ -291,6 +315,12 @@ Section order below is not a ranking.
   and eat the same dropper loop, but they are a tilefish rather than a
   rockfish, hold higher off the bottom and along the sand edge, and route
   differently — see [ocean whitefish](ocean-whitefish.md).
+  ⚠ Fact-check (contradicted-by-source): "hold higher off the bottom and along
+  the sand edge" is already flagged on
+  [ocean whitefish](ocean-whitefish.md) — none of that note's three cites
+  states it, and the nearest corpus statement (`_ZThckj2TIM`, reds tight to the
+  rock and bocaccio out in the sand) is about rockfish, not whitefish. The copy
+  carried here is the unflagged propagation that row names.
 - **Spine hazard: treat every rockfish spine as off-limits, and sculpin as the
   real one.** What the choice turns on is that no on-deck sorting rule is
   reliable, so the operational answer is identical under either framing. The
@@ -299,7 +329,12 @@ Section order below is not a ranking.
   Tackle Express calls the coating a stinging **mucus** rather than venom
   (`J40VxLNuZhk`). Both name the California scorpionfish
   ([sculpin](../fish-care/sculpin-handling.md)) as genuinely venomous enough to
-  "ruin your day," and both land on avoiding all spines on all rockfish. The
+  "ruin your day," and both land on avoiding all spines on all rockfish.
+  ⚠ Fact-check (contradicted-by-source): only `J40VxLNuZhk` does. `_ZThckj2TIM`
+  names no scorpionfish or sculpin, states no "ruin your day" line and gives no
+  avoid-all-spines rule — its whole contribution is "the spines have like very
+  minor poison kind of don't be too worried about it but you could lift them,"
+  so the shared conclusion is one source's, not two. The
   Tackle Express clip is a short re-cut of the closing minute of `S9sQ8Vg8-5o`
   (2025-03-28), not an independent sighting.
 
