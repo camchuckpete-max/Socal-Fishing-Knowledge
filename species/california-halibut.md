@@ -26,6 +26,10 @@ behind the grunion runs and again in fall on structure
 (`ghHQe3fP9U4`, `EuYOlsnxXko`). Nothing about them marks on a sounder, which is
 why short, controlled drifts on read structure beat long random sand drifts.
 
+⚠ Fact-check (contradicted-by-source): the cited transcript gives the
+sand-to-edge distance as "5 ft away from it, 10 ft away from it" — 5–10 ft, not
+5–20 ft (`OpcKQPA3vAI`).
+
 ## Where & when
 
 Halibut are inshore fish that move around looking for feed rather than holding
@@ -46,11 +50,17 @@ current and tide, not by the calendar — see
 - **Open-coast beaches** — off-color water just outside the surf line, where
   shale or other hard bottom sits outside the beach and bait gets pushed in.
   A fish of almost **50 lb** came off a Huntington bubbler zone in **30 ft**
-  (`OpcKQPA3vAI`).
+  (`OpcKQPA3vAI`). ⚠ Fact-check (single-source): one hedged on-camera
+  recollection of a sportboat day — "I think I got one going almost 50 lbs" —
+  and a near-record-class weight for the species.
 - **Islands and squid beds** — backside Catalina, the Santa Rosa flats, San
   Clemente Island and Coronado Island in **60–100+ ft**: halibut sit on the
   structure *beside* the squid nests, and stay on that structure after the
-  squid leaves (`OpcKQPA3vAI`). The
+  squid leaves (`OpcKQPA3vAI`). ⚠ Fact-check (contradicted-by-source): the
+  60–100+ ft squid-bed list in the transcript names the backside/East End of
+  Catalina, the Santa Rosa flats and the backside of San Clemente ("and every
+  other island"); Coronado is named earlier, in the shallow-island list, not in
+  that depth band. The
   [warming transition regime](../conditions/water-regimes.md) and its squid-bed
   months ([April priors](../seasonal/april.md) carry the squid cycle) stack big
   island fish next to the nests. See
@@ -97,14 +107,25 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
   in 80 (`OpcKQPA3vAI`).
 - **They are active feeders, not ambush-only.** They chase bait, move to get
   it, and blow up on it in knee-deep water (`EuYOlsnxXko`, `fHMwcm1xRQk`).
+  ⚠ Fact-check (contradicted-by-source): `fHMwcm1xRQk` supports only the
+  chase half ("never fall for the trap that they're lazy… they like to chase
+  stuff") and carries no blow-up or knee-deep content; `EuYOlsnxXko` puts the
+  blow-ups in "really shallow water," with knee-to-hip depth stated separately
+  as where the fish sit on the morning low tide.
 
 ## Spawning
 
 - **Nests are aggregations, not solitary pairs:** a cluster of **19–25 in**
   males around one larger **30–32 in** female (`ghHQe3fP9U4`).
+  ⚠ Fact-check (single-source): a numerically precise spawning-biology
+  description resting on one unregistered-channel account.
 - **Certain spots hold the aggregations year after year**, tied more to bottom
   composition than to bait alone — spot fidelity is strongest when they are
-  spawning (`ghHQe3fP9U4`).
+  spawning (`ghHQe3fP9U4`). ⚠ Fact-check (contradicted-by-source): the
+  bottom-composition cause is doubly hedged on camera — "I don't know if it's
+  the bottom composition or what… I think that does have more to do with bottom
+  composition" — and is never set against bait as an alternative. The
+  spot-fidelity and spawning halves are verbatim.
 - **Fish reach the nests along fixed travel paths.** Halibut living on sandy
   structure outside a bay, harbor or beach move into the **9–15 ft** spawning
   zone along well-established corridors (`ghHQe3fP9U4`) — which is what makes
@@ -154,12 +175,20 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
   [water color](../conditions/water-color.md).
 - **Give a spot 20–30 minutes, no longer.** If you are not marking bait or
   catching *anything* — leopard shark, sargo, a small calico all count as
-  feeding sign — leave (`OpcKQPA3vAI`).
+  feeding sign — leave (`OpcKQPA3vAI`). ⚠ Fact-check (contradicted-by-source):
+  the transcript gives leopard shark and sargo as feeding sign but uses a small
+  calico as a reason to go — "or maybe a 10 in calico bass, probably not worth
+  sticking around" — so the calico's sense is inverted here.
 - **Bait volume is the best single search indicator**; halibut are very good at
-  finding wherever the most bait is (`ghHQe3fP9U4`).
+  finding wherever the most bait is (`ghHQe3fP9U4`). ⚠ Fact-check
+  (contradicted-by-source): the source says "one of your best indicators," not
+  the best single one.
 - **On the meter, hunt the soft/hard transition and structure edges, and grade
   the bait by height.** Bait 20 ft down over 80 ft of water will not fire a
   halibut; bait pinned near the bottom next to a rock will (`OpcKQPA3vAI`).
+  ⚠ Fact-check (contradicted-by-source): the source hedges the negative — "I
+  don't think that's going to get the halibut fired up, but you never know" —
+  which the flat "will not fire" hardens.
   Charting with hard-bottom shading is what turns a long random sand drift into
   a short drift on located shale and small rock (`OpcKQPA3vAI`). Method:
   [electronics and sounder](../planning/electronics-and-sounder.md).
@@ -174,7 +203,11 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
   (`ghHQe3fP9U4`).
 - **They are depth-specific.** A fish caught in **14 ft** is a reason to look
   for similar habitat in **13–15 ft** rather than at a different depth, and the
-  same holds in deeper water (`ghHQe3fP9U4`).
+  same holds in deeper water (`ghHQe3fP9U4`). ⚠ Fact-check
+  (contradicted-by-source): on camera this is attributed and hedged — "that's
+  why some people report that halibut are very depth sensitive… sometimes it's
+  really specific even out in deeper water" — not stated as the species being
+  depth-specific, and "sometimes" in deeper water becomes "the same holds."
 - **Visual sign in the shallows:** halibut blowing up on bait in knee-deep
   water (`EuYOlsnxXko`).
 - **Drift discipline:** drift *along* the structure, not across it — start
@@ -192,8 +225,8 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 | **Artificial, covering water on short drifts** | [Drop-shot](../techniques/drop-shot.md) a plastic near the bottom | [Light spinning class](../tackle/gear-classes.md) | Keeps the bait in the strike zone on the edge; picks apart bubbler zones and rockpiles instead of long straight drifts |
 | **Casting from the surf** | [Drop-shot](../techniques/drop-shot.md) on a drag-then-shake cadence | Light spinning class | The cadence, its drag length and the stated strike radius are in the sub-article [b] (`9qwsg-e9ECA`) |
 | **Shallow surf, 1–4 ft, little wave action** | Shallow-running [minnow hardbait](../lures/lucky-craft-flash-minnow.md) | [Minnow-bait spinning class](../tackle/gear-classes.md) | The lure stays up and the fish comes up to it; the depth ladder past this band, and the rod-tip depth trim inside it, are in the sub-article [b] (`E4CDqBFOaP8`) |
-| **Open flats, casting from a boat or from shore** | Fast-retrieve hard bait — a crankbait or jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | [Crank class](../tackle/gear-classes.md) | Halibut chase it down and commit hard once it is moving (`46ha7J1Fc6A`) [c] |
-| **Deeper than a shallow hardbait can run without digging in** | [Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom, repeat | Leadhead + soft-plastic swimbait class | A **3-in** swimbait covers about **90%** of deeper fishing and smaller baits are favored in the harbor; ineffective from the beach, where a leadhead returns to bottom too fast for a mid-column swim (`OURS05qEGcA`, `fHMwcm1xRQk`) |
+| **Open flats, casting from a boat or from shore** | Fast-retrieve hard bait — a crankbait or jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | [Crank class](../tackle/gear-classes.md) | Halibut chase it down and commit hard once it is moving (`46ha7J1Fc6A`) [c]. ⚠ Fact-check (contradicted-by-source): the speaker names a Lucky Craft minnow at Catalina and from shore with no bottom-type scope — "open flats" and "crankbait" are not in the source (`46ha7J1Fc6A`) |
+| **Deeper than a shallow hardbait can run without digging in** | [Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom, repeat | Leadhead + soft-plastic swimbait class | A **3-in** swimbait covers about **90%** of deeper fishing and smaller baits are favored in the harbor; ineffective from the beach, where a leadhead returns to bottom too fast for a mid-column swim (`OURS05qEGcA`, `fHMwcm1xRQk`). ⚠ Fact-check (contradicted-by-source): both sources say "not a terribly effective way to fish from the beach," and scope the limit to this three-turn bottom-contact rhythm rather than to the lure class |
 | **Drifting a squid nest or sonar mark with the bait rail stacked on the wind-face side**, fish willing to chase | Cast a **white fluke to the flanks** rather than crowding the rail | Baitcaster / [bass class](../tackle/gear-classes.md) | As the boat drifts toward the flanking caster, the fluke reaches a chasing fish before the rail's dropper-loop and trap rigs do; an inactive fish that will only eat bait still gets caught eventually — worked example in [swimbaits](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (`hjZ3hgq0Bzg`) |
 | **Open bay or beach water, multi-bait reaction rig wanted** | **A-rig** (Warbaits mini rig), worked aggressive **from the first cast** | Heavier [bass class](../tackle/gear-classes.md) A-rig variant — hardware in [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) | Do not start slow and work up to aggressive; halibut chase the rig down rather than eating it dead-slow on the bottom (`eOLoHxoqk6E`) |
 | **Covering flats under power** (no drift-friendly wind or current) | **⚠ Flagged stub — no corpus source yet.** Bounce-ball trolling — a trolled ball weight ticking the sand ahead of a hoochie or swimbait | [Light troll class](../tackle/gear-classes.md) | Bounce-balling is named only in passing, as an alternative to drifting, and the instruction attached to it is to isolate structure and pick it apart rather than bounce-ball a straight line for an extended period (`OpcKQPA3vAI`); no execution parameters are recorded. Stubbed per the router rule so silence does not read as "not a method" |
@@ -215,7 +248,13 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
   star-drag) at the islands and offshore; a **15 lb inshore rod**, the same one
   fished for spotties, in the bay. Halibut do not pull hard, so line class is
   about bait presentation and bottom contact rather than strength
-  (`a5u8BaYzw8c`).
+  (`a5u8BaYzw8c`). ⚠ Fact-check (contradicted-by-source): the source names a
+  Calstar 800M on a Fathom 25 star drag with no tip-action description, and the
+  bay rod as a Fenix Feather rated **10–25 lb** — the 15 lb figure is the
+  fluorocarbon leader, as [live-bait drift](california-halibut-live-bait-drift.md)
+  records it, not a rod class. "Line class is about presentation rather than
+  strength" is an inference; the source says only that halibut "don't pull that
+  hard, so you can use a wide variety of different outfits."
 - **Surf rods, by lure class:** a light, moderate-action spinning rod (~9½ ft,
   2500–3000 reel, PE1/~10 lb 8-carrier braid) covers both minnow hardbaits and
   leadhead swimbaits from the beach; a heavier "striper rod" class (~9'6")
@@ -240,7 +279,11 @@ retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
 - **Tube baits sized by water:** size up outside in the surf and coastal zone,
   downsize inside a bay (`5Oh3IPIC5g4`) — the weights that go with each side of
   that call, and the halibut color picks, are in
-  [tube baits](../lures/tube-baits.md#color-selection).
+  [tube baits](../lures/tube-baits.md#color-selection). ⚠ Fact-check
+  (contradicted-by-source): the seminar states only the inside-a-bay downsize
+  ("inside a bay I would do 3/8 or 5/8, it would be the halibut size"); the word
+  "outside" occurs once with no size attached, and neither the surf nor a
+  coastal zone is named — the size-up half is unsourced.
 - **Depth control from the beach is a rod-handling lever, not only a lure
   choice** (`QJd7A6oiV4U`) — the tip-height ladder as it applies to this fish is
   in [surf lures](california-halibut-surf-lures.md#how-california-halibut-changes-the-execution),
@@ -267,13 +310,19 @@ material".
 - **California / CDFW — minimum size 22 in** (`MUpvP-Yl2R0`). As stated on
   camera 2016-11-23; **verify the current CDFW size and bag limits before
   fishing.** Registered in
-  [regulatory claims](../sources/regulatory-claims.md).
+  [regulatory claims](../sources/regulatory-claims.md). ⚠ Fact-check
+  (single-source): stated bare on camera while measuring a fish — "legal size is
+  legal 22 in" — with no agency named; the CDFW attribution is the KB's.
 - **California — inshore gillnet ban, in effect since 1994** (`ghHQe3fP9U4`).
   It closed the commercial net sets across channel ledges and harbor mouths
   that intercepted halibut on their travel paths into the shallows. As of
   2026-08; **verify current gear and area restrictions with CDFW before
   fishing.** Registered in
-  [regulatory claims](../sources/regulatory-claims.md).
+  [regulatory claims](../sources/regulatory-claims.md). ⚠ Fact-check
+  (single-source): the source says "the inshore gill net ban went into effect in
+  1994" without naming California, and the channel-ledge/harbor-mouth detail is
+  his illustration of where a net could be set, not a record of what the ban
+  closed.
 - ⚠ Flagged gap — no corpus source: the California (CDFW) bag limit for
   California halibut, and Mexican (CONAPESCA) size or bag limits for halibut in
   Baja waters. Verify with the issuing agency before a trip.
@@ -332,6 +381,9 @@ Section order below is not a ranking.
   and get cut, leading to infection and death after release (`PJEG_RIkzF0`) —
   the fine-mesh or rubberized fix is in
   [dehooking and release](../fish-care/dehooking-and-release.md#landing-net-mesh--protecting-a-released-fishs-fins).
+  ⚠ Fact-check (single-source): the post-release mortality mechanism rests on
+  unnamed studies referenced on camera — "they did some studies on halibut and
+  releasing them" — with no study, agency or survival figure given.
 - ⚠ Flagged gap — no corpus source: bleeding, chilling or ikejime parameters
   for California halibut. General method:
   [fish care](../fish-care/README.md).
