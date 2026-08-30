@@ -379,3 +379,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T02:18:44Z — locations/santa-rosa-island.md — verify-escalate
 - run: 33286864809
 - reason: Inherited router error propagated: halibut squid-bed list says Coronados but OpcKQPA3vAI names Santa Cruz (fix belongs in species/california-halibut.md); 'with squid present' qualifier on the 22-fish day inherited from species/white-seabass.md is not in HnqiE05vdXs
+
+## 2026-08-30T03:23:27Z — locations/ingraham-st-bridge.md — verify-escalate
+- run: 33289281861
+- reason: Cameron should confirm whether the spoken 'Ingram/Ingraham Street Bridge' spotty spot inside Mission Bay is the same feature as the charted 'Mission Bay Park Ingraham St Bridge Rubble' (32°45.930'N 117°16.278'W); three already-committed places assume it is (species/spotted-bay-bass.md Zone guides link, locations/san-diego-artificial-reefs.md What's there spotted-bay-bass row, locations/evidence/san-diego-artificial-reefs.md 'the same structure'), and san-diego-artificial-reefs.md calls the four Mission Bay Park waypoints 'in-bay structures' though spot-lists lists them in the offshore artificial-reef series. If they are two features, the AH4Eiya1Hn0 attribution belongs off the reef zone page.
