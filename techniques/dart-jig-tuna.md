@@ -117,7 +117,11 @@ duplicated here.
   ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
   (`pCd6QykcZ0w`). The same video names bluefin, yellowfin,
   yellowtail, and occasionally [opah](../species/opah.md) as catches on this
-  presentation (`TU5quAG4atM`).
+  presentation (`TU5quAG4atM`). ⚠ Fact-check (contradicted-by-source): the
+  species list (yellowfin, yellowtail, opah) is stated in `pCd6QykcZ0w`
+  ("not always bluefin tuna they might be yellowfin tuna there might be
+  yellowtail other species... maybe even an opa"); `TU5quAG4atM` names only
+  bluefin and yellowfin as catches.
 - **Heavy rig — bigger/deeper daytime fish (100 lb-plus):** Penn Fathom 40
   Narrow, 6.5–7 ft rod rated 30–80 lb, 80 lb braid topped with a 60 lb top
   shot bumped to 80 lb once fish run over 100 lb — closer to the
