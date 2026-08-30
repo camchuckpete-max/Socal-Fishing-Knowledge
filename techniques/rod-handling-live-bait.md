@@ -61,6 +61,8 @@ into a habit of their own (`VcJManCizRE`).
 - **Carry it to the rail on the line, not in your hand:** once it's hooked and
   released, hold the rod so the bait hangs roughly **12–18 in** below the rod
   tip, then walk to whichever side of the boat you're fishing (`SAltQjih0ms`).
+  ⚠ Fact-check (single-source): the 12–18 in figure is precise and sourced
+  only to `SAltQjih0ms`.
 
 ## Yellowtail-specific hookset sequence — count, wait for the bend, then set
 
@@ -72,6 +74,8 @@ to fully consume a bait before running with it (`SAltQjih0ms`):
   engaging the reel right away (`SAltQjih0ms`).
 - **Count to six or seven** before doing anything else — giving the fish time
   to work the bait further back before the hook goes in (`SAltQjih0ms`).
+  ⚠ Fact-check (single-source): the six-or-seven count is precise and sourced
+  only to `SAltQjih0ms`.
 - **Then put the reel in gear** (a lever-drag reel: to the **strike**
   position, not full — see [drag setting](../tackle/drag-setting.md))
   (`SAltQjih0ms`).
