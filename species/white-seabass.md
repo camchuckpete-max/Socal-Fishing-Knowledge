@@ -37,6 +37,12 @@ edges, hard structure, and squid nests and beds in **60–100+ ft**
 too, and on a beach-adjacent stretch the fish sit inside the off-color plume
 running off the sand (`82gEHYel-4U`). See
 [island structure](../locations/island-structure.md).
+⚠ Fact-check (contradicted-by-source): the depth figure and the island framing.
+`Xr4nURK-Z48` states no depth at all — its only place detail is "We're here at
+Catalina Island" — and `Eo_bA8IWvyU` gives 60–90 ft for the dropper loop and "60
+to 100 ft of water" for the slider, never 100+ ft, and never says island, nest,
+bed or hard structure. The same framing recurs in the lead, in Presence & forage
+and in the `depth_band` / `sonar_depth` front-matter fields.
 
 **When.** The squid drives the calendar. From the
 [warming transition through the warm-stable regime](../conditions/water-regimes.md)
@@ -48,6 +54,17 @@ came at the Channel Islands on the new moon in warm water with squid present
 (`HnqiE05vdXs`). Weight **full/new ± a week** as elevated-probability windows.
 See [February–March](../seasonal/february-march.md),
 [June–July](../seasonal/june-july.md), [October](../seasonal/october.md).
+⚠ Fact-check (contradicted-by-source): the season shape. `Xr4nURK-Z48` says only
+"early springtime," twice, and never says seabass track or follow the squid;
+`Eo_bA8IWvyU` gives no seasonality at all. "Through the warm-stable regime —
+early spring through summer" and the `season_peak: mar…aug` field are the KB's
+extension, not either source's statement. The corpus's own dated moon records run
+July–August 2022.
+⚠ Fact-check (contradicted-by-source): "with squid present" on the 22-fish day.
+`HnqiE05vdXs` never mentions squid — the segment is "there's some sign of sea bass
+on this new moon we're having right now, the Aloha Spirit had 22 fish up that way
+the other day" plus "nice warm water up that way." Count, island, moon phase and
+warm water are verbatim; the squid is supplied.
 
 **Presence is not catchability.** The report that carried the 22-fish new-moon
 day hedged it in the same breath as possibly a one-off, pending whether the fish
@@ -107,6 +124,11 @@ only reproduction-adjacent record is the hatchery broodstock program under
   rises, and predators hunt better (`6TBxHnkYXI0`). Be on your highest-percentage
   spot **an hour before** the tide change so you are there if it fires
   (`6TBxHnkYXI0`). See [tide and slack](../conditions/tide-and-slack.md).
+  ⚠ Fact-check (contradicted-by-source): "bait rises" is not in the source. The
+  stated mechanism is "at the slack tide, higher or low, is when the ocean goes
+  quiet and… the water stops moving up and down, the fish can hunt better" —
+  quiet water, not bait moving up the column. The speaker also credits the idea
+  to Sean Morgan and hedges it on camera ("it does make sense").
 - **Moon.** Bites cluster on the full and new moons through the season
   (`DnSqw4r7A1s`, `-JZpyWLdKlk`, `HnqiE05vdXs`).
   ⚠ Flagged gap — no corpus source: mechanism — whether the moon acts through the
@@ -151,6 +173,13 @@ White seabass is a water-reading and meter fishery, not a bird fishery.
   the slack is the picture (`Eo_bA8IWvyU`). Full method:
   [electronics & sounder](../planning/electronics-and-sounder.md),
   [search & glassing](../planning/search-and-glassing.md).
+  ⚠ Fact-check (contradicted-by-source): `Eo_bA8IWvyU` contains no sonar, sounder,
+  meter or mark content of any kind. Its depths come from the skipper's call —
+  "wherever the skipper is telling me that the fish are," "the skipper says, hey,
+  we got fish in 20 to 30 feet" — not from a screen. No corpus source in this
+  note's set gives a white seabass or squid-ball sonar signature, so the whole
+  species-specific sonar picture and the `sonar_depth` field rest on a cite that
+  does not carry them.
 - **The hookup tell.** Head shakes followed by a hard, changing-direction run
   reads as white seabass rather than halibut — halibut head-shake too, but do not
   take off running (`Y2bXn44lfqo`).
@@ -166,12 +195,12 @@ White seabass is a water-reading and meter fishery, not a bird fishery.
 | **Squid bed near structure, gray light or night, slack tide** | **[Lead head + squid — the mating-pair presentation](white-seabass-leadhead-squid.md)** ([rigging](../rigging/leadhead-mods.md)) | 3/4–1 oz lead-head class on a 30–40 lb bait/jig rod | The signature rig: it mimics squid mating (`Xr4nURK-Z48`). The squid count and its mimicry mechanism, the head sized to sink *to* the fish rather than past them, the thumb-tension sink, the wind-and-pop cadence and the orange reaction colour are in the sub-article (`Xr4nURK-Z48`, `Eo_bA8IWvyU`, `ShSxNKAcUB4`) [a] |
 | **Fish called close to the bottom on a nest, 60–90 ft** | **[Dropper loop with fresh-dead squid — the squid-bed program](white-seabass-dropper-loop.md)** ([general method](../techniques/dropper-loop.md)) | 40 lb dropper-loop class, conventional star drag | Sinker weight and its conditions rule, the bycatch-sized sinker-to-hook leader, the dropper-tag length, the hook style with its live-release conflict, and the bite handling are all in the sub-article (`Eo_bA8IWvyU`) [a] |
 | **Fish called mid-column or near the surface — e.g. 20–30 ft in 60–100 ft of water** | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: least weight that will still sink, thin-wire hook, sink the whole column, then reel up and recast immediately | 30 lb bait class | Never let it rest on the bottom — the forward-set mouth will not take a bottomed bait and you catch rays and sharks instead; recasting also raises calico bass, perch and sheephead, and a stop where nothing bites is a stop to leave (`ShSxNKAcUB4`, `Eo_bA8IWvyU`) [a] |
-| **Gray light, before dawn, heavy fog, or a sun-shadowed spot** — a bite window, not a location cue | **Stationary bait-jig soak**: glow-backed single-hook jig with 1–3 whole squid, dropped to bottom, cranked up 3–10 ft, then left in the holder to work with the boat's roll | Tady TLC / Tady 40 class glow jig on a 30–40 lb bait/jig rod | A passive rail soak, distinct from the actively worked lead head above; the glow back is the attention-getter and the squid pile is the meal (`Eo_bA8IWvyU`). Check with the deckhands before pinning more than one squid — supply is often limited [a] |
+| **Gray light, before dawn, heavy fog, or a sun-shadowed spot** — a bite window, not a location cue | **Stationary bait-jig soak**: glow-backed single-hook jig with 1–3 whole squid, dropped to bottom, cranked up 3–10 ft, then left in the holder to work with the boat's roll | Tady TLC / Tady 40 class glow jig on a 30–40 lb bait/jig rod | A passive rail soak, distinct from the actively worked lead head above; the glow back is the attention-getter and the squid pile is the meal (`Eo_bA8IWvyU`). Check with the deckhands before pinning more than one squid — supply is often limited [a]. ⚠ Fact-check (contradicted-by-source): the source leaves the rod **on the rail**, not in a holder — "I just simply let it set there on the rail" — which is also what this cell's own "passive rail soak" says; and the crank-up is given as "maybe three to five, six cranks up off the bottom… probably 3 to about 6 to 10 feet up off of the bottom" |
 | **Casting an off-color rip or kelp edge with some current** | **[Surface iron](../techniques/surface-iron.md)** worked slow | Jig-stick class, 7–9 ft, 40–50 lb | The island white seabass / yellowtail crossover: a slow, steady grind over the colour edge |
 | **Fish will not eat bait — squid or fin bait** | **Artificials, cast and worked**: soft-plastic fluke on a jig head, sink-pop-flutter / or a **[tube bait](../techniques/tube-bait-fishing.md)** worked with thumb tension on the sink and an occasional pop | Low-profile baitcaster / casting class | Fluke on a 1/2–3/4 oz head on a calm day, 1–2 oz in current or wind; the tube bait's WSB-specific version runs 5/8 oz to 1.5 oz by current, and the bite comes on the fall — wind into a tap rather than swinging (`Eo_bA8IWvyU`) [b] |
 | **Drifting a sonar mark or squid nest with the bait anglers stacked on the wind-face rail** | **Cast a white fluke to the flanks**, away from the bait crowd | Low-profile baitcaster / casting class | The bait rail's swath is only about 30–40 ft by the boat's length; flanking casters cover more water, and because white seabass swim through rather than hold, the two presentations are complementary (`X-itrm5QkcM`) [b] |
 | **Anchored with no bait aboard** | **Chum bucket** off the transom, plus a lead-head-and-squid or slider cast on the colour edge | 30 lb bait class | The bucket builds the plankton→bait→seabass chain and its drift line reads your true current (`6TBxHnkYXI0`) |
-| **Late-fall island, off-color water, current running *into* the island** | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior (`Z3rZqy2Pi8E`) — see [Doctrine & conflicts](#doctrine--conflicts) |
+| **Late-fall island, off-color water, current running *into* the island** | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior (`Z3rZqy2Pi8E`) — see [Doctrine & conflicts](#doctrine--conflicts). ⚠ Fact-check (contradicted-by-source): white seabass is never mentioned in `Z3rZqy2Pi8E` — the 2022-11-20 San Clemente Island East End backside trip caught calico bass and bonito. Detail on the Doctrine & conflicts row |
 
 [a] Squid handling: fresh-dead squid is preferred over live (`Eo_bA8IWvyU`).
 Dropper-loop hook and rig geometry — the Owner Ahi twist long-shank J in 50–70,
@@ -179,6 +208,12 @@ the 12–18 in hook-above-the-weight figure, and the contested circle-hook
 substitution — are in
 [white seabass — dropper loop](white-seabass-dropper-loop.md)
 (`Eo_bA8IWvyU`, `ShSxNKAcUB4`, `Y2bXn44lfqo`).
+⚠ Fact-check (contradicted-internal): "the 12–18 in hook-above-the-weight figure"
+is one of two figures the cite set carries, not the set's figure. `ShSxNKAcUB4`
+gives 12–18 in above the weight; `Eo_bA8IWvyU`, cited first here, gives "anywhere
+from about 8 to 12 to 16 in" and "that 12 to 16 in leader length." The sub-article
+carries both side by side; this footnote publishes only one under a cite set that
+includes the source that disagrees.
 [b] Full erratic-crack retrieve mechanics for a fluke on a lead head —
 chop-glide, sweep-drop, crack-slack — live in
 [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md#open-water-casting-retrieves--erratic-seabassyellowtail-vs-smooth-halibut)
@@ -226,6 +261,13 @@ parked in the [evidence file](evidence/white-seabass.md) and no guide to hold it
   [West Cove](../locations/catalina-west-cove.md) — ⚠ Flagged stub — no zone
   guide yet (`Xr4nURK-Z48`, `82gEHYel-4U`, `Y2bXn44lfqo`, `xFS3MW4GpDU`,
   `sIoNELGlxmk`).
+  ⚠ Fact-check (unverifiable): "including West Cove." West Cove appears once in
+  the whole cite set, inside `sIoNELGlxmk`, as a rhetorical example in a
+  fill-your-bait-tank lesson — "if we show up at three in the afternoon, anchor up
+  at West Cove in 32 feet of water, we're going to catch sea bass, but you're out
+  of bait" — and that seminar never says "white seabass," only "sea bass."
+  `82gEHYel-4U` and `Y2bXn44lfqo` name Catalina but no spot inside it. The evidence
+  file already scopes the line as a lean, not a reported bite.
 - **[San Clemente Island](../locations/san-clemente-island-front-side.md)** —
   ⚠ Flagged stub — no zone guide yet (`Z3rZqy2Pi8E`, `sHnqSIOjTdM`).
 - **Channel Islands (Santa Cruz, Santa Rosa)** — ⚠ Flagged stub — no zone guide
@@ -237,6 +279,12 @@ parked in the [evidence file](evidence/white-seabass.md) and no guide to hold it
   is closed to the public; the hatchery broodstock crew fished one only under a
   **dedicated collection permit** (`Y2bXn44lfqo`). As of 2026-08-14 — verify
   current regulations and MPA boundaries with CDFW before assuming any access.
+  ⚠ Fact-check (single-source): the closure half is inferred, not stated. The
+  transcript says only that the permit grants access — "because the permit that we
+  have, we're allowed to fish in MLPAs, like these broodstock, so it's a dedicated
+  trip just for sea bass fishing." It never says an MLPA is closed to the public,
+  and MLPA regimes differ by site (some allow limited take). A regulatory claim
+  standing on one unregistered-channel video.
 - **Charter trip limits exist and are enforced on the boat**: one San Clemente
   Island charter had already reached its trip's white seabass limit, so further
   fish were released (`sHnqSIOjTdM`). No numeric limit is given on camera.
@@ -260,6 +308,16 @@ wanted off-color water with the current running **into** the island
 (`Z3rZqy2Pi8E`). Encode parallel as the default and into-structure off-color as a
 viable late-fall / dirty-water state; both statements come from the same author,
 which makes this a seasonal nuance rather than an error.
+⚠ Fact-check (contradicted-by-source): neither leg is a white seabass statement.
+`Z3rZqy2Pi8E` never mentions white seabass at all — the 2022-11-20 trip to the San
+Clemente Island East End backside produced "really good bass fishing and some
+bonita," and the into-the-island off-color read is given for those ("we narrowed
+it down to a few spots that had off-color water and current running in towards the
+beach in the kelp, they're pretty good on the bass"). `6TBxHnkYXI0`'s parallel
+prior is likewise framed as a general structure rule about bait orientation and
+leading edges, with calico bass as the worked example and a stated exception for
+standalone offshore banks. Both reads may still hold for white seabass; no source
+in this note says so.
 
 **Hook style on the dropper loop — the choice turns on whether the fish is being
 released.** The gut-hook-prone Ahi twist J against the circle-hook substitution
@@ -288,6 +346,13 @@ air bladders inflate on the way up, and reviving them for the net pen becomes
 very difficult (`xFS3MW4GpDU`). That ceiling is set by the requirement to deliver
 the fish alive, and it sits beside — not against — the 60–100+ ft island
 squid-nest depths the general fishery works.
+⚠ Fact-check (unverifiable): the 70 ft threshold rests on a garbled caption line.
+The transcript reads "catching these white sea bass and shallower than 60 feet
+with / 70 feet they're very sensitive fish and… their air bladders will inflate
+and it's really hard to get them back from that." The shallower-than-60 ft and
+40 ft-or-less figures are stated cleanly and the air-bladder mechanism is fully
+supported; "past roughly 70 ft" is a reading of the break in that sentence, not a
+threshold the crew states.
 
 **Hatchery-origin fish in the Bight, and an unresolved data conflict.** A CDFW
 program, **OREHP**, releases hatchery-reared white seabass into California waters
@@ -318,6 +383,12 @@ queued in [`sources/relocation-queue.md`](../sources/relocation-queue.md).
   pen inside about 45 minutes — is a permitted-program procedure, not a
   recreational release standard (`Y2bXn44lfqo`). General release handling:
   [dehooking and release](../fish-care/dehooking-and-release.md).
+  ⚠ Fact-check (contradicted-by-source): the 45 minutes is scoped to one fish, not
+  to the routine. It is said of a single oversized fish found flipped over in the
+  transport tank — "just have to get her into the pen within the next 45 minutes or
+  so, because they're that big they just flipped over in the transport tank." The
+  crew's general timing is loose ("it's time to drop these guys off, now it's been
+  long enough"). The covered/pressurized tank and the PIT scan are supported.
 - ⚠ Flagged gap — no corpus source: bleeding, chilling or ikejime for a white
   seabass kept to eat, and any species-specific gaffing procedure. General
   method: [gaffing](../fish-care/gaffing.md).
