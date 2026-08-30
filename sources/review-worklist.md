@@ -11,7 +11,7 @@ by their builders after the transform phase drains.
 <!-- review:worklist:start -->
 | note | tier | status | flags | result |
 | --- | --- | --- | --- | --- |
-| species/barracuda.md | full | transformed | gaps(8), misplaced(0), spots(14), reg-claims(1), fact-check(3), asr-uncertain(2) | transform verified, applied with 7 fixes: 1 invented tactic removed, 3 claim-inflations restated to source, 1 dropped before-claim restored under flag, 1 specific recovered |
+| species/barracuda.md | full | fact-checked | single-source(0), contradicted-by-source(14), contradicted-internal(4), unverifiable(4), ext-verify(3) | apply — flags-only, conservation clean, 10 transcript + 3 cross-note spot-checks confirmed; escalated for the bonito wire adjudication; 22 inline flags, 21 ledger rows (3 ext-verify) |
 | species/bluefin-tuna-trolling.md | full | transformed |  | retyped species-technique + reshaped to the v2.2 skeleton (supervised exemplar); cite conservation verified |
 | species/bluefin-tuna.md | full | transformed | gaps(5), misplaced(1), spots(22), reg-claims(3), fact-check(4), zone-stubs(5), asr-uncertain(7) | escalate(apply): verified and applied with three fixes - conservation restoration (ouBrIdO7d4k), meaning-drift correction (HueC1KHrcVw temperature), cite-scoping (ftEvyfwjZFU red crab) |
 | species/bonito.md | full | transformed | gaps(10), zone-stubs(7), fact-check(3), misplaced(1), spots(12), reg-claims(2), asr-uncertain(3) | transform verified and applied with date-attribution corrections; 162->272 lines + 207-line evidence file, 11 sources appended, 1 flagged stub resolved |

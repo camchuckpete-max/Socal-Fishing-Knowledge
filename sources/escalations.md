@@ -416,3 +416,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T07:22:46Z — locations/lopez-mateos-magdalena-bay-boca.md — verify-escalate
 - run: 33298262077
 - reason: Worker published a page where sibling row locations/boca.md (7a03c24d) skipped the same feature and pre-adjudicated this row as 'should skip identically'; CLAUDE.md's no-public-name/no-charted-identity rule points to skip, but locations/magdalena-bay-estuary-channel.md and locations/the-ridge.md were published in the same phase on the same basis. Cameron must settle the rule once for all four rows. Also: locations/bahia-magdalena-lopez-mateos.md still asserts 'no spot pages hang below it', now false for three children.
+
+## 2026-08-30T07:40:21Z — species/barracuda.md — verify-escalate
+- run: 33299086507
+- reason: barracuda note contradicts Cameron's adjudicated 2026-08-26 wire ruling in species/bonito.md ('no wire; being bitten off is rare') — barracuda Terminal line, 'Getting bit off' router row and half of Doctrine & conflicts assume the opposite; flagged in place, not reconciled; Cameron must rule whether the adjudication extends to barracuda
