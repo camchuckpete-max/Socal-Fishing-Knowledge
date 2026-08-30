@@ -155,4 +155,5 @@ Trip reports and per-source provenance: [evidence file](evidence/sea-of-cortez.m
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 - [Evidence — Sea of Cortez](evidence/sea-of-cortez.md)
 - [Gonzaga Bay](gonzaga-bay.md)
+- [San Felipe](san-felipe.md)
 <!-- backlinks:end -->

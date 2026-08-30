@@ -154,6 +154,7 @@ Trip reports and per-source provenance:
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Augustine](san-augustine.md)
 - [San Benito Islands](san-benito-island.md)
+- [San Felipe](san-felipe.md)
 - [San Quintin](san-quintin.md)
 - [Six Mile Reef](six-mile-reef.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

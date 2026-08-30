@@ -336,6 +336,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
+- [San Felipe](../locations/san-felipe.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

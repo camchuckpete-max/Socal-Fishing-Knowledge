@@ -198,4 +198,5 @@ observation. Observations never change the note's stated doctrine.
 ## Linked from
 
 - [Cortez North](../cortez-north.md)
+- [San Felipe](../san-felipe.md)
 <!-- backlinks:end -->

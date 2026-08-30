@@ -234,6 +234,7 @@ two are different fisheries with different logistics
 <!-- children:start -->
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Gonzaga Bay](gonzaga-bay.md)
+- [San Felipe](san-felipe.md)
 <!-- children:end -->
 
 ## Access & range
@@ -328,5 +329,6 @@ Trip reports and per-source provenance:
 - [Mexican waters](mexican-waters.md)
 - [Puerto Escondido Marina](puerto-escondido-marina.md)
 - [Regions & Waters — the gating vocabulary](regions.md)
+- [San Felipe](san-felipe.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

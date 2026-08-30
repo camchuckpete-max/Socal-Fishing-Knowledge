@@ -358,6 +358,7 @@ Trip reports and per-source provenance:
 - [Gonzaga Bay](gonzaga-bay.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [San Felipe](san-felipe.md)
 - [Sea of Cortez](sea-of-cortez.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

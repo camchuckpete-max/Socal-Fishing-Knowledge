@@ -376,6 +376,7 @@ Trip reports and per-source provenance:
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Benito Islands](../locations/san-benito-island.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Felipe](../locations/san-felipe.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

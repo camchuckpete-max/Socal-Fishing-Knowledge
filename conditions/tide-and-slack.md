@@ -149,6 +149,7 @@ Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.
 - [Moon](moon.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Felipe](../locations/san-felipe.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)

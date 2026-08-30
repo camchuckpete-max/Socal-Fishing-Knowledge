@@ -252,4 +252,5 @@ Trip reports and per-source provenance:
 
 - [Cortez North](cortez-north.md)
 - [Evidence — Gonzaga Bay](evidence/gonzaga-bay.md)
+- [San Felipe](san-felipe.md)
 <!-- backlinks:end -->

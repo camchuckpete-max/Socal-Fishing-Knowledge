@@ -496,6 +496,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Felipe](../locations/san-felipe.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

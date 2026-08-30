@@ -88,5 +88,6 @@ camera.
 <!-- backlinks:start -->
 ## Linked from
 
+- [San Felipe](../san-felipe.md)
 - [Sea of Cortez](../sea-of-cortez.md)
 <!-- backlinks:end -->

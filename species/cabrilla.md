@@ -278,6 +278,7 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Felipe](../locations/san-felipe.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [Snook (Robalo)](snook.md)
