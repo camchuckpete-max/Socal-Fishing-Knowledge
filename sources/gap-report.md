@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2507 flagged gaps, 377 flagged stubs, 1053 unknown infobox values._
+_Totals: 2513 flagged gaps, 379 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -3795,6 +3795,15 @@ _Totals: 2507 flagged gaps, 377 flagged stubs, 1053 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/san-felipe.md**
+  - `(lead)`: gap — a **zone rung** between this page and the
+  - `Getting there`: gap — the dock, ramp, marina, moorings, parking,
+  - `Structure & bathymetry`: gap — any coordinate, sounding, chart or sounder
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — puts a fish in this port or off its mouth. No shore, dock, bay or estuary fishery is described here, which is why [Cortez North](cortez-north.md#the-fishery) carries a region-wide gap on bay fishing despite the whole fishery running out of bays |
+  - `What's there`: gap — any month but November for the San Felipe
+  - `How it fishes`: gap — current, tide or prevailing wind at this port
 - **locations/san-juan-seamount.md**
   - `Getting there`: gap — a stated distance, heading, run time, fuel
   - `Getting there`: gap — states that leg.
