@@ -16,7 +16,12 @@ retrieve_speed: 13-15 kt boat/tow speed, not an angler retrieve — too slow and
 Execution for pulling a fast-tracking hard bait to **locate** bluefin and pull a
 bite over water you can't otherwise cover. The workhorse is the
 [Mad Mac class](../lures/mad-mac.md), run in the **13 to 15 knot** band
-(`z1CmWHqe9uk`). It is not a kite substitute for the biggest grade — it is how
+(`z1CmWHqe9uk`). ⚠ Fact-check (contradicted-by-source): the transcript attaches
+13–15 kt to the Rapala Sarda ("make a track on that 13 to 15 knot range") and
+the X-Rap Magnum Extreme ("probably 13 to 15 knots"), not the Mad Mac — the
+Mad Mac is named with only a fish-grade range, "30 lb all the way to 250," and
+is given no speed anywhere in the video. Front-matter `retrieve_speed` and
+`depth_band` carry the same misattributed figure. It is not a kite substitute for the biggest grade — it is how
 you find fish and get bites when a [kite](kite-fishing.md) won't fly
 (`z1CmWHqe9uk`). The WHEN-to-pull-what decisions live in the router:
 [bluefin trolling](../species/bluefin-tuna-trolling.md).
@@ -33,6 +38,9 @@ you find fish and get bites when a [kite](kite-fishing.md) won't fly
 
 - Pull the lure at **13 to 15 knots** — the speed the Mad Mac class is built to
   track at (`z1CmWHqe9uk`). Too slow and the bait stops swimming and rolls out.
+  ⚠ Fact-check (contradicted-by-source): same misattribution as the Lead — the
+  source speaks 13–15 kt for the Rapala Sarda and X-Rap Magnum Extreme, not
+  the Mad Mac (`z1CmWHqe9uk`).
 - Work the water the same way you would any trolling pass: sweep the bird and
   bait areas rather than straight-lining away from them (see
   [trolling](trolling.md)); the point of the speed is to search, not to sprint
@@ -80,6 +88,10 @@ you find fish and get bites when a [kite](kite-fishing.md) won't fly
   [gear classes](../tackle/gear-classes.md#rod--reel-classes) — the nearest
   documented row is the trolling/spreader-bar class, though that row's
   150–200 lb line spec runs heavier than the 130 lb braid main line used here.
+  ⚠ Fact-check (contradicted-internal): [gear classes](../tackle/gear-classes.md#rod--reel-classes)
+  specs the trolling/spreader-bar row at 150–200 lb; this note's 130 lb braid
+  main line (`z1CmWHqe9uk`) is lighter than that row, and neither note says
+  whether the row's figure is meant to cover this lighter speed-troll setup.
 
 ## Common failures
 
