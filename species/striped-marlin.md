@@ -97,7 +97,7 @@ sits in the zone-guide stubs below and the [evidence file](evidence/striped-marl
 ⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` records a marlin jumping at
 the boat, not a catch — "actually just saw marlin jump right in front of the
 boat"; the hookup that followed is never tied to it and the fish landed that
-episode are yellowtail, yellowfin, skipjack and dorado. `BQ2U1PqxWi8` likewise
+episode are yellowtail, yellowfin and skipjack. `BQ2U1PqxWi8` likewise
 lists marlin as present and shows a release whose species is not stated on
 camera; the East Cape striped-marlin catch is `mG8ZZLFGlT8` only.
 
