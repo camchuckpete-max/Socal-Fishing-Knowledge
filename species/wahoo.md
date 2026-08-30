@@ -27,9 +27,12 @@ bomb or Raider jig burned back, and a [flylined sardine](wahoo-live-bait.md) —
 all three on **wire leader**, because the teeth cut mono regardless of test
 (`G81HN0dIDg0`). See
 [haywire twist](../rigging/haywire-twist.md).
-⚠ Fact-check (contradicted-by-source): `G81HN0dIDg0` scopes wire to flylining
-("very important to have wire on there") and immediately offers the
-alternative — "Some guys like to use fluorocarbon, too. You just have a lot
+⚠ Fact-check (contradicted-by-source): `G81HN0dIDg0` wires two of the three
+presentations, not all three — a **275 lb** wire leader on the trolled DTX and
+**44 lb** wire with a 3/0 hook on the flyline, while the cast bomb and stinger
+get only "a nice big single hook" and no leader spec. The "very important to
+have wire on there" line is scoped to the flyline, and it immediately offers
+the alternative — "Some guys like to use fluorocarbon, too. You just have a lot
 less chance of getting bit off" — so it states a bite-off *probability*, not
 "regardless of test," and gives no mono/fluoro test at all. The same claim is
 restated in [gear summary](#gear-summary-class-terms) and
