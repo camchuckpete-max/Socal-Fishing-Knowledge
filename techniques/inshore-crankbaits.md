@@ -29,6 +29,9 @@ situation calls for it lives in the routers:
   power-fishing pass (spotted bay bass). Once a productive stretch is found it
   can fish fast: a tournament pre-fish day on this pattern produced 25+ fish
   in San Diego Bay (`k4LCL9ALryA`).
+  ⚠ Fact-check (single-source): a single SWBA-tournament pre-fish day's count
+  from one unregistered-channel video, no other corpus source corroborates
+  25+ fish as a reproducible result on this pattern.
 - **Suspended bait balls over pipes and deep structure in winter** — run the
   crank through the suspended bait (sand bass).
 - **Sparse kelp lanes with fish not committing to weedless plastics** — a hard
@@ -81,6 +84,12 @@ shallow boiler/pinnacle structure that other anglers skip, covered under
   (`lP6cg4eEU6s`). Fishing a bait over grass, keep it running well above the
   canopy using rod-tip height (below) rather than downsizing the rating, or
   it fouls every cast (`lP6cg4eEU6s`).
+  ⚠ Fact-check (contradicted-by-source): `lP6cg4eEU6s` gives only the general
+  mechanism (saltwater buoyancy plus the heavier leader cut into a
+  freshwater-rated crank's working depth) and recommends starting around a
+  **~17 ft**-rated diver; the transcript never states a "16 ft" bait or a
+  "~13–14 ft" actual-depth figure — that specific conversion is not in the
+  cited source.
 - **Burn it** — wind as fast as physically possible rather than at a moderate
   pace; no angler's hand-speed can out-turn the lure, so a fast, sustained
   grind is more likely to trigger a reaction strike than picking the water
@@ -122,6 +131,9 @@ shallow boiler/pinnacle structure that other anglers skip, covered under
   a **quick pause** after a bump gives the fish a second look and is the
   trigger for the strike — a full reaction bite, "they rip the rod out of
   your hands" (`XyKF34C5iB4`).
+  ⚠ Fact-check (single-source): the **6:1–7:1** gear-ratio figure for this
+  rock program is one unregistered-channel seminar; no other corpus source
+  gives a reel gear ratio for this program.
 
 ## Beach and inlet channels
 
@@ -188,12 +200,19 @@ see [gear classes](../tackle/gear-classes.md). An 8 ft rod still throws a
 crank if you don't have the 10 (`GVP3IChsmRQ`). The daytime/low-light rock
 program above instead runs a faster **6:1–7:1** gear-ratio reel to hold
 retrieve speed through the grind (`XyKF34C5iB4`).
+  ⚠ Fact-check (single-source): same **6:1–7:1** figure flagged above under
+  [Execution](#execution) — one unregistered-channel seminar, uncorroborated
+  elsewhere in the corpus.
 
 ## Common failures
 
 - **Trusting a crank's box-rated depth in saltwater** — it runs shallower
   than rated (a 16 ft-rated bait runs ~13–14 ft actual); pick a bait rated
   deeper than the target depth instead (`lP6cg4eEU6s`).
+  ⚠ Fact-check (contradicted-by-source): same "16 ft → ~13–14 ft" figure
+  flagged above under [Execution](#execution) — the cited transcript gives
+  only the general buoyancy mechanism and a **~17 ft** starting-point
+  recommendation, not this specific conversion.
 - **Running a crank over grass without lifting the rod tip above the
   canopy** — fouls the bait every cast (`lP6cg4eEU6s`).
 - **A bass-style rod-arm swing hookset on a treble-hook bait** — pulls the
