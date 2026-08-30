@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2441 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
+_Totals: 2452 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
 
 ## species/
 
@@ -4109,6 +4109,19 @@ _Totals: 2441 flagged gaps, 366 flagged stubs, 1052 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/the-ridge.md**
+  - `Getting there`: gap — a distance, bearing, run time or sea-state
+  - `Structure & bathymetry`: gap — the bank's relief, bottom composition,
+  - `What's there`: gap — the only stop on record is undated | The bank's headline — "fabulous yellow tail fishing" working back up on it, with one hooked yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`). Deep-iron water, not a surface fishery |
+  - `What's there`: gap — season | Not off the bank itself: the stated program is to run **outside** the ridge for kelps or floating logs and take wahoo off them (`3tQ1_xiqwVU`) — a paddy fishery in the water around it, not structure fishing on it |
+  - `What's there`: gap — names any other species here. Striped marlin, the zone's headline draw, is never attached to this bank ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
+  - `What's there`: gap — forage, water temperature, a colour or break
+  - `How it fishes`: gap — tide, moon, wind or light-window doctrine at
+- **locations/thetis-bank.md**
+  - `Getting there`: gap — a distance, bearing, run time or sea-state
+  - `What's there`: gap — the one stop on record carries only an upload date (2012-05-01) and no fishing date, so this bank has no month at all | ⚠ Flagged gap — no corpus source names a single species at this bank. Not [yellowtail](../species/yellowtail.md), not [yellowfin tuna](../species/yellowfin-tuna.md), not [dorado](../species/dorado.md), not [wahoo](../species/wahoo.md) — all of which the same trip names on neighbouring grounds, the first three caught back up on the Ridge and wahoo only as the stated program for the water outside it (`3tQ1_xiqwVU`) |
+  - `What's there`: gap — forage, water temperature, a colour or break
+  - `How it fishes`: gap — tide, moon, wind or light-window doctrine at
 - **locations/three-sisters.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
