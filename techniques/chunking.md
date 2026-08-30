@@ -128,7 +128,13 @@ anchovies and tied off the bow reaches full fishing depth by the time it drifts
 back under the anglers at the stern on a mid-length boat: by the time the
 chum's plume is visible in the water it's already sunk **3–4 ft**, and the trip
 from bow to stern happens faster than a person can walk the same distance on
-deck (`bM2vUS1B-yQ`). Pair this with a hooked-weight caution: dropping a bait
+deck (`bM2vUS1B-yQ`). ⚠ Fact-check (contradicted-by-source): the transcript
+states only that the chum's plume has sunk 3–4 ft by the time it's visible near
+the bow — it never says the bucket reaches the 35–40 ft bottom by the stern;
+the "how fast can you walk 30 feet" line in the source is answered "pretty
+fast" and pivots into a comparison to how fast a fish can flick its tail from
+bottom to top, not into a stated walking-vs-drift-time comparison for the
+bucket. Pair this with a hooked-weight caution: dropping a bait
 on a heavier weight straight down past a mark spooks the fish holding at that
 depth; a small weight flicked off the bow and allowed to settle on the way back
 to the stern reaches the fish already moving naturally with the chum instead of
@@ -168,7 +174,9 @@ artificial reef using this exact chum method (`f4qYtHACGyk`).
 
 **Origin and species mix.** The SoCal artificial-reef system was built
 specifically for sport fishermen in the **1950s–70s**, funded by sportfishing
-money rather than a commercial-fishing program (`bM2vUS1B-yQ`). Species mix
+money rather than a commercial-fishing program (`bM2vUS1B-yQ`). ⚠ Fact-check
+(single-source): this construction-era claim rests on this one seminar aside,
+uncorroborated by another source in this note's citation set. Species mix
 named on these reefs: **calico bass, sand bass, halibut, white seabass, a range
 of rockfish, sculpin, and sargo** (`bM2vUS1B-yQ`).
 
@@ -208,14 +216,21 @@ supply instead of from sheer volume (`JK2-cpaXkI8`).
   supply a sportboat carries (`JK2-cpaXkI8`).
 - Fished the same way as the anchored-chumming entries above — alongside a
   live-bait flyline at anchor over structure — to draw fish up onto the
-  presented baits (`JK2-cpaXkI8`).
+  presented baits (`JK2-cpaXkI8`). ⚠ Fact-check (contradicted-by-source): the
+  cited transcript describes the chum-tube device itself (loading, plunger,
+  holes, continuous trail) but never mentions pairing it with a live-bait
+  flyline or names fishing it at anchor over structure — that pairing isn't
+  stated in this source.
 
 ## Guadalupe Island big tuna
 
 Framed as a Guadalupe Island, Baja (baja-pacific-north) tip: big tuna there are
 "very indiscriminate" when hungry, taking a chunk of mackerel or "a chunk of
 something else" readily (`NJ9ZLAU3sls`). Species is not named on camera beyond
-"tuna"; grade is called out at **100, 120, 130, and 140 lb**.
+"tuna"; grade is called out at **100, 120, 130, and 140 lb**. ⚠ Fact-check
+(single-source): the behavior claim and the grade figures both rest on this
+one Searcher Tackle Tip Thursday video, uncorroborated elsewhere in this
+note's citation set.
 
 The stated secret: when letting the chunk out, **strip line so it's sinking
 naturally, as if there's nothing attached to it** — the same match-the-fall
@@ -259,8 +274,10 @@ shallow rock spot in the same harbor repeated the pattern — see the
   presentation is a strip — "like a piece of spaghetti" — not a big wad of
   squid, which doesn't get eaten. Light spinning rods or small level-wind
   outfits, flicking chum/squid strips out behind the anchored boat
-  (`f4qYtHACGyk`). The light shot is what lets the bait fall at the chum's own
-  rate — see [drifting the hook bait](#drifting-the-hook-bait) above.
+  (`f4qYtHACGyk`). ⚠ Fact-check (single-source): the 1/16–1/8–1/4 oz split-shot
+  ladder rests on this one video, uncorroborated by another source in this
+  note's citation set. The light shot is what lets the bait fall at the chum's
+  own rate — see [drifting the hook bait](#drifting-the-hook-bait) above.
 - **Rail-rod / heavy-tuna class — Guadalupe big tuna.** Full reel/line/rod/
   hook/swivel build (Penn International 16VISX, 100 lb braid, 60–130 rod, "a
   nice big hook that'll hold them," optional swivel) is logged in
