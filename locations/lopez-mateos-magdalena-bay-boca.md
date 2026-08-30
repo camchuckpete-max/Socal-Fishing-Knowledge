@@ -17,7 +17,7 @@ distance_nm: unknown — given only as about 5 minutes by boat from the Lopez Ma
 **[Baja only]** — the mouth of
 [Magdalena Bay](bahia-magdalena-lopez-mateos.md) and the outermost of the
 bay's three inside depth rungs: **40–50 ft**, about **five minutes** by boat
-from the Lopez Mateos dock, fished blind on a known bottom mark for
+from the Lopez Mateos dock, fished on the bottom at a known mark for
 [snook](../species/snook.md) to at least **42 lb** mixed with grouper to
 **100 lb** (`EcQK5elTPJE`). It is the grade program — the run you make when
 the target is a **20 lb-plus** snook rather than the small fish the mangrove
@@ -26,11 +26,8 @@ because the wave state outside the mouth is what picks the day's bank
 (`OVwqUKim9Pc`).
 
 **"The boca" is a description, not a proper name** — it is the ordinary
-Spanish word for a bay mouth, and no source gives this entrance a name beyond
-it. The page is published because the feature is uniquely resolvable (one
-bay, one entrance, one set of cited depths and distances) and because the
-execution program built on it is deep enough to route to; the naming caveat
-travels with it.
+Spanish word for a bay mouth, and no other name for this entrance is on
+record.
 
 **No coordinates are published here.**
 [The spot library](../sources/spot-lists.md) stops at San Quintín, so a day
@@ -94,7 +91,8 @@ describes the bottom directly. Queued in
 
 ⚠ Flagged gap — no corpus source: the bottom composition, the width or extent
 of the mouth, how far the 40–50 ft band runs, what the tide does to the
-channel through it, or any sounder picture of the mark — it is fished blind
+channel through it, or any sounder picture of the mark or account of how it is
+located on the water
 ([electronics & sounder](../planning/electronics-and-sounder.md)).
 
 ## What's there
@@ -115,9 +113,10 @@ colour, or what holds the fish here beyond the depth change at the mouth.
 
 ## How it fishes
 
-**It is fished blind, as a known mark.** No visual sign, no bird read and no
-sonar signature is given for the boca — the boat goes to the spot and drops
-(`EcQK5elTPJE`). That is the opposite of the inside program a few minutes
+**It is a drop-on-the-mark program.** The bait goes down to the bottom in the
+40–50 ft at the entrance and is fished there (`EcQK5elTPJE`); no visual sign,
+bird read or sonar signature is on record for the boca. That is the opposite
+of the inside program a few minutes
 away, which is precision-cast to visible roots
 ([snook — finding them](../species/snook.md#finding-them-sign--sonar)).
 
