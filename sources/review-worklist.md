@@ -38,7 +38,7 @@ by their builders after the transform phase drains.
 | techniques/bait-and-switch.md | standard | transformed | contradicted-by-source(1) | fact-check flag added for jig-strike-vs-bait-and-switch conversion-rate conflation, ledger row appended, claim text untouched |
 | techniques/beach-lure-depth-control.md | standard | transformed | none | fact-check: no flags warranted, all 5 cited claims verify verbatim against the sole source, zero contradiction/drift/overclaim found |
 | techniques/cheater-troll.md | standard | transformed | contradicted-by-source(1) | factcheck: worker patch was empty; verifier found and added 1 missing flag (contradicted-by-source: 2oz leadhead generalized to swimbait/jig), ledger row appended, check-note.py + link-maintenance.py clean |
-| techniques/chunking.md | standard | transformed | spots(4) | transform verified faithful, observations split to evidence, execution consolidated into Gear class, no information loss found |
+| techniques/chunking.md | standard | transformed | none | factcheck: 32 inline citations across 14 transcripts spot-checked, all verify verbatim or faithful paraphrase, zero contradictions found, zero tree changes |
 | techniques/clearing-a-backlash.md | standard | transformed | gaps(1) | transform verified faithful, template-compliant, mechanics conserved, backlinks regenerated |
 | techniques/dart-jig-tuna.md | standard | transformed | none | transform verified, one meaning-drift defect (cross-source gear conflation) fixed in place |
 | techniques/deep-drop-swordfishing.md | standard | transformed | fact-check(2) | transform verified with fixes: restored 2 deleted doctrine claims beside fact-check flags, restored dropped attribution on contested doctrine |
