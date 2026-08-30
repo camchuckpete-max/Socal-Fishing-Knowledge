@@ -17,6 +17,8 @@ A 3-angler panga program for yellowtail: the moment one of two trolled rods
 gets bit, the crew's other anglers work the same water instead of only
 fighting the hooked fish. Yellowtail school, so a strike on a trolled line
 means more fish are almost certainly still around the boat (`jo8lMdFZ1bk`).
+⚠ Fact-check (single-source): the 3-angler/2-trolled-rod configuration is
+this note's entire premise and rests on one 39-second clip alone.
 No location is named on camera, so this applies to Baja panga fishing
 generally (panga being a Baja/Mexico open-boat type) rather than a specific
 bank or island.
@@ -39,7 +41,9 @@ bank or island.
   or a [surface iron](surface-iron.md) — rather than waiting for the fight to
   finish. The cast is high-percentage: "your chances of getting bit are
   pretty high" — the school is still there and already keyed up by the
-  commotion (`jo8lMdFZ1bk`).
+  commotion (`jo8lMdFZ1bk`). ⚠ Fact-check (contradicted-by-source): the
+  auto-generated transcript renders this line "and your chances of getting
+  better pretty high" — not the "getting bit" wording quoted here.
 
 ## Follow-up jig — the "stupid tube"
 
@@ -49,7 +53,8 @@ moment — casting right behind any hookup, not only a troll strike — a
 given on camera (nothing else survived the auto-captions clearly enough to
 carry), so this is logged as the described weight class, not a named
 product. The doctrine is simplicity: "as long as they're in the water, you
-have a good shot at catching a fish" (`jo8lMdFZ1bk`).
+have a good shot at catching a fish" (`jo8lMdFZ1bk`). ⚠ Fact-check
+(single-source): the 1.5–2 oz weight class rests on this one clip alone.
 
 ## Gear class
 
