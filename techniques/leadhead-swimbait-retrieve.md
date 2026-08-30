@@ -33,7 +33,9 @@ the retrieve and its hookset.
   halibut](../species/california-halibut.md#situations--techniques)). ⚠
   Flagged gap — no corpus source: mechanism for why 10 ft is the threshold;
   the retrieve below is the general technique, not a claim that 10 ft is
-  specifically where it starts working.
+  specifically where it starts working. ⚠ Fact-check (single-source): the
+  10 ft figure rests on this one clip alone and is load-bearing for the
+  halibut situations-table row it feeds (`E4CDqBFOaP8`).
 - The count-and-pause rhythm is described as broadly useful "for a lot of
   presentations," beyond just this bait — no other presentation is named on
   camera (`OURS05qEGcA`).
@@ -64,7 +66,10 @@ current — not variations of one rule.
 Demonstrated from a boat with **150 ft of line out** (`TzK4iuVmUSE`). Scaled
 up from the harbor halibut program above — the example given is a **30 lb
 gamefish** eating an **8-in lure**; species and location are not named on
-camera.
+camera. ⚠ Fact-check (single-source): `TzK4iuVmUSE` is a re-cut of a segment
+inside `hjZ3hgq0Bzg` — one underlying clip, not two independent sources, and
+this hookset is load-bearing for the whole long-range/short-range split
+below.
 
 - **Rod grip on the sink:** thumb over, forefinger under the rod — the same
   grip used bass fishing — to feel bites through the blank on the sink,
@@ -89,7 +94,9 @@ itself.
 ### Short range, pier/boat inshore: wind to a tight line, don't grind
 
 Baseline rig: a **½–¾ oz** leadhead with a **3–4 in** swimbait on a long cast
-(`yTPtYL9QAsw`, `yl-AkO5S64o`).
+(`yTPtYL9QAsw`, `yl-AkO5S64o`). ⚠ Fact-check (single-source): `yl-AkO5S64o` is
+a re-cut of the same underlying footage as `yTPtYL9QAsw` — the two cites are
+one source, not independent confirmation of the ½–¾ oz/3–4 in figures.
 
 - **Grinding the handle flat-out and waiting for the drag to slip as the cue
   to set the hook is a mistake here** — it misses fish consistently.
@@ -109,7 +116,9 @@ not repeated here (`yTPtYL9QAsw`).
 
 - A **3-inch swimbait** (e.g. a War Baits head with a Sudden Impact 3-inch)
   covers roughly **90%** of the technique's use fishing deeper
-  (`OURS05qEGcA`).
+  (`OURS05qEGcA`). ⚠ Fact-check (single-source): the 90% figure is stated
+  once, in this one clip; `pMsbeLOgUc4` is a confirmed word-for-word re-cut
+  of the same footage, not independent corroboration.
 - **Smaller baits are favored specifically in the harbor** (`OURS05qEGcA`).
 
 ## Open-water casting retrieves — erratic vs. smooth
@@ -130,7 +139,12 @@ reaction bite, not reading bottom contact by feel) (`hjZ3hgq0Bzg`).
   lets it react. Crack, slack, crack, slack; near bottom this walks the lure
   roughly **6 ft** in either direction. Follow a crack-slack sequence with a
   pause suspending the lure **~5 ft** off the bottom, giving a curious fish
-  that followed it in a chance to eat it.
+  that followed it in a chance to eat it. ⚠ Fact-check
+  (contradicted-by-source): the transcript ties the 6 ft walk and ~5 ft
+  suspend figures to the separate bottom-check move ("I'll just bottom
+  check... take a handle turn, let it sit there... made that thing walk
+  underwater six feet in either direction... suspend that thing 5ft off the
+  bottom"), not to the crack-slack sequence itself (`hjZ3hgq0Bzg`).
 - **Bottom-check-and-suspend:** periodically just check bottom, take a
   handle turn, and let the lure sit — the same "walk it 6 ft either way,
   then suspend it" idea framed as its own move rather than a follow-on to
