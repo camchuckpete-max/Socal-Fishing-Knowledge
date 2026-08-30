@@ -40,8 +40,9 @@ running off the sand (`82gEHYel-4U`). See
 ⚠ Fact-check (contradicted-by-source): the depth figure and the island framing.
 `Xr4nURK-Z48` states no depth at all — its only place detail is "We're here at
 Catalina Island" — and `Eo_bA8IWvyU` gives 60–90 ft for the dropper loop and "60
-to 100 ft of water" for the slider, never 100+ ft, and never says island, nest,
-bed or hard structure. The same framing recurs in the lead, in Presence & forage
+to 100 ft of water" for the slider, never 100+ ft. It does say "squid beds," but
+never island, nest or hard structure — the beds carry no structure or island
+context in it. The same framing recurs in the lead, in Presence & forage
 and in the `depth_band` / `sonar_depth` front-matter fields.
 
 **When.** The squid drives the calendar. From the
