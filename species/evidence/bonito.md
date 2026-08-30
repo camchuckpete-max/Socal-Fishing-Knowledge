@@ -69,7 +69,11 @@ contradicting one is also traced beside that doctrine in the parent.
   big porpoise school," ran up and trolled around it with a deep diver (a Nomad
   sardine-colour plug named on camera) and a cedar plug; the deep diver drew
   the bonito. Single observation — no source generalises porpoise schools as a
-  bonito sign.
+  bonito sign. ⚠ Fact-check (contradicted-by-source): the fish the deep diver
+  drew off the porpoise school is a **yellowfin**, about 60 lb — an on-camera
+  "is that a bonito?" is corrected ("no, that's not bonito actually") before
+  the landing; the transcript never shows how the bonito of that trip were
+  caught.
 - `oXunQKSbc2g` (StokedOnFishing, 2019-12-11 upload, October 2019 trip, Cortez
   Bank aboard the El Dorado, a limited-load 2-day charter out of Long Beach;
   unregistered channel): large ("giant") bonito were worked heavily as bycatch
@@ -138,7 +142,10 @@ contradicting one is also traced beside that doctrine in the parent.
   pushed back on treating bonito as a "trash fish," repeating the
   bleed-and-ice-immediately handling as the difference between poor and good
   table quality — a second, independent data point for that doctrine, this time
-  from Baja rather than SoCal.
+  from Baja rather than SoCal. ⚠ Fact-check (contradicted-by-source): the
+  pushback is the StokedOnFishing host's narration on a Baja trip, not the
+  local crew's, so this is the same channel and voice as `H-vIGWPIPVc` — a
+  second trip, not an independent source.
 
 ## Presence & forage
 
