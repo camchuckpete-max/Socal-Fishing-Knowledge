@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2469 flagged gaps, 368 flagged stubs, 1053 unknown infobox values._
+_Totals: 2483 flagged gaps, 373 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -2963,6 +2963,15 @@ _Totals: 2469 flagged gaps, 368 flagged stubs, 1053 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/lighthouse-point.md**
+  - `Getting there`: gap — how far the lighthouse is from the resort, in
+  - `Structure & bathymetry`: gap — the depth of the drop, how far off the sand it
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — any month from May through November, any
+  - `How it fishes`: gap — tide, swell, wind, moon or water temperature
+  - `How it fishes`: gap — what lure the sight-casters actually throw.
 - **locations/lighthouse.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3882,6 +3891,18 @@ _Totals: 2469 flagged gaps, 368 flagged stubs, 1053 unknown infobox values._
   - `What's there`: flagged stub row
   - `How it fishes`: gap — an
   - `How it fishes`: gap
+- **locations/santa-rosa-island.md**
+  - `Getting there`: gap — states this island's own wind threshold, or a
+  - `Getting there`: gap
+  - `Getting there`: gap — closures, MPA boundaries, landing or anchoring
+  - `Getting there`: gap — a distance, heading, run time or fuel figure
+  - `Structure & bathymetry`: gap — says what either face
+  - `Structure & bathymetry`: gap — any charted position, sounding, kelp line,
+  - `What's there`: flagged stub row
+  - `What's there`: gap — gives a grade, count or average size for any
+  - `What's there`: zone guide missing
+  - `How it fishes`: gap — a public position for Santa Rosa Island; one
+  - `How it fishes`: gap — a tide, slack, light or current window for
 - **locations/sea-of-cortez.md**
   - `(lead)`: gap — this note's own place in the geographic
   - `What's there`: gap — month-by-month timing for the San Felipe
