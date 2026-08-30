@@ -37,7 +37,7 @@ by their builders after the transform phase drains.
 | species/yellowtail.md | full | fact-checked | single-source(2), contradicted-by-source(23), contradicted-internal(1), ext-verify(3) | apply: 26 flags + 26 matching ledger rows, no claim touched, 7 transcript spot-checks all confirm the findings |
 | techniques/bait-and-switch.md | standard | transformed | contradicted-by-source(1) | fact-check flag added for jig-strike-vs-bait-and-switch conversion-rate conflation, ledger row appended, claim text untouched |
 | techniques/beach-lure-depth-control.md | standard | transformed | none | fact-check: no flags warranted, all 5 cited claims verify verbatim against the sole source, zero contradiction/drift/overclaim found |
-| techniques/cheater-troll.md | standard | transformed | gaps(1) | transform verified faithful, ASR caveats conserved to evidence, gap flags correct, check-note.py clean |
+| techniques/cheater-troll.md | standard | transformed | contradicted-by-source(1) | factcheck: worker patch was empty; verifier found and added 1 missing flag (contradicted-by-source: 2oz leadhead generalized to swimbait/jig), ledger row appended, check-note.py + link-maintenance.py clean |
 | techniques/chunking.md | standard | transformed | spots(4) | transform verified faithful, observations split to evidence, execution consolidated into Gear class, no information loss found |
 | techniques/clearing-a-backlash.md | standard | transformed | gaps(1) | transform verified faithful, template-compliant, mechanics conserved, backlinks regenerated |
 | techniques/dart-jig-tuna.md | standard | transformed | none | transform verified, one meaning-drift defect (cross-source gear conflation) fixed in place |

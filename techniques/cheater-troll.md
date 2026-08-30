@@ -32,6 +32,11 @@ instead of it.
 - You're working **the slide** (a drifting presentation): stick the rod out
   wide off the rail so the cheater-troll line stays clear of the other
   anglers fishing live bait (`NXvqLUZ6qp8`).
+  ⚠ Fact-check (contradicted-by-source): `NXvqLUZ6qp8` names a specific **2
+  oz leadhead** for this side-rod use case, used to get the lure down fast
+  before the next bait/trolling rotation — not a swimbait/jig generically;
+  the lead paragraph's general "swimbait/jig" framing smooths over that
+  weight.
 
 ## Etiquette
 
