@@ -25,6 +25,23 @@ best on a spring scale (`0dNfsle54Wo`). The program is high-volume casting —
 **2–3 casts per minute, 500–700 casts a day** — and the fish's first move is
 back into the rock, which is what sets the drag, leader and rod choices below
 (`EmZO8QiOfik`).
+⚠ Fact-check (contradicted-by-source): `EmZO8QiOfik` never says a hooked
+cabrilla's first move is into the rock — it says only "if he gets an inch,
+gets his head turned, he's going to take line"; the one "runs for a rock" line
+in the corpus is about grouper (`M8hOYQ_6rSg`). The source also draws no
+contrast with a soaked bait.
+⚠ Fact-check (contradicted-internal): the 5–10 / 15 / 17 lb grade is verbatim
+in `0dNfsle54Wo`, but that footage opens "last morning out here… today we're
+at Gonzaga Bay" on the Tony Reyes mothership out of San Felipe — not Bahía de
+los Ángeles. A standing ledger row already records the relabel;
+[Sea of Cortez](../locations/sea-of-cortez.md) carries the same warning about
+San Felipe mothership footage filed under BOLA.
+⚠ Fact-check (contradicted-internal): `dEPuDrhoClM` is verbatim on "when I say
+cabrilla it is a leopard grouper," but the corpus records more than one
+cabrilla in these waters — a Loreto fish called out on camera as "a different
+type of cabrilla" (`n4nMCLLW3tY`) and a golden colour morph taken alongside
+the leopards (`4Dn7yChmhk0`) — so the note equates one common name with one
+species, and `scientific_name` is `unknown`.
 
 ## Where & when
 
@@ -47,6 +64,14 @@ bite quits.** At a Bahía de los Ángeles tournament in **May** the cabrilla
 fishing out-produced the yellowtail fishing on the day the yellows went off
 (`6P34jI9q1tE`); a dedicated cabrilla program ignores yellowtail and dorado
 entirely and fishes structure all day (`EmZO8QiOfik`).
+⚠ Fact-check (contradicted-by-source): `6P34jI9q1tE` hedges — "the cabrilla
+fishing was better than the yellowtail fishing today. Yellows were just a
+little bit off" — and never states a month; May comes from the companion
+episode (`T3cEQUqiH8E`, "It's May 13th today"). "Went off" also reads in SoCal
+usage as the opposite of what is meant here.
+⚠ Fact-check (contradicted-by-source): `EmZO8QiOfik` says "we don't chase the
+Yellow Tail, we don't chase bagas" — the second species is an unresolved
+caption token, not dorado.
 
 ## Presence & forage
 
@@ -84,7 +109,14 @@ cabrilla spawning at all.
   morning and late afternoon — the fish feed aggressively, and white, bright
   and dark colours all get bit. Once the sun clears the hills and light
   penetrates, bright, metallic and flashy colours get bit better and the fish
-  turn finicky (`EmZO8QiOfik`, `M8hOYQ_6rSg`). The lure-size answer to that
+  turn finicky (`EmZO8QiOfik`, `M8hOYQ_6rSg`).
+  ⚠ Fact-check (contradicted-by-source): both sources tie "finicky" to the
+  middle of the day — "gets bit better middle of the day when the fish are a
+  little bit more finicky" — not to the moment the sun clears the hills, and
+  `EmZO8QiOfik` pegs the 170 → 150 downsize to a clock time ("past like 9 or
+  10:00 in the morning"), not to light penetration. The note fuses two points
+  on the clock into one trigger.
+  The lure-size answer to that
   light change — the 170/150 ladder and the disagreement over it — is in
   [cabrilla — jerkbait](cabrilla-jerkbait.md#doctrine--conflicts).
   ⚠ Flagged gap — no corpus source: mechanism — why light penetration flips
@@ -128,6 +160,11 @@ cabrilla spawning at all.
   ⚠ Fact-check (single-source): one trip is the corpus's only record of
   cabrilla foaming on the surface, and no mechanism is stated for what puts
   them up.
+  ⚠ Fact-check (contradicted-by-source): `0dNfsle54Wo` says "every single one
+  of them above five pounds… like five to ten, there were some 15s" — a
+  five-to-ten school with some 15s, not a 5–15 lb band. The seagulls are a
+  later, separate stop ("see the seagulls" at 17:05); only boobies are on this
+  one. The stop is at Gonzaga Bay, not Bahía de los Ángeles.
 - ⚠ Flagged gap — no corpus source: a sonar signature or arc depth for
   cabrilla. The corpus describes the visual and structure read only, so
   silence here is a source gap, not a statement that cabrilla cannot be
@@ -156,6 +193,13 @@ all live trades — see
 boat-by-boat — pinks and blues on one panga, chartreuse and orange, purple, or
 straight orange on others — with brightness the common factor rather than any
 one pattern (`dEPuDrhoClM`).
+⚠ Fact-check (contradicted-by-source): `dEPuDrhoClM` never names Bahía de los
+Ángeles — it is the November 2022 Tony Reyes mothership trip out of San
+Felipe, so this footnote and the surface-iron row above both carry the wrong
+zone label. The up-to-20-a-day jig was another angler's ("he was catching up
+to 20 cabrilla day"), and the source blames his own blank on colour AND action
+jointly — "I didn't trigger those bites because I didn't have something bright
+coloured that was also a fast swimming jig" — not on the wide swim alone.
 [d] Two further micro-lure names in the source could not be reconstructed from
 the captions — see the [evidence file](evidence/cabrilla.md).
 [e] Retrieve, cadence counts, bite window and the depth-keyed iron weights are
@@ -179,6 +223,13 @@ in [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md#how-cabrilla-changes-the-exe
   depth-keyed iron weights are in
   [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md#rigs--gear), the general
   method in [yo-yo iron](../techniques/yo-yo-iron.md).
+  ⚠ Fact-check (contradicted-by-source): the 40–60 lb class figure is in
+  neither cited transcript. `EmZO8QiOfik` gives iron picks but no rod class
+  and no reel speed for the yo-yo outfit — its only ratio, 6.5:1–7:1, is the
+  jerkbait reel — and `M8hOYQ_6rSg` says "your yo-yo iron or surface iron
+  rods, I like an 8-ft rod, 20 to 50-lb rod." The same 40–60 lb figure drives
+  two router rows above, the front-matter `gear_classes`, and
+  [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md).
 - **Hooks/hardware for jerkbaits:** see
   [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing) for the Baja / Sea of
   Cortez jerkbait hook upgrade.
@@ -218,7 +269,15 @@ Section order below is not a ranking.
 - **Drag setting is chosen against rod action, not on its own.** The shared
   premise is that a cabrilla given line turns its head and goes into the rock,
   and that a fish allowed to pull line is lost more often than landed
-  (`EmZO8QiOfik`, `6P34jI9q1tE`). What splits the two positions is where the
+  (`EmZO8QiOfik`, `6P34jI9q1tE`).
+  ⚠ Fact-check (contradicted-by-source): the premise is not shared as written.
+  `EmZO8QiOfik` gives only "if he gets an inch, gets his head turned, he's
+  going to take line" — never the rock — and states the opposite of the loss
+  claim: "we've hooked fish with drags absolutely hammered and these fish will
+  take line off like you're in free spool." "Lose more than you will land" is
+  `6P34jI9q1tE` alone, said of "these fish" across a mixed yellowtail-and-
+  cabrilla fishery.
+  What splits the two positions is where the
   shock absorption comes from. **Cesar** runs the star drag to its stop —
   essentially locked — and pairs it with a **slower, softer-bending rod** whose
   bend absorbs the strike the drag no longer does. **Ray Sharifi** backs the
@@ -238,9 +297,18 @@ Section order below is not a ranking.
   tournament crew at Bahía de los Ángeles kept two cabrilla for dinner and
   released the rest (`T3cEQUqiH8E`); a separate Bahía de los Ángeles trip kept
   one or two between two anglers and released everything else (`wX7jUycIJ-U`).
+  ⚠ Fact-check (contradicted-by-source): `wX7jUycIJ-U` says "I think we only
+  kept one cabrilla, Mike kept one or two, but other than that we released all
+  the other ones" — two to three fish, doubly hedged, on a boat with five
+  named anglers, not one or two between two.
 - **Bleed the kept fish at the boat rather than at the end of the day** — a
   cabrilla panga session bled its catch at midday before running in
   (`ZYAILGyrkRk`). General method: [fish care](../fish-care/README.md).
+  ⚠ Fact-check (contradicted-by-source): `ZYAILGyrkRk` bleeds at the midday
+  return for lunch, not on a run-in — "it's about 12 o'clock, we're bleeding
+  all the fish right now, we come in for lunchtime… I think we get back out
+  there right after lunch" — and the crew fished an afternoon session after
+  it.
 - **Cabrilla have teeth worth respecting on the unhook** (`n4nMCLLW3tY`).
 - ⚠ Flagged gap — no corpus source: whether cabrilla brought up from the
   **80–150 ft** midday depth band suffer barotrauma, and whether venting or a
