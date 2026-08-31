@@ -1,6 +1,6 @@
 # Review progress
 
-Last update: 2026-08-31 05:57 UTC (run 33361868924)
+Last update: 2026-08-31 06:02 UTC (run 33362364085)
 
 | total | pending | transformed | fact-checked | done | skipped | escalated | reverted |
 | --- | --- | --- | --- | --- | --- | --- | --- |
