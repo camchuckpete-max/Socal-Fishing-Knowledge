@@ -35,7 +35,10 @@ parallel and even so neither bait rides higher than the other.
 
 - **Line class by grade of fish:** 100 lb line for fish in the 20-40 lb
   range; 150 lb or 200 lb line for bigger fish. Built on 150 lb test (Seaguar
-  Big Game fluorocarbon) (`UrEymGvZx00`). A Cortez Bank session where 100 lb
+  Big Game fluorocarbon) (`UrEymGvZx00`). ⚠ Fact-check (single-source): the
+  full grade-to-line-class table (100/150/200 lb) and the paired hook-size
+  table below are numerically precise and load-bearing for the whole build,
+  resting on this one video. A Cortez Bank session where 100 lb
   line was run alongside 30 lb called the 100 lb easier for hooking the
   bigger fish being seen — consistent with, not new beyond, this grade-based
   table (`nQvJnfb5jQ4`).
@@ -69,7 +72,10 @@ around the surface." Named on camera as one of the crew's favorite ways to
 catch yellowfin at [Guadalupe Island](../locations/guadalupe.md), Baja
 (`fgTmUq78ofQ`) — a species/location pairing not otherwise documented in
 this note, which elsewhere covers this rig against bluefin (its usual
-target) and one observed yellowtail catch at Cortez Bank.
+target) and one observed yellowtail catch at Cortez Bank. ⚠ Fact-check
+(single-source): the 200 lb mono / 3/0-4/0 hook spec for this variant is
+numerically precise, resting on this one video with no independent
+corroboration.
 
 ## Rig it
 
