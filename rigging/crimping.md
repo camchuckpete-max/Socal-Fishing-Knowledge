@@ -91,13 +91,26 @@ one for the mechanic of seating it correctly.
   for its pound test (example: **60 lb wire → size A2 sleeve**). Using an
   undersized sleeve for the wire test — the example given is an A2 sleeve on
   40 lb wire — crimps loose and lets the connection slip under a fish's
-  fighting drag (`S80GRyuAbLY`, `_Z4yMtrYgeA`). An earlier (2009), independent
+  fighting drag (`S80GRyuAbLY`, `_Z4yMtrYgeA`). ⚠ Fact-check
+  (contradicted-internal): [Haywire Twist — wahoo live-bait
+  leader](haywire-twist.md#wahoo-live-bait-leader) cites a different source
+  (`4uNPLknRAQg`) showing on-camera 40 lb wire packaging calling for this
+  same A2 sleeve, directly conflicting with the "undersized" framing here;
+  that note resolves the conflict by matching the sleeve to the size printed
+  on the wire's own spool rather than trusting either figure blind, a
+  caveat this note doesn't carry. An earlier (2009), independent
   citation of the same match-crimp-to-wire-test rule, for wahoo
   casting/trolling-lure wire specifically, states it without a specific size
   pairing: crimps must be matched exactly to the wire's stated pound test,
   and buying crimps bigger than the wire needs creates a mismatch that won't
   seat correctly — the advice given is to ask the tackle store for the crimp
-  that matches whatever wire is bought (`uWGGeDOprsE`). Full trip-tackle
+  that matches whatever wire is bought (`uWGGeDOprsE`). ⚠ Fact-check
+  (contradicted-by-source): the transcript ties this tip to the live-bait
+  wire it names immediately before it ("40 lb up to 60 lb wire... for live
+  bait... one of the tips for that is...") rather than to the
+  casting/trolling-lure wire named a few seconds earlier — the "wahoo
+  casting/trolling-lure wire specifically" scope is this note's own
+  narrowing, not what the source states. Full trip-tackle
   context in [Searcher five-outfit quiver — 7-day trip to Alijos Rocks and
   "The
   Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md#terminal-tackle).
