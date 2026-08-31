@@ -49,7 +49,12 @@ over-bait change-up when a skirt or a swimmer isn't drawing bites.
 
 An unpainted, natural finish outperforms painted finishes — yellow, blue,
 purple, black, orange, green, and brown are all paint jobs on the same wood
-body, and the unpainted plug is the one to reach for (`AH4Eiya1Hn0`).
+body, and the unpainted plug is the one to reach for (`AH4Eiya1Hn0`). ⚠
+Fact-check (contradicted-by-source): in `AH4Eiya1Hn0` this cite covers only
+the color-list/terminology correction (the colors are all the same wood body,
+"wood" meaning "natural") — natural is named as one of three liked patterns
+alongside amp chobby and sardine, not as an outperformer; the source never
+states natural beats painted finishes or is "the one to reach for."
 "Cedar color" is on-the-water vernacular for that natural, unpainted finish
 (cameron). A pre-rigged plug's stated favorite pattern is natural
 (`8UAtGqEjDtU`), and given a choice on the shelf between an unpainted 6 in
