@@ -19,7 +19,11 @@ inside the plastic, not a bare jig head threaded with a plastic trailer
 (cameron). Tube baits are a SoCal staple, and HookUp Baits is the brand that
 made the modern bullet-shaped version ubiquitous here; a Tackle Express source
 calls the generic 1.5–2 oz version "the stupid tube," a standing calico-bass
-go-to (`9a-Zy_D6c3w`). Tube baits are a distinct soft-plastic class from
+go-to (`9a-Zy_D6c3w`). ⚠ Fact-check (contradicted-by-source): the cited clip
+states only "ounce and a half" for the size fished; no 2 oz figure or range
+appears anywhere in the 32-second transcript — the "stupid tube" nickname and
+calico-bass context both check out verbatim, only the upper end of the
+generic-size figure does not. Tube baits are a distinct soft-plastic class from
 [glide baits](../techniques/glide-baits.md), a jointed hard-bait class this
 note's content previously sat under in error (cameron). This note covers
 construction, scent, and color selection; rigging, rods, and per-species/
@@ -35,6 +39,13 @@ application execution live in
 | Stock hook | not weedless |
 | Weedless conversion | Owner "sled" head — see [tube-bait fishing](../techniques/tube-bait-fishing.md#weedless-rig-for-grass-and-heavy-kelp-owner-sled-system) |
 | Gear class | bass-casting/swimbait class; 40 lb-class floor for 3–4 oz baits (`0HwYl0HO2tc`, `5Oh3IPIC5g4`) — see [gear classes](../tackle/gear-classes.md#lure-classes-cross-reference) |
+
+⚠ Fact-check (contradicted-by-source): neither cited transcript states a
+3–6 oz figure. The individual smaller weights (3/8, 5/8, 1, 1.5, 3 oz) and the
+"Bullet"/"Big Game" profile names do check out, split across the two
+sources, but the largest baits either one names are "three or four ounce"
+(`0HwYl0HO2tc`) and a "3-ounce bait" (`5Oh3IPIC5g4`) — no source reaches 6 oz.
+Front-matter `weights` carries the same unsourced upper bound.
 
 ⚠ adjudicated (Cameron, 2026-08-23). A 2018 seminar described the bait as
 "hard-shelled, articulated" (`0HwYl0HO2tc`); a 2020 seminar describes it
@@ -53,7 +64,13 @@ commit — lives in [tube-bait fishing](../techniques/tube-bait-fishing.md).
 HookUp Baits' proprietary scent is reapplied roughly every third cast on
 tournament days, more often on a slow bite. It's formulated deliberately thin
 on purpose — a scent that's easy to reapply gets reapplied, one that's a
-hassle to use doesn't (`0HwYl0HO2tc`). Two named lines: a shrimp/crab scent
+hassle to use doesn't (`0HwYl0HO2tc`). ⚠ Fact-check (single-source): the
+cadence rests on this one seminar's heavily garbled auto-generated captions
+("we reset every three cap[s]... so tournament days we reset every three
+cap[s]"), which support the "every third cast"/tournament-day figure closely
+enough to read as correct, but the preceding clause on slow-bite days is too
+garbled to confirm the "more often" comparison independently — numerically
+precise and single-sourced. Two named lines: a shrimp/crab scent
 that also tints the bait's belly reddish and leaves a holographic flake/scale
 trail, and a sardine/anchovy scent for the same scale-trail effect
 (`0HwYl0HO2tc`). These are product-specific claims and stay low confidence;
@@ -107,7 +124,13 @@ scale-trail idea above with a stated feeding-reaction mechanism
   water:** sized up for halibut outside (surf/coastal water), and a smaller
   3/8 or 5/8 oz bait inside a bay. Mint and glow green both work well on
   halibut; a white "shad"-pattern bait is called out specifically for
-  morning and evening (`5Oh3IPIC5g4`).
+  morning and evening (`5Oh3IPIC5g4`). ⚠ Fact-check (contradicted-by-source):
+  the transcript states only the inside-a-bay downsize — "inside a bay I
+  would do 3/8 or 5/8, it would be the halibut size" — "outside" occurs once
+  with no size attached, and neither "surf" nor any coastal zone is named;
+  the size-up-outside half is unsourced. The identical issue is already
+  flagged on [California halibut](../species/california-halibut.md), which
+  this bullet duplicates without carrying the flag itself.
 - **The "Oreo cookie effect" — a forage-satiation nuance:** at a spot already
   packed with live red crab, red crab-flavored/colored bait becomes the
   hardest bait to get bit — the stated theory is satiation, "how many Oreo
