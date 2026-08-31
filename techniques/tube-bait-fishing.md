@@ -56,7 +56,9 @@ Line class by bait size: **¼ oz** pairs with a rod rated roughly **8–17 lb**;
 or heavier** — do not fish the big tube baits under 40 lb class, after losing
 fish on 25 lb gear (`0HwYl0HO2tc`). Length: **8 ft** is preferred, valued for
 casting distance and for keeping the tip working through a long parabolic
-bend (`0HwYl0HO2tc`).
+bend (`0HwYl0HO2tc`). ⚠ Fact-check (contradicted-by-source): `0HwYl0HO2tc`
+states the 8 ft preference but gives no reason there; the casting-distance/
+tip-loading rationale is stated in `5Oh3IPIC5g4` instead.
 
 A second, independent source corroborates the 40 lb floor two years later:
 fishing a **3 oz** bait on a 9 ft medium-heavy spinning rod, "you don't
@@ -69,7 +71,10 @@ fluorocarbon** leader.
 choice.** Fishing the 3 oz bait all day selects for bigger fish — sand bass
 and calico under about 3 lb (below the SoCal average) largely stop biting it
 — and produces roughly double the average size against anglers throwing
-smaller baits nearby (`5Oh3IPIC5g4`). Applied in tournament fishing: throw
+smaller baits nearby (`5Oh3IPIC5g4`). ⚠ Fact-check (single-source): the
+"roughly double the average size" figure rests on this one speaker's own
+comparison, uncorroborated elsewhere in the note's citations. Applied in
+tournament fishing: throw
 the big bait all day to upgrade the biggest fish in the limit while a
 partner runs the
 [double rig](#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft)
@@ -100,7 +105,10 @@ bite (`0HwYl0HO2tc`).
 
 A second, independently corroborating source teaches the same slack-reading
 skill with more mechanism (`5Oh3IPIC5g4`): roughly **80% of bites come on the
-initial sink**, not the retrieve — "don't blink on the sink." A bait that
+initial sink**, not the retrieve — "don't blink on the sink." ⚠ Fact-check
+(single-source): the specific **80%** figure rests on this one speaker's own
+estimate; the corroboration from `0HwYl0HO2tc` supports sink-watching as a
+technique but gives no percentage. A bait that
 comes back chewed up with no felt bite means a fish ate and spit it on a sink
 that wasn't watched (local slang: getting "folded" or "faulted"). Let the
 bait sink as freely as possible — more free sink means more of the
@@ -144,7 +152,12 @@ lb** fluorocarbon leader above the swivel, then a separate, shorter, lighter
 (**~25 lb**) dropper down to each bait, so a bottom snag costs only the one
 hung-up bait and its short dropper (`0HwYl0HO2tc`). For rockfish, pair **3–4
 oz** baits on rock structure; for yellowtail, a double hookup on this rig is
-"a handful" but real and repeatable (`0HwYl0HO2tc`).
+"a handful" but real and repeatable (`0HwYl0HO2tc`). ⚠ Fact-check
+(contradicted-by-source): `0HwYl0HO2tc`'s own double-dropper-rig spec for
+rockfish (above) pairs two 1.5 oz baits, stepping to two 1 oz when 200 ft is
+hard to reach — not 3–4 oz; the 3–4 oz figures in that transcript describe
+single baits fished on 40 lb-class gear (including an out-of-region British
+Columbia lingcod/yelloweye-rockfish trip), not this double rig.
 
 A second, independently attributed build runs a different three-tier line
 breakdown, kept side by side rather than reconciled: **80 lb braid main line
