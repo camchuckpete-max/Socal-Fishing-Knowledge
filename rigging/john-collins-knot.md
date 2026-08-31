@@ -119,13 +119,20 @@ Knot](springer-knot.md) and [Tony Pena Knot](tony-pena-knot.md).
   corroborated `FN9-rgyC9ic`, `b-oixz7pgAo`, `QHY5kmU7OTU`).
 - **Result stated:** fast, strong, and reliable (`FN9-rgyC9ic`).
 - **Leader length scales with rod length (`eehDVb6_GoI`):** the mono/fluoro
-  top shot should run **at least 50 ft**, and shorter than the rod — a 7-8 ft
+  top shot should run **at least 50 ft** ⚠ Fact-check (single-source): this
+  figure sits immediately beside the "shorter than the rod" guidance below
+  and is not reconciled with it in the transcript — a 7-8 ft rod cannot take
+  both a ≥50 ft leader and a ~4 ft one; only this clip states the 50 ft
+  figure., and shorter than the rod — a 7-8 ft
   rod wants roughly a 4 ft leader, not an 8 ft one, because a leader as long
   as the rod pulls the connection knot through the guides and hampers
   casting. This clip ties the demonstration on a heavier-diameter cord for
   visibility, not the actual line class being tied. The same
   leader-length-to-rod-length rule is logged for kelp/rock calico bass in
-  [line & leader](../tackle/line-and-leader.md#connections-parameters--steps-are-in-the-rigging-notes).
+  [line & leader](../tackle/line-and-leader.md#connections-parameters--steps-are-in-the-rigging-notes)
+  ⚠ Fact-check (contradicted-internal): that note's kelp/boiling-rock rule
+  is "roughly the length of the rod, so the leader knot stays outside the
+  tip guide," the opposite of "shorter than the rod" stated here.
 - **Judgment, general to all knots tied on this rig, not specific to this
   one:** wet every knot heavily before seating so it cinches down tight; if a
   knot doesn't seat down tight, cut it and re-tie rather than fish it as-is —
