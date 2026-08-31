@@ -23,6 +23,10 @@ braided/cable-type wire is crimped instead (see [crimping](crimping.md)).
   heavy — wahoo, kingfish, and [barracuda](../species/barracuda.md). Wire is
   reached for only when heavy mono actually gets cut; mono stays preferred
   otherwise, for its lower visibility and easier handling (`lm7D9Tlc7Po`).
+  ⚠ Fact-check (cite-unresolved): `lm7D9Tlc7Po` states only that wire is used
+  when mono gets cut; it does not state a visibility/handling rationale for
+  preferring mono otherwise, and no other source cited in this note supplies
+  one.
 - Single-strand wire takes the haywire twist; braided/cable-type wire is
   crimped instead (`lm7D9Tlc7Po`).
 - Trolling small hoochies for sierra off Cabo San Lucas, single-strand wire
