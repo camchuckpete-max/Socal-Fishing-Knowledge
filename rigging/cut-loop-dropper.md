@@ -46,6 +46,8 @@ hitch](../techniques/dropper-loop.md#building-the-rig) or the intact
   doubled-overhand family as the [surgeon's
   knot](essential-knots.md#parameters--judgment) and, at heavy-tackle scale,
   the [giant-yellowtail surgeon's loop](surgeons-loop.md#parameters--judgment).
+  ⚠ Fact-check (single-source): the 3-to-4-turn count is numerically precise
+  and load-bearing for the whole build, resting on this one video.
 - **The cut is off-center, not down the middle.** Cutting the finished loop
   unevenly turns it into two legs of clearly unequal length, both anchored
   at the same surgeon's-loop knot — not a paternoster-style single stub (the
