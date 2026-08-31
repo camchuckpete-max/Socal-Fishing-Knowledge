@@ -49,7 +49,13 @@ coincidence, not a shared tie.
   PR knot is cited at 100% — called "the only 100% knot out there" — versus
   the FG knot at approximately 98%, referencing unnamed third-party
   destruction-test videos ("chill guys testing the knots"); no testing
-  source, sample size, or line class is given (`To2Dvx3Ifnc`).
+  source, sample size, or line class is given (`To2Dvx3Ifnc`). ⚠ Fact-check
+  (single-source): verified verbatim against `To2Dvx3Ifnc` ("the FG knot is
+  like 98%... the PR knot is 100% knot. It's the only 100% knot out there")
+  but the note's own evidence file treats this video and its three re-cuts
+  (`ZrcwcugaEe4`, `foLSQJ5oRWI`, `wk8bkqzdyM0`) as one source appearance, not
+  independent corroboration — no other cited source in this note gives a
+  strength figure for either knot.
 
 ## Tie it
 
