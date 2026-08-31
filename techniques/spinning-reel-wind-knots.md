@@ -86,7 +86,10 @@ impossible" to prevent on eight-carrier braid rated below 6-lb test, and the
 failure gets worse as an eight-carrier line gets lighter than that
 (`w5iryVkSe-0`). The stated fix is stepping down to a four-carrier braid
 instead — a 5-lb, .4 PE, four-carrier line (Major Craft Dangan) run on a
-500- or 1,000-size spinning reel (`w5iryVkSe-0`). ⚠ Flagged gap — no corpus
+500- or 1,000-size spinning reel (`w5iryVkSe-0`). ⚠ Fact-check
+(single-source): the 6-lb threshold and the Major Craft Dangan spec (5-lb,
+.4 PE, four-carrier, 500- or 1,000-size reel) rest on this one transcript
+only, with no independent corpus source. ⚠ Flagged gap — no corpus
 source: mechanism for why carrier count interacts with breaking strength to
 drive wind-knot frequency.
 
