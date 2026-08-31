@@ -43,7 +43,10 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
 
 - **Splice overlap:** bury about **18 in of each line into the other** — one line
   served into the second, and the second served back into the first, so the join
-  is doubled through the middle (`_w8KNSgGPVE`). Push the braids together to
+  is doubled through the middle (`_w8KNSgGPVE`). ⚠ Fact-check (single-source):
+  this bury length is the load-bearing figure for the splice to grip at all
+  (see Failure modes below) and rests on this note's only cited source for the
+  hollow-to-hollow technique, with no independent corroboration. Push the braids together to
   open the weave, then feed the needle straight; a kinked needle or a bent
   line makes it fight you.
 - **Splice finish:** none needed — pull excess through, trim it, and it hides
@@ -54,7 +57,16 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
   line taut to force a cut; a dedicated pair of braid cutters cuts it loose
   in one pass (`kHUQd9jqG-A`).
 - **Serving bury length:** serve the fluoro **a minimum of 3 ft, preferably 4 ft**
-  into the hollow braid (`yr6z3DmWY4s`). Size the hollow rigging needle to the
+  into the hollow braid (`yr6z3DmWY4s`). ⚠ Fact-check (single-source): this
+  bury length is the load-bearing figure for the finger-trap to grip (see
+  Failure modes below) and rests on this note's only cited source, with no
+  independent corroboration; note also that [wind-on leader](wind-on-leader.md#parameters)
+  states a shorter minimum (2 ft) and an alternate older-doctrine range
+  (5-6 ft) for burying fluoro into hollow core in that rig's different
+  application (a top shot passing through guides vs. this note's terminal
+  leader) — ⚠ Fact-check (contradicted-internal): flagged for Cameron to
+  confirm whether these are genuinely distinct bury requirements per
+  application or the same guidance stated two ways. Size the hollow rigging needle to the
   leader (e.g. a needle sized for 60 lb fluoro); seat the fluoro tip in the
   needle and tack it with a lighter so it feeds without slipping off.
 - **Serving thread & wrap:** after burying the leader, clamp the junction and
