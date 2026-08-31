@@ -42,7 +42,12 @@ costs a live bait its presentation but doesn't matter on a lure
 - [San Diego Jam Knot](san-diego-jam-knot.md#parameters) names the single as
   the live-bait alternative without constructing it (`5J7a6UwTA90`); tying
   mechanics for both the single-pass and doubled-through-the-eye versions
-  live there. This note holds only the selection rule and its reason.
+  live there. This note holds only the selection rule and its reason. ⚠
+  Fact-check (contradicted-by-source): the cited transcript only
+  backward-references "single jam knot" as a prior video's title and
+  explains why the doubled tie doesn't suit live bait — it never
+  affirmatively names the single as the live-bait alternative within this
+  transcript.
 
 <!-- backlinks:start -->
 ## Linked from
