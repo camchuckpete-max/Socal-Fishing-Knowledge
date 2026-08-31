@@ -43,7 +43,14 @@ the parent's stated doctrine.
   bottom-fishing drift — "the standard format on nine times out of 10
   rockfish boats" per this source — framed the same way ("if the wind is in
   your face, you're in the right place") because a leeward bottom rig trails
-  underneath the drifting boat.
+  underneath the drifting boat. ⚠ Fact-check (contradicted-by-source): in the
+  transcript, "nine times out of 10" (and, restated earlier, "a good 90% of
+  the time") describes how often these boats drift rather than anchor —
+  "nine times out of 10... going out on these Rockfish boats we are
+  typically drifting and not on anchor" — not the dropper-loop rig/format's
+  standing; the rig itself is separately called only "one of the most simple
+  and basic rigs... probably one of the most productive," with no figure
+  attached.
 - `eqRMpfcuM2s` ("Why the wind is actually your best friend while fishing for
   Rockfish," uploaded 2026-04-16, 71 s): a re-cut of the same `S9sQ8Vg8-5o`
   passage, word for word — not an independent sighting; `duplicate-of

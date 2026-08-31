@@ -36,7 +36,9 @@ deck once the bait is out.
   trails **underneath the boat** as it drifts downwind, wrapping everyone
   fishing correctly on the windward side; the shorthand there is the same rule:
   "if the wind is in your face, you're in the right place" (`S9sQ8Vg8-5o`,
-  `eqRMpfcuM2s`).
+  `eqRMpfcuM2s`). ⚠ Fact-check (contradicted-by-source): the cited source
+  attaches "nine times out of 10" to drifting vs. anchoring, not to the
+  dropper-loop rig/format being standard.
 
 ## The mechanism
 
