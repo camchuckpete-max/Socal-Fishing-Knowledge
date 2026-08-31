@@ -48,12 +48,17 @@ lure, and the historical Zuker Zucchini.
 **Williamson current-sniper/cold-sniper-class lure** (model name unconfirmed
 — ⚠ asr-uncertain: heard as "gan"/"goam," `9JnIS8HkZlA`)
 - Bait insert: takes a small bait insert — small dried sardines are named as
-  what "makes the fish" bite (`9JnIS8HkZlA`).
+  what "makes the fish" bite (`9JnIS8HkZlA`). ⚠ Fact-check
+  (contradicted-by-source): the transcript's "that is what makes the fish"
+  follows "that's why I like those Williamson Gan[e]," reading more naturally
+  as attributing the bite-getting to the lure itself, not specifically to the
+  sardine insert named a few seconds earlier.
 - Stock rigging vs. SoCal grade: this lure class ships worldwide across
   roughly 100 species from about 5–25 lb, and stock hooks are adequate for
   that grade but undersized for SoCal bluefin; step up one hook size and one
   wire gauge heavier (e.g., an Owner ST-66) for SoCal-grade fish
-  (`9JnIS8HkZlA`).
+  (`9JnIS8HkZlA`). ⚠ Fact-check (single-source): verified verbatim in the
+  cited transcript but corroborated nowhere else in the note's citations.
 - Hook style: trebles draw enough more bites than single or other hook
   styles in this class that more fish land over a day, despite losing a few
   more to hook pull (`9JnIS8HkZlA`).
@@ -61,7 +66,10 @@ lure, and the historical Zuker Zucchini.
   paired with it, bite-through risk sits on whatever line is nearest the
   hook — tie direct to 50 lb test, or run a short piece of 100 lb
   fluorocarbon ahead of the lure when a ~125 lb-class fish is possible
-  (`9JnIS8HkZlA`). Distinct from the crimped bite-leader system in
+  (`9JnIS8HkZlA`). ⚠ Fact-check (single-source): verified verbatim in the
+  cited transcript; `tackle/bluefin-rig-ladder-by-grade.md`'s Rig 4 section
+  repeats the same numbers but cites the same single transcript, not an
+  independent source. Distinct from the crimped bite-leader system in
   [bite leaders](../rigging/bite-leaders.md), which covers knife-jig
   terminal tackle, not a trolled lure.
 - Possible overlap with the Williamson Live Series soft bait above (both are
@@ -72,7 +80,8 @@ lure, and the historical Zuker Zucchini.
 **Zuker Zucchini** (molded plastic trolling-feather head, John Zuker)
 - Trolled for tuna on 80 lb test; unchanged in the SoCal offshore fishery
   for over 40 years as of the 2020 source date (predates ~1980)
-  (`SCQnyVEQfHY`).
+  (`SCQnyVEQfHY`). ⚠ Fact-check (single-source): verified verbatim in the
+  cited transcript but corroborated nowhere else in the note's citations.
 - A second colorway — black/purple with a gold head — was marketed alongside
   it as "the new latest and greatest trolling thing for albacore and
   yellowfin tuna" when the two came out; not confirmed as a second Zucchini
@@ -83,7 +92,10 @@ lure, and the historical Zuker Zucchini.
 A Dana-Point-origin tungsten-headed finesse trolling lure for
 porpoise-associated yellowfin is logged in the
 [evidence file](evidence/tuna-feathers-and-skirts.md) — single source, not
-corroborated.
+corroborated. ⚠ Fact-check (single-source): the tungsten 1/2 oz head swap,
+the 60/80 lb leader at 7–9 mph, and the 60–70 lb yellowfin result there are
+each verified verbatim against the cited transcript but rest on that one
+source only.
 
 ## How to run it
 
@@ -103,7 +115,9 @@ to the leader (any confident knot — improved clinch, San Diego, or uni), then
 pass the hook point through the round end of that swivel and lock it with a
 small zip tie so the hook swings free and self-clears fouls. **60–80 lb
 leader** is preferred over the old 40 lb, which chafes and breaks off
-unnoticed (`CWVPLM6NheY`). Slide the head down onto the swivel and set the
+unnoticed (`CWVPLM6NheY`). ⚠ Fact-check (single-source): verified verbatim
+in the cited transcript but corroborated nowhere else in the note's
+citations. Slide the head down onto the swivel and set the
 **bend of the hook roughly even with the end of the skirt** so the skirt
 doesn't foul the point. Finish the other end of the leader with the same
 knot.

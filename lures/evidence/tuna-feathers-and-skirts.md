@@ -37,7 +37,8 @@ Skirts](../tuna-feathers-and-skirts.md).
   small-profile trolled-feather approach was also volunteered on camera as a
   standard Hawaii method for skipjack (out-of-region contrast, not SoCal
   doctrine). Unregistered channel/speaker, single mention, medium
-  confidence; region: socal-bight.
+  confidence; region: socal-bight. Backs the `⚠ Fact-check (single-source)`
+  flag in the parent.
 - `SCQnyVEQfHY` (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of
   Time)," 2020-05-21): framed the Zuker Zucchini on camera as one of three
   items in the SoCal offshore fishery that "passed the test of time," still
