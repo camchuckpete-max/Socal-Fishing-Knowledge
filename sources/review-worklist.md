@@ -79,7 +79,7 @@ by their builders after the transform phase drains.
 | techniques/tube-bait-fishing.md | standard | fact-checked | single-source(2), contradicted-by-source(2) | 37/37 verified across 3 sources; 4 flags added (2 contradicted-by-source, 2 single-source) |
 | techniques/two-speed-low-gear-fight.md | standard | fact-checked | contradicted-by-source(1) | 27/27 quote+stat claims verified; 1 flag added (contradicted-by-source: captain's personal preference-shift was generalized to 'standard practice') |
 | techniques/underhand-casting.md | standard | fact-checked | contradicted-by-source(2) | 5/5 claims checked; 2 contradicted-by-source flags added (pull-slack mechanism and skip-consequence not stated in source) |
-| techniques/wacky-rig.md | standard | transformed | gaps(1) | v2 migration faithful: evidence split, gap flag, and infobox fields all conserve prior content; no drift found |
+| techniques/wacky-rig.md | standard | fact-checked | none | standard-tier fact-check: no quote/statistic claims required flags; single-sourced note faithfully paraphrased, no changes needed |
 | techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
 | techniques/wahoo-trolling.md | standard | transformed | spots(2) | transform verified faithful - observation split to evidence file, v2 front matter/gear_classes added, gear-class-detail anchor preserved |
 | techniques/wind-in-your-face-positioning.md | standard | transformed | none | transform verified - plain-statement rewrite conserves all before-facts via evidence-file split; no meaning drift |
