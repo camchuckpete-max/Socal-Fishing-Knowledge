@@ -6,7 +6,7 @@ confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 layout: v2
-line_class: 200 lb spectra (demo, chosen for camera visibility); also usable on 20 lb line
+line_class: 200 lb spectra (demo); also usable on 20 lb line
 hook_sizes: 4/0 J hook (demo)
 ---
 
@@ -35,7 +35,7 @@ mechanically distinct loop-forming knot with its own name.
 - **Same knot, a different job elsewhere in this KB:** also used rope-to-rope
   as the loop-to-loop connection joining a hoop net's main rope to its spare
   "rope shot" extension section — see [hoop
-  netting](../techniques/hoop-netting.md#rope-length-match-it-dont-over-carry-it-qs9oesh3b_w).
+  netting](../techniques/hoop-netting.md#rope-length--match-it-dont-over-carry-it).
   That use ties rope, not a hook, but is the same named knot.
 
 ## Parameters
