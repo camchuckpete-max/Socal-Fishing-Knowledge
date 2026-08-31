@@ -33,6 +33,13 @@ covered here: the full-size **Madmacs 200** and the smaller, also-castable
   Winnicki / BD, `z1CmWHqe9uk`). The bands conflict above 14 kt, where the
   researched max caps out. Which job applies is decided in
   [bluefin trolling](../species/bluefin-tuna-trolling.md).
+  ⚠ Fact-check (contradicted-by-source): the source names the Mad Mac only by
+  a fish-grade range, "30 lb all the way to 250," and attaches 13–15 kt to two
+  other lures instead — the Rapala Sarda ("make a track on that 13 to 15 knot
+  range") and the X-Rap Magnum Extreme ("probably 13 to 15 knots")
+  (`z1CmWHqe9uk`); same misattribution already ledgered against
+  [bluefin trolling](../species/bluefin-tuna-trolling.md) and
+  [speed trolling](../techniques/speed-trolling.md).
 - **Running depth:** 8–15 ft slow, 4 ft fast (cameron).
 - **Setback:** 100–150 yd for bluefin (cameron). One instance ran a boat-shy
   school much farther back — roughly a 300 yd release — to give the school
@@ -57,9 +64,15 @@ covered here: the full-size **Madmacs 200** and the smaller, also-castable
 ## How to run it
 
 The Madmacs 200 speed-trolls at **13–15 kt** to cover water and locate fish
-(`z1CmWHqe9uk`), and scales up to cow-grade bluefin. Keep the bite-leader
-connection low-profile — crimped 100 lb, no big swivel — so the lure keeps its
-action. Because of the tow load it rides a heavy rod in a **low gunnel
+(`z1CmWHqe9uk`), and scales up to cow-grade bluefin.
+⚠ Fact-check (contradicted-by-source): the cited source gives the Mad Mac no
+speed at all (only a fish-grade range) and attaches 13–15 kt to the Rapala
+Sarda and X-Rap Magnum Extreme instead (`z1CmWHqe9uk`); see the Specs section
+above and the ledger.
+
+Keep the bite-leader connection low-profile — crimped 100 lb, no big swivel —
+so the lure keeps its action. Because of the tow load it rides a heavy rod in
+a **low gunnel
 holder**: every ~3 ft of tip elevation costs ~1 ft of running depth (cameron).
 The 130 fishes lighter line for a livelier swim and can also be thrown at
 foamers. General towing mechanics (spread geometry, setback, holder elevation)
