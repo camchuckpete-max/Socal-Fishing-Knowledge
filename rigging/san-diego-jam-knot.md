@@ -34,7 +34,10 @@ tracked in that note, not this one.
 - **Double (doubled-through-the-eye):** built for heavy line on artificial
   lures — roughly three times the bulk of the single-pass tie on the same
   hook. Avoid it for live bait; the extra bulk works against presentation
-  (`5J7a6UwTA90`).
+  (`5J7a6UwTA90`). ⚠ Fact-check (contradicted-by-source): the cited
+  transcript only describes the knot as visibly "big" ("you can see how big
+  that knot is") and never quantifies a "roughly three times the bulk"
+  comparison.
 - **Single (single-pass):** the live-bait-hook default — avoids the bulk and
   drag of the doubled tie. Full selection rule in [San Diego Jam — Single
   vs. Double](san-diego-jam-single-vs-double.md).
@@ -49,7 +52,14 @@ tracked in that note, not this one.
   `VyFpIk-Na9Q`, `5J7a6UwTA90`). One demo narrates sliding the coils "up with
   the main line" rather than down to the eye — the opposite direction word
   from every other source, recorded unresolved rather than silently
-  corrected (asr-uncertain, `VyFpIk-Na9Q`).
+  corrected (asr-uncertain, `VyFpIk-Na9Q`). ⚠ Fact-check
+  (contradicted-by-source): the cited transcripts disagree on tag length —
+  `1BH7nQdIg5Q` says "about 15 inches," `5J7a6UwTA90` says "10 inches, 12
+  inches" — and `1BH7nQdIg5Q` describes a single pass through the eye ("put
+  your line through the eyelet of the hook," no fold/double-up language, no
+  lubrication step), reading like the single-pass tie rather than the
+  doubled one described here; this also affects its citation below for "6
+  wraps... for both the doubled tie."
 - **Single-pass mechanic:** one pass through the hook or lure eye (not
   doubled), wrap the tag down the standing line, pass it through the lower
   loop nearest the eye and then the upper (finger) loop, wet, and cinch
@@ -60,7 +70,10 @@ tracked in that note, not this one.
 - **Wrap count — kept side by side; angler preference within a 3–7 range, not
   one correct number:**
   - **6 wraps** is the most repeated figure, for both the doubled tie
-    (`1BH7nQdIg5Q`, `Qa6Q8mOAV6I`) and the single-pass tie (`6E39_PBt1P4`).
+    (`1BH7nQdIg5Q`, `Qa6Q8mOAV6I`) and the single-pass tie (`6E39_PBt1P4`). ⚠
+    Fact-check (contradicted-by-source): `1BH7nQdIg5Q` demonstrates the
+    single-pass tie, not the doubled tie — see the doubled-through-the-eye
+    mechanic flag above.
   - **5 wraps:** doubled, at 100 lb test, for bigger tuna (`VyFpIk-Na9Q`);
     single-pass (`VpW91AKOFVQ`, `AGaVlYu61O4`) — fewer wraps lower the odds
     of a wrap crossing over itself when tying quickly under time pressure
@@ -102,7 +115,10 @@ tracked in that note, not this one.
   knot" (`5J7a6UwTA90`); the single-pass tie is independently named "San
   Diego jam knot" by two sources (`AGaVlYu61O4`, `YeV--HarEYQ`), alongside
   the usage tracked in [Improved Clinch
-  Knot](improved-clinch-knot.md#when-to-use).
+  Knot](improved-clinch-knot.md#when-to-use). ⚠ Fact-check
+  (contradicted-by-source): in `YeV--HarEYQ` the presenter only says "San
+  Diego" on camera ("so this is the san diego," "it's a san diego") — "jam
+  knot" appears in the video's title/metadata, not in the spoken transcript.
 - **Weak-link variant (sinker connection):** tying a sinker onto a [rockfish
   dropper rig](../techniques/rockfish-deep-dropping.md), the same knot is
   tied deliberately weaker than the hook-knot version — 3 turns instead of
