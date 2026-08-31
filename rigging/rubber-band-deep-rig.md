@@ -101,14 +101,25 @@ tag.
   fish, most commonly 40–80 lb: 40 lb on Carson's demo — ASR mis-rendered
   the spoken figure as "4T"; resolved to 40 lb by audio review (cameron) —
   60–80 lb on an earlier instance of the same build (`asr-uncertain`)
-  (`KYE14piJAzI`), 4.5–5 ft of fluorocarbon on another dated instance
+  (`KYE14piJAzI`) ⚠ Fact-check (contradicted-by-source): the "Carson's demo /
+  4T" material is spoken by Steve Carson in `5CvFDpvlfSE` ("fluorocarbon
+  leader I like to use about 4T"), not in `KYE14piJAzI`, which never mentions
+  Carson and whose only relevant line is a heavily garbled "start out with
+  something a little heavier than a violent age sixty or eighty pound is
+  fifty" — too unclear to independently support either the 40 lb or the
+  60–80 lb figure, 4.5–5 ft of fluorocarbon on another dated instance
   (`nWq2DVzBNeI`), 80 lb specifically when built for a metered-but-not-foaming
   school (`42A8Owhc8fw`), 20–60 lb with 60 lb as demonstrated (`LPhnsEamRwI`),
   and leader matched 1:1 to the outfit class — 50 lb fluoro on a 50 lb outfit
   or 60 lb fluoro on a 60 lb outfit (`RfiC8sfIWTk`, `149px8WQ2Ng`,
-  `pB10vaDaETM`), the latter for an 8 oz torpedo sinker specifically. For the
-  heaviest grade, 80 or 100 lb fluoro on an 80 lb mono main line, run 3–4 ft
-  long (`eehDVb6_GoI`).
+  `pB10vaDaETM`), the latter for an 8 oz torpedo sinker specifically ⚠
+  Fact-check (contradicted-by-source): only `pB10vaDaETM` ("you have your 60
+  pound outfit with 60 pound fluorocarbon or 50 pound [outfit] would fit with
+  50 pound fluorocarbon") states the 1:1 outfit-to-leader match; `RfiC8sfIWTk`
+  and `149px8WQ2Ng` give leader poundage ranges (80–200 lb leader for a
+  knife-jig rig; 50–80 lb leader for sinker rigs) without stating the 1:1
+  matching rule. For the heaviest grade, 80 or 100 lb fluoro on an 80 lb mono
+  main line, run 3–4 ft long (`eehDVb6_GoI`).
 - Mainline-to-leader connection: a [surgeon's knot passed three times](essential-knots.md#parameters)
   (`nWq2DVzBNeI`).
 - Loop knot in the leader (dropper-loop style, surgeon's-knot-style): 4
@@ -170,7 +181,10 @@ tag.
   it as the sinker-rig rod (`RfiC8sfIWTk`).
 - Line: 50 lb minimum. Some 80 lb-class bites went unconnected one season,
   while every landed fish that season came on 50 lb (`jQW2HLkMsmY`).
-- Fish range on the rig: 40–150 lb (`jQW2HLkMsmY`).
+- Fish range on the rig: 40–150 lb (`jQW2HLkMsmY`) ⚠ Fact-check
+  (single-source): verified verbatim against the transcript, but this
+  numerically precise range rests on this one cited source only, with no
+  independent corroboration elsewhere in the note.
 - One full pairing: a Daiwa Saltist 50 lever-drag reel on a 7'8" Phoenix Axis
   rod rated 40–100 lb — heavy and not too long, for the extra leverage a
   bigger fish (up to the 150 lb top of the range) demands (`jQW2HLkMsmY`).
@@ -253,7 +267,10 @@ names — treat that as coincidental naming, not the same method.
   spooled out on a school of 150–200 lb bluefin marked 500–600 ft down —
   boats scoped out with no line left before reaching the fish and lost
   hookups to being out of line. This build sinks faster and reaches deep
-  marks before running out of line (`G1YIlakiRqg`).
+  marks before running out of line (`G1YIlakiRqg`) ⚠ Fact-check
+  (single-source): verified verbatim against the transcript, but this
+  numerically precise founding scenario for the whole ring-and-tag-line
+  build rests on this one cited source only.
 - Build: a circle hook ties directly to a ring; a separate, lighter line
   ties to the bottom of that ring and carries the sinker below the hook, so
   the hook rides straight up. No rubber band or extra hardware — it sinks as
