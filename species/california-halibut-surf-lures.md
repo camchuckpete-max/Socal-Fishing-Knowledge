@@ -261,4 +261,5 @@ halibut source provenance:
 - [Evidence — California Halibut — surf lures](evidence/california-halibut-surf-lures.md)
 - [Evidence — Inshore Crankbaits](../techniques/evidence/inshore-crankbaits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 <!-- backlinks:end -->

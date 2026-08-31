@@ -80,7 +80,12 @@ unconfirmed theory, not an established mechanism (`XfpUV_z5gFI`).
 ## How to fish it
 
 Cast and retrieve, keeping the bait working the 1–4 ft band rather than
-letting it dig into the bottom (`E4CDqBFOaP8`). Retrieve cadence and
+letting it dig into the bottom (`E4CDqBFOaP8`). ⚠ Fact-check
+(contradicted-by-source): the cited transcript's "one to four feet of water"
+line describes where the halibut are holding, not a lure retrieve/working
+depth ("a lot of my halibit... they're going to be in one to four feet of
+water"); the transcript's own lure-depth figure is 3, 4, or 5 ft. Retrieve
+cadence and
 hook/split-ring upgrade mechanics generalize to
 [inshore crankbaits](../techniques/inshore-crankbaits.md), which also scopes
 California halibut as an application.
@@ -91,6 +96,10 @@ California halibut as an application.
   digs into the sand instead of drawing a strike: this class is the default
   pick — full situational comparison in
   [California halibut](../species/california-halibut.md#situations--techniques).
+  ⚠ Fact-check (contradicted-internal): [California halibut](../species/california-halibut.md)
+  and [California Halibut — surf lures](../species/california-halibut-surf-lures.md)
+  both cite the same source (`E4CDqBFOaP8`) for this band and state **1–4 ft**,
+  not 1–5 ft.
 - Past roughly 10 ft, the same table routes to a leadhead-and-swimbait
   switch instead.
 
