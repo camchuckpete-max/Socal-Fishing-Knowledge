@@ -48,7 +48,11 @@ hard overhand swing can tear a bait off a soft hook point (`SAltQjih0ms`).
 A lighter bait — an anchovy on a small rubber-core sinker, in the source's
 example — often isn't heavy enough to pull line smoothly off the reel by
 itself. Pull a bit of line off the spool by hand before the toss to make the
-cast easier (`0hQJxESLTm4`).
+cast easier (`0hQJxESLTm4`). ⚠ Fact-check (contradicted-by-source): the
+source frames this as an optional, occasional tip — "sometimes... you might
+see some people pulling a little bit of line out just to make it easier" —
+not a stated mechanism that the bait "isn't heavy enough to pull line
+smoothly off the reel by itself."
 
 The same pull-slack motion works more generally, independent of bait weight:
 rest one finger on the spool, use the pointer finger to pull some line off by
@@ -128,7 +132,10 @@ toss (`0hQJxESLTm4`, `Ixyi1mY3Qeg`).
   (`SAltQjih0ms`).
 - **Skipping the pull-slack step on a light bait** — the bait alone often
   isn't heavy enough to pull line smoothly off the reel, and the cast comes
-  up short or hangs up (`0hQJxESLTm4`).
+  up short or hangs up (`0hQJxESLTm4`). ⚠ Fact-check (contradicted-by-source):
+  the source never states this consequence — it frames pulling slack as an
+  optional tip some anglers use, not a required step whose omission causes a
+  short or hung-up cast.
 
 <!-- species-applications:start -->
 ## Species applications

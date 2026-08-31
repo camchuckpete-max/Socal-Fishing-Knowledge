@@ -78,7 +78,7 @@ by their builders after the transform phase drains.
 | techniques/trolling.md | standard | escalated |  | escalated: guard: out of scope for 'review: techniques/trolling.md': bait/making-bait.md |
 | techniques/tube-bait-fishing.md | standard | fact-checked | single-source(2), contradicted-by-source(2) | 37/37 verified across 3 sources; 4 flags added (2 contradicted-by-source, 2 single-source) |
 | techniques/two-speed-low-gear-fight.md | standard | fact-checked | contradicted-by-source(1) | 27/27 quote+stat claims verified; 1 flag added (contradicted-by-source: captain's personal preference-shift was generalized to 'standard practice') |
-| techniques/underhand-casting.md | standard | transformed | none | layout v2 migration, plain-statement rewrite, evidence split - no information loss, all 5 sources spot-checked and faithful |
+| techniques/underhand-casting.md | standard | fact-checked | contradicted-by-source(2) | 5/5 claims checked; 2 contradicted-by-source flags added (pull-slack mechanism and skip-consequence not stated in source) |
 | techniques/wacky-rig.md | standard | transformed | gaps(1) | v2 migration faithful: evidence split, gap flag, and infobox fields all conserve prior content; no drift found |
 | techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
 | techniques/wahoo-trolling.md | standard | transformed | spots(2) | transform verified faithful - observation split to evidence file, v2 front matter/gear_classes added, gear-class-detail anchor preserved |
