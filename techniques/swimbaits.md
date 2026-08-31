@@ -148,6 +148,11 @@ not — is not reconciled between the two notes.
   free. Length is a distance-vs-leverage trade-off: **8 to 8½ ft** casts
   farther into structure but tires an angler fished all day, while a **7 ft**
   rod gives more leverage pulling fish out of rock/kelp (`IATPg9110CE`).
+- ⚠ Fact-check (contradicted-by-source): only the 8-to-8½-ft-vs-7-ft
+  distance/leverage trade-off is in the cited source. The
+  "graphite-composite blank with a soft glass tip," the 9-footer for bomb
+  casts at San Clemente Island, and the soft-tip/stiff-XH-rod hookset
+  mechanism do not appear anywhere in this transcript (`IATPg9110CE`).
 
 ## Depth and where you throw it
 
@@ -161,6 +166,12 @@ not — is not reconciled between the two notes.
   to meet it. For California halibut, a distinct count-and-pause retrieve on
   the same lead-head/swimbait combination is documented separately in
   [leadhead swimbait retrieve](leadhead-swimbait-retrieve.md) (`OURS05qEGcA`).
+- ⚠ Fact-check (unverifiable): the 70-to-80-ft calico depth figure carries no
+  source of its own in this bullet. The only cite here (`OURS05qEGcA`)
+  supports the halibut count-and-pause retrieve in the following sentence —
+  that transcript is entirely about halibut (a 3-in swimbait, three-turns-
+  and-pause), with no calico or depth-in-feet content — leaving the calico
+  depth stat's source unresolved.
 - **Pitch-and-sink at the kelp base:** pitch a **1 oz black/gold jig** (a
   leadhead the source calls a "hook up bait," brand not confirmed) right at
   the base of the kelp line and **let it sink straight to the bottom**; the
@@ -181,6 +192,10 @@ year-round, including in cold water (`RUuPNpK0x-s`).
   action), a different retrieve style from the skitter-and-1-2-3-pause
   presentation above. Getting the cadence right is a learned skill, not a
   fixed count (`RUuPNpK0x-s`).
+- ⚠ Fact-check (contradicted-by-source): the quoted "reverse Sammy" wording
+  does not appear in the source — it says "a big reverse [sarah/reverend
+  sarah] spook" and "reverse air spook," an ASR rendering that reads as "Zara
+  Spook," not "Sammy" (`RUuPNpK0x-s`).
 - **Why it works:** the erratic side-to-side action creates the illusion of a
   wounded baitfish thrown up against the kelp canopy and struggling to get
   away — the same visual trigger as a live sardine getting mobbed and thrown
@@ -207,6 +222,11 @@ Line: **50 lb** (down from 65 lb, after finding 50 lb still casts well and
 doesn't hang up as easily), fishing a weedless bait based on a "warhead" head
 with the wire weed guard removed by hand — the eye geometry still runs clean
 without it (`ZoIzpyyS9xw`).
+
+⚠ Fact-check (contradicted-by-source): the source's hang-up complaint is
+attached to a rejected 15 lb spool ("I get it hung up and you can't
+operate"), not to a direct 65-vs-50 lb comparison; only "casts great" is
+stated for 50 lb, contrasted against the 15 lb line (`ZoIzpyyS9xw`).
 
 ## Beach bounce in ripping current — the "stupid tube"
 
@@ -242,6 +262,12 @@ back into the kelp. This applies broadly to calico on any gear, not just this
 jig presentation — the same grind-don't-pump doctrine as
 [chunking](chunking.md) (`KTsXdQXAnkU`).
 
+⚠ Fact-check (contradicted-by-source): the cited source states the
+never-pump/set-and-grind doctrine and its outcome ("that keeps them from
+getting in the kelp") but does not state the slack-on-every-drop mechanism
+attached to it here — the mechanism is this note's own addition, not
+transcript content (`KTsXdQXAnkU`).
+
 ⚠ Fact-check (unverifiable): kelp sliding all the way down a weedless hook's
 shank can pop the hook free of the fish's mouth boatside. A described counter
 — slack the line and drop the tip fully so the fish's head falls back
@@ -271,6 +297,13 @@ whether it actually saved the fish it was tried on (`L3tkGVu516A`).
   outside edge, and if nothing comes *"they're probably not going to be
   anywhere in the bed"* — five fruitless casts on the prime stuff is enough to
   leave, well inside the 10–12-cast budget above (`YIABTTYXeqc`).
+- ⚠ Fact-check (contradicted-by-source): this bullet chains two separate
+  moments in the source into one procedure. The leading/outside-edge
+  identification is one bed (Matt gets bit on the outside edge); the
+  five-casts-then-move quote comes from a later, different stretch fished
+  tighter to shore after a cormorant sighting turned out to be a false flag —
+  the source never ties the "probably not going to be anywhere in the bed"
+  line to grading a bed's leading/prime edge specifically (`YIABTTYXeqc`).
 - **Beds re-bite, so come back.** Once you have fished through the biting
   stringers, go work somewhere else for a few minutes and run the same stretch
   again — a bed will often bite several times in a session, including re-running
@@ -376,7 +409,13 @@ leaving a hooked fish in the water longer to draw followers; full account in
 
 **Umbrella rig / A-rig — bay bass:** a further step up from the two-bait rig
 above — a wire "spider" harness carrying five small swim jigs at once — is now
-its own page. The Mission Bay build and program for [spotted bay
+its own page.
+
+⚠ Fact-check (contradicted-by-source): "spider" is not the source's word —
+both cited transcripts describe a wire "band" bent into a "parabolic" shape,
+never "spider" (`G6YRT4HNxr8`, `6-mi3Qxn37c`).
+
+The Mission Bay build and program for [spotted bay
 bass](../species/spotted-bay-bass.md): the parabolic outward arm bend, the
 five-hook saltwater count against a personal three-hook freshwater cap, the
 Palomar tied over the whole rig, the 1/4 oz keel head on the bottom arm, the
