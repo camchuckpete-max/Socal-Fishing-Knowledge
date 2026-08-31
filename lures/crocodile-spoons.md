@@ -52,7 +52,9 @@ bait alongside 3–6 oz yo-yo jigs and surface irons (`M8hOYQ_6rSg`) — a
 separate, lower-detail data point that gives no swim type, weight, or model
 for this use; the source's specific product/model picks rate low confidence
 per its registry caveat (mechanism and parameters from this source rate
-normally).
+normally). ⚠ Fact-check (contradicted-by-source): the transcript gives the
+yo-yo-jig range as "3 oz up to 5-6 oz," not a clean 3–6 oz span
+(`M8hOYQ_6rSg`).
 
 ## When to choose it
 
