@@ -35,6 +35,12 @@ happens at the reel and drag, not the rail-bracing itself (`9JnIS8HkZlA`).
   class is now standard practice (`G1YIlakiRqg`; full rig in
   [bluefin rig ladder by grade — daytime, 25 lb
   setup](../tackle/bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips)).
+  ⚠ Fact-check (contradicted-by-source): the cited transcript frames this as
+  the captain's own recent change of mind ("previous years I was not a
+  two-speed guy I thought you don't need two speed if you're fishing 25 lb"
+  → "I do like a two-speed reel when we're fishing even this lighter line
+  now"), not a claim that two-speed at 25 lb is now standard practice
+  fleet-wide.
 - Offshore tuna hooked on 40 or 50 lb test tend to stay down and circle once
   hooked; the two-speed is what starts "bunching them up" — moving the fish
   from a flat, stalled circle into a tightening, corkscrewing climb that
