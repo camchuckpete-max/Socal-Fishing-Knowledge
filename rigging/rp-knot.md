@@ -49,12 +49,21 @@ tying demonstration) outgrew the shared note's parameters section.
   braid up through it, wrap the braid **6 times up and 6 times back down**,
   and exit the loop the same way you entered. Lubricate, draw slow, then a
   quick snap to seat. Commonly tied to ~80 lb by the book, but it holds well
-  beyond — tied clean to 100 lb and even ~130 lb. Wrap count is personal
+  beyond — tied clean to 100 lb and even ~130 lb. ⚠ Fact-check
+  (contradicted-by-source): `YGLFn8lPMu0` demonstrates only an 80 lb-to-80 lb
+  tie and separately references a 65 lb braid-to-80 lb fluoro connection that
+  landed an estimated 100+ lb bluefin; the transcript never states the knot
+  itself ties clean to 100 lb or ~130 lb line. Wrap count is personal
   preference — some tie 8 or 10 wraps instead of 6 (`YGLFn8lPMu0`).
 - **Wrap count scales with the line-diameter ratio, not a fixed number: the
   lighter the line, the more wraps; the heavier the line, the fewer wraps.**
   This rule updates earlier fixed-wrap-count guidance from the same source;
-  treat it as the current figure (`p1KyyR0i7Kc`). Five sourced data points:
+  treat it as the current figure (`p1KyyR0i7Kc`). ⚠ Fact-check
+  (single-source): the ratio rule and all five data points below rest on this
+  one video; no other cited source in this note gives a wrap-count-by-line-
+  diameter table (the flat 6-up/6-down base count is independently
+  corroborated elsewhere in this note, but the scaling table itself is not).
+  Five sourced data points:
   - 65 lb braid (4-carrier) to 25 lb monofilament topshot → **7 wraps** each
     direction (demonstrated on camera).
   - 100 lb braid to 80 lb topshot → **5 wraps** — stated as the floor
