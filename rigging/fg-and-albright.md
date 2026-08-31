@@ -44,23 +44,35 @@ system: braid main line, fluoro or mono leader.
 
 - **FG wrap count:** about **20** over-and-under wraps of braid up the leader,
   keeping the braid under tension the whole time (anchor it — rod, teeth, or a
-  hitchpin). Lock with a half hitch on the braid alone so the knot can't slip
-  while you finish, then two half hitches around both lines and cinch. The braid
-  changes color as it constricts onto the leader — that color shift is the tell
-  that it seated. Finish with a four-wrap half hitch that you then *unwrap* to
-  give the knot a cone taper, and trim the leader tag very close. Demoed on
-  50 lb braid to 80 lb leader; the knot scales to other classes (`CIMTyepgonk`).
+  hitchpin). ⚠ Fact-check (single-source): this wrap count is the load-bearing
+  step for tying the FG knot at all, demonstrated on camera in the note's only
+  cited source with no independent corroboration. Lock with a half hitch on the
+  braid alone so the knot can't slip while you finish, then two half hitches
+  around both lines and cinch. The braid changes color as it constricts onto
+  the leader — that color shift is the tell that it seated. Finish with a
+  four-wrap half hitch that you then *unwrap* to give the knot a cone taper,
+  and trim the leader tag very close. Demoed on 50 lb braid to 80 lb leader;
+  the knot scales to other classes (`CIMTyepgonk`). ⚠ Fact-check
+  (contradicted-by-source): the transcript hedges the weight itself ("I think
+  this is 50 pound... 80 pound Gold Label") and never states or implies the
+  knot scales to other line classes — that generalization is not in the
+  source, only the one demoed weight class.
 - **FG judgment:** it is the fussier of the two knots to tie under tension —
   tie it during prep the night before or dockside, not in a frenzy with fish
   boiling (`CIMTyepgonk`).
 - **Albright wrap count (base method):** form a loop in the leader ("shelf"),
   pass the braid up through and wrap it back **10 times** around the doubled
   leader, then feed the braid tag back out the same end it entered
-  (top-down when you came bottom-up). Keep the leader loop untwisted or it
+  (top-down when you came bottom-up). ⚠ Fact-check (single-source): this wrap
+  count is the load-bearing step for tying the base Albright at all,
+  demonstrated on camera in the note's only cited source with no independent
+  corroboration. Keep the leader loop untwisted or it
   won't lock. Snug the leader first, then work the braid tight so the final
   wrap seats into the knot (`NXtvXkqpT9w`).
 - **Albright range:** tied from roughly **8 lb to 8 lb** up to **80 lb to
-  100 lb** — a very wide span. Trim the tags flat but not flush; leave a little
+  100 lb** — a very wide span. ⚠ Fact-check (single-source): this pound-test
+  span is stated in the note's only cited source for it, with no independent
+  corroboration. Trim the tags flat but not flush; leave a little
   on each side so they can't pull back through (`NXtvXkqpT9w`).
 - **Albright wrap pattern varies by presenter.** Treat wrap count and pass
   direction as a preference choice within the ranges below — the shared

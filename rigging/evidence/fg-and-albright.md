@@ -37,7 +37,12 @@ Per-source provenance backing [FG Knot & Albright Knot](../fg-and-albright.md).
 - `shZCjX2-fkI` (Captain Armando, SearcherSportfishing, "Tackle Talk Live:
   Bluefin Tuna," 2021-01-14; `searcher-sportfishing` registered channel,
   single mention — medium confidence): calls the 6-7-down/6-7-back-up
-  pattern on camera "the easiest knot to tie." Also confirms the crew ties
+  pattern on camera "the easiest knot to tie." ⚠ Fact-check (unverifiable):
+  the transcript is an unlabeled multi-speaker stream (host, Captain Armando,
+  and Captain Mike Todder all appear on this panel) with no per-line speaker
+  diarization; the quote itself is present verbatim, but the transcript alone
+  cannot confirm Captain Armando specifically is the speaker rather than
+  another panelist. Also confirms the crew ties
   the identical Albright straight onto hollow spectra on this boat's kite
   outfits, rather than needle-splicing the hollow line.
 
