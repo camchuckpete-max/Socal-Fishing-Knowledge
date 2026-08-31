@@ -29,7 +29,10 @@ rotation.
 | HM25 | 25 ft | ~33 yd | to 12 kt, best 6–8 kt | 40–50 lb |
 
 The model number is the running depth at the ~33 yd setback the rating
-assumes.
+assumes. ⚠ Fact-check (unverifiable): neither the ~33 yd setback nor the
+"best 6–8 kt" troll-speed band appears in the cited source (`T_XpItMhbjM`),
+which states only "up to 12 knots" and the two running depths (15 ft / 25
+ft); no other source cited in this note gives either figure.
 
 A standard (non-Magnum) Rapala X-Rap tops out around 5–6 kt; the Husky
 Magnum holds its action to 12 kt, letting the boat troll roughly twice as
@@ -41,8 +44,11 @@ washes out at that speed (`T_XpItMhbjM`). Colors carried as of 2016: a
 
 The X-Rap Magnum 30 is a separate, larger model from the same family, run
 alongside the Husky Magnum in the same offshore trolling rotation
-(`FXWOIB0TPfE`). Its jointed-vs-one-piece profile isn't shown on camera, so
-no construction detail is asserted here (`FXWOIB0TPfE`). Captions render a
+(`FXWOIB0TPfE`). ⚠ Fact-check (contradicted-by-source): in that segment the
+cited transcript pairs the X-Rap Magnum 30 with a Halco plug (the Max 130)
+and a cedar plug — it does not mention the Husky Magnum at all. Its
+jointed-vs-one-piece profile isn't shown on camera, so no construction
+detail is asserted here (`FXWOIB0TPfE`). Captions render a
 size figure for this model as "9-millimeter" — almost certainly a garbled
 inches measurement, so it is not carried here as a confirmed number
 (`FXWOIB0TPfE`).
