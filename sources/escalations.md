@@ -444,3 +444,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-31T15:55:48Z — lures/cedar-plug.md — verify-escalate
 - run: 33408338188
 - reason: worker self-committed and pushed (1e6236ed) instead of leaving a working-tree diff for verification; content verified sound post-hoc but bypassed the normal wrapper flow
+
+## 2026-08-31T17:05:50Z — rigging/assist-hooks.md — subagent-failure
+- run: 33413911221
+- reason: factcheck worker never produced a LOG line, ended its turn mid-task waiting on a nested subagent notification
