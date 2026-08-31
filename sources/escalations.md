@@ -440,3 +440,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-30T16:07:21Z — techniques/drop-shot.md — worker-escalate
 - run: 33319347373
 - reason: worker self-committed and pushed 62ea26fb directly instead of leaving the patch in the working tree, bypassing the orchestrator's independent verifier step entirely; post-hoc verification confirms the content (new contradicted-by-source flag, miscited video ID _XfScSliRVk vs actual source _rcxIWhNMSE/M2qZiY2lR98) is accurate and flags-only, but the missing pre-commit gate is a process-integrity issue Cameron should review
+
+## 2026-08-31T15:55:48Z — lures/cedar-plug.md — verify-escalate
+- run: 33408338188
+- reason: worker self-committed and pushed (1e6236ed) instead of leaving a working-tree diff for verification; content verified sound post-hoc but bypassed the normal wrapper flow
