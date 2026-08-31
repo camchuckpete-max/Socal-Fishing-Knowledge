@@ -87,7 +87,10 @@ go-to and a plausible match — is the "hot ticket for trolling" wahoo
 year or two years," resolved against the 2022-08-11 upload date). The stated
 leader is 275 lb wire "to match that up with" — the first leader figure in
 this corpus for the DTX-class wahoo troll application (no length, wire type,
-or setback given) (`G81HN0dIDg0`).
+or setback given) (`G81HN0dIDg0`). ⚠ Fact-check (single-source): the 275 lb
+figure rests on this one transcript only (also the only source behind the
+same number in [wahoo](../species/wahoo.md)); no independent source
+corroborates it.
 
 Two further sizes of the Nomad DTX (not named by model number) are
 recommended as wahoo trolling lures for any long-range trip, called out by
@@ -97,8 +100,10 @@ name at [Alijos Rocks](../locations/alijos-rocks.md) and "the Ridge"
 trolling lures, framed as giving it a better chance at a bite
 (`it_YYh_8Z-w`). The source credits it with out-fishing other lures "on a
 four to one basis" and being "nearly always" hit, with no basis given for the
-figure (`it_YYh_8Z-w`). No troll speed, running depth, setback, or leader
-spec is given for this application.
+figure (`it_YYh_8Z-w`). ⚠ Fact-check (single-source): the "four to one"
+ratio is a bare, numerically precise assertion against unnamed "other
+lures," corroborated by no other cited source in this note. No troll speed,
+running depth, setback, or leader spec is given for this application.
 
 ## When to choose it
 
