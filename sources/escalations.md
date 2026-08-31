@@ -448,3 +448,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-31T17:05:50Z — rigging/assist-hooks.md — subagent-failure
 - run: 33413911221
 - reason: factcheck worker never produced a LOG line, ended its turn mid-task waiting on a nested subagent notification
+
+## 2026-08-31T21:09:32Z — rigging/flying-fish-harness.md — worker-escalate
+- run: 33437146669
+- reason: worker subagent produced non-conforming garbage output instead of a LOG line, working tree left clean/untouched
