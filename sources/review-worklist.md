@@ -81,7 +81,7 @@ by their builders after the transform phase drains.
 | techniques/underhand-casting.md | standard | fact-checked | contradicted-by-source(2) | 5/5 claims checked; 2 contradicted-by-source flags added (pull-slack mechanism and skip-consequence not stated in source) |
 | techniques/wacky-rig.md | standard | fact-checked | none | standard-tier fact-check: no quote/statistic claims required flags; single-sourced note faithfully paraphrased, no changes needed |
 | techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
-| techniques/wahoo-trolling.md | standard | transformed | spots(2) | transform verified faithful - observation split to evidence file, v2 front matter/gear_classes added, gear-class-detail anchor preserved |
+| techniques/wahoo-trolling.md | standard | fact-checked | contradicted-by-source(1), unverifiable(1) | standard-tier fact-check: 2 flags added (1 contradicted-by-source, 1 unverifiable) by verifier after worker found no issues; no claim text altered |
 | techniques/wind-in-your-face-positioning.md | standard | transformed | none | transform verified - plain-statement rewrite conserves all before-facts via evidence-file split; no meaning drift |
 | techniques/yo-yo-iron.md | standard | transformed | misplaced(2), spinout(1) | transform verified with 3 conservation gaps found and fixed in-tree (two dropped top-technique attributed claims, one dropped colour pick) |
 | lures/bay-bass-plastics.md | standard | transformed | none | transform verified with 4 fixes (2 fabricated infobox numbers corrected, 2 dropped cross-refs restored) |

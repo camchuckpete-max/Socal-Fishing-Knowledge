@@ -28,7 +28,9 @@ this fits among wahoo's other techniques routes from
   or live-bait presentations (`4uNPLknRAQg`).
 - Lines need to stay working while running between grounds or crossing
   structure — the heaviest outfit aboard stays out on the troll by default on
-  a multi-day trip built around wahoo (`4uNPLknRAQg`).
+  a multi-day trip built around wahoo (`4uNPLknRAQg`). ⚠ Fact-check
+  (unverifiable): neither cited source names running-between-grounds or
+  crossing-structure as the reason the heaviest outfit stays on the troll.
 
 ## Mechanics
 
@@ -49,7 +51,11 @@ this fits among wahoo's other techniques routes from
   high gear and stop gaining line, that's the cue to shift to low gear to keep
   working the fish in. **Wind continuously — do not pump the rod.** Pumping
   gives the fish a moment of slack on the down-stroke, which is enough for a
-  wahoo to throw the hook (`4uNPLknRAQg`). This matches the same
+  wahoo to throw the hook (`4uNPLknRAQg`). ⚠ Fact-check (contradicted-by-source):
+  the throw-the-hook mechanism is not stated in this cite's pump/wind passage —
+  its own stated reason is losing gained line, not a thrown hook; the
+  throw-the-hook causal claim is the cross-referenced Alijos Rocks source's
+  wording, not this one's. This matches the same
   wind-continuously, no-pumping fighting discipline already logged for the
   trolled-bomb fight in
   [trolling — Alijos Rocks](trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo)
