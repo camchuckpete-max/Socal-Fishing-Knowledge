@@ -37,6 +37,12 @@ four (`EmZO8QiOfik`).
 ⚠ Flagged gap — no corpus source: exact micro-profile jerkbait model names
 (auto-caption garble, not reconstructable from this source).
 
+⚠ Fact-check (contradicted-by-source): the transcript never compares the Mag
+Minnow's profile against the Hydro Minnow LC's — it only offers the Mag
+Minnow as an alternative alongside the 150 Hydro Minnow LC when dropping down
+in size for the midday bite, which if anything implies a comparable or
+smaller option rather than a larger one.
+
 ## Sizing, color, and retrieve
 
 - **Time of day / size:** early morning and late afternoon (low light),
@@ -71,6 +77,11 @@ conflict (`EmZO8QiOfik`):
 - **Owner ST-66, size 1, 1X (heavier wire)** — holds up to anything hooked
   in a hot, wide-open frenzy bite, at the cost of some swimming action.
 
+⚠ Fact-check (single-source): the hook-size/gauge upgrade and both named
+models rest on this one source only; no other cited source in the note names
+either hook, and product/model picks from this source cap at `low` per the
+sponsored-claim rule (see [source registry](../sources/source-registry.md)).
+
 The Hydro Minnow LC needs no hook or split-ring changes out of the package
 (`EmZO8QiOfik`). See [hooks](../tackle/hooks.md#baja-sea-of-cortez-sizing)
 for the broader Baja/Sea of Cortez hook-sizing context, including
@@ -89,6 +100,11 @@ loaded spot can burn through baits fast (`EmZO8QiOfik`). Bring:
 - Carry multiples of a confidence color: losing the only bait of a color
   that's working kills confidence for the rest of the session
   (`EmZO8QiOfik`).
+
+⚠ Fact-check (single-source): the carry counts (~15 baits/6-hour session,
+~6 baits/day casual, and the per-color minimums) rest on one angler's
+personal kit for one trip format, uncorroborated elsewhere in the note's
+citations.
 
 ## When to choose it
 
