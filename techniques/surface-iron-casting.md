@@ -63,14 +63,21 @@ it; [surface iron](surface-iron.md) picks up once it lands.
   sitting upright — the stated payoff is a noticeably farther cast
   (`KLoEJInlmZo`), independently corroborated by a second source six years
   later coaching a rail-mate mid-trip: "No, no, no. Look at your reel.
-  Sideways." (`ejUTAnONf7o`).
+  Sideways." (`ejUTAnONf7o`). ⚠ Fact-check (contradicted-by-source): in the
+  cited transcript this line falls at 00:02:02, while the crew is still
+  rigging up dockside before departure ("we don't have fuel...we're going to
+  fill up"), not mid-trip; no cast is happening in the clip and the
+  transcript never states what "sideways" refers to.
 - **Locating the reel on a rod with no fixed reel seat.** Some jig sticks
   built for this technique ship with no permanent reel seat. Set the reel by
   measuring from the **crook of the elbow to the tip of the middle finger** —
   that span, within about an inch either way, is where the reel goes. Too
   high and the off hand can't get in front of the reel to pull on a hooked
   fish; too low and the cast loses the leverage/action that makes it work
-  (`49joKHD7Umc`).
+  (`49joKHD7Umc`). ⚠ Fact-check (single-source): the elbow-to-middle-finger
+  measurement method rests on this one clip alone; no other cited source in
+  the note gives a numeric method for setting reel position on a no-fixed-
+  seat rod.
 
 ## Trajectory — the wind decides it
 
@@ -107,7 +114,11 @@ around a crowded rail.
 
 - **Distance is secondary to placement.** Landing the jig ON moving fish
   beats maximizing cast distance — a **75 yd** cast at fish sitting only
-  **40 yd** out overshoots them for no benefit (`IhBY5RHFvuk`). When a school
+  **40 yd** out overshoots them for no benefit (`IhBY5RHFvuk`). ⚠ Fact-check
+  (contradicted-by-source): the cited transcript contains no 75 yd/40 yd
+  example and never discusses overshooting a school — the only yardage
+  figures in the video are cast-to-rocks distance estimates (60-80 yd) and
+  near-miss soft-cast distances (2-5 yd from the rocks). When a school
   is moving (e.g. tracking under working birds), get ahead of its line of
   travel and cut it off rather than casting into its wake, so the fish keep
   closing on the jig instead of moving away from it. Individually spotted
@@ -123,9 +134,15 @@ target (`IhBY5RHFvuk`):
 > could cast it a lot softer and still get the same distance."
 
 Soft casts reached within **2–5 yd** of a target roughly **70–80 yd** out;
-hard casts went no farther and produced backlashes. On a **parabolic** blank,
-whipping it fast is when backlashes happen. The correction is the same one
-[Mechanics](#mechanics) makes: let the blank load and unload.
+hard casts went no farther and produced backlashes. ⚠ Fact-check
+(contradicted-by-source): the transcript's backlash warning ("that's when
+you're going to get backlashes") is a separate, general closing segment
+about casting a parabolic rod too fast, not tied to the hard-cast-vs-soft-
+cast target demonstration earlier in the clip, where the hard cast is
+instead described as nearly hitting the rocks with no backlash mentioned. On
+a **parabolic** blank, whipping it fast is when backlashes happen. The
+correction is the same one [Mechanics](#mechanics) makes: let the blank load
+and unload.
 
 The stated exception is the headwind line drive above.
 
@@ -135,7 +152,12 @@ The stated exception is the headwind line drive above.
   line out below the tip and load it properly. On a **fast-action** rod, keep
   the jig up shorter and use the quick whip — every rod needs a different
   casting action, and the ~18 in hang length in [Mechanics](#mechanics) is
-  the fast-rod baseline, not a universal (`IhBY5RHFvuk`).
+  the fast-rod baseline, not a universal (`IhBY5RHFvuk`). ⚠ Fact-check
+  (contradicted-by-source): the only "18 1/2 in" figure in this transcript
+  sets reel-SEAT placement on the rod ("This is already set 18 1/2 in right
+  there... Perfect leverage"), not hang length before a cast; the rod-action
+  passage that does discuss letting line out on a slow-action rod gives no
+  inch figure.
 - Test a blank for how parabolic it is by flexing it and watching for the
   bend to reach the butt section — that wiggle tells you which of the two
   loading styles above applies (`IhBY5RHFvuk`).
@@ -143,7 +165,8 @@ The stated exception is the headwind line drive above.
   sub-2 oz, 5 in iron to a heavier 6 in iron, a reel started pushing too much
   line and overran; a small tightening of the spool tensioner fixed it on the
   next cast. Treat a jig change as a reel adjustment, not just a lure change
-  (`IhBY5RHFvuk`).
+  (`IhBY5RHFvuk`). ⚠ Fact-check (single-source): the specific 5 in-to-6 in /
+  sub-2 oz jig-weight figures and the fix rest on this one clip alone.
 
 ## Getting the line right before you need the cast
 
@@ -214,7 +237,11 @@ upgrade does (`49joKHD7Umc`).
 
 Braid casts well and is what the distance demonstrations above were run on
 (**65–80 lb**) — but the overruns in that same session drew "that's the one
-reason I don't like braid" (`IhBY5RHFvuk`). The mono-vs-braid casting-latitude
+reason I don't like braid" (`IhBY5RHFvuk`). ⚠ Fact-check
+(contradicted-by-source): only 80 lb braid is stated as spooled and cast in
+the demonstration ("this is 80 lb braid on Alexa 400"); 65 lb is floated only
+as a hypothetical aside ("Imagine 65 lb braid"), never as line actually
+spooled or cast. The mono-vs-braid casting-latitude
 trade-off is in [surface iron](surface-iron.md#gear-class); nothing here
 resolves it.
 
