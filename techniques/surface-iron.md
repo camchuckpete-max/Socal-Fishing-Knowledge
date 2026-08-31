@@ -57,7 +57,11 @@ fish reads the kick as food: a bait school circulates inside-outside — the
 outside fish trying to get in to be safe, the inside fish being pushed out —
 and the ones the bonito and the yellowtail bite aren't the ones in the middle;
 they're the one that "goes around wrong" and separates from the ball
-(`Ec2GaNpiOHI`). The jig is imitating the bait that has separated. A lure
+(`Ec2GaNpiOHI`). ⚠ Fact-check (contradicted-by-source): `Ec2GaNpiOHI`
+describes the same kick mechanism as a "serpentine action or a z pattern"
+that "kicks... three or four" times — not "like a snake" or "every third or
+fourth time" — so the exact quoted wording above is verbatim only in
+`yn1suHH6b1Y`. The jig is imitating the bait that has separated. A lure
 swimming flat gets helped: "speed it up, slow it down, a little perky-jerky
 every now and then… you gotta make them bite it. Rarely do they just come up
 and inhale it" (`Ec2GaNpiOHI`).
@@ -76,7 +80,8 @@ merged into — the steady-grind cadence doctrine below; see
   the water — not too fast; the baseline for calico and picky fish. Wind from
   the splash so the jig stays kicking on top, **slow-to-medium** for calico
   specifically — cranking fast makes the lure skip out of the water instead
-  of swimming through it (`3dVc-2rsYII`).
+  of swimming through it (`3dVc-2rsYII`). ⚠ Fact-check (contradicted-by-source):
+  the transcript says "you still want to start to whine," not "steady whine."
 - **Speed up for yellows** to really get the jig moving and swimming.
 - Read the **kick** off the rod tip: a heavy iron on a slow, wide, drawn-out
   kick is the change-up for picky bites and slack current; a smaller/faster
@@ -95,7 +100,12 @@ merged into — the steady-grind cadence doctrine below; see
   a Newell or Penn Senator) does that slow-down for you and suits a picky bite
   (`3dVc-2rsYII`). Reeling too fast is the single most common mistake — when
   fish you can see, and have caught on that same jig before, won't eat,
-  suspect retrieve speed before changing jigs (`3dVc-2rsYII`).
+  suspect retrieve speed before changing jigs (`3dVc-2rsYII`). ⚠ Fact-check
+  (contradicted-by-source): none of the reel-model figures (Tranx-500,
+  ~42 in/crank, Newell, Penn Senator, 4:1–5:1, "six-point-something-to-one")
+  or the "single most common mistake" claim appear anywhere in this 3:10
+  transcript, whose only matching content is a brief "slow medium speed
+  retrieval depending on your reel and the gear ratio" line.
 - **Set retrieve speed by keeping the jig visible on top.** The speed is not a
   number: it is the slowest wind that still keeps the jig gliding up where you
   can see it, and **raising the rod tip** is the lever for bringing it up
@@ -148,7 +158,11 @@ merged into — the steady-grind cadence doctrine below; see
   it — "dog boning" — before turning to swim off; a swing in that instant
   jerks the jig straight out of the fish's mouth, while continued winding
   drives the hooks from the middle of the jig into the fish's face as it
-  turns — what actually seats the hook (`KLoEJInlmZo`). The swing-to-set
+  turns — what actually seats the hook (`KLoEJInlmZo`). ⚠ Fact-check
+  (single-source): the 9-of-10 figure is this one speaker's own estimate
+  ("9 out of 10 times"), uncorroborated elsewhere in the note's citations,
+  and it is the stated mechanism behind the whole wind-through-vs-swing
+  hookset doctrine. The swing-to-set
   doctrine for vertical jigging is the counter-case — held in
   **Doctrine & conflicts** below, not reconciled here.
 
@@ -216,7 +230,11 @@ while somebody is still connected.
 - **The lighter iron drags the tackle down with it.** An AA-light doesn't
   throw on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
-  fluorocarbon leader (`pcwcRdmWmLc`).
+  fluorocarbon leader (`pcwcRdmWmLc`). ⚠ Fact-check (contradicted-by-source):
+  the transcript attaches the 50 lb braid/fluorocarbon-leader spec to the
+  speaker's OLD setup (a Calstar 900M with a Trinidad 16 narrow); the
+  "nowadays" 9 ft graphite-composite rod is paired instead with a Fathom 8X
+  spooled with ~30 lb braid to a 30 lb leader.
 - **Small jig on small anchovy, corroborated — with a bigger-fish nuance.** In
   the 2026 season small surface irons were out-fishing bigger ones locally — a
   small iron by **Killer**, and a small Tady named on camera with the
@@ -374,7 +392,10 @@ listing order is not a ranking.
 - **Two observed alternate builds on big-grade Cedros fish** — kept beside,
   not replacing, the jig-stick class: a light, spinning-style **bass rod**
   with a fluoro leader, described as "still quite violent" to fight on
-  (`ILBl12Jm7-0`), and an **8 ft, extra-heavy** stick **rated 30–80 lb**
+  (`ILBl12Jm7-0`) — ⚠ Fact-check (unverifiable): the transcript names only
+  "bassie rods" with a fluoro leader ("still quite violent" to fight) and
+  never specifies a spinning reel/rod — and an **8 ft, extra-heavy** stick
+  **rated 30–80 lb**
   favored specifically for casting distance — "you need it to cast"
   (`u0scEBby7nA`). Trip detail in the
   [evidence file](evidence/surface-iron.md); the same session's straight-braid
