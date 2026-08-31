@@ -39,7 +39,10 @@ knot for the same rig.
 - **Dropper loop knot — tying it:** decide how far you want the sinker from
   the hook, then tie a loop in the leader sized to taste ("as large or as
   small as you'd like"). Grab the two strands just above the loop, where they
-  separate, and twist them **8 times**. Open the small loop that forms at the
+  separate, and twist them **8 times**. ⚠ Fact-check (single-source): this
+  turn count is demonstrated on camera in the note's only cited source and is
+  the load-bearing step for tying the knot at all, with no independent
+  corroboration. Open the small loop that forms at the
   twist, reach through, grab the line at the bottom of the loop, and cinch it
   down. Repeat lower on the same leader for a second loop/hook — a double
   dropper, popular for rockfish so two baits fish at once (`SK2M7L2vA1s`).
@@ -59,7 +62,9 @@ knot for the same rig.
     **slides** at the bottom, above the hook. Framed as effective for halibut
     specifically because they're a flatfish that buries in the sand — the
     sliding sinker dragging over bottom "bumps into" a buried fish
-    (`SK2M7L2vA1s`). Whether the sinker rides tied fixed into the loop or
+    (`SK2M7L2vA1s`). ⚠ Fact-check (contradicted-by-source): the transcript's
+    actual wording is "you stumble upon that fish," not "bumps into." Whether
+    the sinker rides tied fixed into the loop or
     genuinely free-sliding on it is not specified beyond "slide on the
     bottom" (`SK2M7L2vA1s`); read here as riding loose rather than fixed. See
     [sliding sinker](../techniques/sliding-sinker.md) for the general
@@ -67,7 +72,10 @@ knot for the same rig.
 - **Spider hitch — tying it:** pull out **1.5 to 2 ft** of leader (how far you
   want the sinker from the hook), form a loop sized to taste, tie a simple
   overhand knot in it, then take the loop and pass it through the overhand
-  **3 times**. Lubricate, separate the small loop, hold both the leader and
+  **3 times**. ⚠ Fact-check (single-source): this pass count is the
+  load-bearing step for tying the knot at all, demonstrated on camera in the
+  note's only cited source with no independent corroboration. Lubricate,
+  separate the small loop, hold both the leader and
   main line taut through that loop, and cinch down (`SK2M7L2vA1s`).
   - **Fishing it:** this build uses only **one loop** — torpedo sinker at the
     bottom, hook above it — for halibut or yellowtail (`SK2M7L2vA1s`).
