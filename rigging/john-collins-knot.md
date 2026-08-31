@@ -123,7 +123,7 @@ Knot](springer-knot.md) and [Tony Pena Knot](tony-pena-knot.md).
   figure sits immediately beside the "shorter than the rod" guidance below
   and is not reconciled with it in the transcript — a 7-8 ft rod cannot take
   both a ≥50 ft leader and a ~4 ft one; only this clip states the 50 ft
-  figure., and shorter than the rod — a 7-8 ft
+  figure. It should also run shorter than the rod — a 7-8 ft
   rod wants roughly a 4 ft leader, not an 8 ft one, because a leader as long
   as the rod pulls the connection knot through the guides and hampers
   casting. This clip ties the demonstration on a heavier-diameter cord for
