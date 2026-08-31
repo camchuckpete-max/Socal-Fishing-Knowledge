@@ -35,7 +35,11 @@ in **Linked from** below.
   [surface iron](surface-iron.md).
 - [Bluefin tuna](../species/bluefin-tuna.md) marked shallow (~60 ft) around the
   boat while chumming, with no surface foamer yet showing — yo-yo the mark
-  instead of waiting on a visual bite (`ntQXxcH5sjI`). Distinct from the 30–50
+  instead of waiting on a visual bite (`ntQXxcH5sjI`). ⚠ Fact-check
+  (contradicted-by-source): the transcript gives the ~60 ft marks and
+  sardines being fished, but never identifies those marks as bluefin
+  specifically, never mentions chumming, and never states a foamer was
+  absent. Distinct from the 30–50
   fm sounded-school knife-jig scenario in
   [bluefin tuna](../species/bluefin-tuna.md#situations--techniques) — this is a
   much shallower, near-boat mark.
@@ -63,7 +67,10 @@ the hookset itself (`5pbA-wXoric`, `ETw_3AFxEcM`, `hteLeDIy9Qs`, `SAltQjih0ms`).
 Fish as heavy a line as you can still crank fast and control the fish: bite
 rate is not affected by line diameter, so there is no cost to running the
 heaviest class the rod and reel support — 40 lb works, 50 lb is better, 60 lb
-better still (`5pbA-wXoric`, `UP_3fBu7VPA`).
+better still (`5pbA-wXoric`, `UP_3fBu7VPA`). ⚠ Fact-check (contradicted-by-source):
+`UP_3fBu7VPA` states only a personal line-size floor ("I wouldn't do any less
+than 40 lb, I do 50 or 60 lb personally") — it never states or implies that
+bite rate is unaffected by line diameter; that mechanism is `5pbA-wXoric` only.
 
 Tuck the rod under the arm once the jig hits bottom and the reel is in gear,
 then crank back as fast as possible: the jig cannot be cranked too fast, only
@@ -143,6 +150,11 @@ iron's 2–3 oz — heavy enough to sink fast and hold vertical in current
 - **120–150 ft:** a Salas 6X, roughly 5–6 oz.
 - **Real deep water** — named examples: Colonet, "the ridge," Alijos Rocks,
   Guadalupe: a 7X-heavy iron (`hteLeDIy9Qs`, `VpW91AKOFVQ`, `LTCFjqtSI8g`).
+  ⚠ Fact-check (contradicted-by-source): only `hteLeDIy9Qs` names Colonet,
+  "the ridge," Alijos Rocks, and Guadalupe with a 7X-heavy iron; neither
+  `VpW91AKOFVQ` (Coronado Islands and the Del Mar–Imperial Beach coastline
+  only) nor `LTCFjqtSI8g` (no matching real-deep-water locations) support
+  this "corroborated across sources" framing for the deep tier.
 
 On an overnight/multi-day trip, yo-yo depth commonly runs **120–240 ft**;
 check with the crew on what depth and jig size is producing before the drop.
@@ -167,6 +179,12 @@ matching forage colour rather than being a fixed favourite (`UP_3fBu7VPA`,
 `RNRFrfepiW0`). Scrambled egg, blue and white, and mint are named repeatedly as
 "the classics" (`UP_3fBu7VPA`, `A70kK2niu2Q`, `SAltQjih0ms`); dorado is also a
 repeated producer, particularly on Baja trips (`XwwIvPFxRiQ`, `ilINTeknKB4`).
+⚠ Fact-check (contradicted-by-source): only `UP_3fBu7VPA` groups scrambled
+egg/blue-and-white/mint as "the classics" for yo-yo iron. `SAltQjih0ms` names
+only scrambled egg and blue-and-white (calling blue-and-white "the universal
+color for yo-yo fishing"), never mint; `A70kK2niu2Q` gives mint as a
+confidence color for surface iron, not yo-yo, and calls scrambled egg/blue-
+and-white "my two favorite colors" without grouping mint in.
 All red is named alongside blue and white and scrambled egg as one of the
 three colours reached for most (`HTowqnwAMeA`).
 A Tady 4/0 in scrambled egg or blue-and-white is named as a go-to yo-yo jig
@@ -187,7 +205,9 @@ makes it easier to take line fast enough on the wind-up: retrieve speed
 matters more than raw cranking power for someone still learning the technique
 (`VpW91AKOFVQ`). A concrete number behind that reasoning — a Penn Torque 40
 paired with a rod rated 40–100 lb, picked specifically for its fast retrieve
-of 43 in of line per full handle rotation (`7Ljt-DeFVcs`). A Tackle Express
+of 43 in of line per full handle rotation (`7Ljt-DeFVcs`). ⚠ Fact-check
+(single-source): the 43 in/rotation retrieve-rate figure rests on this one
+transcript only; no other cited source in this note corroborates it. A Tackle Express
 counter clip makes the same torque-over-speed case for a baitcaster fishing
 both surface iron and yo-yo on big yellowtail (`pOFsjDTqaxY`) — see
 [baitcaster gear ratio for landing big
@@ -223,6 +243,10 @@ above, and listing order is not a ranking:
   monofilament straight to the jig, no leader — built for schoolie fish (7–15
   lb) fired up and fought fast, or for Baja structure/kelp with bigger fish
   needing the backbone to keep a fish out of the reef (`LTCFjqtSI8g`).
+  ⚠ Fact-check (contradicted-by-source): the transcript puts the Saltiga
+  35HA on a separate, newly introduced rod ("this is going to be my new
+  heavy jig stick... a nine foot heavy rod"), not the same rod as the
+  Torium 16HG build above.
 - **A recreational base build:** two-speed conventional, 80 lb braid to a
   40–60 lb monofilament top shot, no fluorocarbon, tied straight to the iron
   on a [San Diego jam knot](../rigging/san-diego-jam-knot.md), on a 7 ft rod
