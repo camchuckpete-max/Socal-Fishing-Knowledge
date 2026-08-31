@@ -125,7 +125,10 @@ leader, braid main line — and feed the terminal rigs in
 - **Palomar:** double the line, pass the loop through the eye, tie a simple
   overhand, then pass the hook/lure back through the loop and seat it down
   onto the eye. Fast and easy but not the strongest tie — step up to another
-  knot once fish run past ~100 lb (`SwXh9Cwi4e0`, `hF4dFlSB12s`). On a
+  knot once fish run past ~100 lb (`SwXh9Cwi4e0`, `hF4dFlSB12s`). ⚠
+  Fact-check (contradicted-by-source): `SwXh9Cwi4e0` covers only the RP knot
+  and uni-to-uni — it never mentions the Palomar or a 100 lb threshold; only
+  `hF4dFlSB12s` supports this claim. On a
   [rubber-band deep rig](rubber-band-deep-rig.md), the hook is tied with a
   San Diego jam instead of a Palomar, for the same bite-through-the-knot
   reason (`LPhnsEamRwI`).
@@ -142,7 +145,10 @@ leader, braid main line — and feed the terminal rigs in
 - **San Diego jam:** through the eye and back to make a doubled section, wrap
   6 times down the standing line (or a single pass for the live-bait version),
   pass through the lower loop and then the upper loop, lubricate, and slide
-  the coils down tight before setting (`hF4dFlSB12s`). A dozen-plus sourced
+  the coils down tight before setting (`hF4dFlSB12s`). ⚠ Fact-check
+  (contradicted-by-source): `hF4dFlSB12s` demonstrates only the doubled
+  6-wrap tie and never mentions a single-pass live-bait variant; that detail
+  is sourced elsewhere in [San Diego Jam Knot](san-diego-jam-knot.md). A dozen-plus sourced
   wrap-count variants (5–7 wraps depending on presenter), the "double jam
   knot" naming/live-bait-vs-lure rule, and a deliberately-weak
   sinker-connection variant are kept in their own note rather than growing
