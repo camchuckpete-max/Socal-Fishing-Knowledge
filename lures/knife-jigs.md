@@ -124,6 +124,10 @@ bit on the fall, consistent with slow-pitch's fall-triggered bite rather than
 knife-jigging's pump-triggered one — check a jig's fall behavior directly
 rather than assume it from model-line branding. It carries two single hooks,
 one on each end, as a physical tell alongside the finger test (`ZrcwcugaEe4`).
+⚠ Fact-check (contradicted-by-source): `ZrcwcugaEe4` names this jig the
+"mustad rip roller" ("from this mustad rip roller to that Nomad Streaker"),
+distinct from the Nomad Streaker, not a Nomad-branded Rip Roller as stated
+here.
 Named speed-jig models from the interview: the **Nomad Streaker**, and a jig
 captioned "Nature Boys" (asr-uncertain, not confidently resolved to a brand);
 a jig captioned "Shimano Flat Side" was also named a speed jig (asr-uncertain
@@ -288,7 +292,10 @@ At a given weight, profile shape matters at night specifically: between two
 sinks measurably faster for the same weight, and its smaller profile raises
 the bite-to-hook ratio — a fish attacking a big 12 in lure has a much smaller
 relative chance of actually getting the hooks in its mouth than one attacking
-a shorter lure of the same weight. This flips by daypart: during the day,
+a shorter lure of the same weight. ⚠ Fact-check (contradicted-by-source):
+`G1YIlakiRqg` compares the ~350 g short/stubby lure to 400-500 g, ~12 in
+lures, not to another ~350 g long lure — the two compared lures are not
+"the same weight" as stated here. This flips by daypart: during the day,
 longer, skinnier lures draw more bites; night bluefin, where an estimated 90%
 of bites happen as the lure is sinking (vs. a more mixed sink/retrieve bite by
 day), reward the shorter, faster-sinking, higher-hookup-ratio profile
@@ -310,14 +317,20 @@ The one mechanism worth keeping: glow paint reflects **UV** more than regular
 paint, which is why an all-glow jig can be a strong **daytime** choice at
 real depth (e.g., 300 ft) — there is still light down there, just dim, and
 the added UV flash makes the jig stand out; don't assume glow means
-night-only. Fish have far fewer color receptors than humans — pelagic
+night-only. Fish
+have far fewer color receptors than humans — pelagic
 species key on **contrast** more than hue, while inshore/structure-oriented
 fish carry relatively more color sensitivity — and, past roughly 600 ft,
 beyond where visible light penetrates, may be able to see UV light directly;
 a chartreuse finish that lights up under a UV flashlight is one worked
 example of a UV-reflective jig drawing more bites at depth than a
 non-reflective finish of the same profile (general fish-vision mechanism,
-not SoCal-specific) (`-nIhadZwxAA`). A second, independent corroboration
+not SoCal-specific) (`-nIhadZwxAA`). ⚠ Fact-check (contradicted-by-source):
+`-nIhadZwxAA` never mentions "glow paint" — its UV-reflective discussion is
+about chartreuse/black/silver (Kimura) finishes, and its 300 ft figure comes
+from an unrelated jig-weight-formula example, not from the UV/depth passage;
+the transcript also states fish "do not have the same type of color
+receptors" as humans, not that they have "far fewer." A second, independent corroboration
 names orange, pink, or a finish with embedded UV paint that glows under a UV
 light as examples that draw more strikes than a non-reflective jig of the
 same profile. A personal color preference offered alongside the same
@@ -367,7 +380,11 @@ himself if the rest of the boat is getting bit on it. His product pick during
 this pattern, a Fish Lab 250 g flat-fall, is chosen mainly for arriving
 pre-rigged — a sponsor-adjacent product callout, low confidence; only the
 red/orange-egg-crab reasoning and depth/visibility context rate his usual
-confidence (`RbqOKkINSCM`, `scmPq63lLWM`). A different captain, on the same
+confidence (`RbqOKkINSCM`, `scmPq63lLWM`). ⚠ Fact-check
+(contradicted-by-source): neither `RbqOKkINSCM` nor `scmPq63lLWM` states a
+2015-2021 date range for red crab as the dominant SoCal bluefin forage —
+`RbqOKkINSCM` only says the color "imitates the color of the red crabs,"
+with no date range given. A different captain, on the same
 night flat-fall bite, calls glow-in-the-dark "the real secret," paired with
 big, strong hooks as the other non-negotiable, framed against his own 315 lb
 bluefin taken 59 mi off [Point Loma](../locations/point-loma.md) (full catch
