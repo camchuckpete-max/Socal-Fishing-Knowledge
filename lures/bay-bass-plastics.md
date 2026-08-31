@@ -54,7 +54,13 @@ subtle, on top of the named per-bait colours in the table above.
 A mushroom-style Ned head paired with a short soft stickbait — the ZMan
 Finesse TRD is the benchmark because the elastic plastic survives **50 fish
 on one bait** (`um5MAeCjNDg`). The TRD is tailless, so it's a bottom-hop
-bait, not a straight swim. It has a top and a bottom — slightly thinner
+bait, not a straight swim.
+
+⚠ Fact-check (single-source): the 50-fish-per-bait durability figure comes
+from one video only; [ned rig](../techniques/ned-rig.md) flags the same
+figure single-source.
+
+It has a top and a bottom — slightly thinner
 toward the top, tapering to a thicker bottom that sinks better, usually
 marked with a small line — seat it off the thicker bottom with the hook
 exiting the marked top (`um5MAeCjNDg`). Fished [ned rig](../techniques/ned-rig.md).
@@ -112,6 +118,11 @@ for a grub or a small swimbait. Rig on a long-shank J-hook tied so the hook
 points up, suspended 6 to 10 inches above the weight (`k4mD2d6C81k`). Fished
 [drop shot](../techniques/drop-shot.md).
 
+⚠ Fact-check (contradicted-by-source): `k4mD2d6C81k` never states a 6–10 in
+hook-to-weight distance — the only distance given in that transcript is
+12–14 in of leader measured out before tying the Palomar knot, a different
+parameter (leader length, not hook-to-weight spacing).
+
 ## Model builds (single-source, kept side by side)
 
 ### Big Hammer 3 in swim bait, orange jighead
@@ -138,12 +149,28 @@ structure the presenter calls "green bass" (his own term, not translated to
 a species on camera, and not the same as calico bass) — see [drop
 shot](../techniques/drop-shot.md) for the rig it's tied into (3/16 oz ball /
 1/4 oz drop-shot sinkers, 10–12 lb line, small red octopus or black/red
-mosquito hooks). Fished in **3-in and 4-in** sizes. Four named best-producing
+mosquito hooks). Fished in **3-in and 4-in** sizes.
+
+⚠ Fact-check (contradicted-by-source): `BPxE3xn3gAc` uses "green bass" as a
+comparison to how the presenter fishes freshwater largemouth/spotted bass
+("I fish them just like I fish green bass") — describing his technique
+style, not naming the halibut structure he fishes around. The transcript
+never names the structure "green bass."
+⚠ Fact-check (single-source): the 3/16 oz ball / 1/4 oz sinker, 10–12 lb
+line, and hook spec rests on this one video; `techniques/drop-shot.md`
+notes `BPxE3xn3gAc` is itself a verbatim re-cut of the longer `fHMwcm1xRQk`
+— not independent confirmation.
+
+Four named best-producing
 colours: **live bait**, **electric smelt**, **baby anchovy**, and **pearl
 white** — Bass Trix only started producing pearl white for 2025, and it is
 named as a consistently strong halibut colour (`BPxE3xn3gAc`). A shorter
 re-cut clip repeats the same bait/colour segment word-for-word — not an
-independent sighting, logged for provenance only (`sPs3Civek1w`). Router:
+independent sighting, logged for provenance only (`sPs3Civek1w`).
+
+⚠ Fact-check (single-source): the "started producing pearl white for 2025"
+detail rests on this one video; `sPs3Civek1w` repeats the same segment
+verbatim rather than corroborating it independently. Router:
 [California halibut](../species/california-halibut.md).
 
 ### Berkeley Gulp 3 in shrimp — natural and New Penny
@@ -231,6 +258,11 @@ reading, retrieve) in enough depth for a dedicated technique note.
   snag. A thin-wire hook is why the tearing happens at all; Z-Man's
   PowerFinesse Ned combo uses a slightly thicker, taller-gap hook reported to
   tear the bait less (`EGKesj7V64M`, `6L8nIFeqvkw`).
+  ⚠ Fact-check (contradicted-by-source): the fish-count figures and the
+  PowerFinesse Ned combo detail in this bullet are in `6L8nIFeqvkw` only —
+  `EGKesj7V64M` ("25 tips") does not discuss hook rotation, fish counts, or
+  the PowerFinesse Ned combo; it only points viewers to the other video for
+  that material.
 
 ## How to fish it
 
