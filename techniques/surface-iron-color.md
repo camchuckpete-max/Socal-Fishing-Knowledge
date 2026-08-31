@@ -41,15 +41,24 @@ assumes.
 Colour is not the variable: the same answer, from the same voice, on two
 channels seven years apart — "Does colour matter?" — "Only for you… I use
 colours that I can see. Lighter colour, white, yellow, mint." (`yn1suHH6b1Y`;
-corroborated `Ec2GaNpiOHI`, 2019). Dan Wade — 60+ years on the surface iron,
-personal best 68 lb at Guadalupe on 40 lb line — is a registered voice on the
-[source registry](../sources/source-registry.md), and this is repeated
-doctrine, not a single mention.
+corroborated `Ec2GaNpiOHI`, 2019). ⚠ Fact-check (contradicted-by-source):
+`Ec2GaNpiOHI`'s only colour content is the calico-bass kelp/open-water answer
+below — it contains no equivalent "colours I can see" exchange corroborating
+this quote. Dan Wade — 60+ years on the surface iron, personal best 68 lb at
+Guadalupe on 40 lb line — is a registered voice on the [source
+registry](../sources/source-registry.md), and this is repeated doctrine, not
+a single mention. ⚠ Fact-check (contradicted-by-source): `Ec2GaNpiOHI` states
+he is "61 years old" and started "in 1965" — about 54 years as of this 2019
+upload, not "60+ years." ⚠ Fact-check (single-source): the 68 lb / 40 lb
+personal-best figures are verified verbatim in `Ec2GaNpiOHI` but not
+corroborated by any other cited source.
 
 The historical argument for it: original surface irons were bare aluminium,
 no paint — makers added colour ("a blue stripe") to sell more jigs, and a jig
 that has lost 85% of its paint down to patinaed aluminium still gets bit,
-"because it's how it swims. It's a reaction bite." (`yn1suHH6b1Y`)
+"because it's how it swims. It's a reaction bite." (`yn1suHH6b1Y`) ⚠
+Fact-check (single-source): the 85% figure is verified verbatim in
+`yn1suHH6b1Y` but not corroborated by any other cited source.
 
 The practical rule: pick a colour **you can see on the water**, so you can
 watch the jig swim and judge whether the retrieve is right — that is colour's
@@ -74,7 +83,11 @@ The only situation where Wade chooses colour on purpose (`Ec2GaNpiOHI`):
 | Out in the open, off the kelp | **Bleeding soldier** / **GI Joe** pattern |
 
 A repaint's result depends on what's underneath — the base metal shows
-through and becomes part of the finish (`Ec2GaNpiOHI`).
+through and becomes part of the finish (`Ec2GaNpiOHI`). ⚠ Fact-check
+(contradicted-by-source): the transcript's actual line here is the thin,
+ASR-garbled "depends on what you painted over as well," a lead-in to the
+kelp/open-water answer above — it does not develop a "base metal shows
+through and becomes part of the finish" mechanism.
 
 ## Tuna — colour by light, not species folklore
 
@@ -91,7 +104,10 @@ This is tuna lead-jig doctrine specifically — see [tuna poppers and
 stickbaits](../lures/tuna-poppers-and-stickbaits.md) and [iron
 jigs](../lures/iron-jigs.md) — held beside, not merged into, the surface-iron
 colour doctrine above, since it answers the question for a different lure
-class.
+class. ⚠ Fact-check (single-source): the chrome/white-by-light framework in
+this section is verified verbatim against `F7jLrt2j2X8` but rests on that one
+interview; no other cited source in this note addresses tuna lead-jig
+colour.
 
 ## Gear class
 
