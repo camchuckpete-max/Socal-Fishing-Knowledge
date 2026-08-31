@@ -173,8 +173,10 @@ The stated exception is the headwind line drive above.
 Before arriving at a stop, free-spool the jig back to about casting length
 behind the moving boat, then reel it in under tension at **7–10 mph** so the
 line lays tightly on the spool — "that way your next cast is butter"
-(`0DKmYId1NN4`). A loosely wound spool is what unloads into an overrun on the
-first real cast of the stop.
+(`0DKmYId1NN4`). ⚠ Fact-check (single-source): the 7–10 mph figure and the
+whole pre-stop winding routine rest on this one clip alone; no other cited
+source in the note corroborates the speed or the technique. A loosely wound
+spool is what unloads into an overrun on the first real cast of the stop.
 
 ## Learning it off the water
 
