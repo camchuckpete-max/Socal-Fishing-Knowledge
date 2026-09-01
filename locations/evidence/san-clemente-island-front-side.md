@@ -34,6 +34,17 @@ line per observation. Observations never change the note's stated doctrine.
   unusually calm, clear water for the island at 30–40 ft visibility, with fish
   taken very shallow and constant re-tying needed because break-offs on the rock
   were the recurring problem.
+
+⚠ Fact-check (contradicted-by-source): this bullet fuses two videos under one
+id. `KCcEqHSZ84k` (2019-06-13, 3:53 long) carries only the six-foot sardine
+session and the 8 lb calico, and says "**tied up on** the island" rather than
+anchored (@00:00:16); the 2019-05-26 session, the 30–40 ft visibility ("the
+water is like 30 40 foot visibility", @00:00:49), the very-shallow fishing and
+the constant re-tying ("you got to constantly be retying them", @00:01:21) all
+belong to `eNcltRh-shc` — "we're over here Northwest Harbor again we're
+pitching another little boiler Rock area" (@00:00:00) — which
+`locations/northwest-harbor.md` cites correctly.
+
 - `sIoNELGlxmk` (dave-hansen, Your Saltwater Guide, PCS Show live seminar,
   2023-03-04): at San Clemente Island two named spots close enough to be a short
   run apart showed opposite current directions on the same day — one downhill
@@ -77,6 +88,13 @@ line per observation. Observations never change the note's stated doctrine.
 - `Klfb433I3Uk` (StokedOnFishing, 2019-10-04, San Clemente Island): a barracuda
   caught on a yellowtail charter, called on camera before the fish was
   identified; the side of the island is not stated; unregistered channel.
+
+⚠ Fact-check (contradicted-by-source): the side of the island IS stated in
+`Klfb433I3Uk`, and more precisely than recorded here — "head out to
+[Cle]mente. We're going to hit the front side, gold bluff to first rock"
+(@00:00:59), which puts the trip on this side by name. October is upload
+metadata only; nothing on camera dates the trip.
+
 - `iQLyBzhOSi8` (StokedOnFishing, "California Offshore Challenge, part 1,"
   San Clemente Island): the team's landing put them at Northwest Harbor, where
   the water was dirty and washed out with conditions described as coming from
