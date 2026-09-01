@@ -29,6 +29,11 @@ Per-source provenance backing [Break Walls, Jetties and Riprap](../breakwalls-je
   distinction is unconfirmed. The wall's kelp growth, not just the bare rock,
   was also credited with holding fish and producing bites after dark. No
   specific wall or region named beyond "that breakwater."
+  ⚠ Fact-check (single-source): verified verbatim ("teen jumbos caught on
+  that breakwater at night and I don't know a very many over four that have
+  been caught during the day"; "the nighttime fishing on the brake wall is
+  night and day") but the specific weight figures are corroborated nowhere
+  else in this note's citations.
 - `ZoIzpyyS9xw` (n6yun, Fred Hall calico bass panel discussion part 1,
   2013-03-09, unregistered channel, surname uncertain — `asr-uncertain` —
   medium confidence): the panelist ("Jack") who fishes this wall a lot at
@@ -39,6 +44,10 @@ Per-source provenance backing [Break Walls, Jetties and Riprap](../breakwalls-je
   names in the same breath (brand garbled in the ASR, not confidently
   resolved) — calling the smaller size the one that "really works great" on
   the federal breakwater at night.
+  ⚠ Fact-check (single-source): verified verbatim ("they've got one, it's
+  about half, that's five-five inch, it really works great on that with
+  federal breakwater") but the 5.5 in figure is corroborated nowhere else in
+  this note's citations.
 
 ## How it fishes
 

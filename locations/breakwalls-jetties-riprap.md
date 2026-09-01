@@ -66,6 +66,10 @@ that steep, erosion-only profile — see
 way: riprap can bottom out in as little as 10-15 ft of water at the toe, and
 a boat sitting 10 ft off the rock can already be sitting in 20 ft of water
 (`jTXIr9O6zYk`).
+⚠ Fact-check (single-source): verified verbatim ("if the riprap ends in like
+10 or 15 feet of water... if you're 10 feet off the wall and you're sitting
+in 20 feet of water") but corroborated nowhere else in this note's citations;
+also promoted into the front-matter `depth_band` field.
 
 A large share of every wall on the SoCal coast can hold fish, because a wall
 is a self-contained rock/kelp ecosystem independent of its reputation —
@@ -88,6 +92,10 @@ already working the water, not just sitting: cormorants diving **30 ft off**
 a wall put the bass off the rock face too, not on it — an angler who only
 casts tight to the rock can fish right past a boil breaking behind the boat
 (`jTXIr9O6zYk`).
+⚠ Fact-check (single-source): verified verbatim ("if there's a bunch of birds
+diving, cormorants and everything else, and they're 30 feet off the wall, the
+bass come off that wall and feed") but corroborated nowhere else in this
+note's citations.
 
 ## What's there
 
@@ -121,7 +129,10 @@ slow down and work that zone thoroughly with multiple casts (`bydQzE3F9yM`).
 Moving baits (a crankbait, a weedless swimbait) get cast parallel to the wall
 where possible, or at roughly a **45° angle** off the bow when swell prevents
 a true parallel cast; fish often take these baits a good distance off the
-wall, not tight to it. A lead-head bait worked down the wall face instead
+wall, not tight to it.
+⚠ Fact-check (single-source): verified verbatim ("you can cast it a 45 degree
+angle ahead of the boat") but corroborated nowhere else in this note's
+citations. A lead-head bait worked down the wall face instead
 gets cast **perpendicular** to the wall and fished slower, giving the bait
 time to fall down the rock face rather than getting dragged past it by a
 moving boat (`bydQzE3F9yM`). Riprap inside a harbor is steep enough, and
@@ -139,6 +150,10 @@ boat-handling skill on a protected, inside riprap area before working an
 exposed outside wall — even where the rock ends abruptly, a boat can be
 sitting in safe water just **5 ft** off it as long as wind isn't pushing the
 boat in (`bydQzE3F9yM`).
+⚠ Fact-check (single-source): verified verbatim ("even if the rocks end
+here, you could be five feet away and be in safe water... as long as the
+wind's not blowing in there") but corroborated nowhere else in this note's
+citations.
 
 Any wall can fish, famous or not — a wall is a self-contained rock/kelp
 ecosystem regardless of its reputation. An angler without boat access gets
