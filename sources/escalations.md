@@ -488,3 +488,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T15:04:27Z — locations/catalina-island-front-side.md — verify-escalate
 - run: 33512954766
 - reason: sources/spot-lists.md charts Arrow Point (118 32.274) and Lions Head (33 27.235) on the CLOSED side of the MPA boundary rules this page publishes for them — a boat navigating to either cameron-sourced waypoint would be inside the SMCA; neither arrow-point.md nor lions-head.md records the discrepancy; regulatory, needs correcting at source
+
+## 2026-09-01T15:20:05Z — locations/north-county-artificial-reefs.md — verify-escalate
+- run: 33512954766
+- reason: Oceanside AR fails the sub-pixel-cluster test: spot-lists.md L16 and zone-lexicon.md list 1A-1H/2A-2L as one cluster but the coords span 2.18 nm (~4 MUR pixels) — Cameron must decide whether Oceanside splits into 1-series and 2-series cells (zone-census question, out of unit scope). Second call: the Pendleton 35-40 ft depth either retracts from the parent or propagates to pendleton-ar.md / pendleton-ar-center.md, which both say depth_band: unknown
