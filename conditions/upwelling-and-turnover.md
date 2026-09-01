@@ -25,7 +25,9 @@ and bad *now*** (`h3PTupup17I`):
 - **New cold bloom → avoid.** An overnight ~5 °F drop plus green water after an
   afternoon NW wind is a local upwelling event. Short-term negative — but **mark
   it for the recovery**, because that same water will be productive once the
-  chain catches up.
+  chain catches up. ⚠ Fact-check (single-source): the ~5 °F figure is
+  single-sourced and numerically precise (same claim, same flag, as
+  [current structure](current-structure.md)).
 - **Mature bloom edge → fish.** The edges of an established bloom, where green
   meets blue, are where the bait (and the gamefish on it) have stacked up.
 
@@ -86,7 +88,10 @@ afternoon-NW-wind upwelling event described above. (**Geostrophic currents** —
 the rotational flow set up where Ekman transport piles water into a bulge and
 gravity pulls it back down-slope — is the same family of mechanism; noted for
 vocabulary only, no SoCal-specific parameter attaches to it here.)
-(`32TQdFJKIlI`)
+(`32TQdFJKIlI`) ⚠ Fact-check (single-source): the 90°-deflection figures are
+single-sourced to one lecture clip and stated as generic oceanography
+background, not a SoCal measurement — flagged for external verification
+against published values.
 
 ## ENSO — El Niño / La Niña as a basin-scale upwelling modulator (mechanism, generic — not SoCal-measured)
 
@@ -111,7 +116,10 @@ Background mechanism from an oceanography lecture (`32TQdFJKIlI`):
 - **Irregularity:** ENSO recurs roughly every **2–10 years**; individual phases
   last **12–18 months**. The lecture notes it may nest inside a longer
   **~20–30 year Pacific Decadal Oscillation (PDO)** — flagged there as an open
-  research question, not settled science.
+  research question, not settled science. ⚠ Fact-check (single-source): the
+  recurrence/phase/PDO figures are single-sourced to one lecture clip and
+  stated as generic oceanography background, not a SoCal measurement —
+  flagged for external verification against published climatology.
 
 This operates on a basin-scale, multi-month-to-multi-year timescale — the
 long-range backdrop conditions sit within, distinct from and not a substitute
