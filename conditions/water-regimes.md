@@ -79,9 +79,26 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
   retreat path and **condenses** offshore, toward
   [Tanner Bank](../locations/tanner-bank.md) and
   [Cortez Bank](../locations/tanner-bank.md)
-  (`XLVUhV8DW64`, `OYOda6T3f-8`). The chart runs the plan: "conditions become
+  (`XLVUhV8DW64`, `OYOda6T3f-8`) ⚠ Fact-check (contradicted-by-source): `XLVUhV8DW64`
+  (10/12/2022 report) never mentions Tanner Bank, Cortez Bank, fragmentation,
+  or a warm-water retreat/condensation; it describes bluefin/yellowfin/dorado
+  "spread all over the place" and a year-over-year predictable-location
+  pattern. Only `OYOda6T3f-8` (10/20/2022) supports the Tanner/Cortez
+  condensation read, and even there it synthesizes two separate remarks —
+  warm water south of the Bight "getting condensed down into nothing," and
+  bluefin having "slid out to the Tanner Cortez" into a "slightly cooler
+  zone" — not stated together as one retreat-toward-Tanner/Cortez claim.
+  The chart runs the plan: "conditions become
   pretty important … look 100 % at your temp chart and chlorophyll"
-  (`OYOda6T3f-8`).
+  (`OYOda6T3f-8`) ⚠ Fact-check (single-source): numerically precise
+  ("100%") and load-bearing (frames the whole regime's operating advice);
+  the transcript's actual wording is "conditions become pretty important
+  when looking offshore finding that right water" (~00:02:34) spliced via
+  ellipsis to a separate remark ~4 minutes later, "right now if I were going
+  out I would like 100 on your temp chart and your chlorophyll when looking
+  for fish" (~00:06:30) — sense matches but the quote joins two non-adjacent
+  passages and normalizes auto-caption wording ("I would like 100 on" →
+  "look 100% at").
 - **Typical-year mapping:** October into December —
   [October](../seasonal/october.md),
   [November–December](../seasonal/november-december.md) (front half), handing
