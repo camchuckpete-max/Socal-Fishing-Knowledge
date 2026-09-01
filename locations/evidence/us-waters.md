@@ -18,6 +18,13 @@ observation. Observations never change the note's stated doctrine.
   3-day): crew collects California fishing licences from anglers as they come
   down the gangway; an angler without one is told on camera he is not getting
   on the boat.
+  ⚠ Fact-check (contradicted-by-source): the boarding licence check is on
+  camera ("your California fishing license there sir" … "welcome aboard"), but
+  "gangway" is not in the transcript and no angler is turned away — the
+  no-licence moment is garbled banter, "I don't have one no not yet they a a't
+  getting on the boat they let you on the boat they let Vegas on the boat".
+  Companion to the row on
+  [US waters](../us-waters.md).
 - `E9YtH56Dngo` (SearcherSportfishing, 2020-12-17, San Diego): a December
   bluefin-tackle rundown closes by telling viewers to stock up on a fishing
   licence for the coming season — the licence framed as a Christmas present.
@@ -41,6 +48,11 @@ observation. Observations never change the note's stated doctrine.
   the same source are logged with the rockfish note; portions of the
   auto-captions around this passage are heavily garbled (asr-uncertain), so
   only the boarding/boundary-tool point is carried here.
+  ⚠ Fact-check (contradicted-by-source): the boats are not private and nobody
+  is cited — "some of my buddies that run farther boats and stuff got boarded"
+  (ASR-garbled; "farther" reads as *charter*) is the whole account, with no
+  ticket, fine or citation mentioned in it.
+  Companion to the row on [US waters](../us-waters.md).
 - `9hEa3sGTh40` (Your Saltwater Guide, 2019-08-20): Ch 16 is for hailing and
   distress; the stated doctrine is not to treat monitoring it as a duty — that
   is the Coast Guard's or vessel assist's job — except for an emergency

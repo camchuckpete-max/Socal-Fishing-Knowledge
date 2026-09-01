@@ -33,11 +33,31 @@ limits, closure boundaries and depth lines all move year to year.**
    ahead of the season rather than on the dock; a December tackle list for the
    season ahead puts the licence in the same breath as the jigs
    (`E9YtH56Dngo`).
+   ⚠ Fact-check (contradicted-by-source): `LsFMBCa9DOQ` shows a boarding
+   licence check ("your California fishing license there sir" … "welcome
+   aboard") but never uses the word gangway, never states a carry-on-your-person
+   rule, and its no-licence exchange is garbled banter — "I don't have one no
+   not yet they a a't getting on the boat they let you on the boat they let
+   Vegas on the boat" — not an angler turned away on camera. The evidence file
+   carries the same reading.
+   ⚠ Fact-check (contradicted-by-source): `E9YtH56Dngo` says only "another big
+   thing not to … forget to stock up on for this year is your fishing license
+   by far the best christmas present you can give anybody" — the buy-ahead
+   **rather than on the dock** contrast appears nowhere in it.
 2. **Your GO ID lives on that licence.** A **10-digit** number printed one line
    below the barcode (`Qs9oEsh3b_w`). It is the number that identifies gear you
    leave in the water — every hoop-net buoy must carry your name and GO ID
    (`b19_AJjYCok`), so the licence is a prerequisite for legal gear marking, not
    just for angling.
+   ⚠ Fact-check (contradicted-by-source): the digit count is verbatim but the
+   position is off by one line, and the error points the reader at the wrong
+   number. `Qs9oEsh3b_w` says "right under the barcode there's a … number
+   that's not it there's another number **one line down from that** it says go
+   id colon and it's a ten digit number" — i.e. the GO ID is the second line
+   below the barcode, not the first. The identical "one line below the barcode"
+   wording is carried on
+   [California spiny lobster](../species/california-spiny-lobster.md) and in
+   this note's evidence file.
 3. **Second documents stack on top of the licence.** Hoop-netting for lobster
    needs a **lobster report card** as well as the licence, filled out before you
    fish rather than after; the card fields, gear codes and the rest are on
@@ -65,6 +85,14 @@ side of one. The fix is to load the boundary into a chart app and check
 position against it in real time rather than trusting the sounder
 (`iAr6sbRC384`). The depth figures themselves are rockfish-scoped and live with
 their as-of dates on [rockfish & lingcod](../species/rockfish-lingcod.md).
+⚠ Fact-check (contradicted-by-source): who was boarded, and whether anyone was
+cited, both harden past the source. `iAr6sbRC384` says "the only reason I found
+that out because some of my buddies that run farther boats and stuff got
+boarded" (ASR-garbled; "farther" reads as *charter*) — boats his buddies *run*,
+not private boats, and that account mentions no citation, ticket or fine. The
+chart-app and position-over-depth points do verify ("inside that line some of it's 800 feet"; "download it on your phone … punch
+in the numbers and it'll make a li[ne] for you"). The evidence file carries the
+same "private boats … boarded and cited" reading.
 
 **Hook counts are capped.** A jig fished in US waters runs **two hooks** — a
 single assist on the nose and a single on the tail, so an assist *pair* on the
@@ -74,6 +102,26 @@ front alone already reaches the limit
 ⚠ Flagged gap — no corpus source: the issuing authority and as-of date behind
 that two-hook cap, and whether it is a statewide rule or a fishery-specific
 one.
+⚠ Fact-check (contradicted-by-source): the corpus does carry a source for this
+cap, and it is narrower than "US waters". `iAr6sbRC384` — the California
+rockfish seminar — states it as a rockfish gear limit: "remember it's a to
+[two] hook with in there so don't get in trouble … if I were to put one of
+these on top … they considered three hooks so be careful" (ASR-garbled). It
+gives no issuing authority and no nose-plus-tail configuration, and it does not
+generalise the cap beyond rockfish. Pulling the other way, `shZCjX2-fkI` (San
+Diego, 2021) describes four-hook bluefin chandelier rigs as routine — "where
+you have two hooks hanging off the top two hooks down below or a single big j
+hook down below it all works" — with no mention of a limit. **ext-verify**
+⚠ Fact-check (contradicted-internal): the two notes this sentence links state
+the cap differently. [slow-pitch jigging](../techniques/slow-pitch-jigging.md)
+says an assist pair on the front "already puts you **over** the limit", where
+this page and
+[the regulatory register](../sources/regulatory-claims.md) say it *reaches*
+it — a two-hook pair is either legal or not, and the two readings disagree on
+that. [knife jigs](../lures/knife-jigs.md) separately documents several
+three-hook builds fished successfully in the San Diego fleet (a 6/0 double on
+top plus a single 6/0 below; a factory Fish Lab pre-rig of two 6/0 up top plus
+a 9/0 slider), which the cap as written would make illegal.
 
 **Distress response belongs to the Coast Guard.** Channel 16 is for hailing and
 distress, and monitoring it all day hoping to be the boat that runs to a rescue
@@ -112,6 +160,13 @@ date, and indexed in
 
 One region sits on this side of the line — the Southern California Bight, from
 the Santa Barbara Channel to the border.
+⚠ Fact-check (contradicted-internal): the region page this links states its own
+northern limit differently — [Southern California
+Bight](socal-bight.md) opens "The Bight runs from **Point Conception** to the US
+border", and carries the Santa Barbara Channel only as the location of its
+northernmost *zone* (12 Mile Reef). Point Conception and the channel are not
+the same northern anchor, and this page summarises the child rung rather than
+defining it.
 
 <!-- children:start -->
 - [Southern California Bight](socal-bight.md)
