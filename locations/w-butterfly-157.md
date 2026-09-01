@@ -52,6 +52,12 @@ sits roughly **60 miles straight off the beach**
 ([81 / 381](81-381.md), [island structure](island-structure.md#san-clemente-island--navy-controlled-access)),
 so the reach to these marks is that crossing plus a leg of **23–42 nm** further
 out — not a figure any source states.
+⚠ Fact-check (unverifiable): the `island-structure.md#san-clemente-island--navy-controlled-access`
+cite used here and in the Navy paragraph below points at a section that does not
+exist — `locations/island-structure.md` has no San Clemente heading and carries
+neither the 60-mile crossing nor the Navy access rule; both live on
+[San Clemente Island — Front Side](san-clemente-island-front-side.md)
+(`XyKF34C5iB4`, `LTCFjqtSI8g`).
 
 **The mainland is a long way further.** The nearest charted mainland position in
 the library is **Widow Rock** in [La Jolla](la-jolla.md), **52.7 nm** from the
@@ -133,7 +139,15 @@ of them the name was given to first.
 **Only one of the three names claims a depth.** A bank is an isolated high spot
 rising out of otherwise deep water and is named for the **fathom depth of its
 shallowest point**, at six feet to a fathom
-([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`). Read that way:
+([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`).
+⚠ Fact-check (contradicted-by-source): the source hedges the rule and carves out
+distance-named banks in the same breath — "most of them are the banks are called
+after the highest part of the bank", then "the nine mile bank that's not nine
+miles deep that's nine miles off the coast" and "14 is 14 miles off the beach" —
+neither of which this sentence carries, and the exception is exactly the reading
+the "157" name is open to.
+
+Read that way:
 
 | spot | name read as fathoms | in feet |
 | --- | --- | --- |
@@ -186,7 +200,17 @@ hand-off out of this zone has nothing to hand off to.
 The best paddy water in the Bight is **south of San Clemente Island / Catalina**,
 and along the coastal strip from Dana Point to Oceanside and southward; north of
 Dana Point paddies thin out and hold fewer fish (`HzE4FHHcvTk`,
-[bight geography](bight-geography.md)). Every mark in this zone lies **23–42 nm**
+[bight geography](bight-geography.md)).
+⚠ Fact-check (contradicted-by-source): the source gives three hedged co-equal
+options rather than a Bight-wide best — "your best bet is i would say for that
+type of action is south of san clemente island or south of catalina or along the
+beach below dana point um towards the ocean side" — and never indexes the
+thinning to Dana Point: "when you get further up the patties are fewer and
+further between and they're not always holding", where "further up" is unanchored
+and the reason given is dock proximity and pressure ("the closer the patties are
+to a dock the more likely they are to get hit"), not latitude. This is the only
+claim on the page that scopes anything to this water.
+Every mark in this zone lies **23–42 nm**
 south of the San Clemente back side (cameron), which puts the whole zone inside
 that named band. That is a statement about the water, not about the banks:
 ⚠ Flagged gap — no corpus source describes a paddy over any position here. Paddy
@@ -198,7 +222,13 @@ and [dorado](../species/dorado.md).
 **The fall condensation runs past this zone rather than over it.** In the
 2022-10-20 Bight report the bluefin volume had slid out to Tanner and Cortez, the
 water being worked running "from the 381 off the east end back side of Clementi
-out to Tanner and Cortez" (`OYOda6T3f-8`, [October](../seasonal/october.md)). That
+out to Tanner and Cortez" (`OYOda6T3f-8`, [October](../seasonal/october.md)).
+⚠ Fact-check (contradicted-by-source): the quoted corridor is verbatim but "the
+bluefin volume" overstates the source, which moves one previously hard-to-find
+body of fish — "the blue fin that we talked about uh last week kind of being
+harder to find it sounds like those things slid out to the Tanner Cortez" —
+while the same report simultaneously has bluefin foaming on the Santa Cruz /
+Santa Rosa back side and down at Santa Barbara Island. That
 corridor runs about **27 nm** from the 381 out to Tanner Bank, and this zone sits
 south of its inshore end — **19.9 nm** from the 381 at the 157, **24.7 nm** at the
 W. Butterfly and **37.4 nm** at the Mushroom (cameron) — alongside the band, never
@@ -212,6 +242,13 @@ zone is inshore-and-south of the fall endpoint rather than part of it.
 **~50–60 square-mile** box (`Blh2BA-7Ono`, [zone lexicon](zone-lexicon.md)), and
 its named members sit **30.1–43.2 nm** northeast and north of the 157 (cameron).
 This zone is outside it.
+⚠ Fact-check (contradicted-by-source): the area figure is hedged and
+self-inconsistent in the source — "you get probably 50 miles 60 square miles to
+look", then "a 60 mile square area", which is a different quantity — so
+"~50–60 square-mile" is a reconstruction from garbled captions, not a stated
+measurement. The spot list itself verifies verbatim ("the 43 the 181 182 289 the
+entire clementi ridge um all the way up to the macro bank"). Same figure repeated
+in the search-box-split paragraph below.
 
 ⚠ Flagged gap — no corpus source: whether
 [bluefin](../species/bluefin-tuna.md), [yellowfin](../species/yellowfin-tuna.md),
@@ -234,7 +271,15 @@ light, current or swell do here.
 geometry argues both ways.** The Bight's two zone types are the complex — a
 **~50–60 square-mile** box you plan hours of looking across — and the compact spot
 you idle onto, grade on the meter, and either commit to or leave (`Blh2BA-7Ono`,
-[zone lexicon](zone-lexicon.md)). The 157 and the W. Butterfly are two isolated
+[zone lexicon](zone-lexicon.md)).
+⚠ Fact-check (contradicted-by-source): the compact half of that split is not in
+the cite — no idling, no meter grade and no commit-or-leave read appear anywhere
+in the transcript, whose only contrast with the big search area is "it's not like
+running to the 302 or 371 or even running up to uh the stuff off the west end of
+cat", and whose search advice is "run bank to bank… look for color changes
+temperature changes bird life". The square-mile figure carries the same finding as
+the paragraph above.
+The 157 and the W. Butterfly are two isolated
 marks **8.6 nm** apart with open water between them, which reads like a pair of
 compact spot-checks; the **19.2 nm** leg down to the Mushroom is a transit, not a
 box (cameron). ⚠ Flagged gap — no corpus source places any of the three on either
