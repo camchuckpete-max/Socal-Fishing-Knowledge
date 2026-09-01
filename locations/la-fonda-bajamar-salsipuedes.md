@@ -19,7 +19,9 @@ open Baja mainland coast between Descanso and Ensenada — four charted coastal
 positions (cameron) from **Punta Mesquite** at **32°09.580'N 116°54.800'W** down
 to **Punta Salsipuedes** at **31°58.385'N 116°50.010'W**, about **12 minutes of
 latitude** of points and beach, with one numbered offshore bank, **the 97**,
-sitting just outside the south end.
+sitting just outside the south end. ⚠ Fact-check (contradicted-internal): the
+zone's own coordinates put that span at **11.2 minutes** of latitude (32°09.580'N
+to 31°58.385'N per [the spot library](../sources/spot-lists.md)), not 12.
 
 It is the southern of the two halves the spot library's **Northern Baja**
 section splits into. That section ran one heading from the Bull Ring on the
@@ -49,8 +51,18 @@ it (`0dIwWiOc1NY`, `0bcDBGzQnGw`); the Ensenada zone's northernmost charted
 position, Punta San Miguel at **31°54.110'N 116°44.980'W** (cameron), lies about
 **4 minutes of latitude** south of Punta Salsipuedes. ⚠ Flagged gap — no corpus
 source states that this zone is fished out of Ensenada, or out of anywhere else.
+⚠ Fact-check (contradicted-by-source): "drive-to port" hardens what the cited
+episode presents as the alternative — a Hotel Coral shuttle carried half the crew
+across the border while "the rest of us made the run by sea, 4 hours south"
+(`0dIwWiOc1NY`). ⚠ Fact-check (contradicted-by-source): neither cited transcript
+says an offshore fleet departs from the Hotel Coral marina — `0bcDBGzQnGw`'s only
+fleet sits 45–50 mi offshore — and the bait-outside-the-marina detail is
+`0dIwWiOc1NY` alone.
 ⚠ Flagged stub — no corpus source yet: the Ensenada zone page does not exist, so
-the zone's obvious southern neighbour has nothing to hand off to.
+the zone's obvious southern neighbour has nothing to hand off to. ⚠ Fact-check
+(contradicted-internal): the stub is stale — `locations/ensenada.md` exists as a
+full v2 zone page and already backlinks to this note, so the southern handoff
+target is present.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -86,7 +98,12 @@ section, attached here because this is the run grouping it falls inside.
 Under the bank-naming convention a bank takes the **fathom depth of its
 shallowest point** as its name, at six feet to a fathom
 ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`), which would put the 97's high
-spot at **97 fathoms — roughly 582 ft**. ⚠ Flagged gap — no corpus source
+spot at **97 fathoms — roughly 582 ft**. ⚠ Fact-check (contradicted-by-source):
+`Rf1HKJG-SDg` hedges that convention — "most of them… are called after the
+highest part of the bank" — and names distance-named exceptions in the same
+passage (Nine Mile Bank is 9 miles off the coast, the 14 is 14 miles off the
+beach), so the rule alone cannot establish that "97" is a fathom figure rather
+than a distance. ⚠ Flagged gap — no corpus source
 confirms the 97's charted depth, relief or bottom independently of its label, or
 says anything about fishing it.
 
