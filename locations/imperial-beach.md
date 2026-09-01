@@ -25,6 +25,19 @@ underwater rock that makes Point Loma a far bigger piece of structure than it
 looks does not stop at the point — "there's also more structure down off
 Imperial Beach" (`kwMIgkCtFUE`).
 
+⚠ Fact-check (contradicted-by-source): "schools run smaller" is not in
+`VpW91AKOFVQ`. Capt. Scotty calls the Coronados school "a big old school" where
+a fast retrieve still gets bit, and describes the coastal fish as **bigger**
+grade — "especially for these bigger grade fish they really really finicky" —
+never characterising the Del Mar-to-Imperial-Beach schools as smaller. The
+mechanism he gives is school-size sufficiency ("if there's enough fish … the
+school is big enough there might be a fish that wants to eat it"), so smaller
+schools is a defensible reading but an unstated one, and "smaller fish" would
+be backwards. "On the same gear" is also a stretch: the variable under
+discussion is retrieve speed and jig action, not gear held constant. Repeated
+in the [What's there](#whats-there) yellowtail row and in
+[How it fishes](#how-it-fishes).
+
 **No corpus source describes a day fished here.** The zone is named twice on
 camera and its pipe probably a third time, which is why the confidence is
 `medium` and why the program below is coastal-structure doctrine applied to
@@ -45,6 +58,18 @@ CONAPESCA/INM and the paperwork is [Mexican waters](mexican-waters.md), not
 CDFW. **Boundary compliance is positional, not depth-based** — load the line
 into a chart app and check position against it in real time rather than
 trusting the sounder (`iAr6sbRC384`, [US waters](us-waters.md)).
+
+⚠ Fact-check (contradicted-by-source): `iAr6sbRC384` never mentions Mexico, the
+border or the international boundary. The line it teaches is the California
+rockfish depth-constraint boundary — "wherever you're fishing there is a line
+it's called the 75 fa[thom] … it goes like this from Ho[llywoo]d off [Poin]t to
+San Diego", enforced by "the Cal[ifornia] fish[ and] game" — and the
+positional-not-depth point is made about that line ("inside that line some of
+it's 800 feet … so if I'm in 400 [it's not] legal and get ticket[ed]"). The
+chart-app instruction is real but is Navionics for the RCA line ("you could
+punch in the numbers and then it'll make a li[ne] for you"); "rather than
+trusting the sounder" is not stated — no sounder appears in the transcript. The
+rule may still hold at the border, but this cite does not carry it there.
 
 ⚠ Flagged gap — no corpus source: where the US/Mexico maritime boundary runs
 relative to these four waypoints.
@@ -122,8 +147,8 @@ zone holds.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Calico bass](../species/calico-bass.md) | year-round; bass bite through the winter, with water temperature setting how active they are (`Kf5wk_TFgTc`) | Calico relate to kelp and shallow reef, and half this zone's charted marks are kelp positions (cameron) |
-| [Sand bass](../species/sand-bass.md) | year-round, and the reliable cold-season bite on this coast (`Kf5wk_TFgTc`) | Sand bass sit mostly on deep-water structure and are rarely in the kelp (`Kf5wk_TFgTc`) — which is what the pipe is for — and ball up on open flats to spawn in summer ([sand bass](../species/sand-bass.md)) |
+| [Calico bass](../species/calico-bass.md) | year-round; bass bite through the winter, with water temperature setting how active they are (`Kf5wk_TFgTc`) ⚠ Fact-check (contradicted-by-source): said of bass generically, not calico — "bass fishing is always an option they bite year round … it's just with the different water temperatures the bass are more less active"; the species scoping is this note's inference | Calico relate to kelp and shallow reef, and half this zone's charted marks are kelp positions (cameron) |
+| [Sand bass](../species/sand-bass.md) | year-round, and the reliable cold-season bite on this coast (`Kf5wk_TFgTc`) ⚠ Fact-check (contradicted-by-source): `Kf5wk_TFgTc` attaches the reliability to the STRUCTURE, not the species — "the most reliable bite at this time here is be your deeper water structure" — and "they bite year round" is the same generic bass line as the calico row; the sand-bass scoping is chained through the species' deep-structure habit, not stated | Sand bass sit mostly on deep-water structure and are rarely in the kelp (`Kf5wk_TFgTc`) — which is what the pipe is for — and ball up on open flats to spawn in summer ([sand bass](../species/sand-bass.md)) |
 | [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | This zone is the named south end of the **Del Mar to Imperial Beach** stretch, where the schools run smaller and markedly more finicky about jig action than a big Coronado Islands school on the same gear, especially on bigger-grade fish (`VpW91AKOFVQ`) |
 | [California halibut](../species/california-halibut.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Open flats are one of the coastal halibut cases ([California halibut](../species/california-halibut.md)); this zone's charted flat is the only mark the corpus attaches to that read here (cameron) |
 
@@ -139,6 +164,18 @@ move to find them (`Kf5wk_TFgTc`). Work the face that is turned into the
 current: on a downhill current that is the west side, where the rocky reef
 drops to the bottom (`kwMIgkCtFUE`). Mechanism in
 [current structure](../conditions/current-structure.md).
+
+⚠ Fact-check (contradicted-by-source): only the second half is
+`Kf5wk_TFgTc`'s — "there are going to be bass scattered around those zones but
+you're going to have to cast around and move around to find them". That
+transcript never mentions anchoring, and its catch-nothing line does not exist;
+the "if you try to just stop and Fish on those you're probably not going to
+catch anything" wording is `kwMIgkCtFUE`'s, already cited elsewhere in this
+section. `Kf5wk_TFgTc` in fact endorses holding once bait is found — "you spot
+lock with your trolling motor and then just use your graph follow that bait
+around" — so the cite should be split rather than the claim changed. The
+current-facing-edge half of the paragraph is `kwMIgkCtFUE`'s and is correctly
+cited.
 
 **Let the bait picture decide whether you fish at all.** Along that
 current-facing edge, bait holds to feed on the upwelling and the zooplankton
@@ -164,12 +201,39 @@ with a top-hook configuration that will not foul on the bottom, plus a
 the pipe (`Kf5wk_TFgTc`). Seasonal frame in
 [February–March](../seasonal/february-march.md).
 
+⚠ Fact-check (contradicted-by-source): the deep half holds ("the most reliable
+bite at this time here is be your deeper water structure"; deep spots are "less
+affected by runoff"), but `Kf5wk_TFgTc` never says kelp and shallow reef shut
+down when the inshore water goes **cold and dirty**. Its dirty-water remark is
+rain- and island-specific — "most of the islands can be pretty washed out in
+the bass zones especially Catalina … a lot of dirt on the hillside it
+definitely washes out" — and cold is handled separately as reduced activity and
+fish sitting deeper. The cold-and-dirty kelp shutdown is a generalisation this
+note makes.
+
+⚠ Fact-check (contradicted-by-source): the top-hook build is real but the
+source states it comparatively, not absolutely — a trailing hook "gets very
+easily snagged", against which a top hook is the better bet (`Kf5wk_TFgTc`).
+"Will not foul on the bottom" hardens that into a guarantee the source does
+not give.
+
 **On the iron, dial the retrieve tighter than an island trip needs.** The
 mainland schools from Del Mar down to Imperial Beach are finicky about jig
 action compared with a big Coronados school on the same gear, especially on
 bigger-grade fish (`VpW91AKOFVQ`), and a jig that is being refused by fish you
 can see gets a speed-up-slow-down change before it gets swapped
 (`Ec2GaNpiOHI`) — see [surface iron](../techniques/surface-iron.md).
+
+⚠ Fact-check (contradicted-by-source): the cadence change is verbatim in
+`Ec2GaNpiOHI` ("that little speeds it up slow down … a little perky jerky"),
+but the ORDERING — cadence change before swapping the jig — is not stated
+there. Cadence and jig-swapping appear in separate, unconnected passages, and
+the transcript's nearest framing is the opposite counsel, "if you're confident
+in [your] jigs just keep on fishing"; jig culling in that video is a pre-trip
+swim test off the bow, not an on-the-fish response. The anecdote is also a
+boyhood story from when Wade was 12–13, framed as the origin of his own habit
+rather than a stated rule. The `VpW91AKOFVQ` half repeats the "run smaller"
+finding flagged at the top of this note.
 
 Zone guides — the trip-level story:
 
