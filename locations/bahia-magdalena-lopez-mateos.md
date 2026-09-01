@@ -61,8 +61,8 @@ every Mexican trip is [Mexican waters](mexican-waters.md).
   mi, about 16 hours** (`3tQ1_xiqwVU`).
 
 ⚠ Fact-check (contradicted-by-source): the corridor's near end. `3tQ1_xiqwVU`
-gives "16 hour run, 160 mi" departing [the Ridge](the-ridge.md) — the bank the
-same video places "down here in front of Mag Bay" — not the bay itself, and
+gives "16 hour run, 160 mi" departing [the Ridge](the-ridge.md) — the boat
+"came back up on the ridge" and took off from there — not the bay itself, and
 [the Ridge](the-ridge.md) carries the leg that way.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
