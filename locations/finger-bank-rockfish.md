@@ -91,7 +91,12 @@ place.** The library's offshore-banks list charts the **Upper Finger Bank** at
 117°07.000'W** (cameron) — a separate zone, roughly **7 to 10 minutes of
 latitude south** of these five marks and **3 to 7 minutes of longitude east**
 of them. So the five spots here carry the Upper Finger Bank name while lying
-well north and west of the position charted under that name. ⚠ Flagged gap —
+well north and west of the position charted under that name.
+⚠ Fact-check (contradicted-by-source): the 475 Knuckle falls outside both
+stated ranges — it lies **10.0 to 12.4** minutes of latitude south of these
+five marks, and at 117°07.000'W it sits **0.1 minute** from the 27 Fathom
+Spot's meridian rather than 3 to 7 minutes east of it; the stated ranges hold
+for the Upper Finger Bank alone (7.2–9.6 south, 2.7–6.9 east). ⚠ Flagged gap —
 no corpus source: whether these marks sit on a northern extension of the same
 bank feature — a *finger* would suggest exactly that — or whether the label is
 inherited loosely from the nearest named bank.
@@ -104,6 +109,13 @@ about **6 to 10 minutes of longitude east** (cameron). Those coastal marks
 carry the same *rockfish* label with **no depth**; this zone carries the depths
 with **no coastline**. Together they are the only two zones in the region whose
 labels name rockfish, and neither has a source describing a trip.
+⚠ Fact-check (contradicted-by-source): the separation runs **5.2 to 10.5**
+minutes of longitude — Punta Descanso (117°01.890'W) is 5.21 minutes from the
+27 Fathom Spot (117°07.100'W), inside the stated floor.
+⚠ Fact-check (contradicted-internal): the Coronado Islands zone is a third
+`baja-pacific-north` zone whose spot labels name rockfish — *North of North
+Island rockfish area* and *East of Pukey Point (yellowtail & rockfish)*, both
+charted in the spot library's `## Rockfish areas (Coronados vicinity)` section.
 
 ## What's there
 
