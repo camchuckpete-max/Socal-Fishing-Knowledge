@@ -35,7 +35,10 @@ parameter varies by clip (see below).
   low-profile-connection goal as the [RP knot](essential-knots.md#parameters)
   and the [FG knot](fg-and-albright.md), by a different construction.
 - A reel-line-to-leader splice, not a hook/lure knot: "this is my spectra
-  that goes to my reel and this is my top shot" (`ZECOKmD4fIs`).
+  that goes to my reel and this is my top shot" (`ZECOKmD4fIs`). ⚠ Fact-check
+  (contradicted-by-source): this exact wording is spoken in `7ivBSL-mhW8`, not
+  `ZECOKmD4fIs` — `ZECOKmD4fIs` instead says "this is my specter that goes to
+  my reel this is my leader" (uses "leader," not "top shot").
 - **Why this knot over a back-to-back uni:** a back-to-back uni splice leaves
   two tag ends, one on each side of the connection, and the tag end can catch
   in a rod guide on the cast. The modified slim beauty knot's single tapered
@@ -73,7 +76,14 @@ parameter varies by clip (see below).
     clip is tied in rope, not the actual Izorline Spectra 65 named on camera
     (`IaVqJgUfcM8`). An earlier, unnamed citation of the same construction
     independently gives this same 5-up/5-back count, about two years ahead
-    of the clip that later calls it standard (`tpmOYXYQwhU`).
+    of the clip that later calls it standard (`tpmOYXYQwhU`). ⚠ Fact-check
+    (contradicted-by-source): the `tpmOYXYQwhU` transcript ties a different
+    knot at that timestamp — a loop-tied-in-the-mono braid-to-leader join,
+    never named "slim beauty" and with no uni-knot anchor step — that
+    happens to share a 5-up/5-back wrap count; it does not clearly
+    corroborate this construction (see also the "same construction" framing
+    in the note's intro paragraph and the "Tie it" section, which rest on
+    the same citation).
   - Per "prefer the latest," the pound-test-scaling rule and the 5-down/5-back
     count are the current description of this step; the 9-forward/8-back
     figure is an earlier data point for the same step, not superseded
