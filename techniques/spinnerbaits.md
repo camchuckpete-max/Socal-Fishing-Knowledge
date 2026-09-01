@@ -157,4 +157,5 @@ Trip reports and per-source provenance: [evidence file](evidence/spinnerbaits.md
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Spotted Bay Bass — bottom jig crawl](../species/spotted-bay-bass-bottom-jig-crawl.md)
+- [Water Color](../conditions/water-color.md)
 <!-- backlinks:end -->

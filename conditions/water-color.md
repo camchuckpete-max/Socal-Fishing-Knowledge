@@ -22,6 +22,9 @@ gamefish (`h3PTupup17I`). Freshly upwelled water is therefore cold, green, and
 - **New cold bloom (avoid now).** An overnight **~5 °F drop** plus green water
   after an afternoon NW wind is a local upwelling event — short-term negative.
   Mark it for the recovery; don't expect it to fish today (`h3PTupup17I`).
+  ⚠ Fact-check (single-source): the ~5 °F figure is single-sourced and
+  numerically precise; the same flag already sits on this figure where it is
+  restated in [current structure](current-structure.md#the-mechanism-chain-with-a-time-lag).
 - **Mature bloom edge (fish).** The edge of an established, aged bloom is where
   the chain has caught up and bait/predators have stacked.
 
@@ -33,6 +36,10 @@ cold-green bloom (skip for now) from a mature bloom edge (fish it).
 A chart-level, practical version of the freshness idea above: fish-sighting
 dots on SST/chlorophyll charts are color-coded by age — red for today, yellow
 for yesterday, green for the day before that (`JiJYamo0QHk`).
+⚠ Fact-check (single-source): this red/yellow/green age-coding convention,
+and the ahead-of-the-trend / back-toward-yesterday's-position doctrine below
+it, are single-sourced to one seminar clip and load-bearing for this whole
+subsection.
 
 - Watch all three colors together to read which direction the water — and the
   fish riding it — has moved over that 3-day window, then run to where the
@@ -55,7 +62,14 @@ with all three present together:
 
 Missing any one → leave within 20–30 min. The best version is the local
 variation: a dirty patch with a hard rip/foam edge set inside otherwise
-cleaner water — fish hide in the dirt to ambush (`6TBxHnkYXI0`). See
+cleaner water — fish hide in the dirt to ambush (`6TBxHnkYXI0`).
+⚠ Fact-check (contradicted-by-source): `6TBxHnkYXI0` states only a two-part
+version of this pattern — off-color water plus a current rip/foam edge — and
+gives no leave-window figure; the three-leg version (adding bait) and the
+"don't waste more than 20, 30 minutes" line are stated in `OpcKQPA3vAI`,
+cited for this identical claim in
+[white seabass](../species/white-seabass.md#finding-them-sign--sonar) but
+not present in this note's own `sources`. See
 [white seabass](../species/white-seabass.md) and
 [tide and slack](tide-and-slack.md) for the full triad discipline.
 
@@ -81,7 +95,11 @@ consistent with the corpus's "warmest × cleanest" read for
 
 Background mechanism, not fishing doctrine (`i4OB4G6_adI`): solar energy
 attenuates fast with depth — roughly **45% of surface solar energy remains at
-1 m, 16% at 10 m, 1% at 100 m**, and much less by 1,000 m. The ocean absorbs
+1 m, 16% at 10 m, 1% at 100 m**, and much less by 1,000 m.
+⚠ Fact-check (single-source): the 45%/16%/1% depth-attenuation figures, the
+400–700 nm visible-light range below, and the ~1,000 m aphotic-zone boundary
+are all numerically precise and rest on this one generic oceanography
+lecture alone. The ocean absorbs
 different light wavelengths at different rates; shorter wavelengths (visible
 light spans roughly 400–700 nm) penetrate furthest, with **blue penetrating
 the furthest of all** — the other wavelengths get absorbed first, leaving
@@ -102,7 +120,13 @@ only; it does not change the color/clarity doctrine above.
 Fished at close range from a kayak or skiff, murkier water calls for more
 flash and brighter colors: a blade-style lure — a 1 oz+ spinnerbait, for
 example — cuts through stained water and gives the fish less work to find it
-than a subtler presentation (`LqW32NSkObY`). Clear water is preferred
+than a subtler presentation (`LqW32NSkObY`).
+⚠ Fact-check (single-source): the 1 oz+ weight threshold is numerically
+precise and single-sourced; a different 1 oz spinnerbait pick for a
+different reason (working the harbor-grass water column, not clarity/flash)
+is separately single-source-flagged in
+[spinnerbaits](../techniques/spinnerbaits.md#the-bait), so the two do not
+corroborate each other. Clear water is preferred
 outright when available; brightness only becomes the load-bearing choice
 once the water turns murky. Rain runoff is the locally named driver of dirty
 water in this pattern.
