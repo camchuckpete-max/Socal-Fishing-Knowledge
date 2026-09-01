@@ -163,4 +163,5 @@ California halibut source provenance:
 - [Channel Islands](../locations/channel-islands.md)
 - [Evidence — California Halibut — live-bait drift](evidence/california-halibut-live-bait-drift.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Trap Rig](../rigging/trap-rig.md)
 <!-- backlinks:end -->

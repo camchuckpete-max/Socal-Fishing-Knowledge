@@ -7,7 +7,7 @@ regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cor
 waters: [bay-harbor, nearshore-coast, island, bank]
 layout: v2
 line_class: unknown — no line class given for the halibut build; the Baja grouper build shares the base grouper leader's 300-400 lb mono, 6 ft (`M8hOYQ_6rSg`)
-hook_sizes: unknown — no hook size given for either build; the base Baja grouper leader it extends runs a 12 oz Jobu-class hook (`M8hOYQ_6rSg`)
+hook_sizes: "unknown — no hook size given for either build; the base Baja grouper leader it extends runs a 12 oz Jobu-class hook (`M8hOYQ_6rSg`). ⚠ Fact-check (contradicted-internal): techniques/sliding-sinker.md reads the identical M8hOYQ_6rSg figure as a 12/0-class hook (ASR mishearing of 12 aught), not 12 oz — see ledger."
 ---
 
 # Trap Rig
@@ -39,7 +39,13 @@ baits.
   hooks (`qIKGJSEE2aY`).
 - **Halibut build — why the stinger:** halibut commonly grab and hold the
   tail end of a bait; the trailing treble on the back half hooks the bites a
-  single nose hook would miss (`qIKGJSEE2aY`).
+  single nose hook would miss (`qIKGJSEE2aY`). ⚠ Fact-check
+  (contradicted-by-source): `qIKGJSEE2aY` only says the stinger lets you
+  "capitalize on a lot more of your bites" — it never states that halibut
+  grab and hold the tail end of a bait. A near-identical rationale ("a fish
+  that only grabs the back half of a mackerel or a big sardine is still
+  landed") is attributed instead to `a5u8BaYzw8c` in
+  [California Halibut — live-bait drift](../species/california-halibut-live-bait-drift.md#rigs--gear).
 - **Halibut build — judgment:** keep slack to the stinger so the bait swims
   naturally instead of being bound tight between the two hooks.
 
