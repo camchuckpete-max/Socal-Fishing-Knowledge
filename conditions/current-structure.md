@@ -39,10 +39,14 @@ itself in [water color](water-color.md).
 
 Upwelling forms where current impinges on structure. Under the summer uphill
 (counter)current, that is the lower / south face of the banks — "that uphill
-current hits the lower end of those banks" (`h3PTupup17I`). Within a bank,
-bias spot selection toward the up-current face under whatever current vector
-is running that day: the up-current face is where nutrients are being
-forced up, so it is where the food chain stacks.
+current hits the lower end of those banks" (`h3PTupup17I`). ⚠ Fact-check
+(contradicted-by-source): the transcript states the uphill current "hits the
+lower end of those banks" but never says "south face" — the south-facing
+read is this note's inference from the uphill = S→N current direction stated
+elsewhere, not a claim the source itself makes. Within a bank, bias spot
+selection toward the up-current face under whatever current vector is
+running that day: the up-current face is where nutrients are being forced
+up, so it is where the food chain stacks.
 
 ## The parallel-current rule (coastal / island structure)
 
@@ -193,7 +197,10 @@ lecture (`Bab_6o7JFh4`):
   crust, below the slope.
 - **Abyssal plain** — the deepest, flattest part of the ocean floor, from the
   base of the continental rise to the mid-ocean ridge, roughly 4,000–6,000 m
-  deep; flattened by settled marine sediment.
+  deep; flattened by settled marine sediment. ⚠ Fact-check (single-source):
+  the 4,000–6,000 m figure is numerically precise and single-sourced; the
+  transcript states this range for the abyssal zone elsewhere in the same
+  lecture rather than attaching it directly to "abyssal plain."
 
 Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
 ~914 m, described above, `HnqiE05vdXs`) sits on the continental-slope portion
