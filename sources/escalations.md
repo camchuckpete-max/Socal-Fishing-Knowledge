@@ -464,3 +464,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T06:26:53Z — conditions/tide-and-slack.md — worker-escalate
 - run: 33475510663
 - reason: worker agent returned garbage: 'Waiting for the first verification batch to complete before finalizing the fact-check flags.' with no LOG line and no commit; treated as subagent-failure per protocol
+
+## 2026-09-01T06:49:59Z — conditions/water-temperature.md — subagent-failure
+- run: 33478746570
+- reason: factcheck worker returned garbage output instead of a LOG line, no edits made
