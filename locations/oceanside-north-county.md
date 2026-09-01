@@ -24,6 +24,14 @@ head — and it is the neighbour of, not the same fishery as, the built-reef
 the same stretch of water. The strip is also the north end of the Bight's best
 [kelp paddy](../conditions/kelp-paddies.md) water (`HzE4FHHcvTk`).
 
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` ranks the paddy water the
+other way — "still lots of good kelp patty fishing below san diego" and "the
+guys fishing further from the dock are doing the best" — and never designates
+any band as the Bight's best paddy water with a north end. The north is a
+fade-out in that report ("when you get further up the patties are fewer and
+further between and they're not always holding"), not the top of a ranked
+band.
+
 ## Getting there
 
 ⚠ Flagged gap — no corpus source: the ports and launch ramps this zone is run
@@ -38,6 +46,16 @@ fishing in their own right and reachable without a boat
 [break walls, jetties and riprap](breakwalls-jetties-riprap.md), not as one of
 the 18 offshore-of-the-beach spots below.
 
+⚠ Fact-check (contradicted-by-source): "reachable without a boat" is not what
+`XyKF34C5iB4` says — its access framing is a **kayak** one ("a lot of guys are
+kayaking now… if you have a little break wall of you right outside, dude,
+start there"); shore or no-craft access is never stated. Oceanside itself
+appears only as an agreement item closing a blanket list ("San Diego, Zuna
+Jetti, Oceanside. Yeah, Oceanside."), with no detail. The
+worth-fishing-in-their-own-right half does verify: "a large percentage of
+every single wall on our coast can hold fish… those walls are all little
+ecosystems."
+
 **One MPA edge is charted in this zone.** The spot library carries a single
 boundary note on the strip: at **Encinitas rockfish / Devil's Rock North**,
 stay **north of 33°03.000'N** to stay out of the SMCA (cameron). No other spot
@@ -45,6 +63,10 @@ here carries a boundary note, and latitude alone does not establish where a
 boundary runs — several spots south of that line sit at different points along
 the coast. California / CDFW — verify current MPA boundaries, closures and take
 rules with CDFW before fishing (as of 2026-08).
+
+⚠ Fact-check (single-source): the 33°03.000'N SMCA line is carried only by the
+spot library's own label for the waypoint (cameron) — no corpus source states
+it, and it is a legal boundary given to three decimal minutes.
 
 ⚠ Flagged gap — no corpus source: whether the Camp Pendleton stretch at the
 north end carries a military or restricted-area rule of its own.
@@ -66,12 +88,24 @@ latitude long and never far off the beach, and it sorts into four families
   are deep-water structure that aggregates bait and the bass that follow it;
   the **Buccaneer Pipe** is named on camera among the *larger*-structure
   examples, as opposed to an isolated wreck or small reef (`Kf5wk_TFgTc`).
+  ⚠ Fact-check (contradicted-by-source): the name is spoken under a hedge and
+  is not attached to a place — "like the San An pipe here or the Imperial pipe
+  down San Diego I think it's the buccaneer pipe and O they got them all over
+  the place" — so "named on camera" hardens an "I think it's", on top of the
+  ASR ambiguity already recorded in the evidence file. The larger-structure
+  grouping itself does contain the phrase.
 - **Hard-bottom rockfish areas — four.** Box Canyon, Leucadia, Encinitas
   rockfish / Devil's Rock North, and Del Mar rockfish area — the library's own
   labels for the zone's rock (cameron).
 - **A canyon head — one.** Carlsbad Canyon (33°07.500'N 117°21.400'W), sitting
   immediately inshore-adjacent to the Encina Powerplant Pipe and Terramar Kelp
   at nearly the same latitude (cameron).
+  ⚠ Fact-check (contradicted-internal): the library's own coordinates put the
+  canyon head **offshore** of that pair, not inshore of it — Carlsbad Canyon
+  117°21.400'W against Encina Powerplant Pipe 117°20.860'W and Terramar Kelp
+  117°20.440'W, i.e. 0.54–0.96 minutes of longitude further west (~0.5–0.8 nm
+  seaward). The near-same-latitude half checks out (33°07.500' against
+  33°08.060' and 33°07.490').
 
 The remaining five — **Clam Beds**, **Golf Ball**, **Ponto**, **Beacons** and
 **Flat Rock** — are named local spots the library carries by position only.
@@ -96,10 +130,10 @@ not read Palos Verdes reports onto this spot.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Calico bass](../species/calico-bass.md) | year-round; bass bite through the winter, with water temperature setting how active they are (`Kf5wk_TFgTc`) | Calico relate to the kelp and shallow reef here, and were taken over hard bottom with sub-surface kelp in ~40–42 ft in October, grading to **5 lb** fish repeatedly and a **9 lb** best (`HMdrP4-i9MM`) |
-| [Sand bass](../species/sand-bass.md) | year-round, and **the reliable winter pattern** on this coast (`Kf5wk_TFgTc`) | Sand bass sit mostly on deep-water structure and are rarely in the kelp — which is what the zone's three pipes and its hard-bottom areas are for (`Kf5wk_TFgTc`); they mixed into the October calico catch off Camp Pendleton (`HMdrP4-i9MM`) |
+| [Calico bass](../species/calico-bass.md) | year-round; bass bite through the winter, with water temperature setting how active they are (`Kf5wk_TFgTc`) | Calico relate to the kelp and shallow reef here, and were taken over hard bottom with sub-surface kelp in ~40–42 ft in October, grading to **5 lb** fish repeatedly and a **9 lb** best (`HMdrP4-i9MM`) ⚠ Fact-check (contradicted-by-source): `HMdrP4-i9MM` states no bass weight anywhere — its only size talk is short-fish legal checks ("12 and a half… a little short", "he's got to be 14"). The repeated 5 lb "one after another" plus a 9 lb best against a hoped-for double-digit is `qri15R3caYE`, a StokedOnFishing **La Bocana, Baja** trip, per `species/evidence/calico-bass.md`; carrying it here imports a Baja-Pacific grade onto a Camp Pendleton day. The ~40–42 ft hard bottom and the calico/sand-bass mix do verify |
+| [Sand bass](../species/sand-bass.md) | year-round, and **the reliable winter pattern** on this coast (`Kf5wk_TFgTc`) ⚠ Fact-check (contradicted-by-source): the source attaches winter reliability to a **structure type**, not to a species — "the most reliable bite at this time here is be your deeper water structure that could be a rock an artificial Reef might be a sewer pipe" — and localizes nothing to North County (his geography is "up and down our Coast here", San An pipe, Point Loma, Mission Bay) | Sand bass sit mostly on deep-water structure and are rarely in the kelp — which is what the zone's three pipes and its hard-bottom areas are for (`Kf5wk_TFgTc`); they mixed into the October calico catch off Camp Pendleton (`HMdrP4-i9MM`) |
 | [Rockfish & lingcod](../species/rockfish-lingcod.md) | season-gated | Four spots in the library are labelled "rockfish area" outright — Box Canyon, Leucadia, Encinitas / Devil's Rock North and Del Mar (cameron). ⚠ Flagged gap — no corpus source: depths, species mix or season scoped to these four |
-| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | **25–30 lb** fish were reported showing on this stretch of coast in October (`HMdrP4-i9MM`). Mainland-coast schools on the **Del Mar to Imperial Beach** stretch — which starts at this zone's south end — run smaller than the island schools and markedly more finicky on the iron (`VpW91AKOFVQ`) |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | **25–30 lb** fish were reported showing on this stretch of coast in October (`HMdrP4-i9MM`). Mainland-coast schools on the **Del Mar to Imperial Beach** stretch — which starts at this zone's south end — run smaller than the island schools and markedly more finicky on the iron (`VpW91AKOFVQ`) ⚠ Fact-check (contradicted-by-source): Capt. Scotty never says the mainland fish run smaller, and the grade remark in that passage points the other way — "around here along the coastline you know Del Mar down to Imperial Beach where we see these schools of yellowtail you got to have that right action **especially for these bigger grade fish** they really really finicky". "Big old school" describes school size at the Coronados, not fish size on the coast; "on the same gear" is also not stated (the surrounding talk is retrieve speed and 4:1–5:1 gear ratios). The finicky half verifies. The same "smaller mainland schools" wording repeats under How it fishes below and in `techniques/surface-iron.md` |
 | [Barracuda](../species/barracuda.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Flagged in a crew's pre-trip game plan for this stretch in October, though the day's fishing stayed on bass (`HMdrP4-i9MM`) |
 
 **The paddy fish are outside the spots, not on them.** The best kelp-paddy
@@ -109,6 +143,24 @@ a dock and the more traffic, the less willing they are (`HzE4FHHcvTk`). That
 is open water offshore of this strip rather than a property of the 18 coastal
 spots — see [kelp paddies](../conditions/kelp-paddies.md) and
 [August](../seasonal/august.md).
+
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` gives three co-equal
+options and this keeps only the third — "your best bet is i would say for that
+type of action is **south of san clemente island or south of catalina or along
+the beach below dana point um towards the ocean side**" — and Dana Point is
+never the dividing line for the scarcity claim: "when you get further up the
+patties are fewer and further between and they're not always holding" is said
+of a run that starts below San Diego and ends inside Catalina, with Dana Point
+named only in the following sentence.
+
+⚠ Fact-check (contradicted-by-source): the dock/traffic clause fuses two
+separate statements in `HzE4FHHcvTk`. Pressure → unwillingness is one — "it
+seems like the more pressure the patties get less fish they're less willing to
+fish hard to bite"; dock proximity is the other, and it is about the paddy
+already having been worked, not about fish mood — "the closer the patties are
+to a dock the more likely they are to get hit… i don't think you're going to
+find a patty if somebody hasn't drove over already".
+`conditions/kelp-paddies.md` carries the same fused wording.
 
 ⚠ Flagged gap — no corpus source: whether white seabass, halibut, bonito or
 sheephead are targeted anywhere on this strip, and no month-by-month season is
@@ -123,7 +175,14 @@ work the southeast corner** (`kzD0kSnnVPw`). Standing in front of the San
 Onofre bed, fronds all laid pointing toward San Diego reads as downhill
 current, and the **front (up-current) edge** is where the bigger fish stack
 once the current turns on, because that is where food is being delivered
-(`sIoNELGlxmk`). **Anchor the spot; do not drift through the bed** — drifting
+(`sIoNELGlxmk`). ⚠ Fact-check (contradicted-by-source): the seminar says only
+"all the big fish move to the **front edge** of the kelp when the current
+starts to flow" — it never equates the front edge with the up-current edge,
+and the food rationale is a separate, general trout-stream aside ("they know
+to get out in the current because what's coming food"). The "(up-current)"
+gloss is imported from the NW/SE-corner rule in `kzD0kSnnVPw`, and
+`conditions/current-structure.md` carries the same gloss.
+**Anchor the spot; do not drift through the bed** — drifting
 through gives up the edge-holding pattern entirely (`sIoNELGlxmk`). Full
 mechanism in [current structure](../conditions/current-structure.md), and the
 structure read in [bass structure](bass-structure.md).
@@ -132,7 +191,13 @@ structure read in [bass structure](bass-structure.md).
 coast at San Onofre, the lever is raising the **prey-density level** in the
 water until fish that were not feeding come over and eat (`BdRX4b8Fo5w`); a
 small boat that cannot carry sportboat-scale bait gets the same effect from a
-chum bucket tied off (`xI9tPJFXbUM`). Execution is
+chum bucket tied off (`xI9tPJFXbUM`). ⚠ Fact-check (contradicted-by-source):
+`xI9tPJFXbUM` recommends a chum bucket **for smaller boats** but never says it
+produces the same effect as sportboat-scale bait — he adds "then I want to
+have a lot of live bait too" in the same breath — and the load-bearing detail
+he does give is dropped: the bucket ties up the **side of the boat, never the
+stern**. The identical "same effect" formulation is already ledgered against
+this source on `locations/san-diego-artificial-reefs.md`. Execution is
 [chunking](../techniques/chunking.md) and
 [fishing live bait](../bait/fishing-live-bait.md).
 
@@ -141,7 +206,25 @@ shallow reef are the first to shut down when runoff dirties the inshore water,
 while the deep marks stay fishable — the winter retreat is the deep structure,
 and a crankbait ground through bait balls suspended over a pipeline works all
 cold season ([February–March](../seasonal/february-march.md),
-[inshore crankbaits](../techniques/inshore-crankbaits.md)). Structure size
+[inshore crankbaits](../techniques/inshore-crankbaits.md)).
+
+⚠ Fact-check (contradicted-by-source): `Kf5wk_TFgTc` states the runoff read
+comparatively and about the **islands**, not mainland kelp — "my best bet
+would be to go and fish a deep water stones they're less affected by runoff…
+most of the islands can be pretty washed out in the bass zones especially
+Catalina[,] the areas I like to fish there a lot of dirt on the hillside". No
+ordering claim ("first to shut down") is made, and "less affected" is hardened
+here to "stay fishable". ext-verify.
+
+⚠ Fact-check (contradicted-by-source): in `Kf5wk_TFgTc` the crankbait retrieve
+is explicitly **not** a grind — "it's not steady stop and go burn burn pause"
+— and the window is wider than the cold season ("any time of year you can go
+to these sewer pipes if you find suspended Bait fish"), with January as the
+worked instance ("30 or 40 fish on crank baits in the middle of January"). His
+depth parameter is also unstated here: the crank runs "less than 20 ft down
+even if you're in 60 or 80 ft of water".
+
+Structure size
 picks the method: an **isolated** wreck or small reef is fished vertically,
 because the bass are either on it or they are not; a **larger** piece like one
 of the coast's pipes or a big artificial-reef system holds bass scattered
@@ -162,6 +245,19 @@ kelp in ~40–42 ft): [dropper loop](../techniques/dropper-loop.md) straight dow
 for anglers who cannot cast, and [flylined](../techniques/flyline.md) live
 sardine for everyone else, producing mixed calico and sand bass
 (`HMdrP4-i9MM`).
+
+⚠ Fact-check (contradicted-by-source): the month is not in the source. No
+date, month or season word appears anywhere in `HMdrP4-i9MM`; "October" is the
+manifest upload date (2022-10-11) read as the fishing date. The same
+metadata-derived October is stated four more times on this page — the calico
+row, the yellowtail row, the barracuda row and the Pendleton-end bullet.
+
+⚠ Fact-check (contradicted-by-source): in `HMdrP4-i9MM` the dropper loop is
+set for the **kids** specifically — "I'm setting the kids up uh maybe a little
+bit easier I'm gonna put them on a dropper Loop don't have to worry about
+casting" — not for adults who cannot cast, and the flyline was one of several
+producing methods that day, not the program for everyone else: a tailspin lure
+("one of our new tailspins") and an A-rig also caught fish.
 
 Zone guides — the trip-level story:
 

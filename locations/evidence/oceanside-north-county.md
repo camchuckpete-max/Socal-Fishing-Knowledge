@@ -58,7 +58,13 @@ observation. Observations never change the note's stated doctrine.
   of Dana Point, working south down the coast; calico bass graded up through
   the session — repeated 5 lb fish "one after another" and a best of 9 lb
   against a hoped-for double-digit — with sand bass mixed in, including one
-  angler's first fish ever. The crew's pre-trip game plan also flagged
+  angler's first fish ever. ⚠ Fact-check (contradicted-by-source): no bass
+  weight is spoken in `HMdrP4-i9MM` — its only size talk is short-fish legal
+  checks ("12 and a half… a little short", "he's got to be 14") — and the
+  repeated 5 lb "one after another" plus a 9 lb best against a hoped-for
+  double-digit belongs to `qri15R3caYE`, the StokedOnFishing **La Bocana,
+  Baja** trip logged in `species/evidence/calico-bass.md`. The crew's pre-trip
+  game plan also flagged
   barracuda and 25–30 lb "green fish" (yellowtail) recently seen on the same
   stretch of coast, neither of which the day produced. Unregistered channel —
   medium confidence. Harvested from
