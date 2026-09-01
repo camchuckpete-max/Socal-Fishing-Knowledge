@@ -24,13 +24,20 @@ knot" name — see Parameters for both.
 ## When to use
 
 - Splicing mono to spectra on 80 lb class line at the tackle bench, building
-  or repairing long-range terminal tackle before a trip (`7TPJsMc_clA`).
+  or repairing long-range terminal tackle before a trip (`7TPJsMc_clA`). ⚠
+  Fact-check (single-source): only `7TPJsMc_clA` gives a line-class figure
+  for the 11-up/11-down tie; no other cited source in this note states 80 lb
+  for it.
 - Reach for the standard [uni-to-uni](essential-knots.md#parameters--judgment)
   (~6 wraps) for a quick repair splice; use the heavier 11-up/11-down,
   tool-cinched build below when there's bench time for the extra wrap count.
 - Also usable as a general braid-to-mono/fluoro leader or top-shot
   connection across a wide line-class range, from very light line up to over
-  100 lb test, with a working window of 60 to about 100-130 lb (`SK2M7L2vA1s`).
+  100 lb test, with a working window of 60 to about 100-130 lb
+  (`SK2M7L2vA1s`). ⚠ Fact-check (single-source): only `SK2M7L2vA1s` states
+  this working window; `m6NxHaIifj8` is duplicated footage of the same
+  demonstration (see Parameters below), not an independent confirming
+  source.
 
 ## Parameters
 
