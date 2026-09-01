@@ -26,6 +26,13 @@ page of their own to hold it.
   wind or Santa Anas first, because W/NW blows around Conception at night, stops in
   the morning, and can leave the crossing extremely rough under a calm-looking
   dawn. asr-uncertain(lingcod rendered variously as "Lincoln"/"lincot"/"wings").
+  ⚠ Fact-check (contradicted-by-source): the Santa Barbara Landing boat (the
+  Coral Sea) is reported going to Santa Rosa only (@00:00:48); the San Miguel
+  trip is a separate private boat with no landing named (@00:00:57), so "boats
+  out of Santa Barbara Landing ran to Santa Rosa and San Miguel" fuses two
+  trips. "His stated wind rule" is also a personal planning preference stated as
+  "a couple days of continuous no wind or Santa anas" (@00:02:54), not a rule
+  with a 2+ day threshold.
 - `OYOda6T3f-8` (BDOutdoors, 2022-10-20, northern Channel Islands): the outer
   islands and offshore tuna grounds were called likely rough, with a good Santa Ana
   day named as the trigger to run Rosa or San Miguel for shallow rockfish and
@@ -39,6 +46,12 @@ page of their own to hold it.
   forecasts): swell from a system off the Oregon border tracked down past Point
   Conception and put San Nicolas from 4 ft to 12 ft by Monday after a locally calm
   weekend — the up-coast fetch check the zone page applies to this corner.
+  ⚠ Fact-check (contradicted-by-source): the weekend is not calm in the source
+  ("it's fairly calm Thursday Friday it gets a little windier into the weekend…
+  while we have some wind over the weekend", @00:02:52), the Monday figure is
+  "over 12 feet", and Point Conception is where the *weather system* arrives
+  (@00:08:00), not a waypoint on the swell's track — the swell's travel is given
+  only as "hundreds and hundreds of miles".
 
 ## What's there
 
@@ -57,6 +70,13 @@ page of their own to hold it.
   5–8 °F rolldown — while backside Santa Cruz, Clemente, Catalina and the
   Coronados / tuna grounds held. Stated for the islands inshore of this zone, not
   for the offshore highs.
+  ⚠ Fact-check (contradicted-by-source): the 5–8 °F figure is not in this
+  transcript. Its only degree figure is a hedged Long Beach harbour reading —
+  "56 degree water which is i think seven maybe eight degrees off from where it
+  was before this wind along the beach" (@00:05:15) — and for the islands the
+  source gives an absolute with a hedge ("they're in the low 50s in some of those
+  areas", @00:01:14). "NW blow" is also not stated; the wind is never given a
+  direction.
 
 
 <!-- backlinks:start -->
