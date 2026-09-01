@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
+_Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -2186,8 +2186,8 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 - **locations/dana-point.md**
   - `Getting there`: gap — the launch ramps and hoists in Dana Point
   - `Structure & bathymetry`: gap — charted depths, relief and bottom
-  - `What's there`: gap — season shape scoped to this zone | Five sand bass came off the Dana Point kelp bed in a single July morning session, every one on a strip of squid (`M6U_FVdosr4`) |
-  - `What's there`: gap — season shape scoped to this zone | **Porpoise-associated** yellowfin were trolled on small King Buster-style lures around Dana Point in the **mid-2010s**, a program later rebuilt with a tungsten head (`ouBrIdO7d4k`). This is open water offshore of the zone's coastal spots, not the spots themselves |
+  - `What's there`: gap — season shape scoped to this zone | Five sand bass came off the Dana Point kelp bed in a single July morning session, every one on a strip of squid (`M6U_FVdosr4`) ⚠ Fact-check (contradicted-by-source): the count and the squid strip are verbatim, but the bed and the month are not — see the calico row above; the transcript places only the afternoon trip at the Dana Point kelp bed and speaks no date |
+  - `What's there`: gap — season shape scoped to this zone | **Porpoise-associated** yellowfin were trolled on small King Buster-style lures around Dana Point in the **mid-2010s**, a program later rebuilt with a tungsten head (`ouBrIdO7d4k`). This is open water offshore of the zone's coastal spots, not the spots themselves ⚠ Fact-check (contradicted-by-source): the speaker says **dolphin** throughout, never porpoise; the lures were actual King Busters, not King Buster-style — "that's been a little trolling secret down in Dana Point we used to troll King Busters… they were hammering yellin on the doph" (@01:22:50), "little the cheap ones of those they'd fall apart"; and "mid-2010s" is derived from a hedged relative figure, "**probably** 10 12 years ago" (@01:22:55), against a 2025-03-08 upload. The rebuilt head is stated as **tungsten 1/2 oz** (@01:20:17), a weight this row drops |
   - `What's there`: gap — whether yellowtail, white seabass, halibut,
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
@@ -2936,7 +2936,7 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 - **locations/la-jolla.md**
   - `Getting there`: gap — the ports and launch ramps this zone is run
   - `Structure & bathymetry`: gap — charted depth, relief or bottom composition
-  - `What's there`: gap — season shape scoped to this zone | Named among the San Diego deep-structure bass grounds where a slug cast to the **side** of the structure gets bit within 10–20 ft of the drop (`-eaaWPN5Fxk`) |
+  - `What's there`: gap — season shape scoped to this zone | Named among the San Diego deep-structure bass grounds where a slug cast to the **side** of the structure gets bit within 10–20 ft of the drop (`-eaaWPN5Fxk`) ⚠ Fact-check (contradicted-by-source): the source says "it won't even take 10, 20 feet before you get big cali[co]/sand bass on it" — it measures how far the bait travels, and no drop, ledge or edge is mentioned anywhere in the passage; [sand bass](../species/sand-bass.md) renders the same line as "the bait rarely travels 10–20 ft before … eats it". |
   - `What's there`: gap — whether white seabass, halibut, barracuda,
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program
@@ -3422,8 +3422,8 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 - **locations/point-loma.md**
   - `Getting there`: gap — the ports and launch ramps this zone is run
   - `Structure & bathymetry`: gap — charted depth, relief or bottom composition
-  - `What's there`: gap — season shape scoped to this zone | The zone's charted latitudes (**32°37.470'N** to **32°43.790'N**) sit inside the **Del Mar to Imperial Beach** stretch bracketed by the library's own Del Mar (32°57.191'N) and Imperial Beach (32°32.300'N–32°34.500'N) spots (cameron). Schools on that stretch run smaller and markedly more finicky about jig action than a big Coronado Islands school (`VpW91AKOFVQ`) |
-  - `What's there`: gap — season shape scoped to this zone | Channel edges on a strong tide are the halibut read, and the San Diego Bay shipping-lane and breakwater-mouth walls are named as a major "thumb over the hose" (`OpcKQPA3vAI`); the Zuniga Jetty is this zone's charted structure at that entrance (cameron) |
+  - `What's there`: gap — season shape scoped to this zone | The zone's charted latitudes (**32°37.470'N** to **32°43.790'N**) sit inside the **Del Mar to Imperial Beach** stretch bracketed by the library's own Del Mar (32°57.191'N) and Imperial Beach (32°32.300'N–32°34.500'N) spots (cameron). Schools on that stretch run smaller and markedly more finicky about jig action than a big Coronado Islands school (`VpW91AKOFVQ`) ⚠ Fact-check (contradicted-by-source): the finickiness comparison and the stretch are verbatim ("around here along the coastline you know Del Mar down to Imperial Beach where we see these schools of yellowtail you got to have that right action"), but "run smaller" is an inference from the contrasting "a big old school" at the Coronados — the word never occurs — and on grade the tape runs the other way: "especially for these bigger grade fish they really really finicky" |
+  - `What's there`: gap — season shape scoped to this zone | Channel edges on a strong tide are the halibut read, and the San Diego Bay shipping-lane and breakwater-mouth walls are named as a major "thumb over the hose" (`OpcKQPA3vAI`); the Zuniga Jetty is this zone's charted structure at that entrance (cameron) ⚠ Fact-check (contradicted-by-source): `OpcKQPA3vAI` splits these into two different places. The San Diego Bay item is a photo-shoot halibut "down there", on "a really strong **outgoing** tide right on a channel Edge the hard bottom associate with the channel". The shipping-lane / breakwater-mouth thumb-over-the-hose is the speaker's own home water — "if I was running a halit special on my skiff **up here** I would check out the channel edges uh where the uh shipping lanes are that come into the the mouth of the brake wall… that wall is definitely a **significant** thumb over the hose" — not San Diego Bay, and "significant", not "major". The source also generalises the halibut read as current + structure, not tide: "basically Sandy Bottom near structure… something that's going to break the currents". Neither Point Loma nor Zuniga is named anywhere in the tape |
   - `What's there`: gap — whether rockfish, lingcod, white seabass,
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
@@ -3472,6 +3472,7 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `(lead)`: gap — how this zone fishes at all — no trip, no
   - `Getting there`: gap — the port, ramp or launch this zone is run
   - `Getting there`: gap
+  - `Structure & bathymetry`: gap — confirms the charted depth of any of these
   - `Structure & bathymetry`: gap — bottom composition, kelp, relief or contour
   - `What's there`: gap — a yellowtail observation, grade or window from this zone specifically |
   - `What's there`: gap — every other species on this coast. The
@@ -3763,7 +3764,7 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Getting there`: gap — run time and distance from each named
   - `Structure & bathymetry`: gap — charted depths, bottom composition, kelp
   - `What's there`: gap — season shape scoped to this side | Repeated bycatch on the island yellowtail dropper-loop soak, released because the boat had already limited (`sHnqSIOjTdM`). The island squid nests and beds in **60–100+ ft** are the general target zone ([white seabass](../species/white-seabass.md)) |
-  - `What's there`: gap — scopes that to this side of the island |
+  - `What's there`: gap — scopes that to this side of the island ⚠ Fact-check (contradicted-internal): [California halibut](../species/california-halibut.md) says a source does. Its own fact-check flag on that bullet reads "the 60–100+ ft squid-bed list in the transcript names the backside/East End of Catalina, the Santa Rosa flats and **the backside of San Clemente**" (`OpcKQPA3vAI`) — which is this zone, and this side. The gap flag and the linked species note contradict each other |
   - `What's there`: gap — scoped to this side | The corpus's San Clemente Island barracuda material is explicitly front-side ([barracuda](../species/barracuda.md)) |
   - `What's there`: flagged stub row
   - `How it fishes`: zone guide missing
@@ -3904,7 +3905,7 @@ _Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Getting there`: gap
   - `Structure & bathymetry`: gap — confirms either charted depth
   - `Structure & bathymetry`: gap — anything at all about 304 or
-  - `What's there`: gap — gives a window for this zone | Baja coastal structure from Ensenada southward holds yellowtail more or less year-round with the grade improving the further south you go (cameron); the one fish logged here took a swimbait at Dono and "basically spooled" a 200-size reel before it was lost (`L3tkGVu516A`) |
+  - `What's there`: gap — gives a window for this zone | Baja coastal structure from Ensenada southward holds yellowtail more or less year-round with the grade improving the further south you go (cameron); the one fish logged here took a swimbait at Dono and "basically spooled" a 200-size reel before it was lost (`L3tkGVu516A`) ⚠ Fact-check (contradicted-by-source): the species, the quote and the 200-size reel verify verbatim — "big game straight Yellow Tail right there really basically spooled that 200 size reel byebye" — but the transcript names **no lure** for this fish; the "on the plastic" line belongs to a separate catch in the next breath |
   - `What's there`: gap — every other species on this coast — no
   - `How it fishes`: gap — how the eight charted marks fish — no
   - `How it fishes`: zone guide missing
