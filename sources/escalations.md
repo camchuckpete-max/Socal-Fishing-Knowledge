@@ -468,3 +468,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T06:49:59Z — conditions/water-temperature.md — subagent-failure
 - run: 33478746570
 - reason: factcheck worker returned garbage output instead of a LOG line, no edits made
+
+## 2026-09-01T07:20:19Z — unknown — guard-violation
+- run: 33478746570
+- reason: sweep found violation in 60c008c8a3c98050e71fadb15dc064022dfac08f but revert conflicted — MANUAL ATTENTION: unparseable review commit subject: 'review: worklist row corrections (fix status/flags column errors from orchestrator+self-committed worker)'
