@@ -32,7 +32,10 @@ working a single stakeout.
 If another boat is already parked on a paddy, don't crash it; look **up and
 down its line** for un-pressured paddies feeding the same drift instead. Fish
 on a worked paddy are the least willing; ones a quarter mile up the line have
-not seen a bait (`-JZpyWLdKlk`).
+not seen a bait (`-JZpyWLdKlk`). ⚠ Fact-check (contradicted-by-source): the
+cited transcript supports checking paddies to the north/south of a crashed
+one on the same line, but states no "quarter mile" distance and does not say
+worked-paddy fish are "least willing."
 
 ## Paddy pressure gradient (SoCal geography)
 
@@ -56,13 +59,20 @@ The discipline:
 1. **Approach directly — don't sneak up.** Cutting the stereo and bait pump
    and drifting in quietly is the wrong instinct for a kelp paddy: unlike
    structure fish over a reef, a paddy isn't spooky. Drive up to the edge of
-   it "like it's the dock" (`ZFqe49jRgA0`, `8XrMkWPRxgs`). Look under the
-   paddy for visible fish before committing bait — if fish are visible, it's
-   on today (`8XrMkWPRxgs`).
+   it "like it's the dock" (`ZFqe49jRgA0`, `8XrMkWPRxgs`). ⚠ Fact-check
+   (contradicted-by-source): `8XrMkWPRxgs` supports the same
+   don't-sneak-up/drive-straight-up idea but does not contain the phrase
+   "like it's the dock" — that exact wording is only in `ZFqe49jRgA0`. Look
+   under the paddy for visible fish before committing bait — if fish are
+   visible, it's on today (`8XrMkWPRxgs`).
 2. **Check fast.** Look in the water for visible fish (dorado, yellowtail),
    then check the fathometer for boomerang-shaped arcs, typically **90–120
    ft** down, if nothing shows on the surface. Give it about a minute, maybe
-   two — a look, a sounder pass, one bait (`ZFqe49jRgA0`).
+   two — a look, a sounder pass, one bait (`ZFqe49jRgA0`). ⚠ Fact-check
+   (single-source): both the 90–120 ft arc depth and the ~1–2 minute check
+   budget are verified against this cited source but corroborated nowhere
+   else in the note's citations, and both are load-bearing for the
+   check-fast-then-move discipline.
 3. If nothing shows, move to the next paddy on the line.
 4. Paddies restock overnight, so a paddy dry yesterday can be loaded this
    morning; moon-bright nights drive bigger redistribution (see the
@@ -98,7 +108,9 @@ than one still unproven (`-bw1KDfDjv4`).
 
 Fish holding around a paddy, especially tuna, sit **outside** the piece
 rather than directly under it — stay roughly **100 yards off** rather than
-fishing tight against the kelp (`A6DJoXbID4c`). This is a positioning
+fishing tight against the kelp (`A6DJoXbID4c`). ⚠ Fact-check (single-source):
+the 100-yard figure is verified against this cited source but corroborated
+nowhere else in the note's citations. This is a positioning
 nuance, not a reversal of the direct-approach check above: the direct
 approach is about confirming a paddy is loaded without spooking it; once
 fish are confirmed and working (a bird pile, boils, a bait ball chased away
