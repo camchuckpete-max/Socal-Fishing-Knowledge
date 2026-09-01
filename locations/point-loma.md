@@ -150,13 +150,14 @@ over the hose" deviations that concentrate fish, and a wall's ends and corners
 are where the deviation is largest
 ([break walls, jetties and riprap](breakwalls-jetties-riprap.md)).
 ⚠ Fact-check (contradicted-by-source): `XyKF34C5iB4` names Zuniga (captioned
-"Zuna Jetti") in a list framed as the *opposite* of walls worth fishing — the
-panellist's point is that "a lot of walls we fished historically are **not**
-the wall", the famous one being "Long Beach, you know, the federal brick
-wall", and that "they're not all created equal". The tape never calls Zuniga
-riprap and never describes its structure; the deviation doctrine in this
-paragraph is not in `XyKF34C5iB4` at all (the phrase "thumb over the hose"
-does not occur in it) and rests entirely on the linked note.
+"Zuna Jetti") only inside a list of walls that "are **not** the wall" — the
+famous one being "Long Beach, you know, the federal brick wall" — beside Seal
+Beach, Surfside, Marina del Rey and Oceanside, with "they're not all created
+equal". The worth-fishing half holds ("fish where they live… there's a large
+percentage of every single wall on our coast can hold fish"), but the tape
+never calls Zuniga riprap and never describes its structure; the deviation
+doctrine in this paragraph is not in `XyKF34C5iB4` at all (the phrase "thumb
+over the hose" does not occur in it) and rests entirely on the linked note.
 
 Charted positions for all twelve are in
 [the spot library](../sources/spot-lists.md).

@@ -504,3 +504,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T16:01:17Z — locations/oceanside-north-county.md — check-note-failed
 - run: 33526490734
 - reason: FAIL  locations/oceanside-north-county.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the crankbait retrieve is explicitly
+
+## 2026-09-01T16:45:17Z — locations/point-loma.md — verify-escalate
+- run: 33530302377
+- reason: 3 gap flags are known-false (kwMIgkCtFUE, KVdnRJYq4jU, wysZwsjAkVs, YAKOv9bXKO0, IH4y6GM6BIY cover ports/landings, structure relief, start-and-move) so the note needs a re-transform + sources front-matter update; also the worker committed 4da19a3c directly, bypassing the wrapper/guard
