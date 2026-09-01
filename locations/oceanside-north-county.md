@@ -175,17 +175,17 @@ work the southeast corner** (`kzD0kSnnVPw`). Standing in front of the San
 Onofre bed, fronds all laid pointing toward San Diego reads as downhill
 current, and the **front (up-current) edge** is where the bigger fish stack
 once the current turns on, because that is where food is being delivered
-(`sIoNELGlxmk`). ⚠ Fact-check (contradicted-by-source): the seminar says only
+(`sIoNELGlxmk`). **Anchor the spot; do not drift through the bed** — drifting
+through gives up the edge-holding pattern entirely (`sIoNELGlxmk`). Full
+mechanism in [current structure](../conditions/current-structure.md), and the
+structure read in [bass structure](bass-structure.md).
+⚠ Fact-check (contradicted-by-source): the seminar says only
 "all the big fish move to the **front edge** of the kelp when the current
 starts to flow" — it never equates the front edge with the up-current edge,
 and the food rationale is a separate, general trout-stream aside ("they know
 to get out in the current because what's coming food"). The "(up-current)"
 gloss is imported from the NW/SE-corner rule in `kzD0kSnnVPw`, and
 `conditions/current-structure.md` carries the same gloss.
-**Anchor the spot; do not drift through the bed** — drifting
-through gives up the edge-holding pattern entirely (`sIoNELGlxmk`). Full
-mechanism in [current structure](../conditions/current-structure.md), and the
-structure read in [bass structure](bass-structure.md).
 
 **Bait capacity is the program.** Whether the day is San Clemente Island or the
 coast at San Onofre, the lever is raising the **prey-density level** in the
