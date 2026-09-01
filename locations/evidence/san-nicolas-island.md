@@ -65,6 +65,10 @@ not carried onto the main note as a spot.
   after the full moon and had gone hit-and-miss; the Mirage, out of a Channel
   Islands landing, picked up a bluefin on the way back from Nick, placing fish
   between the island and Ventura Harbor.
+  ⚠ Fact-check (contradicted-by-source): the landing is hedged on camera — "the
+  mirage out of uh i think they're out of channel islands i'm not exactly sure
+  which landing they're out of" — and the seabass line is "over the weekend and
+  through the week here", the week in progress at a mid-week recording.
 - `Blh2BA-7Ono` (BDOutdoors, 2022-07-21, Bight): boats fishing seabass at Nick
   or yellows at Clemente could slide off the islands and add bluefin to the
   mix — one unidentified boat weighed bluefin, sea bass, halibut and yellowtail
