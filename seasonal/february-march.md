@@ -43,7 +43,11 @@ recent weather.
 ## Rain and runoff — the dominant winter variable
 
 - **Multi-day rain puts fishing "in a funk."** Sustained rain, not a single
-  shower, is what knocks it down (`Kf5wk_TFgTc`).
+  shower, is what knocks it down (`Kf5wk_TFgTc`). ⚠ Fact-check
+  (contradicted-by-source): the transcript ties "a funk" to the multi-day rain
+  event it describes ("this much rain over this many days kind of tends to
+  have the fishing... a funk") but never states the single-shower contrast —
+  that distinction is not in the source.
 - **Runoff washes out the island bass zones** — Catalina's dirt hillsides
   especially dump mud into the inshore water and shut the shallow bass bite.
   See [island structure](../locations/island-structure.md).
@@ -69,7 +73,10 @@ Read it as a soft-condition negative — the fish are there, the bite is off.
 ## Bait-size regime — match the zone, not the tank
 
 **Check the bait size before you pick a lure.** Winter runs through
-anchovy / "rice" bait cycles where the forage shrinks (`pcwcRdmWmLc`). When the
+anchovy / "rice" bait cycles where the forage shrinks (`pcwcRdmWmLc`). ⚠
+Fact-check (single-source): verified verbatim ("some really small anchovies
+which I refer to as rice, cuz they're kind of about the size of a grain of
+rice") but the note's only source for this bait-size term. When the
 bait is tiny:
 
 - **Downsize everything.**
