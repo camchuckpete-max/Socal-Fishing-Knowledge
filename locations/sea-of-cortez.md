@@ -48,11 +48,17 @@ A **week to ten days** aboard a mothership out of San Felipe that carries
 pangas on deck and relocates overnight between zones, documented here through
 a nine-episode series filmed in **2022** (sign-off states "Tony Reyes 2022"
 despite 2023 uploads) (`81YHbZQFzgk`) plus a companion tackle breakdown
-(`dEPuDrhoClM`).
+(`dEPuDrhoClM`). ⚠ Fact-check (contradicted-by-source): the "Tony Reyes 2022"
+sign-off does not appear in `81YHbZQFzgk` (episode 1) — no "2022" text
+appears anywhere in that transcript. The actual sign-off ("next year I'll be
+able to get out here and do it again Tony Reyes 2022") is spoken in
+`0dNfsle54Wo` (episode 9, the series finale).
 
 - **The boat moves at night.** One relocation was an **8–9 hour run** to get
   back to the zone fished on day one, "closer to everything we need to be at
-  for the rest of the week" (`aT-fL7vaavY`).
+  for the rest of the week" (`aT-fL7vaavY`). ⚠ Fact-check (single-source):
+  the 8–9 hour run time and the 12–15 ft roller figure below both rest on
+  this one transcript only.
 - **Weather governs everything.** That crossing ran **12–15 ft rollers** —
   "some of them coming up to the roof" — and on arrival the pangas stayed on
   deck: *"it's been a little too snotty to take the pangas out"*
@@ -89,13 +95,14 @@ for nice boiling rocks, good structure — find the structure"* (`8IRONtdkceM`)
 of water** on this program: *"we're in six feet of water… I see now why we
 fish 80 [lb]. I think we would have lost a lot of them already"*
 (`8IRONtdkceM`) — the shallow, snag-heavy rock forces the heavy line class,
-not the fish's size.
+not the fish's size. ⚠ Fact-check (single-source): the six-foot depth and the
+80 lb line class both rest on this one transcript only.
 
 ## What's there
 
 | species | season | what the trip does for them |
 | --- | --- | --- |
-| [Cabrilla](../species/cabrilla.md) | undated in this material | The volume fish: six or seven landed inside an hour on one panga; grade ran **12–15 lb** with the crew hoping to break 15 (`8IRONtdkceM`, `0dNfsle54Wo`). A distinct **golden** color morph turns up — two on board within the first hour on one trip (`4Dn7yChmhk0`) |
+| [Cabrilla](../species/cabrilla.md) | undated in this material | The volume fish: six or seven landed inside an hour on one panga; grade ran **12–15 lb** with the crew hoping to break 15 (`8IRONtdkceM`, `0dNfsle54Wo`). ⚠ Fact-check (contradicted-by-source): in `8IRONtdkceM` the "six or seven" is the narrator's own count alone ("I think I have six or seven, Joe's [got] five, six, and a yellowtail") — his panga partner Joe's catch is separate and additional, so the panga total is higher than "six or seven," not equal to it; `0dNfsle54Wo` contains no matching panga/hour catch count at all. ⚠ Fact-check (contradicted-by-source): neither cited transcript states a clean "12–15 lb" grade — `8IRONtdkceM`'s only matching line ("one hour in I think I got my 12 to 15") is ambiguous between a fish count and a weight, and `0dNfsle54Wo` gives scattered weights instead (eight-to-ten-pound cabrilla, "10 to 15 pound" on the surface, "five to ten, there were some 15s," a spotted 20-pounder, and the crew "finally officially broke the 15 pound mark") with no stated 12–15 lb band; the "hoping to break 15" framing is supported. A distinct **golden** color morph turns up — two on board within the first hour on one trip (`4Dn7yChmhk0`) |
 | [Yellowtail](../species/yellowtail.md) | undated | Bycatch on the same rock program; follows a lure rather than committing to it (`ZYAILGyrkRk`) |
 | Pargo (barred snapper) / grouper | undated | Gonzaga Bay deep-drop target, fished on the documented trip's last morning (`0dNfsle54Wo`) |
 | Sierra | undated | Showed beside the boat during the Gonzaga Bay deep-drop (`0dNfsle54Wo`) |
