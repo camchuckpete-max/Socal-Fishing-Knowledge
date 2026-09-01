@@ -51,12 +51,45 @@ For scale on the other end, the [Coronado Islands](coronado-islands.md) — the
 closest island fishing to a major US port — run **~13 nm from the San Diego bay
 entrance** (cameron).
 
+⚠ Fact-check (contradicted-internal): the spot library holds nearer charted
+positions on both sides — Pukey Point in the Coronado Islands at 90.6 nm beats
+San Miguel Reef's 109.7 nm, and the International Reef complex (95.1 nm) and
+Widow Rock (95.4 nm) beat the Point Loma Pipe's 96.6 nm; San Clemente Island's
+back side sits ~57 nm out. The superlative holds only if "port-side" is read as
+mainland-port positions, which the sentence does not say.
+
+⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` gives 45–50 mi as the
+fleet's reported position that the crew set out to avoid, not a run anyone made
+— "I know the fleet is about 45 50 miles from where at their lamp here if we
+could find fish away from them that's our goal"; the planned run is "20 to 30
+miles straight west" and the furthest position logged is "about 35 miles from
+Ensenada". The word "working" is not in the source, which never says what kind
+of fleet it is. `locations/ensenada.md` carries the 20–30 mi figure off the
+same cite.
+
+⚠ Fact-check (contradicted-by-source): `Ix0gG0-l3v0` states 42–43 mi as a
+hedged distance travelled, not a bank's distance from a port — "how far did we
+just travel uh we just went uh I think about 42 43 miles so we're kind of
+getting into the the whole bank"; the bank is never named and no departure
+point is given at that line. Sibling row already ledgered on
+`species/bluefin-tuna.md`.
+
 **Ensenada is the working port on the Mexican side and the only one the corpus
 attaches to offshore fishing in this region**, with bait taken outside the
 marina and the offshore fleet departing from it (`0dIwWiOc1NY`,
 `0bcDBGzQnGw`). ⚠ Flagged gap — no corpus source states that these banks are
 fished out of Ensenada, out of a US port, or off a long-range boat, and nothing
 says whether this water is a day run for anyone.
+
+⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` supports none of this
+sentence — its only bait reference is a bait barge, its only "marina" is Venice
+marina in Louisiana, and Ensenada appears only as the Hotel Coral conference
+base. In `0dIwWiOc1NY` the bait is self-caught mackerel — "We stopped just
+outside the marina to catch a few to use as bait" — the marina is the Hotel
+Coral resort marina ("you can dock right at the Hotel Coral Marina"), and no
+offshore fleet is described departing from it; that transcript's working-port
+framing is about seafood processing ("one of Mexico's largest seafood hubs,
+where much of the country's commercial fishing and processing happens").
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -78,6 +111,13 @@ zone-diameter cap:
 | The Worm ↔ Elephant | 25.1 nm |
 | Elephant ↔ Bell Bank (300) | **31.6 nm** |
 
+⚠ Fact-check (contradicted-internal): the census's 12 nm figure is a
+spot-to-zone-CENTRE distance, not a zone diameter or a cap on pair separation —
+`sources/geo-census.txt` reads "18 sit further than 12 nm from their zone
+centre". Read that way two of the four marks are inside it (The Pistol 3.5 nm,
+The Worm 11.5 nm) and two are the outliers the next paragraph names; the table
+above measures a different quantity.
+
 **The Pistol is the anchor** — it is the only mark within 13 nm of two others,
 and it sits **3.5 nm** from the zone centre (cameron). The other three hang off it: The
 Worm **11.5 nm** from centre, **Bell Bank (300) 14.6 nm** and the **Elephant
@@ -97,6 +137,19 @@ does, and read by the convention it would top out at **300 fathoms — about
 depth, and nothing says what the three shape names describe — bottom outline,
 sounder trace or something else.
 
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` hedges the naming rule —
+"**most** of them are the banks are called after the highest part of the bank
+on the fish finder fedometer" (@00:06:04) — and gives distance-named exceptions
+in the same passage ("the nine mile bank that's not nine miles deep that's nine
+miles off the coast", "14 is 14 miles off the beach"). Every worked example in
+the source is three digits or fewer (182, 209, 43 fathoms), while this page
+reads a four-figure depth off the rule. The six-feet-to-a-fathom half verifies
+verbatim ("depth is measured in fathoms and six feet is in a fathom"). Sibling
+rows already ledgered on `locations/upper-cross-421-390.md`,
+`locations/1010-trench-378-213.md`, `locations/coronados-230-302-226.md`,
+`locations/corner-140-182.md` and
+`locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md`.
+
 **"300" appears three times in the spot library as three distinct spots**, and
 the lexicon records the distinction explicitly rather than treating it as a
 collision ([zone lexicon](zone-lexicon.md)). Bell Bank (300) at **31°36.300'N
@@ -108,6 +161,20 @@ carries a zone page to hand off to. A related caution for anyone searching the
 corpus: the only other appearances of the word *elephant* in the KB are a
 fish-size term, not this bank.
 
+⚠ Fact-check (contradicted-internal): both of the other two do carry a zone
+page — the plain 300 sits in `locations/43-91-300.md` with its own spot page
+`locations/300.md`, and 300 (The Rampart) is named in the title of
+`locations/sniffer-west-400-300.md`; both zone pages already appear in this
+page's own backlinks block.
+
+⚠ Fact-check (contradicted-internal): *elephant* as this bank appears
+throughout the KB — its own spot page `locations/elephant.md` plus
+`locations/lower-cross.md`, `locations/bumps.md`, `locations/hancock-bank.md`,
+`locations/baja-230-peanut-bank-60.md` and `locations/san-juan-seamount.md`.
+The fish-size reading (`tackle/searcher-daytime-dart-jig-outfit-ladder.md`,
+`species/evidence/bluefin-tuna.md`) is how the source transcripts use the word,
+not how the KB does.
+
 ⚠ Flagged gap — no corpus source: bottom composition, relief, contour, high-spot
 shape, surrounding depth or current behaviour anywhere in this zone. The
 `depth_band` is unknown for that reason, not because the water is shallow.
@@ -118,6 +185,14 @@ about **29 nm** east of the zone centre in the 372 / 245 / 250 zone,
 [1010 Trench / 378 / 213](1010-trench-378-213.md) about **70 nm** east
 (cameron). ⚠ Flagged stub — no corpus source yet: none of the nearer groupings
 carries corpus material.
+
+⚠ Fact-check (contradicted-internal): all three named neighbours are paged —
+`locations/dumping-grounds.md`, `locations/upper-cross-421-390.md` and
+`locations/1010-trench-378-213.md` all exist, as do the next-nearest banks
+`locations/mushroom.md`, `locations/372.md`, `locations/cortes-bank.md` and
+`locations/northeast-bank.md`; the census mints a page for every spot in the
+library. The stub sentence that follows — no corpus MATERIAL — is the accurate
+statement.
 
 ## What's there
 
@@ -136,6 +211,27 @@ source gives a coordinate, distance or bank name, and both describe the fleet
 working **closer** water, so none of it is attributed to this zone. The
 [bluefin router](../species/bluefin-tuna.md) carries that material at region
 level.
+
+⚠ Fact-check (contradicted-by-source): `Blh2BA-7Ono` reads "another wave came
+in out of the west on that last moon" (@00:07:43) — one wave rather than "new
+waves", hedged with "i think", and the phrase as quoted here ("out of the west
+on the moon") is not the source's wording. The Ensenada scoping is right: "the
+boat's fishing out of ensenada are back on the back on the bluefin again".
+
+⚠ Fact-check (contradicted-by-source): `fgTmUq78ofQ` names only two of the
+three areas — "i think there's there's three different areas of bluefin right
+now there's an area that's out west of uh san diego there's one that's west of
+ensenada well there's two areas out west so" (@00:33:44); the "two west of
+Ensenada" split is an interpolation of a self-correction that most plausibly
+means two of the three lie out west. The down-coast half is specifically
+Colonet and San Quintín ("there hasn't been a boat that has been down outside
+of colonet and san cantina in a while because they haven't had to go that far"),
+not the coast generally, and the source adds that bluefin are probably still
+down there. The 2021-05 stamp is the file's `upload_date` (2021-05-14); the
+transcript states no calendar date. Sixth sibling occurrence — already ledgered
+on `locations/upper-cross-421-390.md`, `locations/1010-trench-378-213.md`,
+`locations/ensenada.md`, `locations/baja-pacific-north.md` and
+`locations/evidence/san-quintin.md`.
 
 ⚠ Flagged gap — no corpus source: whether
 [bluefin](../species/bluefin-tuna.md), [yellowfin](../species/yellowfin-tuna.md),
