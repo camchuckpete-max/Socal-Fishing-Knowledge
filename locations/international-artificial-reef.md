@@ -32,7 +32,12 @@ zone-specific gaps are flagged rather than filled.
 
 Artificial reefs generally sit in **shallow water close to the harbors**, which
 is what makes them a short run and also why they have been fished hard for
-years (`f4qYtHACGyk`).
+years (`f4qYtHACGyk`). ⚠ Fact-check (contradicted-by-source): the two facts are
+verbatim but arrive as separate remarks with no causal link between them —
+"most of these artificial reefs are very very close to most of the harbors" and,
+minutes later, "we're fishing mostly in shallow water and these fish have been
+fished hard for years and years and years". "A short run" appears nowhere, and
+the source never says proximity or shallowness is *why* they were fished hard.
 
 **Where it sits in the library** (cameron). The zone's section falls between
 Imperial Beach and the Coronado Islands, and the coordinates place it offshore
@@ -51,7 +56,15 @@ south of it, seasons, limits and licensing are CONAPESCA/INM and the paperwork
 is [Mexican waters](mexican-waters.md), not CDFW. **Boundary compliance is
 positional, not depth-based** — load the line into a chart app and check
 position against it in real time rather than trusting the sounder or dead
-reckoning ([US waters](us-waters.md), `iAr6sbRC384`).
+reckoning ([US waters](us-waters.md), `iAr6sbRC384`). ⚠ Fact-check
+(contradicted-by-source): `iAr6sbRC384` states this about the **CDFW rockfish
+depth-closure line** (the 75-fathom / "450 feet" line) and never mentions Mexico
+or an international boundary — "I have to stay inside that line… some of it's
+800 feet… so if I'm in 400 [it's] not legal and get ticket", with the remedy
+"Navionics… you could punch in the numbers and then it'll make a line for you".
+Carrying it onto the US/Mexico maritime boundary is this note's extension; the
+evidence file scopes it correctly but the claim here does not. "Dead reckoning"
+is also not the transcript's word.
 
 ⚠ Flagged gap — no corpus source: where the US/Mexico maritime boundary runs
 relative to these seven waypoints, and whether any of them is fished from the
@@ -67,14 +80,22 @@ rules over the reef or the missile tower.
 seasons, limits and closures. Checked as of 2026-08. Verify current rules,
 closure boundaries and the position of the international boundary before
 fishing; for anything south of the line see
-[Mexican waters](mexican-waters.md).**
+[Mexican waters](mexican-waters.md).** ⚠ Fact-check (unverifiable): no corpus
+source places the CDFW/California jurisdiction boundary relative to these seven
+waypoints, so which of them are lawfully fished under a California licence is
+asserted from the zone's US-side placement in the spot library alone.
 
 ## Structure & bathymetry
 
 **Built structure, not natural bottom.** The SoCal artificial-reef system was
 built specifically for sport fishermen in the **1950s–70s**, funded by
 sportfishing money rather than by a commercial-fishing program
-(`bM2vUS1B-yQ`). What that buys is fish-holding relief in shallow water within
+(`bM2vUS1B-yQ`). ⚠ Fact-check (contradicted-by-source, ext-verify): the era and
+the money verify — "they were built for us in the 50s 60s and 70s the artificial
+Reef system was built for the sport fishermen they weren't built for the
+commercial guys it was our money" — but the source frames it as who the reefs
+were built *for*, not as a funding program; "rather than by a commercial-fishing
+program" is the note's recast. What that buys is fish-holding relief in shallow water within
 reach of the harbors, and because the reefs have been fished for years the fish
 still on them are the ones most anglers fail to catch rather than the ones that
 are not there (`f4qYtHACGyk`).
@@ -115,7 +136,7 @@ this one has produced.
 | [Calico bass](../species/calico-bass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) and taken off chummed reefs (`f4qYtHACGyk`) |
 | [Sand bass](../species/sand-bass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
 | [California halibut](../species/california-halibut.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
-| [White seabass](../species/white-seabass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`) |
+| [White seabass](../species/white-seabass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`). ⚠ Fact-check (contradicted-by-source): the catch verifies — "you would not believe how many big giant white sea bass i've caught on this method" — but the "once a frenzy is going" qualifier is not attached to white seabass in the source; the frenzy line follows the *yellowtail* mention and is about not knowing what is down there ("because once you start that feeding frenzy on this reef you have no idea what fish are swimming around down there") |
 | [Rockfish & lingcod](../species/rockfish-lingcod.md) | year-round, season-gated | A range of rockfish, plus **sculpin**, are named in the artificial-reef species mix (`bM2vUS1B-yQ`) — see [sculpin handling](../fish-care/sculpin-handling.md) for the venomous-spine rule |
 | [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Yellowtail have been taken off an artificial reef on the anchored chum method (`f4qYtHACGyk`) — the outside case, not the expectation |
 | Sargo | ⚠ Flagged gap — no corpus source: season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router |
@@ -132,19 +153,55 @@ and the execution lives in [chunking](../techniques/chunking.md):
   cut chunks to raise the prey-density level; past a certain density even fish
   that were not feeding come over and eat because they see the others doing it,
   which is what turns a slow pick into a frenzy (`f4qYtHACGyk`), stated as a
-  general SoCal principle rather than a reef-only trick (`BdRX4b8Fo5w`). A
-  private boat that cannot carry sportboat-scale bait gets the same effect from
-  a chum tube (`JK2-cpaXkI8`).
+  general SoCal principle rather than a reef-only trick (`BdRX4b8Fo5w`).
+  ⚠ Fact-check (contradicted-by-source): "past a certain density" sets a
+  threshold the source does not state — `f4qYtHACGyk` says "once you increase
+  the prey density level in the water even the fish that don't want to eat are
+  going to come over because they see all their friends eating", and "what turns
+  a slow pick into a frenzy" fuses in a separate later line about not knowing
+  what is on the reef. The `BdRX4b8Fo5w` general-principle framing verifies
+  verbatim ("I don't care if you're offshore tuna fishing or if you're inshore
+  fishing for calico bass").
+  A private boat that cannot carry sportboat-scale bait gets the same effect from
+  a chum tube (`JK2-cpaXkI8`). ⚠ Fact-check (contradicted-by-source):
+  `JK2-cpaXkI8` claims only that the tube "is going to **help** to increase the
+  prey density level in the water when you're anchored on the spot" — no
+  equivalence to sportboat-scale bait is asserted, so "the same effect" is a
+  hardening. The private-boat framing itself is verbatim ("not for Cory hall or
+  Todd that are carrying 30 or 40 scoops of bait but you or me on our sea
+  swirl").
 - **Never chum off the stern.** At anchor the current runs down the *sides* of
   the boat, so hand chum goes as far up the side as you can throw it
   (`yKaHcxX46l4`), and a chum bucket is tied off at the bow by the anchor for
-  the same reason (`xI9tPJFXbUM`, `bM2vUS1B-yQ`). Cut squid heads, tentacles
-  and guts are the cheap chum source (`yKaHcxX46l4`).
+  the same reason (`xI9tPJFXbUM`, `bM2vUS1B-yQ`). ⚠ Fact-check
+  (contradicted-by-source): `xI9tPJFXbUM` puts the bucket on the bow but not
+  "for the same reason" — its stated rationale is line tangles and not chumming
+  the boats behind you, in a general inshore/kelp context with no artificial reef
+  and no anchor mentioned ("I like to tie mine up to the bow"); "by the anchor"
+  comes only from `bM2vUS1B-yQ` ("tie it off where the anchor is"). The
+  side-current doctrine itself verifies in `yKaHcxX46l4`, though hedged there at
+  "99.9 of the time when you anchor the current's gonna be flowing down the sides
+  of the boat".
+  Cut squid heads, tentacles and guts are the cheap chum source (`yKaHcxX46l4`).
+  ⚠ Fact-check (contradicted-by-source): "cheap" is the note's word — cost is
+  never mentioned anywhere in `yKaHcxX46l4`, which gives only the composition
+  ("all that tentacles and stuff that's great chum"; "scrape all the guts out
+  throw that in the little bag of chum").
 - **Fish far lighter than instinct says.** The stated #1 mistake at artificial
   reefs is fishing way too heavy. A **No. 4–No. 6** hook (`bM2vUS1B-yQ`) tied
   straight to mono, a **1/16 oz** split shot 2–3 in above it by default,
   **1/8 oz** only if current demands it, **never heavier than 1/4 oz**, and a
-  spaghetti-thin strip of bait rather than a wad (`f4qYtHACGyk`). Heavier puts
+  spaghetti-thin strip of bait rather than a wad (`f4qYtHACGyk`). ⚠ Fact-check
+  (contradicted-by-source): the split-shot ladder is inverted. `f4qYtHACGyk`
+  names the quarter *first* on the current escalation — "if there's a lot of
+  current maybe go up to a quarter ounce eighth ounce 16" — and never states
+  1/16 oz as the default or 1/8 oz as the current-only step; only the ceiling is
+  verbatim ("i wouldn't use anything more than a quarter ever"). The rest checks
+  out word for word: "tie this hook straight to this piece of monofilament",
+  "two inches three inches just above it", "like a strip like a piece of
+  spaghetti… a big wad of squid on your hooks never going to work". The same
+  ladder is mirrored in [chunking](../techniques/chunking.md), where it already
+  carries a single-source flag. Heavier puts
   the bait on the bottom, which draws shovelnose guitarfish and bat rays
   instead of the target species (`f4qYtHACGyk`). Gear class is light spinning
   or a small level-wind ([gear classes](../tackle/gear-classes.md)).
