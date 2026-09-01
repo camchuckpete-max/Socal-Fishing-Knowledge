@@ -158,12 +158,19 @@ constraint:**
 common knot... pretty much the only one we use," tied with 10–12 in of tag on
 each side — longer than a beginner strictly needs, left long so the wraps are
 easy to see while learning. Confident to 60 lb, personally tied to 80 lb, "no
-problem" landing fish on it; beyond that the stated guidance is to switch to
+problem" landing fish on it ⚠ Fact-check (contradicted-by-source): the
+transcript's "no problem" remark is general, not stated as scoped to the
+80 lb figure it sits beside here (the 80 lb mention is a separate "I've tied
+it with 80 pounds" line); beyond that the stated guidance is to switch to
 [crimping](crimping.md) rather than keep tying this knot on heavier line — no
 stated cutoff point on the tie itself. Tightens like a "Chinese finger trap":
 the harder a fish pulls, the tighter the two lines squeeze onto each other
 rather than slipping apart. Ties in under a minute for a first-timer, under
-30 seconds experienced (`zKovnvOwlFc`). Preferred over the uni-to-uni knot
+30 seconds experienced (`zKovnvOwlFc`) ⚠ Fact-check (contradicted-by-source):
+the transcript states "you can tie it in under a minute" as a general claim
+and, separately/self-referentially, "I can tie it in under 30 seconds" —
+it does not frame the two figures as a first-timer-vs-experienced split.
+Preferred over the uni-to-uni knot
 specifically for speed ("if two bites really good"), even while conceding the
 uni-to-uni looks a little better cosmetically; both are stated as equally
 effective with the same holding strength — see [Uni-to-Uni
