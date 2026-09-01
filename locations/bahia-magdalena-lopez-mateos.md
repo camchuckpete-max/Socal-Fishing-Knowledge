@@ -26,6 +26,11 @@ in numbers, which is what most visitors come for (`gimFbgN5Jjk`,
 [Loreto](loreto.md) and a drive across the peninsula — not by boat down the
 Pacific coast (`EcQK5elTPJE`).
 
+⚠ Fact-check (contradicted-by-source): the "not by boat down the Pacific
+coast" clause is not in `EcQK5elTPJE`, which gives only the fly-into-Loreto-
+and-drive route, and it sits against this page's own San Diego long-range
+fleet, which reaches the bay's banks by sea.
+
 The region rung is [Baja Pacific — South](baja-pacific-south.md), which owns
 the long-range run distances and the region-wide season shape; paperwork for
 every Mexican trip is [Mexican waters](mexican-waters.md).
@@ -54,6 +59,11 @@ every Mexican trip is [Mexican waters](mexican-waters.md).
   fishing alongside on the same grounds (`EcQK5elTPJE`). The corridor those
   boats run is a region-level fact: Magdalena Bay to Alijos Rocks is **160
   mi, about 16 hours** (`3tQ1_xiqwVU`).
+
+⚠ Fact-check (contradicted-by-source): the corridor's near end. `3tQ1_xiqwVU`
+gives "16 hour run, 160 mi" departing [the Ridge](the-ridge.md) — the bank the
+same video places "down here in front of Mag Bay" — not the bay itself, and
+[the Ridge](the-ridge.md) carries the leg that way.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish
@@ -112,6 +122,17 @@ weather shelter for all of them.**
   four names describe four grounds or overlap is not resolved anywhere in the
   corpus.
 
+⚠ Fact-check (contradicted-by-source): the **50–100 m** stand-off.
+`isXJONlpUP4` runs the figures the other way — "when you move it probably 100
+meters 50 meters already it's so shallow" — which reads as where the water
+shoals, not as a distance the boat was held off the mangrove edge.
+
+⚠ Fact-check (contradicted-by-source): the bank names. `EcQK5elTPJE` renders
+them only as "the 38 and the 23" inside a garbled exchange; "Bank 23" and
+"Bank 38" are not said on camera, and
+[Baja Pacific — South](baja-pacific-south.md) carries them in the transcript's
+own form.
+
 ⚠ Fact-check (unverifiable): the Ridge's depth is rendered in the captions as
 "23 fetus" and read here as roughly **23 fathoms** (`OVwqUKim9Pc`) — the
 number is not confidently resolved and the KB carries no charted position for
@@ -139,28 +160,52 @@ always has something open; the second ranks the windows. Marlin numbers are
 their own window, **October–November** (`gimFbgN5Jjk`). Gray whales arrive
 in the bay "about mid-January" (`EcQK5elTPJE`).
 
+⚠ Fact-check (contradicted-by-source): the two-ways framing. In `EcQK5elTPJE`
+Dave Hansen opens the always-bites point with "like Larry was saying," so the
+transcript has him restating Larry's line rather than making a second,
+independent claim against it.
+
+⚠ Fact-check (contradicted-by-source): the whales. `EcQK5elTPJE` names no
+species and hedges the date — "the whales show up in about I think about mid
+January" — so "gray" is an identification the transcript does not make.
+
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Striped marlin](../species/striped-marlin.md) | October–November; "loaded with stripe marlin… they're everywhere" come fall (`4t_Z75shK_E`) | The bay's headline. One presenter's own best day was **72 marlin**, on a boat he called capable of "over a hundred" that same day (`gimFbgN5Jjk`). Both mackerel and sardine bait balls are present, and marlin feeding on the smaller sardines take smaller trolled lures (`4t_Z75shK_E`) |
+| [Striped marlin](../species/striped-marlin.md) | October–November; "loaded with stripe marlin… they're everywhere" come fall (`4t_Z75shK_E`) | The bay's headline. One presenter's own best day was **72 marlin**, on a boat he called capable of "over a hundred" that same day (`gimFbgN5Jjk`). ⚠ Fact-check (contradicted-by-source): the transcript's line is "My best day was 72 marlin. We could have caught over a hundred" — a claim about that day's opportunity, not about a boat's capability, and the speaker is the panel moderator rather than the seminar's presenter. Both mackerel and sardine bait balls are present, and marlin feeding on the smaller sardines take smaller trolled lures (`4t_Z75shK_E`) |
 | [Wahoo](../species/wahoo.md) | fall — a healthy population "come fall time" (`4t_Z75shK_E`) | The stated key is getting out early in the morning (`EcQK5elTPJE`). One offshore day run for wahoo turned into a "full speed" dorado bite instead (`OVwqUKim9Pc`) |
 | [Dorado](../species/dorado.md) | fall (`4t_Z75shK_E`) | The bank fishery's other warm-water pelagic; a wahoo-targeted run produced the dorado bite instead (`OVwqUKim9Pc`) |
 | Tuna, species unspecified (**20–50 lb**) | ⚠ Flagged gap — no corpus source: season | The half-day program **10–12 mi** out over **200–300 ft**, fished where the sardines concentrate (`EcQK5elTPJE`). Cedar plugs are the crew's standard go-to once they are into tuna (`4t_Z75shK_E`) |
-| [Snook](../species/snook.md) | bites year-round; no month-by-month pattern given (`EcQK5elTPJE`) | Two separate fisheries — skinny mangrove roots down to 2 ft, and the boca at 40–50 ft where the fish run to at least **42 lb** (`EcQK5elTPJE`) |
+| [Snook](../species/snook.md) | bites year-round; no month-by-month pattern given (`EcQK5elTPJE`). ⚠ Fact-check (contradicted-by-source): the year-round statements in that transcript are made of the bay's fishery as a whole — "fish bite there all year long", "there is no time that it doesn't bite" — never of snook, and the same transcript does give a coarse split (grouper inside in winter, the big-ocean species outside in summer) | Two separate fisheries — skinny mangrove roots down to 2 ft, and the boca at 40–50 ft where the fish run to at least **42 lb** (`EcQK5elTPJE`) |
 | Grouper — broomtail and gulf grouper named (`gimFbgN5Jjk`) | inside fishing "phenomenal" through winter (`EcQK5elTPJE`) | The boca produces grouper to **100 lb**, species never named (`EcQK5elTPJE`); juvenile broomtails come off the mangrove roots on flylined bait (`-5kooyIyavs`, `dlxA22FVNGc`). ⚠ Flagged stub — no corpus source yet for a grouper router |
-| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season inside this zone | Part of the untapped jig fishery over the banks (`gimFbgN5Jjk`); one was taken yo-yoing at **180 ft, 10 ft off the bottom** on the Ridge (`3tQ1_xiqwVU`) |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season inside this zone | Part of the untapped jig fishery over the banks (`gimFbgN5Jjk`); one was taken yo-yoing at **180 ft, 10 ft off the bottom** on the Ridge (`3tQ1_xiqwVU`). ⚠ Fact-check (contradicted-by-source): that transcript places the drop not on the Ridge but "down here in front of Mag Bay" — the crew had left the Ridge and Thetis Bank overnight and only "came back up on the ridge" later — and the fish itself "came unbutton", with the species the angler's guess ("Yellow tail, I think"). The same reading is carried on [the Ridge](the-ridge.md) and [Baja Pacific — South](baja-pacific-south.md) |
 | Pargo / snapper — Colorado snapper named (`gimFbgN5Jjk`) | ⚠ Flagged gap — no corpus source: season | Taken on the jig program over the banks (`gimFbgN5Jjk`) and in the mangroves on flylined bait (`-5kooyIyavs`); schools show on top in the estuary, described as looking "like peppers" (`isXJONlpUP4`) |
 | Palometa (pompano/jack family) | ⚠ Flagged gap — no corpus source: season | Fast, repeated action trolling small lures tight to the mangrove edge; called a colour-variant of pompano that grows bigger (`isXJONlpUP4`) |
-| [California halibut](../species/california-halibut.md), [spotted bay bass](../species/spotted-bay-bass.md), corvina, triggerfish, [jack crevalle](../species/pacific-crevalle-jack.md) | ⚠ Flagged gap — no corpus source: season | The mangrove mixed bag, all taken casting bait into the same coves as the snook (`-5kooyIyavs`, `vyX5FGoDH0A`, `dlxA22FVNGc`) |
+| [California halibut](../species/california-halibut.md), [spotted bay bass](../species/spotted-bay-bass.md), corvina, triggerfish, [jack crevalle](../species/pacific-crevalle-jack.md) | ⚠ Flagged gap — no corpus source: season | The mangrove mixed bag, all taken casting bait into the same coves as the snook (`-5kooyIyavs`, `vyX5FGoDH0A`, `dlxA22FVNGc`). ⚠ Fact-check (contradicted-by-source): two of the five species are identified beyond what the transcripts say — `-5kooyIyavs` lists "baby halibut" with no species, and `dlxA22FVNGc`'s fish is called only "another little jack", never a crevalle; pargo, which `-5kooyIyavs` does name in the same breath, is carried in the row above instead |
 
 **A single day of jig fishing over these grounds produced 14–15 species**,
 including Colorado snapper, broomtail and gulf grouper and yellowtail, plus a
 triggerfish that ate a dropped live bait rather than a jig (`gimFbgN5Jjk`).
+
+⚠ Fact-check (contradicted-by-source): the 14–15 species figure is habitual,
+not a single day — `gimFbgN5Jjk` says "there's days where we catch like 14 15
+species" — and the species list beside it is that speaker's general catch for
+the grounds rather than one day's tally. The same reading is repeated in the
+How it fishes section below and on
+[Baja Pacific — South](baja-pacific-south.md).
 
 Adjacent and named in the corpus, but not part of this zone's census: the
 **"lower banks"**, the ground running from Magdalena Bay down toward Cabo San
 Lucas, where giant [yellowfin](../species/yellowfin-tuna.md) run **150 to
 300-plus lb** (`UuyqTE21-kc`). It is carried as a flagged stub on
 [Baja Pacific — South](baja-pacific-south.md).
+
+⚠ Fact-check (contradicted-by-source): the grade. `UuyqTE21-kc`'s lower-banks
+passage gives "giant Tunas of 130s to 350 lb… make their way up into that mag
+Bay lower Banks area to breed and spawn"; the **150 to 300 lb** figure is that
+video's separate intro line about what might not be cruising the Ridge. Both
+numbers are already in the KB from this one source —
+[Baja Pacific — South](baja-pacific-south.md) carries each in a different
+section.
 
 ## How it fishes
 
@@ -213,6 +258,13 @@ and it converts: a school showing on top gets the trolling rods put down and
 light spinning tackle — a **3/4 oz** casting spoon was named — cast at it
 instead ([trolling](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin), `isXJONlpUP4`).
 
+⚠ Fact-check (contradicted-internal): "small lures" on the troll.
+[Snook](../species/snook.md) carries a verified flag that `isXJONlpUP4` never
+calls the trolled lures small — the one size given that day is the ¾ oz spoon,
+which was cast, not trolled — while this page and
+[trolling](../techniques/trolling.md) both describe the program as trolling
+small lures, here and in the palometa row above.
+
 **Leader is the argument inside the mangroves, and it turns on what you are
 fishing for.** For the boca's 100 lb grouper and 42 lb snook the build runs
 **80 lb** braid to a **100–130 lb** leader on a locked-down two-speed
@@ -222,6 +274,20 @@ on **25 lb** fluorocarbon, with anything under **35 lb** stated to have zero
 chance of coming out of the bushes once snagged (`dlxA22FVNGc`); a later trip
 in the same water fished **60 lb** braid to **35 lb** fluorocarbon
 (`-5kooyIyavs`). See [line & leader](../tackle/line-and-leader.md).
+
+⚠ Fact-check (contradicted-by-source): the boca build drops a segment.
+`EcQK5elTPJE` runs "80 lb braid to 80 lb floro to the sinker, to your swivel,
+to a 6 ft piece of… 100 to 130 lb test" on a 4/0 two-speed — the 80 lb
+fluorocarbon between braid and bite leader, and the reel size, are not carried
+here.
+
+⚠ Fact-check (contradicted-by-source): the mangrove numbers do not cohere in
+their own source. `dlxA22FVNGc` says both "we're using 25 floral" and, in the
+next breath, "if you fish anything lighter than 35 there's really zero chance
+of getting it out of there"; that transcript never mentions braid at all (the
+60 lb and the 35 lb fluoro both come from `-5kooyIyavs`, which the sequencing
+"a later trip" is not established for), and it describes the water dirtying on
+the outgoing rather than gin-clear.
 
 ### Outside — banks and the mid-range troll
 
