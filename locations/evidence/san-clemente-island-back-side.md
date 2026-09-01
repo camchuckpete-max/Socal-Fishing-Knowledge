@@ -33,6 +33,12 @@ per observation. Observations never change the note's stated doctrine.
   there because bait squid were staged on the bank; the on-camera zone name sits
   against the spot library charting Desperation Reef at the southeast end of the
   back-side run — flagged, not reconciled; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the crew does not call it that on
+  camera. `Rb5I2ljAqeE` names the spot as the library does — "this is called
+  desperation reef is what it's called" (@00:11:45) — and "West End tuna zone"
+  is not in the transcript. "West End" occurs once, as one endpoint of that
+  season's tuna corridor: "the whole tuna Mass is from actually the West End
+  all the way down to uh 10 miles off point lman" (@00:11:32).
 
 ## What's there
 
@@ -84,10 +90,27 @@ per observation. Observations never change the note's stated doctrine.
   toward San Diego, the other uphill — with no explained cause, framed as routine
   at this island; the specific landmark names were garbled beyond recovery by
   auto-captions and are not carried — asr-uncertain(spot names).
+  ⚠ Fact-check (contradicted-by-source): one of the two names is legible.
+  `sIoNELGlxmk` renders **Monkey Rock** cleanly and three times — "we go right
+  there to Monkey Rock that's how close monkey rock is to person" (@00:31:52),
+  "you can go to where the U-Haul truck is monkey Rock there'll be no current"
+  (@00:32:17); only the second name is corrupted, as "person rocket"
+  (@00:31:52), most plausibly Pyramid Rock. That matters for placement:
+  [the spot library](../../sources/spot-lists.md) charts Pyramid Head, Pyramid
+  Reef and Pyramid Cove on the **front side**, so the opposite-current pair may
+  not sit on this side at all. The transcript also gives no distance or run
+  time between them — the closeness is a gesture across a trade-show room.
 - `DnSqw4r7A1s` (BDOutdoors): anchored at San Clemente Island, chum gets pushed
   up-current toward the bow by the fish themselves — birds locking on up there
   mark the school and the surface iron goes under them; the side of the island is
   not stated.
+  ⚠ Fact-check (contradicted-by-source): the side is stated — the **front**
+  side, twice. `DnSqw4r7A1s` (BDOutdoors Bight report, 2022-07-14) sets the
+  scene as "continued good fishing down there on the front side of the island
+  boats just doing a normal summertime pattern anchoring up along the front"
+  (@00:03:45) and again "you guys are anchored up along the front side of the
+  island" (@00:04:17). The chum/bird/surface-iron mechanism itself verifies
+  verbatim; its placement on a back-side page does not.
 
 
 <!-- backlinks:start -->
