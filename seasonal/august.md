@@ -22,8 +22,11 @@ A stale report is not today's water.
 
 - **[Bluefin](../species/bluefin-tuna.md) scatter across the whole Bight** — from
   Catalina to San Nicolas to Ventura, "showing up in weird places" and gone the
-  next day (`CMQkHQMxbXM`). Fish are everywhere and nowhere; yesterday's spot
-  is a weak prior.
+  next day (`CMQkHQMxbXM`). ⚠ Fact-check (single-source): the "showing up in
+  weird places" framing and the Catalina–San Nicolas–Ventura scatter read come
+  from this one August 2022 report only; no other cited source corroborates
+  the August dispersal pattern. Fish are everywhere and nowhere; yesterday's
+  spot is a weak prior.
 - **The whole fleet shifts offshore, and the islands lose coverage.** With the
   boats out, you stop getting island reports (`CMQkHQMxbXM`) — read that as
   coverage bias, not as the islands going dead. See
@@ -35,7 +38,10 @@ The [kelp paddy](../conditions/kelp-paddies.md) program is at its best in August
 pressure gradient: the closer to a dock and the more traffic, the less willing
 the fish; paddies are scarcer and less holding north of Dana Point. Best paddy
 water is south of SCI/Catalina and from Dana Point to Oceanside southward
-(`HzE4FHHcvTk`).
+(`HzE4FHHcvTk`). ⚠ Fact-check (single-source): the Dana Point/Oceanside–SCI/
+Catalina boundary is the sole reading in the corpus (the same boundary is
+also stated, unflagged, in [kelp paddies](../conditions/kelp-paddies.md));
+no independent source corroborates it.
 
 ## Yellowfin arrive — and can fire the bluefin
 
@@ -49,7 +55,13 @@ easier-to-catch yellowfin as a trigger and an area indicator.
 Not all breaking fish are catchable. Read the *form* of the foamer (`HzE4FHHcvTk`, `HnqiE05vdXs`):
 
 - **"Jacuzzi" (solid whitewater) ≈ a bite every cast.** Circular, boiling,
-  concentrated — this is the one you want.
+  concentrated — this is the one you want. ⚠ Fact-check
+  (contradicted-by-source): only `HzE4FHHcvTk` uses "Jacuzzi" ("one little
+  spot that's like the jacuzzi where it's just white... it's a bite every
+  time" — not "boiling," not "every cast"); `HnqiE05vdXs` never uses the term
+  "Jacuzzi," describing a comparable pattern only as a "circular foamer." The
+  composite description conflates the two transcripts' distinct wording under
+  one dual-cited term.
 - **Spread-out, directional feeders are picky.** Fish strung out and moving one
   way are hard to convert.
 - **Wait for the circular form.** Let the school ball up before you commit your
@@ -60,7 +72,14 @@ See [foamer casting](../techniques/foamer-casting.md) for the execution.
 ## Tuna aren't outrunning you — troll sweeping arcs
 
 **The tuna move at low single-digit miles per hour** — they are not outrunning
-the boat (`HzE4FHHcvTk`). Therefore:
+the boat (`HzE4FHHcvTk`). ⚠ Fact-check (contradicted-by-source): the
+transcript never states a "low single-digit miles per hour" figure; it
+supports the not-outrunning point only qualitatively ("those two are not
+moving 12 miles in an hour... in 15 minutes you can be four miles away
+[driving] a straight line"). The same unsupported figure, cited to the same
+source, recurs in species/bluefin-tuna.md, techniques/trolling.md,
+species/bluefin-tuna-trolling.md, and
+planning/report-reading-and-forecasting.md. Therefore:
 
 - **Troll sweeping arcs around the bird/bait area** instead of straight-lining
   away from it.
