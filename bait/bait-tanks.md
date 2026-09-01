@@ -65,7 +65,9 @@ the oxygen and dies.
   a one gallon tank" (`sIoNELGlxmk`). ⚠ Flagged gap — no corpus source:
   mechanism for the specific 8-minute figure ("why eight minutes I have no
   clue but that's what works" — read it as a concrete target to size a
-  pump's GPH against, not just "enough flow to keep it alive").
+  pump's GPH against, not just "enough flow to keep it alive"). ⚠ Fact-check
+  (single-source): the 8-minute figure has no corroborating source elsewhere
+  in the KB.
 - **Aerate with circulated water, not bubbled air.** Bait-fish gills process
   dissolved oxygen in water, not air bubbles, so bubbles pulled into the
   tank drown the bait rather than oxygenating it. The water already carries
@@ -89,6 +91,10 @@ barge each trip against:
   scoops before the tank is loaded than a bulkier bait (big sardines); on
   one trip three scoops of anchovy filled the tank, part of why anchovy is
   preferred over "the big giant sardine" for tank management (`7WapaxdtjQg`).
+  ⚠ Fact-check (contradicted-by-source): the transcript says he "was able to
+  put three scoops of bait in this bait tank," not that the tank was filled,
+  and the same passage immediately cautions against overloading — "you never
+  want to overload your bait tank... you want to just load it very lightly."
 
 **Offshore floor, not a target.** There's no bait once you're offshore, so
 load for the whole trip, not just the ride out (`9hEa3sGTh40`): take at
