@@ -33,12 +33,22 @@ costs a live bait its presentation but doesn't matter on a lure
 ## Parameters
 
 - Side by side on the same hook, the doubled tie runs about **three times
-  the size** of the single (`6T3xZ9vufrM`).
+  the size** of the single (`6T3xZ9vufrM`). ⚠ Fact-check (single-source):
+  the only corpus source for this multiplier; the cross-reference to this
+  same figure in [San Diego Jam Knot](san-diego-jam-knot.md#when-to-use) cites
+  a different transcript (`5J7a6UwTA90`) that is itself flagged there as not
+  supporting the "three times" figure, so no independent corroboration
+  actually exists despite two notes stating it.
 - Mechanism: doubling the tie on a live-bait hook stacks bulk onto bulk — the
   oversized knot, a correspondingly bigger hook, and heavier line (100 lb in
   the demonstrated example) — which adds drag on the bait and makes the rig
   more visible to the fish. That is why the single is the live-bait-hook
-  default (`6T3xZ9vufrM`).
+  default (`6T3xZ9vufrM`). ⚠ Fact-check (contradicted-by-source): the
+  transcript's only "hundred pound" mention is the fragmentary aside "all
+  your hundred pound," spoken while describing the hypothetical of doubling
+  the knot onto a live-bait hook, not framed as the pound test of the
+  flat-fall lure actually being demonstrated on camera — the demo lure's own
+  line class is never stated.
 - [San Diego Jam Knot](san-diego-jam-knot.md#parameters) names the single as
   the live-bait alternative without constructing it (`5J7a6UwTA90`); tying
   mechanics for both the single-pass and doubled-through-the-eye versions
