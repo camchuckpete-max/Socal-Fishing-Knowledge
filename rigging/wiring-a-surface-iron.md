@@ -47,7 +47,12 @@ surface iron, and the surface-iron-specific parameters.
   Powerhouse jigs got the same treatment historically (`764kFzACKTc`). Jig
   specs and the class lexicon: [iron jigs](../lures/iron-jigs.md).
 - **Wire: single-strand stainless**, AFW Toothproof or Mason, described as
-  essentially piano wire (`764kFzACKTc`).
+  essentially piano wire (`764kFzACKTc`). ⚠ Fact-check (contradicted-by-source):
+  the transcript confirms the AFW Toothproof and Mason brand names, the
+  stainless material, and the "basically piano" wire description, but the
+  word "single-strand" (or an equivalent strand-count statement) does not
+  appear anywhere in it — the strand construction is not established by this
+  citation.
 - **~2 ft of wire per jig.** A 25-40 ft spool runs $3-4, covering many dozens
   of rigs — no case for nursing a used one (`764kFzACKTc`).
 - **Historic contrast:** the practice dates to an era of much stiffer
