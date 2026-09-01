@@ -81,7 +81,14 @@ not by this page.
 
 **The names are the only depth claims in the zone.** A bank takes the **fathom
 depth of its shallowest point** as its name, at six feet to a fathom
-([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`). Read that way the 421 tops out
+([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`).
+⚠ Fact-check (contradicted-by-source): the source states the rule with a hedge
+this page drops — "most of them are the banks are called after the highest part
+of the bank" — and carves out distance-named banks in the same breath: "the nine
+mile bank that's not nine miles deep that's nine miles off the coast" and "14 is
+14 miles off the beach". This page carries that exception in the paragraph below,
+which the sibling pages do not, so the finding is the missing hedge under the
+2,526 ft / 2,340 ft derivation. Read that way the 421 tops out
 at **421 fathoms — about 2,526 ft** and the 390 at **390 fathoms — about
 2,340 ft**, deep-water banks rather than anything fished on the surface of the
 structure, and both deeper than the deepest working depth in the KB: SoCal
@@ -96,7 +103,20 @@ Baja yo-yo fishery works: on the [Colonet](colonet.md) stretch the charted crest
 read **28 and 41 fathoms** — about 168 and 246 ft — and are named as deep enough
 to call for the heaviest yo-yo iron (`hteLeDIy9Qs`), with the yellowtail
 themselves found **120–180 ft and sometimes 220 ft** (`YAKOv9bXKO0`). The 53 Fa.
-reading sits below all of those. ⚠ Flagged gap — no corpus source confirms any
+reading sits below all of those.
+⚠ Fact-check (contradicted-by-source): `hteLeDIy9Qs` carries no fathom or depth
+figure for Colonet at all — it names the ground only qualitatively, "if you're
+fishing real deep which we do a lot of times in areas like colonet the ridge or
+alejos even guadalupe i like to use a 7x heavy". The 28 and 41 fathom numbers
+come from the spot-library names (cameron), as [Colonet](colonet.md) itself
+attributes them; only the heaviest-iron half of this sentence is in the cited
+transcript. The 120–180 ft / 220 ft figures verify verbatim against
+`YAKOv9bXKO0`, Colonet-scoped.
+⚠ Fact-check (contradicted-internal): the sentence above calls the 53 Fa. mark
+"the only mark in the zone in the depth range the Baja yo-yo fishery works",
+while the figures cited immediately after put 318 ft deeper than every one of
+them — 72 ft below the 41-fathom crest and 98 ft below the deepest yellowtail
+depth. ⚠ Flagged gap — no corpus source confirms any
 of the three numbers as a charted depth, or says what the bottom does at the
 60 Mile Bank.
 
@@ -142,7 +162,18 @@ zone carries corpus material or a page to hand off to.
 **The one offshore claim the corpus scopes near this water names no bank.**
 Three areas were being worked as of **2021-05** — one west of San Diego and two
 west of Ensenada — with nothing running further down the coast to Colonet or San
-Quintín because the closer grounds were producing (`fgTmUq78ofQ`). No
+Quintín because the closer grounds were producing (`fgTmUq78ofQ`).
+⚠ Fact-check (contradicted-by-source): the source places one area west of San
+Diego and one west of Ensenada, then self-corrects — "i think there's three
+different areas of bluefin right now there's an area that's out west of uh san
+diego there's one that's west of ensenada well there's two areas out west so".
+Nothing puts *two* of the three west of Ensenada; the count of three is stated
+but only two positions are ever named. The same defect against the same id is
+already ledgered on [Baja Pacific — North](baja-pacific-north.md), on
+[1010 Trench / 378 / 213](1010-trench-378-213.md), on
+[Ensenada](ensenada.md) and on the San Quintín evidence file, so this is a
+sibling occurrence, not a new dispute. The 2021-05 stamp is upload metadata
+(upload_date 2021-05-14) and the Colonet/San Quintín half verifies verbatim. No
 coordinate, distance or bank name is given for any of the three, so none of it
 is attributed to this zone. The [bluefin router](../species/bluefin-tuna.md)
 carries that material at region level.
