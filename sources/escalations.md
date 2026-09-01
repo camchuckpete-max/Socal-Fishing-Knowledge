@@ -508,3 +508,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T16:45:17Z — locations/point-loma.md — verify-escalate
 - run: 33530302377
 - reason: 3 gap flags are known-false (kwMIgkCtFUE, KVdnRJYq4jU, wysZwsjAkVs, YAKOv9bXKO0, IH4y6GM6BIY cover ports/landings, structure relief, start-and-move) so the note needs a re-transform + sources front-matter update; also the worker committed 4da19a3c directly, bypassing the wrapper/guard
+
+## 2026-09-01T19:32:46Z — locations/ensenada.md — check-note-failed
+- run: 33548919922
+- reason: FAIL  locations/ensenada.md: uncited direct quote: **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
