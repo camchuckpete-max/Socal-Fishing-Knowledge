@@ -365,6 +365,7 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [439](439.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [South 9 Mile Bank](south-9-mile-bank.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

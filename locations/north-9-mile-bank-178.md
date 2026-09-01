@@ -327,6 +327,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [178](178.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Evidence — North 9 Mile Bank / 178](evidence/north-9-mile-bank-178.md)
 - [North 9 Mile Bank](north-9-mile-bank.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)

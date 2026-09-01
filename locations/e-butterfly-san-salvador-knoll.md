@@ -306,6 +306,7 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Desperation Reef](desperation-reef.md)
 - [E. Butterfly](e-butterfly.md)
 - [San Salvador Knoll](san-salvador-knoll.md)
