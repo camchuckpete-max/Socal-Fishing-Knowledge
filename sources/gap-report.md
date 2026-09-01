@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
+_Totals: 2518 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -1903,8 +1903,8 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
 - **locations/catalina-island-backside.md**
   - `Getting there`: gap — distance and run time from each mainland port
   - `Structure & bathymetry`: gap — charted depths, bottom composition, kelp
-  - `What's there`: gap — season shape scoped to this side | The kelp-boiler shore. A steady, not-wide-open kelp bite off an anchor set just **outside** Cat Harbor, with hooked fish repeatedly running into the kelp (`_KldpqPPT1c`); repeated weedless-swimbait passes through kelp boilers on a September day (`mXu8vJ8yr4Q`) |
-  - `What's there`: gap — season shape scoped to this side | **West Cove anchored in 32 ft at 3 p.m.** is the stated afternoon seabass play — a seminar's worked game-plan example rather than a dated report, so a lean, not a confirmed bite (`sIoNELGlxmk`) |
+  - `What's there`: gap — season shape scoped to this side | The kelp-boiler shore. A steady, not-wide-open kelp bite off an anchor set just **outside** Cat Harbor, with hooked fish repeatedly running into the kelp (`_KldpqPPT1c`); repeated weedless-swimbait passes through kelp boilers on a September day (`mXu8vJ8yr4Q`) ⚠ Fact-check (contradicted-by-source): no date is spoken on camera in `mXu8vJ8yr4Q` — "September" is the 2012-09-15 upload date alone, and the transcript's only temporal reference is the relative "fourth or fifth trip out same week" |
+  - `What's there`: gap — season shape scoped to this side | **West Cove anchored in 32 ft at 3 p.m.** is the stated afternoon seabass play — a seminar's worked game-plan example rather than a dated report, so a lean, not a confirmed bite (`sIoNELGlxmk`) ⚠ Fact-check (contradicted-by-source): the transcript says "sea bass", never white seabass — "if we show up at three in the afternoon anchor up at West Cove in 32 feet of water we're going to catch sea bass" — so the species link is an inference; the place, depth and time are verbatim |
   - `What's there`: gap — scoped to this side beyond the band's path |
   - `What's there`: gap — the island's charted rockfish pinnacles are all catalogued under the front side, and no backside deep-water spot is charted |
   - `How it fishes`: zone guide missing
@@ -1916,7 +1916,7 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
   - `Getting there`: gap — distance and run time to this side from each
   - `Structure & bathymetry`: gap — bottom composition, kelp extent and working
   - `What's there`: gap — season shape scoped to this side | **3–4 lb** fish come off the anchored squid stops beside the yellowtail (`zUFbCIWZZMw`); multi-day rain washes Catalina's dirt hillsides into the inshore water and shuts the shallow bass bite ([February–March](../seasonal/february-march.md)) |
-  - `What's there`: gap — season shape scoped to this side | Two came off one anchored front-side squid stop, one measured **24 1/4 in** against a stated **22 in** minimum (`MUpvP-Yl2R0`). California / CDFW, as of 2016-11 — verify the current minimum size with CDFW |
+  - `What's there`: gap — season shape scoped to this side | Two came off one anchored front-side squid stop, one measured **24 1/4 in** against a stated **22 in** minimum (`MUpvP-Yl2R0`). California / CDFW, as of 2016-11 — verify the current minimum size with CDFW ⚠ Fact-check (contradicted-by-source): the transcript never ties both fish to one stop, and it names no species at the measurement — "it's 24 and a quarter... legal size is 22 in" — with only the released short fish called a halibut on camera; the CDFW attribution is the KB's, as [California halibut](../species/california-halibut.md) already records |
   - `What's there`: gap — scoped to this side of the island |
   - `What's there`: gap — season | Incidental catch during a mixed-species anchor session at Catalina (`oadK6zIYyCo`) |
   - `How it fishes`: zone guide missing
@@ -2129,6 +2129,7 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
   - `The fishery`: gap — bay and estuary fishing anywhere in this
   - `Season shape`: gap — whether the BOLA season shape extends north
   - `Zones`: gap
+  - `Zones`: flagged stub row
   - `Zones`: flagged stub row
   - `Zones`: flagged stub row
   - `Zones`: flagged stub row
@@ -3241,7 +3242,7 @@ _Totals: 2518 flagged gaps, 380 flagged stubs, 1053 unknown infobox values._
   - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
   - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`) |
   - `What's there`: gap — season shape scoped to this zone | Yellowtail have been taken off an artificial reef on the anchored chum method (`f4qYtHACGyk`) — the outside case, not the expectation |
-  - `What's there`: gap — season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router |
+  - `What's there`: gap — season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router. ⚠ Fact-check (single-source): the 5–6 lb figure rests on one aside ("those sargos can get up to five and six pounds"), and that video never lists sargo among the chum-frenzy catches it does enumerate (white seabass, sheephead, calico, yellowtail); the reef association comes from `OSbAHdB4uPs` and `bM2vUS1B-yQ`. Max-size biology — ext-verify |
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program
