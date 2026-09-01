@@ -41,9 +41,19 @@ boats worked the water just outside the island in early January 2021 on trips
 already headed down the line (`shZCjX2-fkI`), and a 2014-11-13 trip fished this
 stretch off the 90-ft mothership *Shogun* with skiffs launched from her, a
 six-day inshore program with a 20-ft center console along
-(`L3tkGVu516A`). The one distance in the corpus belongs to that trip: **188
-miles from San Diego** to its first stop at Dono, with Chester's Rock a further
-112 miles beyond it (`_r_qKX_7080`) — the units are never stated on camera.
+(`L3tkGVu516A`). ⚠ Fact-check (contradicted-by-source): the cited transcript
+names the *Shogun*, the six days ("headed down for 6 days") and the towed 20-ft
+center console, but states **no length** for the mothership — the 90-ft figure
+comes from the sibling video `_r_qKX_7080`, not from this cite. The one distance
+in the corpus belongs to that trip: **188 miles from San Diego** to its first
+stop at Dono, with Chester's Rock a further 112 miles beyond it (`_r_qKX_7080`)
+— the units are never stated on camera. ⚠ Fact-check
+(contradicted-by-source): the unit word *is* said on camera — "188 miles from
+San Diego and then we're going to go another 112 … so it'll be 300 miles from
+San Diego" — what is never stated is statute vs nautical (as the infobox
+correctly puts it); and the 188 is given as the position *after* two days at
+Dono, while the same trip's part 1 has the crew check San Martin first, so Dono
+is not the trip's first stop.
 
 **Two of the eight spots are named for water that breaks.** Roca Ben carries
 the library's *caution — shoals/boilers* label at **30°26.300'N
@@ -101,9 +111,9 @@ charted position anywhere in the corpus, so neither gets a spot page.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Bluefin tuna](../species/bluefin-tuna.md) | documented in January; named as structure that produced early in the modern fishery | Giant schools of big bluefin held just outside San Martin Island in early January 2021, in **63–65 °F** water — they stuck with the boat but "didn't bite all that well" (`shZCjX2-fkI`). San Quintín with Colonet is named as water structure that was productive early in the modern SoCal bluefin fishery and is expected to still hold fish, simply unfished as of 2021-05 because grounds closer to San Diego and Ensenada were producing (`fgTmUq78ofQ`) |
+| [Bluefin tuna](../species/bluefin-tuna.md) | documented in January; named as structure that produced early in the modern fishery | Giant schools of big bluefin held just outside San Martin Island in early January 2021, in **63–65 °F** water — they stuck with the boat but "didn't bite all that well" (`shZCjX2-fkI`). ⚠ Fact-check (contradicted-by-source): the San Martin passage (~02:05) carries no temperature at all; the **63–65 °F** figure comes ~10 min later in the same taping, in a yellowfin-vs-bluefin seasonality aside that names no place and is explicitly second-hand — "i saw some information the other day that the water was 63 to 65 degrees where they were catching the fish." San Quintín with Colonet is named as water structure that was productive early in the modern SoCal bluefin fishery and is expected to still hold fish, simply unfished as of 2021-05 because grounds closer to San Diego and Ensenada were producing (`fgTmUq78ofQ`) ⚠ Fact-check (contradicted-by-source): the source's expectation is conditional and is stated flatly here — "**if** that water structure is still there then i'm sure that there's bluefin down there too we just haven't had to go that far" (same defect already ledgered on [Baja Pacific — North](baja-pacific-north.md)) |
 | [Calico bass](../species/calico-bass.md) | documented in November | The coast from the island south is where a crew goes for **size** rather than count: a lot of spots along this stretch hold calico but smaller ones, so the 2014-11-13 trip ran past them to Dono, where a three-hour skiff rotation produced personal bests at **7, 8 and 9 lb** and a **9.5 lb** fish on the scale, and two days were fished there (`L3tkGVu516A`, `_r_qKX_7080`) |
-| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source gives a window for this zone | Baja coastal structure from Ensenada southward holds yellowtail more or less year-round with the grade improving the further south you go (cameron); the one fish logged here took a swimbait at Dono and "basically spooled" a 200-size reel before it was lost (`L3tkGVu516A`) |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source gives a window for this zone | Baja coastal structure from Ensenada southward holds yellowtail more or less year-round with the grade improving the further south you go (cameron); the one fish logged here took a swimbait at Dono and "basically spooled" a 200-size reel before it was lost (`L3tkGVu516A`) ⚠ Fact-check (contradicted-by-source): the species, the quote and the 200-size reel verify verbatim — "big game straight Yellow Tail right there really basically spooled that 200 size reel byebye" — but the transcript names **no lure** for this fish; the "on the plastic" line belongs to a separate catch in the next breath |
 
 ⚠ Flagged gap — no corpus source: every other species on this coast — no
 rockfish, halibut, white seabass, barracuda or bonito is attached to any

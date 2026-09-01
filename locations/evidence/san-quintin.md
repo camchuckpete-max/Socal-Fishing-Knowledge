@@ -23,6 +23,11 @@ observation. Observations never change the note's stated doctrine.
   spring trip season earlier than the scheduled 1 April readiness date; the
   63–65 °F figure given in the same conversation is for that January presence;
   registered channel.
+  - ⚠ Fact-check (contradicted-by-source): "in the same conversation" overstates
+    the link — the San Martin passage sits at ~02:05 and the temperature at
+    ~12:43, in a separate yellowfin-vs-bluefin seasonality exchange that names no
+    place and is second-hand ("i saw some information the other day"). Tying
+    63–65 °F to the San Martin presence is inference, not the transcript.
 - `fgTmUq78ofQ` (Art Taylor and Mike, SearcherSportfishing via Turner's
   Outdoorsman, 2021-05-14): with the fleet working one area west of San Diego
   and two west of Ensenada, nothing was running to Colonet or San Quintín
@@ -32,6 +37,11 @@ observation. Observations never change the note's stated doctrine.
   structure persists; the wider resident-stock reading in the same seminar is
   flagged single-source on [bluefin tuna](../../species/bluefin-tuna.md);
   registered channel.
+  - ⚠ Fact-check (contradicted-by-source): the area count is "one area that's
+    out west of uh san diego … one that's west of ensenada well there's two
+    areas out west so" (~33:44) — one west of Ensenada plus a garbled
+    self-correction, not two. Same defect already ledgered on
+    `locations/baja-pacific-north.md` against this id.
 - `L3tkGVu516A` (StokedOnFishing, 2014-11-13, San Martin Island then Dono,
   "MC Swimbaits Skiff Trip part 1"): the crew checked San Martin first thing,
   passed on it — conditions "didn't look all that great" for staying — and ran
