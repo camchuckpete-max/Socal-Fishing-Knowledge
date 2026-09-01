@@ -73,6 +73,11 @@ Island."
   edge about a mile and a half off, 72 °F where the boat sat, against 74–75 °F
   at Cortez Bank the day before, with yellowtail and yellowfin southeast of the
   bank "where the water warms up a little bit."
+  ⚠ Fact-check (contradicted-by-source): the transcript names only yellowfin
+  there — "there's some yell in southeast of the bank here where the water warms
+  up a little bit"; the yellowtail/yellowfin/skipjack mix is Cortez Bank day-one
+  footage. The "What's there" entry below repeats the same reading
+  (`i3qIAHW-SJc`).
 - cameron (spot library): the seven island spots sit inside a box roughly
   1.9 nm east–west by 1.4 nm north–south computed from the library's charted
   positions; Osborn Bank, catalogued under the library's offshore-banks section,
@@ -165,6 +170,11 @@ Island."
   dropper loop produced repeatedly on the same stop; sardine fished down 60–70
   ft "on the sink" produced bluefin; later in the morning the fish were "coming
   down a little bit deeper underneath the boat."
+  ⚠ Fact-check (contradicted-by-source): "no sinker at all" reads a
+  hook-placement exchange as a weight call — "was your fish a butt hook or what
+  / nope no hook just threw it out there", repeated as "but hook or no hook / no
+  hook"; no sinker is mentioned, and the 60–70 ft fish is not identified as a
+  sardine (`i3qIAHW-SJc`).
 - `mDmbGdQAy-4`, `usHl-4SfqDA` (StokedOnFishing, NE of Santa Barbara Island):
   the fight style on this ground is the beltless, rail-locked method this
   operation names "railroading," with the kite hookup's slack closed by punching

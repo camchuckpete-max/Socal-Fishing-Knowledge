@@ -37,6 +37,11 @@ coverage is thin**: a quiet week from SBI is a read on how many boats went, not
 on how many fish are there (`5p6gu14ZC4w`; see
 [report reading](../planning/report-reading-and-forecasting.md)).
 
+⚠ Fact-check (contradicted-by-source): the cited report supports only the
+coverage half — "really not a lot of coverage uh Nick SBI that area up there".
+The "few boats looking ≠ no fish" inference is spoken in that same report about
+the San Diego offshore zone, not about SBI (`5p6gu14ZC4w`).
+
 ## Getting there
 
 **Plan it as overnight range, not a day trip.** The jig-stick top-shot rule
@@ -49,6 +54,13 @@ at any moment (`LTCFjqtSI8g`,
 **From Catalina it is a short hop.** A private tournament boat left Two Harbors
 and was on the island in **about an hour and 15–20 minutes**, arriving in the
 dark to start on the beach at first light (`PKf7G3uL4io`).
+
+⚠ Fact-check (contradicted-by-source): the cited segment states only the run
+time and the darkness — "we got out here in about an hour and 15 20 minutes
+it's a little dark." The departure point is never named on camera; Two Harbors
+is inferred from the tournament's base and weigh-in. The same inference carries
+the `distance_nm` infobox line above and the matching line on the Two Harbors
+page.
 
 **Sportboats run it overnight and anchor in the dark.** An 85 ft boat out of
 Long Beach ran out to fish the island the next morning, with the stated plan to
@@ -75,6 +87,11 @@ is not a named port (`mDmbGdQAy-4`).
 library's Cave Canyon white seabass entry carries its own instruction: **stay
 north of the MPA line at 33 28.500** (cameron). As of 2026-08; **verify current
 CDFW boundaries before fishing.**
+
+⚠ Fact-check (single-source): the boundary and the 33 28.500 figure rest on the
+spot library's Cave Canyon entry alone (cameron) — no corpus source names the
+MPA, its designation or its extent — and it is the note's only regulatory
+parameter.
 
 ⚠ Flagged gap — no corpus source: run distance or time from any named mainland
 port, the fuel and range the crossing implies, or the sea-state envelope a
@@ -107,6 +124,12 @@ behind the boat (`SGbynqaiHdY`). Kelp extent is not constant: a March 2012 crew
 remarked there had been noticeably more kelp at their spot on a prior visit
 (`EU_Dod4wfYw`).
 
+⚠ Fact-check (contradicted-by-source): the red-crab detail is hedged in the
+source and sits in the water column beside the boat rather than on the
+structure — "a little bit of bait probably some red crab kind of up our starb
+side here, 102 ft underneath" (`SGbynqaiHdY`).
+[Rockfish & lingcod](../species/rockfish-lingcod.md) carries the same finding.
+
 **The shoreline fishes as rock, gap and beach.** Tournament crews worked fish
 tight "all the way up against that rock" and through a **narrow gap between two
 rocks** (`IATPg9110CE`), and separately found "a little stretch of beach that
@@ -124,6 +147,17 @@ yellowtail and yellowfin — **southeast of the bank** (`i3qIAHW-SJc`,
 [water temperature](../conditions/water-temperature.md),
 [current structure](../conditions/current-structure.md)).
 
+⚠ Fact-check (contradicted-by-source): the cited line places only yellowfin
+southeast of the bank — "there's some yell in southeast of the bank here where
+the water warms up a little bit". The yellowtail/yellowfin/skipjack mix in that
+episode belongs to its Cortez Bank day-one footage, not the Osborn southeast
+side (`i3qIAHW-SJc`).
+
+⚠ Fact-check (contradicted-by-source): "August 2016" is the two-part episode's
+upload date, not a date given on camera. Part 1 of the same trip states "this is
+2015" on the dock and frames the season as the 2015 El Niño (`HueC1KHrcVw`). The
+same 2016 dating carries the bluefin and yellowfin rows below.
+
 ⚠ Flagged gap — no corpus source: charted depths, bottom composition, kelp
 extent or working depth bands for any named spot in this zone, including Osborn
 Bank's own depth over the high spot.
@@ -133,11 +167,11 @@ Bank's own depth over the high spot.
 | species | season | what this zone does for them |
 | --- | --- | --- |
 | [Calico bass](../species/calico-bass.md) | documented in March and November | The island's shoreline fishery. A March 2012 trip found a **wide-open kelp bite**, multiple quality fish in quick succession including one at **4½–5 lb** (`EU_Dod4wfYw`). In a November 2014 two-day tournament the island's kelp and rock produced a five-fish limit worth **24 lb** on day two — a **47 lb** two-day total that won the event — after the same crew had found only a small beach bite there on the blown-out day one (`IATPg9110CE`, `PKf7G3uL4io`) |
-| [Yellowtail](../species/yellowtail.md) | squid-gated, not month-gated | The library names a **Sutil Island squid / yellowtail zone** (cameron), and island fish here key on squid presence more than the calendar (`5p6gu14ZC4w`, [yellowtail](../species/yellowtail.md#where--when)). A July 2017 charter ran on a report of "some yellows out there" and fished the island's corner where "yellows tend to swim around… every once in a while" (`SGbynqaiHdY`); in late October 2022, with squid around at several islands, taking squid to SBI was rated a good yellowtail shot with nobody up there covering it (`5p6gu14ZC4w`) |
-| [Rockfish & lingcod](../species/rockfish-lingcod.md) | the stated fallback, and a target in its own right | Named as the backup plan when the island's yellowtail do not produce (`SGbynqaiHdY`), and the July 2017 session turned into a heavy **red/vermilion** bite on live squid at ~102 ft (`SGbynqaiHdY`). The island sits in the router's shallow **100–250 ft** Channel Islands variety band; in late October 2022 the rock fishing here was called presumed-good and unreported (`5p6gu14ZC4w`) |
+| [Yellowtail](../species/yellowtail.md) | squid-gated, not month-gated | The library names a **Sutil Island squid / yellowtail zone** (cameron), and island fish here key on squid presence more than the calendar (`5p6gu14ZC4w`, [yellowtail](../species/yellowtail.md#where--when)). A July 2017 charter ran on a report of "some yellows out there" and fished the island's corner where "yellows tend to swim around… every once in a while" (`SGbynqaiHdY`); in late October 2022, with squid around at several islands, taking squid to SBI was rated a good yellowtail shot with nobody up there covering it (`5p6gu14ZC4w`). ⚠ Fact-check (contradicted-by-source): the cited report never ranks squid above the calendar — it says only "there's squid around at different Islands now", and keeps a calendar caveat for Catalina ("it's not really a prime time a year to go there and catch one"); the "more than the calendar" contrast is not in this source (`5p6gu14ZC4w`). ⚠ Fact-check (contradicted-by-source): the squid advice is generic to "any of these islands" and its named examples are Clemente and Catalina; for SBI the words are only "you definitely still have a chance to yellowtail" (`5p6gu14ZC4w`). The San Nicolas Island page carries the identical finding for the other half of that same sentence |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | the stated fallback, and a target in its own right | Named as the backup plan when the island's yellowtail do not produce (`SGbynqaiHdY`), and the July 2017 session turned into a heavy **red/vermilion** bite on live squid at ~102 ft (`SGbynqaiHdY`). The island sits in the router's shallow **100–250 ft** Channel Islands variety band; in late October 2022 the rock fishing here was called presumed-good and unreported (`5p6gu14ZC4w`). ⚠ Fact-check (contradicted-internal): [the rockfish router](../species/rockfish-lingcod.md) carries a standing flag on that same band — its cited day "names no individual island — only 'the Channel Islands' and 'just outside of Ventura'" — so no corpus source scopes the 100–250 ft variety drift to this island |
 | [Ocean whitefish](../species/ocean-whitefish.md) | all-season island bottomfish | The whitefish router names Santa Barbara Island among the Channel Islands hard-bottom and sand-edge zones that hold them, on the same shallow island high spots that give the rockfish variety bag. ⚠ Flagged gap — no corpus source scoped to this island |
-| [Bluefin tuna](../species/bluefin-tuna.md) | July–November | Two grounds. **Off the island:** the northern corner of the September volume square (`5to3Q5P7w90`); in October 2022 the fish were named at "the Nick and SBI" before moving down the back side of Clemente (`XLVUhV8DW64`), and one boat picked up a bluefin at the island while fishing yellows as the warm band tracked down past it (`OYOda6T3f-8`). The ground worked in November 2024 and October 2025 sat **just northeast of the island** (`usHl-4SfqDA`, `mDmbGdQAy-4`). **On Osborn Bank:** an August 2016 early-graylight bluefin bite in the cooler **70–72 °F** water the fish had moved up into, against 81 °F offshore that week (`i3qIAHW-SJc`, `HueC1KHrcVw`) |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | late summer | Incidental on the warm side of the Osborn Bank edge — yellowtail and yellowfin southeast of the bank "where the water warms up a little" in August 2016 (`i3qIAHW-SJc`) |
+| [Bluefin tuna](../species/bluefin-tuna.md) | July–November | Two grounds. **Off the island:** the northern corner of the September volume square (`5to3Q5P7w90`); in October 2022 the fish were named at "the Nick and SBI" before moving down the back side of Clemente (`XLVUhV8DW64`), and one boat picked up a bluefin at the island while fishing yellows as the warm band tracked down past it (`OYOda6T3f-8`). The ground worked in November 2024 and October 2025 sat **just northeast of the island** (`usHl-4SfqDA`, `mDmbGdQAy-4`). **On Osborn Bank:** an August 2016 early-graylight bluefin bite in the cooler **70–72 °F** water the fish had moved up into, against 81 °F offshore that week (`i3qIAHW-SJc`, `HueC1KHrcVw`). ⚠ Fact-check (contradicted-by-source): the contrast is stated as the previous day, not the week — "we had 81° water out there yesterday" — and "offshore" is an inference; the speaker says only "out there", against his own "we're in 80° water in the bay here now" (`HueC1KHrcVw`) |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | late summer | Incidental on the warm side of the Osborn Bank edge — yellowtail and yellowfin southeast of the bank "where the water warms up a little" in August 2016 (`i3qIAHW-SJc`). ⚠ Fact-check (contradicted-by-source): the cited line names yellowfin only — "there's some yell in southeast of the bank here where the water warms up a little bit"; no yellowtail is placed southeast of the bank (`i3qIAHW-SJc`) |
 | [White seabass](../species/white-seabass.md) | ⚠ Flagged stub — no corpus source yet | The library carries a named **Cave Canyon WSB zone** on the east end (cameron), which is a fishery in the spot library's own vocabulary, but no corpus source describes a white seabass trip here. Work the router's squid-bed program until one arrives |
 
 ## How it fishes
@@ -173,6 +207,10 @@ is a stated trade-off rather than a rule: **8 to 8½ ft** reaches back into
 structure but wears you down over a day, a **7 ft** rod has "tons of leverage"
 for pulling fish out of rock and kelp (`IATPg9110CE`).
 
+⚠ Fact-check (contradicted-by-source): "tons of leverage" is verbatim, but the
+source scopes it to "pulling on the fish"; the rock-and-kelp extraction gloss is
+not in the cited exchange (`IATPg9110CE`).
+
 **Iron runs a 50 lb top shot here** rather than the 40 lb used at the
 full-day-accessible islands (`LTCFjqtSI8g`,
 [surface iron](../techniques/surface-iron.md)).
@@ -187,6 +225,11 @@ style on this ground is the beltless, rail-locked "railroading" method
 (`usHl-4SfqDA`, `mDmbGdQAy-4`,
 [fighting big bluefin](../techniques/fighting-big-bluefin.md)).
 
+⚠ Fact-check (contradicted-by-source): the term "railroading" appears only in
+`mDmbGdQAy-4`. `usHl-4SfqDA` describes the same beltless, rail-locked method —
+"we start fighting the fish in the rail… like a rail rod style", "You're off the
+belt" — but never uses the word.
+
 **On Osborn Bank the bite is a graylight bite.** It starts around **4:30–5:00
 a.m.** and builds (`i3qIAHW-SJc`); that morning produced fish on a **sinker-free
 sardine** simply thrown out, held away from the boat and left to wiggle, on the
@@ -194,6 +237,17 @@ sardine** simply thrown out, held away from the boat and left to wiggle, on the
 **60–70 ft "on the sink"** (`i3qIAHW-SJc`,
 [rubber-band deep rig](../rigging/rubber-band-deep-rig.md)). Fish moved deeper
 under the boat as the morning went on (`i3qIAHW-SJc`).
+
+⚠ Fact-check (contradicted-by-source): "builds" hardens a hope into an
+observation — "they start about uh 4:30 5:00 the morning and hopefully it gets
+better and better here" (`i3qIAHW-SJc`).
+
+⚠ Fact-check (contradicted-by-source): "sinker-free" reads a hook-placement
+exchange as a weight call — "was your fish a butt hook or what / nope no hook
+just threw it out there", repeated later as "but hook or no hook / no hook". The
+source never mentions a sinker on that bait, and the 60–70 ft fish is not
+identified as a sardine there ("that was down about 60t and 70t on the sink")
+(`i3qIAHW-SJc`).
 
 Zone guides — the trip-level story:
 
@@ -219,6 +273,11 @@ to this zone on distance.
   Area. Arch Reef is logged with a boiler caution for big swell (cameron); this
   is the end of the island the tournament crews worked as rock-and-gap
   structure (`IATPg9110CE`).
+  ⚠ Fact-check (contradicted-by-source): the cited footage never names an end of
+  the island — "all the way up against that rock way up in there" and "we're
+  going through the Gap… a rock here a rock there" carry no location, and the
+  episode intercuts a second team's Catalina footage, so the west-end placement
+  is the note's inference (`IATPg9110CE`).
 - **East end** — Landing Cove and the Cave Canyon WSB zone, the named white
   seabass ground, whose library entry carries the island's one MPA
   instruction — stay north of 33 28.500 (cameron).
