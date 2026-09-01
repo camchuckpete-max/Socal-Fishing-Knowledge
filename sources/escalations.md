@@ -456,3 +456,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-31T21:39:41Z — rigging/leadhead-mods.md — subagent-failure
 - run: 33441029872
 - reason: factcheck worker never produced a LOG line, reported waiting on self-spawned background agents
+
+## 2026-09-01T06:06:49Z — conditions/deep-scattering-layer.md — worker-escalate
+- run: 33475510663
+- reason: worker agent returned garbage: 'I'll wait for the background agents completion notifications rather than polling' with no LOG line and no commit; treated as subagent-failure per protocol
