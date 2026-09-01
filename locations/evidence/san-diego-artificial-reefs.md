@@ -23,6 +23,18 @@ observation. Observations never change the note's stated doctrine.
   structure "Ingraham St Bridge Rubble" (cameron). The only corpus mention
   that names a waypoint in this zone. Harvested from
   [spotted bay bass](../../species/spotted-bay-bass.md).
+  ⚠ Fact-check (contradicted-internal): "the same structure" is the open
+  question, not a settled spelling variant. The bridge named on camera is a road
+  bridge inside Mission Bay (`AH4Eiya1Hn0`); the library waypoint sits at
+  32°45.930'N 117°16.278'W (cameron), on the offshore Pacific Beach AR longitude
+  band rather than in the bay, and reads as rubble *from* that bridge placed
+  offshore as reef material.
+  ⚠ Fact-check (contradicted-internal): "picking up from March through fall" is
+  a conversion of the speaker's relative "from now till a fall" against the
+  2024-03-09 show date. What he says is "you can get them year round the best
+  times obviously spring summer fall" (`AH4Eiya1Hn0`), which is the parent
+  note's rendering; [spotted bay bass](../../species/spotted-bay-bass.md)
+  carries the March version under the same cite.
 
 ## How it fishes
 
