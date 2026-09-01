@@ -21,7 +21,13 @@ A stale report is not today's water.
 ## The moon drives the summer bite
 
 **Full moons drive the island [white seabass](../species/white-seabass.md) bite and the
-[bluefin](../species/bluefin-tuna.md) night bite** (`DnSqw4r7A1s`, `-JZpyWLdKlk`). Plan the WSB and
+[bluefin](../species/bluefin-tuna.md) night bite** (`DnSqw4r7A1s`, `-JZpyWLdKlk`). ⚠ Fact-check
+(contradicted-by-source): `-JZpyWLdKlk` ties the seabass bite and general bluefin
+activity to the full moon ("like with the sea bass, the bluefin really went nuts
+over the full moon"), but its "night bite" line — "that whole zone up above...
+that's mostly night bite stuff for the bigger blue fin" — describes a different
+(northern) zone as a standing characteristic, not moon-driven; only `DnSqw4r7A1s`
+explicitly links the night bite to the full moon. Plan the WSB and
 night-bluefin windows around the full moon — see [moon](../conditions/moon.md) for the full
 lunar decision layer. Days *leading into* the full moon are the strongest
 documented bluefin windows (`XLVUhV8DW64`).
@@ -31,7 +37,10 @@ documented bluefin windows (`XLVUhV8DW64`).
 July bluefin geography splits into two very different kinds of water, and you
 plan them differently (`Blh2BA-7Ono`):
 
-- **The below-Clemente complex reads as ONE ~50–60 sq mi search box.** The
+- **The below-Clemente complex reads as ONE ~50–60 sq mi search box.** ⚠
+  Fact-check (single-source): the ~50–60 sq mi figure is numerically precise
+  and rests on `Blh2BA-7Ono` alone ("you get probably 50 miles, 60 square
+  miles to look"). The
   banks **43, 181, 182, 289, and Clemente Ridge up to Mackerel Bank** are not
   separate spot-checks — treat the whole thing as a single search box and
   **plan hours of looking**, not a drive-by of each number.
@@ -60,8 +69,12 @@ and [current structure](../conditions/current-structure.md).
 
 ## Overnight movement
 
-Open-water bluefin not holding structure move **10–15 nm overnight** (`Blh2BA-7Ono`) —
-factor that displacement into where yesterday's fish will be at gray light. See
+Open-water bluefin not holding structure move **10–15 nm overnight**
+(`Blh2BA-7Ono`) — factor that displacement into where yesterday's fish will be
+at gray light. ⚠ Fact-check (single-source): matches the transcript verbatim
+("those fish aren't really holding hard to structure so they can move 10–15
+miles overnight") but the source says "miles," not explicitly nautical miles,
+and no other cited source in this note corroborates the figure. See
 [report reading and forecasting](../planning/report-reading-and-forecasting.md).
 
 
