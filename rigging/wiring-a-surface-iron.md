@@ -70,7 +70,13 @@ surface iron, and the surface-iron-specific parameters.
     wahoo-leader haywire-twist doctrine works by length (1-1.5 in) and
     explicitly avoids counting. A short jig link and a long trolling leader
     are different jobs, not conflicting parameters for the same one
-    (`764kFzACKTc`).
+    (`764kFzACKTc`). ⚠ Fact-check (contradicted-by-source): `764kFzACKTc`
+    never mentions wahoo, a wahoo leader, or a length-based turn metric — it
+    gives only turn-count instructions for this jig-wire build. The 1-1.5 in
+    wahoo-leader figure is real doctrine, but it is sourced in [haywire
+    twist](haywire-twist.md#parameters) to a different video (`lm7D9Tlc7Po`);
+    this sentence's trailing cite does not cover the wahoo-leader half of the
+    comparison.
   - **Strength sits in the wrapped section**, not the loop or the finish,
     consistent with [haywire twist](haywire-twist.md#parameters) — the
     finish only tidies the tag (`764kFzACKTc`).
