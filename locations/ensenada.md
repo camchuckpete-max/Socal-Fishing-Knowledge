@@ -37,7 +37,17 @@ and are treated as such below.
 
 **Ensenada is a drive-to port, worked out of the Hotel Coral marina.** Bait is
 made just outside the marina and the trips in this corpus depart from it
-(`0dIwWiOc1NY`, `CKq0Z6ExVs4`, `0bcDBGzQnGw`). ⚠ Flagged gap — no corpus source:
+(`0dIwWiOc1NY`, `CKq0Z6ExVs4`, `0bcDBGzQnGw`).
+⚠ Fact-check (contradicted-by-source): only two of the three cites put the
+operation at the Hotel Coral — "about seven eight miles from the marina Corral"
+(`CKq0Z6ExVs4` 03:47) and "hotel Corral which will be our home base"
+(`0bcDBGzQnGw` 00:07). In `0dIwWiOc1NY` the Hotel Coral is named as lodging and
+a sponsor ("we will be staying here, the Hotel Coral… now is a proud sponsor",
+02:47), the bait-stop marina is never named, and departure from it is inference.
+That transcript also carries travel detail the gap note immediately below says
+the corpus lacks: a shuttle that will "drive you across the Mexican border"
+(04:48) while "us made the run by sea, 4 hours south" (04:53).
+⚠ Flagged gap — no corpus source:
 the road route, drive time or border-crossing detail to get there, the ramp,
 hoist, fuel or haul-out situation, or any second port on this stretch of coast.
 
@@ -52,6 +62,25 @@ hoist, fuel or haul-out situation, or any second port on this stretch of coast.
 | Yellowfin reported showing | 30–40 mi out | `0dIwWiOc1NY` |
 | The supplier-conference fleet's grounds | 45–50 mi out | `0bcDBGzQnGw` |
 | The August 2024 tournament bank | 42–43 mi | `Ix0gG0-l3v0` |
+
+⚠ Fact-check (contradicted-by-source): the 42–43 mi figure is a hedged
+distance *travelled on one leg*, not a distance from the marina — "how far did
+we just travel uh we just went uh I think about 42 43 miles so we're kind of
+getting into the the whole bank" (`Ix0gG0-l3v0` 01:45). The same exchange is
+reused in `U1AgwmlY5bI` (10:44, where it continues "we're just at 9 miles from
+the high spot on the hidden"), so citing both double-counts one moment. Repeated
+in the front-matter `distance_nm` and in the bluefin row below.
+
+⚠ Fact-check (contradicted-by-source): the 20–30 mi break is a *predicted*
+position inside a stated plan, not a break anyone found — "probably in a head
+West out maybe 20 to 30 miles straight west and as soon as we hit a temp break
+which should be around here" (`0bcDBGzQnGw` 11:17). The table presents it as a
+measured step on the ladder.
+
+⚠ Fact-check (contradicted-by-source): the source says only "the fleet", never
+that those boats are the supplier conference — "I know the fleet is about 45 50
+miles from where at their lamp here if we could find fish away from them that's
+our goal" (`0bcDBGzQnGw` 11:36).
 
 One tournament day totalled roughly **180 mi** run, with about **40 mi** still
 to get in at the point that figure was called out (`U1AgwmlY5bI`) — the honest
@@ -69,7 +98,13 @@ the paperwork are per-operator questions ([Cedros Island](cedros-island.md)).
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
-([Mexican waters](mexican-waters.md)). ⚠ Flagged gap — no corpus source:
+([Mexican waters](mexican-waters.md)).
+⚠ Fact-check (unverifiable): no corpus source names CONAPESCA or INM. The
+linked [Mexican waters](mexican-waters.md) page carries its own standing flag
+recording that its cited source never says CONAPESCA, so this zone page inherits
+an agency attribution the corpus does not carry — a regulatory claim stamped
+as-of 2026-08 with nothing behind the agency names. **ext-verify**
+⚠ Flagged gap — no corpus source:
 closures, protected areas, restricted zones or local rules anywhere in this
 zone, including whether anything applies inside the bay or at Punta Banda.
 
@@ -90,6 +125,13 @@ enclose water rather than tracing a straight shoreline: Punta San Miguel to
 Punta Morro is **3.7 nm**, Punta Morro to Punta Banda **7.6 nm**, and Punta
 Banda back up to San Miguel Reef **6.2 nm**, all computed from the library's
 charted positions.
+⚠ Fact-check (contradicted-internal): the longitude span recomputes to **6.84**
+minutes (116°48.100' − 116°41.260'), which rounds to 6.8, not 6.9. Every other
+figure in this paragraph and in the Spots section reproduces exactly from the
+library positions — 8.69, 3.94, 3.70, 7.59, 6.24 nm — as do the 6.0 nm to Punta
+Salsipuedes, the 2.6 nm to La Bufadora, the 6.8 nm to the 97 and the 3.5 nm from
+the four-spot centroid to Todos Santos Island (5.3 nm to Punta Banda, so
+"closer in than Punta Banda itself" holds) (cameron).
 
 **The high spot is the zone's one measured piece of structure, and it crests
 hard.** A mark **7–8 mi** off the marina comes up to about **25 ft from roughly
@@ -100,6 +142,13 @@ spots. It is not one of the four charted positions.
 **Outside the reef and point structure the bottom drops to about 300 ft over
 rock.** A short run down the coast from the marina, the sounder showed rocky
 bottom at that depth and it fished as the day's bottom stop (`0dIwWiOc1NY`).
+⚠ Fact-check (contradicted-by-source): the source never places the 300 ft rock
+*outside* the reef and point — it is a separate move made after the point was
+abandoned ("The tides were off, too, so we moved on… We slid out to deeper water
+where the bottom drops off to about 300 ft", 09:33–09:56), with no spatial
+relationship stated between the two stops. A deckhand on the same drop also
+calls it "about 280, something like that" (09:53). The "outside it" framing is
+repeated in the front-matter `depth_band` and in the opening paragraph.
 
 **Neighbouring charted water sits close on both sides.** Punta Salsipuedes, the
 southern end of [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md),
@@ -115,6 +164,10 @@ the coordinate census groups it with Banda Bank as its own zone. The grouping is
 left as queued rather than changed here. ⚠ Flagged stub — no corpus source yet:
 the Banda Bank / Todos Santos Island zone has no page, so the island in the
 middle of this bay has nothing to hand off to.
+⚠ Fact-check (contradicted-internal): the page exists —
+`locations/banda-bank-todos-santos-island.md` is a full `type: zone` note with
+its own front matter and evidence file, and it already links back here (it is in
+this note's own backlinks block). The stub status is stale.
 
 ⚠ Flagged gap — no corpus source: charted depth, bottom composition, kelp extent
 or relief at any of the four charted positions, and no position at all for the
@@ -134,17 +187,17 @@ sit 20–50 mi west, in the numbered-bank zones, not on these four marks.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | year-round frame; documented on a gray-light gate | Baja coastal structure **from Ensenada southward** holds yellowtail more or less year-round, grade improving south (cameron) — this zone is the northern anchor of that frame. Reef and point fish here are described as constantly on the move around the structure rather than holding (`0dIwWiOc1NY`), and the 7–8 mi high spot produced yellowtail on **20 lb** line (`CKq0Z6ExVs4`) |
-| [Rockfish & lingcod](../species/rockfish-lingcod.md) | documented in the late-spring/early-summer session and in November footage | The **300 ft** rock drop-off is the zone's bottom fishery: vermilion, a bocaccio and multiple lingcod came off it in one stop (`0dIwWiOc1NY`), and the 7–8 mi high spot produced more lingcod plus a fish the crew called a "rock bass" (`CKq0Z6ExVs4`) |
+| [Yellowtail](../species/yellowtail.md) | year-round frame; documented on a gray-light gate | Baja coastal structure **from Ensenada southward** holds yellowtail more or less year-round, grade improving south (cameron) — this zone is the northern anchor of that frame. Reef and point fish here are described as constantly on the move around the structure rather than holding (`0dIwWiOc1NY`), and the 7–8 mi high spot produced yellowtail on **20 lb** line (`CKq0Z6ExVs4`) ⚠ Fact-check (contradicted-by-source): the "rather than holding" half inverts the first half of the same sentence — "Our main target is yellowtail that hold around these zones. They're constantly on the move, so while we slow troll mackerel in the back, we're casting jigs up front" (`0dIwWiOc1NY` 08:09). The source has them holding *around* the zone and moving within it, not failing to hold |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | documented in the late-spring/early-summer session and in November footage | The **300 ft** rock drop-off is the zone's bottom fishery: vermilion, a bocaccio and multiple lingcod came off it in one stop (`0dIwWiOc1NY`), and the 7–8 mi high spot produced more lingcod plus a fish the crew called a "rock bass" (`CKq0Z6ExVs4`) ⚠ Fact-check (contradicted-by-source): neither "vermilion" nor "bocaccio" is spoken on camera — the fish are called by local slang, "something we will call it a red snapper" self-corrected to "Rockfish? Yeah" (11:18, 14:35) and "Oh, no, no. Salmon grouper. Big salmon grouper" (13:56); the species IDs are the note's translation. "Multiple lingcod" is two confirmed (12:09, 13:10), a third call at 13:55 being immediately corrected to salmon grouper. The evidence file discloses the slang; the router does not ⚠ Fact-check (contradicted-by-source): "rock bass" is one garbled utterance — "no no it's females he's gonna rock bass on there they call that a tree fish" (`CKq0Z6ExVs4` 09:32) — and the crew's operative name for the fish is **tree fish**, used again at 13:41 ("Oh big tree fish so far so that's jackpot so far") |
 | [Ocean whitefish](../species/ocean-whitefish.md) | high-spot bottomfish | First fish of the day off the 25-ft-from-200-ft high spot (`CKq0Z6ExVs4`) |
 | [California sheephead](../species/sheephead.md) | high-spot bycatch | Taken on the same mixed-bottom high spot (`CKq0Z6ExVs4`) |
-| [Bonito](../species/bonito.md) | named as standing inshore mix | Named with barracuda and yellowtail as the standing inshore mix (`0dIwWiOc1NY`); one came on the reef/point stop and two more on slow-pitch jigs at the 300 ft stop (`0dIwWiOc1NY`) |
+| [Bonito](../species/bonito.md) | named as standing inshore mix | Named with barracuda and yellowtail as the standing inshore mix (`0dIwWiOc1NY`); one came on the reef/point stop and two more on slow-pitch jigs at the 300 ft stop (`0dIwWiOc1NY`) ⚠ Fact-check (contradicted-by-source): the point-stop bonito is hedged and never confirmed — "It's not much. It's I think it's bait. Maybe bonita, small one. Little guy" (08:51) — and both bottom-stop fish are described as taken on the retrieve, not the slow-pitch stroke: "On the way in, on the windup, basically yo-yoing… That is a big bonito, man" (11:52) and "Same thing. That's what I'll be on the windup" (12:42) |
 | [Barracuda](../species/barracuda.md) | named as standing inshore mix | Part of the same standing mix (`0dIwWiOc1NY`) and an expected species on the high spot, though none was landed there (`CKq0Z6ExVs4`) |
 | [Calico bass](../species/calico-bass.md) | incidental on the reef/point stop | One fish while slow-trolling mackerel and casting jigs for yellowtail (`0dIwWiOc1NY`). The region's big-calico coast is much further south, off San Martin Island ([San Quintin](san-quintin.md)) |
-| [Sand bass](../species/sand-bass.md) | bait-stop bycatch | A "regular size" fish taken while jigging mackerel just outside the marina (`0dIwWiOc1NY`) |
-| [Bluefin tuna](../species/bluefin-tuna.md) | summer — **offshore of the zone** | New waves were observed arriving **"out of the west on the moon"** into the Ensenada zone (`Blh2BA-7Ono`, [moon](../conditions/moon.md)). A bank **42–43 mi** out held breezing and kite-raised fish across an **August 2024** tournament, roughly **30 lb** class, with about **40 boats** landing **4 fish on day one and 7 on day two** — sign without a bite (`Ix0gG0-l3v0`, `U1AgwmlY5bI`). As of **2021-05** two of the three areas the fleet was working sat west of Ensenada (`fgTmUq78ofQ`) |
+| [Sand bass](../species/sand-bass.md) | bait-stop bycatch | A "regular size" fish taken while jigging mackerel just outside the marina (`0dIwWiOc1NY`) ⚠ Fact-check (contradicted-by-source): no method is named for this fish on camera. The quote is "This is a regular size. It's a good sand bass" (07:28) during the bait stop — "while we were moving around looking for more bait" (07:40) — and no gear, jig or sabiki is mentioned. "Jigging mackerel" is note-side |
+| [Bluefin tuna](../species/bluefin-tuna.md) | summer — **offshore of the zone** | New waves were observed arriving **"out of the west on the moon"** into the Ensenada zone (`Blh2BA-7Ono`, [moon](../conditions/moon.md)). A bank **42–43 mi** out held breezing and kite-raised fish across an **August 2024** tournament, roughly **30 lb** class, with about **40 boats** landing **4 fish on day one and 7 on day two** — sign without a bite (`Ix0gG0-l3v0`, `U1AgwmlY5bI`). As of **2021-05** two of the three areas the fleet was working sat west of Ensenada (`fgTmUq78ofQ`) ⚠ Fact-check (contradicted-by-source): the quoted string is not verbatim and describes one hedged wave, not waves — "i think another wave came in out of the west on that last moon" (`Blh2BA-7Ono` 07:43); Ensenada appears as the port the boats work out of ("the boat's fishing out of ensenada are back on the bluefin again", 07:39), not as a destination the fish arrive into ⚠ Fact-check (contradicted-by-source): neither "breezing" nor a kite-raised fish is in the source — the fish are "up on top so should be able to run the spreader bar right across them" (`Ix0gG0-l3v0` 02:03), the kite drew only "a swirl under it" (12:02), and "in the end we did not land any fish during the tournament" (13:00). The 30 lb grade belongs to *other* boats' day-one fish ⚠ Fact-check (contradicted-by-source): the boat count and the fish counts come from two different speakers — the host guesses "Tough Fishing I think out of 40 boats I'm guessing I think there was like 40 boats three people three boats caught fish" (03:32), three BOATS not three fish, while director Manuel Hernandez gives only fish: "yesterday I think were maybe four pieces and today uh seven pieces" (14:57), with no boat number ⚠ Fact-check (contradicted-by-source): neither "August" nor "2024" is spoken on camera in either tournament video; 2024-08-21 and 2024-08-14 are manifest upload dates. What the source states is the edition — "being a part of the second annual blue fin tuna event was awesome" (`Ix0gG0-l3v0` 00:20) ⚠ Fact-check (contradicted-by-source): the source places **one** area west of Ensenada, not two — "i think there's three different areas of bluefin right now there's an area that's out west of uh san diego there's one that's west of ensenada well there's two areas out west so" (`fgTmUq78ofQ` 33:44); the third area is never located, and the trailing "two" is a mid-sentence self-correction about areas being out west generally. No date is spoken on camera either — 2021-05 is upload metadata. The same reading is already flagged on [Baja Pacific — North](baja-pacific-north.md), which carries the identical sentence |
 | [Yellowfin tuna](../species/yellowfin-tuna.md) | September offshore runs — **offshore of the zone** | September conference trips work temperature breaks west of the port (`0bcDBGzQnGw`); on one day yellowfin were reported showing **30–40 mi** out and the crew chose the closer structure instead (`0dIwWiOc1NY`) |
-| [Skipjack](../species/skipjack-tuna.md) / [striped marlin](../species/striped-marlin.md) | offshore sign — **offshore of the zone** | Skipjack and yellowfin sign around a floating object about **35 mi** out, and a striped marlin seen jumping at the boat on a dolphin-school foamer the same trip (`0bcDBGzQnGw`) |
+| [Skipjack](../species/skipjack-tuna.md) / [striped marlin](../species/striped-marlin.md) | offshore sign — **offshore of the zone** | Skipjack and yellowfin sign around a floating object about **35 mi** out, and a striped marlin seen jumping at the boat on a dolphin-school foamer the same trip (`0bcDBGzQnGw`) ⚠ Fact-check (contradicted-by-source): the marlin is not on the same trip leg. It sits in the earlier fish-our-way-down footage, before the Navico trip departs at 11:08 — "actually just saw marlin jump right in front of the boat" (05:46), during the foamer at 05:26–05:42 — while the skipjack and yellowfin calls (20:27, 20:31) and the 35 mi object (20:49) are ~15 minutes of runtime later. The species is never called a *striped* marlin, and the object is a kelp paddy, ASR-rendered "Cal pal" |
 | Mackerel — bait, not target | spawn peaks late spring / early summer | Two local types are made just outside the marina: a slower but tough **"Spanish jack"** and a smaller, flashier, faster **"greenback"** (`0dIwWiOc1NY`, [making bait](../bait/making-bait.md)) |
 | [White seabass](../species/white-seabass.md) | ⚠ Flagged stub — no corpus source yet | The species gates to this region but nothing in the corpus puts one on this coast. Work the router's squid-bed program until a source arrives |
 
@@ -156,12 +209,29 @@ with reef structure for yellowtail, and when that goes quiet slide out to the
 **300 ft** rock for bottomfish (`0dIwWiOc1NY`). Nothing in that day was bought,
 booked or guessed — the guide located structure, the crew made their own bait,
 and the fallback was one move offshore rather than a run home.
+⚠ Fact-check (contradicted-by-source): nobody is called a guide and nobody is
+credited with locating the structure. Alejandro is introduced as "our buddy
+Alejandro. He's a local and knows this place inside out" (05:38) and separately
+as "a full-time commercial fisherman" (07:34); the structure is found in the
+first-person plural — "Ensenada's got no shortage of structure… We ran a few
+miles down the coast, found a point with reef" (07:57). Nothing on camera says
+anything was or was not bought or booked.
 
 **Bait is made, not bought, and there are two of it.** Mackerel spawn close to
 shore and spread out in late spring and early summer, which is when bait is easy;
 the "Spanish jack" is a slower swimmer that stays alive in the tank for hours,
 the "greenback" is smaller, flashier and more energetic (`0dIwWiOc1NY`,
 [making bait](../bait/making-bait.md)).
+⚠ Fact-check (contradicted-by-source): "smaller" is not in the source. The
+greenback is described by shape and behaviour only — "The second are like mini
+tuna, flashy, fast, and full of energy. We call these greenbacks" (07:00) — with
+no size comparison against the Spanish jack. Repeated in the mackerel row above.
+⚠ Fact-check (single-source): the spawning window is one unregistered-channel
+line — "Late spring and early summer is peak spawning season for mackerel, which
+means they're close to shore and spread out all over" (06:38) — and the source
+draws no "which is when bait is easy" conclusion, only the operational step of
+stopping outside the marina to catch a few. A biology claim carrying the zone's
+whole bait window. **ext-verify**
 
 **Gray light is the gate on the inshore yellowtail bite.** Yellowtail feed
 hardest in the gray light early in the morning; the reef/point stop that
@@ -176,6 +246,10 @@ bow at the same structure — the stated logic is that the surface splashes from
 the cast jigs pull fish into the area alongside the trolled bait rather than
 competing with it (`0dIwWiOc1NY`, [trolling](../techniques/trolling.md),
 [surface iron](../techniques/surface-iron.md)).
+⚠ Fact-check (contradicted-by-source): the competition framing is not the stated
+logic. The source gives only "Those surface splashes help draw attention and
+pull fish into the area" (08:22); "alongside the trolled bait rather than
+competing with it" appears nowhere on camera.
 
 **The bottom stop is also split between two methods.** Half the crew fished
 [slow-pitch jigging](../techniques/slow-pitch-jigging.md) — drop to bottom, slow
@@ -189,6 +263,12 @@ repositioned mid-session when the boat's drift reversed from what the first pass
 had shown, setting up **up-drift** of the structure to get a clean window to drop
 onto it (`CKq0Z6ExVs4`,
 [electronics and sounder](../planning/electronics-and-sounder.md)).
+⚠ Fact-check (contradicted-by-source): "up-drift" is not the stated tactic. The
+drift reversal is exact — "our drift took us north… but for some reason we
+started drifting the opposite way so I'm just resetting right now" (07:05) — but
+the captain's stated aim is only "I'm trying to line us up in a spot that we
+will have a good window to to drop down and capture these suckers" (07:36). He
+never says he set up up-drift of the structure.
 
 **The offshore day out of this port is chart-first, not spot-first.** The stated
 plan is to run **20–30 mi due west** to a temperature break, then continue north
@@ -200,6 +280,15 @@ locate — cedar plugs around a large dolphin school — and the conversion when
 school broke into a full foamer was to stop trolling and work
 [flylined sardine](../techniques/flyline.md) plus
 [chunked](../techniques/chunking.md) cut bait into it (`0bcDBGzQnGw`).
+⚠ Fact-check (contradicted-by-source): working away from the fleet is stated as
+an intention, not an executed move — "if we could find fish away from them
+that's our goal" (11:36) — and the conversion is not stated as *stopping*
+trolling: the line is garbled and reads the other way, "let's get the
+controller's down we got the trawlers out and as we look up full foamer"
+(05:26). The flyline and chunk calls that follow (06:42, 07:06, 08:02) are real;
+the sequencing is not. The same source also calls the school "big dolphin
+school" (03:03) and "small porpoise school" (05:30), contradicting itself on
+size.
 
 **The tournament program on the bluefin bank is troll-and-glass, then commit.**
 Two [Mad Macs](../lures/mad-mac.md) staggered at roughly an **80 count** and a
@@ -210,10 +299,31 @@ marks or surface sign, a three-bar
 scattered rather than bunched, and the [kite](../techniques/kite-fishing.md)
 saved for the final day on the best sign (`U1AgwmlY5bI`, `Ix0gG0-l3v0`,
 [search and glassing](../planning/search-and-glassing.md)).
+⚠ Fact-check (contradicted-by-source): the bars went out *before* the scattered
+bait was noticed, so the causal link is note-side. "is this the first time we
+put these out yeah get these guys in the water see if uh we get lucky"
+(`U1AgwmlY5bI` 12:02) precedes "this is the most dat that we've seen but it's
+not bunched up in big school it's kind of scattered so we'll see what happens"
+(13:00), and the three-bar description follows at 13:48.
+⚠ Fact-check (contradicted-by-source): the kite was not saved for the best sign.
+The stated doctrine is the opposite — "ideally we won't get the [kite] up cuz
+we're targeting the big fish but uh we don't just want to put it up on nothing"
+(`U1AgwmlY5bI` 05:41) — and the final-day plan is to "just find a spot and
+probably just hunker down and hopefully wait for that [bite] to come in"
+(19:27). In the event it went up while the boat was marking nothing and was
+pulled back in: "we're not really [marking] anything anymore so uh we're
+bringing the kite in it'll be on standby" (`Ix0gG0-l3v0` 11:15).
 
 **Moons mark arrivals here, not just bites.** New waves of bluefin were observed
 arriving out of the west on the moon into this zone (`Blh2BA-7Ono`,
 [moon](../conditions/moon.md)).
+⚠ Fact-check (contradicted-by-source): one hedged wave is generalized into a
+zone rule. The source says "i think another wave came in out of the west on that
+last moon" (07:43) — singular, hedged, tied to one specific moon — and Ensenada
+is named only as the port the boats work out of (07:39). The same report uses
+the moon for bite effects in the same breath elsewhere ("dropped off a bit as
+expected after the full moon", 00:41), so "not just bites" is a note-side
+contrast.
 
 Zone guides — the trip-level story:
 
