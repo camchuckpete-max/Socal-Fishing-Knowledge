@@ -24,7 +24,10 @@ lines, so the naming split stays visible instead of getting buried in a
 larger knots catalog. ⚠ Fact-check (contradicted-internal): [Essential SoCal
 Knots](essential-knots.md) twice describes this same split as "five sourced
 variants," against the six sources named here and in this note's own front
-matter.
+matter. ⚠ Fact-check (contradicted-by-source): this lead also says "three
+channels," but the six cited transcripts resolve to four — Dirty Hookers
+(`48ZFXnCTTQE`), StokedOnFishing (`06lxuie5cZQ`, `tzeXXPAjqUY`, `i3qIAHW-SJc`),
+SearcherSportfishing (`M-W5mEjh1MY`), and Tackle Express (`SK2M7L2vA1s`).
 
 ## When to use
 
