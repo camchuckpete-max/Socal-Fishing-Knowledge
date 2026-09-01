@@ -45,6 +45,9 @@ observation. Observations never change the note's stated doctrine.
   public fishing; the side of the island is not stated; registered in
   [regulatory claims](../../sources/regulatory-claims.md) as of 2024;
   unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the transcript never says closed — it says
+  "the permit that we have, we're allowed to fish in MLPAs like these" and that all
+  bycatch goes back; the area is not named either ("MLPAs like these").
 
 ## Structure & bathymetry
 
@@ -58,6 +61,11 @@ observation. Observations never change the note's stated doctrine.
   compresses climbing the slope, spins eddies and aggregates bait and kelp
   paddies along the curve; full worked example in
   [island structure](../island-structure.md).
+  ⚠ Fact-check (contradicted-by-source): the source says "running offshore or uphill
+  like crazy" and never uses "counter-current" or a season; the observation is on the
+  BACK side (the boat ran "up the backside," bending off near Salta Verde "about
+  three miles off"), and the paddies are discounted on camera — "you see a million
+  kelp, they don't usually have fish on them".
 
 ## What's there
 
@@ -93,6 +101,10 @@ observation. Observations never change the note's stated doctrine.
   a handful at a time rather than as one body; marks called at 120 ft and then
   a "really good mark... solid" at 150 ft with jigs sent down; unregistered
   channel.
+  ⚠ Fact-check (contradicted-by-source): the boats come back from the islands, not
+  the fish — "[boats] stop coming back from the islands and pick off a handful at a
+  time," and "the last two days on my way home I've put a handful on the boat each
+  day".
 - `HzE4FHHcvTk` (BDOutdoors, 2022-08-17, Bight): paddy fishing ran up to San
   Clemente Island and the inside of Catalina, but paddies were fewer and less
   holding further up; the best of it was south of Clemente or Catalina.

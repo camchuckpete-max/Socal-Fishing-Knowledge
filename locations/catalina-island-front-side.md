@@ -23,6 +23,18 @@ anchor on shallow rock, chum, and soak live squid for yellowtail, calico bass
 and bonito (`MUpvP-Yl2R0`). Nine of its charted spots carry a marine-protected-area
 boundary note, so the closure edge is part of nearly every spot decision
 (cameron).
+⚠ Fact-check (contradicted-by-source): the lee sentence. `PKf7G3uL4io` carries
+only the retreat — "got around the West End and man it was just blowing... made
+the decision to turn around and come back and seek shelter on the front side" —
+and hedges it ("the winds you can feel it picking up already on the front so I'm
+not too optimistic"). It states no prevailing wind or swell direction anywhere;
+the "island's lee in the prevailing west" half is `aFb221LUoD0`'s framing,
+uncited here.
+⚠ Fact-check (contradicted-by-source): the squid-program sentence.
+`MUpvP-Yl2R0` names no bottom type and no depth — "shallow rock" is not in that
+transcript. The shallow-rock language is `PKf7G3uL4io`'s ("especially in this
+real shallow water and especially where it's all the rock"); the
+squid/anchor/chum program and the three species are supported.
 
 ## Getting there
 
@@ -38,6 +50,16 @@ the side picked outright for calmer conditions on a trip carrying first-timers
 (`MUpvP-Yl2R0`). Call a local fish-report line the night before to set the side
 and the spot ([report reading and forecasting](../planning/report-reading-and-forecasting.md),
 `MUpvP-Yl2R0`).
+⚠ Fact-check (contradicted-by-source): the pick-the-side rule. `aFb221LUoD0`
+conditions the FISH, not the structure — "the swell's going to be pushing in a
+direction that most of the fish are not used to"; the nearest structure line is
+"all these islands are affected in different ways by the swell." The
+prevailing-west statement and the read-swell-first order are verbatim.
+⚠ Fact-check (contradicted-by-source): the fish-report call. In `MUpvP-Yl2R0` the
+976-TUNA call set spots, not the side — "he gave me some pretty good info so we got
+a few good spots on the island to start off at." The side was set by the
+conditions/first-timer logic instead ("biggest thing right now is conditions... I'm
+going to stay on the front side of the island").
 
 The crossing shows up in the corpus as roughly a **30 mi run** (`MUpvP-Yl2R0`)
 and about **2.5 hours** under way (`L_FD-UzvEio`), neither tied to a named
@@ -61,17 +83,41 @@ boundaries with CDFW before fishing** (cameron):
 | Little Gibraltar Main Big Rock | stay W of the MPA at 118 24.000 |
 | Long Point | stay E/S of the MPA at 33 24.380 x 118 21.980 |
 
+⚠ Fact-check (contradicted-internal): two of these boundary rules put the spot's own
+charted position on the closed side of the line. Arrow Point is charted at
+118 32.274 — **east** of the "stay W of 118 32.310" line — and Lions Head at
+33 27.235 — **north** of the "stay S from 33 27.170" line ([the spot
+library](../sources/spot-lists.md), cameron). Either the waypoints sit inside the
+SMCA or the boundary figures are transcribed loosely (cameron); a boat navigating to the
+charted position would be on the wrong side of the rule this page states.
+
 A Catalina MLPA area closed to public fishing is named on camera as the context
 for a hatchery broodstock crew fishing it under permit; the source does not say
 which side of the island it sits on (`Y2bXn44lfqo`). California / CDFW, as of
 2024 — verify current closures with CDFW before fishing. The Farnsworth Bank
 closure, where only yellowtail and bonito may be kept, is charted in the
 island's backside section, not here (`5p6gu14ZC4w`, cameron).
+⚠ Fact-check (contradicted-by-source): the MLPA sentence. `Y2bXn44lfqo` neither
+names the area — it says "the permit that we have, we're allowed to fish in MLPAs
+like these" — nor calls it closed to public fishing; what it states is that the
+permit lets the broodstock crew fish there and that all bycatch goes back ("even a
+20, 25, 30 pound halibut or yellowtail we have to let go because [of] the permit").
+No date is stated on camera either; the 2024 stamp traces to the regulatory-claims
+register, not to the video (uploaded 2023-08-30).
+⚠ Fact-check (unverifiable): the Farnsworth Bank keep-list. It is stated on camera
+in `5p6gu14ZC4w` — "if you do fish in that area you can only keep yellowtail and
+bonito, everything else needs to go back, that's in the marine closure in there" —
+but the source names no agency and gives no date beyond the 2022-10-26 report, so
+this line carries no jurisdiction or as-of stamp of its own. **ext-verify**
 
 **Navigation cautions** carried in the spot library: Johnson Rock is charted
 with a boiler-rock caution and Isthmus Reef with a shoal caution (cameron). The
 local islands in general are framed as a hazard stack of thick kelp,
 razor-sharp boiler rocks and big waves (`iQLyBzhOSi8`).
+⚠ Fact-check (contradicted-by-source): the transcript scopes the hazard stack to a
+month, not to the islands in general — "in January she can make conditions at the
+local islands tough to fish: thick kelp, razor-sharp boiler rocks and big waves can
+ruin the day."
 
 ## Structure & bathymetry
 
@@ -95,6 +141,10 @@ Pinnacle; the 3rd V Cod pair runs **31–36 fa**; the East End Rockfish trio run
 library charts in the **backside** section (cameron) — the census assigns the
 whole rockfish group to this zone, and the split is queued rather than
 re-drawn here.
+⚠ Fact-check (contradicted-internal): the Salta Verde Cod Pinnacle carries no
+charted depth either in [the spot library](../sources/spot-lists.md) (cameron), so
+the 40–48 fa band is the eight numbered spots only (48, 43, 43, 47, 45, 48, 40,
+43 fa) and West End Humps 1–3 are not the only depthless entries in this group.
 
 **Structure typology gates the spot before conditions do.** A ridge running out
 perpendicular from an island is a **two-directional** spot: it produces only on
@@ -105,6 +155,16 @@ the uphill summer counter-current compresses as it climbs the slope, spins
 eddies, and aggregates both bait and kelp paddies along the curve
 (`HnqiE05vdXs`) — a line to hunt rather than a point, and the offshore edge of
 this zone's water.
+⚠ Fact-check (contradicted-by-source): the source calls the flow "running offshore or
+uphill like crazy" / "running uphill strong" and never says "counter-current" or ties
+it to summer — the same label is flagged on [island
+structure](island-structure.md).
+⚠ Fact-check (contradicted-by-source): the worked example is on the BACK side, not
+this one — the boat had run "up the backside" and bent off the island near Salta
+Verde, "about three miles off," so placing the curve as "the offshore edge of this
+zone's water" imports a backside observation onto the front side. The source also
+discounts the paddies it aggregates: "you see a million kelp, they don't usually have
+fish on them."
 
 ⚠ Flagged gap — no corpus source: bottom composition, kelp extent and working
 depth bands for the individual shoreline spots on this side.
@@ -113,16 +173,16 @@ depth bands for the individual shoreline spots on this side.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | while water temperatures hold, into late October | Squid-driven. Anchored, chummed live-squid stops produce inside the first half hour (`MUpvP-Yl2R0`); one boat had about **40 yellowtail** at Catalina in the days before the 2022-10-26 report (`5p6gu14ZC4w`) |
+| [Yellowtail](../species/yellowtail.md) | while water temperatures hold, into late October ⚠ Fact-check (contradicted-by-source): `5p6gu14ZC4w` de-ranks late October rather than extending the season into it — "the water temperatures still look pretty good at Cats so there's no reason you couldn't catch yellowtail, but... it's not really a prime time of year to go there and catch one" | Squid-driven. Anchored, chummed live-squid stops produce inside the first half hour (`MUpvP-Yl2R0`); one boat had about **40 yellowtail** at Catalina in the days before the 2022-10-26 report (`5p6gu14ZC4w`). ⚠ Fact-check (contradicted-by-source): the half-hour claim — `MUpvP-Yl2R0` records one instance, not a rule: "we got two yellowtail, we've been here about half hour, we've been chumming baits... they're starting to come through" |
 | [Calico bass](../species/calico-bass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this side | **3–4 lb** fish come off the anchored squid stops beside the yellowtail (`zUFbCIWZZMw`); multi-day rain washes Catalina's dirt hillsides into the inshore water and shuts the shallow bass bite ([February–March](../seasonal/february-march.md)) |
-| [Pacific bonito](../species/bonito.md) | fall | By late October the zone is "mostly against Bonita, bass and Rockfish" (`5p6gu14ZC4w`); bonito came to the rail at an anchored front-side stop (`MUpvP-Yl2R0`) |
+| [Pacific bonito](../species/bonito.md) | fall | By late October the zone is "mostly against Bonita, bass and Rockfish" (`5p6gu14ZC4w`); bonito came to the rail at an anchored front-side stop (`MUpvP-Yl2R0`). ⚠ Fact-check (contradicted-by-source): quote fidelity — `5p6gu14ZC4w` reads "you're mostly against Bonita bass and Rockfish this time of year" with no comma, and "against" is an ASR artifact for "after"; the scope (the inside of Catalina, late October) is right |
 | [Rockfish & lingcod](../species/rockfish-lingcod.md) | season-gated | The charted pinnacles at **31–48 fathoms** (cameron). Deep structure stays fishable through the winter runoff that kills the shallow bass bite ([February–March](../seasonal/february-march.md)) |
-| [California barracuda](../species/barracuda.md) | late May through October | Present at Catalina in late May (`S2L3KLSQ6Is`); one took a Tady 45 sunk about 30 ft before winding (`oadK6zIYyCo`) |
-| [California halibut](../species/california-halibut.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this side | Two came off one anchored front-side squid stop, one measured **24 1/4 in** against a stated **22 in** minimum (`MUpvP-Yl2R0`). California / CDFW, as of 2016-11 — verify the current minimum size with CDFW |
+| [California barracuda](../species/barracuda.md) | late May through October ⚠ Fact-check (contradicted-by-source): `S2L3KLSQ6Is` places only "a few barracuda" at Catalina in late May; the through-October end of the span comes from Channel Islands and San Clemente sources in [barracuda](../species/barracuda.md), not from any Catalina source | Present at Catalina in late May (`S2L3KLSQ6Is`); one took a Tady 45 sunk about 30 ft before winding (`oadK6zIYyCo`). ⚠ Fact-check (contradicted-by-source): the Tady 45 sink depth — in `oadK6zIYyCo` two separate exchanges are fused — the "letting it sink... 30 ft" line is about an earlier fish, and the barracuda is credited only to the iron ("nice size cuda, surface iron... same one I caught the yellowtail on"), with no sink depth stated |
+| [California halibut](../species/california-halibut.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this side | Two came off one anchored front-side squid stop, one measured **24 1/4 in** against a stated **22 in** minimum (`MUpvP-Yl2R0`). California / CDFW, as of 2016-11 — verify the current minimum size with CDFW ⚠ Fact-check (contradicted-by-source): the transcript never ties both fish to one stop, and it names no species at the measurement — "it's 24 and a quarter... legal size is 22 in" — with only the released short fish called a halibut on camera; the CDFW attribution is the KB's, as [California halibut](../species/california-halibut.md) already records |
 | [White seabass](../species/white-seabass.md) | moon-clustered, in season | Islands first, along kelp edges, hard structure and squid beds in **60–100+ ft**. ⚠ Flagged gap — no corpus source scoped to this side of the island |
 | [Sheephead](../species/sheephead.md) | ⚠ Flagged gap — no corpus source: season | Incidental catch during a mixed-species anchor session at Catalina (`oadK6zIYyCo`) |
 | [California spiny lobster](../species/california-spiny-lobster.md) | season-gated | Hoop nets on Catalina's shallow structure in **20–30 ft** (`YQsbwfQ4wzY`) |
-| [Bluefin tuna](../species/bluefin-tuna.md) | August | Offshore of the West End, marks at **120 ft** and **150 ft** had jigs sent down in August 2020, with fish coming back from the islands a handful at a time (`M7BtON4GZgQ`) |
+| [Bluefin tuna](../species/bluefin-tuna.md) | August | Offshore of the West End, marks at **120 ft** and **150 ft** had jigs sent down in August 2020, with fish coming back from the islands a handful at a time (`M7BtON4GZgQ`) ⚠ Fact-check (contradicted-by-source): subject inversion — it is the BOATS that come back from the islands, not the fish: "we've been seeing these fish here the past couple days, [boats] stop coming back from the islands and pick off a handful at a time," and the captain's "the last two days on my way home I've put a handful on the boat each day." The transcript also says "traveling just off the west end of Catalina," which "offshore of the West End" overstates, and only the 150 ft mark is called good ("a really good mark down 150 feet... solid") |
 
 **Kelp paddies.** Paddy fishing reached "the inside of Catalina" in August 2022,
 but paddies were fewer and less holding that far up the Bight; the best paddy
@@ -146,6 +206,21 @@ tank lid off so the bait stays visible, because a dead pump discovered at the
 island costs the whole tank (`L_FD-UzvEio`); load squid without packing them
 densely, which shortens how long they last (`xFS3MW4GpDU`,
 [bait tanks](../bait/bait-tanks.md)).
+⚠ Fact-check (contradicted-by-source): the slider rig. It is quoted verbatim in
+`MUpvP-Yl2R0` ("size four hook, little baby slider, maybe a quarter ounce, perfect
+for squid") but spoken on the run out, before bait; the transcript never ties any
+hooked fish back to that hook and slider, so "produced multiple yellowtail" is the
+KB's join.
+⚠ Fact-check (contradicted-by-source): the Bird Rock stop. The fish are supported
+but the place is not — in `zUFbCIWZZMw` Bird Rock appears only as the no-take
+boundary reference on the way in ("the no take zone... goes right down the middle
+of Bird Rock, so what we're going to do is we're going to anchor right there"), and
+the named destination is Two Harbors.
+⚠ Fact-check (contradicted-by-source): the squid-gate sentence. `oadK6zIYyCo` is a
+single anchored session with no side named and no second stop, so neither "the gate
+on the whole side" nor "changes stop to stop" is in it; what it carries is squid's
+status ("Catalina loves squid", "the candy bait of all fishermen") and one calico
+that took the sardine with both baits soaking.
 
 **Read current against the spot's typology, not against the calendar.** Because
 current direction is coherent across a region, once you know which way the

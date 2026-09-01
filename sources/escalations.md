@@ -484,3 +484,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T12:01:42Z — locations/zone-lexicon.md — subagent-failure
 - run: 33504474869
 - reason: worker returned incomplete status message instead of LOG line, no changes made
+
+## 2026-09-01T15:04:27Z — locations/catalina-island-front-side.md — verify-escalate
+- run: 33512954766
+- reason: sources/spot-lists.md charts Arrow Point (118 32.274) and Lions Head (33 27.235) on the CLOSED side of the MPA boundary rules this page publishes for them — a boat navigating to either cameron-sourced waypoint would be inside the SMCA; neither arrow-point.md nor lions-head.md records the discrepancy; regulatory, needs correcting at source
