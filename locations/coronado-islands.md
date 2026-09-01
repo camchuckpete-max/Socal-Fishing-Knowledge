@@ -29,10 +29,20 @@ circuit rather than as separate destinations, which is what makes it a zone.
 About **13 nm** from the San Diego bay entrance (cameron) — a short run that
 puts island structure within a half-day for boats that could not otherwise
 reach one.
+⚠ Fact-check (contradicted-internal): the directly-linked
+[targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+states the run as "roughly 13 **mi**", verbatim from `D5DR7Kx42_A`
+("approximately 13 miles from San Diego"), while this page and its
+`distance_nm` field state 13 **nm** (≈ 15.0 statute mi) sourced to cameron —
+matching "13" figures, different real-world distances.
 
 **The jurisdiction is the gate.** These are Mexican waters: seasons, limits and
 licensing are CONAPESCA/INM, not CDFW, and the paperwork is
 [Mexican waters](mexican-waters.md) (`D5DR7Kx42_A`).
+⚠ Fact-check (contradicted-by-source): `D5DR7Kx42_A` places the chain only
+"off the coast of Mexico" — it never names CONAPESCA, INM or CDFW and says
+nothing about seasons, limits, licensing or paperwork; the video is entirely
+tackle and technique.
 ⚠ Flagged gap — no corpus source: exactly what a *boat* run to the Coronados
 requires — permits, passports, whether an FMM applies to a day trip that never
 lands. This is the most common Mexican-water trip in the KB and the corpus does
@@ -65,10 +75,22 @@ patterns around the islands and a pass across the Middle Grounds between them,
 covering island edges and mid-chain structure in one sweep, then converting on
 sign or a troll strike (`HTowqnwAMeA`). Trolling here is prospecting that
 happens to hook fish rather than the presentation itself.
+⚠ Fact-check (contradicted-by-source): `HTowqnwAMeA` supports only the
+prospecting framing ("trolling is an excellent way of prospecting a zone
+quickly and effectively"). It never mentions the Coronados, any island,
+figure-8 patterns or the Middle Grounds — it is a mid-August day on a small
+local rock explicitly "above the border," where the program is anchor first,
+then "we picked up the anchor, started moving around… slow troll a little bit."
 
 **Terns are worth reading here specifically.** The Coronados are where tern
 sign is most often seen and is considered worth acting on (cameron); general
 method in [bird reading](../conditions/bird-reading.md).
+⚠ Fact-check (contradicted-by-source): the cameron source
+(`sources/memory-export.md` §3) states terns as his best bird generally —
+"will almost always stop and cast on working terns… offshore he'll follow
+terns around" — with no Coronados scoping. The bird that source does scope to
+this zone is the booby ("mostly sees them at the Coronados"), as carried in
+[bird reading](../conditions/bird-reading.md).
 
 **Water flips fast.** Coronado droughts run in hours, not months — a
 seeing-not-biting stretch can turn inside a single day, which is why the
