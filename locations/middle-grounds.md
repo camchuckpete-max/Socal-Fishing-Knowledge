@@ -28,6 +28,12 @@ story it belongs to is
 About **15 nm** from the San Diego bay entrance at Zuniga Jetty, measured
 between the charted positions (cameron) — near the middle of a chain the corpus
 gives as roughly 13 nm out as a whole.
+⚠ Fact-check (contradicted-by-source): the corpus figure is stated in **statute
+miles**, not nm — `D5DR7Kx42_A` says the chain is "approximately 13 miles from
+San Diego" (13 mi ≈ 11.3 nm), and [Coronado Islands](coronado-islands.md)
+already carries this same unit conflict under its own flag. The charted math
+supports the nm reading (nearest Coronados waypoint is 13.3 nm from Zuniga
+Jetty), so it is the attribution that is wrong here, not the number.
 
 **Mexican water.** Seasons, limits and licensing here are CONAPESCA/INM, not
 CDFW; the paperwork is [Mexican waters](mexican-waters.md).
@@ -79,6 +85,17 @@ as its fish-finder (nate); the method is
 [trolling](../techniques/trolling.md), and the conversion — casting a
 [surface iron](../techniques/surface-iron.md) at sign or a troll strike — is on
 the zone guide.
+⚠ Fact-check (contradicted-by-source): the cited transcript supports
+"prospecting" verbatim ("trolling is an excellent way of prospecting a zone
+quickly and effectively") but not "rather than the presentation itself" — the
+next lines say the fish "will be keyed in to a specific presentation, a specific
+depth or a specific vibration," then give color-by-light selection doctrine and
+a trolling rig spec.
+⚠ Fact-check (contradicted-by-source): the same cite carries no Coronados or
+Middle Grounds anchor — neither term appears in `HTowqnwAMeA`, and its one
+geographic specific scopes the doctrine to "these local zones like above the
+border," i.e. US water, while this bank is Mexican water. It is general SoCal
+yellowtail-trolling doctrine, not evidence about this mark.
 
 **What you are crossing it for is sign.** The pass earns its place by covering
 water between the island patterns, so the read is the general search read:
@@ -90,6 +107,12 @@ One on-the-water trace has a boat stopped and casting here rather than crossing
 — birds worked down over the Middle Grounds late in an August afternoon, then a
 fish boiling within range of a blind-cast iron (`4pT0efBD1j0`); one trip, not a
 program.
+⚠ Fact-check (contradicted-by-source): the transcript's sequence is that the
+blind casts did NOT get the eat — "doing blind casts and legit a fish literally
+pops up like 10 feet from the boat, cast it again got his ass" — a fish busted
+~10 ft off, and a follow-up sighted cast at the boil hooked it. Same wording
+issue on the [evidence file](evidence/middle-grounds.md) line. (The "Middle
+Grounds," birds and "about like 4 p.m." details all check out verbatim.)
 
 ⚠ Flagged gap — no corpus source: a spot-specific program for this bank — a
 current or tide read particular to the mid-chain, which side of it to work, or
