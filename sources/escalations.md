@@ -472,3 +472,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T07:20:19Z — unknown — guard-violation
 - run: 33478746570
 - reason: sweep found violation in 60c008c8a3c98050e71fadb15dc064022dfac08f but revert conflicted — MANUAL ATTENTION: unparseable review commit subject: 'review: worklist row corrections (fix status/flags column errors from orchestrator+self-committed worker)'
+
+## 2026-09-01T09:25:11Z — locations/cedros-island.md — verify-escalate
+- run: 33487316186
+- reason: fog/radar passage is a Simrad sponsor spot (Gulf of Mexico/Venice marina) misattributed as Cedros captain doctrine, and the page is internally inconsistent on whether Dono is in-zone — both need a follow-up transform/relocation unit, not just flags

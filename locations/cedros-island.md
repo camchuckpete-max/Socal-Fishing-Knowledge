@@ -23,6 +23,10 @@ can turn up anywhere around the island (`WE643Fue1_A`), taken on the cast with a
 [surface iron](../techniques/surface-iron.md) in **60–68 ft** over rock that eats
 jigs (`IdMJnlg_rZk`); [calico bass](../species/calico-bass.md) are the mid-day
 filler and are fished catch-and-release by operator agreement (`ldVj0BoB-kE`).
+⚠ Fact-check (contradicted-by-source): `IdMJnlg_rZk` states no depth anywhere.
+68 ft is `2cxeg_AE418` ("68 ft water") and 60 ft plus the jig-eating rock are
+`_MygUHw19q8` ("they're fishing 60 ft of water… we lost about easy 10 jigs cuz
+they straight rocked us"), which also gives 70–80 ft in the same water.
 
 Access is a charter flight to a lodge running pangas, or a long-range boat out of
 San Diego that adds the island to a Guadalupe run (`_r08B4bItAY`). The zone
@@ -44,6 +48,9 @@ tackle** (`IdMJnlg_rZk`, `_C7TJoGT0nw`):
 4. **A ~2-hour charter flight** in a small aircraft, roughly **12 people**
    (possibly 16), genuinely tight and with **no restroom** — use one before
    boarding.
+   ⚠ Fact-check (contradicted-by-source): the transcript says only "make sure
+   you guys use the restroom right before"; it never states the aircraft lacks
+   one.
 5. **A ~10-minute truck ride** from the airstrip to the lodge; the dock is about
    a 3-minute drive from the lodge.
 
@@ -56,7 +63,14 @@ because this is a full-size-jig-stick fishery — see
 **Weight is the other constraint.** Anglers are allowed **35–40 lb combined**
 between tackle and clothes on the charter flight; one angler weighed his own bag
 at **28 lb** the night before and called it "in that nice sweet spot," reasoning
-he would rather pack light and bring home more fish (`_C7TJoGT0nw`). The lodge
+he would rather pack light and bring home more fish (`_C7TJoGT0nw`).
+
+⚠ Fact-check (unverifiable): the allowance rests on the same unseparated caption
+digit string as the take-home figure below — "allowed 3540 lbs between your
+tackle and everything like that" (`_C7TJoGT0nw`) — so "35–40 lb" is a reading, not a stated
+range. The 28 lb bag and its "nice sweet spot" quote are verbatim.
+
+The lodge
 does laundry, so packed clothing volume can run low. Reels stay spooled and
 ready with covers on, and **rod straps** keep each bundle tight — with 10–12
 people each bringing a bundle, the aircraft stacks them and any one bundle can
@@ -74,7 +88,18 @@ come up as a bonus stop on San Diego five- and six-day trips whose primary
 destination is Guadalupe — "there's always a chance to go to Cedros or San
 Benitos" (`_r08B4bItAY`). On one 8-day charter the boat fished bluefin and
 yellowfin roughly **170 mi** south of the border on day one, then ran a further
-**~150 mi** south to San Benito for day two (`JaKSGkZ6CAc`). Chester's Rock, at
+**~150 mi** south to San Benito for day two (`JaKSGkZ6CAc`).
+
+⚠ Fact-check (contradicted-by-source): that trip is a **five**-day, not an
+8-day — "wrapping up our very first day which would be Thursday on our 5 day",
+"another successful 5-day Charter on board the Top Gun 0[80]". The 8-day charter
+in this corpus is the *Intrepid* (`97clKtVsEOs`, `ilINTeknKB4`), as
+[San Benito Islands](san-benito-island.md#getting-there) has it. The same
+transcript also carries a second, much shorter figure for the run from the
+captain on the water — "we got about uh what do we got 75 miles to go here" —
+against the voice-over's 150 mi.
+
+Chester's Rock, at
 the south end of the complex, sits roughly **300 mi** from San Diego — a
 **188 mi** leg plus a further **112 mi** (`_r_qKX_7080`). No trip-envelope detail
 (day count at the island, technique, grade) is given for the long-range route;
@@ -87,6 +112,16 @@ zero visibility, navigating out and back on radar alone while the sounder does
 the separate job of finding fish — "I'm gonna live or die by my radar, I'm gonna
 make a living by my sonar" (`d0yGBQDeY_4`). See
 [electronics & sounder](../planning/electronics-and-sounder.md).
+⚠ Fact-check (contradicted-by-source): the quote is real but the speaker is not
+a Cedros captain and the water is not Cedros. It is a Simrad sponsor
+testimonial dropped into the episode, and it names its own ground: "the run out
+to the Gulf of Mexico from **Venice marina** is from seven to thirty miles
+long, about five to six months out of the year we are running in fog… I know
+twenty-five miles later when I'm sitting in the **Gulf of Mexico** it's still
+gonna be working." The same ad runs verbatim in `3yK3JYrKoZY`. Nothing places
+the 5–6 months of fog, the zero visibility or the radar/sonar division of
+labour on the island's yellowtail grounds — a region-separation question, not
+just a cite question.
 
 **Getting the catch home is part of the lodge program.** Each boat's fish go into
 colour-taped bins — red, blue, green tape by boat — so the dock crew can sort by
@@ -99,6 +134,13 @@ packing light on the way in as the trade for fish weight on the way out.
 string ("3540 lbs") that both cuts of the interview render identically; read as
 "35, 40 lbs" it matches the trip's own 35–40 lb baggage allowance far better
 than 354 lb of fish would, but it is not caption-confirmed.
+⚠ Fact-check (unverifiable): the two cuts do **not** render it identically —
+`_C7TJoGT0nw` reads "I was able to take about **354** lbs of fish home" and
+`iHwvUl0dhxk` reads "**3540** lbs". The caption is unstable across two uploads
+of the same audio, so neither figure is confirmed and the two are not
+independent sources: `iHwvUl0dhxk`, `9kGpcEHqIUc` and `fnaGBGbrhqU` are all
+short clips excerpted from the single `_C7TJoGT0nw` interview. The 20 lb
+halibut is verbatim in both.
 
 **Regulatory — Cedros Island voluntary catch-and-release.** Local fishing
 companies at Cedros collectively adopted **100% catch-and-release** for
@@ -109,6 +151,13 @@ to "none or very few" under pressure on the **summer spawning aggregations**
 federal or state regulation** — compliance depends on the operator, not on
 enforcement. Recorded on or before 2023-05-24; **verify current status with your
 operator before fishing** ([regulatory claims](../sources/regulatory-claims.md)).
+⚠ Fact-check (single-source): the two cites are the same Jose interview —
+`Zo92MG459gQ` closes with the passage `ldVj0BoB-kE` is cut from — so this is one
+source, not two. "Cabrilla" is the KB's gloss; the speaker says only "grouper".
+The channel's own title calls it "a regulation change", which the interview
+contradicts ("it's our fishery… no one else is going to tell us what to do").
+The 2022 calico footage in `I-QBxuV2p7M` shows retention ("we're keeping some
+and we're letting some go"), so the agreement dates to 2023, not earlier.
 
 **Regulatory — Mexico, jurisdiction CONAPESCA for fishing and INM for entry,
 checked as of 2026-08.** The general requirements (FMM, CONAPESCA sport-fishing
@@ -142,22 +191,35 @@ and a bank the crews call "macro banks" sits offshore of the island (`yjwIGFzWO8
 | A ridge, Cedros | crests around **60 ft**, slopes to roughly **120 ft** | `BvT560Nblqo` |
 | The surface-iron band | **60–68 ft** | `IdMJnlg_rZk` |
 | Calico reef bottom | **18–20 ft** | `I-QBxuV2p7M` |
-| Calico on the beach | about **30 ft**, tight to structure | `_C8w6zeVPak` |
+| Calico on the beach | about **30 ft**, tight to structure ⚠ Fact-check (contradicted-by-source): the condition is inverted — "here last year **complete opposite** the fish were nice and tight… every day we've been finding the fish out just a little bit deeper **not**… about 30 ft deep close to be right and tight". Tight-to-structure is the *prior* year; this trip found them deeper and not tight | `_C8w6zeVPak` |
 | San Augustine, on the yo-yo | iron dropped to **130 ft** | `u0scEBby7nA` |
-| Metered bait, Cedros | **183 ft** | `IdMJnlg_rZk` |
-| San Benito squid and the fish on them | **30–40 fathoms**, feeding right off the bottom | `JaKSGkZ6CAc` |
-| San Benito bottom | jagged rock at about **200 ft** | `ilINTeknKB4` |
+| Metered bait, Cedros | **183 ft** ⚠ Fact-check (unverifiable): the line is `2cxeg_AE418`, not `IdMJnlg_rZk`, and the caption gives a bare number with **no unit** — "yell 183 and we have a lot of ba below us at the bottom". The "ft" is the KB's | `IdMJnlg_rZk` |
+| San Benito squid and the fish on them | **30–40 fathoms**, feeding right off the bottom ⚠ Fact-check (contradicted-by-source): the captain says "they're all feeding on squid **30 40 50** Fathoms deep here" — 50 is dropped; he separately gives "30 35" for the same water. Already ledgered against `species/yellowtail.md`; the figure is repeated here in the infobox `depth_band`, in this row, and in How it fishes | `JaKSGkZ6CAc` |
+| San Benito bottom | jagged rock at about **200 ft** ⚠ Fact-check (contradicted-by-source): that drift is not at the Benitos — it is the lingcod/rockfish stop the boat makes **after** leaving them ("got our Yellow Tail done and out of the way… we're stopping along the coast to let them do some link cod fishing"). The same passage also says "we're going to be going deep to about 300 ft" moments earlier | `ilINTeknKB4` |
 
 **Kelp is structure at every scale here.** A hooked yellowtail will use a full
 kelp bed to cut you off (`9D3Oiy0ASzg`, `ILBl12Jm7-0`), but a strike also came
 right next to a small isolated patch rather than a full paddy — small kelp holds
 fish too (`u0scEBby7nA`). A named kelp bed off the Cedros/Gono islands is fished
 at anchor with bombed casts allowed to fall (`NGxyOlPx3ug`).
+⚠ Fact-check (contradicted-internal): `NGxyOlPx3ug` never mentions Cedros. Its
+ground is **Dono / Donal Island** ("we're going to start at Dono", "let me fill
+you in on Donal Island") — the stop this page's own Spots section puts 112 mi
+up-coast and rules **out** of the zone ("Not in this zone"). The technique
+detail is verbatim ("right in the middle of the kelp dropped anchor", "throwing
+as far as I can and letting it fall and they're eating it on the fall"); only
+the place is in dispute.
 
 **The bottom taxes terminal tackle on both islands.** A Cedros crew lost roughly
 **10 jigs in two days** to fish that rocked them (`IdMJnlg_rZk`); over the jagged
 San Benito bottom sinkers and iron have to come up off the bottom immediately
 after touchdown or they stay there (`ilINTeknKB4`).
+⚠ Fact-check (contradicted-by-source): both halves are mis-placed. The jig loss
+is `_MygUHw19q8`, not `IdMJnlg_rZk`, and the transcript scopes it to no period
+at all — "we lost about easy 10 jigs cuz they straight rocked us and we were
+lock down drags". The get-it-off-the-bottom rule is verbatim in `ilINTeknKB4`
+but belongs to the coastal lingcod drift after the Benitos, not to the San
+Benito bottom (see the bathymetry row above).
 
 ⚠ Flagged gap — no corpus source: charted positions for any feature in this
 zone. Every ground named above is carried by name only, several of them
@@ -172,15 +234,15 @@ Eugenia and the islands.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | resident year-round; October is the documented anchor month | The reason to come. A true "home guard" fish of 40+ lb can turn up anywhere around the island (`WE643Fue1_A`); North Point is the call for the **30–40 lb** grade (`wdbqTio1SQU`). The 2024 fly-in trip ran **30–45 lb** with the biggest weighed at **45 lb** (`IdMJnlg_rZk`), a separate trip ran a lighter **19–33 lb** (`9kGpcEHqIUc`), and a **44 lb** personal best came off a custom iron (`u0scEBby7nA`) |
-| [Calico bass](../species/calico-bass.md) | present through the documented January–October range | Thick, in tight on the beach, and the mid-day fallback on a downsized iron (`IdMJnlg_rZk`). Grade runs **3–6 lb** with 7 lb fish called by eye (`_r_qKX_7080`, `yjwIGFzWO8I`); volume ran **10–15 an hour**, spiking to **30 an hour** (`Qa-j6LIwa1Q`). Catch-and-release by operator agreement (`ldVj0BoB-kE`) |
+| [Yellowtail](../species/yellowtail.md) | resident year-round; October is the documented anchor month | The reason to come. A true "home guard" fish of 40+ lb can turn up anywhere around the island (`WE643Fue1_A`); North Point is the call for the **30–40 lb** grade (`wdbqTio1SQU`). The 2024 fly-in trip ran **30–45 lb** with the biggest weighed at **45 lb** (`IdMJnlg_rZk`), a separate trip ran a lighter **19–33 lb** (`9kGpcEHqIUc`), and a **44 lb** personal best came off a custom iron (`u0scEBby7nA`) ⚠ Fact-check (contradicted-by-source): two defects. `IdMJnlg_rZk` weighs nothing — both figures are `_MygUHw19q8`, which gives "big fish from 30 to **45 50**", and `2cxeg_AE418` weighed its own day's biggest at **35.5 lb**, which this row drops. And `9kGpcEHqIUc` is not a separate trip: it is a 55 s clip of the `_C7TJoGT0nw` interview, same speaker, same July trip, carrying the identical "19 to… 33 lb" exchange |
+| [Calico bass](../species/calico-bass.md) | present through the documented January–October range | Thick, in tight on the beach, and the mid-day fallback on a downsized iron (`IdMJnlg_rZk`). Grade runs **3–6 lb** with 7 lb fish called by eye (`_r_qKX_7080`, `yjwIGFzWO8I`); volume ran **10–15 an hour**, spiking to **30 an hour** (`Qa-j6LIwa1Q`). Catch-and-release by operator agreement (`ldVj0BoB-kE`) ⚠ Fact-check (contradicted-by-source): neither video states 3–6 lb. `_r_qKX_7080` calls three- and four-pounders and one "7 or eight lb" fish (the captain's call, not the angler's); `yjwIGFzWO8I` says only "five and six pound calicos" and makes no by-eye 7 lb call at all. The range is a splice of two videos |
 | [California halibut](../species/california-halibut.md) | ⚠ Flagged gap — no corpus source: season shape | A wide-open run at one unnamed spot produced repeated fish back to back including a double (`9tIp4n7q850`, `Zo92MG459gQ`); a **41 lb** fish came incidentally on a calico swimbait retrieve (`Qa-j6LIwa1Q`) |
 | [Dorado](../species/dorado.md) | October | Offshore of the island and on the outside rim. One paddy held roughly **200–300** fish stacked under it — "an aquarium" — with instant doubles on a mackerel cast at it (`brx6Ie_L2FM`); birds marked a school 2–3 mi off during an offshore troll (`YUdbrIm9vrE`) |
 | [Yellowfin tuna](../species/yellowfin-tuna.md) | October | Trolled roughly **20–30 mi** offshore; the bite comes fast and multiple, three fish in the well inside about 10 seconds (`YUdbrIm9vrE`) |
 | [Bonito](../species/bonito.md) | ⚠ Flagged gap — no corpus source: season | Mixed in with yellowtail on the slow troll, often uncallable until boatside (`9tIp4n7q850`), and incidental on the offshore tuna troll (`YUdbrIm9vrE`) |
 | [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source: season | Taken over the San Benito bottom on an 8-day charter (`ilINTeknKB4`) |
 | [Sheephead](../species/sheephead.md) | October | Named in the island's October multi-species draw, no detail beyond presence (`A8SuzB5qiKE`) |
-| Grouper (cabrilla) and black seabass | summer spawning aggregations | Named only as the two species beside calico in the catch-and-release agreement, and as the reason for the **80 lb** just-in-case line class on a Cedros trip (`ldVj0BoB-kE`, `WE643Fue1_A`). ⚠ Flagged gap — no corpus source: how either is actually fished here |
+| Grouper (cabrilla) and black seabass | summer spawning aggregations | Named only as the two species beside calico in the catch-and-release agreement, and as the reason for the **80 lb** just-in-case line class on a Cedros trip (`ldVj0BoB-kE`, `WE643Fue1_A`). ⚠ Fact-check (contradicted-by-source): `WE643Fue1_A` names a different pair — "some 80 pound just in case… if we want to do some **black sea bass** fishing even some bigger **white sea bass** fishing". Grouper/cabrilla is never mentioned in that video, and white seabass is dropped. This page's own line-class bullet in Doctrine & conflicts states it correctly, so the two disagree internally. ⚠ Flagged gap — no corpus source: how either is actually fished here |
 | [Bluefin tuna](../species/bluefin-tuna.md) | ⚠ Flagged gap — no corpus source: season | Cedros is named as the southern end of a claimed resident SoCal/northern-Baja stock's range — single-source and flagged on the species note (`fgTmUq78ofQ`) |
 
 **October frames the zone as a multi-species draw** — resident big yellowtail,
@@ -216,7 +278,17 @@ flight out, boats leave around **05:20** and are back at the dock by
 **The morning bite is the event.** One crew moved their start earlier after
 watching another boat hooked up on a 43 lb fish around 07:00–08:00 as they pulled
 up; off the dock at 05:30, they had about **five fish hanging by 06:30**
-(`IdMJnlg_rZk`). Day two of another trip opened running and gunning between fresh
+(`IdMJnlg_rZk`).
+
+⚠ Fact-check (contradicted-by-source): none of this is in `IdMJnlg_rZk` — it is
+`_MygUHw19q8`, and it is two different mornings. Day 3 opens "it is 5:30…
+starting a little earlier today… we saw them come up early yesterday around like
+700 maybe 800 as soon as we pulled up the other boat just went out and they
+already **had** like a 43 going" (they arrived on a fish already hooked, not
+watching the hookup); the "five hanging by 6:30" is the Day-4 open looking back
+at Day 3.
+
+Day two of another trip opened running and gunning between fresh
 boils, boats hooking up within minutes of each stop (`ILBl12Jm7-0`). There is
 also a **late-afternoon push** — an arrival day's last yellowtail school came up
 at **17:40** (`IdMJnlg_rZk`) — and a session written off as done reopened into a
@@ -228,18 +300,42 @@ program is to go in tight on the beach for calico bass on a downsized iron — a
 abundant, "it's raining calicos out here" (`IdMJnlg_rZk`). Midday **wind** does
 the same thing on its own, pushing crews off the morning grounds onto a calico
 point (`ILBl12Jm7-0`, `I-QBxuV2p7M`).
+⚠ Fact-check (contradicted-by-source): the quote is `2cxeg_AE418`, not
+`IdMJnlg_rZk` ("look at all those Calico it's raining Raining calicos out
+here") — already ledgered against `species/calico-bass.md`; the mid-day
+programme and the 5.5 in mini-iron are `IdMJnlg_rZk`. The wind co-cite holds
+only for `ILBl12Jm7-0` ("it's about midday and the wind has picked up big
+time… we're hitting this last Point… for these calicos"); in `I-QBxuV2p7M` a
+dead bite drove the move to calicos and the wind then *turned them back* from
+the calico ground they were running to ("the wind uh cut us down halfway there
+so we had to turn around").
 
 **Three outfits work at once, and by the end of a good session all three
 produce** — surface iron, [yo-yo iron](../techniques/yo-yo-iron.md) and
 [dropper loop](../techniques/dropper-loop.md), "you name it, they're biting"
 (`u0scEBby7nA`), with the same three-way mix running through the day at the San
-Benitos (`SH7zOA9ZF3o`). Bait fishes alongside them: slow-trolled live mackerel
+Benitos (`SH7zOA9ZF3o`).
+
+⚠ Fact-check (contradicted-by-source): `SH7zOA9ZF3o` names a different three —
+"they were biting on the **bait**, surface iron and the yo-yo jig" — with no
+dropper loop anywhere in it. The `u0scEBby7nA` trio (surface iron / yo-yo /
+dropper loop) is verbatim; the two are not the same mix.
+
+Bait fishes alongside them: slow-trolled live mackerel
 on circle hooks over the shallow rock (`QSmE3mdEL28`, `Zo92MG459gQ`), a flylined
 bait (`RhULLaUsEDk`), and a **1/2 oz** [sliding sinker](../techniques/sliding-sinker.md)
 with a nose-hooked sardine for suspended fish (`ilINTeknKB4`, `d0yGBQDeY_4`).
 Cast at the **outside edge** of a bait ball rather than into the middle — the
 yellowtail holding around it key on the larger livebait over the massed bait
 (`d0yGBQDeY_4`).
+⚠ Fact-check (contradicted-by-source): `d0yGBQDeY_4` gives the 1/2 oz sliding
+sinker ("little sliding sinker egg 1/2 ounce took off with it") but never a
+nose-hooked sardine — the bait on the hook there is a mackerel — and never a
+suspended-fish rationale; both come from `ilINTeknKB4` alone ("when the fish
+were suspended a half o sliding sink Sinker NOS hook sardine did the trick").
+Its sister episode `97clKtVsEOs` specs the same rig at **1 oz** ("a live
+sardine on uh an ounce sliding sinker"), so the corpus carries two weights.
+The outside-edge doctrine is verbatim in `d0yGBQDeY_4`.
 
 **Fish are found by eye as much as by meter.** Repeated sight-casts to
 individually spotted fish — "spotted him, pointed at him, casted on him" — under
@@ -249,6 +345,14 @@ iron until the yellows actually show under a bird push is the discipline
 trigger for reaching for a jointed three-piece hard bait (`fnaGBGbrhqU`,
 `9kGpcEHqIUc`). See
 [search & glassing](../planning/search-and-glassing.md).
+⚠ Fact-check (contradicted-by-source): "seabirds" is a caption artifact for
+**Cedros**. The same sentence, from the same interview, is rendered "when you
+hear about **seedros**, you hear about a wide open yellowtail bite"
+(`_C7TJoGT0nw`) and "like how you hear about **Cedros** being" (`9kGpcEHqIUc`);
+only `fnaGBGbrhqU` reads "seabirds", and no bird behaviour, bird sign or
+working birds appear anywhere in any of the three. All three are the same
+audio, so this is one source, not two. The lure half — a jointed three-piece
+hard bait for a wide-open yellowtail bite — is solid.
 
 **The fight is a rock fight, not an open-water fight.** These fish are hooked
 close to structure and go straight for it. Chase the fish with the boat and back
@@ -256,6 +360,11 @@ down when one heads for the rocks (`IdMJnlg_rZk`). Expect losses anyway — the
 rock-cutoff pattern runs across the whole triangle (`_r_qKX_7080`), and at the
 San Benitos deep-diving fish look for "anything that's structure, a piece of
 weed, anything to rock you off on" (`SH7zOA9ZF3o`).
+⚠ Fact-check (contradicted-by-source): `_r_qKX_7080` describes rock cutoffs
+only at Chester's Rock — "he took me obviously right into the the Rocks",
+"these are some mean fish down here in these rocks", "we're in shallow water we
+lost a few guys using too light a line" — and never generalises them to the
+triangle. The San Benitos quote is verbatim.
 
 **The take is soft, not a freight train** — "they're not slamming like a freight
 train, it's like slow" (`IdMJnlg_rZk`). Expect to feel weight rather than a hit,
@@ -267,6 +376,15 @@ videos and think it's easy — the opportunities are there, you still have to ma
 the cast, you have to be ready" (`IdMJnlg_rZk`). The same spot can go from
 repeated hookups to zero bites the next day on heavier gear: "every single day is
 different here" (`I-QBxuV2p7M`).
+⚠ Fact-check (contradicted-by-source): a cluster of this page's direct quotes
+sits under the wrong id of the same three-video trip. "Don't look at the
+videos and think it's easy", "chase him… back him down", the locked-drag
+doctrine and the jig-shape exchange are all `_MygUHw19q8` or `2cxeg_AE418`, not
+`IdMJnlg_rZk`, which is the Day-1 video and carries the travel chain, the
+arrival half-day, the mid-day calico programme, the 17:40 school and "they're
+not like slamming like freight train it's like slow". The jig exchange is also
+unresolved on camera — one speaker calls the jig too small, a second answers
+"No it should work", and only the flat is confirmed tried.
 
 **Jig sizing is argued in real time.** With fish up and not eating, one crew
 called the jig too small, went bigger, and switched to a flat profile — "try a
@@ -316,6 +434,15 @@ outside rim on the run home for a planned **20–30 minutes** connect quickly
   calls are instructions against changing the setting once a big fish is on. The
   corpus does not record a crew that loosened a locked drag mid-fight, or one
   that fished loose from the cast.
+  ⚠ Fact-check (contradicted-by-source): both quoted positions are misplaced.
+  The lock-the-drag doctrine is `_MygUHw19q8` ("lock in your drag… we were lock
+  down drags and you have to pull as hard as you can"), not `IdMJnlg_rZk`, and
+  "these are too big for all that noise just use the leverage" is spoken at a
+  different moment mid-fight, about rod leverage during head shakes, never in
+  connection with a drag setting. In `RPSRH0jwyw4`, "keep that loose drag dude
+  it's all about the drama" is coached over a **halibut** ("possible
+  hal[ibu]t is not fighting like a Yellow Tail"), not a yellowtail — which also
+  bears on this bullet's closing claim that no crew is recorded fishing loose.
 - **Line class: 40/50, or 80/100?** One Cedros breakdown puts the trip's floor at
   **40 lb**, **50 lb** for most of it — short bait leaders and surface iron —
   with **80 lb** carried just in case for black seabass and bigger white seabass
@@ -345,11 +472,24 @@ outside rim on the run home for a planned **20–30 minutes** connect quickly
   (`IdMJnlg_rZk`). This is a grade-and-behaviour contrast between grounds, not
   conflicting doctrine — and it is why a Coronados retrieve and hookset habit
   costs fish here.
+  ⚠ Fact-check (contradicted-by-source): the Coronados half joins two different
+  fish. "10 12 pounder" is called on one fish at 02:48; "you hit it like a
+  freight train" is said at 04:46 over a visibly bigger one. `4pT0efBD1j0`
+  never states a session grade and never attaches the freight-train strike to
+  the 10–12 lb class. The chum-then-cast programme is verbatim.
 - **The lodge content is promotional.** Open bar, laundry, tomahawk steaks,
   massage and jacuzzi in a premium package, a 15-person dock crew that handles
   all gear — all stated on camera by a creator hosted by the operator
   (`IdMJnlg_rZk`). Trip-comfort context at `low` confidence, deliberately not
   attached to an operator recommendation.
+  ⚠ Fact-check (contradicted-by-source): three errors in the list. The **15**
+  is the *airstrip* team, not a dock crew — "immediately after getting off the
+  plane… he probably has a team of 15 guys waiting to take all your luggage all
+  your rods"; the dock crew is described separately with no number. The
+  **jacuzzi** did not exist at filming — "they have a Jacuzzi **coming**… still
+  coming still in the works" (`_MygUHw19q8`). And **laundry** is `2cxeg_AE418`,
+  massage/jacuzzi `_MygUHw19q8`; only the open bar and the tomahawk steak are
+  in `IdMJnlg_rZk`.
 
 ### Zone guides
 
@@ -386,6 +526,12 @@ asr-uncertain. They group as the crews run them:
   40–50 lb fish (`_r_qKX_7080`). When wind blows boats off the rock the fallback
   is the lee of another island near Rose Island / Dondo Ridge — both names
   asr-uncertain — where a "puff of current" bite ran to 40 lb (`_r_qKX_7080`).
+  ⚠ Fact-check (contradicted-by-source): the "puff of current" 40 lb bite is
+  narrated in the past tense in the Chester's Rock wrap-up — "we saw a few come
+  up we got a little puff of current… we had them up to I'd say 40 Pounders" —
+  *before* "so we're going to start here with Dondo Ridge". It belongs to the
+  rock they were blown off, not to the lee they ran to. The wind/lee fallback
+  itself is verbatim.
 - **The San Benito Islands** — a separate island group fished on the same
   long-range routes, squid-keyed and deeper than Cedros (`JaKSGkZ6CAc`,
   `SH7zOA9ZF3o`, `97clKtVsEOs`, `ilINTeknKB4`, `9D3Oiy0ASzg`), and named beside
@@ -393,12 +539,26 @@ asr-uncertain. They group as the crews run them:
 - **Offshore — "macro banks" and the tuna water 20–30 mi out** — a bank named
   only on camera, which gave a mixed yellowtail-and-dorado bite (`yjwIGFzWO8I`),
   and the offshore troll lane for yellowfin and dorado (`YUdbrIm9vrE`).
+  ⚠ Fact-check (contradicted-by-source): `yjwIGFzWO8I` never places the bank
+  offshore of the island. Its one positional line runs the other way — "today
+  we're going to the **mainland** and chester's rock… after we do some morning
+  yellowtail fishing here" — which also puts Chester's Rock on the mainland,
+  against `_r_qKX_7080` placing it south of Cedros. The name itself is one
+  garbled mention followed by bait-making ("just waking up here on the
+  macrobanks and all the boys are making mackerel here"). The mixed
+  yellowtail-and-dorado bite is solid.
 - **Punta Eugenia** — the mainland corner of the triangle, carried as a name only
   (`_r_qKX_7080`). ⚠ Flagged gap — no corpus source: anything about fishing it.
 
 **Not in this zone:** the Dono and Sacramento Reef stops that share trip footage
 with Chester's Rock sit roughly 112 mi up-coast of it, off San Martin
 (`_r_qKX_7080`) — they belong to the San Quintín grouping, not here.
+⚠ Fact-check (unverifiable): **San Martin is never named** anywhere in
+`_r_qKX_7080`, and Sacramento Reef appears once, garbled and unlocated ("it's
+having your own private Dock and Sack Reef"). The 112 mi separation is verbatim
+("we're going to go another 112 miles"). The exclusion this sentence performs —
+and therefore the Dono kelp-bed flag in Structure & bathymetry above — rests on
+a placement the source does not make.
 
 <!-- children:start -->
 - [Cedros West End ("Jurassic Park")](cedros-island-west-end.md)
