@@ -60,6 +60,10 @@ the ground the "West End tuna zone" while
 **southeast** end of the back side's N→S run (`Rb5I2ljAqeE`, cameron). ⚠ The
 two namings are not reconciled; the charted position is what this page is built
 on.
+⚠ Fact-check (contradicted-by-source): `Rb5I2ljAqeE` names this ground
+"desperation reef" on camera and never says "West End tuna zone" — "West End"
+appears only as one boundary of that season's tuna mass — so the discrepancy
+this block carries may not exist in the source.
 
 **A second Desperation name sits at this island.** The corpus separately names a
 **Desperation Point**, with a 2016-11-29 trip ending about **six miles** off the
@@ -67,6 +71,9 @@ island outside it in **1,200–1,300 ft** of water (`AIHvJj-paoo`, via
 [the 209 / 312](209-312.md)) — deep water off the island, not this charted
 high spot. ⚠ Flagged gap — no corpus source says whether the point and the reef
 name the same ground; they are carried as two names.
+⚠ Fact-check (contradicted-by-source): 2016-11-29 is the manifest UPLOAD date;
+`AIHvJj-paoo` narrates the trip as "late October" — the six miles, the
+1,200–1,300 ft and the run from the 209 are verbatim.
 
 **Charted neighbours** (cameron): the [29 Fathom Spot](29-fathom-spot.md) is the
 next mark north on the same run, with [The Caves](caves.md) and
@@ -89,8 +96,8 @@ anchor on a given current.
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Bluefin tuna](../species/bluefin-tuna.md) | spring on the corpus's one dated session (2017) | The anchor bite. Fish held on the bank because bait squid were staged there, and flylined dead squid drew repeat bites at **40–90 lb**, best "probably close to 90" (`Rb5I2ljAqeE`). Baits suspended under a balloon worked the **30–40 lb** grade the same session |
-| [Yellowtail](../species/yellowtail.md) | same spring session; zone-wide the fishery keys to squid presence, not the calendar (`YZtX1MiT0y8`) | Mixed in with the tuna on the same anchor stop — **18–25 lb**, called "Home Guard" by the crew, one landed on a sardine [flyline](../techniques/flyline.md) (`Rb5I2ljAqeE`) |
+| [Bluefin tuna](../species/bluefin-tuna.md) | spring on the corpus's one dated session (2017) | The anchor bite. Fish held on the bank because bait squid were staged there, and flylined dead squid drew repeat bites at **40–90 lb**, best "probably close to 90" (`Rb5I2ljAqeE`). Baits suspended under a balloon worked the **30–40 lb** grade the same session ⚠ Fact-check (contradicted-by-source): `Rb5I2ljAqeE` gives 40–90 lb as the trip's overall bluefin grade in the intro and "30 to 40 lb tuna" in a session-grade line — neither figure is attached on camera to the squid bites or to the balloon baits |
+| [Yellowtail](../species/yellowtail.md) | same spring session; zone-wide the fishery keys to squid presence, not the calendar (`YZtX1MiT0y8`) ⚠ Fact-check (contradicted-by-source): the 2022-04-21 report names squid only as the bait in use in two areas and gives wind and water temperature as its zone-wide drivers — it states no squid-presence-over-calendar principle | Mixed in with the tuna on the same anchor stop — **18–25 lb**, called "Home Guard" by the crew, one landed on a sardine [flyline](../techniques/flyline.md) (`Rb5I2ljAqeE`) |
 | [White seabass](../species/white-seabass.md) | ⚠ Flagged gap — no corpus source scoped to this spot | The island's squid-driven seabass material is zone- and island-level, not attached to this mark ([the zone page](san-clemente-island-back-side.md#whats-there)) |
 | [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged stub — no corpus source yet | No rockfish session in the corpus is placed on this spot, and no charted rockfish ground is assigned to this side of the island |
 
@@ -105,6 +112,10 @@ forage call: the zone's rule is that a squid bite going quiet is a relocation
 problem rather than an absence problem, so follow the squid on the meter before
 writing the stop off (`YZtX1MiT0y8`,
 [electronics and sounder](../planning/electronics-and-sounder.md)).
+⚠ Fact-check (contradicted-by-source): the relocation-not-absence read is
+verbatim ("maybe they just need to relocate… it's not like they left"), but
+`YZtX1MiT0y8` gives the mechanism as boats getting a weather window and
+"looking around again" — it makes no meter or sonar reference to squid.
 
 **Dead squid still gets bit here.** Leftover squid fished "fresh dead" on a
 [flyline](../techniques/flyline.md#fishing-it) drew repeat bluefin bites off the
@@ -115,6 +126,11 @@ departed from the flyline's no-weight rule and added an unusually light
 **half-ounce** weight to keep the bait swinging naturally instead of letting the
 current straighten it out (`Rb5I2ljAqeE`,
 [flyline](../techniques/flyline.md#fishing-it)).
+⚠ Fact-check (contradicted-by-source): the current-against-wind condition and
+the half-ounce ("not 2 oz, half ounce weight") are verbatim, but `Rb5I2ljAqeE`
+describes the swinging as the problem — "we're swinging like a [bat] out of
+hell", "swinging hard like that, snapping it" — and states no rationale for the
+weight, so the stated aim may be inverted.
 
 **On the anchor, watch the bow.** Anchored at San Clemente Island, chum gets
 pushed up-current toward the bow by the fish themselves — birds locking on up
