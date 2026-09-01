@@ -45,7 +45,9 @@ Two scales of structure fish the same way outside the harbor as inside it
   narrow multi-mile structure holding and feeding bass year-round
   (`kwMIgkCtFUE`). Too big to fish from one waypoint.
 
-Both scales run roughly **20-120 ft** of water (`kwMIgkCtFUE`).
+Both scales run roughly **20-120 ft** of water (`kwMIgkCtFUE`). ⚠ Fact-check
+(single-source): verbatim in the transcript ("20 or 30 feet of water up to
+120 feet of water") but corroborated nowhere else in this note's citations.
 
 - **Kelp.** The stringers, the outer edge, the pockets and lanes inside the
   bed, and the deep-water side where the kelp grows off harder bottom. Calico
@@ -66,7 +68,9 @@ Both scales run roughly **20-120 ft** of water (`kwMIgkCtFUE`).
   Beach," which does not resolve to a place name — not asserted here.
 - **A reef that looks good on the sounder can be barren of bass** except where
   fish were actually holding; most of what marks over reef structure is perch,
-  not bass (`kwMIgkCtFUE`).
+  not bass (`kwMIgkCtFUE`). ⚠ Fact-check (single-source): verbatim ("pretty
+  much everything you're metering for the most part is going to be perch")
+  but corroborated nowhere else in this note's citations.
 - **The edge is the spot.** Across all of it, the productive water is a
   **defined edge** — kelp-to-open, reef-to-sand, high-spot-to-flat — where
   current pins bait against structure.
@@ -98,8 +102,18 @@ into-the-island exception are in
 **Read the current off the kelp itself** (`0KQ--N5TjqE`): kelp **pulled
 under** = raging current (surface presentations dead); kelp **laid down** =
 strong; kelp **resurfacing** = slacking, switch presentation back toward the
-surface. These on-water tells are collected in
-[current diagnostics](../conditions/current-diagnostics.md). Track **water
+surface. ⚠ Fact-check (contradicted-by-source): `0KQ--N5TjqE` does not state
+this three-tier scheme — it ties kelp **laid down** to current direction
+(running toward the beach, still fishable on the leading edge), not to a
+"strong"-intensity tier, never shows kelp **pulled under**, and never uses
+"raging"; only the **resurfacing** = slack = switch back to the surface lure
+tier matches the transcript verbatim ("the kelp came back to the surface then
+they got back onto the slug"). The full pulled-under/laid-down/resurfacing
+table is stated in
+[current diagnostics](../conditions/current-diagnostics.md), cited there to
+`HnqiE05vdXs` (itself flagged single-source there for the laid-down/
+resurfacing rows) — not to `0KQ--N5TjqE`. These on-water tells are collected
+in [current diagnostics](../conditions/current-diagnostics.md). Track **water
 temperature and water color spot to spot** while moving — relative warmth
 against a neighboring spot matters more than an absolute number, and
 clean-vs-dirty water at a bite spot is worth logging (`0KQ--N5TjqE`); see
@@ -128,7 +142,11 @@ trip can produce in 100 ft the next, because gamefish track bait, bait tracks
 zooplankton, and zooplankton tracks where current is upwelling across the
 structure that day. A mid-winter bite at the Newport pipe came in 80 ft of
 water on crankbaits running only 15 ft deep — the fish rose well off bottom to
-reach bait rather than the reverse.
+reach bait rather than the reverse. ⚠ Fact-check (single-source): the 80 ft /
+15 ft numbers are verbatim (`kwMIgkCtFUE`) but corroborated nowhere else in
+this note's citations; the "rose off bottom" framing paraphrases the
+surrounding point (fish track bait, not depth) rather than quoting a claim
+made specifically about this catch.
 
 **Fish orient into the current and sit with the bait, not staged above or
 below it.** A feeding fish has to point into the current to hold position, so
