@@ -48,7 +48,9 @@ finding these features and the **edges** where two of them meet (`YgqXf9iICyg`):
 - **Channels and channel edges.** Bays are cut by deeper, often dredged
   channels that carry the tidal flow; a flat running 0-12 ft drops into a
   channel that runs 20-30 ft in San Diego Bay, with a documented 12-14 ft
-  sweet spot in Newport Harbor (`YgqXf9iICyg`). Current runs slower in the
+  sweet spot in Newport Harbor (`YgqXf9iICyg`). ⚠ Fact-check (single-source):
+  three numerically precise depth figures (0-12 ft, 20-30 ft, 12-14 ft)
+  resting on one source. Current runs slower in the
   deeper channel than over the flat, so the **drop-off from flat to channel**
   is a current-swept edge: a fish holds on the down-current side, exerts
   little energy to keep position, and lets the tide bring food to it
@@ -73,7 +75,7 @@ finding these features and the **edges** where two of them meet (`YgqXf9iICyg`):
 
 | species | season | what the structure does for them |
 | --- | --- | --- |
-| [Spotted bay bass](../species/spotted-bay-bass.md) | present year-round; winters in stable, low-current zones and moves toward deeper water (20 ft+) near the harbor mouth in spring/early summer to spawn (`YgqXf9iICyg`) | eelgrass edges, channel edges, and pilings give ambush stations |
+| [Spotted bay bass](../species/spotted-bay-bass.md) | present year-round; winters in stable, low-current zones and moves toward deeper water (20 ft+) near the harbor mouth in spring/early summer to spawn (`YgqXf9iICyg`) ⚠ Fact-check (single-source): the 20 ft+ spawning-depth figure rests on one source. | eelgrass edges, channel edges, and pilings give ambush stations |
 | [California halibut](../species/california-halibut.md) | present on bay structure edges; season and depth detail in the species router | lies on sand adjacent to channel and grass-to-sand edges and ambushes bait the current sweeps past (`usHl-4SfqDA`) |
 
 ## How it fishes
