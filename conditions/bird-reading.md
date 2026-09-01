@@ -47,7 +47,9 @@ flying and looking, so they surface anything edible fast (`Blh2BA-7Ono`).
   rule above, kept alongside it, not a replacement.
 - On-the-water reports corroborate the tern-first read directly: anglers new
   to tuna fishing are told to key on the white terns over pelicans and gulls,
-  in 72°F water (`SczdZIq3UmE`).
+  in 72°F water (`SczdZIq3UmE`). ⚠ Fact-check (single-source): the 72°F
+  figure is this one on-the-water report's stated water temperature that day,
+  not a general threshold, and it is corroborated nowhere else in the note.
 - Terns are Cameron's best bird too — he will stop and cast on working terns,
   and offshore he follows terns to find fish even with no other birds working
   (cameron).
@@ -63,7 +65,9 @@ Cameron does not currently factor shearwaters into his own bird model (as of
   straight back = fish underneath; scattering and landing elsewhere = bait
   only (`Blh2BA-7Ono`).
 - **Rafts hopscotching 20–30 ft at a time** = tracking fish holding deep
-  (`Blh2BA-7Ono`).
+  (`Blh2BA-7Ono`). ⚠ Fact-check (single-source): the 20–30 ft hopscotch
+  distance and its fish-holding-deep read rest on this one transcript only,
+  corroborated nowhere else in the note or KB.
 - **Racing off low in one direction from a working boil** = the birds are
   running to the head of the school — follow them; the boil they left is the
   tail (`Blh2BA-7Ono`).
@@ -121,8 +125,10 @@ bird at all.
 On a T-top bird-mode radar, run gain near max and cap range at **4–5 mi** —
 a shorter range gives a clean return on bird schools instead of drowning them
 in clutter (`HWx1jDTGsng`). Bird schools paint as **red blotches**, sometimes
-boat-sized (`HWx1jDTGsng`). That 4–5 mi span is the working detection
-envelope to expect from bird-mode radar.
+boat-sized (`HWx1jDTGsng`). ⚠ Fact-check (single-source): the 4–5 mi range
+and the red-blotch/boat-sized radar-return description rest on this one
+demonstration, corroborated nowhere else in the note or KB. That 4–5 mi span
+is the working detection envelope to expect from bird-mode radar.
 
 ## Quick reference
 
