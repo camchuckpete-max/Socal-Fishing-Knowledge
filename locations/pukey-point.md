@@ -27,6 +27,16 @@ fill, and are aggregated into [the gap report](../sources/gap-report.md).
 
 About 14 nm from the San Diego bay entrance (cameron), at the north end of
 the chain.
+⚠ Fact-check (contradicted-internal): the directly-linked
+[Coronado Islands](coronado-islands.md) states the run to the chain as
+**~13 nm** from the same reference point, in its lead, its Getting there
+section and its `distance_nm` field — yet Pukey Point is that page's own
+northernmost, i.e. nearest, charted mark, so it cannot be farther out than
+the chain figure. Spot-library geometry favours the number on this page:
+Zuniga Jetty (32 40.300 / 117 13.400) to Pukey Point (32 26.850 /
+117 18.000) is 14.0 nm. Both figures cite cameron, whose spot-library entry
+carries the position only and states no distance.
+
 Mexican waters — paperwork is [Mexican waters](mexican-waters.md).
 
 ⚠ Flagged gap — no corpus source: approach, anchoring and where to start.
@@ -39,6 +49,12 @@ point sits relative to the island edge.
 The rockfish ground **east of Pukey Point** is charted separately in
 [the spot library](../sources/spot-lists.md) and fishes as rockfish rather than
 as part of the island circuit.
+⚠ Fact-check (contradicted-by-source): the cited library entry (cameron) is named
+"East of Pukey Point (**yellowtail** & rockfish)" — it lists yellowtail
+first, so the source does not support restricting the ground to rockfish.
+(The library files it under "Rockfish areas (Coronados vicinity)", and
+[Coronado Islands](coronado-islands.md) repeats the rockfish-only framing,
+so the same drift sits on both pages.)
 
 ## What's there
 
