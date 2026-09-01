@@ -46,6 +46,11 @@ observation. Observations never change the note's stated doctrine.
 - `ouBrIdO7d4k` (SD Fish and Sips, 2025-03-08 upload, filmed 2025-03-06, Pacific
   Coast Sportfishing Show booth interview; the SoCal charter captain speaking is
   not identifiable from the undiarized transcript and is logged unnamed):
+  ⚠ Fact-check (contradicted-by-source): the speaker is named on camera either
+  side of this passage — "is Gary right no **Jerry** Jerry I'm sorry" before it
+  and "just talking to **Jerry** right here with **Clear Choice poppers**"
+  immediately after — so he is identifiable, and he is introduced as a lure
+  maker rather than as a charter captain.
   recapping half-day charters run mostly around Catalina, he described a
   standing method for dolphin-associated yellowfin on the backside during the
   lobster opener, dated on camera as "first week of October, end of September" —
@@ -73,6 +78,12 @@ observation. Observations never change the note's stated doctrine.
   yellowtail and bonito may be kept; yellowtail are catchable at Catalina while
   water temperatures hold but "you're mostly against Bonita, bass and Rockfish
   this time of year."
+  ⚠ Fact-check (contradicted-by-source): the quoted sentence is scoped in the
+  transcript to "**inside of Catalina**", i.e. the front/inside, and the
+  yellowtail line carries a negative dropped here — "there's no reason you
+  couldn't catch Yellow Tail **but I don't it's not really a prime time a year
+  to go there and catch one**". The closure is called a "Marine closure" on
+  camera, never an SMCA, and Farnsworth is never placed on the backside.
 - `5to3Q5P7w90` (BDOutdoors, 2022-09-14 report): by the late warm-stable phase
   dorado are in open-water schools below and on the backside of Catalina rather
   than on the beach.
