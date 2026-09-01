@@ -43,7 +43,12 @@ Not every structure fishes the same number of current directions
   out perpendicular from an island only produces on **parallel current**
   (current running along the shoreline, either uphill or downhill);
   straight-into-the-beach current is marginal, straight-off-the-beach is
-  dead. See the parallel-current rule in
+  dead. ⚠ Fact-check (contradicted-by-source): for the perpendicular-ridge
+  case specifically, the source does not grade into-beach vs. off-beach
+  separately — the worked reef example calls the into-the-island case not
+  having the pinch-point effect and then calls the off-the-island case "the
+  same exact thing," i.e. equally unproductive, not a marginal/dead split.
+  See the parallel-current rule in
   [current structure](../conditions/current-structure.md) and the same
   typology applied to bass-holding structure in
   [bass structure](bass-structure.md).
@@ -61,8 +66,15 @@ off-the-beach current is a non-starter no matter how good the water looks.
 Where an island rises off the surrounding plain, the fathom curve itself is
 structure. At **Catalina's ~500-fathom curve**, the uphill (summer counter)
 current compresses as it climbs the slope, **spins eddies**, and
-**aggregates both bait and kelp paddies** along the curve (`HnqiE05vdXs`).
-The curve is a line to hunt, not a point.
+**aggregates both bait and kelp paddies** along the curve (`HnqiE05vdXs`)
+⚠ Fact-check (contradicted-by-source): the source calls this current
+"going uphill" / "running offshore or uphill" and never uses the term
+"summer counter" — that current-type label is not in this transcript (a
+distinct source, `h3PTupup17I`, carries "summer uphill (counter)current"
+elsewhere in the KB, uncited here). ⚠ Fact-check (single-source): the
+~500-fathom figure and the compression-creates-eddies mechanism are
+numerically precise and load-bearing for this section, and rest on this one
+transcript only. The curve is a line to hunt, not a point.
 
 Worked example — the template to copy (`HnqiE05vdXs`):
 
@@ -76,15 +88,21 @@ Worked example — the template to copy (`HnqiE05vdXs`):
 The governing rule: sign associated with structure is a repeatable decision;
 sign in no-man's-land is low value (`HnqiE05vdXs`). Paddies and bait found
 *on* the curve are worth working; the same sign in open water between
-features is not. Kelp-paddy behavior in general is covered in
+features is not. ⚠ Fact-check (contradicted-by-source): the source
+describes the kelp paddies aggregating along this curve as generally
+unproductive on their own — "you see a million kelp, they don't usually
+have fish on them" — treating bait/current relation, not the paddies
+themselves, as the productive signal; this note's "paddies... worth
+working" line is not supported as stated. Kelp-paddy behavior in general is
+covered in
 [kelp paddies](../conditions/kelp-paddies.md).
 
 ## What's there
 
 | species | season | what the structure does for them |
 | --- | --- | --- |
-| [Calico bass](../species/calico-bass.md) | year-round on productive structure | parallel current over a land-attached reef opens a pinch-point upwelling that turns the whole current-exposed expanse into huntable ground, not just the reef itself (`6TBxHnkYXI0`); see [bass structure](bass-structure.md) for the kelp/reef-edge execution |
-| [Yellowtail](../species/yellowtail.md) | structure-linked, not season-linked here | game fish key on the same bait aggregated by pinch-point upwellings and fathom-curve eddies (`6TBxHnkYXI0`); season and zone detail live in the species router |
+| [Calico bass](../species/calico-bass.md) | year-round on productive structure | parallel current over a land-attached reef opens a pinch-point upwelling that turns the whole current-exposed expanse into huntable ground, not just the reef itself (`6TBxHnkYXI0`) ⚠ Fact-check (contradicted-by-source): the source gives these as two separate examples — a kelp-bed/calico-bass example where parallel current makes "that entire expanse... huntable ground" with no upwelling mentioned, and a separate San Clemente reef example where a pinch-point upwelling aggregates bait for "game fish" generally, not calico bass specifically; this row fuses the two into one mechanism; see [bass structure](bass-structure.md) for the kelp/reef-edge execution |
+| [Yellowtail](../species/yellowtail.md) | structure-linked, not season-linked here | game fish key on the same bait aggregated by pinch-point upwellings and fathom-curve eddies (`6TBxHnkYXI0`) ⚠ Fact-check (contradicted-by-source): "fathom-curve eddies" is not in this source at all (it belongs to the separate `HnqiE05vdXs` worked example cited elsewhere in this note) and the pinch-point-upwelling passage in `6TBxHnkYXI0` is not yellowtail-specific — it names "game fish" generally; season and zone detail live in the species router |
 | [Bluefin Tuna](../species/bluefin-tuna.md) | structure-linked, not season-linked here | related to bait relating to Catalina's fathom curve in the same worked example that establishes the curve as huntable structure (`HnqiE05vdXs`); season and zone detail live in the species router |
 
 ⚠ Flagged gap — no corpus source: season/catchability windows tied
@@ -99,7 +117,10 @@ structure-typology note).
 Islands do not only make bottom structure — they shape the wind field. The
 **Catalina Eddy**, a counter-clockwise circulation that sets up in the bight,
 can **shield the inner San Diego banks and tuna grounds** while it blows
-outside (`S2L3KLSQ6Is`). When the outer forecast looks blown, check the eddy
+outside (`S2L3KLSQ6Is`) ⚠ Fact-check (contradicted-by-source): the source
+never states a rotation direction ("clockwise"/"counter-clockwise" does not
+appear) and never names San Diego banks specifically — it says only "tuna
+grounds down south." When the outer forecast looks blown, check the eddy
 state before writing off the inner zones — an island-driven wind feature
 that decouples inner-zone seas from the offshore forecast; see
 [sea state](../conditions/sea-state.md).
