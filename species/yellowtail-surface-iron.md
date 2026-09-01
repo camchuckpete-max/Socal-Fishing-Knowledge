@@ -34,11 +34,17 @@ and stickbaits is in [yellowtail](yellowtail.md).
 surface days, hard wind at **20–25 kt+** with fish metered rather than showing
 sends the fleet bite mostly to [yo-yo iron](../techniques/yo-yo-iron.md); the
 surface iron still picks a fish, so this is a re-rank rather than an
-abandonment (`ejUTAnONf7o`).
+abandonment (`ejUTAnONf7o`). ⚠ Fact-check (single-source): the transcript
+describes wind "pushing 25," gusting to 25, and the fleet going mostly yo-yo —
+the **20–25 kt+ range** and the metered/fleet-shift framing rest on this one
+source only.
 
 **A trolled rod getting bit is an iron cue.** Yellowtail school, so a troll
 strike means more fish are under the boat — cast an iron into the same water
-while the first fish is fought (`jo8lMdFZ1bk`).
+while the first fish is fought (`jo8lMdFZ1bk`). ⚠ Fact-check (single-source):
+verified against the transcript, but supported by this one source only, and
+`jo8lMdFZ1bk` is not carried in this note's front-matter `sources:` list —
+Cameron to confirm registration.
 
 ## How yellowtail changes the execution
 
@@ -55,7 +61,10 @@ this is a named producer on both sides of the fishery: about **30 ft** of sink
 before winding drew a first-cast strike at Catalina
 (`oadK6zIYyCo`), and the same move on a Tady 45 was framed as a
 near-"yellowtail guarantee" at [Cedros](../locations/cedros-island.md)
-(`9tIp4n7q850`).
+(`9tIp4n7q850`). ⚠ Fact-check (single-source): the **30 ft** figure is
+verified verbatim in its transcript but rests on this one source only — the
+Cedros citation corroborates the sink-then-wind move itself, not this depth
+number.
 
 **Speed is a yellowtail dial, but the fish is not the reason.** A high-gear
 jig-stick reel (~**42 in per crank**, Tranx-500-class HG) covers slow grind to
