@@ -17,7 +17,13 @@ run: ~13 mi from San Diego
 The Coronados are the springtime yellowtail trip on San Diego's doorstep: an
 island chain roughly 13 mi out, off the coast of Mexico, whose west side is
 exposed to colder Pacific currents and tidal swings and stays loaded with
-bait (`D5DR7Kx42_A`). The day is a troll-search — divers as the fish-finder,
+bait (`D5DR7Kx42_A`). ⚠ Fact-check (contradicted-internal): this note's
+distance (13 statute mi, `D5DR7Kx42_A`, confirmed verbatim in the transcript)
+and its front-matter `run` field disagree in unit with the linked
+[Coronado Islands](../locations/coronado-islands.md) zone page, which states
+"roughly 13 nm off the San Diego bay entrance (cameron)" — 13 nm ≈ 15 statute
+mi, so the two notes carry different distances for the same run under
+matching "13" figures. The day is a troll-search — divers as the fish-finder,
 figure-8s around the islands — that converts to iron and bait the moment you
 find life. The zone runs seeing-not-biting cycles with one short bite window
 a day, so the day is planned around tide and current, not the clock
@@ -108,7 +114,7 @@ Coronados — when to drop the hook on a mark versus keep working the circuit.
 | Troll/search | The [flyline](../techniques/flyline.md) outfit tows a 20–30 ft diver (`HTowqnwAMeA`) | [Halco 190-class](../lures/halco-laser-pro.md) deep divers in pink and purple |
 | [Surface iron](../techniques/surface-iron.md) | [Jig-stick class](../tackle/gear-classes.md); ~65 lb braid backing to fresh 40–50 lb mono [top shot](../tackle/line-and-leader.md) (`D5DR7Kx42_A`) | 40 lb is the local full-day-island top-shot bracket (`LTCFjqtSI8g`); Tady 45 / JRI Stinger-class swim jigs; step up to a Salas 7X-class heavy iron in wind for the cast (`D5DR7Kx42_A`) |
 | Iron colors | — | Scrambled egg, bird shit, mint, and blue/white are the yellowtail colors ([surface iron — colour](../techniques/surface-iron-color.md)) |
-| [Yo-yo iron](../techniques/yo-yo-iron.md) | 40–60 lb stout rod + high-ratio reel (`D5DR7Kx42_A`) | Full-size Salas 6X class works the majority of the time (`D5DR7Kx42_A`); full-size (8 oz) on a stronger-current day, 6X Jr (4 oz) when the current is light; vertical/flat-fall change-up 100–180 g depending on current (`D5DR7Kx42_A`) |
+| [Yo-yo iron](../techniques/yo-yo-iron.md) | 40–60 lb stout rod + high-ratio reel (`D5DR7Kx42_A`) | Full-size Salas 6X class works the majority of the time (`D5DR7Kx42_A`); full-size (8 oz) on a stronger-current day, 6X Jr (4 oz) when the current is light; vertical/flat-fall change-up 100–180 g depending on current (`D5DR7Kx42_A`) ⚠ Fact-check (contradicted-by-source): the transcript supports only the flat-fall/vertical-jig "100 to 180 grams depending on the current" figure; it names only "heavy full-size jigs like Salas 6X" with no weight given and no current linkage — it never gives the 8 oz / 4 oz weights or a "6X Jr" designation. |
 | [Flyline](../techniques/flyline.md) | 20–40 or 20–50 lb rated rod, 8–9 ft — backbone to turn a fish off the rocks (`D5DR7Kx42_A`) | [Hook](../tackle/hooks.md) size follows bait size: 1/0–2/0 baseline (`D5DR7Kx42_A`); downsize to J hooks sizes 1, 2, and 4 for flylining fluorocarbon (`F9XjGMEvvag`) |
 | [Dropper loop](../techniques/dropper-loop.md) | Same 40–60 lb outfit as the yo-yo ([gear classes](../tackle/gear-classes.md)) | Live bait presented to bottom marks when fish hold down (`D5DR7Kx42_A`, `HTowqnwAMeA`) |
 
