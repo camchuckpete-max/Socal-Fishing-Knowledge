@@ -41,7 +41,11 @@ last week's spot.
 
 A single report logged bluefin foaming on the surface in 76 °F water — above
 the usually assumed ceiling, and self-flagged by the reporter as unusual
-(`5to3Q5P7w90`); see the evidence file for the raw observation. Treat a warm
+(`5to3Q5P7w90`) — ⚠ Fact-check (single-source): the reporter hedges the figure
+on camera ("I think 76 degree water") rather than citing a measured reading,
+and no other cited source in the note corroborates the number; numerically
+precise and load-bearing for the section. See the evidence file for the raw
+observation. Treat a warm
 SST reading as **soft evidence against bluefin, not a hard cutoff** — it
 softens the temperature ceiling but does not move the band. See
 [water temperature](../conditions/water-temperature.md).
