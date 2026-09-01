@@ -23,6 +23,18 @@ yellowfin, striped marlin in numbers, dorado — over banks **450–488 mi** sou
 of San Diego (`_r08B4bItAY`), plus one bay complex that fishes like four
 separate fisheries stacked in the same place. The paperwork rung is
 [Mexican waters](mexican-waters.md).
+⚠ Fact-check (contradicted-by-source): `ll7r4A6atno` is not a charter — the
+presenter fishes his own boat with his wife ("we're fishing in cabo kelly and i
+are going out to try to catch some sierras today"; "I untie the boat and it
+starts blowing"). The charter route into Cabo is `dgauGbNxP84` ("this is edwin's
+charter and we're just out here with edwin today") and the two Hurricane Fishing
+days (`XH-Hrfet6To`, `Mwx5AAXNMvE`).
+⚠ Fact-check (contradicted-internal): the 450–488 mi band excludes one of this
+page's own grounds — [the "lower banks"](lower-banks.md) puts that ground
+roughly **608 nm** south of San Diego on an **11-day** trip, outside both this
+range and the "six, seven and eight days" stated in Access & range.
+`_r08B4bItAY` also gives 488 mi and 450–460 mi as two separate figures and never
+says "south of San Diego".
 
 ## The fishery
 
@@ -34,6 +46,12 @@ trip type — a seven-day trip books "one or the other" — and is resolved on
 camera as running to an upper high spot named **Uncle Sam Bank**
 (`_r08B4bItAY`). The tackle a seven-day trip to those two grounds calls for is
 its own note: [Searcher five-outfit quiver](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md).
+⚠ Fact-check (contradicted-by-source): `tjBeR9tWd4s` frames the two grounds as
+where the boats START the season, not as a dedicated stop — "a lot of the long
+range boats, including the Searcher, they're going to start their 6 7 8 day
+trips here. They're going to be fishing the Alijos Rocks and the ridge." "Out of
+San Diego" is never said in that transcript either; the only anchor is "Carl
+with Fisherman's Landing and team Searcher".
 
 **Wahoo is what this region is known for.** October and November are named as
 "the best time of year to catch wahoo" (`9IhmYstB8sA`), restated as fall —
@@ -56,12 +74,35 @@ bigger and meaner with more rock underneath, which is the stated trigger for
 stepping up from the base yo-yo rig to a two-speed Penn Fathom 40 Narrow,
 **80 lb braid** under a **60 lb** top shot on a **30–80 lb** rod
 (`RNRFrfepiW0`).
+⚠ Fact-check (contradicted-by-source): the "150 to 300-plus lb" figure is not a
+lower-banks grade in `UuyqTE21-kc` — it is the cold open's negation about the
+Ridge on the run home ("traveling north we come across one of Baja Mexico's best
+fishing grounds the ridge there might not be 150 to 300 lb y[ellowfi]n tuna
+cruising around but there is definitely some awesome fishing for yellowtail
+Dorado"), it carries no "plus", and the phrase "lower banks" appears nowhere
+near it.
+⚠ Fact-check (contradicted-internal): three grades for one ground. This
+paragraph says 150 to 300-plus lb, the Season shape row below says **130 to 350
+lb** (`UuyqTE21-kc`'s own wording, "the giant Tunas of 130s to 350 lb"), and
+[yellowfin tuna](../species/yellowfin-tuna.md) says **140–350 lb** off
+`ASitOLYzFEA`; [the "lower banks"](lower-banks.md) carries all three.
 
 **Deep water sets the jig.** Alijos Rocks and the Ridge sit in the deepest of
 three [yo-yo iron](../techniques/yo-yo-iron.md) tiers, where the pick is a
 Salas 7X heavy rather than the 6X or 6X Jr fished at 60–150 ft — more time in
 the strike zone on the straight up-and-down (`hteLeDIy9Qs`). A yellowtail came
 off the Ridge yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`).
+⚠ Fact-check (contradicted-by-source): `3tQ1_xiqwVU` attaches no place to that
+drop — the boat is "fishing down here in front of Mag Bay" when the call is made
+("a little bit deeper. About 180 ft. 10 ft off the bottom on the yo-yo jig") —
+and the fish that came off is a separate, earlier hookup whose species is a
+guess ("that one just came unbutton. Yellow tail, I think").
+⚠ Fact-check (contradicted-internal): it is also the wrong Ridge.
+[The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md) states that this fish "is
+carried on the Magdalena Bay page, not here", and
+[The Ridge (Magdalena Bay)](the-ridge.md) — a different bank, out of the boca —
+carries it. This paragraph attaches it to the long-range Ridge, and the page
+uses one name for both banks (see also the Modesto Main stub below).
 
 **Magdalena Bay is four fisheries in one bay** (`EcQK5elTPJE`): a mangrove
 interior at **12–15 ft** whose [snook](../species/snook.md) program works down
@@ -71,6 +112,13 @@ at least **42 lb**; a mid-range tuna program **10–12 mi** out over **200–300
 ft** for **20–50 lb** fish; and offshore banks named on camera only as "the 23
 and the 38". Full chain: [Lopez Mateos & Magdalena
 Bay](bahia-magdalena-lopez-mateos.md).
+⚠ Fact-check (contradicted-by-source): the 2 ft / oyster-root detail is not part
+of a snook program in `EcQK5elTPJE` — it is Dave Hansen's general mangrove
+fishing ("I'm fishing in 2 ft of water because if you look at the mangrove Roots
+they're all oysters", on 65 lb braid and an 80 lb fluorocarbon leader), and the
+12–15 ft figure is his too ("the fishing in 12 to 15 ft of water is blind
+boggly"). The talk's snook program is Larry Hansen's boca program on live
+shrimp.
 
 **Striped marlin in numbers is that bay's headline.** The bay is described as
 "loaded with stripe marlin... they're everywhere" in fall (`4t_Z75shK_E`), and
@@ -80,6 +128,15 @@ visitors come for that, the bottom and jig fishery in the same water is
 "virtually untapped" — a single day of jig fishing produced **14–15 species**,
 including Colorado snappers, "broom tail" and gulf groupers, and yellowtail
 (`gimFbgN5Jjk`). Route: [striped marlin](../species/striped-marlin.md).
+⚠ Fact-check (contradicted-by-source): the line is about that day's opportunity,
+not a boat's capability — "My best day was 72 marlin. We could have caught over
+a hundred" — and the speaker is the seminar's unnamed panel moderator, not one
+of its named presenters. The same reading is already flagged on
+[Magdalena Bay](bahia-magdalena-lopez-mateos.md).
+⚠ Fact-check (contradicted-by-source): the 14–15 species count is habitual, not
+one day — "there's days where we catch like 14 15 species and it's just
+amazing" (`gimFbgN5Jjk`). The species list ("Colorado snappers, uh groupers,
+broom tails, golf [gulf] groupers, yellows, yellow tail") verifies.
 
 **The inshore edge is a different fishery again.** At La Bocana the inshore
 rock structure is worked as a distinct "Barracuda grounds" band that a boat
@@ -95,6 +152,10 @@ choppy through the afternoon as heat off the land mass drives wind
 against a slicker patch angling offshore, worked back and forth rather than
 from one side (`dgauGbNxP84`;
 [current diagnostics](../conditions/current-diagnostics.md)).
+⚠ Fact-check (contradicted-by-source): "every single drop" is not the
+transcript's wording — `qri15R3caYE`'s captions render the two jig drops "every
+single draw" and "every single saw", and the same flag stands on
+[barracuda](../species/barracuda.md). The "about 80 feet" figure is verbatim.
 
 **The species mix is warm-water pelagic over bank, plus a bay:**
 
@@ -122,10 +183,10 @@ observations, not a calendar.
 
 | window | what is dated here |
 | --- | --- |
-| Winter (Dec–Feb) | Cabo runs an inshore-and-offshore January program: a surf-line sierra troll that also drew a dorado (`ll7r4A6atno`, 2021-01-19) and skipjack trolled back and forth across a current break (`dgauGbNxP84`, 2021-01-28). Two big blue marlin struck trolled lures without staying hooked on a December 2014 Cabo charter (`Mwx5AAXNMvE`). La Bocana was fished in **February 2018** — inshore rock structure for barracuda, bonito and yellowtail, then a 25 mi run offshore for tuna, marlin and wahoo (`qri15R3caYE`, `Cobp85UvHmM`). Gray whales arrive at Magdalena Bay "about mid-January" (`EcQK5elTPJE`) |
+| Winter (Dec–Feb) | Cabo runs an inshore-and-offshore January program: a surf-line sierra troll that also drew a dorado (`ll7r4A6atno`, 2021-01-19) and skipjack trolled back and forth across a current break (`dgauGbNxP84`, 2021-01-28). Two big blue marlin struck trolled lures without staying hooked on a December 2014 Cabo charter (`Mwx5AAXNMvE`). La Bocana was fished in **February 2018** — inshore rock structure for barracuda, bonito and yellowtail, then a 25 mi run offshore for tuna, marlin and wahoo (`qri15R3caYE`, `Cobp85UvHmM`). Gray whales arrive at Magdalena Bay "about mid-January" (`EcQK5elTPJE`). ⚠ Fact-check (unverifiable): none of the Cabo or La Bocana videos states a date in its content — January 2021 (`ll7r4A6atno`, `dgauGbNxP84`), December 2014 (`Mwx5AAXNMvE`) and February 2018 (`qri15R3caYE`, `Cobp85UvHmM`) are upload dates, while this table's Spring row expressly separates upload dates from fishing dates. ⚠ Fact-check (contradicted-by-source): `EcQK5elTPJE` never identifies the whales — "the wh[ales] show up in about I think about mid January they['re] there now"; the word "gray" appears nowhere and the timing carries the speaker's own hedge |
 | Spring (Mar–May) | Thin, and what exists carries upload dates rather than fishing dates: an Intrepid long-range series working the Magdalena-Bay-to-Alijos-Rocks corridor (`3tQ1_xiqwVU`, uploaded 2012-05-01; `6kpWn2sXokI`, uploaded 2012-05-08) covering a Thetis Bank stop, the Ridge, and a couple of days at the rocks. ⚠ Flagged gap — no corpus source: any spring pattern for this region with a stated fishing date |
 | Summer (Jun–Aug) | Some seven- and eight-day trips leave as early as **July** to be the first boat at Alijos Rocks or the Ridge, if the water is warm enough (`4uNPLknRAQg`). At Magdalena Bay more of the big-ocean species — marlin, tuna, wahoo, dorado — show up through the summer (`EcQK5elTPJE`) |
-| Fall (Sep–Nov) | The region's season. The Searcher's seven-day trips to Alijos Rocks or the Ridge run late **September**/early **October**, with a wahoo chance "at the rocks or on the ridge or on kelp paddies down in that area" alongside 100 lb yellowfin and dorado (`_r08B4bItAY`); a **September 2010** Alijos trip is dated on camera (`_f5QmWSUUx8`, `jH0q4UPjwC0`). Capt. Mike Tahr's wahoo trip in the **second week of November 2019** closed that season with "tremendous catches" (`4uNPLknRAQg`). Magdalena Bay's marlin numbers are an **October–November** draw (`gimFbgN5Jjk`), and the fall 2020 Mag Bay footage runs across three trips (`4t_Z75shK_E`, `isXJONlpUP4`, `OVwqUKim9Pc`). Giant yellowfin of **130 to 350 lb** move up into the Magdalena-Bay-to-Cabo "lower banks" area every fall to breed and spawn, with one **October** arrival dated on camera (`UuyqTE21-kc`). A **November 25** stop on the "lower banks" anchored on one giant-tuna school for four days without moving — the year is unresolved on camera (`ASitOLYzFEA`) |
+| Fall (Sep–Nov) | The region's season. The Searcher's seven-day trips to Alijos Rocks or the Ridge run late **September**/early **October**, with a wahoo chance "at the rocks or on the ridge or on kelp paddies down in that area" alongside 100 lb yellowfin and dorado (`_r08B4bItAY`); a **September 2010** Alijos trip is dated on camera (`_f5QmWSUUx8`, `jH0q4UPjwC0`). Capt. Mike Tahr's wahoo trip in the **second week of November 2019** closed that season with "tremendous catches" (`4uNPLknRAQg`). Magdalena Bay's marlin numbers are an **October–November** draw (`gimFbgN5Jjk`), and the fall 2020 Mag Bay footage runs across three trips (`4t_Z75shK_E`, `isXJONlpUP4`, `OVwqUKim9Pc`). Giant yellowfin of **130 to 350 lb** move up into the Magdalena-Bay-to-Cabo "lower banks" area every fall to breed and spawn, with one **October** arrival dated on camera (`UuyqTE21-kc`). A **November 25** stop on the "lower banks" anchored on one giant-tuna school for four days without moving — the year is unresolved on camera (`ASitOLYzFEA`). ⚠ Fact-check (contradicted-by-source): neither `_f5QmWSUUx8` nor `jH0q4UPjwC0` states a date in its content — September 2010 is title/metadata only, and `jH0q4UPjwC0` names no place at all, so "dated on camera" does not hold for either. ⚠ Fact-check (contradicted-by-source): "tremendous catches" belongs to the general-months statement in `4uNPLknRAQg`, not to that trip — "I think fall fall is the best. Late September, October, early November, there has been tremendous catches of wahoo in those months"; the trip is described separately as "Captain Mike Tauter had an awesome trip… and those were on kelp patties". The same captions render the surname both "Tahr" and "Tauter". ⚠ Fact-check (single-source): the breed-and-spawn migration of 130–350 lb yellowfin into the lower banks rests on one narration line in `UuyqTE21-kc`, and it is a spawning-biology claim with literature outside the corpus. ⚠ Fact-check (contradicted-by-source): November 25 is the dock date, not the stop date — `ASitOLYzFEA` opens at the landing with the boat inbound ("we're down here going to cover uh one of the Intrepid trips that just got back… it's uh November 25th a day before Thanksgiving"), days after the four-day stop. The "day before Thanksgiving" qualifier also constrains the year this row calls unresolved |
 
 **Two claims about Magdalena Bay's year sit side by side** (`EcQK5elTPJE`).
 Dave Hansen: there is no time of year it doesn't bite at all — the inside
@@ -154,20 +215,33 @@ list. The consequence is concrete: this region publishes no coordinates at
 all, so a day plan cannot pull per-spot conditions here the way it can in the
 [Bight](socal-bight.md) or [Baja Pacific — North](baja-pacific-north.md). Zone
 pages land with the zone phase, so unlinked names below have no page yet.
+⚠ Fact-check (contradicted-internal): that status is stale.
+[Alijos Rocks](alijos-rocks.md) and [Cabo San Lucas](cabo-san-lucas.md) both
+exist as zone pages although they sit unlinked in the table below, and four of
+the six "Flagged stub" grounds further down —
+[The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md),
+[Thetis Bank](thetis-bank.md), [the "lower banks"](lower-banks.md) and
+[La Bocana](la-bocana.md) — already have pages, listed in this page's own
+children block.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. CDFW rules do not apply on this side of the line, and a
 Mexican limit differing from a California one is two jurisdictions, not a
 conflict. Verify current requirements before you fish
-([Mexican waters](mexican-waters.md)).** ⚠ Flagged gap — no corpus source:
+([Mexican waters](mexican-waters.md)).** ⚠ Fact-check (contradicted-internal):
+the agency names are not corpus-sourced on this page — they come through
+[Mexican waters](mexican-waters.md), where a standing flag records that neither
+cited transcript ever says "CONAPESCA". The as-of stamp, the CDFW note and the
+verify-current instruction all follow the content rules; only the naming is
+uncorroborated. ⚠ Flagged gap — no corpus source:
 Mexican closures, protected areas or depth restrictions anywhere in this
 region.
 
 | zone | spots | character |
 | --- | --- | --- |
 | Alijos Rocks | corpus zone, no charted spots in the library | The dedicated long-range stop: rock running surface-to-bottom (`97clKtVsEOs`), a wahoo troll and a 100 lb-yellowfin flyline in the same day (`_r08B4bItAY`), and the deepest yo-yo tier in the KB (`hteLeDIy9Qs`) |
-| [Lopez Mateos & Magdalena Bay](bahia-magdalena-lopez-mateos.md) | corpus zone, no charted spots in the library | Four fisheries in one bay — mangrove interior, boca, mid-range tuna, offshore banks — and the one place in this region that stays fishable when it blows (`EcQK5elTPJE`) |
-| Cabo San Lucas | corpus zone, no charted spots in the library | The inshore/offshore charter end of the region: surf-line sierra trolling and dorado on the beach side (`ll7r4A6atno`), marlin on trolled lure heads offshore (`XH-Hrfet6To`, `Mwx5AAXNMvE`) |
+| [Lopez Mateos & Magdalena Bay](bahia-magdalena-lopez-mateos.md) | corpus zone, no charted spots in the library | Four fisheries in one bay — mangrove interior, boca, mid-range tuna, offshore banks — and the one place in this region that stays fishable when it blows (`EcQK5elTPJE`). ⚠ Fact-check (contradicted-by-source): no such superlative is in `EcQK5elTPJE` — the wind claim is "if it's blowing you can fish in the bay because there's no waves there's no swell yeah there's a wind chop", with no comparison to any other ground in the region; the nearest superlative is Larry Hansen's personal "if I had to pick one place in all of Bah[a] to fish the rest of my life only pick one spot" |
+| Cabo San Lucas | corpus zone, no charted spots in the library | The inshore/offshore charter end of the region: surf-line sierra trolling and dorado on the beach side (`ll7r4A6atno`), marlin on trolled lure heads offshore (`XH-Hrfet6To`, `Mwx5AAXNMvE`). ⚠ Fact-check (contradicted-by-source): `XH-Hrfet6To`'s trolling-lure-head content is a dockside segment at Melton Tackle in Anaheim, not Cabo water, and the marlin it raises offshore was not caught on the lure — "came up to hit the lures and we did a drop back on him… that was a nice big fish on bait." The lure losses in `Mwx5AAXNMvE` ("we did lose a couple of big blue marlin that didn't stick") are the only part of the row its cites carry |
 
 **Named grounds the census derives no zone for** — logged rather than
 omitted, because silence would read as "nothing there":
@@ -179,6 +253,10 @@ omitted, because silence would read as "nothing there":
   (`tjBeR9tWd4s`).
 - **Thetis Bank** — ⚠ Flagged stub. Left overnight because the current was
   opposite, the crew working back up on the Ridge instead (`3tQ1_xiqwVU`).
+  ⚠ Fact-check (contradicted-by-source): the boat did not go straight back to
+  the Ridge — `3tQ1_xiqwVU` has them leave "in the middle of the night" and
+  fish "down here in front of Mag Bay", with the Ridge return coming later in
+  the same recap; [Thetis Bank](thetis-bank.md) states that sequence.
 - **"Modesto Main"** — ⚠ Flagged stub. Magdalena Bay's closer fallback bank,
   picked over the longer Ridge run when the wave state outside the estuary
   mouth looks rough (`OVwqUKim9Pc`).
@@ -216,6 +294,18 @@ hour, the smaller one with neither, which is what to weigh if you are planning
 off them. Inside the region, the transit from near Magdalena Bay to Alijos
 Rocks is **160 mi, about 16 hours** (`3tQ1_xiqwVU`). Trips are six, seven and
 eight days out of San Diego (`tjBeR9tWd4s`, `4uNPLknRAQg`).
+⚠ Fact-check (contradicted-by-source): the bait timing is inverted in
+`_r08B4bItAY` — the departure is "approximately 11 o'clock in the morning" and
+the arrival is what is placed on day two, with bait already handled ("hopefully
+be down to [Alijos] by the time we get bait and everything uh before noon on day
+two"). Nothing says bait is obtained the next morning.
+⚠ Fact-check (contradicted-internal): the 160 mi / 16 h leg departs the Ridge,
+not Magdalena Bay — `3tQ1_xiqwVU` gives it on leaving the Ridge ("We're taking
+off for [Alijos] Rocks. 16 hour run, 160 mi. We'll be there at 8:00 tomorrow
+morning"), and [Thetis Bank](thetis-bank.md),
+[The Ridge (Magdalena Bay)](the-ridge.md) and
+[Magdalena Bay](bahia-magdalena-lopez-mateos.md) all state it that way, the last
+already under this same flag.
 
 **Magdalena Bay is reached from the Cortez side, not by boat from the north.**
 The route is a flight into [Loreto](loreto.md), then a drive through Ciudad
@@ -223,6 +313,12 @@ Constitución with a dirt-road final stretch into Lopez Mateos (`EcQK5elTPJE`).
 Once there the distances collapse: the boca is about **5 minutes** by boat from
 the dock, and the mid-range tuna grounds **10–12 mi** out are a half-day
 program with the boat back at the dock by **10:00** (`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-internal): "not by boat from the north" sits against
+this page's own Bank 23 / Bank 38 line, where San Diego long-range boats reach
+the bay's banks by sea (`EcQK5elTPJE` names the Independence, the Success and
+the Constitution fishing right next to them); the same flag stands on
+[Magdalena Bay](bahia-magdalena-lopez-mateos.md), which also records that the
+clause itself is not in `EcQK5elTPJE`.
 
 **That bay is the region's weather answer.** When it is blowing outside, the
 inside stays flat — wind chop only, no swell — so a blown-out offshore day is

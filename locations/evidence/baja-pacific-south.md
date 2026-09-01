@@ -34,10 +34,20 @@ Observations never change the note's stated doctrine.
   the crew left Thetis Bank overnight because the current was opposite; the
   stated plan for the next stop was kite, helium balloon and flyline on 50 lb
   for yellowfin graded 60–90 lb with a few over 100 lb; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the 180 ft call carries no place — the
+  boat is "fishing down here in front of Mag Bay" — the fish that came off is a
+  separate earlier hookup with the species guessed ("that one just came
+  unbutton. Yellow tail, I think"), and after leaving Thetis the crew fished in
+  front of Mag Bay, returning to the Ridge later rather than instead.
 - `UuyqTE21-kc` (StokedOnFishing, upload 2015-01-18, lower banks near Magdalena
   Bay): a helium balloon rig floated a flying-fish bait downwind of the boat to
   keep it riding lifelike on the surface, with multiple hookups on flyers, on
   giant yellowfin graded 150 to 300-plus lb; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the 150–300 lb figure is the video's
+  cold-open negation about the Ridge on the run home ("the ridge there might not
+  be 150 to 300 lb y[ellowfi]n tuna cruising around"), not a lower-banks grade,
+  and it carries no "plus". The transcript's lower-banks grade is "the giant
+  Tunas of 130s to 350 lb".
 - `RNRFrfepiW0` (Steve Carson, SearcherSportfishing, 2023-04-27, "Tackle Tip
   Thursday Vol. 219"): Alijos Rocks and the Ridge named as where yellowtail run
   bigger and meaner with more rocks, the stated trigger for stepping up to a
@@ -166,6 +176,11 @@ Observations never change the note's stated doctrine.
   searched a couple of days, locked onto a single school of giant tuna and
   anchored on that one spot for four days without moving, with wahoo swimming
   through the school; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): November 25 is the dock date, not the
+  trip date — the host opens at the landing with the boat inbound ("one of the
+  Intrepid trips that just got back… it's uh November 25th a day before
+  Thanksgiving"). The "day before Thanksgiving" qualifier constrains the
+  unresolved year.
 
 ## Access & range
 

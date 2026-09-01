@@ -151,6 +151,7 @@ observation behind this page, so it serves as the provenance layer:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 - [Thetis Bank](thetis-bank.md)
