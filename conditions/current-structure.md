@@ -27,7 +27,9 @@ baitfish and red crab → gamefish.** (`h3PTupup17I`)
 The critical part is the lag. Fresh upwelled water is cold, green, and *bad
 now but productive later*. An overnight ~5°F drop plus green water after an
 afternoon NW wind marks a local upwelling event — short-term negative, but
-mark it for the recovery, not the day-of (`h3PTupup17I`). A chlorophyll
+mark it for the recovery, not the day-of (`h3PTupup17I`). ⚠ Fact-check
+(single-source): the ~5°F figure is single-sourced and numerically precise.
+A chlorophyll
 reading therefore carries an age dimension: a new cold bloom (avoid) is not
 the same as a mature bloom edge (fish). The freshness interpretation lives in
 [upwelling and turnover](upwelling-and-turnover.md); the chlorophyll signal
@@ -65,7 +67,10 @@ Spot typology (`6TBxHnkYXI0`):
 The parallel rule is the general prior, not an absolute law. On 2022-11-23 at
 San Clemente Island, bass bit only when current ran **into** the island with
 off-color water present — fish used the dirt to ambush prey against the
-structure (`Z3rZqy2Pi8E`). Encode this as a late-fall / off-color-water
+structure (`Z3rZqy2Pi8E`). ⚠ Fact-check (contradicted-by-source): the
+transcript confirms current-into-island + off-color water + bass biting on
+2022-11-23 at SCI, but does not state the "ambush prey against the
+structure" mechanism. Encode this as a late-fall / off-color-water
 exception, not a contradiction: parallel is the default, into-the-beach is
 viable specifically in that state, off-the-beach stays dead. See also
 [island structure](../locations/island-structure.md).
@@ -83,12 +88,15 @@ At a named kelp bed — San Onofre, Point Loma, La Jolla, San Clemente Island,
 and Catalina are given as examples — check which way the current is running
 at that spot before picking where on the bed to fish: **current running
 downhill → work the northwest corner of the kelp; current running uphill →
-work the southeast corner** (`kzD0kSnnVPw`). The bigger fish in the bed sit
+work the southeast corner** (`kzD0kSnnVPw`). ⚠ Fact-check (single-source):
+this corner-selection rule is single-sourced and operationally precise. The
+bigger fish in the bed sit
 in that corner; the same downhill/uphill-corner logic carries over to rock
 structure (`kzD0kSnnVPw`).
 
 At San Onofre, fronds laid pointing toward San Diego read as downhill
-current (`sIoNELGlxmk`). The mechanism is a trout-stream analogy: slack water
+current (`sIoNELGlxmk`). ⚠ Fact-check (single-source): this specific
+frond-direction cue is single-sourced. The mechanism is a trout-stream analogy: slack water
 carries no food, so the emptiest, easiest water in a stream to fish is
 always the slack water; once current turns on, fish hold in the moving water
 (like trout) to intercept food carried past, which is why the **front
@@ -101,7 +109,10 @@ it — drifting through the bed gives up the edge-holding pattern entirely
 
 Current and tide have different physical causes and do not drive each other:
 current responds to wind and bathymetry (the mechanism chain above), tide to
-lunar/solar gravity ([tide and slack](tide-and-slack.md)) (`sIoNELGlxmk`). At
+lunar/solar gravity ([tide and slack](tide-and-slack.md)) (`sIoNELGlxmk`). ⚠
+Fact-check (contradicted-by-source): the cited transcript says current and
+tide are unrelated but states the cause of current is unknown ("nobody knows
+what creates current"), not that current responds to wind and bathymetry. At
 San Clemente Island, two spots close enough together to reach in a short run
 can show opposite current directions on the same day — one running toward
 San Diego (downhill), the other running uphill — with no established cause;
@@ -149,7 +160,10 @@ Worked example, the template to copy (`HnqiE05vdXs`, 2022-08-31):
 4. Return to your own marked positions at tide time.
 
 The rule, nearly verbatim: **"sign associated with structure = a repeatable
-decision; sign in no-man's-land = low value"** (`HnqiE05vdXs`). A fish or a
+decision; sign in no-man's-land = low value"** (`HnqiE05vdXs`). ⚠ Fact-check
+(contradicted-by-source): the transcript states these as two separate
+statements at different points in the report, not as one combined sentence.
+A fish or a
 bird tied to an identifiable piece of structure gives something to come back
 to; the same sign in open water between features does not. A single piece of
 structure can carry more than one productive edge — an inner ridge and a
@@ -170,7 +184,11 @@ lecture (`Bab_6o7JFh4`):
 - **Continental slope** — steeper than the shelf, average ~4° (range 1–25°),
   running from the shelf break down to ~3,000–5,000 m (~9,800–16,400 ft,
   roughly 1,640–2,735 fathoms). Submarine canyons cut into the slope (e.g.
-  Monterey Canyon), carved by turbidity currents.
+  Monterey Canyon), carved by turbidity currents. ⚠ Fact-check
+  (contradicted-by-source): the transcript states this range in feet as
+  "nine to twelve thousand feet," not ~9,800–16,400 ft, and gives no fathom
+  figure — the ft/fathom conversions here are derived math from the stated
+  meters figure, not values the source states.
 - **Continental rise** — transitional zone between continental and oceanic
   crust, below the slope.
 - **Abyssal plain** — the deepest, flattest part of the ocean floor, from the
