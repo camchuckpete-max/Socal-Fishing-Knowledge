@@ -17,7 +17,10 @@ braid without a knot: the leader threads *inside* the hollow braid so the
 braid's weave clamps down on it (the Chinese-finger-trap principle), and the
 braid finishes in its own doubled loop on the reel end. The connection runs
 close to 100% of line strength with almost no diameter bump — smooth enough
-to wind through the rod guides and back onto the reel (`zkSKgP2bq10`). It
+to wind through the rod guides and back onto the reel (`zkSKgP2bq10`). ⚠
+Fact-check (contradicted-by-source): the transcript confirms "almost 100%
+strength" but never states a diameter-bump or guide-passage claim — that
+detail isn't in the cited transcript. It
 swaps in and out at the loop, so a fresh top shot goes on in seconds without
 re-spooling. See [line and leader](../tackle/line-and-leader.md) for the
 braid and fluoro classes this pairs with.
@@ -90,7 +93,11 @@ Three reasons favor the wind-on over that setup:
   carrying 30-plus anglers, Spectra tangles routinely wrap around
   swivel-and-crimp connections and take "hours" to clear; a wind-on-to-lure
   setup without that hardware spends less time tangled and more time fishing,
-  since tangled time costs hookups (`G1YIlakiRqg`). Tie or crimp the lure
+  since tangled time costs hookups (`G1YIlakiRqg`). ⚠ Fact-check
+  (contradicted-by-source): the transcript's actual line is "I have spent
+  hours of my life unwrapping Spectra off of one of those swivels" — a
+  cumulative career statement, not a claim that a single tangle takes hours
+  to clear. Tie or crimp the lure
   directly to the wind-on leader's terminal end.
 
 ## Tie it
