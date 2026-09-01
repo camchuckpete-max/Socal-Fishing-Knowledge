@@ -21,6 +21,12 @@ observation. Observations never change the note's stated doctrine.
   for an offshore range, with no fishing on the zone itself. Unregistered
   channel — medium confidence. Harvested from
   [bluefin tuna](../../species/bluefin-tuna.md).
+  ⚠ Fact-check (contradicted-by-source): the tape says bare "the West End",
+  not the San Clemente Island West End, and names "s Len Island" nine seconds
+  later as a different place where "nothing was biting"; the boat is on
+  Desperation Reef. The 50-to-almost-300 lb grade is a separate utterance ten
+  minutes earlier, and the show's intro gives this trip's fish as "40 to 90
+  Pounders". No year is spoken ("this year"); 2017 is upload metadata.
 - `0E9REoTjKrY` (SearcherSportfishing / Steve Clarkson, 2020-03-19, filmed at
   the Fred Hall Show): a 315 lb bluefin credited to a 320 g glow flat-fall
   class jig, the catch placed 59 mi off Point Loma and dated on/around January
@@ -28,6 +34,11 @@ observation. Observations never change the note's stated doctrine.
   this zone. Unregistered channel — medium confidence. Harvested from
   [knife jigs](../../lures/knife-jigs.md) and the
   [Searcher big-tuna rig ladder](../../tackle/searcher-big-tuna-rig-ladder.md).
+  ⚠ Fact-check (contradicted-by-source): "bluefin" is never said — Clarkson
+  calls it a "giant tuna" throughout and the caption reads "315 tablet in
+  tuna just 59 miles off of Point Loma" (ASR garble). The catch is dated only
+  as "about two months before the Fred Hall Show"; January 2020 is inferred
+  from the 2020-03-19 upload.
 
 ## Structure & bathymetry
 
@@ -51,6 +62,11 @@ observation. Observations never change the note's stated doctrine.
   philosophy is that a wall does not need a famous name to hold fish.
   Unregistered channel — medium confidence. Harvested from
   [break walls, jetties and riprap](../breakwalls-jetties-riprap.md).
+  ⚠ Fact-check (contradicted-by-source): "beside the Long Beach federal
+  breakwater" inverts the passage — that wall is what "most people think of"
+  as "the wall", and Seal Beach, Surfside, Marina del Rey, "Zuna Jetti" and
+  Oceanside are introduced as walls that "are **not** the wall". The captions
+  also read "federal brick wall", not breakwater.
 
 ## What's there
 
@@ -61,6 +77,10 @@ observation. Observations never change the note's stated doctrine.
   zone's charted structure at that entrance is the Zuniga Jetty (cameron).
   Registered voice. Harvested from
   [California halibut](../../species/california-halibut.md).
+  ⚠ Fact-check (contradicted-by-source): the shipping-lane/breakwater-mouth
+  "significant thumb over the hose" is the speaker's own water "up here", not
+  San Diego Bay; the San Diego Bay item is a separate photo-shoot halibut on a
+  strong **outgoing** tide on a channel edge over hard bottom.
 - `VpW91AKOFVQ` (Capt. Scotty, Brothers Sportfishing, via Roman Castro,
   2020-01-28): the smaller mainland-coast schools from Del Mar down to
   Imperial Beach run markedly more finicky on the surface iron than a big
@@ -68,6 +88,11 @@ observation. Observations never change the note's stated doctrine.
   Point Loma is not named on camera; the zone's charted latitudes fall inside
   that stretch (cameron). Registered voice. Harvested from
   [surface iron](../../techniques/surface-iron.md).
+  ⚠ Fact-check (contradicted-by-source): "on the same gear" is not in the
+  tape — Capt. Scotty's surrounding passage is about gear differences (4:1 vs
+  5:1 ratios, retrieve speed), so the comparison is not gear-constant. The
+  schools are never called "smaller"; the contrast is with "a big old school"
+  at the Coronados.
 
 ## How it fishes
 
