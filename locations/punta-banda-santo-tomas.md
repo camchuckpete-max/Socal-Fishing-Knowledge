@@ -61,10 +61,17 @@ instead of a name: the 15 Fa Ridge and the 33, 38, 47 and 48 fathom spots
 named for the fathom depth of its shallowest point as read on the sounder, at
 six feet to a fathom ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`). Read
 that way the five spots span **15 to 48 fathoms — roughly 90 to 288 ft** — with
-the 15 Fa Ridge the shallowest and the 48 the deepest. ⚠ Flagged gap — no
-corpus source confirms the charted depth of any of these five marks
-independently of its label, and none of the seven named coastal spots carries a
-depth at all.
+the 15 Fa Ridge the shallowest and the 48 the deepest. ⚠ Fact-check
+(contradicted-by-source): `Rf1HKJG-SDg` scopes the convention to "most of
+them… the banks are called after the highest part of the bank on the fish
+finder" and names the exception in the same passage (Nine Mile Bank and "the
+14" are named for miles off the coast, not fathoms), which
+[zone lexicon](zone-lexicon.md) carries and this line does not; the transcript
+also describes SoCal banks and names none of these five Baja marks, so the
+derived 15–48 fa / 90–288 ft band rests on an unhedged reading of the rule.
+⚠ Flagged gap — no corpus source confirms the charted depth of any of these
+five marks independently of its label, and none of the seven named coastal
+spots carries a depth at all.
 
 **The zone runs north-to-south along the coast with the deep spots outside.**
 The charted positions run from **31°43.440'N 116°43.380'W** at La Bufadora down
@@ -91,7 +98,15 @@ south to these spots by any source, so it is not asserted here.
 One trace of tuna: an attendee at a 2025 trade show described three separate
 trips out of La Bufadora on a local boat, releasing tuna under 50 lb because
 there was so much of it — months given as November, December and February, year
-not stated, species not named (`ouBrIdO7d4k`). It is a second-hand account with
+not stated, species not named (`ouBrIdO7d4k`). ⚠ Fact-check
+(contradicted-by-source): the transcript has three visits but not three boat
+trips — "I went down there three separate times… November December and then
+again in February the second two times I went down there I stayed with Mauricio
+and… let me go on his uncle's fishing boat with him that's the first trip we
+were doing Catch and Release tuna" — so the fishing attaches to the later
+visits, not to all three; the source also says only "Bufadora", never "La
+Bufadora". The 50 lb figure and the release doctrine are verbatim ("anything
+under 50 lb throw it back in the water"). It is a second-hand account with
 no year and no program attached; it is logged in the
 [evidence file](evidence/punta-banda-santo-tomas.md) rather than treated as a
 pattern.

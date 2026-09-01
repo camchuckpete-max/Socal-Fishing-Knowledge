@@ -23,7 +23,15 @@ observation. Observations never change the note's stated doctrine.
   given as November, December and February with no year stated, species not
   named, no gear or program described. Second-hand show-floor conversation on
   an unregistered channel — low confidence, and the only mention of any place
-  in this zone anywhere in the corpus.
+  in this zone anywhere in the corpus. ⚠ Fact-check (contradicted-by-source):
+  the captions place the boat on the later visits, not all three — "I went down
+  there three separate times… November December and then again in February the
+  second two times I went down there I stayed with Mauricio and… let me go on
+  his uncle's fishing boat with him that's the first trip we were doing Catch
+  and Release tuna" — so "the first trip" reads as the first of those two, and
+  which visit the tuna came on is not recoverable from the audio; the source
+  says "Bufadora", never "La Bufadora", and Mauricio is never called a local.
+  The 50 lb quote is verbatim.
 
 
 <!-- backlinks:start -->
