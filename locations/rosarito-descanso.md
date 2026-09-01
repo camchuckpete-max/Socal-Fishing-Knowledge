@@ -24,9 +24,18 @@ It is one of the two halves the spot library's **Northern Baja** section splits
 into. That section ran a single heading of roughly **33 nm** from the Bull Ring
 down to Punta Salsipuedes, which is too long to fish in one trip, so coordinate
 clustering cut it at Sugarloaf Rock; the southern half is the La Fonda /
-Bajamar / Salsipuedes zone. ⚠ Flagged stub — no corpus source yet: the La Fonda
+Bajamar / Salsipuedes zone.
+⚠ Fact-check (contradicted-by-source): 33 nm is the latitude span alone —
+32°31.500'N to 31°58.385'N is 33.1 minutes — but those two positions are also
+18.6 minutes of longitude apart (117°08.600'W to 116°50.010'W), so the
+straight-line separation is about 36.7 nm, not 33.
+⚠ Flagged stub — no corpus source yet: the La Fonda
 / Bajamar / Salsipuedes page does not exist, so the coast south of Sugarloaf
 Rock has no page to hand off to.
+⚠ Fact-check (contradicted-internal): the stub is stale —
+`locations/la-fonda-bajamar-salsipuedes.md` exists as a full v2 zone page with
+five spots (97, Punta Mesquite, La Fonda, Bajamar, Punta Salsipuedes) and
+already backlinks to this note.
 
 **Nothing in the corpus describes fishing any of these six marks.** The
 [region page](baja-pacific-north.md) carries the same gap for the whole
@@ -51,6 +60,13 @@ of** — the US-side
 whose waypoints run **32°32.495'N to 32°32.717'N** around **117°14.8'W**
 (cameron). A boat working the Bull Ring is in Mexican water; a boat on the
 International Reef is not.
+⚠ Fact-check (contradicted-internal): the Bull Ring is not the northernmost
+position in the Baja spot library. `locations/lower-9-mile-bank.md`
+(32°32.500'N 117°20.500'W, `regions: [baja-pacific-north]`, parent
+`coronado-islands.md`) sits 1.0 minute of latitude further north. The Bull Ring
+is the northernmost *mainland-coastal* Baja position. The International Reef
+latitude range and the ~6-minute longitude offset both verify against
+`sources/spot-lists.md`.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -79,7 +95,10 @@ The six positions sort into three families by their labels (cameron):
   Sugarloaf Rock (32°13.365'N 116°57.814'W). This is the zone's only tight
   grouping — a point, two rockfish marks and a named rock, all fishable on one
   drop-down-the-coast plan, and the reason the zone exists as a run grouping at
-  all.
+  all. ⚠ Fact-check (contradicted-by-source): the four positions span 2.5
+  minutes of latitude, not two — Punta Descanso 32°15.880'N to Sugarloaf Rock
+  32°13.365'N is 2.515'. The same "two minutes" figure is restated in the
+  Spots section below.
 
 **The two rockfish marks are the only spots in the zone whose label names what
 is fished there** (cameron), and even they carry no depth. ⚠ Flagged gap — no
@@ -94,6 +113,12 @@ is at **32°17.620'N 117°10.030'W** (cameron), effectively abeam Rosarito Flats
 and Punta Descanso. ⚠ Flagged stub — no corpus source yet: the Finger Bank
 rockfish zone lies directly offshore of the Descanso cluster and has no page
 either.
+⚠ Fact-check (contradicted-internal): the stub is stale —
+`locations/finger-bank-rockfish.md` exists as a full v2 zone page with five
+depth-labelled marks (27–71 fathom labels) and already backlinks to this note.
+The "directly offshore" geometry itself verifies: the Upper Finger Bank marks
+sit at 32°14.000'–16.360'N, 117°07.100'–11.330'W, sharing the Descanso
+cluster's latitudes 5.2–13.5 minutes of longitude to the west.
 
 ## What's there
 
@@ -133,12 +158,21 @@ plus one workable run:
 - **Bull Ring** — alone at the north end, 14.0 nm off the zone's centre
   (`sources/geo-census.txt`) and the closest charted Baja position to the
   border. Fished as its own trip, or as the first or last stop on a crossing.
+  ⚠ Fact-check (contradicted-internal): "closest charted Baja position to the
+  border" does not hold across the whole `baja-pacific-north` set —
+  `locations/lower-9-mile-bank.md` (32°32.500'N) and
+  `locations/coronado-canyon.md` (32°30.300'N) are both charted Baja-region
+  positions sitting on or near the maritime line.
+  The 14.0 nm parent-distance figure verifies against
+  `sources/geo-census.txt`.
 - **Rosarito Flats** — the midpoint, and a search area rather than a mark
   (cameron).
 - **The Descanso run** — Punta Descanso, the two Descanso rockfish marks and
   Sugarloaf Rock, all within two minutes of latitude of one another at the
   south end, and the only part of the zone that reads as a normal
-  spot-to-spot day.
+  spot-to-spot day. ⚠ Fact-check (contradicted-by-source): the span is 2.515
+  minutes of latitude (32°15.880'N to 32°13.365'N), not two — same finding as
+  the Structure & bathymetry flag above.
 
 Charted positions for all six are in
 [the spot library](../sources/spot-lists.md). No spot here carries corpus
