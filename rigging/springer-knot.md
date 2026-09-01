@@ -15,7 +15,9 @@ hook_sizes: unknown — not stated in either source clip
 A named terminal knot for tying a hook onto **heavier line**, demonstrated in
 two clips of the *Searcher*'s Tackle Tip Thursday series (`Bo5Fj-XuWHo`,
 `VW2t_G8eorI`) — the same knot recurring across two numbered episodes of the
-same series is repeated doctrine. Kept as its own note rather than folded into
+same series is repeated doctrine. ⚠ Fact-check (contradicted-internal):
+[Essential SoCal Knots](essential-knots.md) describes this note's source
+material as "a single thin tackle-shop clip," not two. Kept as its own note rather than folded into
 [Essential SoCal Knots](essential-knots.md) — that note is already long, and
 this is a mechanic distinct enough from the Palomar/San Diego jam family there
 that it shouldn't be merged into either.
@@ -25,7 +27,9 @@ that it shouldn't be merged into either.
 - Ties a hook onto heavier line; no line-class number, species, or rig
   application is stated in this clip (`Bo5Fj-XuWHo`).
 - Ties for "virtually any pound test," named down to 20 lb and 30 lb, with a
-  stated preference for 60 lb and up (`VW2t_G8eorI`).
+  stated preference for 60 lb and up (`VW2t_G8eorI`). ⚠ Fact-check
+  (single-source): only `VW2t_G8eorI` gives a pound-test number; `Bo5Fj-XuWHo`
+  says only "heavier line," with no figures.
 - Strong and fast: "really, really strong knot," "really easy and fast to
   tie" (`Bo5Fj-XuWHo`).
 - **Low-profile advantage:** "even with bigger pound test you're going to
