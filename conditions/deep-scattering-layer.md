@@ -21,7 +21,13 @@ worth vocabulary alongside SST, chlorophyll, and current: it is the reason the
   100–250 ft below it (`yMiBtZ7k8-w`). See [swordfish](../species/swordfish.md).
 - **Night bluefin** work because the layer — and the bait riding it — lifts
   into reach after dark: deep sonar-school fish unreachable by day come up the
-  column at night (`nRFFM8DT-og`). Two mechanisms are on record and are not
+  column at night (`nRFFM8DT-og`).
+  ⚠ Fact-check (contradicted-by-source): `nRFFM8DT-og` never mentions the
+  deep scattering layer or "scatter" at all — it gives only captain-called
+  depths ("I see fish at 180 I see fish at 230 ft"); the DSL mechanism is not
+  stated in this source. Matching flag on the same source/claim already sits
+  in [bluefin tuna](../species/bluefin-tuna.md#feeding-triggers). Two
+  mechanisms are on record and are not
   the same claim: **food-following** (the fish eat because the risen layer is
   food) and a **reaction bite** triggered by the jig itself (*likely, not
   measured*) (cameron). See [bluefin tuna](../species/bluefin-tuna.md).
@@ -99,7 +105,13 @@ swimmers). Zooplankton grades from microscopic **copepods** (segmented,
 jointed bodies) up through **krill** (shrimp-like crustaceans, to about 2
 inches, a major food-web link where whales feed) to soft-bodied **jellyfish**
 (scyphozoans and hydrozoans, including the Portuguese man o' war — a
-colonial hydrozoan — ranging microscopic up to ~6.5 ft). Nekton — fish,
+colonial hydrozoan — ranging microscopic up to ~6.5 ft).
+⚠ Fact-check (contradicted-by-source): `tKqZJZMLbq4` gives the "microscopic...
+up to about six and a half feet" range to jellyfish/scyphozoans as a class;
+the transcript describes the Portuguese man o' war separately, only as a
+colonial hydrozoan of four organism types working together, with no size
+figure of its own — the ~6.5 ft range is not stated for the man o' war
+specifically. Nekton — fish,
 squid, marine mammals, sea turtles — propel by alternating myomere
 (muscle-segment) contraction in a few swimming modes: **thunniform**
 (caudal-fin sweep, e.g. sharks), **amiiform** (dorsal-fin undulation),
@@ -116,7 +128,15 @@ only; it does not change the depth/bait doctrine above.
 
 Over the offshore banks and contour edges (150–350 fm zones) where sword and
 night bluefin are worked, the DSL rides the fathom-curve "highways"
-(`yMiBtZ7k8-w`). How current and structure concentrate this water is in
+(`yMiBtZ7k8-w`).
+⚠ Fact-check (contradicted-by-source): `yMiBtZ7k8-w` is a daytime-swordfish-
+only seminar; it mentions "bluefin" and "tuna fishing" only in passing
+personal-experience asides between the two captains, unconnected to the DSL
+or a highway claim, and it never connects the DSL itself to a "fathom-curve
+highway" — the source has "150 fathoms out to... 350 fathoms"
+(depth range), a "highway rip" (a current rip, not the DSL), and "fathom
+curve" (an unrelated hit pattern) as three separate mentions, not this
+composite claim. How current and structure concentrate this water is in
 [current structure](current-structure.md); the deep-water bank targets in
 [BightSST eval targets](../locations/bightsst-eval-targets.md).
 
