@@ -104,6 +104,13 @@ chlorophyll weighting for this regime lives in
 [water temperature](../conditions/water-temperature.md) and
 [water color](../conditions/water-color.md).
 
+⚠ Fact-check (single-source): the warm-band path (backside Santa Cruz/Rosa →
+SBI → backside Catalina → 499/Clemente → macro bank → 181/182 ridge) and the
+Tanner/Cortez condensation via the 381 are attested only in `OYOda6T3f-8` —
+verbatim-confirmed against that transcript, but no independent source
+corroborates this specific fall tracking sequence as a repeatable pattern, and
+it is the operational core of this note's fall bluefin search prior.
+
 ### Paddy-water geography
 
 Kelp paddies are not evenly distributed across the bight (`HzE4FHHcvTk`):
