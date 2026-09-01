@@ -26,7 +26,11 @@ relocation event than a shutdown (see [below](#post-moon-relocation--disappearan
   (`XLVUhV8DW64`).
 - **White seabass** bites at the islands cluster on both the full
   (`DnSqw4r7A1s`, `-JZpyWLdKlk`) and new moon in season; a new-moon night on
-  2022-08-31 produced a 22-fish day for one boat (`HnqiE05vdXs`). ⚠ Flagged gap — no corpus
+  2022-08-31 produced a 22-fish day for one boat (`HnqiE05vdXs`). ⚠ Fact-check
+  (contradicted-by-source): `HnqiE05vdXs` places the Aloha Spirit's 22-fish
+  day as happening "the other day" during "this new moon we're having right
+  now" — the transcript never states the catch itself fell on 2022-08-31; that
+  exact date is this note's inference, not the source's statement. ⚠ Flagged gap — no corpus
   source: mechanism — whether the moon acts through the squid spawn cycle, the
   tidal range it sets, or night light (same gap noted on
   [white seabass](../species/white-seabass.md#feeding-triggers)).
@@ -55,7 +59,11 @@ daytime predation risk keeps them from covering the same ground
 than averaged: open-water bluefin not holding structure move **10–15 nm
 overnight** (`Blh2BA-7Ono`); Capt. Dave Hansen puts a wider estimate on
 schools — named as **albacore, bluefin, and yellowfin** — moving **20 miles**
-after one full-moon night (`fri_BWI-VA0`).
+after one full-moon night (`fri_BWI-VA0`). ⚠ Fact-check (contradicted-by-source):
+`Blh2BA-7Ono`'s 10–15 nm figure is stated as general dispersal by fish "not
+really holding hard to structure," with no mention of a moon night anywhere in
+that transcript — the moon link drawn here is this note's framing, not the
+source's.
 
 After the October full moon, "the tuna are gone" was a coverage illusion, not an
 actual disappearance — the fleet lost the fish and stopped reporting them
