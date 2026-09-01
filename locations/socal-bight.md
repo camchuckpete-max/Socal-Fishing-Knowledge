@@ -404,6 +404,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [12 Mile Reef](12-mile-reef.md)
+- [172 / 125](172-125.md)
 - [311 (Trask Knoll)](311.md)
 - [43 / 91 / 300](43-91-300.md)
 - [483/500 / 437](483-500-437.md)
