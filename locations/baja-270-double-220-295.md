@@ -71,6 +71,29 @@ which are stated in miles:
 | The August 2024 tournament bank | 42–43 mi | inshore of every mark here by 2–14 statute miles | `Ix0gG0-l3v0` |
 | The supplier-conference fleet's grounds | 45–50 mi out | the 295 at 45.2 and the Baja - 270 at 48.9 statute miles fall inside this band | `0bcDBGzQnGw` |
 
+⚠ Fact-check (contradicted-by-source): the **42–43 mi** row is stated in both
+tournament videos as how far the boat had *travelled* that morning — "how far did
+we just travel … I think about 42 43 miles" — not as a distance from port, so
+this row's placement and the "inshore of every mark here by 2–14 statute miles"
+reading below rest on a re-framing neither source makes. The same clip in
+`U1AgwmlY5bI` adds "we're just at 9 miles from the high spot on the hidden,"
+which anchors that day's grounds within about 9 mi of Hidden Bank — itself 44.0
+statute miles from Punta San Miguel and 18.3 nm from the 295 — rather than on a
+radius from Ensenada.
+
+⚠ Fact-check (contradicted-by-source): the fleet row overstates its source.
+`0bcDBGzQnGw` says only "I know the fleet is about 45 50 miles from where …" — it
+never calls the position grounds, never identifies the fleet as the supplier
+conference's, and hedges the figure with "about", so the 295 and the Baja - 270
+"falling inside this band" compares charted positions against an unlocated hedge.
+
+⚠ Fact-check (contradicted-by-source): the break row is definite where
+`0bcDBGzQnGw` is speculative — "probably … head West out maybe 20 to 30 miles
+straight west and as soon as we hit a temp break which should be around here" —
+so the 20–30 mi band is a stated plan and a predicted break, not an observed
+break position, and the "15–27 statute miles beyond the outer edge" figure below
+inherits that.
+
 **Only the furthest figure in the corpus reaches this zone, and the furthest
 mark in the zone is past it.** The Double 220 at **57.3 statute miles** lies
 outside every stated Ensenada distance, including the fleet's own 45–50 mi
@@ -139,6 +162,14 @@ its name, at six feet to a fathom ([zone lexicon](zone-lexicon.md),
 | Double 220 | 220 fathoms | about 1,320 ft |
 | Baja - 270 | 270 fathoms | about 1,620 ft |
 | 295 | 295 fathoms | about 1,770 ft |
+
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` states the naming
+convention as a tendency, not a rule — "most of them are … called after the
+highest part" — and names its own exceptions in the same breath (the 9 Mile and
+14 Mile banks are named for miles off the beach, and "there are places all over
+the ocean that are 182 but they're not a bank"). It is also describing SoCal
+banks throughout; nothing in it scopes the convention to the Baja numbered grid,
+so the three readings in this table are an off-region rule of thumb.
 
 **All three fall inside the 150–350 fathom contour band** that the swordfish
 router gives for contour lines, thumbs, notches and humps
@@ -216,6 +247,21 @@ about **40 boats** landing **4 fish on day one and 7 on day two**
 [striped marlin](../species/striped-marlin.md) and
 [bluefin tuna](../species/bluefin-tuna.md) carry that material at region level.
 
+⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` says only "actually just saw
+marlin jump right in front of the boat" — no species is named, so *striped* is
+supplied — and the marlin/foamer sequence runs before the crew set out on the
+trip that found the 35-mile paddy, so "the same trip" is not what the video
+shows; the school is called a porpoise school in that moment.
+
+⚠ Fact-check (contradicted-by-source): in `Ix0gG0-l3v0` the kite raises nothing —
+it is brought in with only "a swirl under it", and the video states flatly "in
+the end we did not land any fish during the tournament" — and the fish there are
+called "up on top", not breezing. The counts are hedged and the two videos
+disagree around them: the tournament director gives "maybe four pieces" and
+"seven pieces", the boat figure is "I think there was like 40 boats" against
+`U1AgwmlY5bI`'s "about 35 other boats", and the same speaker says three *boats*
+caught on day one. August 2024 is the upload date; no date is spoken on camera.
+
 ⚠ Flagged gap — no corpus source: whether
 [bluefin](../species/bluefin-tuna.md), [yellowfin](../species/yellowfin-tuna.md),
 [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md),
@@ -239,7 +285,13 @@ by sea conditions, with a fallback search **20–30 mi north**; trolling cedar
 plugs locates fish and the crew deliberately worked away from the fleet
 (`0bcDBGzQnGw`; [Ensenada](ensenada.md),
 [water temperature](../conditions/water-temperature.md),
-[current structure](../conditions/current-structure.md)). Continuing **west** off
+[current structure](../conditions/current-structure.md)).
+⚠ Fact-check (contradicted-by-source): the cedar plugs in `0bcDBGzQnGw` are
+slow-trolled around an already-spotted dolphin school on an earlier segment —
+"slow troll and some cedar plugs right now around this big dolphin school and
+hoping that some tuna around it" — a hope attached to sign already found, not a
+stated method for locating fish, and not part of the offshore plan quoted here.
+Continuing **west** off
 a break found at that distance is the one documented heading that would carry a
 boat into this zone — the marks here sit **15–27 statute miles** beyond the outer
 edge of that 20–30 mi break band, on a west-southwest line rather than due west
