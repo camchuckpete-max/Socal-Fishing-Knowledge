@@ -500,3 +500,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T15:51:25Z — locations/san-diego-artificial-reefs.md — verify-escalate
 - run: 33526490734
 - reason: The four Mission Bay Park waypoints sit at 117 16.050-16.517 W (the Pacific Beach AR longitude band, west of Mission Bay water) with nearshore-coast child pages, so the page's Inside/Outside split, no-ocean-crossing access line and waters bay-harbor tag rest on an in-bay premise the coordinates contradict; plus Pacific Beach AR absent from the sub-pixel-cluster roster with a full-MUR-pixel span (census question), and bM2vUS1B-yQ gives a 35-40 ft working depth that either retracts or scopes depth_band unknown (flags cannot change front matter).
+
+## 2026-09-01T16:01:17Z — locations/oceanside-north-county.md — check-note-failed
+- run: 33526490734
+- reason: FAIL  locations/oceanside-north-county.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the crankbait retrieve is explicitly
