@@ -480,3 +480,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T09:51:57Z — locations/regions.md — verify-escalate
 - run: 33494115028
 - reason: verifier found no working-tree diff for the factcheck worker pass and could not confirm whether the zero-flag outcome (all claims cameron-attributed, no contradictions found) is legitimate or a missed worker step
+
+## 2026-09-01T12:01:42Z — locations/zone-lexicon.md — subagent-failure
+- run: 33504474869
+- reason: worker returned incomplete status message instead of LOG line, no changes made
