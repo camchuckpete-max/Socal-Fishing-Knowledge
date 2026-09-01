@@ -64,6 +64,10 @@ observation. Observations never change the note's stated doctrine.
   its venomous spines, with an undersized fish sent back down on a
   wire descending device. Registered voice. Harvested from
   [rockfish & lingcod](../../species/rockfish-lingcod.md).
+  ⚠ Fact-check (contradicted-by-source): neither "sculpin" nor "scorpionfish"
+  is spoken anywhere in `_ZThckj2TIM`, and the fish is never identified by
+  name; the on-camera line is that "the spines have like very minor poison,
+  kind of don't be too worried about it", not that it is venomous.
 - `-eaaWPN5Fxk` (BDOutdoors / SoCal Bight Fishing Academy Ep. 7, 2023-02-10,
   San Diego deep structure): the slug-off-the-side approach is introduced with
   "down in San Diego you take a slug down to those artificial reefs, La Jolla,
