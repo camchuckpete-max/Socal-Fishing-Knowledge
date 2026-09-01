@@ -492,3 +492,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T15:20:05Z — locations/north-county-artificial-reefs.md — verify-escalate
 - run: 33512954766
 - reason: Oceanside AR fails the sub-pixel-cluster test: spot-lists.md L16 and zone-lexicon.md list 1A-1H/2A-2L as one cluster but the coords span 2.18 nm (~4 MUR pixels) — Cameron must decide whether Oceanside splits into 1-series and 2-series cells (zone-census question, out of unit scope). Second call: the Pendleton 35-40 ft depth either retracts from the parent or propagates to pendleton-ar.md / pendleton-ar-center.md, which both say depth_band: unknown
+
+## 2026-09-01T15:42:50Z — locations/san-diego-artificial-reefs.md — check-note-failed
+- run: 33526490734
+- reason: FAIL  locations/san-diego-artificial-reefs.md: unsourced coordinate 32°47.4'N 117°14.2'W — a published position must be copied from sources/spot-lists.md, never computed. A zone centre is not a position: state the distance without it.
