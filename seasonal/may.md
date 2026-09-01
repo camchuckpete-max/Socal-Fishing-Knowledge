@@ -40,7 +40,9 @@ A stale report is not today's water.
 ## Read the size class — it changes the presentation
 
 Bluefin group by size class, and **seeing the 80+ class changes how you
-present** (`S2L3KLSQ6Is`):
+present** (`S2L3KLSQ6Is`) — ⚠ Fact-check (single-source): breakpoints verified
+verbatim against the cited transcript but corroborated nowhere else in the
+note's citations; numerically precise and load-bearing for this section.
 
 | Size class | Read |
 |---|---|
