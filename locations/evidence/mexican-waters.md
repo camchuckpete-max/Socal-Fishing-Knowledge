@@ -20,6 +20,12 @@ per observation. Observations never change the note's stated doctrine.
   Bound vehicle insurance at ~$90 for a 2021 car and ~$130 for a newer Tacoma
   over four days.
 - `odiIWmut6gM`: same trip series, corroborating the paperwork set.
+  ⚠ Fact-check (contradicted-by-source): that transcript contains no mention
+  of FMM, licence, insurance, passport or border paperwork of any kind — its
+  only trip-logistics content is the ~8-hour drive, the no-cell-service
+  stretch, bring-your-own-tackle, and vacuum-packing fish at the processor.
+  Nothing in the note rests on it alone; every paperwork claim cites
+  `P36VGPPf120`.
 
 <!-- backlinks:start -->
 ## Linked from

@@ -28,14 +28,28 @@ change, and this is a foreign jurisdiction.**
    details, point of entry and length of stay, and produces a printout.
    **Print it.** One angler reported being checked three times on a single
    trip (`P36VGPPf120`).
+   ⚠ Fact-check (contradicted-by-source): the transcript says "Someone got
+   checked three times last year" — an unnamed third party across a year, not
+   one angler on a single trip; it gives no trip framing at all.
 2. **Mexican fishing licence (CONAPESCA).** Bought online. The licence moved to
    a *new* website as of 2026, so search fresh rather than trusting an old
    bookmark (`P36VGPPf120`). Carry your passport when you buy.
+   ⚠ Fact-check (contradicted-by-source): the transcript says only "there's
+   this new uh website for the licenses for getting your Mexican fishing
+   permit. Purchase it there. Uh have your passport on you." It states no
+   year (2026 appears nowhere), never says CONAPESCA, and never advises
+   searching fresh over an old bookmark. The "bought online" and passport
+   points are supported.
 3. **Passport.**
 4. **Vehicle insurance — separate, and mandatory in practice.** US policies do
    not carry over. **Baja Bound** is the named recommendation; a 4-day trip ran
    about **$90** for a 2021 car and about **$130** for a newer Tacoma
    (`P36VGPPf120`).
+   ⚠ Fact-check (unverifiable): the two prices and the four-day framing are
+   verbatim ("for my car 2021 was 90 bucks… 90 bucks for the 4 days… my
+   friend's truck, brand new Tacoma, was 130 for the 4 days") and Baja Bound
+   is named ("Baja Bound is the way to go"), but neither cited transcript says
+   insurance is separate/mandatory or that US policies do not carry over.
 
 ⚠ Flagged gap — no corpus source: whether a boat run from San Diego into
 Mexican water for the day — the Coronado Islands case —
