@@ -21,7 +21,10 @@ knot" for this connection, but they describe **two mechanically distinct
 ties** under the same name (see Parameters) — kept as its own note, split out
 of [Essential SoCal Knots](essential-knots.md) once that note passed ~400
 lines, so the naming split stays visible instead of getting buried in a
-larger knots catalog.
+larger knots catalog. ⚠ Fact-check (contradicted-internal): [Essential SoCal
+Knots](essential-knots.md) twice describes this same split as "five sourced
+variants," against the six sources named here and in this note's own front
+matter.
 
 ## When to use
 
