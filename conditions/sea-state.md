@@ -38,7 +38,10 @@ direction) along the route from the HF-radar / WCOFS current field and
 
 Where current accelerates over a ridge or shoal, the swell stands up **locally**:
 the ridge off the **east end of Catalina** is horrible for a few miles, then lays
-down 3–4 mi past it (`zKmZ4zql2ws`). Mark bathymetric features on the transit
+down 3–4 mi past it (`zKmZ4zql2ws`). ⚠ Fact-check (contradicted-by-source): the
+transcript gives two different lay-down distances for this same ridge — "another
+three or four miles" at one point, then "four or five miles" restated later in
+the same account — the note states only the first figure. Mark bathymetric features on the transit
 where the current field accelerates and annotate "expect locally worse seas
 here; usually improves beyond" — do not let one rough patch imply the whole
 outer zone is blown.
@@ -50,15 +53,27 @@ dawn (`zKmZ4zql2ws`). **Conception-area corollary:** west/NW wind blows at
 *night* up there and stops by morning, so a calm dawn reading is a trap — plan a
 Santa Rosa / San Miguel crossing only after **2+ consecutive days** of no wind or
 Santa Ana conditions (`Z3rZqy2Pi8E`). Add a **12–24 h wind hindcast** for the
-route and zones to every conditions pull, not just the forward forecast.
+route and zones to every conditions pull, not just the forward forecast. ⚠
+Fact-check (contradicted-by-source): the transcript never states a 12–24 h
+figure — it describes the overnight-wind risk generically (a calm-looking dawn
+hiding wind that already built chop overnight) without attaching a specific
+hour window; the range is this note's own operationalization.
 
 ## Upstream fetch check (swell arrives after the wind that made it)
 
 Swell shows up later than the wind that generated it, and from far away: a San
 Nicolas Island example ran calm locally all weekend, then jumped **4 ft → 12 ft**
-swell by Monday from a system off **Oregon** days earlier (`zKmZ4zql2ws`). Scan
+swell by Monday from a system off **Oregon** days earlier (`zKmZ4zql2ws`). ⚠
+Fact-check (contradicted-by-source): the transcript does not describe the
+weekend itself as calm — it says wind picked up heading into the weekend
+("fairly calm Thursday Friday it gets a little windier into the weekend")
+while the swell climbed to 12 ft by Monday; the 4 ft → 12 ft figures, the
+Monday timing, and the Oregon-area system are all correctly stated. Scan
 the synoptic wind field up-coast over the prior **48–72 h** for swell-arrival
-risk the point forecast under-explains.
+risk the point forecast under-explains. ⚠ Fact-check (contradicted-by-source):
+the transcript never states a 48–72 h window — it describes the source system
+only as "days" away with swell traveling "hundreds and hundreds of miles," a
+vaguer window hardened into a specific hour figure here.
 
 ## Unforecast-wind heuristics
 
@@ -97,6 +112,13 @@ steepness read (`NC3-3pJDEgo`):
   the risk call sits with whoever is running the boat, especially with
   passengers aboard (`NC3-3pJDEgo`).
 
+⚠ Fact-check (single-source): the numeric thresholds above (12 kt cutoff,
+sub-10-second interval, and the 12–15 kt / 4–8 ft / 9-second unfishable
+combo) verify verbatim against the cited clip but come from one working
+captain and are not corroborated by another source in this note; the 12 kt
+figure is already framed as personal, but the other two are stated as
+general rules.
+
 ## Santa Ana = northern-islands window
 
 Santa Ana events flatten the NW outer islands. A Santa Ana is the trigger to run
@@ -108,7 +130,11 @@ See [November–December](../seasonal/november-december.md).
 A Santa Ana is an offshore-blowing **northeast** wind pattern, a normal
 recurring SoCal event (not an anomaly) that starts by mid-November and runs
 **through Thanksgiving** in a typical year — the timing is a seasonal norm,
-not a one-off (`NC3-3pJDEgo`).
+not a one-off (`NC3-3pJDEgo`). ⚠ Fact-check (single-source): this timing
+window is stated in one 2020-11-18 clip and not corroborated by another
+source in this note; "mid-November" is also this note's own inference from
+the video's date plus its "starting now" framing, not a date the source
+states outright.
 
 - **Mechanism — why the return leg from Catalina is dangerous in a Santa Ana:**
   swell/water normally moves *toward* the SoCal mainland beaches; an offshore
@@ -151,7 +177,12 @@ each hemisphere's circulation into three cells instead: the **Hadley cell**
 The boundaries between them produce the Northern Hemisphere's (SoCal's)
 prevailing surface-wind bands: calm **doldrums** at the equator (0°) and calm
 **horse latitudes** near 30°, bracketing the **trade winds** between them,
-plus the **polar easterlies** at the 60°–90° boundary (`dS0YUOyqN6g`).
+plus the **polar easterlies** at the 60°–90° boundary (`dS0YUOyqN6g`). ⚠
+Fact-check (single-source): this mechanism paragraph (the ~600/~0 km/h
+equator-to-pole rotation-speed figures and the three-cell degree bands) is
+single-sourced to one lecture clip and stated as generic atmospheric-science
+background, not a SoCal measurement — flagged for external verification
+against published values.
 
 This is the mechanism reason large-scale wind — and the swell it generates —
 has a consistent directional tendency rather than a random distribution. It
