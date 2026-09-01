@@ -42,6 +42,19 @@ this one (`ztpj1Xll0-U`, [Dana Point](dana-point.md)). Neither source ties
 either port to these three waypoints, and no source gives a distance or a run
 time to any of them. Bait doctrine and barge etiquette are
 [making bait](../bait/making-bait.md).
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` does not present the
+Newport trip as a run chosen against this coast. The intention was "the back
+side of the 152 ridge or maybe run out to the macro [Mackerel] bank"; a
+morning **west wind** "made it pretty tough to get out there so we… aborted",
+and the crew "fished our way up to 152 ridge towards the east and the cat"
+(@00:05:36–@00:05:56). The 152 ridge is where that trip ended up after
+aborting the longer run, not where it went instead of the beach, and no
+coastal alternative is discussed anywhere in the transcript — which names no
+Orange County coastal position at all between Newport and Dana Point. The
+Newport launch itself verifies verbatim ("we launched a newport",
+@00:05:36), as does the Dana Point clock in `ztpj1Xll0-U` ("bait at the Dana
+Point bait barge", @00:27:05; "all the boats leaving Dana Point at six a.m",
+@00:28:17).
 
 **Deep water starts close on this coast.** From Dana Point through Newport and
 Marina del Rey the bottom a **mile to a mile-and-a-half off the beach** is
@@ -50,6 +63,17 @@ Orange County coast north of Dana Point (cameron), inside the stretch that
 statement names — so range to the beach is short here and range to anything
 with relief offshore is not. This is the corpus's coastal generalisation read
 onto the zone by position, not a sounding taken at any of the three.
+⚠ Fact-check (contradicted-by-source): the depth and the three named ports
+verify verbatim in feet — "you get a mile mile and a half off the beach"
+(@00:00:40), "from dana point newport marina del rey you are in two to three
+thousand feet of water" (@00:00:54–@00:01:02) — but the source states the
+stretch with an explicit exception this page drops: "out not very far maybe
+up in huntington a little farther than anywhere else because we have the
+flats there" (@00:00:32) and "you're you're in except for up there in
+huntington" (@00:00:51). The generalisation is not uniform along its own
+stretch, which is exactly what reading it onto a zone by position assumes.
+[Southern California Bight](socal-bight.md) and [Dana Point](dana-point.md)
+carry the same sentence without the exception.
 
 ⚠ Flagged gap — no corpus source: the launch ramps and harbours this zone is
 run from, run distance or time to any spot, and the sea-state envelope the run
@@ -65,6 +89,14 @@ condition it satisfies. Latitude and longitude alone do not establish where a
 boundary actually runs; treat the corner as a warning that a line is nearby,
 not as the line. Neither Pelican Point nor Crystal Cove carries a boundary note
 (cameron).
+⚠ Fact-check (single-source): the Abalone Point corner comes only from the
+spot library's label on that one waypoint (cameron) — no corpus source states
+it, no MPA is named, and no southern or eastern limit and no take rule is
+given, yet it is a legal line quoted to three decimal minutes that a reader
+will navigate to. Same class as the Hospital 33°30.050'N row on
+[Dana Point](dana-point.md). The derived geometry itself recomputes exactly
+from [the spot library](../sources/spot-lists.md) (0.073' south, 0.110' west),
+as does every other coordinate figure on this page.
 
 **Regulatory — United States. Jurisdiction: California / CDFW for licences,
 seasons, bag and size limits, MPA boundaries and closures. Checked as of
@@ -120,6 +152,24 @@ Dana Point *south* toward Oceanside (`HzE4FHHcvTk`). Pelican Point lies
 and the paddy-dependent open-water program is a weaker reason to point a boat
 here than it is one zone south. Frame in
 [bight geography](bight-geography.md) and [August](../seasonal/august.md).
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` does not index the
+thinning to Dana Point, and this page's 5.010' derivation treats it as a
+latitude line. The source says the paddy fishing "continues up in the u.s
+waters basically all the way to san clemente island and heck for that matter
+all the way up the coast uh to get on the inside of cat. when you get further
+up the patties are fewer and further between and they're not always holding"
+(@00:03:20) — "further up" is the up-coast/inside-Catalina end, and "not
+always holding" is hardened here to "hold fewer fish". The best water is three
+coequal hedged options, "south of san clemente island or south of catalina or
+along the beach below dana point um towards the ocean side" (@00:03:36), of
+which this page keeps only the third; the source's own stated driver is
+pressure, not latitude — "the closer the patties are to a dock the more likely
+they are to get hit" (@00:03:46). The How-it-fishes bullet ("Paddies thin out
+above Dana Point") and the yellowtail row below restate the same reading.
+Already ledgered for [Southern California Bight](socal-bight.md),
+[Dana Point](dana-point.md) and
+[Oceanside / North County](oceanside-north-county.md), all of which carry this
+wording, so the fix is a cluster-pass edit, not a single-note one.
 
 The routers a planner should still open, none of them confirmed in this zone:
 
@@ -154,6 +204,23 @@ their stated edge near this latitude, and both are worth carrying onto a plan:
   wind-wave-driven mixing than the water above it, where a NW event can knock
   surface temperature down **5–8 °F** (`YZtX1MiT0y8`,
   [bight geography](bight-geography.md), [sea state](../conditions/sea-state.md)).
+  ⚠ Fact-check (contradicted-by-source): neither the **5–8 °F** figure nor the
+  **NW** direction is in `YZtX1MiT0y8`. Its only degree figure is a hedged
+  single-site Long Beach reading — "it looked like it was like 56 degree water
+  which is i think **seven maybe eight** degrees off from where it was before
+  this wind along the beach" (@00:05:15) — and the transcript never names a
+  wind direction at all ("a windy week here in southern california",
+  @00:00:14). What it does state for the hit side is an absolute: "the coast
+  above newport uh long beach [marina del] rey ventura coast all that stuff
+  got hit pretty hard uh water temp down in the 50s in those areas"
+  (@00:01:40). The Newport line itself verifies verbatim — "south of newport…
+  that area down there is less prone to the wind wave driven rollovers and
+  upwelling" (@00:02:02). [Southern California Bight](socal-bight.md) carries
+  the identical finding against the same source id, and
+  [bight geography](bight-geography.md), which owns the map, holds the same
+  5–8 °F under Cameron's standing adjudication (2026-08-26) that **the map
+  stands** and is to be backed by BightSST rollover statistics rather than
+  re-sourced — so this flag is on this page's citation, not on the map.
   ⚠ Flagged gap — no corpus source places Newport relative to these three
   waypoints, so which side of that line the zone falls on is unresolved. Do not
   assume it inherits the protected read.
