@@ -29,6 +29,12 @@ stands back up as the pull weakens. Match the presentation to what it shows.
 The transition from laid-down back to resurfacing is the cue to change gear
 before the bite window opens — watch the kelp, not the clock (`HnqiE05vdXs`).
 
+⚠ Fact-check (single-source): the ~20 ft figure is a single verbatim data
+point (kelp pulled down "like 20 feet" in a current described as "raging")
+(`HnqiE05vdXs`); no independent source corroborates this depth, and the same
+source does not independently state the laid-down/resurfacing rows of the
+table.
+
 ## Chum-drift angle vs boat lay — true current vs wind
 
 The angle of the chum line relative to how the boat is lying separates true
@@ -59,7 +65,13 @@ captains who know a spot well still sometimes have to reset the anchor after
 the initial guess doesn't hold. On his own skiff, the presenter resets the
 anchor 10–12 times in a day to stay precisely on the spot he wants — a
 normal, expected cost of fishing the spot correctly, not a sign of a bad read
-(`sIoNELGlxmk`). Ties to the same willing-to-reset-the-anchor framing in the
+(`sIoNELGlxmk`).
+
+⚠ Fact-check (single-source): the 10–12-times/day anchor-reset figure is this
+presenter's own skiff count, uncorroborated by any other cited source in the
+note.
+
+Ties to the same willing-to-reset-the-anchor framing in the
 fathom-curve worked example in
 [current structure](current-structure.md#fathom-curve-behavior-at-islands).
 
