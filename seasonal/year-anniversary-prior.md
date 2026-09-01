@@ -30,7 +30,10 @@ calendar date literally.
 The [bluefin](../species/bluefin-tuna.md) migration route repeats year over
 year: "go back to this date last year and the year before — pretty close to
 where they'll be" (`XLVUhV8DW64`). The same calendar week in prior years is
-therefore a usable prior for where the fish are now.
+therefore a usable prior for where the fish are now. ⚠ Fact-check
+(single-source): this is the note's central prior and the only cited source
+for it; no other cited source in this note corroborates the year-over-year
+route claim.
 
 - **Strongest in the fall fragmentation regime.** The route's repeatability
   tracks the [warm band's predictable retreat path](../conditions/water-regimes.md)
@@ -43,7 +46,11 @@ therefore a usable prior for where the fish are now.
   Duane Diego Mellor in the source note; no matching transcript found in the
   corpus.
 - **Pair it with the advection model when projecting forward.** Open-water
-  bluefin not holding structure move 10–15 nm overnight (`Blh2BA-7Ono`); see
+  bluefin not holding structure move 10–15 nm overnight (`Blh2BA-7Ono`). ⚠
+  Fact-check (single-source): matches the transcript verbatim ("those fish
+  aren't really holding hard to structure so they can move 10-15 miles
+  overnight") but the source says "miles," not explicitly nautical miles, and
+  no other cited source in this note corroborates the figure. See
   [report reading and forecasting](../planning/report-reading-and-forecasting.md).
 
 This is a same-week historical prior, not a promise. After a full moon, or
