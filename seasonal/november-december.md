@@ -25,7 +25,13 @@ A stale report is not today's water.
 (`OYOda6T3f-8`, `Z3rZqy2Pi8E`). A Santa Ana is the trigger to run Santa Rosa / San Miguel for
 shallow rockfish and lings — the one wind that lays that water down. The
 go/no-go rule from the 11/23/22 report: **2+ consecutive days of no-wind or
-Santa Anas** before committing to a Rosa/Miguel crossing (`Z3rZqy2Pi8E`). See
+Santa Anas** before committing to a Rosa/Miguel crossing (`Z3rZqy2Pi8E`).
+⚠ Fact-check (contradicted-by-source): the transcript states the opposite
+polarity — "I don't really look for a couple days of continuous no wind or
+Santa anas before I plan a trip up there," said right after warning that
+night-time west/northwest wind around Point Conception can make the crossing
+rough even when the morning looks calm; the speaker describes NOT waiting
+for a multi-day calm window, not a stated 2+-day go/no-go threshold. See
 [sea state](../conditions/sea-state.md) and
 [island structure](../locations/island-structure.md).
 
@@ -43,9 +49,19 @@ go) closes at year-end, so this is the last of the bottom season. See
   through late November** — 60–80 lb fish with a few 100+ lb fish mixed in,
   mostly on knife jigs or sinker rigs; daytime bites had mostly stopped
   (`Z3rZqy2Pi8E`).
+  ⚠ Fact-check (contradicted-by-source): this passage in the transcript
+  describes an unnamed zone found by running offshore from San Clemente
+  Island (8–12 mi off the island, the same water as this note's "Sharp
+  offshore edges" 63→61.5 °F edge below) — Tanner and Cortez Bank are never
+  named anywhere in the transcript; the grade/gear/night-dominant detail is
+  verbatim but the Tanner/Cortez attribution is not supported by this cite.
 - **Then the fishery reverts to the sub-30 lb winter grade by mid-December** —
   a standard late-fall/early-winter grade, occasional bigger fish aside, well
-  off the summer's big-fish fishery (`5D1vx29LVpI`). A same-week report
+  off the summer's big-fish fishery (`5D1vx29LVpI`). ⚠ Fact-check
+  (single-source): verified verbatim ("those fish aren't real big out there
+  there's more of a standard winter time late fall early winter grade... subs
+  30 pound fish with the occasional bigger one") but this note's only source
+  for the sub-30 lb figure. A same-week report
   (2022-12-14, exact bank not named) instead logged 40–100+ lb schools still
   running jumbo, unconfirmed as the same ground (`xzIaUEDklrE`) — see the
   evidence file.
@@ -78,7 +94,10 @@ on them. Find the hard edge on the
 [temp chart](../conditions/water-temperature.md), then work it on the meter —
 the fish won't be on the surface. A 63 → 61.5 °F edge in ~1 mi, 8 mi off San
 Clemente Island, showed sign on the edge with the fish deep and
-sonar-dependent (`Z3rZqy2Pi8E`) — see the evidence file. See
+sonar-dependent (`Z3rZqy2Pi8E`) — see the evidence file. ⚠ Fact-check
+(single-source): verified verbatim ("once we got out to about eight miles
+the water dropped from 63 to like 61 and a half on a pretty sharp edge") but
+this note's only source for the distance/temperature figures. See
 [electronics](../planning/electronics-and-sounder.md).
 
 ## Evidence
