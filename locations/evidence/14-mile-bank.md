@@ -38,7 +38,12 @@ one supplies the naming reading behind the bank's number.
   they reported a kelp paddy, "probably the best one we've seen all day," and "a
   nice jig stop with some Bonita up to about 8 lb"; bluefin were spotted
   repeatedly and never cooperated. Yellowtail came off the paddy on light tackle,
-  mixed in with the bonito. Same-day material is carried in
+  mixed in with the bonito. ⚠ Fact-check (contradicted-by-source): the "30 to
+  40 lb" line is said of the boiling fish spotted *before* the stop and the
+  "40 60 pounders" first grade comes after it; the fish being talked about that
+  season are "100 to 200 lb"; and the "up to about 8 lb" bonito jig stop is
+  reported from "offshore on the 209 area", not from the bank itself.
+  Same-day material is carried in
   [bonito](../../species/bonito.md), [flyline](../../techniques/flyline.md),
   [kelp paddies](../../conditions/kelp-paddies.md),
   [electronics and sounder](../../planning/electronics-and-sounder.md) and
@@ -47,7 +52,11 @@ one supplies the naming reading behind the bank's number.
   a private-boat day running Mackerel Bank → the 289 → "the 14" that found
   yellowfin and 60–80 lb bluefin in two areas; small spots of yellowfin up
   chasing bait and boiling late in the day refused surface lures, and wind chop
-  then shut down spotting. Carried in
+  then shut down spotting. ⚠ Fact-check (contradicted-by-source): the run was
+  Mackerel Bank → the 289 → the 152 → Avalon Bank → "ran down towards the 14",
+  the 60–80 lb bluefin spot was at the end of the shipping lanes rather than at
+  this bank, and the chop line is hedged ("enough wind chop to make kind of hard
+  to spot fish"). Carried in
   [yellowfin tuna](../../species/yellowfin-tuna.md) as the parent's
   presence-is-not-catchability example.
 - `yMiBtZ7k8-w` (BDOutdoors, 2021-02-04, San Diego offshore — Costa-sponsored
@@ -56,7 +65,11 @@ one supplies the naming reading behind the bank's number.
   fished on a preferred down-and-in drift along the contour edges; on a break day
   the 138 and the 182 are picked off the SST/chlorophyll plot for the mixing
   water and heavy current on them. No drift, depth or date is attached to this
-  bank specifically. Full provenance in
+  bank specifically. ⚠ Fact-check (contradicted-by-source): the rotation and the
+  mention of "the 14" are two separate speakers — the down-and-in drift list is
+  "the ridge or the 9 or the 178 or the 302 ... or even the 43", and "the 14"
+  occurs only in another speaker's generic surface-life example ("whether that's
+  the 9 mile bank or the 14 or the 43"). Full provenance in
   [swordfish evidence](../../species/evidence/swordfish.md).
 
 ## How it fishes

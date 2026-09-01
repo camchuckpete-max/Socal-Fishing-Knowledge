@@ -54,6 +54,9 @@ closure with its own depth limit but with no boundary given
 ([rockfish & lingcod](../species/rockfish-lingcod.md)), so whether this mark
 falls inside it is unverified — **check the CCCA boundary against your position
 with CDFW/NOAA before dropping.**
+⚠ Fact-check (unverifiable): whether 33°23.833'N 118°00.000'W sits inside the
+Cow Cod Conservation Area, and what depth limit applies there, cannot be
+settled from the corpus — queued for external regulatory verification.
 
 ## Structure & bathymetry
 
@@ -65,6 +68,11 @@ banks the stated exception, and "the 14" sitting **14 miles off the beach**
 mainland-side position, the Hospital 100-fathom curve off
 [Dana Point](dana-point.md), lies **12.2 nm** away — **14.0 statute miles**
 (cameron), the name read straight back off the chart.
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` names the Nine Mile Bank
+and "the 14" as distance-named ("the nine mile but it's nine miles off the
+beach, 14 is 14 miles off the beach") but gives no count and adds "there's
+banks like that up and down the coast" — the infobox's "one of the two SoCal
+banks named for distance" is a count the source does not state.
 
 ⚠ Flagged gap — no corpus source: depth, relief, bottom composition,
 high-spot shape, or the surrounding depth this bank rises out of. It is the one
@@ -116,11 +124,11 @@ considers this bank to belong to.
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Bluefin tuna](../species/bluefin-tuna.md) | summer (`-bw1KDfDjv4`) | Schools boiled on the surface over the warm pocket at the bank — a first grade out of the water at **40–60 lb** with smaller fish coming up behind, described as **30–40 lb** rather than the 100-pounders being talked about in 2015. Seen repeatedly and never got bit |
+| [Bluefin tuna](../species/bluefin-tuna.md) | summer (`-bw1KDfDjv4`) | Schools boiled on the surface over the warm pocket at the bank — a first grade out of the water at **40–60 lb** with smaller fish coming up behind, described as **30–40 lb** rather than the 100-pounders being talked about in 2015. Seen repeatedly and never got bit. ⚠ Fact-check (contradicted-by-source): the source separates the two numbers — "they're not the 100 Pounders yet ... this is that 30 to 40 lb fish" is said of the boiling fish *before* the stop, "that first grade came out 40 60 pounders and then the little ones came up behind them" comes after, and the fish being talked about are "100 to 200 lb"; the row reads as one grade being both 40–60 lb and 30–40 lb |
 | [Bonito](../species/bonito.md) | summer (`-bw1KDfDjv4`) | A jig stop producing bonito **to about 8 lb**, mixed in with yellowtail — the top of the SoCal bonito grade the corpus records, above the six-or-seven-pound San Clemente Island stop ([bonito](../species/bonito.md)) |
 | [Yellowtail](../species/yellowtail.md) | summer (`-bw1KDfDjv4`) | Quality fish off a kelp paddy on light tackle — the stop that salvaged the day when the bluefin shut off |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | August (2022, `CMQkHQMxbXM`) | Small spots of fish up chasing bait and boiling late in the day, which **refused surface lures** before wind chop shut down spotting altogether — presence, not catchability ([yellowfin tuna](../species/yellowfin-tuna.md)) |
-| [Swordfish](../species/swordfish.md) | ⚠ Flagged gap — no corpus source dates a session here | Named in the San Diego offshore-bank rotation — the Ridge, the 9 Mile Bank, **the 14**, the 43, the 178 and the 302 — all worked on a preferred down-and-in drift along the contour edges (`yMiBtZ7k8-w`). The fishery's band is **150–350 fathoms** ([swordfish](../species/swordfish.md), [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md)); this bank has no stated depth to check against it |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | August (2022, `CMQkHQMxbXM`) | Small spots of fish up chasing bait and boiling late in the day, which **refused surface lures** before wind chop shut down spotting altogether — presence, not catchability ([yellowfin tuna](../species/yellowfin-tuna.md)). ⚠ Fact-check (contradicted-by-source): the source hedges — "there was enough wind chop to make kind of hard to spot fish" — not a total shutdown, and it coincided with heading home |
+| [Swordfish](../species/swordfish.md) | ⚠ Flagged gap — no corpus source dates a session here | Named in the San Diego offshore-bank rotation — the Ridge, the 9 Mile Bank, **the 14**, the 43, the 178 and the 302 — all worked on a preferred down-and-in drift along the contour edges (`yMiBtZ7k8-w`). The fishery's band is **150–350 fathoms** ([swordfish](../species/swordfish.md), [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md)); this bank has no stated depth to check against it. ⚠ Fact-check (contradicted-by-source): the six-mark list merges two speakers — the down-and-in drift rotation is "the ridge or the 9 or the 178 or the 302 ... or even the 43", while "the 14" appears only in a second speaker's generic surface-life example ("whether that's the 9 mile bank or the 14 or the 43 and you got whales and dolphins and birds"), with no drift attached to it |
 | [Dorado](../species/dorado.md), [striped marlin](../species/striped-marlin.md), [rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source | Nothing in the corpus names this bank for any of them, in any month |
 
 **The summer day's scope is the complex, not just the mark.** The
@@ -136,6 +144,10 @@ yellowtail are carried here as the complex's, even though
 worked Mackerel Bank, then the 289, then "the 14" (`CMQkHQMxbXM`) — **29.3 nm**
 and **28.3 nm** from this position respectively (cameron), so the bank was the
 inshore end of a big loop rather than a first stop.
+⚠ Fact-check (contradicted-by-source): the stated run is Mackerel Bank → the
+289 → the 152 off Catalina's east end → Avalon Bank → "ran down towards the
+14"; the three-stop chain drops the 152 and Avalon Bank, and a 60–80 lb bluefin
+spot at the end of the shipping lanes came between Avalon Bank and this mark.
 
 **This is in the good half of the paddy split.** The best kelp-paddy water in the
 Bight runs south of San Clemente Island and Catalina and along the coastal strip
@@ -180,6 +192,11 @@ working (`-bw1KDfDjv4`,
 [water temperature](../conditions/water-temperature.md)). That is one day's
 reading, not a band — ⚠ Flagged gap — no corpus source gives the temperature
 range that gates a bite here.
+⚠ Fact-check (contradicted-internal): [bonito](../species/bonito.md) reads the
+same run-on line ("at about 66, 67 little off the bank and then it shoots up to
+68") as **66 °F on the bank, 67 °F a little off it and 68 °F in the pocket**
+between the 14, the 209 and the 267 — a different split of the same three
+numbers from this page's 66–67 °F on the bank climbing to 68 °F off it.
 
 **Run the radar while you search.** It doubles as a way to see where the rest of
 the fleet is sitting — the stated payoff on this bank complex was spotting a
@@ -191,6 +208,9 @@ chop shutting down spotting entirely once it came up (`CMQkHQMxbXM`), and the
 approach doctrine already assumes a sea state bad enough that you cannot stop
 the boat and have to idle at 1–1.5 mph instead (`DnSqw4r7A1s`). Sea-state limits
 are [sea state](../conditions/sea-state.md).
+⚠ Fact-check (contradicted-by-source): `CMQkHQMxbXM` says only "there was enough
+wind chop to make kind of hard to spot fish", so "shutting down spotting
+entirely" hardens a hedge (same finding as the yellowfin row above).
 
 **Not every school you find here will bite, and the answer is to keep moving.**
 Both dated days on this bank found fish on the surface that would not eat —
