@@ -61,6 +61,10 @@ arriving here:
   actually do (`P36VGPPf120`).
 - **Shore fishing is walkable from the strip** — one crew crossed the street for
   an evening session on the day they arrived (`T3cEQUqiH8E`).
+  ⚠ Fact-check (contradicted-by-source): `T3cEQUqiH8E` states this as an
+  intention, not an event — *"we might do some fishing tonight. Kind of sneak
+  across the street, do some little shore fishing"* — and no shore session is
+  ever shown or confirmed on camera. The walkability itself is supported.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish
@@ -85,6 +89,11 @@ taken at check-in, and the source's practice is to settle rooms and pangas on
 arrival rather than on the last day (`P36VGPPf120`). **Hotel Villa Vita** is a
 second hotel on the same strip used by another crew (`odiIWmut6gM`), and several
 more run along it with the same basic setup (`P36VGPPf120`).
+⚠ Fact-check (contradicted-by-source): the peso figures. `P36VGPPf120` renders
+the line as *"the two rooms two rooms cost 1,800"* and the speaker immediately
+glosses 1,800 as *"roughly 100 110 bucks"* — at his own quoted exchange rate
+that is 1,800 **per room**, not 1,800 for two rooms. The dollar figures
+($90–120/night, two-bed ≈ $90, four-bed ≈ $120) are stated plainly and stand.
 
 **Campo Archelón** is a different kind of base — an eco-camp on the beach run by
 **Antonio Resendes** with his mother and sister, offering palapas at **$24** and
@@ -92,6 +101,12 @@ cabins at **$120–160** with AC, Wi-Fi and kitchens, plus a café-restaurant op
 07:00–20:00 and closed Wednesdays. The family arrived in 1979 doing sea-turtle
 conservation work and now run ecotourism on the reasoning that conservation
 needs local economic opportunity behind it (`8c07sN9wxGM`).
+⚠ Fact-check (contradicted-by-source): `8c07sN9wxGM` says it was his **father**
+who moved in 1979, and never says sea turtles — the auto-captions render the
+subject as *"my dad who moved here in 79 to work in conservation of citros"*.
+The 1979 date and the economic-opportunity reasoning (*"the way to do
+conservation is create economic opportunities and in this case is ecoturism"*)
+are stated; "the family arrived" and "sea-turtle" are the note's inferences.
 
 **Panga operators named, all spoken of as good:** Fish Arms, FG's, Rick's, Hoy,
 Dagots, Eigor and Ivan — and **they talk to each other** about where fish are
@@ -156,6 +171,14 @@ A **150–300 ft jigging band** on the high spots sits between the last two, bit
 best at **150–180 ft** on the one trip that recorded it (`vqsD0qpwcJA`). That is
 a single-trip data point, not established zone doctrine — see the
 [yellowtail evidence file](../species/evidence/yellowtail.md).
+⚠ Fact-check (contradicted-by-source): 150–300 ft is not an observed band in
+`vqsD0qpwcJA` — it is doubly-hedged pre-trip hearsay, *"i think what we're
+going to be fishing is typically about 150 to 300 feet, that's kind of what
+i've heard is as far as the zones that we're going to be in"* — and the only
+depth actually fished is stated flat, *"we're fishing 150 180 feet deep"*, with
+no claim that it bit best there. The same hardening is already flagged on
+[yellowtail](../species/yellowtail.md); the front-matter `depth_band` carries
+the 150–300 figure too.
 
 ⚠ Flagged gap — no corpus source: charted positions for anything in this zone.
 [The spot library](../sources/spot-lists.md) stops at San Quintín on the Pacific
@@ -179,10 +202,10 @@ per species here.
 | [Cabrilla](../species/cabrilla.md) (leopard grouper) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | The rock fish: cast-and-wind at shoreline structure, coves and island lees (`T3cEQUqiH8E`, `6P34jI9q1tE`). One tournament fish went about **7.5 lb** gilled and gutted (`6P34jI9q1tE`) |
 | Snowy grouper (baqueta) | ⚠ Flagged gap — no corpus source: season | The deep program's target at 600–800 ft; one fish was called at maybe **50 lb** on the boat (`XRIjUgpuyZ8`), and another took over 25 minutes to bring up (`8c07sN9wxGM`). ⚠ Flagged stub — no corpus source yet for a snowy-grouper router |
 | Pargo / snapper | ⚠ Flagged gap — no corpus source: season | Taken on the deep program (`XRIjUgpuyZ8`) and on the shallow stops alongside yellowtail (`6P34jI9q1tE`, `odiIWmut6gM`) |
-| Golden cabrilla | ⚠ Flagged gap — no corpus source: season | A distinct colour morph that turns up in the same catch; one boat's first of a trip was about **5 lb** (`ojE5H6AdGGo`) |
+| Golden cabrilla | ⚠ Flagged gap — no corpus source: season | A distinct colour morph that turns up in the same catch; one boat's first of a trip was about **5 lb** (`ojE5H6AdGGo`) ⚠ Fact-check (contradicted-by-source): `ojE5H6AdGGo` gives only *"Joe got a pure golden… decent one like five pounder"* — it never calls the fish a cabrilla and never says it was the boat's first of the trip |
 | [White seabass](../species/white-seabass.md) | ⚠ Flagged gap — no corpus source: season | Turns up randomly, and not in the same areas as the yellowtail — you target it deliberately or not at all (`P36VGPPf120`) |
 | [Dorado](../species/dorado.md), [striped marlin](../species/striped-marlin.md), sailfish, occasional tuna | August–October | The late-season pelagic window; how hot the water gets decides whether it happens (`P36VGPPf120`) |
-| Roosterfish → [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | ⚠ Flagged gap — no corpus source: season | Seen randomly and hard to time. The source had not caught one and describes them as migrating on conditions and bait, present both here and higher up in the Sea of Cortez — "you kind of just got to get lucky" (`P36VGPPf120`) |
+| Roosterfish → [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | ⚠ Flagged gap — no corpus source: season | Seen randomly and hard to time. The source had not caught one and describes them as migrating on conditions and bait, present both here and higher up in the Sea of Cortez — "you kind of just got to get lucky" (`P36VGPPf120`) ⚠ Fact-check (contradicted-internal): the row routes roosterfish to [Pacific crevalle jack](../species/pacific-crevalle-jack.md), but that note is *Caranx caninus* and its own sourced quotes list roosterfish **beside** jacks as a separate fish; `P36VGPPf120` says "rooster fish", never crevalle or toro. Roosterfish has no router in the KB, so the arrow may be conflating two species |
 
 Also recorded: other bass (`P36VGPPf120`), a small Mexican hogfish seen on the
 rock (`ojE5H6AdGGo`), and squid coming up on the deep drops (`8c07sN9wxGM`).
@@ -209,6 +232,14 @@ captain picks a target: *"you kind of got to pick and choose what you want to
 catch and they'll go for it"* (`P36VGPPf120`). One captain's stated day-order is
 cabrilla first thing, then a move after roughly two hours to try for yellowtail
 and snapper (`odiIWmut6gM`).
+⚠ Fact-check (contradicted-by-source): the quoted line is accurate but is about
+a different species pair. In `P36VGPPf120` it answers a **white seabass**
+question — they *"also get [white sea]bass randomly… that's not always like in
+the same spot as the yellow tail… they're always in different bite areas"*,
+hence *"you kind of got to pick and choose"*. Nothing in `P36VGPPf120` puts
+yellowtail and cabrilla in different water; that split rests on
+`odiIWmut6gM`'s captain day-order alone, and it is also the basis for the
+"pick one for the day" line in this page's opening paragraph.
 
 **The fleet makes bait first.** Asked why every boat was stopped in the same
 place, the answer was that they were all catching bait for the dropper-loop
@@ -221,7 +252,13 @@ noted as unlike a SoCal boat (`wX7jUycIJ-U`). See
 looked different one morning the plan changed to running south to new water
 (`6P34jI9q1tE`); on a day blowing **25 kt with gusts to 40** the guide used the
 islands and coves to keep the ride tolerable and the crew fished every protected
-cove and island lee on the way home (`6P34jI9q1tE`). The zone-wide caution is on
+cove and island lee on the way home (`6P34jI9q1tE`).
+⚠ Fact-check (contradicted-by-source): these are two different days in
+`6P34jI9q1tE`. The *"blowing 25 straight with gusts of 40"* line is day two and
+describes the **ride back to the weigh-in**, with no cove fishing; the day that
+fished *"every single kind of protected cove or lee of an island"* is day
+three, whose wind is given only as *"getting gnarly… we're right on the edge"*
+with no numbers. The zone-wide caution is on
 [Cortez North](cortez-north.md): a blown-out morning at the bay is not a
 blown-out day, because 5 miles up the beach can be calm (`T3cEQUqiH8E`).
 
@@ -252,6 +289,12 @@ casting mechanics).
   [line & leader](../tackle/line-and-leader.md).
 - **A large twitch bait casts roughly twice as far as the smaller size**, which
   is what lets you reach structure from a drifting panga (`6P34jI9q1tE`).
+  ⚠ Fact-check (contradicted-by-source): the comparison in `6P34jI9q1tE` is
+  twitch bait against **jerkbait**, not large twitch bait against small — *"the
+  twitch bait I have realized the big size casts twice as far as the jerk bait
+  does"* — and the drifting-panga rationale appears nowhere. The transcript's
+  only size-to-size line is *"I got bigger bites on this one, but more bites on
+  the smaller profile"*.
 
 ### Yellowtail on bird schools
 
@@ -274,7 +317,11 @@ the rod's jig rating, vertical/knife shapes to punch down through current and
 wing-fall shapes to flutter, with the bump felt on the fall and the answer being
 to wind tight (`vqsD0qpwcJA`). A second crew ran **170–220 g** Shimano Shimmer
 Falls and found the long, skinny jigs outproduced the flatter falling shapes
-(`wX7jUycIJ-U`). Working a vertical-jig cadence with an **8 ft** rod was hard
+(`wX7jUycIJ-U`).
+⚠ Fact-check (contradicted-by-source): 170–220 g is not a range the crew ran —
+`wX7jUycIJ-U` recalls one jig, hedged: *"i think it was a 170 gram or maybe
+220"*. The long-skinny-beats-flat comparison is stated plainly and stands.
+Working a vertical-jig cadence with an **8 ft** rod was hard
 enough that the angler gave up and burned the jig like a
 [yo-yo](../techniques/yo-yo-iron.md) instead — the region's short-rod argument,
 in [rod & reel selection](../tackle/rod-and-reel-selection.md), is about exactly
@@ -287,6 +334,10 @@ A separate program out of the same boat: a **single high
 and steady"** in 600–700 ft for big grouper and pargo, with cut bait on single
 and double dropper loops picking away alongside it (`XRIjUgpuyZ8`). The heavy-
 leader variant is [sliding sinker](../techniques/sliding-sinker.md).
+⚠ Fact-check (contradicted-by-source): pargo is not the deep program's target
+in `XRIjUgpuyZ8` — the stated target is baqueta, *"we're going for those big
+groupers those paquetas"* — and no pargo or snapper is named or landed anywhere
+in that transcript. The same cite carries the Pargo / snapper row above.
 
 **Jig weight for the deep program is unresolved in the corpus.** Section order
 below is not a ranking:
@@ -295,6 +346,12 @@ below is not a ranking:
   600–700 ft ground beside the dropper loops (`XRIjUgpuyZ8`); a tournament crew
   moving to deeper water for baqueta and snowy grouper reached for **180–200 g**
   knife jigs to slow-pitch (`T3cEQUqiH8E`).
+  ⚠ Fact-check (contradicted-by-source): the Colt Sniper 150 g was never fished
+  on that ground — in `XRIjUgpuyZ8` it is dockside anticipation before the run
+  out, *"I'm kind of anticipating off the bat to be fishing the Colt snipers
+  pretty hard 150 gram"*. Only the 170 g knife jig is confirmed out there
+  (*"I'm fishing like 170 gram knife jig right now"*). The 180–200 g half of
+  this bracket, from `T3cEQUqiH8E`, is stated on camera and stands.
 - **400–500 g.** A crew fishing over 600 ft recommends knife jigs of **400–500
   g** for snowy grouper here, with a 500 g red-and-white-polka-dot jig the
   producer on their day (`8c07sN9wxGM`). ⚠ Fact-check (single-source): a
@@ -318,6 +375,14 @@ or by depth alone, and no source describes what the sounder shows.
 
 **No spot in this zone has a charted position in the KB, so no spot pages hang
 below it.** The named grounds the corpus does record are:
+
+⚠ Fact-check (contradicted-internal): two spot pages now do hang below this
+zone — ["La Rasa" high spot](la-rasa-high-spot.md) and
+[Cardonosa / "Isla Cartito"](cardonosa-isla-cartito.md), both carrying
+`parent: bahia-de-los-angeles.md` and both listed in this page's own children
+block — and each states in its own text that it carries no charted position.
+The no-spot-pages sentence above predates them, and "La Rasa" is missing from
+the list below entirely.
 
 - **Cardonosa** — an island with a rising shelf up to about 60 ft, fished on
   what the crew took to be the south side (`odiIWmut6gM`).
