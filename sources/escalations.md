@@ -460,3 +460,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T06:06:49Z — conditions/deep-scattering-layer.md — worker-escalate
 - run: 33475510663
 - reason: worker agent returned garbage: 'I'll wait for the background agents completion notifications rather than polling' with no LOG line and no commit; treated as subagent-failure per protocol
+
+## 2026-09-01T06:26:53Z — conditions/tide-and-slack.md — worker-escalate
+- run: 33475510663
+- reason: worker agent returned garbage: 'Waiting for the first verification batch to complete before finalizing the fact-check flags.' with no LOG line and no commit; treated as subagent-failure per protocol
