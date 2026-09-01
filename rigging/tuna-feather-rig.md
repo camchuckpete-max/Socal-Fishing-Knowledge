@@ -34,7 +34,11 @@ everything that swims in SoCal offshore waters (`CWVPLM6NheY`).
   (`CWVPLM6NheY`).
 - **Leader:** about 6 ft of leader material, 60-80 lb test. 40 lb was the
   older standard but chafes unnoticed under load and snaps off; 60-80 lb
-  holds unless the fish are unusually leader-shy (`CWVPLM6NheY`).
+  holds unless the fish are unusually leader-shy (`CWVPLM6NheY`). ⚠
+  Fact-check (single-source): verified verbatim in the cited transcript but
+  this note cites no other source anywhere, and the parallel restatement in
+  [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md) cites the
+  same transcript rather than an independent one.
 - **Connection knots:** a barrel swivel is tied to each end of the leader
   with whatever knot the angler is confident in — improved clinch, San Diego,
   or uni all hold (`CWVPLM6NheY`).
@@ -42,7 +46,11 @@ everything that swims in SoCal offshore waters (`CWVPLM6NheY`).
   so the hook point can pass through the swivel's round end, then feed the
   hook through the swivel eye and secure it to the swivel with a zip tie —
   a smaller tie is better so it doesn't affect the lure's action — and trim
-  it (`CWVPLM6NheY`).
+  it (`CWVPLM6NheY`). ⚠ Fact-check (single-source): the ~9/0 hook size
+  matches the transcript's own hedge ("I think this is about a size 9-0")
+  but is uncorroborated — no other source in the note, or in [Tuna Feathers
+  and Skirts](../lures/tuna-feathers-and-skirts.md), gives a hook size for
+  this rig.
 - **Swivel does double duty:** it lets the hook pivot freely on every axis,
   so a knocked or fouled hook swings itself back into position, and it
   spaces the hook off the head (`CWVPLM6NheY`).
