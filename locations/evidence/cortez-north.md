@@ -41,6 +41,15 @@ observation. Observations never change the note's stated doctrine.
   "Bahía de Los Ángeles" while its own narration says "aboard the Tony Reyes
   out of San Felipe," the naming conflict carried into the parent's Zones
   section; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): there is no naming conflict. The "Tony
+  Reyes out of San Felipe" line is the narrator's channel-update preamble about
+  a trip he had just returned from, explicitly separated from the footage —
+  "that being said let's enjoy this last little video of bay of LA[;] I was able
+  to finally find the SD card that was missing." The episode is a truck-and-hotel
+  Bay of LA trip ("the local style Bay of LA"), not a mothership trip, and so is
+  not part of the 2022 Tony Reyes series. Separately, the transcript says only
+  "we got two goldens on board within the first hour" — it never says "golden
+  cabrilla" and never calls them a colour morph.
 - `EmZO8QiOfik` (Cesar, via Dirty Hookers, 2025-03-04, "CABRILLA | How, When,
   & Where to Fish!"): the through-the-day depth ladder — fish rise 30–40 ft to
   a surface jerkbait early, drop to 60–80 ft by roughly 09:00–10:00, and the
@@ -48,6 +57,10 @@ observation. Observations never change the note's stated doctrine.
   submerged rock once the sun is up, and the 7'10"–8 ft ~50 lb jerkbait
   outfit on a 6.5:1–7:1+ level-wind at 2–3 casts per minute; registered
   voice, single cabrilla-specific appearance — medium, model picks low.
+  ⚠ Fact-check (contradicted-by-source): the gear ratio is a closed range in the
+  source — "we're fishing 6 and 1/2 to one to 7 to 1 reels… anything slower than
+  the 6 and 1/2 you have to work a lot harder". The "+" is not stated. The depth
+  ladder, the dark-spot read, the rod and the cast rate all verify.
 - `M8hOYQ_6rSg` (Cesar, via Dirty Hookers, 2025-05-20, "Sea of Cortez &
   EVERYTHING to Fish!"): the trip quiver — a 50–60 lb 6.5–7 ft all-rounder, a
   100 lb 6–6.5 ft grouper rod doubling as the troller, an 8 ft 20–50 lb jig
@@ -57,6 +70,14 @@ observation. Observations never change the note's stated doctrine.
   Bay of LA skippers; sliding egg sinkers from 8 oz minimum to 16 oz standard;
   barracuda used as live bait for grouper with trap hooks toward the middle or
   tail; registered voice, single mention — medium, brand picks low.
+  ⚠ Fact-check (contradicted-by-source): "sliding egg sinkers from 8 oz minimum
+  to 16 oz standard" attaches the numbers to the wrong things. "At least 8 oz
+  and go to minimum of 16 or if not heavier" is the general what-to-bring range;
+  the slider itself is "an 8 oz slider. Sometimes you put two or three of these
+  things on there," and 16–20 oz belongs to the *torpedo* alternative on a ~6 in
+  breakaway. Nothing is called a 16 oz standard. The rod quiver, the 150–350 g
+  sizing (source adds "or up to 400 g") and the barracuda trap-hook detail all
+  verify.
 - `dEPuDrhoClM` (Ray Sharifi, Dirty Hookers, 2023-03-03, November 2022 Tony
   Reyes panga trip; departure port/area not stated on camera): 16 oz held
   bottom for the whole of the grouper fishing, stepping to 24 oz for bigger
@@ -82,6 +103,12 @@ observation. Observations never change the note's stated doctrine.
   mackerel worked "slow and steady," with a 150 g Colt Sniper and yo-yo iron
   as the jig side of the same day, aboard a new panga with current
   electronics; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): "pargo" is not in this transcript — the
+  named target is grouper ("those big groupers those paquetas [baquetas]",
+  repeated "snowy grouper"). The rig is not only the single high dropper ("we're
+  getting them on cut bait on single and double dropper loops"), live mackerel is
+  stated for the first spot only, and the day's headline grouper came at
+  "800 feet", above the 600–700 ft band recorded here.
 - `odiIWmut6gM` (Capt. Luke, Artemis Charters, upload 2026-07-02, Bahía de los
   Ángeles; on-camera dates are day-of-month only, so the trip month is not
   established): cabrilla and yellowtail stated to sit in different areas so a
@@ -91,6 +118,14 @@ observation. Observations never change the note's stated doctrine.
   lure crew can run straight to the rock; white seabass turn up randomly;
   tackle beyond the border runs to roughly twice the price with "no tackle
   shop to really speak of"; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): three entries on this line do not come
+  from this transcript. The captain plans cabrilla and yellowtail in the same day
+  ("go for [cabrilla] and yellow tail too… maybe try for white [seabass]"), so nothing
+  states they "sit in different areas"; the only white-seabass mention is that
+  hedged optional target, not a random appearance; and the transcript carries no
+  price or cost statement at all — the "twice the price" figure is
+  `P36VGPPf120`'s. The "no tackle shop to really speak of" quote and the
+  two-hour day-order both verify verbatim.
 - `6P34jI9q1tE` (Nate Winnicki, BDOutdoors, 2026-05-30, Puro Fierro tournament
   part 2, Bahía de los Ángeles): the shallow program stated as "casting and
   winding until we get bit," with big yellowtail burying anglers in the
@@ -125,6 +160,11 @@ observation. Observations never change the note's stated doctrine.
   confirmed as the same species as the California fish, so
   [barracuda](../../species/barracuda.md) logs this rather than gating to the
   region; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the transcript never names Bahía de los
+  Ángeles — it places the trip only as "Baja", "Sea of Cortez" and "camping…
+  miles and miles away from civilization" — and the seventh fish is called off a
+  rocky point ("now we're on that point right there"), not a beach. The count
+  ("it's like my seventh barracuda today") and the shore-based format verify.
 
 ## Season shape
 
@@ -141,6 +181,13 @@ observation. Observations never change the note's stated doctrine.
   plan 2–3 months out then follow the operators; roosterfish present but a
   matter of luck and more reliable further south; the hosts are explicit they
   cannot give "a hard fast answer"; unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): two entries mis-read the source. "The
+  2026 season… biting through winter from November" resolves the speaker's
+  relative time wrongly — he says "this year has been kind of different… since
+  November," and the video uploaded 2026-08-06, so the run is November 2025
+  through the 2025–26 winter. And "more reliable further south" reverses the
+  roosterfish line, which points the other way: "we've seen them down there
+  randomly um that far and it's higher up in the Sea of Cortez as well."
 - cameron (September program, Bahía de los Ángeles): the yellowtail are on the
   bottom in September, worked with dropper loops and yo-yo iron — an
   independent arrival at the same heat-and-sound mechanism `P36VGPPf120`
@@ -162,6 +209,12 @@ observation. Observations never change the note's stated doctrine.
   roof"; when the pangas cannot launch the fallback is fishing the mothership
   sport-boat style, "everyone's on the bow slinging jigs"; unregistered
   channel.
+  ⚠ Fact-check (contradicted-by-source): 8–9 hours is the announced plan, not
+  the run — "it sounds like we're gonna make it eight to nine hour drive back to
+  where we fished the first day" is followed at 03:04 by "we're almost at our
+  destination five hours later." The relocation is also never called overnight;
+  it departs after the pangas are loaded and runs in daylight. The 12–15 ft
+  rollers, the roof quote and the sport-boat fallback verify.
 - `BSNGeduOHYM` (Dirty Hookers, upload 2023-04-20, San Felipe mothership;
   "Ep.7"): pangas held on deck on arrival — "it's been a little too snotty to
   take the pangas out" — and on a marginal morning only three launched,
