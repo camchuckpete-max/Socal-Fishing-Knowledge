@@ -476,3 +476,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T09:25:11Z — locations/cedros-island.md — verify-escalate
 - run: 33487316186
 - reason: fog/radar passage is a Simrad sponsor spot (Gulf of Mexico/Venice marina) misattributed as Cedros captain doctrine, and the page is internally inconsistent on whether Dono is in-zone — both need a follow-up transform/relocation unit, not just flags
+
+## 2026-09-01T09:51:57Z — locations/regions.md — verify-escalate
+- run: 33494115028
+- reason: verifier found no working-tree diff for the factcheck worker pass and could not confirm whether the zero-flag outcome (all claims cameron-attributed, no contradictions found) is legitimate or a missed worker step
