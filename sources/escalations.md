@@ -512,3 +512,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T19:32:46Z — locations/ensenada.md — check-note-failed
 - run: 33548919922
 - reason: FAIL  locations/ensenada.md: uncited direct quote: **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
+
+## 2026-09-01T23:03:58Z — locations/upper-500-hidden-bank.md — check-note-failed
+- run: 33568530870
+- reason: FAIL  locations/upper-500-hidden-bank.md: uncited direct quote: **Read as a depth, the 500 sits below every working band in the KB.** The SoCal
