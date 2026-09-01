@@ -28,6 +28,18 @@ sets the bait-barge rush (`ztpj1Xll0-U`), and it is the Bight's **northern
 paddy limit** — [kelp paddies](../conditions/kelp-paddies.md) are scarcer and
 hold fewer fish north of here, and the good paddy water runs from Dana Point
 south toward [Oceanside](oceanside-north-county.md) (`HzE4FHHcvTk`).
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` never indexes the
+thinning to Dana Point — "when you get further up the patties are fewer and
+further between and they're not always holding" (@00:03:20) is said of a run
+that continues "all the way to san clemente island and heck for that matter
+all the way up the coast uh to get on the inside of cat" — and the best-water
+line is three co-equal hedged options, "south of san clemente island **or**
+south of catalina **or** along the beach below dana point um towards the ocean
+side" (@00:03:36), of which this page keeps only the third and promotes it to
+a limit. The same wording repeats under What's there below, and is already
+flagged on `locations/socal-bight.md` and
+[Oceanside / North County](oceanside-north-county.md) — both of which name
+this page as carrying it.
 
 ## Getting there
 
@@ -37,6 +49,21 @@ crowd converges on the barge and a line forms — by a quarter to six it is
 already building (`ztpj1Xll0-U`, `bM2vUS1B-yQ`). Leaving the dock at **5:00
 a.m.**, or **4:30**, beats the line entirely; **7:00 a.m.** is too late
 (`ztpj1Xll0-U`). Loading mid-day also avoids it (`7WapaxdtjQg`).
+⚠ Fact-check (contradicted-by-source): the quarter-to-six figure is
+`bM2vUS1B-yQ` alone and that transcript names no port in the barge passage —
+"who goes to the Bay Barge at six? everybody all the charter boats all the
+half day boats all the three-quarter day boats and then you get there at
+quarter to six and you're like I can't believe there's a line" (@00:27:26).
+Dana Point appears in that video only outside the passage, so the
+port-specific version of the clock rests on `ztpj1Xll0-U` alone.
+⚠ Fact-check (contradicted-by-source): `ztpj1Xll0-U` says "or wait I can't
+get up that early leave at seven guess what it's all gone" (@00:28:26), which
+parallels "you leave at five or four Thirty no line" (@00:28:23) — the
+referent is the line, not the morning window. The same speaker in
+`7WapaxdtjQg`, the source cited in the next clause, recommends 7:00 outright:
+"If you can't get up in time, get there at 7:00. If you do that simple thing,
+you'll never see a line" (@00:01:14). [Making bait](../bait/making-bait.md)
+carries both halves; this page keeps only "too late".
 
 **At the barge itself** — the Dana Point barge is the corpus's worked example
 — the barge marks the side it wants boats tied to, here **a cone on the ocean
@@ -47,6 +74,10 @@ no attendant is visible; never board the barge to fend your boat off
 A **21 ft Wellcraft based in Dana Point** carries a **60-gallon** bait tank
 (`m-M0iwX8DjA`) — the small-boat end of the "biggest tank the boat will carry"
 ladder.
+⚠ Fact-check (contradicted-internal): [bait tanks](../bait/bait-tanks.md)
+carries a smaller worked example below this one — Cameron's 22 ft panga at
+**30 gallons** — so 60 gallons is not the small-boat end of that ladder; the
+linked note calls it "a small-end data point", not the smallest.
 
 **Deep water starts close.** Across the stretch from Dana Point through
 Newport and Marina del Rey, the bottom a **mile to a mile-and-a-half off the
@@ -70,12 +101,23 @@ wind direction — a windy day pushes the choice **south**, so the paddle home
 has the wind at your back rather than into it, with guided runs of roughly
 **8 miles** cited (`LqW32NSkObY`). Execution is
 [kayak bass fishing](../techniques/kayak-bass-fishing.md).
+⚠ Fact-check (contradicted-by-source): the source hedges both halves and never
+says "wind at your back" — "if it's going to be super windy, **I might** head
+south… mainly because I don't want to that that resistance coming back home"
+(@00:09:13), which is avoiding resistance, not gaining a push. The 8 miles is
+likewise hedged and is a client-ability check, not a planned run length:
+"even though it's a few miles, sometimes sometimes it's like the 8 miles. I
+got to make sure that you guys can actually handle that" (@00:09:47).
 
 **One MPA edge is charted in this zone.** At **The Hospital 100 Fathom Curve**,
 the library's boundary note is to stay **south of 33°30.050'N** (cameron). No
 other spot here carries one, and latitude alone does not establish where a
 boundary runs. California / CDFW — verify current MPA boundaries, closures and
 take rules with CDFW before fishing (as of 2026-08).
+⚠ Fact-check (single-source): the boundary rests entirely on one spot-library
+annotation (cameron) with no corpus source and no MPA named; a latitude with
+no MPA name, no eastern/western limit and no take rule cannot be checked
+against CDFW from inside the corpus.
 
 ⚠ Flagged gap — no corpus source: the launch ramps and hoists in Dana Point
 Harbor, run time or distance from the harbour mouth to any spot in the zone,
@@ -100,6 +142,12 @@ sorting into four families (cameron):
   off Monarch Boilers at effectively the same longitude — a rock-and-beach pair
   rather than two separate runs; San Mateo Point and Trestles are a tighter
   pair still, under two-tenths of a minute apart, at the zone's south end.
+  ⚠ Fact-check (contradicted-internal): "under two-tenths of a minute" counts
+  latitude only. San Mateo Point and Trestles are 0.170' apart in latitude but
+  0.520' apart in longitude — **0.47 nm** on the library's own coordinates,
+  which is *wider* than the Monarch/Salt Creek pair this sentence calls the
+  looser of the two (0.405' of latitude, 0.02' of longitude, **0.41 nm**).
+  The ranking is inverted.
 - **Built and deep structure — two.** **San Clemente Artificial Reef**
   (33°23.890'N 117°37.200'W) and **The Hospital 100 Fathom Curve**
   (33°29.500'N 117°47.100'W). The Hospital is the zone's only spot out on a
@@ -127,11 +175,11 @@ shore mark; and the extent, health or seasonality of the two kelp beds.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Calico bass](../species/calico-bass.md) | year-round, with a stated personal temperature preference of roughly **65–68°F** and fish going lethargic and dropping to cooler water past about **70°F** (`LqW32NSkObY`) | The zone's kelp and boiler rock are the structure. Calico here are worked mostly in **0–8 ft** and **20–100 ft** (`LqW32NSkObY`), and came off the Dana Point kelp bed in July at anchor, three of them on a squid strip in a morning session (`M6U_FVdosr4`) |
-| [Sand bass](../species/sand-bass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Five sand bass came off the Dana Point kelp bed in a single July morning session, every one on a strip of squid (`M6U_FVdosr4`) |
-| [Barracuda](../species/barracuda.md) | July on the kelp (`M6U_FVdosr4`) | "Short" barracuda showed mid-session in the Dana Point kelp bed and were taken on the **smaller sardines** — a bait-size read that runs opposite the big-mackerel screen used at the islands (`M6U_FVdosr4`) |
-| [Bonito](../species/bonito.md) | early July (`poqjnb1r1zk`) | Open-water schools just off the harbour, taken on the troll either side of the harbour mouth. Bonito are around the zone in numbers when they are in — "a lot of Bonita around right now" was the reason for the trip (`poqjnb1r1zk`) |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | **Porpoise-associated** yellowfin were trolled on small King Buster-style lures around Dana Point in the **mid-2010s**, a program later rebuilt with a tungsten head (`ouBrIdO7d4k`). This is open water offshore of the zone's coastal spots, not the spots themselves |
+| [Calico bass](../species/calico-bass.md) | year-round, with a stated personal temperature preference of roughly **65–68°F** and fish going lethargic and dropping to cooler water past about **70°F** (`LqW32NSkObY`) ⚠ Fact-check (single-source): one guide's stated observation, disclaimed on camera as such — "at least in my opinion, and that's what I've noticed over the years… it's not a fact. It's not a statement. It's just what I've observed" (@00:12:26) — and no unit is spoken for either figure; the corpus carries no second temperature band for calico | The zone's kelp and boiler rock are the structure. Calico here are worked mostly in **0–8 ft** and **20–100 ft** (`LqW32NSkObY`), and came off the Dana Point kelp bed in July at anchor, three of them on a squid strip in a morning session (`M6U_FVdosr4`) ⚠ Fact-check (contradicted-by-source): `M6U_FVdosr4` names the Dana Point kelp bed only for the **afternoon** second-half-day trip; the 5-sand-bass/3-calico tally is reported as "we had five sand bass and three calico bass **this morning**" (@00:01:15) with no place named, and no month is spoken anywhere — July is the 2013-07-04 upload date. The same bed-and-month framing repeats in the sand bass and barracuda rows and under How it fishes |
+| [Sand bass](../species/sand-bass.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | Five sand bass came off the Dana Point kelp bed in a single July morning session, every one on a strip of squid (`M6U_FVdosr4`) ⚠ Fact-check (contradicted-by-source): the count and the squid strip are verbatim, but the bed and the month are not — see the calico row above; the transcript places only the afternoon trip at the Dana Point kelp bed and speaks no date |
+| [Barracuda](../species/barracuda.md) | July on the kelp (`M6U_FVdosr4`) | "Short" barracuda showed mid-session in the Dana Point kelp bed and were taken on the **smaller sardines** — a bait-size read that runs opposite the big-mackerel screen used at the islands (`M6U_FVdosr4`) ⚠ Fact-check (contradicted-by-source): the only barracuda bait named on camera is a **big** sardine — "Ate a big sardine in the kelp bed" (@00:05:33). The smaller-sardine line follows both species at the wrap — "some short barracuda flopping around in the kelp, some bass starting to flip around in the kelp. They were actually biting the smaller sardines today" (@00:08:29) — so it is not attributed to barracuda alone. [Barracuda](../species/barracuda.md) already carries that same finding |
+| [Bonito](../species/bonito.md) | early July (`poqjnb1r1zk`) | Open-water schools just off the harbour, taken on the troll either side of the harbour mouth. Bonito are around the zone in numbers when they are in — "a lot of Bonita around right now" was the reason for the trip (`poqjnb1r1zk`) ⚠ Fact-check (contradicted-by-source): the quote and the both-sides-of-the-harbour troll verify, but nothing on camera describes schools, open water or a distance off the beach; and "early July" is the 2019-07-02 upload date, spoken nowhere in the transcript |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | ⚠ Flagged gap — no corpus source: season shape scoped to this zone | **Porpoise-associated** yellowfin were trolled on small King Buster-style lures around Dana Point in the **mid-2010s**, a program later rebuilt with a tungsten head (`ouBrIdO7d4k`). This is open water offshore of the zone's coastal spots, not the spots themselves ⚠ Fact-check (contradicted-by-source): the speaker says **dolphin** throughout, never porpoise; the lures were actual King Busters, not King Buster-style — "that's been a little trolling secret down in Dana Point we used to troll King Busters… they were hammering yellin on the doph" (@01:22:50), "little the cheap ones of those they'd fall apart"; and "mid-2010s" is derived from a hedged relative figure, "**probably** 10 12 years ago" (@01:22:55), against a 2025-03-08 upload. The rebuilt head is stated as **tungsten 1/2 oz** (@01:20:17), a weight this row drops |
 
 **The paddy line runs through here.** Paddies are **scarcer and hold less north
 of Dana Point**, and the Bight's best paddy water runs **from Dana Point to
@@ -151,11 +199,20 @@ month-by-month season is scoped here for any species.
 **The day starts at the barge, and it starts early.** Beat the 6:00 a.m. fleet
 wave rather than joining it (`ztpj1Xll0-U`) — see Getting there. The one dated
 skiff start in the corpus was on the water at **5:45 a.m.** (`poqjnb1r1zk`).
+⚠ Fact-check (contradicted-by-source): 5:45 is the time at the dock, not on
+the water — "good morning guys just got down here it's about 5:45 right now"
+(@00:00:00), and it is hedged ("about"). The transcript gives no launch time.
 
 **On the kelp: anchor, don't drift.** The worked Dana Point kelp session was
 fished **at anchor** on a light current running through the bed, not drifted
 through it (`M6U_FVdosr4`) — the same call the general kelp doctrine makes,
-where drifting through gives up the edge-holding pattern entirely. Which
+where drifting through gives up the edge-holding pattern entirely.
+⚠ Fact-check (contradicted-internal): no linked note states an anchor-over-
+drift rule for kelp. [Bass structure](bass-structure.md) says only that edges
+and pinch-points produce, and [calico bass](../species/calico-bass.md) carries
+a drift row of its own — surface iron "worked on the drift" over reef bottom —
+alongside its chum-and-anchor row, so drifting is not given up on there. The
+half-sentence is uncited. Which
 corner of a bed to sit on is a current read:
 [current structure](../conditions/current-structure.md), with the structure
 read in [bass structure](bass-structure.md).
@@ -168,7 +225,14 @@ bass "actually biting the smaller sardines today," and called it a surprise
 (`M6U_FVdosr4`). Both results are from the same bed on the same day, so this is
 not a doctrine conflict to resolve — it is a live bait-choice that turns on the
 session, and the practical call is to have squid strip and small sardines both
-aboard. Execution is [flyline](../techniques/flyline.md) and
+aboard.
+⚠ Fact-check (contradicted-by-source): the alternative the crew actually
+weighed was a **slab sardine**, not a sardine strip — "I suggest today fishing
+with a strip of squid or a **slab sardine** … but uh I suggest that squid
+today" (@00:01:02). The "same bed" framing is also not on camera: only the
+afternoon trip is placed at the Dana Point kelp bed (see the calico row above),
+and no date is spoken.
+Execution is [flyline](../techniques/flyline.md) and
 [fishing live bait](../bait/fishing-live-bait.md); for anglers who cannot cast,
 the same trip pattern uses [dropper loop](../techniques/dropper-loop.md)
 straight down.
@@ -189,6 +253,13 @@ Point, a windy day pushes the choice south (`LqW32NSkObY`). Spots are
 relocated on paired shore landmarks (a lifeguard tower, a buoy) at a fixed
 offset rather than on electronics, and a kelp frond serves as an anchor
 (`LqW32NSkObY`).
+⚠ Fact-check (contradicted-by-source): the offset runs off a **single** mark,
+not a pair — "I'll use uh buoys. Just I know that **100 yd south of that buoy**
+I know there's a rock pile over there" (@00:08:26); the lifeguard station and
+tower are listed as alternative landmark types, not the second leg of a
+bearing. "Rather than on electronics" also overstates him: he says he has gone
+out with no fish finder and succeeded, but separately that "I always have a
+fish finder on there" (@00:22:45).
 
 **Rain is the zone's water-quality driver.** Runoff after heavy rain is the
 named cause of dirty water in this home water; bass then hunker on the bottom
@@ -197,6 +268,17 @@ fish up into a top-water window. In murk, a blade bait — a **1 oz+
 spinnerbait** — cuts through in a way a subtler presentation does not
 (`LqW32NSkObY`). Mechanism in
 [water color](../conditions/water-color.md).
+⚠ Fact-check (contradicted-by-source): the murk read and the 1 oz floor are
+two separate statements with different reasons, fused here. Blades cut colored
+water — "if the water's super murky, you want to get that kind of lure that has
+more of a **shine** to it… these blades will actually cut through that colored
+water" (@00:05:43) — but the stated reason for **≥1 oz** is size selection,
+not penetration: "I don't like to use anything smaller… mainly they cut the
+weeds out the smaller bass" (@00:06:32). No comparison against a subtler
+presentation is made. The weight threshold is also flagged single-source on
+[water color](../conditions/water-color.md). Separately, the source says
+"because of all the the rain we've had" (@00:07:31) — rain, not runoff, and
+not named as *the* driver for this zone.
 
 Zone guides — the trip-level story:
 
@@ -223,6 +305,10 @@ structure is rather than by how close they sit:
   of latitude apart.
 - **The harbour kelp** — Dana Point Kelp (Red Buoy), the bed the corpus's one
   worked session was fished on, and Barber Poles just south of it.
+  ⚠ Fact-check (contradicted-internal): this list says it groups "by what the
+  structure is", but Structure & bathymetry above classifies Barber Poles as
+  boiler rock, not kelp. It is also not "just south": 0.61' of latitude but
+  1.97' of longitude from the Dana Point bed — **1.75 nm**, and mostly east.
 - **The San Clemente city stretch** — San Clemente Kelp and San Clemente
   Artificial Reef, both off the mainland city and neither of them San Clemente
   Island.

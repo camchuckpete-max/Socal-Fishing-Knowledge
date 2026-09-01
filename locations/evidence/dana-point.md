@@ -90,6 +90,12 @@ observation. Observations never change the note's stated doctrine.
   and no gauge is stated on camera. Unregistered channel — medium confidence.
   Harvested from [barracuda](../../species/barracuda.md) and
   [calico bass](../../species/calico-bass.md).
+  ⚠ Fact-check (contradicted-by-source): the place label on this line is not
+  on camera. The transcript names the Dana Point kelp bed only for the
+  **afternoon** second-half-day trip ("We have a little current Dana Point
+  right here in the kelp bed", @00:01:47); the 5-and-3 tally is "this morning"
+  (@00:01:15) with no place attached. 2013-07-04 is the upload date — no date
+  is spoken. Same finding as the parent note's calico and sand bass rows.
 - `poqjnb1r1zk` (Your Saltwater Guide, 2019-07-02, Dana Point): the trip was
   called on the strength of "a lot of Bonita around right now." The presenter
   is not named on camera; the channel's registered voice is `dave-hansen`, so
@@ -128,7 +134,13 @@ observation. Observations never change the note's stated doctrine.
   top-water window; murkier water calls for more flash and brighter colour,
   with a 1 oz+ spinnerbait-class blade cited. Spots are relocated by lining up
   two shore landmarks at a fixed offset rather than on electronics, and a piece
-  of kelp is used as an improvised anchor. Unregistered channel — medium
+  of kelp is used as an improvised anchor.
+  ⚠ Fact-check (contradicted-by-source): the offset runs off a **single** mark
+  — "I'll use uh buoys. Just I know that 100 yd south of that buoy, I know
+  there's a rock pile over there" (@00:08:26) — with the lifeguard station and
+  tower listed as alternative landmark types, not a second leg of a bearing;
+  and he separately says "I always have a fish finder on there" (@00:22:45).
+  Same finding as the parent note. Unregistered channel — medium
   confidence. Harvested from [calico bass](../../species/calico-bass.md),
   [water color](../../conditions/water-color.md) and
   [kayak bass fishing](../../techniques/kayak-bass-fishing.md).
