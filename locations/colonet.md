@@ -29,6 +29,12 @@ will see (`PRNMGpLj7Pw`), and the water outside it is half of the
 historically productive **bluefin** structure that went unfished in 2021
 because closer grounds were producing (`fgTmUq78ofQ`).
 
+⚠ Fact-check (contradicted-by-source): the "winter and early-spring" framing is
+not spoken in `YAKOv9bXKO0` — it comes from the episode title and from "those of
+you that are going out like in the next month to Colonet" read against the
+2026-02-05 upload date; the same source says yo-yo is fished "on almost all
+long-range trips almost all year round."
+
 ## Getting there
 
 **Colonet is reached as a trip, not as a run.** It is grouped with
@@ -55,7 +61,12 @@ conflicts:
 - **Cow cod.** Cow cod is legal to catch in Mexican waters, but a fish caught
   legally in Mexico **cannot be brought back into California**; the advice is
   to send it back down on a descending device instead (`PRNMGpLj7Pw`,
-  checked on camera against the regulations as of 2026-01). California's
+  checked on camera against the regulations as of 2026-01).
+  ⚠ Fact-check (contradicted-by-source, ext-verify): the check was not made on
+  camera — the speaker says "I've checked I checked the regulations just the
+  other day to be sure that I had it right," i.e. shortly before the 2026-01-13
+  recording, and he hedges that cow cod "may be legal sometime in the future,
+  but right now they are not." California's
   side of the same rule — cow cod as a no-retain species and the Cow Cod
   Conservation Area's depth limit — is on
   [rockfish & lingcod](../species/rockfish-lingcod.md).
@@ -64,6 +75,9 @@ conflicts:
   California rockfish season opens (`PRNMGpLj7Pw`, as of 2026-01). ⚠ Flagged
   gap — no corpus source states what the Mexican hook limit actually is, so the
   KB can only say it is not the US two-hook rule.
+  ⚠ Fact-check (ext-verify): a live regulatory claim on both sides of the
+  border — the US two-hook maximum, and whatever Mexico's actual limit is —
+  needs a web check against CDFW and CONAPESCA before a plan relies on it.
 
 ⚠ Flagged gap — no corpus source: closures, protected areas or restricted zones
 anywhere in this zone.
@@ -100,7 +114,13 @@ corpus source says anything about either bank beyond its position.
 **Bottom character is described only obliquely.** The slow-pitch rig carried
 for a Colonet trip runs 25 ft of 50 lb braid plus 3 ft of 80 lb at the business
 end purely for abrasion, because thin main braid that touches "the pinnacles
-and rocks" down there will break (`PRNMGpLj7Pw`). ⚠ Flagged gap — no corpus
+and rocks" down there will break (`PRNMGpLj7Pw`).
+⚠ Fact-check (contradicted-by-source): the source calls the 25 ft section
+"primarily" (not purely) for abrasion, and describes the same segment two ways
+in one episode — "25 feet, not 25 yards, 25 feet of 50 lb braid" on the first
+rig and a "25 foot uh top shot of 50 lb 50 lb mono" on the second, so the
+material of that section is unsettled in the source itself.
+⚠ Flagged gap — no corpus
 source maps the reef, the kelp, the canyon edges or the shape of either high
 spot.
 
@@ -109,7 +129,7 @@ spot.
 | species | season | what this zone does for them |
 | --- | --- | --- |
 | [Yellowtail](../species/yellowtail.md) | documented as a winter and early-spring target — the yo-yo episode is aimed at anglers heading down in March 2026 (`YAKOv9bXKO0`, 2026-02-05) | The zone's headline fish. Most spots that hold yellowtail here are **120–180 ft, sometimes 220 ft**, and the fish are very commonly stacked **about 30 ft off the bottom** — roughly five cranks on most reels (`YAKOv9bXKO0`). Colonet is expected to produce enough fish, or big enough fish, to justify heavier tackle than a home-water yo-yo rig (`YAKOv9bXKO0`) |
-| [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source gives a window; the same episode notes California's rockfish season is shut early in the year (`PRNMGpLj7Pw`) | Colonet and the Channel Islands are named together as "unbelievably productive rockfish grounds" — so productive that the first fish to see a jig will bite it, which is the problem the rig is built around (`PRNMGpLj7Pw`). Big reds and big lingcod are the fish named on the tail hook; cow cod are present and are the reason the descending device comes out (`PRNMGpLj7Pw`) |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source gives a window; the same episode notes California's rockfish season is shut early in the year (`PRNMGpLj7Pw`). ⚠ Fact-check (contradicted-by-source, ext-verify): the source says "in US waters" rather than California specifically, and its only timing is "early in the season, you can't fish for rockfish at all" and that it "opens in the late spring" — no month or date is given | Colonet and the Channel Islands are named together as "unbelievably productive rockfish grounds" — so productive that the first fish to see a jig will bite it, which is the problem the rig is built around (`PRNMGpLj7Pw`). Big reds and big lingcod are the fish named on the tail hook; cow cod are present and are the reason the descending device comes out (`PRNMGpLj7Pw`) |
 | [Bluefin tuna](../species/bluefin-tuna.md) | ⚠ Flagged gap — no corpus source gives a window for this zone | The water **outside** Colonet, with San Quintín, is described as a good structure of water that held the fish "in the beginning when this all started" in the modern SoCal bluefin fishery, and is expected to still hold bluefin if that structure persists — simply unfished as of 2021-05 because grounds closer to San Diego and Ensenada were producing (`fgTmUq78ofQ`) |
 | Red crab (forage, not a target) | documented as an intermittent bloom — "you kind of have to wait till you get there" (`YAKOv9bXKO0`) | Colonet gets blooms of red crabs that the yellowtail fill up on; when that is happening, a red-crab-coloured jig is "absolutely the kind" (`YAKOv9bXKO0`). This is the one forage item the corpus attaches to this zone |
 
@@ -148,6 +168,9 @@ during a red-crab bloom the red-crab patterns are the pick, and chrome is
 avoided anywhere bonito or barracuda are around because they are quicker to it
 than the yellowtail (`YAKOv9bXKO0`;
 [iron jigs](../lures/iron-jigs.md)).
+⚠ Fact-check (contradicted-by-source): "avoided" hardens a hedge — the source
+says chrome "actually will work" and that "it's not that the yellowtail won't
+bite these, it's that the barracuda and the bonito may get them first."
 
 **The rockfish program is slow-pitch, sized up on purpose.** On grounds this
 productive the first fish to see the jig bites it, and it may be a small one,
@@ -160,7 +183,12 @@ comes in through (`PRNMGpLj7Pw`;
 **80 lb braid under a 50 or 60 lb mono top shot** — 50 lb minimum on a
 long-range trip, 60 lb better, and 80 lb avoided only because it does not sink
 as well — on a short **6'6", 30–80 lb** rod, with treble hooks unless tuna are
-around (`YAKOv9bXKO0`; [gear classes](../tackle/gear-classes.md)). Slow-pitch:
+around (`YAKOv9bXKO0`; [gear classes](../tackle/gear-classes.md)).
+⚠ Fact-check (contradicted-by-source): the two-speed is not stated as a
+yellowtail requirement — the source picks it for budget and multi-species
+versatility ("not everybody can afford multiple rigs that only do one thing…
+also excellent for yellowfin tuna, for bluefin tuna, for wahoo") and says the
+low gear is "when you're tuna fishing, not so much for yellowtail." Slow-pitch:
 **20 lb braid** for a thin diameter that sinks straight, a 25 ft **50 lb**
 braid section and 3 ft of **80 lb** leader for abrasion, and a rod rated to
 **350 g** of jig as the first one to own (`PRNMGpLj7Pw`).
