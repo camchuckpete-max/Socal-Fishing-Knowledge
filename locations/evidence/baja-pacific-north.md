@@ -55,6 +55,11 @@ Observations never change the note's stated doctrine.
   of an 8-day Intrepid charter): a drift over 200 ft of jagged rock, the
   captain warning the rail to get sinkers and iron up immediately after
   touchdown or lose them; sponsor-heavy, unregistered channel.
+  ⚠ Fact-check (contradicted-by-source): the place label is wrong — the drift
+  is a lingcod/rockfish stop along the coast on the run north, after the
+  Benitos yellowtail segment ("we're stopping along the coast to let them do
+  some link cod fishing before we head back out and do some tuna fishing",
+  06:22). Depth, "real Jagged" and the instruction are verbatim (07:47).
 - `hteLeDIy9Qs` (Fred, Secret Fishing Rods, via SearcherSportfishing,
   2020-10-15, "Tackle Tip Thursday Vol. 121"): three yo-yo jig sizes by depth
   band, with Colonet, "the ridge," Alijos and Guadalupe named as the deep tier
