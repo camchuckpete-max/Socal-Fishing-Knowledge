@@ -37,6 +37,10 @@ over so a bad forecast doesn't blank your whole plan (`YZtX1MiT0y8`):
 
 - **The northern Channel Islands and the LA/Ventura coastal shelf crash
   5–8 °F** in a big NW blow — wind-wave-driven rollover, cold and off.
+  ⚠ Fact-check (contradicted-by-source): the cited transcript's only figure
+  is a hedged "seven maybe eight" degrees for a Long Beach report, not a
+  measured 5–8 °F range for the Channel Islands/LA-Ventura shelf as a whole
+  (`YZtX1MiT0y8`).
 - **South of Newport is "less prone to wind-wave-driven rollovers."** The
   geography shelters it (`YZtX1MiT0y8`).
 - **The Coronados, the tuna grounds, Catalina, and San Clemente Island held
