@@ -2700,7 +2700,7 @@ _Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) and taken off chummed reefs (`f4qYtHACGyk`) |
   - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
   - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
-  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`). ⚠ Fact-check (contradicted-by-source): the catch verifies — "you would not believe how many big giant white sea bass i've caught on this method" — but the "once a frenzy is going" qualifier is not attached to white seabass in the source; the frenzy line follows the *yellowtail* mention and is about not knowing what is down there ("because once you start that feeding frenzy on this reef you have no idea what fish are swimming around down there") |
   - `What's there`: gap — season shape scoped to this zone | Yellowtail have been taken off an artificial reef on the anchored chum method (`f4qYtHACGyk`) — the outside case, not the expectation |
   - `What's there`: gap — season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router |
   - `How it fishes`: zone guide missing
@@ -3774,8 +3774,8 @@ _Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 - **locations/san-clemente-island-front-side.md**
   - `Getting there`: gap — run time and distance from each named
   - `Structure & bathymetry`: gap — charted depths, bottom composition and kelp
-  - `What's there`: gap — whether that is a barracuda feeding window or simply what is left |
-  - `What's there`: gap — puts a bluefin session on the island shore of this side |
+  - `What's there`: gap — whether that is a barracuda feeding window or simply what is left. ⚠ Fact-check (contradicted-by-source): `Blh2BA-7Ono` never singles barracuda out and names no mid-day window. It lists "bass barracuda stuff like that in the mix of bonita" — bass first, list left open — and its only time framing is "that definitely gets tougher later in the day" (@00:02:58) |
+  - `What's there`: gap — puts a bluefin session on the island shore of this side. ⚠ Fact-check (contradicted-by-source): neither the full-moon night bite nor an "early warm-stable regime" is in `Blh2BA-7Ono`. Its only full-moon line is about calico bass and explicitly excludes this island — "wherever you're fishing bass **except in clemente** it seems like if you go around a full moon expect good early and it's gonna slow down for a big part of the day they feed at night" (@00:04:23) — and its only moon-plus-bluefin line is an arrival wave at Ensenada, "another wave came in out of the west on that last moon" (@00:07:43) |
   - `What's there`: gap — scopes that to this side of the island |
   - `What's there`: flagged stub row
   - `How it fishes`: zone guide missing
