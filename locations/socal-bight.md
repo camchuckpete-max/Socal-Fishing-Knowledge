@@ -37,6 +37,18 @@ one dominant peak, and "the 14" sits **14 miles** off the beach
 longer, because of the flats there. Full naming conventions and the
 search-box sizing that goes with them are in
 [zone lexicon](zone-lexicon.md).
+⚠ Fact-check (contradicted-by-source): two details in the distance-name
+sentence are not in `Rf1HKJG-SDg`. The source treats 9 Mile and the 14 as
+examples, not a closed pair of "the exceptions" — "there's banks like that up
+and down the coast but most of them are the banks are called after the highest
+part of the bank" (@00:06:04) — and it never says **statute**: "the nine mile
+bank that's not nine miles deep that's nine miles off the coast… 14 is 14
+miles off the beach" (@00:05:29–00:06:03), miles unqualified. The unit matters
+(9 nm vs 9 statute mi is 1.4 nm of search box), and it is the same
+statute-vs-nautical ambiguity flagged on `locations/middle-grounds.md` and
+`locations/14-mile-bank.md`. The Access & range restatement ("two of the
+region's banks carry their distance in their name") repeats the count. The
+fathom-naming convention itself, and the 182/209/43 figures, verify verbatim.
 
 **Three structure types, and each fishes a different number of current
 directions.** Land-attached perpendicular ridges are two-directional and want
@@ -61,12 +73,46 @@ is **south of San Clemente Island / Catalina** and along the coastal strip from
 **Dana Point to Oceanside and southward**; paddies thin out and hold fewer fish
 **north of Dana Point** (`HzE4FHHcvTk`). Mechanics are
 [kelp paddies](../conditions/kelp-paddies.md).
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` gives three coequal
+hedged options, not one best water — "your best bet is i would say for that
+type of action is south of san clemente island **or** south of catalina **or**
+along the beach below dana point um towards the ocean side" (@00:03:36) — and
+it does not index the thinning to Dana Point: "that fishing continues up in
+the u.s waters basically all the way to san clemente island and heck for that
+matter all the way up the coast uh to get on the inside of cat. when you get
+further up the patties are fewer and further between and **they're not always
+holding**" (@00:03:20). "Hold fewer fish" hardens "not always holding", and
+the source's own stated driver — "the closer the patties are to a dock the
+more likely they are to get hit" — is a pressure mechanism, not a geographic
+one. The same wording is carried by
+[kelp paddies](../conditions/kelp-paddies.md),
+[Dana Point](dana-point.md) ("the region's northern paddy limit") and
+[Oceanside / North County](oceanside-north-county.md), so a wording fix is a
+cluster-pass edit, not a single-note one.
 
 **A NW blow does not hit the region evenly.** The northern Channel Islands and
 the LA/Ventura coastal shelf get crushed — a strong NW event rolls surface
 temperature down **5–8 °F** there — while **south of Newport** is less prone to
 wind-wave-driven rollover, and the Coronados, the tuna grounds, Catalina and
 San Clemente Island held their water through one such event (`YZtX1MiT0y8`).
+⚠ Fact-check (contradicted-by-source): the **5–8 °F** figure is not in
+`YZtX1MiT0y8`. Its only degree figure is a hedged single-site reading of Long
+Beach harbour taken from a friend's video — "it looked like it was like 56
+degree water which is i think **seven maybe eight** degrees off from where it
+was before this wind along the beach" (@00:05:15) — not 5–8, not measured at
+the northern islands, and not a regional figure; what the source states for
+the islands is an absolute, "hardest hit was the northern channel islands
+miguel rosa the front side of santa cruz island… they're in the low 50s"
+(@00:01:14). The source also never names the wind as **NW** ("it's been blown
+outside all week"). The zones that held verify verbatim ("clementi catalina
+water temps are good coronados tuna grounds all that… they held up pretty
+well"; "south of newport… less prone to the wind wave driven rollovers and
+upwelling"). [Bight geography](bight-geography.md), which owns the map, states
+the same 5–8 °F under a standing `cite-unresolved` flag against a different
+source id, where Cameron has already adjudicated (2026-08-26) that **the map
+stands** and is to be backed by BightSST rollover statistics rather than
+re-sourced to another video; this flag is therefore on this page's citation —
+which names a third source id — not on the map.
 The **Catalina Eddy** can shield the inner San Diego banks and tuna grounds
 while it blows outside, so an ugly offshore forecast does not automatically
 close the inner zones ([sea state](../conditions/sea-state.md),
@@ -97,8 +143,8 @@ anomalous year the water state overrides the calendar
 | --- | --- | --- |
 | Winter / upwelling | mid-December–March ([February–March](../seasonal/february-march.md), back half of [November–December](../seasonal/november-december.md)) | A structure-and-water-quality fishery, not a tuna fishery: [sand bass](../species/sand-bass.md) hold deep structure, crankbaits work suspended bait balls over pipes all winter, [calico](../species/calico-bass.md) go off first when runoff dirties the inshore |
 | Warming transition | April–May ([April](../seasonal/april.md), [May](../seasonal/may.md)) | Leading-edge fish ahead of the volume — bluefin creep into US waters in May with the first paddy yellows; April bluefin are a deep sonar-school and night-jig game mostly out of skiff range; squid spawns concentrate island fish |
-| Warm stable | June–September ([June–July](../seasonal/june-july.md), [August](../seasonal/august.md), [September](../seasonal/september.md)) | The offshore season proper. Full moons drive the island [white seabass](../species/white-seabass.md) bite and the bluefin night bite (`DnSqw4r7A1s`, `-JZpyWLdKlk`); August is peak dispersal across the whole Bight and the peak of the paddy program; the September "volume square" — Santa Barbara Island, San Nicolas, San Clemente, Catalina — holds the bigger bluefin (`5to3Q5P7w90`) |
-| Fall fragmentation | October–December ([October](../seasonal/october.md), front half of [November–December](../seasonal/november-december.md)) | The chart runs the plan: "conditions become pretty important… look 100 % at your temp chart and chlorophyll" (`XLVUhV8DW64`, `OYOda6T3f-8`). Breadth of species, low density of any one; Santa Ana events flatten the NW outer islands and open Santa Rosa / San Miguel for shallow rockfish and lings (`OYOda6T3f-8`, `Z3rZqy2Pi8E`) |
+| Warm stable | June–September ([June–July](../seasonal/june-july.md), [August](../seasonal/august.md), [September](../seasonal/september.md)) | The offshore season proper. Full moons drive the island [white seabass](../species/white-seabass.md) bite and the bluefin night bite (`DnSqw4r7A1s`, `-JZpyWLdKlk`); August is peak dispersal across the whole Bight and the peak of the paddy program; the September "volume square" — Santa Barbara Island, San Nicolas, San Clemente, Catalina — holds the bigger bluefin (`5to3Q5P7w90`) — ⚠ Fact-check (contradicted-by-source): the square and its four corners are verbatim, but the species is not: "going from north to south the volume of fish is still between… santa barbara island to nick to clementi to kathleen [Catalina] and… if you make draw a square in there that's where the a lot of **the bigger ones** are" (@00:02:03). The antecedent is unspecified "fish" in a passage covering dorado, bluefin and marlin; the transcript's only sized-tuna line is elsewhere and generic ("most of the bigger tuners still being caught at night or by the four-pack guys", @00:04:56). [September](../seasonal/september.md) and [bluefin tuna](../species/bluefin-tuna.md) carry the same bluefin reading on the same cite, so a fix is a cluster-pass edit |
+| Fall fragmentation | October–December ([October](../seasonal/october.md), front half of [November–December](../seasonal/november-december.md)) | The chart runs the plan: "conditions become pretty important… look 100 % at your temp chart and chlorophyll" (`XLVUhV8DW64`, `OYOda6T3f-8`). Breadth of species, low density of any one; Santa Ana events flatten the NW outer islands and open Santa Rosa / San Miguel for shallow rockfish and lings (`OYOda6T3f-8`, `Z3rZqy2Pi8E`) — ⚠ Fact-check (contradicted-by-source): the quoted sentence exists in neither source as quoted. `OYOda6T3f-8` carries the two halves ~4 minutes apart — "conditions become pretty important **when looking offshore finding that right water and everything else**" (@00:02:28) and, separately, "if I were going out **I would like 100 on your temp chart and your chlorophyll when looking for fish**" (@00:06:28, ASR of "lean 100%") — and the ellipsis fuses them into one utterance. `XLVUhV8DW64` contains neither fragment; its nearest wording is "make some educated guesses using your chart using your SST using your chlorophyll" (@00:07:10). The Santa Ana / Rosa–Miguel half of the row verifies in both sources (lings from `Z3rZqy2Pi8E` only) |
 
 Two geographic patterns run across the year and decide where to look rather
 than what to throw: the **wind-rollover map** (which zones survive a NW event)
@@ -117,6 +163,18 @@ of Catalina are a spot-check — idle up, grade the meter, commit or leave
 in 20–30 minutes, a complex is a half-day commitment — is
 [zone lexicon](zone-lexicon.md); filling the hours is
 [search and glassing](../planning/search-and-glassing.md).
+⚠ Fact-check (unverifiable): no corpus source gives a time budget for either
+box type. `Blh2BA-7Ono` says only "you should expect to spend quite a bit of
+time driving around don't just expect to drive a spot and find those fish"
+(@00:08:50); the **20–30 minute** and **half-day** figures appear nowhere in
+it, and [zone lexicon](zone-lexicon.md) — the note this sentence points at as
+their home — states them uncited as well. The idle-up / grade-the-meter /
+commit-or-leave procedure sitting inside the `Blh2BA-7Ono` cite above is
+likewise absent from that source, which only contrasts small targets ("it's
+not like running to the 302 or 371 or even running up to uh the stuff off the
+west end of cat", @00:08:38) against the big box. The 43/181/182/289 +
+Clemente Ridge-to-Mackerel membership and the ~50–60 square-mile figure do
+verify (@00:08:21–00:09:06).
 
 ## Zones
 
@@ -136,11 +194,11 @@ CDFW before you fish — MPA lines and closures move year to year.**
 | zone | spots | character |
 | --- | --- | --- |
 | Catalina Island — Front Side (W→E) | 40 | The mainland-facing side: boiler rocks, kelp points and a run of charted rockfish pinnacles at 31–48 fathoms. Carries the most MPA edges of any zone in the region |
-| Catalina Island — Backside (W→E) | 21 | The weather side, and a station on the fall warm-band path. Holds Farnsworth Bank, a standalone bank in a partial-take closure where only yellowtail and bonito may be kept (`5p6gu14ZC4w`) |
+| Catalina Island — Backside (W→E) | 21 | The weather side, and a station on the fall warm-band path. Holds Farnsworth Bank, a standalone bank in a partial-take closure where only yellowtail and bonito may be kept (`5p6gu14ZC4w`) — ⚠ Fact-check (single-source): the take rule is verbatim — "if you do fish in that area you can only keep yellowtail and Bonita everything else needs to go back that's in the uh Marine closure in there so you can't keep bass or Rockfish or anything" (@00:03:32) — but it is a regulatory claim resting on one 2022-10-26 fishing report that names no agency, no boundary and no as-of date, and the bank's name is ASR-garbled there ("foreign First Bank"). The passage also gives no island side and no bank morphology, so "Backside" and "standalone bank" come from the spot library, not this cite |
 | San Clemente Island — Back Side (N→S) | 12 | The squid fishery: on an April 2022 squid bite off the east end the yellowtail graded high teens to high 30s, a 20–25 lb average (`YZtX1MiT0y8`). Held its water through a NW event that rolled the northern islands (`YZtX1MiT0y8`) |
 | San Clemente Island — Front Side (N→S) | 7 | The Pyramid Head / Pyramid Cove end plus Mackerel Bank, which is the northern limit of the below-Clemente search box (`Blh2BA-7Ono`). Two naval security zones sit inside this zone and are not fishable |
 | San Nicolas Island | 10 | A corner of the September volume square (`5to3Q5P7w90`). Carries named squid grounds and a white seabass zone, and reaches out to Potato Bank and Cherry Banks |
-| Santa Barbara Island | 8 | Squid-driven: squid in at Sutil means a yellowtail chance (`5p6gu14ZC4w`). The northern corner of the volume square (`5to3Q5P7w90`), and the first station on the fall warm-band arc after the northern islands |
+| Santa Barbara Island | 8 | Squid-driven: squid in at Sutil means a yellowtail chance (`5p6gu14ZC4w`). The northern corner of the volume square (`5to3Q5P7w90`), and the first station on the fall warm-band arc after the northern islands — ⚠ Fact-check (contradicted-by-source): **Sutil** is not in `5p6gu14ZC4w`, and the squid link it gives is generic and about BUYING squid, not resident squid at a named rock — "there's squid around at different Islands now and even on the coast… I know that nachos barge and Long Beach has squid now… you take a squid any of these islands you'll probably have a good chance to catching the yellowtail" (@00:02:14); the Santa Barbara Island mention in the same passage is a coverage complaint, not a squid report. "Northern corner" is also the KB's inference: `5to3Q5P7w90` names the island first in a north-to-south enumeration but designates no corner by compass |
 
 ### Mainland coast
 
@@ -179,7 +237,7 @@ CDFW before you fish — MPA lines and closures move year to year.**
 | Kidney Bank (63) / 175 | 2 | The other Kidney Bank, up off Catalina and unrelated to 302 (cameron). ⚠ Flagged stub — no corpus source yet on how this zone fishes |
 | LA - 270 / 286 | 2 | The LA-side banks. ⚠ Flagged stub — no corpus source yet on how this zone fishes |
 | The Slide / 152 / 277 | 3 | The offshore "The Slide", ~6 km from a Catalina front-side shoreline spot of the same name; the collision is an open item awaiting Cameron ([zone lexicon](zone-lexicon.md)). ⚠ Flagged stub — no corpus source yet on how this zone fishes |
-| Davis Knoll / San Miguel Gap / Rodriguez Seamount | 4 | The region's NW corner, off Point Arguello and San Miguel — the water a Santa Ana is needed to lay down (`OYOda6T3f-8`, `Z3rZqy2Pi8E`). ⚠ Flagged stub — no corpus source yet on how these seamounts fish |
+| Davis Knoll / San Miguel Gap / Rodriguez Seamount | 4 | The region's NW corner, off Point Arguello and San Miguel — the water a Santa Ana is needed to lay down (`OYOda6T3f-8`, `Z3rZqy2Pi8E`). ⚠ Fact-check (contradicted-by-source): neither source mentions Davis Knoll, San Miguel Gap, Rodriguez Seamount or Point Arguello. The water a Santa Ana lays down in both is the crossing to the northern **islands** — "a good day with some nice Santa Ana conditions it's a perfect time to route to Rosa or San Miguel" (`OYOda6T3f-8` @00:01:20), "the Santa Ana winds made for really good weather over the weekend… ended up fishing the San Miguel" (`Z3rZqy2Pi8E` @00:00:28) — with the only nearby headland named being Point **Conception**, not Arguello ("northwest wind that blow around conception at night but stop in the morning", `Z3rZqy2Pi8E` @00:02:42). Transferring an island-crossing weather window to seamounts 30+ nm further offshore is a scope extension the cites do not carry. ⚠ Flagged stub — no corpus source yet on how these seamounts fish |
 | 81 / 381 | 3 | ⚠ Flagged stub — no corpus source yet |
 | W. Butterfly / 157 | 3 | ⚠ Flagged stub — no corpus source yet |
 | E. Butterfly / San Salvador Knoll | 2 | ⚠ Flagged stub — no corpus source yet |
@@ -199,6 +257,15 @@ opens for shallow rockfish and lings (`OYOda6T3f-8`, `Z3rZqy2Pi8E`), as the
 zones a NW blow crushes hardest (`YZtX1MiT0y8`), and as the start of the fall
 warm-band arc ([bight geography](bight-geography.md)). They need spot
 coordinates before a zone page can be built.
+⚠ Fact-check (contradicted-by-source): `YZtX1MiT0y8` splits Santa Cruz rather
+than crushing it — "hardest hit was the northern channel islands miguel rosa
+**the front side of** santa cruz island they all that stuff dropped
+dramatically", immediately followed by "**backside of santa cruz and the lee
+didn't get hit too hard** water temps still look okay in there" (@00:01:14–
+00:01:53). Listing Santa Cruz undifferentiated among the zones a blow crushes
+hardest drops the front/back split that is the operational content — the lee
+is where a plan goes when the front side rolls over. (The same source never
+names the wind NW.)
 
 ⚠ Flagged gap — no corpus source: how the artificial-reef zones actually fish
 — target species by reef, depth bands, and whether the numbered drops fish
@@ -261,7 +328,20 @@ refills are trackable when bait is short
 sportboat fleet's **6:00 a.m.** departure is also when the private-boat crowd
 converges on the barge, so leaving the dock at **5:00 a.m.** — or 4:30 — beats
 the line entirely, while 7:00 a.m. is too late
-(`ztpj1Xll0-U`, `7WapaxdtjQg`). Barge etiquette
+(`ztpj1Xll0-U`, `7WapaxdtjQg`).
+⚠ Fact-check (contradicted-by-source): `7WapaxdtjQg`, co-cited on this
+sentence, recommends the 7:00 a.m. slot rather than ruling it out — "If you're
+going to go early, get there at 5:00. If you can't get up in time, get there
+at 7:00. If you do that simple thing, you'll never see a line" (@00:01:14),
+and "don't leave at 6:00, leave at 5:00, leave at 7:00, or leave in the middle
+of the day" (@00:01:39). "Too late" comes only from the seminar's "I can't get
+up that early leave at seven guess what it's all gone" (`ztpj1Xll0-U`
+@00:28:25), whose antecedent — bait or the crowd — is ambiguous in a passage
+otherwise about beating the 6:00 line. [Dana Point](dana-point.md) cites that
+clause to `ztpj1Xll0-U` alone and [making bait](../bait/making-bait.md) keeps
+both readings side by side; only this page co-cites the source that
+contradicts it. The 6:00 fleet departure and the 5:00/4:30 recommendation
+verify in both. Barge etiquette
 and load sizing are [making bait](../bait/making-bait.md) and
 [bait tanks](../bait/bait-tanks.md).
 
@@ -292,6 +372,17 @@ Coronado Islands sit about **13 nm** from the San Diego bay entrance (cameron)
 but are Mexican water and belong to `baja-pacific-north`
 ([regions & waters](regions.md)); the papers for this side of the line are
 [US waters](us-waters.md).
+⚠ Fact-check (contradicted-internal): every downstream page that states this
+run carries a live contradiction on it, and only this page states it bare.
+`locations/pukey-point.md` — the chain's northernmost, i.e. NEAREST, charted
+mark — gives **~14 nm** and backs it with spot-library geometry (Zuniga Jetty
+32 40.300 / 117 13.400 to Pukey Point 32 26.850 / 117 18.000 = 14.0 nm), so
+the chain cannot be 13 nm away; `locations/coronado-islands.md` carries a flag
+that the corpus figure is "approximately 13 **miles**" (`D5DR7Kx42_A`), i.e.
+statute, ≈11.3 nm, against this page's nautical reading;
+`locations/middle-grounds.md` puts its own mark at ~15 nm. The unit and the reference point both need settling before a
+day plan budgets the crossing, and this page's bold lead sentence ("The
+neighbouring region is 13 nm away") carries the figure too.
 
 ⚠ Flagged gap — no corpus source: launch ramps and their hours, fees and
 parking, port by port.

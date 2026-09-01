@@ -88,6 +88,13 @@ Observations never change the note's stated doctrine.
   doctrine demonstrated at the barge — do not arrive at 06:00, get there at
   05:00 and you never see a line, because by 06:00 the barge is three-quarters
   full of boats.
+  ⚠ Fact-check (contradicted-by-source): "three-quarters full" misreads a boat
+  class as a fill fraction. The source says the barge is "**full of boats, 3/4
+  day boats, half-day boats**" at 06:00 — the ¾-day sportboat trip class,
+  named alongside half-day boats (@00:01:27). The same video also offers 07:00
+  as a good alternative ("If you can't get up in time, get there at 7:00… you'll
+  never see a line", @00:01:17), which the main note's "7:00 a.m. is too late"
+  co-cites it for.
 - `jU7qi40WTzQ` (SearcherSportfishing, 2010-06-01, San Diego): the boat's own
   pitch for 3-to-7-day trips — a one-day boards at 22:00, travels overnight,
   fishes half a day and is back at the dock the next evening; a 3-day gives
