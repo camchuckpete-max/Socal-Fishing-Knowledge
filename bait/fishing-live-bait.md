@@ -139,7 +139,9 @@ used: sideways through the nose ("like a swim bait"), shoulder-hooked just in
 front of the dorsal fin, and belly-hooked back toward the tail — matching the
 nose / collar-shoulder-dorsal / belly positions above, here independently
 confirmed for wahoo specifically, though no mechanism is given for choosing one
-over another (`vNIazq1aVwc`). Leader and hookset detail from this source are in
+over another (`vNIazq1aVwc`). ⚠ Fact-check (contradicted-by-source): the
+transcript's actual wording is "you've got the swim bait as an example
+sideways through the nose," not "like a swim bait" (`vNIazq1aVwc`). Leader and hookset detail from this source are in
 [haywire twist — wahoo live-bait
 leader](../rigging/haywire-twist.md#wahoo-live-bait-leader) and [wahoo — bite
 response on live bait](../species/wahoo.md#doctrine--conflicts).
@@ -166,7 +168,9 @@ specifically for tuna, yellowtail, and other game fish (`UP_3fBu7VPA`):
   current at the islands, or on a slow soak rather than an active presentation
   ("island fishing for the most part"). Most working deckhands belly-hook the
   bait they hand out nine times out of ten, reserving nose for these specific
-  situations.
+  situations. ⚠ Fact-check (contradicted-by-source): the source attributes
+  this to "operators, captains," not deckhands specifically — "belly hook
+  bait is my go-to nine times out of 10" (`UP_3fBu7VPA`).
 
 ### Wishbone and shoulder hooking for distant bluefin
 
@@ -181,7 +185,9 @@ positions for a fly-lined (no-weight) bait:
   for the hook — for fish sitting close under the boat, typically holding
   30–40 ft down, where a sinker would only restrict the bait's own dive. The
   tell: anglers around you hooking up within 10–15 seconds of a bait hitting
-  the water. Hooked there, the bait doesn't need to be cast — just dropped or
+  the water. ⚠ Fact-check (contradicted-by-source): `aD0Iim9C15o` gives this
+  tell as "a bite in 5 seconds," not 10–15 seconds; the 10–15-second figure is
+  `QHY5kmU7OTU`'s. Hooked there, the bait doesn't need to be cast — just dropped or
   flipped out roughly 10 ft from the boat — and it dives straight down toward
   tuna or yellowtail holding underneath. Trade-off: a wishbone-hooked bait dies
   quicker — roughly 3 minutes of life versus 10–15 minutes hooked further
@@ -279,7 +285,10 @@ Once a bait is hooked, let go of it immediately rather than carrying it in hand
 to the rail — scales already on an angler's hands from earlier baits rub off
 onto this one and take life out of it. Instead, hold the line itself, about
 12–18 in above the bait, and walk it — still swimming on its own "leash" — to
-whichever side of the boat you're fishing (`MuC0uGKDzxg`, `Zhn-VDrlaLM`). Get it
+whichever side of the boat you're fishing (`MuC0uGKDzxg`, `Zhn-VDrlaLM`). ⚠
+Fact-check (contradicted-by-source): `Zhn-VDrlaLM` gives no measurement and no
+"leash" language, only "hold the line above the hook"; the 12–18 in figure and
+"leash" wording are `MuC0uGKDzxg`'s. Get it
 back in the water fast once it's hooked: don't hook the bait and then hold it
 up dangling on the line while sorting out the reel — a dangled bait over the
 rail is exactly what a bird overhead is watching for. Figure out the reel with
@@ -331,7 +340,8 @@ worked bait and a soaking one behave differently:
 | Bluefin, soaking sinker-rig or flyline bait | 2–4 minutes typical; up to 6–8 minutes on a long soak, 6–7 minutes practical upper limit | `shZCjX2-fkI` |
 
 "We're not marrying these baits, we're speed dating" (`SluBXkT3cuw`,
-`8YvmROeVL-0`). A boat running six anglers plus the captain (seven fishing) at a
+`8YvmROeVL-0`). ⚠ Fact-check (contradicted-by-source): this quote is not in
+`SluBXkT3cuw`'s transcript; it is confirmed verbatim only in `8YvmROeVL-0`. A boat running six anglers plus the captain (seven fishing) at a
 one-a-minute cadence goes through bait fast enough to run out on many days —
 the reason to run as big a [bait tank](bait-tanks.md) as the boat will carry
 (`BdRX4b8Fo5w`).
@@ -394,7 +404,10 @@ and into casting range. On a charter for [yellowfin](../species/yellowfin-tuna.m
 or [skipjack](../species/skipjack-tuna.md), a couple of minutes of hard
 chumming can raise fish holding 40–50 ft down right up under the boat — fish the
 down-drift/down-wind side, since the drift carries your bait away from the boat
-and keeps the wind at your back for the cast (`lxFNVdDhMy4`). The same draw
+and keeps the wind at your back for the cast (`lxFNVdDhMy4`). ⚠ Fact-check
+(contradicted-by-source): the transcript says the opposite of the wind
+clause — "you want win[d] in your face when you're fishing that side"
+(`lxFNVdDhMy4`). The same draw
 shows at a [kelp paddy](../conditions/kelp-paddies.md) holding
 [dorado](../species/dorado.md), pulling fish from the bow up to the corner of
 the boat where anglers are positioned to fish (`r4J5nP5Bkl4`).
