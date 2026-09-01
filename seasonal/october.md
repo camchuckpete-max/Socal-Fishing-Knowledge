@@ -21,7 +21,13 @@ A stale report is not today's water.
 ## Regime change — the water chart runs the plan
 
 **October is a regime change: "conditions become pretty important… look 100 % at
-your temp chart and chlorophyll"** (`XLVUhV8DW64`, `OYOda6T3f-8`). More than any other month,
+your temp chart and chlorophyll"** (`XLVUhV8DW64`, `OYOda6T3f-8`). ⚠ Fact-check
+(contradicted-by-source): both halves of this quote are spoken only in
+`OYOda6T3f-8` ("conditions become pretty important when looking offshore
+finding that right water"; "I would like 100 on your temp chart and your
+chlorophyll when looking for fish"); `XLVUhV8DW64` never says either line — its
+nearest passage ("use your chart using your SST using your chlorophyll") never
+mentions 100 % or frames conditions as newly important. More than any other month,
 October fishing is dictated by the [SST](../conditions/water-temperature.md) and
 [chlorophyll / water color](../conditions/water-color.md) picture. Build the plan on the
 break structure, not on spot names.
