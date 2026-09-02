@@ -174,7 +174,7 @@ dark.
 | Dark, no-moon night | Same, worked hardest through the darkest hours | Same | Best moon window; a full moon suppresses travel but does not shut the fishery off (`fri_BWI-VA0`) |
 | Rain falling in season, bay/harbour complex | Same, fished on the rain rather than waiting it out | Same | Long Beach/LA Harbor and San Diego; lobster avoid fresh water and start crawling (`sIoNELGlxmk`) [b] |
 | First trips of a season, depth band unknown | Same, but **spread the sets across different depths** instead of committing to one band | Same | Some seasons they sit shallow, others deep, with no rule for which (`Ow3an9lSVh4`) |
-| Sea lions or seals working the nets | Same, with a **closed clip-in bait cage** or a capped black PVC bait tube | Same | Sea lions hunt the bait visually; a black tube disappears against the water so they never locate it (`b19_AJjYCok`, `YQsbwfQ4wzY`) |
+| Sea lions or seals working the nets | Same, with a **closed clip-in bait cage** or a capped black PVC bait tube | Same | Sea lions hunt the bait visually; a black tube disappears against the water so they never locate it (`b19_AJjYCok`, `YQsbwfQ4wzY`) ⚠ Fact-check (contradicted-internal): [hoop netting](../techniques/hoop-netting.md#bait-cage-choice-by-sea-lion-pressure) tiers the cage by pressure — a stock "volcano" or Promar Ambush clip-in cage is fine **in light sea-lion areas**, and where sea lions are actively working gear it calls for a **heavy-duty cage** (LP Supply "Lobster Port" class) proven against sea lions mangling lighter nets and cages (`Qs9oEsh3b_w`). So the clip-in cage this row offers for the sea-lions-on-the-gear situation is the one the technique note reserves for the situation without them; only the black bait-tube half of the row survives that doctrine |
 | From shore or a public pier | Same, **fewer nets** | Max **2 nets/person** from shore or pier | Gear counts differ from boat fishing (`b19_AJjYCok`) |
 | Diving for lobster by hand | ⚠ Flagged stub — no corpus source yet: taking lobster by hand while diving is a mainstream SoCal method and the corpus contains nothing on it — no depth, visibility, light, season or handling detail | — | Fill in when a source covers it; hoop netting is the only method the corpus documents |
 
@@ -196,7 +196,15 @@ a rain-triggered crawl at the islands or on the open coast.
   hassle to get and the sea lions absolutely love them" — in the segment that
   motivates the black bait tube. Salmon heads are `b19_AJjYCok`'s
   recommendation only; the two sources disagree on this bait and the joint cite
-  merges them.
+  merges them. ⚠ Fact-check (contradicted-internal): separately from the cite,
+  [hoop netting](../techniques/hoop-netting.md#freshness-and-bait-choice)
+  carries an explicit **"skip salmon heads"** rule — effective, but a hassle to
+  source and handle and, unlike anchovies or sardines, a particular sea-lion
+  draw (`YQsbwfQ4wzY`, `AH4Eiya1Hn0`) — and ranks **fresh, never-frozen
+  sardines first**, ahead of anchovies, with fresh mackerel as the fallback
+  (`AH4Eiya1Hn0`). This class list carries salmon heads with no such caveat and
+  no ranking, and omits the never-frozen rule the technique note treats as
+  absolute.
 - **No rod-and-reel class applies.** Lobster do not route to
   [gear classes](../tackle/gear-classes.md) the way the finfish notes do.
 
@@ -330,6 +338,20 @@ Section order below is not a ranking.
 - **Kept lobster are held alive in the bait tank** rather than iced
   (`cEscIy278ew`).
 - **Do not eat the digestive tract** when cleaning (`sIoNELGlxmk`).
+- ⚠ Fact-check (contradicted-internal): three of this note's four deep links
+  into [hoop netting](../techniques/hoop-netting.md) name headings that note no
+  longer carries — `#rope-length-match-it-dont-over-carry-it-qs9oesh3b_w`
+  (in [Where & when](#where--when)), plus
+  `#retrieval-scotty-qs9oesh3b_w` and
+  `#sublegal-short-lobster-handling-dave-hansen-your-saltwater-guide-eiitvwqfmyc-2021-01-05`
+  in this section. The plain-statement rewrite stripped the attribution and
+  cite tails, leaving `## Retrieval` and `## Doctrine & conflicts`, and the
+  rope-length anchor also drops the double hyphen an em dash generates
+  (`#rope-length--match-it-dont-over-carry-it`). All three resolve to the file
+  and land the reader at the top of it rather than the section promised.
+  Flagged here only — the defect is entirely on the linking side and hoop
+  netting carries no claim to flag. `scripts/link-maintenance.py` reports
+  stale anchors (203 repo-wide) without failing on them, so CI is green.
 - ⚠ Flagged gap — no corpus source: how long lobster hold alive out of water,
   any chilling or dispatch practice, or a cleaning procedure beyond the
   digestive-tract warning. General handling: [fish care](../fish-care/README.md).

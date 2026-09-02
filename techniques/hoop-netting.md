@@ -32,7 +32,16 @@ boat-approach mechanics drive catch rate as much as spot selection.
 
 - A **rigid "pro" hoop net** (holds its shape so it fishes even when bumped).
 - A **clipped-in bait cage / closed bait bucket** — sea-lion-proof, so seals
-  and sea lions can't strip the bait and kill the set.
+  and sea lions can't strip the bait and kill the set. ⚠ Fact-check
+  (contradicted-internal): [California spiny
+  lobster](../species/california-spiny-lobster.md#situations--techniques)
+  prescribes exactly this closed clip-in cage for the situation "sea lions or
+  seals working the nets", while [bait cage choice by sea-lion
+  pressure](#bait-cage-choice-by-sea-lion-pressure) below calls the clip-in
+  stock cage fine **in light sea-lion areas** and steps up to a heavy-duty cage
+  where sea lions are actively working gear (`Qs9oEsh3b_w`). Calling the
+  clip-in cage sea-lion-proof without that tier is what routes the router's
+  heaviest-pressure row to the lighter cage.
 - **~40-50 ft of rope** to the buoy (matches the working depth on the
   structure). ⚠ Fact-check (contradicted-by-source): `Qs9oEsh3b_w` states a
   ~30-35 ft working section for Mission Bay depth (matching the [Rope length](#rope-length--match-it-dont-over-carry-it)
@@ -99,7 +108,15 @@ below (`Qs9oEsh3b_w`).
 ## Bait
 
 - **Mackerel, anchovies, or cut-up salmon heads** — anything oily draws bugs
-  into the net.
+  into the net. ⚠ Fact-check (contradicted-internal): [freshness and bait
+  choice](#freshness-and-bait-choice) below rules salmon heads out ("skip
+  salmon heads" — a hassle to source and handle and a particular sea-lion
+  draw, `YQsbwfQ4wzY`, `AH4Eiya1Hn0`), ranks fresh never-frozen **sardines**
+  first — a bait this list omits — and bars frozen bait of any kind. [California
+  spiny
+  lobster](../species/california-spiny-lobster.md#gear-summary-class-terms)
+  copies this uncaveated list into its bait class, so the router inherits the
+  half of the doctrine the subsection below overrides.
 
 ### Freshness and bait choice
 
