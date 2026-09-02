@@ -525,6 +525,7 @@ Per-trip detail and conditions are in
 - [Hancock Bank](hancock-bank.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [San Juan Seamount](san-juan-seamount.md)
+- [Santa Cruz Island](santa-cruz-island.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)
 - [Water Regimes](../conditions/water-regimes.md)
