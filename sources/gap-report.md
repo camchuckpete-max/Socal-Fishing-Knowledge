@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2525 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
+_Totals: 2526 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -3751,10 +3751,11 @@ _Totals: 2525 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `How it fishes`: gap — a tide, moon, current, wind or water-colour
 - **locations/san-benito-island.md**
   - `Getting there`: gap — a port, heading, run time, nautical-mile
+  - `Getting there`: gap — the Mexican (CONAPESCA) bag limit, size gauge
   - `Structure & bathymetry`: gap — a charted position, soundings other than the
-  - `What's there`: gap — season shape. The documented sessions carry air and upload dates (aired 2015-01-18, 2015-10-29 uploads, 2019-12-18 upload), not fishing dates | The reason to come, and a deep fishery rather than a surface one. Fish ran **30 lb and better**, "a lot of them," some bigger, taken on squid 30–40 fathoms down (`JaKSGkZ6CAc`); the island is named beside Cedros as favourite [surface iron](../techniques/surface-iron.md) yellowtail ground (`lYyi_Yh3S5g`). One morning the fish passed under the boat in small scattered groups at varying depths — "no real big schools" (`ilINTeknKB4`) |
-  - `What's there`: gap — season | The bottom option when the yellowtail sign is thin. A drift over 200 ft of jagged rock produced lingcod and red rockfish ("red snapper" on camera), including a double hookup of one of each on the same drift, one of them on a **bonita strip** bait; the meter showed a little yellowtail sign at the same spot, called "still a little early" for that bite (`ilINTeknKB4`) |
-  - `What's there`: gap — | The Benitos are the middle leg of a macro banks → Benitos → mainland rotation, but **no calico detail is given for this stop** — the trip's calico fishing is logged at Chester's Rock (`yjwIGFzWO8I`) |
+  - `What's there`: gap — season shape. The documented sessions carry air and upload dates (aired 2015-01-18, 2015-10-29 uploads, 2019-12-18 upload), not fishing dates | The reason to come, and a deep fishery rather than a surface one. Fish ran **30 lb and better**, "a lot of them," some bigger, taken on squid 30–40 fathoms down (`JaKSGkZ6CAc`); the island is named beside Cedros as favourite [surface iron](../techniques/surface-iron.md) yellowtail ground (`lYyi_Yh3S5g`). One morning the fish passed under the boat in small scattered groups at varying depths — "no real big schools" (`ilINTeknKB4`). ⚠ Fact-check (contradicted-by-source): the grade is verbatim ("all these fish are in that probably 30 lb and better A lot of them and there's some big"), but the source never says the fish were caught **on** squid — squid appears as stomach contents and as the depth key, and the catches are narrated on iron and terminal rigs ("we're getting them on the yo-yo and drer Loops dropper Loops yo-yo yep sler sinkers") |
+  - `What's there`: gap — season | The bottom option when the yellowtail sign is thin. A drift over 200 ft of jagged rock produced lingcod and red rockfish ("red snapper" on camera), including a double hookup of one of each on the same drift, one of them on a **bonita strip** bait; the meter showed a little yellowtail sign at the same spot, called "still a little early" for that bite (`ilINTeknKB4`) ⚠ Fact-check (contradicted-by-source): the drift's contents verify verbatim, but the stop is not this island — it is the coastal lingcod stop the boat makes after leaving the Benitos (see Structure & bathymetry) |
+  - `What's there`: gap — | The Benitos are the middle leg of a macro banks → Benitos → mainland rotation, but **no calico detail is given for this stop** — the trip's calico fishing is logged at Chester's Rock (`yjwIGFzWO8I`) ⚠ Fact-check (contradicted-by-source): calico ARE named at this stop — the episode's intro recaps "our venture to benitos island just a few hours away to produce some fun yellowtail fishing on the iron and some calico bass around the boilers". No technique, gear or grade detail follows, but the presence claim is stated, and the rotation order in this row is inverted (see Getting there) |
   - `What's there`: gap — names this island for any other species. The zone's dorado, yellowfin, halibut and sheephead records all attach to Cedros-complex grounds ([zone page](cedros-island.md#whats-there)) |
   - `What's there`: gap — a month-by-month picture, a water-temperature
   - `How it fishes`: gap — a tide, moon, current or wind window for the
