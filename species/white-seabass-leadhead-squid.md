@@ -110,18 +110,31 @@ where fish are being released — see
   head is read as a reaction colour for a seabass watching the squid sink down
   the column with its tail all bright orange (`ShSxNKAcUB4`). The source's own
   heads are custom-poured and not sold; the shop-counter equivalent is any
-  orange head with a hook big enough to carry the squid (`ShSxNKAcUB4`). Head
+  orange head with a hook big enough to carry the squid (`ShSxNKAcUB4`). ⚠
+  Fact-check (contradicted-by-source): the source says the heads are "poured
+  by a friend of mine," not poured by the source himself — "the source's own
+  heads" misattributes who makes them. Head
   colour as a general selection question — orange against white, and glow for
   dark conditions — is in
   [leadhead mods & rigging](../rigging/leadhead-mods.md).
 - **Rod/reel: the 30–40 lb bait/jig class**, and a low-profile baitcaster suits
   this presentation — its internal brakes and spool tensioner make it extremely
   castable, which is what a flick-and-drift program wants, though a conventional
-  star drag fishes it fine too (`Eo_bA8IWvyU`). See
+  star drag fishes it fine too (`Eo_bA8IWvyU`). ⚠ Fact-check
+  (contradicted-by-source): the source never states a "30–40 lb" figure for
+  this presentation — the rod shown with the low-profile baitcaster is "rated
+  15 to 40... fishing 25 30 lb test," and the other rods on the counter are
+  rated 25–40/25–60 lb for dropper-loop use; the baitcaster-castability and
+  star-drag-fishes-fine claims both verify verbatim. See
   [gear classes](../tackle/gear-classes.md).
 - **Line: mono, not straight braid**, because a soft mouth pulls the hook; where
   a baitcaster's spool capacity forces braid, compensate with a soft rod and a
-  lighter drag (`Eo_bA8IWvyU`). The mono top-shot minimum is in
+  lighter drag (`Eo_bA8IWvyU`). ⚠ Fact-check (contradicted-by-source): the
+  source ties "a little bit lighter drag" to conventional star-drag/mono reels'
+  soft-mouth handling in general, spoken before the baitcaster topic is
+  introduced — the baitcaster passage itself only prescribes a soft rod to
+  compensate for the reduced line stretch when spool capacity forces braid, and
+  never mentions drag. The mono top-shot minimum is in
   [white seabass — gear summary](white-seabass.md#gear-summary-class-terms).
 - **Bait: whole squid, fresh-dead preferred over live** (`Eo_bA8IWvyU`), pinned
   so it tracks straight — the threading and the straight-swim hook insertion are

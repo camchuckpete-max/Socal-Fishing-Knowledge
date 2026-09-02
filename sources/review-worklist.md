@@ -887,7 +887,7 @@ by their builders after the transform phase drains.
 | species/striped-marlin-trolling.md | standard | fact-checked | contradicted-by-source(3) | 3 contradicted-by-source flags added: clear/clean water misquote, jig-strike tide-timing co-cite overreach, dropped 'if you're lucky' hedge on hookup ratio |
 | species/wahoo-live-bait.md | standard | escalated |  | escalated: guard: out of scope for 'review: species/wahoo-live-bait.md': species/wahoo.md |
 | species/white-seabass-dropper-loop.md | standard | fact-checked | contradicted-by-source(1) | 1 contradicted-by-source flag: hook name cited to Eo_bA8IWvyU (which says Owner Oy twist) actually belongs to Y2bXn44lfqo (Ahi twist), mis-scoped cite |
-| species/white-seabass-leadhead-squid.md | standard | transformed | none | already layout-v2 compliant, no changes needed; verifier confirmed conservation and drift checks pass |
+| species/white-seabass-leadhead-squid.md | standard | fact-checked | contradicted-by-source(3) | 3 contradicted-by-source flags: rod/reel weight class mis-scoped, drag tip mis-scoped to baitcaster passage, head-maker attribution wrong (friend's heads, not source's own) |
 | species/yellowfin-tuna-flyline.md | standard | transformed | spots(1) | verified already-compliant, no note changes; appended and verified spot-harvest row (Coronado Islands) |
 | species/yellowfin-tuna-trolling.md | standard | transformed | spots(4) | verified already-compliant, no note changes; appended 4 accurate spot-harvest rows |
 | species/yellowtail-dropper-loop.md | standard | transformed | none | verified already fully v2-compliant, no changes needed; 3 check-note.py WARN confirmed benign (restatements of in-note-cited figures) |
