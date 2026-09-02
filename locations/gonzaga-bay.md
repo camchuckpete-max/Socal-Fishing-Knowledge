@@ -27,6 +27,22 @@ itinerary**, reached by an overnight relocation and fished until noon
 with the [Cortez North](cortez-north.md) cast-at-the-rock program and one
 bait-dropping program off the same grounds.
 
+⚠ Fact-check (contradicted-by-source): **"midpoint of the drive" is not in
+`P36VGPPf120`.** That transcript gives the legs as San Felipe → Gonzaga
+*"another 2 hours"* and Gonzaga → Bahía *"another 2 hours"* on top of the San
+Diego → Calexico/Mexicali → San Felipe legs, and from the overlook says *"we
+are about um 2 hours and 15 minutes away from Bola"* — which puts Gonzaga
+roughly three-quarters of the way into an ~8 h drive, not halfway. What the
+transcript calls it is *"a stop… everybody basically stops at"* for the scenic
+view and a restroom break. [Cortez North](cortez-north.md) already carries the
+same finding against its own Gonzaga row. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
+⚠ Fact-check (contradicted-by-source): the mothership reaches this bay by **a
+full day's run, not an overnight one** — *"gonna be a full day's drive to the
+next destination and tomorrow we should be in Gonzaga Bay"* (`ts9rJgxjmSg`).
+"Getting there" below states the full-day version; this lead does not.
+
 **It carries no charted position in [the spot library](../sources/spot-lists.md).**
 That library stops at San Quintín on the Pacific side and carries nothing on
 this coast, so a conditions pull has to run against the region rather than
@@ -162,8 +178,8 @@ establishes whether it extends north to Gonzaga.
 
 | species | season | what this bay does for them |
 | --- | --- | --- |
-| [Cabrilla](../species/cabrilla.md) | undated | The volume fish and the bay's headline. Grade runs **5–10 lb** with **15 lb** fish in the same schools, and the best of one whole mothership trip — **17 lb on a spring scale** — came off here, from *"deep, deep water, wide open, away from the rocks"* rather than off the structure (`0dNfsle54Wo`). Wolf-packs of smaller fish work the rocky points, and eight-to-ten-pounders were the day's ordinary fish (`0dNfsle54Wo`, `A6s-A1NARuA`) |
-| Grouper, including a **golden** morph | undated | Two separate fisheries: wolf-packing smaller grouper on the points that behave *"just like calicoes"* — five or six showing behind one lure (`A6s-A1NARuA`, `_Wb4z4ammoM`) — and big fish on the bait drop, where one golden grouper rocked the angler instantly and **broke 130 lb** after three turns of the handle (`0dNfsle54Wo`). ⚠ Flagged stub — no corpus source yet: a grouper router; the region's other deep grouper program is at [600–700 ft](cortez-north.md#the-fishery) out of BOLA |
+| [Cabrilla](../species/cabrilla.md) | undated | The volume fish and the bay's headline. Grade runs **5–10 lb** with **15 lb** fish in the same schools, and the best of one whole mothership trip — **17 lb on a spring scale** — came off here, from *"deep, deep water, wide open, away from the rocks"* rather than off the structure (`0dNfsle54Wo`). Wolf-packs of smaller fish work the rocky points, and eight-to-ten-pounders were the day's ordinary fish (`0dNfsle54Wo`, `A6s-A1NARuA`). ⚠ Fact-check (contradicted-by-source): neither cite supports the wolf-pack sentence as a cabrilla claim — the wolf packs in `A6s-A1NARuA` are *"wolf packs a smaller grouper"*, and `0dNfsle54Wo` uses no wolf-pack or rocky-point wording at all (its 17 lb fish came *"away from the Rocks"*). The 8–10 lb grade rests on `0dNfsle54Wo` alone; `A6s-A1NARuA` never says cabrilla outside its title and gives no cabrilla weight |
+| Grouper, including a **golden** morph | undated | Two separate fisheries: wolf-packing smaller grouper on the points that behave *"just like calicoes"* — five or six showing behind one lure (`A6s-A1NARuA`, `_Wb4z4ammoM`) — and big fish on the bait drop, where one golden grouper rocked the angler instantly and **broke 130 lb** after three turns of the handle (`0dNfsle54Wo`). ⚠ Flagged stub — no corpus source yet: a grouper router; the region's other deep grouper program is at [600–700 ft](cortez-north.md#the-fishery) out of BOLA. ⚠ Fact-check (unverifiable): on the deep-drop fish, "golden" is a reading of the auto-captions, which render it *"goal grouper"* / *"Golf Group are"* (`0dNfsle54Wo`). The morph itself is named cleanly on this same bay's trailer-boat trip — *"that was a golden grouper dude… it looked different"* (`A6s-A1NARuA`) — and again at BOLA (`GJrNG2zmdB0`), so the row header stands; what rests on the garble is whether the 130 lb break-off was one |
 | Barred pargo / snapper | undated | Named in the title target of both trailer-boat episodes and in the mothership's plan for the morning (`_Wb4z4ammoM`, `ts9rJgxjmSg`). One *"toad"* barred pargo — the biggest the boat had seen — ate on a **buttoned-down drag** and still took line, and broke a hook in the process (`_Wb4z4ammoM`). ⚠ Flagged stub — no corpus source yet: a pargo/snapper router |
 | Sierra | undated | Already showing **beside the boat** as the deep drop starts, then schooling under crashing boobies through the morning; the good ones run about **6 lb** and they cut lures off cleanly — one bit through a connection on the first stop (`0dNfsle54Wo`, `_Wb4z4ammoM`). ⚠ Flagged stub — no corpus source yet: a sierra router |
 | [Yellowtail](../species/yellowtail.md) | undated | Small fish on the island casting ground under working birds, with a bigger one seen following (`_Wb4z4ammoM`); a **live yellowtail** also went down as bait on the deep drop (`0dNfsle54Wo`) |
@@ -207,6 +223,16 @@ a chrome jig, both of which got bit (`_Wb4z4ammoM`), and a **Colt Sniper**
 took sierra on the mothership day (`0dNfsle54Wo`;
 [iron jigs](../lures/iron-jigs.md)).
 
+⚠ Fact-check (contradicted-by-source): **"near and far" is not a presentation
+note.** In `A6s-A1NARuA` those words belong to the Simrad radar spot running
+beside the tackle rundown (*"see near and far, leave nothing unseen"*); the
+transcript's own presentation line is that the crew *"fish for the
+hard-fighting grouper in and around the beautiful rocky points and edges"*.
+The jerkbait and surface-iron specs themselves verify verbatim.
+
+⚠ Fact-check (unverifiable): the transcript says only *"sniper"* — the brand
+and model "Colt Sniper" are never spoken (`0dNfsle54Wo`).
+
 **Foamers here beat the rock, and they are jerkbait water.** Roughly **30
 cabrilla** swirled on the surface *"like they were a school of carp"*, every
 one of them over 5 lb, under boobies crashing sierra schools; the first bite
@@ -233,6 +259,13 @@ spends its last **three hours** running bird schools for foaming cabrilla
 before the noon cutoff (`0dNfsle54Wo`). A **sea lion** worked the deep-drop
 stop (`0dNfsle54Wo`), and whale sharks turn up on the surface twice in this
 corpus, one of them coming straight at a boat (`_Wb4z4ammoM`, `A6s-A1NARuA`).
+
+⚠ Fact-check (contradicted-by-source): the 08:40 move runs the other way — at
+that clock time the sierra spots had already been fished and the boat was
+leaving them for cabrilla: *"it's about 8 40. change of pace change of scenery
+stopped on a … couple spots of Sierras … but now we're looking for cabria we
+got about three hours left"* (`0dNfsle54Wo`). The three-hour figure and the
+noon cutoff (*"just a little half day gotta be off the water at 12"*) verify.
 
 ⚠ Flagged gap — no corpus source: mechanism for any of it — why the foam
 happens, what pushes fish off the rock into open water, or what the current
