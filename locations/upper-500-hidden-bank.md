@@ -293,6 +293,7 @@ coordinates plus its parent zone until sources arrive.
 - [Hidden Bank](hidden-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [Upper 500](upper-500.md)
 - [Upper Hidden Bank](upper-hidden-bank.md)
 <!-- backlinks:end -->

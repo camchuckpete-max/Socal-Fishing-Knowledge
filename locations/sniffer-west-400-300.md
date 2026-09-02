@@ -473,5 +473,6 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Lower Cross](lower-cross.md)
 - [Sniffer](sniffer.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [West 400](west-400.md)
 <!-- backlinks:end -->

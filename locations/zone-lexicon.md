@@ -172,6 +172,7 @@ zone/spot pages this note supports).
 - [Evidence — 209 / 312](evidence/209-312.md)
 - [Evidence — 289 / 284](evidence/289-284.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
+- [Evidence — The Boot (504) / 307](evidence/boot-504-307.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)

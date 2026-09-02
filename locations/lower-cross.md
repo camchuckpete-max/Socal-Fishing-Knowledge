@@ -336,5 +336,6 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Catchers Mitt](catchers-mitt.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [The Bumps](bumps.md)
 <!-- backlinks:end -->
