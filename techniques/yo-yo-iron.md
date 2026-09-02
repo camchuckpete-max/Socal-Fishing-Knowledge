@@ -52,6 +52,14 @@ in **Linked from** below.
 
 ## Mechanics
 
+⚠ Fact-check (contradicted-internal): [opah](../species/opah.md#situations--techniques)
+names this note, in footnote [a], as "the closest documented SoCal vertical-jig
+execution" for a jig dropped to **150–200 ft** under a boat drifting on tuna —
+a presentation with no mark, no bottom and no structure, in water this note's
+front matter does not cover (`waters: [island, bank, nearshore-coast]`; opah is
+`open-ocean`). Every entry in **Reach for this when** above, and the
+up-current positioning below, require the mark this note is built around.
+
 Position up-current of the mark so the drop sweeps down onto the structure.
 Free-spool the iron straight to the mark (or to the bottom), thumbing the
 spool so it falls under light tension and tracks straight down rather than

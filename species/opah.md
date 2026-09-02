@@ -127,11 +127,29 @@ no occurrence of opah, yellowtail, or yellowfin. This note's `pCd6QykcZ0w` cite
 is the one the corpus supports ("they're not always bluefin tuna they might be
 yellowfin tuna there might be yellowtail other species knock on wood maybe even
 an opa").
+⚠ Fact-check (contradicted-internal): row 3's **Gear class** cell — and this
+note's front-matter `gear_classes` — call the outfit a **"Dart-jig class"**,
+which [dart-jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) does
+not carry: that note classes the same two outfits as **jig-stick** (light rig)
+and **rail-rod / heavy-tuna** (heavy rig), and treats "Dart" / "Colt Sniper" as
+a *lure* class rather than a gear class. No "dart-jig" class exists in
+[gear classes](../tackle/gear-classes.md) either, so the cell points a
+gear-class lookup at a technique note instead of a class term.
 
 [a] Weight, line class, and jig type are not stated for the deep-jig drop; only
 color and cadence (down deep, worked up and down) are. The closest documented
 SoCal vertical-jig execution is [yo-yo iron](../techniques/yo-yo-iron.md), which
 no source confirms is the same presentation.
+⚠ Fact-check (contradicted-internal): [yo-yo iron](../techniques/yo-yo-iron.md)
+is scoped against this row on both axes it gates on. Its own **Reach for this
+when** list keys every entry to a mark, structure, or the bottom, its mechanics
+open "position up-current of the mark so the drop sweeps down onto the
+structure," and its front matter carries `waters: [island, bank,
+nearshore-coast]` — no open-ocean — against this note's `waters:
+[open-ocean]` and its own **Finding them** doctrine that opah give no mark at
+all. Secondary: the "vertical-jig class" named in row 1 and in **Gear summary**
+is not a term in [gear classes](../tackle/gear-classes.md), whose vertical
+classes are yo-yo / heavy-iron and knife / speed-jig.
 [b] This row's source does not name tuna as the program in progress, unlike the
 first row's explicit tuna framing — the two describe the same depth band but
 are not confirmed to describe the same program.
@@ -204,4 +222,5 @@ Trip reports and per-source provenance: [evidence file](evidence/opah.md).
 - [Evidence — Opah](evidence/opah.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -108,6 +108,13 @@ The lure is the **"Dart" jig / "Colt Sniper"-class jig** documented at
 [iron jigs](../lures/iron-jigs.md); full rod/reel/line/leader/hook builds are
 tackle-level detail kept in the linked rig-ladder notes rather than
 duplicated here.
+⚠ Fact-check (contradicted-internal):
+[opah](../species/opah.md#situations--techniques) routes its dart-jig bycatch
+row to a **"Dart-jig class"** gear class linked to this note — a class term
+this note does not use and that [gear classes](../tackle/gear-classes.md) does
+not define. Here "Dart" / "Colt Sniper" is a *lure* class, and the outfits
+below are jig-stick class (light rig) and rail-rod / heavy-tuna class (heavy
+rig), matching this note's front-matter `gear_classes`.
 
 - **Light rig:** the primary outfit runs a Penn Fathom 30 reel, 65 lb
   braid topped with a 50 lb monofilament top shot, speed/gearing not stated
