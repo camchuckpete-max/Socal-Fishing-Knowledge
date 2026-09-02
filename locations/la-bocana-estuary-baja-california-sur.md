@@ -47,6 +47,10 @@ allowed **one grouper each** (`Cobp85UvHmM`), and grouper is the fish this
 water actually produced. That is a co-op agreement recorded on or before
 2018-02-07, not a federal or state rule — **confirm the current limits with the
 co-op before you fish** ([regulatory claims](../sources/regulatory-claims.md)).
+⚠ Fact-check (single-source): the limit is one line of whole-trip closing
+narration, ASR-garbled as "allowing us only to keep one group or each"
+(@00:23:06), so "one grouper each" is a reconstruction; nothing ties the limit
+to the Estero rather than to the trip, and it is eight years old.
 
 ## Structure & bathymetry
 
@@ -71,7 +75,7 @@ beyond the two named below.
 
 | species | season | what the spot does for them |
 | --- | --- | --- |
-| grouper | 2018-02 upload (`Cobp85UvHmM`) | The only fish clearly landed on camera in this water — inshore estuary fishing produced grouper, called "little groupers" in the closing narration (`Cobp85UvHmM`). No router note covers grouper in this region, so it is recorded here as context rather than linked. The co-op's one-fish-each limit applies to it (`Cobp85UvHmM`) |
+| grouper | 2018-02 upload (`Cobp85UvHmM`) | The only fish clearly landed on camera in this water — inshore estuary fishing produced grouper, called "little groupers" in the closing narration (`Cobp85UvHmM`). No router note covers grouper in this region, so it is recorded here as context rather than linked. The co-op's one-fish-each limit applies to it (`Cobp85UvHmM`). ⚠ Fact-check (contradicted-by-source): the transcript never places a grouper landing in the Estero — "Estero" is spoken once, in the closing narration (@00:22:37), and the same line contrasts the fish on screen with it ("get a lot bigger than this"), while the on-camera grouper are called out on the 25–30 ft inshore rock ("we're way out here it's like 25 30 feet all the group Sam Bass bottom piece you want", @00:13:51). ⚠ Fact-check (contradicted-internal): [La Bocana](la-bocana.md) assigns the same 2018-02 grouper to the inshore rock — its mixed-bag species row and its "the structure also held grouper and sand bass as a bottom option" line — not to the estuary |
 | [spotted bay bass](../species/spotted-bay-bass.md) | 2018-02 upload (`Cobp85UvHmM`) | Claimed, not shown. The closing narration names "radical spotties and little groupers in the Estero" and says they "get a lot bigger than this," with no spotted bay bass distinctly landed on camera (`Cobp85UvHmM`). ⚠ Fact-check (single-source): one unregistered-channel narration is the only record of spotted bay bass this far down the Baja Pacific coast, and it is a size claim as well as a range claim |
 
 **The spotted bay bass router does not cover this water.**
