@@ -74,6 +74,13 @@ the reading is published here beside the flag rather than as a bare depth
 (`OVwqUKim9Pc`). Queued in
 [the fact-check ledger](../sources/fact-check-ledger.md).
 
+⚠ Fact-check (contradicted-by-source): the flat statement of the 23-fathom
+figure. The speaker hedges his own number in the same breath — "head up to the
+ridge with 23 fetus you know something like that" (@00:01:53) — so even if the
+unit resolves, the reading is an approximation offered while planning, not a
+sounding taken on the bank (`OVwqUKim9Pc`). Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 ⚠ Fact-check (unverifiable): whether the bank the Magdalena Bay panga and
 charter fleet calls the Ridge and the bank a San Diego long-range boat calls
 the ridge in front of Mag Bay are one ground. Two crews eight years apart use
@@ -103,7 +110,7 @@ which it fished, so that day's dorado bite is carried on
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: the only stop on record is undated | The bank's headline — "fabulous yellow tail fishing" working back up on it, with one hooked yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`). Deep-iron water, not a surface fishery |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: the only stop on record is undated | The bank's headline — "fabulous yellow tail fishing" working back up on it, with one hooked yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`). Deep-iron water, not a surface fishery. ⚠ Fact-check (contradicted-by-source): the transcript places neither that drop nor a species on this bank — see [How it fishes](#how-it-fishes) |
 | [Yellowfin tuna](../species/yellowfin-tuna.md) | the same undated stop | "some good yellow fin" alongside the yellowtail; no grade is given for them here (`3tQ1_xiqwVU`) |
 | [Dorado](../species/dorado.md) | the same undated stop | "a couple more big jumbo bull dorado" off the same stop (`3tQ1_xiqwVU`) |
 | [Wahoo](../species/wahoo.md) | ⚠ Flagged gap — no corpus source: season | Not off the bank itself: the stated program is to run **outside** the ridge for kelps or floating logs and take wahoo off them (`3tQ1_xiqwVU`) — a paddy fishery in the water around it, not structure fishing on it |
@@ -121,11 +128,32 @@ never confirms it went there.
 in 180 ft** (`3tQ1_xiqwVU`). No jig weight, colour, line class or retrieve is
 recorded for this ground.
 
+⚠ Fact-check (contradicted-by-source): that the 180 ft drop happened on this
+bank, and that the fish on it was a yellowtail. The line is "A little bit
+deeper. About 180 ft. 10 ft off the bottom on the yo-yo jig" (@00:04:43) —
+no species, no place, and the speaker's "about" is dropped here. The nearest
+species word belongs to a different fish that came off — "that one just came
+unbutton. Yellow tail, I think" (@00:04:24) — and the boat's stated position
+through that stretch is "down here in front of Mag Bay" (@00:00:24), with
+"came back up on the ridge" spoken only later, in the recap (@00:05:41)
+(`3tQ1_xiqwVU`). [The zone page](bahia-magdalena-lopez-mateos.md#whats-there)
+already carries this finding; this page's `depth_band` front matter, its
+yellowtail row and this bullet all rest on the unflagged reading. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 **It is the fallback when the ground offshore of it goes off.** The crew that
 fished it had come from Thetis Bank and left overnight because "the current
 and the conditions were opposite," working back up on the Ridge instead
 (`3tQ1_xiqwVU`) — a current read that moves a boat between banks rather than
 ending the day. See [current structure](../conditions/current-structure.md).
+
+⚠ Fact-check (contradicted-by-source): that they came off Thetis Bank straight
+back onto this bank. A leg sits between the two — "we left there in the middle
+of the night. We're fishing down here in front of Mag Bay" (@00:00:24),
+schoolies under bird schools, frigates and porpoise — and "came back up on the
+ridge" is a separate recap five minutes later (@00:05:41). The quoted current
+read and the overnight departure verify verbatim (`3tQ1_xiqwVU`). Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 **Work the water outside it, not only the bank.** The afternoon program off
 the stop is a look outside the ridge for kelp paddies or floating logs and
