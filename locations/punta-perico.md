@@ -21,6 +21,23 @@ coast where the bait vendor placed [dorado](../species/dorado.md) being caught
 the only dorado ground in this zone that resolves to a named place; the islands'
 record here is a shallow-rock and troll program.
 
+⚠ Fact-check (contradicted-by-source): **the ground the vendor named was a
+different one.** Straight out of the bait exchange the speaker says *"originally
+he said uh people were / talking about desante / but I'm gonna go up to Kunta
+Perico / where we caught that yellowtail before / Lou and I"*, and again *"they
+were telling me the Sante / but it doesn't seem like that's the case"*
+(`n4nMCLLW3tY`) — so Antonio's steer is *desante*, and Punta Perico is the
+speaker's own pick off his yellowtail history, which is what this page's own
+**Getting there** section says two paragraphs down. The auto-caption carries no
+speaker labels — Antonio's Spanish is rendered *"foreign"*, and the English
+*"the birds diving and then / the seaweed or whatever / but close to the shore
+in Punta Perico"* sits directly after one of those *"foreign"* turns and reads
+as the speaker's readback — so whether the vendor attached his dorado report to
+**this** point is not recoverable from the source. [The zone
+page](loreto.md#structure--bathymetry) already carries the opposite reading to
+this page.
+Queued in [the fact-check ledger](../sources/fact-check-ledger.md).
+
 **It is a ground with history and no camera.** The crew's reason for picking it
 over the ground the locals named was a fish of their own — *"where we caught
 that yellowtail before, Lou and I"* — and the day they set out for it never
@@ -61,6 +78,20 @@ report, not a plotter mark.** The sardines and the dorado report both came from
 Marina after the dock order is missed (`n4nMCLLW3tY`). See
 [the zone page](loreto.md#getting-there) and
 [making bait](../bait/making-bait.md).
+
+⚠ Fact-check (contradicted-internal): **"this ground is his report" is the
+disputed half of that line.** Buying bait from Antonio and asking him where the
+fish are is verbatim on the record — *"I got some sardines now to fish for the /
+Dorado and then we're gonna ask him / where people have been catching the /
+Dorado at"*, *"there he is / got the bait guy right here Antonio he / said he
+was out front the marina"*, *"Antonio's teaching me / the ways of the Dorado
+here"* (`n4nMCLLW3tY`) — as are the rigging advice and the catch times below.
+What the source does not settle is that the ground he named was **this** one;
+see the flag at the top of this page and
+[the zone page](loreto.md#structure--bathymetry), which records the vendor's
+steer as *desante* and reads *"close to the shore in Punta Perico"* as the
+speaker's line rather than the vendor's. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 **It was picked over the ground the locals were talking about.** Word that
 morning pointed at *"desante"* / *"the Sante"*, but the crew's read was that the
@@ -139,6 +170,14 @@ that day, on the tow back, which is consistent with it without confirming it.
 rather than around first light (`n4nMCLLW3tY`) — the opposite shape to the
 zone's evening yellowtail programs
 ([the zone page](loreto.md#how-it-fishes)).
+
+⚠ Fact-check (unverifiable): **the window survives as three unpunctuated caption
+tokens.** The whole exchange is *"what time did you catch them early no / maybe
+in it / 10 20 11. okay / Maybe"* (`n4nMCLLW3tY`), so *"early no"* makes
+late-morning the right direction, but **10:20–11:00** is one reading of *"10 20
+11."* and the *"maybe"* hedge is dropped where the times are set in bold here
+and on [the zone page](loreto.md#whats-there). Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 **Find the weed and the birds, then work in.** Diving birds over floating weed
 close to the beach is the entire search picture given for this ground
