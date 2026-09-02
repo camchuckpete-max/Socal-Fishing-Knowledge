@@ -71,7 +71,7 @@ most of the overnight boats at newport and dana porn [Dana Point] are fishing
 offshore" (@00:04:38). The general island-wide form is in the note's other
 August source, `-JZpyWLdKlk` — "an island report because there's not a lot to
 talk about at the islands themselves because most people are out looking
-around" (@00:02:12) — which is not cited here.
+around" (@00:04:12) — which is not cited here.
 
 **A NW blow hits this end of the region hardest.** A strong NW event rolls
 surface temperature down **5–8 °F** on the northern Channel Islands and the
@@ -122,7 +122,7 @@ itself.
 ⚠ Fact-check (contradicted-by-source): the bolded **two or more consecutive
 days** is harder than the cite. `Z3rZqy2Pi8E` says "i don't really look for **a
 couple days** of continuous no wind or santa anas before i plan a trip up
-there" (@00:02:36) — an unquantified "a couple", and the auto-caption's "don't"
+there" (@00:02:54) — an unquantified "a couple", and the auto-caption's "don't"
 inverts the evident sense of the sentence, so the clause's polarity is a
 caption artifact rather than stated doctrine. The night-wind mechanism and the
 morning-calm trap verify near-verbatim in the same passage ("West Wind or
@@ -253,7 +253,7 @@ fewer fish (`HzE4FHHcvTk`, [kelp paddies](../conditions/kelp-paddies.md),
 ⚠ Fact-check (contradicted-by-source): the second half overstates the cite in
 two ways. `HzE4FHHcvTk` says the **paddies** get scarcer, not that they hold
 fewer fish — "when you get further up the patties are fewer and further between
-and they're not always holding" (@00:03:25) — and its threshold is the vague
+and they're not always holding" (@00:03:30) — and its threshold is the vague
 "when you get further up", not a **Dana Point** line; Dana Point appears only
 on the positive side, "your best bet is i would say for that type of action is
 south of san clemente island or south of catalina or along the beach below dana
