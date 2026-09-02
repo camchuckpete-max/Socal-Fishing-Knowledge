@@ -118,6 +118,13 @@ Pick the hook position for the swimming behavior you want:
   sardine or mackerel" while its own tax row makes a **big live mackerel**
   the bait that screens barracuda off the hook (`w5_x6kkN-xE`) — against this
   pairing, which puts sardine on barracuda and mackerel on striped marlin.
+  ⚠ Fact-check (contradicted-internal): [calico
+  bass](../species/calico-bass.md#situations--techniques) routes its live-bait
+  row to "a sardine or mackerel" as well — against this pairing's **anchovy
+  for calico bass**, the only calico bait call this note carries. Two routers
+  now name the two baits this list assigns elsewhere; whether the pairing is a
+  stated personal preference that the routers may override, or the routers are
+  simply defaulting to the SoCal staple baits, is unresolved.
 - **Bait selection is king.** Cull the bloody, scaly, lethargic baits into the
   chum bucket; fish the lively lime-green ones that are hardest to catch in the
   tank. If a bait isn't pulling line off the reel within about **60 seconds**,

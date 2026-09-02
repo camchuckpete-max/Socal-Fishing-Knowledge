@@ -441,6 +441,15 @@ boiler-bite swimbait](../species/calico-bass-swimbaits.md) (`lP6cg4eEU6s`); the
 router row is in [calico
 bass](../species/calico-bass.md#situations--techniques).
 
+⚠ Fact-check (contradicted-internal): the surface-boil definition opening this
+section — fish busting bait on top rather than holding to structure — is the
+half [calico bass](../species/calico-bass.md#situations--techniques) already
+carries a standing flag on: in `lP6cg4eEU6s` "boiler" is a boiler **rock**
+("big boiler Calico situation less kelp more on the open side"), and the
+clarity-edge and committed-fish reads are the only verbatim parts. This note
+states the flagged framing as the section's premise, so the KB defines "boiler
+calico" two ways off one cite.
+
 ## Gear class
 
 **Bass casting / swimbait class** — 7–9 ft graphite or graphite-composite

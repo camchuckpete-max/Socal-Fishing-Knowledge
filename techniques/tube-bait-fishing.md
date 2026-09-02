@@ -130,6 +130,16 @@ sled/weedless rig **does not glide as well** as the stock rigging (less
 side-to-side action), but is worth it whenever grass or kelp fouls the
 standard rig (`0HwYl0HO2tc`).
 
+⚠ Fact-check (contradicted-internal): [calico
+bass](../species/calico-bass.md#situations--techniques) routes to this section
+off the situation "grass or heavy kelp fouls a standard **weedless** rig,"
+which inverts the premise stated here — the rig that fouls is this bait's
+stock, *non*-weedless hook, and the sled is the fix that makes the tube bait
+weedless in the first place, at a stated cost in glide.
+[Swimbaits](swimbaits.md), the note that owns the weedless keel-weighted rig,
+records it running clean through heavy kelp with no fouling (`_r_qKX_7080`),
+so the router's trigger condition is documented in neither note.
+
 ## Double-bait dropper rig (bass, yellowtail, and rockfish to ~200 ft)
 
 A **3-way ball-bearing swivel** with a **wide-gap split ring** carries two
