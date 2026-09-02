@@ -108,6 +108,16 @@ turbulence (`LqW32NSkObY`):
 
 ## Lure selection and retrieve
 
+⚠ Fact-check (contradicted-internal): [barred sand
+bass](../species/sand-bass.md#situations--techniques) routes its kayak row
+here saying what changes on a kayak is "standoff distance, anchoring and
+navigating without electronics, **not the presentation**," and illustrates the
+row with a live-sardine bait presentation — against the kayak-scoped
+presentation rules in this section (a 1 oz blade-lure floor "regardless of
+conditions", named topwater picks, a steady medium-light blade retrieve) and a
+tackle doctrine of one bag of lures that never covers bait fishing at all
+(`LqW32NSkObY`, the sole source on both sides).
+
 - **Size floor on a blade lure: 1 oz or bigger.** A smaller spinnerbait cuts
   more into the weeds and draws more short strikes than it hooks up — bit
   repeatedly by fish too small to have actually eaten a properly sized bait.

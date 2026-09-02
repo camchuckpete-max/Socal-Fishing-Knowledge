@@ -75,6 +75,14 @@ side. Execution only; species and situations are the reverse map in
   `O5aQkex0qGg`, the jig cadence in
   [rockfish deep-dropping](rockfish-deep-dropping.md#jig-cadence), rather than
   to its slow-pitch cite.)
+  ⚠ Fact-check (contradicted-internal): a second router does the same from
+  another direction — [barred sand
+  bass](../species/sand-bass.md#situations--techniques) routes its 80–120 ft
+  deep-structure row here instructing "minimal thumb pressure" on the drop
+  because "a free fall lets the jig flutter off sideways and scope the line
+  out," while "light thumb pressure drops it straight and reaches the bite
+  zone in about half the time" (`-eaaWPN5Fxk`) — treating as a fault the
+  fluttering fall this note's method feeds slack to produce.
 - **One full handle turn moves roughly 3 ft of line and equals one "pitch."**
   Hit bottom, then count turns to work the jig up to where fish are marked —
   e.g., fish called 12 ft up: wind three turns, then start pitching, working

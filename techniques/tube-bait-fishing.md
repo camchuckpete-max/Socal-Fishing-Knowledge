@@ -32,6 +32,15 @@ class, construction, colors, and scent system live in
   technique below.
 - Deep structure to roughly 200 ft, to A/B two colors or fish two
   depths/weights at once off one dropper rig.
+  ⚠ Fact-check (contradicted-internal): the "two depths/weights at once"
+  trigger — mirrored in [barred sand
+  bass](../species/sand-bass.md#situations--techniques)'s router row — is
+  contradicted by this note's own [double-bait dropper
+  rig](#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft) spec,
+  where the weight is a matched pair "sized to the depth wanted rather than
+  paired as two different weights on one rig," separated only by a ≥3 in
+  leader offset, and for bass both baits match size so they sink and glide at
+  the same rate (`0HwYl0HO2tc`, `5Oh3IPIC5g4`).
 - Prospecting a kelp paddy for tuna/dorado without spending live bait, or
   punching a bait through a surface skipjack layer to reach yellowfin
   holding below it — see the tuna section below.
