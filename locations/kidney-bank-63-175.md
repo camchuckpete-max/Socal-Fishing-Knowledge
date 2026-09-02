@@ -39,6 +39,17 @@ north and northeast of the island by position: Kidney Bank bears **008°** from
 Landing Cove at **5.6 nm** and the 175 bears **026°** at **8.8 nm** (cameron).
 ⚠ Fact-check (unverifiable): no source names a mark, a bank or a number on that
 ground, so the overlap is a coordinate coincidence until a report confirms it.
+⚠ Fact-check (contradicted-by-source): the two cited videos are **one trip
+published twice**, not two seasons on that ground. `usHl-4SfqDA` (upload
+2024-11-13) @00:16:18 and `mDmbGdQAy-4` (upload 2025-10-06) @00:06:40 carry the
+phrase word-identically — "just northeast of Santa Barbara Island. And then
+we're going to head south from there. **That's where they were yesterday**" —
+and the whole Santa Barbara Island sequence is the same audio re-cut: same
+speaker (Capt. Andrew), same guests, same Makaira 50W, same frozen-flying-fish
+and popsicle-stick kite talk, same "46 × 46 × 68.5 / 800" tape math, same "one
+fish down, six more to go". Neither video states a trip date on camera, so both
+"November 2024" and "October 2025" are upload dates, and the ground is
+**one** observation, not a repeat across two falls.
 Treat it as the first place to look, not as a documented spot.
 
 ## Getting there
@@ -57,6 +68,15 @@ Bank is **27.0 nm** and the 175 is **24.8 nm** (cameron) — the outer mark of t
 zone is the *closer* of the three. The island run figure is therefore a
 reasonable first estimate for this water rather than a floor to add to.
 ⚠ Flagged gap — no corpus source states a run to either mark directly.
+⚠ Fact-check (contradicted-by-source): `PKf7G3uL4io` @00:11:47 gives only "we're
+uh out here at Santa Barbara Island it's uh we got out here in **about an hour
+and 15 20 minutes** it's **a little dark** but uh we're going to go after it
+start fishing" — the run time is hedged "about", and **"first light" is never
+said**; the day-2 start time stated elsewhere is "5:00 in the morning". **Two
+Harbors is also never named as the departure point from the boat** — it is
+inferred from the show open, @00:00:09 "we traveled to two Harbor Catalina
+Island for the fourth annual California offshore challenge", plus the Two
+Harbors weigh-in. The zone's whole run estimate rests on this figure.
 
 **From the mainland it is a long way, and the library's coast positions are all
 south of the useful ones.** The nearest charted mainland position is **Pelican
@@ -93,6 +113,14 @@ its own depth limit and its own as-of date
 it, so whether either mark falls inside it is unverified — **check the CCCA
 boundary against your position with CDFW/NOAA before dropping.** Boundary
 compliance is positional, not depth-based ([US waters](us-waters.md)).
+⚠ Fact-check (unverifiable): both regulatory positions on this page are
+uncheckable from the corpus — the Cave Canyon "stay north of 33 28.500"
+instruction is a spot-library annotation (cameron) with **no stated east–west
+extent**, so
+a latitude comparison 6.0 and 8.4 minutes away carries no information about
+whether these marks are in or out; and the Cow Cod Conservation Area is named in
+the corpus with **no boundary at all**. Neither can be resolved without CDFW /
+NOAA chart data.
 
 ## Structure & bathymetry
 
@@ -105,6 +133,16 @@ out to **3.9 nm** on the **053°/233°** line between them (cameron).
 is an isolated high spot rising out of otherwise deep water and takes the
 **fathom depth of its shallowest point** as its name, at six feet to a fathom
 ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`). Read that way:
+⚠ Fact-check (contradicted-by-source): the source states this convention
+**hedged and with named exceptions**, both of which this page's entire depth
+reading depends on. Capt. Dave says "**most of them** are the banks are called
+after the highest part", and then names bare-number marks whose numbers are
+**distance offshore, not fathoms** — "that's not nine miles deep that's nine
+miles off the coast" (Nine Mile Bank) and "14 is 14 miles off the beach" (the
+14 Mile Bank, which this page itself cites as a neighbour at 49.4 nm). He also
+notes the depth alone does not make a bank: "there are places all over the ocean
+that are 182 but they're not a bank". A bare "63" or "175" therefore cannot be
+read as a sounding on the convention alone.
 
 | spot | name read as fathoms | in feet |
 | --- | --- | --- |
@@ -142,7 +180,12 @@ either species on either mark.
 
 **"Kidney Bank" is a name and a number at once, and the corpus explains neither.**
 Nine entries in the library carry both a word name and a fathom figure, this one
-among them (cameron). The number is the depth claim; the word is unexplained
+among them (cameron). ⚠ Fact-check (contradicted-internal): nine counts only the
+**parenthesised-pair** form — The Boot (504), 311 (Trask Knoll), Kidney Bank
+(63), Sverdrup Bank (126), 267 (The Condom), 302 (Kidney Bank), Bell Bank (300),
+300 (The Rampart), Tuna Hole (179). By the criterion as stated the library holds
+**eleven**: 475 Knuckle and 1067 Knuckle also carry both a word name and a
+fathom figure. The number is the depth claim; the word is unexplained
 anywhere in the corpus. ⚠ Flagged gap — no corpus source says what the name
 describes.
 
@@ -181,10 +224,10 @@ southeast, [Hidden Reef / 170](hidden-reef-170.md) northwest,
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Bluefin tuna](../species/bluefin-tuna.md) | July–November at the neighbouring island | The one species with a corpus lead pointing at this water. The ground worked in November 2024 and October 2025 sat "just northeast of Santa Barbara Island" (`usHl-4SfqDA`, `mDmbGdQAy-4`), and the island itself is the northern corner of the September **volume square** SBI–Nick–Clemente–Catalina (`5to3Q5P7w90`); in October 2022 the fish were named at "the Nick and SBI" before moving down the back side of San Clemente (`XLVUhV8DW64`). ⚠ Fact-check (unverifiable): no source places the bite on Kidney Bank or the 175 |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | late summer | Incidental in the corpus, and on the warm side of a bank edge: yellowtail and yellowfin sat **southeast of Osborn Bank** "where the water warms up a little" in August 2016 (`i3qIAHW-SJc`). Osborn is **12.9 nm** south of Kidney Bank (cameron). ⚠ Flagged gap — no corpus source scoped to this zone |
-| [Yellowtail](../species/yellowtail.md) | squid-gated, not month-gated | Documented at the island on squid, not on open-water banks (`5p6gu14ZC4w`, [Santa Barbara Island](santa-barbara-island.md)). Whether island squid fish push out to a high spot **5.6 nm** north is unknown. ⚠ Flagged gap — no corpus source |
-| [Calico bass](../species/calico-bass.md) / [rockfish & lingcod](../species/rockfish-lingcod.md) | — | Both are island-shoreline and island-ridge fisheries in the corpus (`EU_Dod4wfYw`, `SGbynqaiHdY`, [Santa Barbara Island](santa-barbara-island.md)); neither mark here has documented kelp, rock or a working depth to hold them. ⚠ Flagged gap — no corpus source, and a 63-fathom high spot is not a shoreline |
+| [Bluefin tuna](../species/bluefin-tuna.md) | July–November at the neighbouring island | The one species with a corpus lead pointing at this water. The ground worked in November 2024 and October 2025 sat "just northeast of Santa Barbara Island" (`usHl-4SfqDA`, `mDmbGdQAy-4`), and the island itself is the northern corner of the September **volume square** SBI–Nick–Clemente–Catalina (`5to3Q5P7w90`); in October 2022 the fish were named at "the Nick and SBI" before moving down the back side of San Clemente (`XLVUhV8DW64`). ⚠ Fact-check (unverifiable): no source places the bite on Kidney Bank or the 175. ⚠ Fact-check (contradicted-by-source): `5to3Q5P7w90` names no species in the square sentence — "the **volume of fish** is still between you know from the santa barbara island to nick to clementi to kathleen and that if you make draw a square in there that's where **a lot of the bigger ones** are" — so "bigger bluefin" is an inference, and SBI as the *northern* corner rests on his framing "kind of going from north to south", not a stated corner. ⚠ Fact-check (contradicted-by-source): in `XLVUhV8DW64` the October 2022 ground is a **four-item list, not "the Nick and SBI"** — "that stuff was up off the **West End of cat West into Clementi** at the Nick and SBI for a while / it kind of dried up and… it kind of moved down off the **east end back side** of Clementi" — and he adds the fish may have moved back after the full moon ("they could be up by saying Nick again"), so the move is not terminal. ⚠ Fact-check (contradicted-by-source): the November 2024 / October 2025 pair is one trip published twice — see the borrowed-lead flag above |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | late summer | Incidental in the corpus, and on the warm side of a bank edge: yellowtail and yellowfin sat **southeast of Osborn Bank** "where the water warms up a little" in August 2016 (`i3qIAHW-SJc`). Osborn is **12.9 nm** south of Kidney Bank (cameron). ⚠ Flagged gap — no corpus source scoped to this zone. ⚠ Fact-check (contradicted-by-source): `i3qIAHW-SJc` places **only yellowfin** southeast of the bank — the deckhand says "there's some yell in **southeast of the bank** here where the water warms up a little bit there some yell in there also", set up by the interviewer's garbled "yellowfin"; **yellowtail is not in that exchange**. Yellowtail and yellowfin together appear only for the **previous day at the Cortez Bank** ("solid grade of yellowtail and yellow fent tuna at the Cortez Bank") in 74–75° water — a different place. The quoted phrase also drops a word: actual is "where the water warms up a little **bit**". "August 2016" is the **upload date** (2016-08-08); the transcript carries no trip date |
+| [Yellowtail](../species/yellowtail.md) | squid-gated, not month-gated | Documented at the island on squid, not on open-water banks (`5p6gu14ZC4w`, [Santa Barbara Island](santa-barbara-island.md)). Whether island squid fish push out to a high spot **5.6 nm** north is unknown. ⚠ Flagged gap — no corpus source. ⚠ Fact-check (contradicted-by-source): "Documented at the island on squid" hardens a **prospective, hedged suggestion that never names SBI as the squid venue** — `5p6gu14ZC4w` says "there's squid around at different Islands now… **I think** you got a chance you know getting some squid and catching yellowtail with it… you take a squid any of these islands you'll **probably** have a good chance to catching the yellowtail **maybe in a place like Clementi or Kathleen [Catalina]**". The squid source he names is "nachos barge and Long Beach", and the one concrete yellowtail report is Catalina ("the freelance had like 40 yellows in Cavalier"), method unstated |
+| [Calico bass](../species/calico-bass.md) / [rockfish & lingcod](../species/rockfish-lingcod.md) | — | Both are island-shoreline and island-ridge fisheries in the corpus (`EU_Dod4wfYw`, `SGbynqaiHdY`, [Santa Barbara Island](santa-barbara-island.md)); neither mark here has documented kelp, rock or a working depth to hold them. ⚠ Flagged gap — no corpus source, and a 63-fathom high spot is not a shoreline. ⚠ Fact-check (contradicted-by-source): **lingcod appears in neither cited transcript** — `SGbynqaiHdY`'s bottom fish are "reds" and "chuckleheads". The ridge half is supported there ("a little **kelp on and a ridge it comes off the island**… 102 ft underneath this here… catch some rock fish here as well"), but the **shoreline** half is not in `EU_Dod4wfYw`, which never says shoreline, beach, ridge or a depth — only "the boys have made it to Santa Barbara Island", "there was a lot of kelp here last time". The explicit SBI shoreline-calico material is in `PKf7G3uL4io`, which this row does not cite ("see what we can do on **this beach** here", "he was way up like in the foam, **inches of water**") |
 | everything else | ⚠ Flagged gap — no corpus source | Nothing in the corpus names Kidney Bank (63) or the 175 for any species, in any month, in any condition. The silence is a gap in the sources, not a statement that the zone is empty |
 
 **This zone sits immediately off the volume square's northern corner, not inside
@@ -194,14 +237,26 @@ were in September 2022 (`5to3Q5P7w90`, [zone lexicon](zone-lexicon.md),
 latitude and the 175 **7.7 minutes** north of Webster Point, the northernmost
 charted position on Santa Barbara Island (cameron) — a few miles outside the
 corner rather than deep outside the box, which is a different situation from the
-banks further northwest.
+banks further northwest. ⚠ Fact-check (contradicted-by-source): `5to3Q5P7w90`
+never calls SBI the box's *northern corner* — the only ordering cue is "kind of
+going from north to south", and the corner list is unordered ("from the santa
+barbara island to nick to clementi to kathleen").
 
 **The fall warm-band arc arrives from this side.** In fall the arc runs
 **backside Santa Cruz / Rosa → Santa Barbara Island → backside Catalina → the 499
 and Clemente** (`OYOda6T3f-8`, `HzE4FHHcvTk`,
 [bight geography](bight-geography.md)). Santa Barbara Island is a named station
 on it, and this zone sits on the leg the band comes *from* — north of the island
-(cameron). ⚠ Flagged gap — no corpus source places either mark on or off the arc,
+(cameron). ⚠ Fact-check (contradicted-by-source): the arc is in `OYOda6T3f-8`
+only, which gives it in exactly that order off an SST chart ("that orange and
+yellow water… off the back side of Santa Cruz Island backside of Rosa… it you
+know tracks down by Santa Barbara Island… and then that warmer water runs down
+the back side of Catalina and it hooks around to Clementi and that's at 499
+Zone"). **`HzE4FHHcvTk` does not support it** — that is an August report with no
+Santa Cruz/Rosa, no 499 and no warm-band framing; its only comparable line is
+"there's fish from below cat all the way up to uh that basically santa barbara
+island".
+⚠ Flagged gap — no corpus source places either mark on or off the arc,
 and the northern Channel Islands carry no coordinates in the spot library
 ([Southern California Bight](socal-bight.md)), so the leg cannot be drawn. Pull
 temperature and chlorophyll per position and decide on the water
@@ -214,7 +269,20 @@ from **Dana Point to Oceanside and southward**; north of Dana Point paddies thin
 out and hold fewer fish (`HzE4FHHcvTk`,
 [bight geography](bight-geography.md)). Kidney Bank sits **5.0 minutes** and the
 175 **7.4 minutes** of latitude north of the northernmost charted Dana Point
-position (cameron), above that line. ⚠ Flagged gap — no corpus source describes a
+position (cameron), above that line.
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` draws **no boundary at Dana
+Point** and does not say paddies north
+of it hold fewer fish. He gives Dana Point only inside the *best*-water
+description — "your best bet is i would say for that type of action is south of
+san clemente island or south of catalina or along the beach below dana point um
+towards the ocean side" — and states the thinning against a different reference
+frame and in different terms: "when you get **further up** the patties are
+**fewer and further between** and they're **not always holding**", i.e. fewer
+paddies inconsistently holding, on the run up the coast / inside of Catalina. He
+also attributes part of it to **pressure, not geography** — "the closer the
+patties are to a dock the more likely they are to get hit". A latitude line
+measured off a charted Dana Point waypoint is this page's construction.
+⚠ Flagged gap — no corpus source describes a
 paddy over either position either way; mechanics are in
 [kelp paddies](../conditions/kelp-paddies.md).
 
@@ -231,7 +299,16 @@ either commit to or leave in **20–30 minutes** (`Blh2BA-7Ono`,
 [zone lexicon](zone-lexicon.md)). Two marks **3.9 nm** apart is among the
 shortest hops between charted positions in any bank zone on this ladder
 (cameron): both are readable inside an hour of a morning, which is the compact
-pattern.
+pattern. ⚠ Fact-check (contradicted-by-source): only the complex half is in
+`Blh2BA-7Ono` — "you get probably **50 miles 60 square miles** to look so if you
+go out there you know you should expect to spend quite a bit of time driving
+around", "trying to find a you know 23 foot park in a **60 mile square area**".
+The **20–30 minute** commit-or-leave budget is **absent from that transcript**,
+which carries no clock-based time budget for working a spot at all; his timing
+guidance is tide-based ("if there's a slack tide after 9 30 a.m and you're
+finding area that looks fishier than the rest i would be back in that area at
+that time"). The two-zone-types framing and the "idle on, grade on the meter"
+language are the KB's synthesis, not this source's.
 
 **In practice this is an extension of the Santa Barbara Island run, not a
 destination.** That zone is two fisheries on one trip — a shoreline program of
@@ -251,6 +328,14 @@ the cooler water and the yellowtail and yellowfin southeast in the warmer
 [current & structure](../conditions/current-structure.md)). That is the closest
 analogue the corpus offers for how an isolated bank works in this water, and it
 is an analogue, not a description of these marks.
+⚠ Fact-check (contradicted-by-source): the graylight and temperature figures verify verbatim
+("they start about uh **4:30 5:00** the morning and hopefully it gets better and
+better here"; "the fish are up on the edge it's **70°** water we're sitting in
+**72** here at 70 right above the bank here about **a mile and a half**"), but
+**yellowtail is not part of the southeast group** — `i3qIAHW-SJc` puts only
+yellowfin there. "Temperature edge" is also this page's framing; the speaker
+says only "the fish are up on the edge", and the mile-and-a-half is loosely
+attached in the caption rather than stated as a distance off the boat.
 
 **If the borrowed bluefin lead is live, the tackle answer is already written.**
 On the ground northeast of the island, foamers in October 2025 refused both a
@@ -261,13 +346,46 @@ anchovy and microbait; what converted was a **dead flying fish under the kite**
 style on that ground is the beltless, rail-locked "railroading" method
 (`usHl-4SfqDA`, `mDmbGdQAy-4`,
 [fighting big bluefin](../techniques/fighting-big-bluefin.md)).
+⚠ Fact-check (contradicted-by-source): the bait identification is **general
+SoCal narration, not that day's observed bait**. `mDmbGdQAy-4` @00:19:03 says
+"in SoCal, that doesn't mean a thing. These West Coast fish get locked in.
+**Soury, anchovies, and microbait**" as a voiceover about the fishery; what was
+actually observed that day is hedged and thinner — "tiny, skinny little fish
+that look like sour[y]" and "**supposedly** they're feeding on little band
+shogies". The converting bait is stated as **frozen**, not "dead" — "we're going
+to have **frozen flying fish** that we're going to rig up" — though the refusals
+verify ("we got the spreader bars out"; "Sadly, we had no bites on troll and
+also cast in plugs into those feeding fish").
+⚠ Fact-check (contradicted-by-source): the term **"railroading" appears only in
+`mDmbGdQAy-4`** ("When the line stops shifting, that's when all the railroading
+kicks in. You use the boat as leverage. Lock the rod to the rail"). `usHl-4SfqDA`
+describes the same mechanics under a different name — "we start fighting the
+fish in the rail… like a **rail rod style**" — and never uses the word. Beltless
+is supported in both ("You're off the belt"; "let me see the belt" / "You're not
+going to need that").
 
 **Wind is the risk this zone cannot answer for itself, and its neighbours argue
 it is exposed.** A big NW event rolls the **northern Channel Islands** and the
 **LA / Ventura coastal shelf** hardest — **5–8 °F** off the surface temperature —
 while the Coronados, Catalina and San Clemente held their water through the same
 event (`HzE4FHHcvTk`, [bight geography](bight-geography.md),
-[upwelling and turnover](../conditions/upwelling-and-turnover.md)). A single
+[upwelling and turnover](../conditions/upwelling-and-turnover.md)).
+⚠ Fact-check (contradicted-by-source): **none of this is in `HzE4FHHcvTk`** — no
+NW event, no **5–8 °F**, no LA/Ventura shelf, and no Coronados/Catalina/Clemente
+holding line; that report's only weather sentence is "although we've had a
+little bit of weather offshore during the week the last couple days it's it was
+great over the weekend". The nearest real support in the same report series has
+the shape but no number and **different areas**: `5p6gu14ZC4w` gives "a lot of
+the water that stuff was in got kind of cool down considerably by the wind we
+had" for the Channel Islands against "**East End of Clementi and Tanner and
+Cortez** is still that water held up really well", and `OYOda6T3f-8` gives
+coastal figures of a different magnitude and cause ("the water temp was off by
+about **four degrees** from the previous Thursday" at Point Fermin, attributed
+to upwelling). [Bight geography](bight-geography.md) owns this map and Cameron
+has already adjudicated (2026-08-26) that **the map stands** and is to be backed
+by BightSST rollover statistics rather than re-sourced; this flag is on **this
+page's citation** of it, matching the same scoping on
+[Southern California Bight](socal-bight.md). A single
 August 2022 wind event was forecast to blow out the Channel Islands, San
 Clemente, San Nicolas, Santa Barbara Island and the tuna zone off Catalina in one
 go (`CMQkHQMxbXM`, [Santa Barbara Island](santa-barbara-island.md)). Both marks
@@ -281,7 +399,15 @@ from Santa Barbara Island is a read on how many boats went, not on how many fish
 are there (`5p6gu14ZC4w`, [Santa Barbara Island](santa-barbara-island.md),
 [report reading](../planning/report-reading-and-forecasting.md)). These two marks
 are a further few miles out with **zero** corpus mentions (cameron), so the same
-correction applies harder.
+correction applies harder. ⚠ Fact-check (contradicted-by-source): `5p6gu14ZC4w`
+states this only weakly and not as a doctrine — "really not a lot of coverage uh
+Nick SBI that area up there um I'm sure it's good rock fishing", plus a generic
+San-Diego-directed aside ("there's only so many boats out looking right now…
+there might be a lot of fish somewhere nearby that no one's run over yet"). The
+sharp coverage-not-absence rule is stated explicitly in `XLVUhV8DW64`, which
+this page cites elsewhere but not here — "this time here **we lose coverage**
+because we don't have as many boat fishing so people jump to the conclusion that
+these fish are gone".
 
 **Neither mark is a BightSST eval target**, so conditions for this zone are
 pulled per charted position rather than read off a scored spot
