@@ -289,5 +289,6 @@ The observation layer is
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Banda Bank](banda-bank.md)
 - [Evidence — Banda Bank / Todos Santos Island](evidence/banda-bank-todos-santos-island.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [Todos Santos Island](todos-santos-island.md)
 <!-- backlinks:end -->
