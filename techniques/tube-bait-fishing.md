@@ -244,6 +244,16 @@ move on and save the livewell for a confirmed bite (`5Oh3IPIC5g4`). This
 complements, rather than replaces, the wake-up tricks (slow-trolled sardine,
 deck-hose spray, chunking) already documented for a quiet-but-loaded paddy
 in [dorado](../species/dorado.md).
+⚠ Fact-check (contradicted-internal):
+[dorado](../species/dorado.md#situations--techniques) routes the same
+check-cast to this section off the same cite and the same 1 oz size, but names
+the colour as **pink** — "a pink ('Dorado') colour, 1 oz or 5/8 oz… a named
+dorado favourite at paddies" (`5Oh3IPIC5g4`) — against **mint or sardine**
+here. The two notes hand a reader different colours for one action. The router
+side already carries a contradicted-by-source flag establishing that "Dorado"
+in that transcript is the fish, not a colour name, and that the speaker's
+named colours include mint and sardine as well as pink; this reciprocal flag
+makes the split visible from this side too.
 
 **Boil/foamer:** fire into the boil and give it a full **50 count** before
 the retrieve — the same "don't blink on the sink" principle as the

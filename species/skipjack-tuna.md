@@ -374,6 +374,7 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)

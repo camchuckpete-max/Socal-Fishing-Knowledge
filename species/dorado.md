@@ -154,7 +154,7 @@ on the bite. Nothing in the corpus addresses it.
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; confirm fish with a Mad Scad from the tower before committing (`VgpgJ8IAyJo`). ⚠ cite-unresolved: sources/bd-transcript-knowledge-proposal.md — the slow-troll swing and the deck-hose spray trace to a KB input doc, not to a transcript |
 | **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | A pink ("Dorado") colour, 1 oz or 5/8 oz, is a named dorado favourite at paddies (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) [c] [e] |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade attacks a jig its own size and even marlin-size lures (`E4vKwRaRueA`) [d] |
-| **Picky/finicky** dorado circling the boat, won't commit | **Step the leader and the hook down together**, keeping a live bait swimming naturally — the ladder, its floor and the hook band are in [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear) | Light flyline class | Do not change baits; change the size of what the bait is dragging (`E4vKwRaRueA`) [f] |
+| **Picky/finicky** dorado circling the boat, won't commit | **Step the leader and the hook down together**, keeping a live bait swimming naturally — the ladder, its floor and the hook band are in [dorado — kelp-paddy flyline](dorado-kelp-paddy.md#rigs--gear) | Light flyline class | Do not change baits; change the size of what the bait is dragging (`E4vKwRaRueA`) [f] ⚠ Fact-check (contradicted-internal): [chunking](../techniques/chunking.md#chum-bait-selection) puts the opposite move first for the same scenario — a dorado in a chummed school "refused the sardine outright but ate the cut chunk as soon as it was dropped in" (`uyjTdgIw-1k`), and that note states the bait-class switch is worth trying **before** stepping the leader down. This row's flat prohibition on changing baits and that note's chunk-first sequence cannot both be the first response to a fish that will not commit; chunking calls the two "compatible", which the wording here is not |
 
 [a] The hook-style call is **J-hook, not circle** (`E4vKwRaRueA`,
 `P9H-bpzT7eU`), with both of its reasons and the corpus counter-examples in
@@ -176,6 +176,18 @@ and the paddy context are verbatim. Cross-note:
 [tube-bait fishing](../techniques/tube-bait-fishing.md) renders the same
 check-cast from the same cite as a 1 oz bullet in **mint or sardine**, so the two
 notes hand a reader different colours for one action.
+⚠ Fact-check (contradicted-internal): that same colour split, stated from this
+side only until now — [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer)
+carries the check-cast with no flag, so a reader arriving from the technique
+note has no sign the two disagree. Reciprocal flag added there 2026-09-02.
+⚠ Fact-check (contradicted-internal): the row's deep link to that section uses a
+pre-rewrite heading — `#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4`
+— and the anchor is dead: the plain-statement rewrite dropped the attribution
+tail, so the real heading is
+`## Tuna: patties, boils, and punching through a skipjack layer`. The link
+resolves to the file and lands the reader at the top of it, not the section the
+row promises. Same defect class already logged from
+[skipjack tuna](skipjack-tuna.md), and one of 203 stale anchors repo-wide.
 [f] ⚠ Fact-check (contradicted-by-source): "do not change baits" is not in
 `E4vKwRaRueA` — changing baits never comes up. The source says the hook step-down
 applies "the same" as the leader step-down when a visible fish will not bite; the

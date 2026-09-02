@@ -61,6 +61,15 @@ bait-*class* preference distinct from, but compatible with, the picky-dorado
 leader-stepdown doctrine in [dorado](../species/dorado.md): when a fish won't
 commit to the "good" live bait, switching to a chunked/cut offering may draw a
 bite before stepping the leader down. Region: SoCal, Mission Bay/offshore.
+⚠ Fact-check (contradicted-internal): "compatible with" understates it —
+[dorado](../species/dorado.md#situations--techniques)'s picky-fish row states
+the prohibition outright, "**Do not change baits**; change the size of what the
+bait is dragging" (`E4vKwRaRueA`), where this section makes a bait-class change
+the move to try **before** the leader ladder. One of the two is the first
+response to a dorado circling without eating, and the notes do not agree which.
+Flagged on both notes 2026-09-02; the router side separately carries a
+contradicted-by-source flag showing the prohibition is not in `E4vKwRaRueA`
+either.
 
 **Stock the chunk supply proactively.** If you run into a school of skipjack
 while running to the grounds, catch a couple and keep them for chunk bait
