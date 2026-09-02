@@ -28,7 +28,10 @@ of it.
   fishing was done at the anchorage, no position, depth or structure was given,
   and the name is used loosely enough to mean either this zone's island or the
   wider bay that shares its name — recorded here rather than claimed for the
-  zone, and ledgered as `unverifiable`. The rest of that trip's fishing content
+  zone, and ledgered as `unverifiable`. ⚠ Fact-check (contradicted-by-source):
+  the transcript never mentions anchoring, and the two dishes are the other way
+  round — the ceviche was made from the rockfish ("the rockfish is being used
+  for Alejandro's ceviche") and the bonito was the seared and spicy plate. The rest of that trip's fishing content
   belongs to [Ensenada](../ensenada.md) and is filed in its evidence file;
   unregistered channel.
 

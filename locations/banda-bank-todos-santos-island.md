@@ -68,7 +68,10 @@ and nothing identifies either mark with the high spot.
 **The corpus's only mention of the name is a meal, not a fishery.** An Ensenada
 trip broke for lunch at anchor in "a beautiful cove here in Todos Santos"
 (`0dIwWiOc1NY`) — the crew's own words, with no fishing done there and no
-position given. ⚠ Fact-check (unverifiable): the phrase resolves equally to a
+position given. ⚠ Fact-check (contradicted-by-source): the transcript never
+mentions anchoring, and the line is the host's narration ("we are in a beautiful
+cove here in Todos Santos, Mexico"), not the crew's or the guide's speech.
+⚠ Fact-check (unverifiable): the phrase resolves equally to a
 cove on this zone's island and to the wider bay that carries the same name, and
 nothing on camera separates them; the mention is recorded, not claimed as this
 zone's.
@@ -93,7 +96,11 @@ side.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
-([Mexican waters](mexican-waters.md)). ⚠ Flagged gap — no corpus source:
+([Mexican waters](mexican-waters.md)). ⚠ Fact-check (unverifiable): no corpus
+source names CONAPESCA or INM — the linked [Mexican waters](mexican-waters.md)
+page already carries a ledgered flag that its sources never give the CONAPESCA
+name, so the agency attribution here rests on nothing in the corpus.
+⚠ Flagged gap — no corpus source:
 closures, protected areas, anchoring restrictions or depth limits anywhere in
 this zone — and an inshore island beside a working port is exactly the kind of
 place that carries them.
@@ -188,7 +195,16 @@ and yellowtail are named as the standing inshore mix off Ensenada, with a
 down-coast point-and-reef stop fished for [yellowtail](../species/yellowtail.md)
 and a ~300 ft rock bottom producing vermilion, bocaccio and lingcod
 (`0dIwWiOc1NY`; [Ensenada](ensenada.md),
-[rockfish & lingcod](../species/rockfish-lingcod.md)). Baja coastal structure
+[rockfish & lingcod](../species/rockfish-lingcod.md)).
+⚠ Fact-check (contradicted-by-source): the source names those three fish as the
+day's targets in the guide's own list ("it's barracudas, bonitas, yellowtails"),
+never as a standing or year-round inshore assemblage; the same "standing inshore
+mix" wording sits on [Baja Pacific — North](baja-pacific-north.md) under the same
+cite. ⚠ Fact-check (contradicted-by-source): the transcript names only lingcod of
+those three rockfish — the reds are called "red snapper" and a "salmon grouper"
+on camera, and the words *vermilion* and *bocaccio* appear nowhere in it; the
+depth is given as a sounder reading of "about 280" and a drop-off "to about
+300 ft". Baja coastal structure
 from Ensenada southward holds yellowtail more or less year-round with the grade
 improving as you go south (cameron; [Baja Pacific — North](baja-pacific-north.md)).
 Neither frame is extended onto these two marks, because no source extends it —
@@ -199,7 +215,15 @@ port, never by mark.** Yellowfin were reported showing **30–40 mi** out of
 Ensenada, and the crew chose closer structure over the run (`0dIwWiOc1NY`);
 skipjack and yellowfin were worked around a floating object about **35 mi** out
 on temperature breaks west of the port, with a striped marlin seen jumping on a
-dolphin-school foamer the same trip (`0bcDBGzQnGw`). Both
+dolphin-school foamer the same trip (`0bcDBGzQnGw`).
+⚠ Fact-check (contradicted-by-source): no floating object appears anywhere in
+that transcript — the tuna were worked around a marine-mammal school ("slow troll
+and some cedar plugs right now around this big dolphin school"), the 35 mi is
+given as the boat's distance from Ensenada at the first fish rather than as the
+object's position, and no temperature break or compass direction is stated for
+that fish. ⚠ Fact-check (contradicted-by-source): the source says only "marlin"
+("just saw marlin jump right in front of the boat") — *striped* is a regional
+inference, not the transcript's word. Both
 bands lie well outside this zone, and neither carries a bearing narrow enough to
 put a fish on a position. [Yellowfin tuna](../species/yellowfin-tuna.md) and
 [bluefin tuna](../species/bluefin-tuna.md) carry that material at region level.
@@ -227,13 +251,23 @@ straight past both marks.** The stated Ensenada offshore plan is a run of
 sea conditions, with a fallback search **20–30 mi north**, trolling cedar plugs
 to locate fish and working deliberately away from the fleet (`0bcDBGzQnGw`;
 [Ensenada](ensenada.md), [water temperature](../conditions/water-temperature.md),
-[current structure](../conditions/current-structure.md)). Both of this zone's
+[current structure](../conditions/current-structure.md)).
+⚠ Fact-check (contradicted-by-source): the captain's stated plan carries the
+20–30 mi straight west, the temp break, the north-or-west-by-sea-conditions leg,
+the 20–30 mi north leg and the away-from-the-fleet goal, but no cedar plugs — the
+cedar-plug trolling is a separate scene earlier in the same video, run around a
+dolphin school, and has been merged into the plan here. Both of this zone's
 marks sit inside the first quarter of that run. On the inshore side the same port
 produces a slow-trolled mackerel and cast-jig program on points and reefs, worked
 in the gray-light window and abandoned when the tide was wrong (`0dIwWiOc1NY`;
 [slow-trolling bait](../techniques/slow-trolling-bait.md),
 [surface iron](../techniques/surface-iron.md),
-[tide and slack](../conditions/tide-and-slack.md)). Applied here, that makes the
+[tide and slack](../conditions/tide-and-slack.md)).
+⚠ Fact-check (contradicted-by-source): the crew had already **missed** the gray
+light when they fished it — the source states yellowtail "feed hardest during
+gray light early in the morning" and then "we'd already missed it" — and the move
+off the spot is attributed to that missed window as much as to the tide ("the
+tides were off, too, so we moved on"). Applied here, that makes the
 island **water you would pass on the way out and could fish on the way in** —
 which is a plausible read of the geometry, not something any source says.
 
