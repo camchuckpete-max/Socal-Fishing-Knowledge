@@ -548,3 +548,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T16:01:48Z — species/yellowtail-dropper-loop.md — verify-escalate
 - run: 33651803282
 - reason: verifier found no working-tree diff for the factcheck worker pass and could not confirm whether the zero-flag outcome (17/17 claims verified against SAltQjih0ms/YntRJAN88fs/HTowqnwAMeA, no contradictions) is legitimate or a missed worker step
+
+## 2026-09-02T17:05:46Z — cluster:barracuda — guard-violation
+- run: 33658289076
+- reason: commit 33fd54359112a3a162093d6c0a0a84b4607afd54 reverted: out of scope for 'review: cluster:barracuda': techniques/flyline.md; out of scope for 'review: cluster:barracuda': techniques/surface-iron.md
