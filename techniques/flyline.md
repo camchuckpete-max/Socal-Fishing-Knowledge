@@ -113,6 +113,11 @@ Pick the hook position for the swimming behavior you want:
   tuna, [barracuda](../species/barracuda.md), [bonito](../species/bonito.md),
   and [yellowtail](../species/yellowtail.md); anchovy for
   [calico bass](../species/calico-bass.md).
+  ⚠ Fact-check (contradicted-internal):
+  [barracuda](../species/barracuda.md) routes its flyline situation to "a
+  sardine or mackerel" while its own tax row makes a **big live mackerel**
+  the bait that screens barracuda off the hook (`w5_x6kkN-xE`) — against this
+  pairing, which puts sardine on barracuda and mackerel on striped marlin.
 - **Bait selection is king.** Cull the bloody, scaly, lethargic baits into the
   chum bucket; fish the lively lime-green ones that are hardest to catch in the
   tank. If a bait isn't pulling line off the reel within about **60 seconds**,
