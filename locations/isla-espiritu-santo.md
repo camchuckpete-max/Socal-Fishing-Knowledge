@@ -21,6 +21,14 @@ island** and fished for **mullet snapper** and
 zone's 12 ft shallow rock is (`92y14x33etQ`). The guide translated the name on
 camera as *Holy Spirit Island* (`92y14x33etQ`).
 
+⚠ Fact-check (contradicted-by-source): the **12 ft** figure is not in
+`92y14x33etQ` — the string "12" appears nowhere in that transcript in any unit,
+and it gives no troll depth at all. The number is real but belongs to
+`ORC1A68cEeM`, which [the zone page](la-paz.md#how-it-fishes) cites for it. The
+island-rock half of the sentence, and the *Holy Spirit Island* translation
+(*"Holy Spirit Island to Santo it means holy spirit"*, `92y14x33etQ`), are both
+verbatim.
+
 **It carries no charted position in [the spot library](../sources/spot-lists.md).**
 That library stops at San Quintín on the Pacific side and carries nothing on
 this coast, so a conditions pull has to run against
@@ -49,6 +57,14 @@ anyway (`92y14x33etQ`;
 Checked as of 2026-08. Verify current requirements before you fish
 ([Mexican waters](mexican-waters.md), [the zone page](la-paz.md)).**
 
+⚠ Fact-check (unverifiable, ext-verify): `92y14x33etQ` names no agency, licence,
+permit or entry requirement anywhere — the agency split is inherited from
+[Mexican waters](mexican-waters.md), whose own ledger row already records that
+its cited transcripts never give the CONAPESCA name either, and the same flag
+already stands on [the zone page](la-paz.md). The as-of stamp and the
+verify-current instruction follow the content rules; only the agency naming is
+uncorroborated in the corpus.
+
 ⚠ Flagged gap — no corpus source: any closure, park boundary, protected area or
 depth restriction over this island, and no ramp, launch, run time, distance or
 sea-state envelope for reaching it under your own power.
@@ -66,6 +82,15 @@ both described on [the zone page](la-paz.md#structure--bathymetry).
 grouper came off the bottom, and bigger fish were seen refusing the bait, so the
 water here is clear enough to watch the fish you are not catching
 (`92y14x33etQ`).
+
+⚠ Fact-check (contradicted-by-source): the bigger-fish line in `92y14x33etQ` is
+*"we saw some bigger ones come up so trying to figure them out they're being a
+little picky right now"* — seen and picky, never stated as refusing a bait.
+"Refusing the bait" and the clear-water inference are both the KB's. The small
+toothy fish off the bottom are verbatim (*"bouncing this thing up off the
+bottom"*; *"a little Snapper or a little grouper… little grouper with lots of
+teeth"*). The same hardening is restated in
+[How it fishes](#how-it-fishes), where it carries the leave-the-spot call.
 
 ⚠ Flagged gap — no corpus source: soundings, bottom composition, relief, the
 extent of the rock, the island's shape or which side of it was fished, and how
@@ -110,6 +135,12 @@ whatever"* — and the boat ran to the zone's bank high spot, where it caught
 **Visible refusals are part of the same read.** Bigger fish were watched
 declining the bait before the move, so the call to leave was made on fish that
 were present and not eating rather than on an empty spot (`92y14x33etQ`).
+
+⚠ Fact-check (contradicted-by-source): same finding as the
+[Structure & bathymetry](#structure--bathymetry) flag, restated here as a read
+the reader is asked to reuse — `92y14x33etQ` says only *"we saw some bigger ones
+come up… they're being a little picky right now"*. The abandon-on-no-current
+quote in the bullet above is verbatim and stands.
 
 ⚠ Flagged gap — no corpus source: a tide, moon or current *window* for this
 island, how long to give the stop, or what conditions send you here instead of
