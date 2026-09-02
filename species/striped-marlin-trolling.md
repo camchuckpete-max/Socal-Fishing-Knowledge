@@ -37,6 +37,10 @@ the seasonal and geographic pattern behind it stays on the router.
 the dirtier water on the colour line and the marlin hold in the blue beside it,
 so the spread goes out where there is still bait and is trolled toward "the
 clean water where the marlin would likely live" (`HzE4FHHcvTk`).
+⚠ Fact-check (contradicted-by-source): the quoted phrase reads "the **clear**
+water where the marlin would likely live" on `HzE4FHHcvTk`, not "clean," and it
+is the speaker's speculation while narrating a trip that raised no marlin, not
+stated doctrine.
 
 **Hunt the temperature before the jigs go in.** The target water on the corpus's
 worked SoCal stop was **68°F**, and the water actually fished read
@@ -46,6 +50,9 @@ worked SoCal stop was **68°F**, and the water actually fished read
 **an hour before or after** the change, so the spread should already be working
 the highest-percentage ground an hour ahead of it (`3qSY328fFYo`,
 `6TBxHnkYXI0`). See [tide & slack](../conditions/tide-and-slack.md).
+⚠ Fact-check (contradicted-by-source): `6TBxHnkYXI0` supports being on the spot
+an hour before the tide change but never mentions "jig strikes" specifically —
+the jig-strike timing detail is `3qSY328fFYo` only.
 
 **The ground worked in the corpus.** From the home port, **19.2 miles at 193°**
 to the bottom of the **tanker lanes** (roughly 17 miles out), then a further
@@ -101,6 +108,10 @@ drop) (`3qSY328fFYo`). See
 jig-raised marlin is roughly **one hookup for every five or six** fish
 raised or interested (`3qSY328fFYo`) — which is why the pitch bait stays rigged
 and why the spread-watch discipline above is worth a dedicated crew member.
+⚠ Fact-check (contradicted-by-source): the source hedges this as "usually get
+one out of five or six if you're lucky" — the "if you're lucky" qualifier is
+dropped here and in this note's lead and "Differs from the general method"
+restatements of the same figure.
 
 **A jumper behind the spread is not a biter; a feeder is** — the read is on the
 router, at
