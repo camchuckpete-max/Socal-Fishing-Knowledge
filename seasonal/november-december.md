@@ -118,6 +118,7 @@ Trip reports and per-source provenance:
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sea State](../conditions/sea-state.md)
