@@ -67,9 +67,23 @@ Channel Islands and the LA/Ventura coastal shelf, while south of Newport is less
 prone to wind-wave rollover and the Coronados, Catalina and San Clemente held
 their water through one such event (`YZtX1MiT0y8`,
 [bight geography](bight-geography.md),
-[upwelling and turnover](../conditions/upwelling-and-turnover.md)). Inside the
-group the order of what stays fishable is repeatable in the two 2022 reports
-that state it: with wind up the northern islands for the weekend after
+[upwelling and turnover](../conditions/upwelling-and-turnover.md)).
+⚠ Fact-check (contradicted-by-source): the **5–8 °F** delta is not in
+`YZtX1MiT0y8`. Its only temperature drop is a hedged "seven maybe eight
+degrees" for the beach off Long Beach; the northern Channel Islands are given
+an absolute, not a delta — "hardest hit was the northern channel islands
+miguel rosa the front side of santa cruz island ... they're in the low 50s".
+The geography (south of Newport "less prone to the wind wave driven
+rollovers", Coronados/Catalina/Clemente holding) verifies verbatim. Same
+finding already flagged on `seasonal/april.md`, `locations/hancock-bank.md`
+and `locations/sverdrup-bank-126.md`. The map itself is not in question —
+Cameron adjudicated it 2026-08-26 on
+[bight geography](bight-geography.md) ("the map stands, and it is not going to
+be re-sourced to another video"), to be re-backed by a BightSST per-zone
+rollover analysis; this flag is scoped to the figure as cited here.
+
+Inside the group the order of what stays fishable is repeatable in the two 2022
+reports that state it: with wind up the northern islands for the weekend after
 2022-07-21, Santa Cruz and Anacapa were called "plenty fishable" while Santa
 Rosa "might be an issue for private boats" (`Blh2BA-7Ono`), and the April 2022
 event put the worst of it on Miguel, Rosa and the front side of Santa Cruz
@@ -85,6 +99,21 @@ no wind or Santa Anas before it is committed to (`Z3rZqy2Pi8E`,
 **12–24 h wind hindcast** belongs in the conditions pull beside the forward
 forecast
 ([sea state](../conditions/sea-state.md#wind-history-not-just-wind-forecast-1224-h-hindcast)).
+⚠ Fact-check (contradicted-by-source): **two or more consecutive days** is
+harder and more general than the cite. `Z3rZqy2Pi8E` states a first-person
+trip-planning preference — "i don't really look for a couple days of continuous
+no wind or santa anas before i plan a trip up there" — with "a couple", no "or
+more" and no go/no-go framing, and the leading negation is auto-caption garble.
+The night-wind-around-Conception mechanism and the morning-calm trap verify
+near-verbatim in the same passage. Same finding already ledgered from
+`seasonal/november-december.md` and
+`locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md`.
+⚠ Fact-check (contradicted-by-source): the **12–24 h** window is not in
+`Z3rZqy2Pi8E`, which states no hour figure at all — its only lookback is "a
+couple days of continuous no wind", i.e. days rather than hours. The range is
+the KB's own operationalization and
+[sea state](../conditions/sea-state.md#wind-history-not-just-wind-forecast-1224-h-hindcast)
+already carries the standing flag saying so.
 
 **Private-boat access is the difference between a report and a trip.** On the
 2022-08-03 week barracuda were reported here, the zone was reachable only aboard
@@ -92,6 +121,13 @@ a boat (`CMQkHQMxbXM`). Read that alongside August's coverage bias: with the
 fleet offshore the islands lose reporting, which is missing coverage rather than
 a dead island (`CMQkHQMxbXM`, [August](../seasonal/august.md),
 [report reading & forecasting](../planning/report-reading-and-forecasting.md)).
+⚠ Fact-check (contradicted-by-source): `CMQkHQMxbXM` inverts both halves. On
+access it says the week was wind-gated and doubtful even for the big boats —
+"i don't really think it's gonna be doable up there unless you're on a sport
+but maybe not even then ... check the weather before heading out" — the
+opposite of a private boat being the key. On coverage, the "most of the
+overnight boats are fishing offshore, not a lot of coverage at that island"
+line is said about **San Clemente**, not the Channel Islands.
 
 **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
 2026-08. Verify current rules before you fish** ([US waters](us-waters.md);
@@ -115,12 +151,32 @@ stop given a number on camera is a rock at roughly **175 ft** (`6-8KfjEg0x8`).
 Above that, [white seabass](../species/white-seabass.md) sit along kelp edges,
 hard structure and squid nests and beds in **60–100+ ft** at the islands
 (`Eo_bA8IWvyU`, `Xr4nURK-Z48`).
+⚠ Fact-check (contradicted-by-source): the **100–250 ft** band is not in
+`6-8KfjEg0x8`. Its only depth is a single figure — "we ventured out to a little
+shallow spot. It's about 175 ft deep" — and neither 100 nor 250 nor any range
+nor the phrase "high spots" occurs; the one-rock variety bag and the San Diego
+contrast (made about **blue bass** specifically) do verify. Same finding
+already flagged on [12 Mile Reef](12-mile-reef.md).
+⚠ Fact-check (contradicted-by-source): the **60–100+ ft** figure rests on
+`Eo_bA8IWvyU` alone — "if we're fishing 60 to 100 ft of water and the skipper
+says, hey, we got fish in 20 to 30 feet" — which caps at 100 ft with no "+",
+narrows to "typically between 60 to about 90 ft" for the squid beds, and never
+names the islands. `Xr4nURK-Z48` gives the island framing ("we're here at
+Catalina Island") but no depth at all, so it does not corroborate the number.
 
 **Hard bottom and hard-to-sand seams are the reason fish are there.**
 [Ocean whitefish](../species/ocean-whitefish.md) come off exactly those seams on
 the same shallow island high spots that produce the rockfish variety bag, and
 [sheephead](../species/sheephead.md) come off the same shallow island rock
-(`6-8KfjEg0x8`). The general reads — which face of an island is worth running to
+(`6-8KfjEg0x8`).
+⚠ Fact-check (contradicted-by-source): the **hard bottom and hard-to-sand
+seam** habitat read is not in `6-8KfjEg0x8`. That transcript's only whitefish
+habitat line is "they school up like crazy up here. You'll catch a hundred of
+them"; the seam doctrine belongs to
+[ocean whitefish](../species/ocean-whitefish.md) and is not scoped to this
+island group by its own cite.
+
+The general reads — which face of an island is worth running to
 is a wind-and-swell decision made per island and per spot, and each mark has its
 own preferred conditions — are in [island structure](island-structure.md) and
 [current structure](../conditions/current-structure.md).
@@ -146,16 +202,16 @@ group and never the island (`6-8KfjEg0x8`).
 
 | species | season | what this island group does for them |
 | --- | --- | --- |
-| [White seabass](../species/white-seabass.md) | spring through summer, on the squid; moon-clustered | One of the three stated primary goals of a Ventura/Oxnard day (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). The bites cluster on the moons: full-moon island bites twice in the 2022 cycle (`DnSqw4r7A1s`, `-JZpyWLdKlk`), and a **22-fish day** here on the new moon in warm water with squid present — hedged on camera as possibly a one-off (`HnqiE05vdXs`) |
+| [White seabass](../species/white-seabass.md) | spring through summer, on the squid; moon-clustered | One of the three stated primary goals of a Ventura/Oxnard day (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). The bites cluster on the moons: full-moon island bites twice in the 2022 cycle (`DnSqw4r7A1s`, `-JZpyWLdKlk`), and a **22-fish day** here on the new moon in warm water with squid present — hedged on camera as possibly a one-off (`HnqiE05vdXs`). ⚠ Fact-check (contradicted-by-source): the 22 fish, the new moon and the one-off hedge all verify, but **squid is never mentioned in `HnqiE05vdXs`** — the only forage/water line is "nice warm water up that way plenty of bass body and stuff like that" |
 | [Yellowtail](../species/yellowtail.md) | ⚠ Flagged stub — no corpus source yet on a month window here | A stated primary goal of the trip (`6-8KfjEg0x8`, `nRIAgz5G_Bc`), and the occasional yellowtail alongside barracuda on a slow early-August 2022 week (`-JZpyWLdKlk`). No count, grade or program is given for yellowtail at this group |
 | [California halibut](../species/california-halibut.md) | ⚠ Flagged stub — no corpus source yet on a month window here | The third primary goal (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). The live-bait drift scales from 8–10 ft of bay water to here on the same trap rig (`a5u8BaYzw8c`), and the light-gauge banana head takes them specifically when let all the way to the bottom (`PnAnAS6QoG8`) |
 | [Barracuda](../species/barracuda.md) | July into early August, on the dated 2022 reports | Island anglers got calicos and "nice barracuda" in July 2022 (`DnSqw4r7A1s`); "still some barracuda caught" at Santa Cruz and Anacapa in early August (`CMQkHQMxbXM`); a slow week in mid-August produced barracuda and occasional yellowtail (`-JZpyWLdKlk`) |
-| [Calico bass](../species/calico-bass.md) / [bonito](../species/bonito.md) | summer into October | Two of "the three B's around" — bass, barracuda, bonito — on the squid-and-variety day (`6-8KfjEg0x8`); calicos with the July 2022 barracuda (`DnSqw4r7A1s`); bonito dated to the Ventura coast and the islands in October (`OYOda6T3f-8`, `5p6gu14ZC4w`) |
-| [Rockfish & lingcod](../species/rockfish-lingcod.md) | year-round on the shallow band; the Santa Ana window in late fall | The shallow **100–250 ft** island variety drift — reds, blue bass, bocaccio and short lingcod off one ~175 ft rock, with blue bass named as an islands fish absent from San Diego (`6-8KfjEg0x8`). Rosa and Miguel give limits of reds and lings in a Santa Ana window (`Z3rZqy2Pi8E`, `OYOda6T3f-8`) |
-| [Ocean whitefish](../species/ocean-whitefish.md) | on the same shallow stops | The corpus's prime whitefish water: hard bottom and hard-to-sand seams on the 100–250 ft island high spots, with "monster-sized whitefish" off a squid-baited shallow stop before the boat moved to the ~175 ft rock (`6-8KfjEg0x8`). That one variety day is the corpus's only SoCal account of whitefish as a target rather than a by-catch, and the router carries the single-source flag on it |
+| [Calico bass](../species/calico-bass.md) / [bonito](../species/bonito.md) | summer into October | Two of "the three B's around" — bass, barracuda, bonito — on the squid-and-variety day (`6-8KfjEg0x8`); calicos with the July 2022 barracuda (`DnSqw4r7A1s`); bonito dated to the Ventura coast and the islands in October (`OYOda6T3f-8`, `5p6gu14ZC4w`). ⚠ Fact-check (contradicted-by-source): "the islands" resolves to **Catalina** in both cites, never this group; `OYOda6T3f-8` puts the Ventura bonito on the **coast**, explicitly as the option when it is too windy to go to the island, and Ventura is not named at all in `5p6gu14ZC4w`. October and bonito hold. Same row already ledgered from [Anacapa Island](anacapa-island.md) |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | year-round on the shallow band; the Santa Ana window in late fall | The shallow **100–250 ft** island variety drift — reds, blue bass, bocaccio and short lingcod off one ~175 ft rock, with blue bass named as an islands fish absent from San Diego (`6-8KfjEg0x8`). Rosa and Miguel give limits of reds and lings in a Santa Ana window (`Z3rZqy2Pi8E`, `OYOda6T3f-8`). ⚠ Fact-check (contradicted-by-source): the **100–250 ft** band is not in `6-8KfjEg0x8` — see the full finding under [Structure & bathymetry](#structure--bathymetry) |
+| [Ocean whitefish](../species/ocean-whitefish.md) | on the same shallow stops | The corpus's prime whitefish water: hard bottom and hard-to-sand seams on the 100–250 ft island high spots, with "monster-sized whitefish" off a squid-baited shallow stop before the boat moved to the ~175 ft rock (`6-8KfjEg0x8`). That one variety day is the corpus's only SoCal account of whitefish as a target rather than a by-catch, and the router carries the single-source flag on it. ⚠ Fact-check (contradicted-by-source): neither the **100–250 ft** band nor the hard-bottom / hard-to-sand **seam** read is in `6-8KfjEg0x8` — see the full findings under [Structure & bathymetry](#structure--bathymetry) |
 | [Sheephead](../species/sheephead.md) | year-round resident | A pair lost off the shallow island rock on the same low-current variety day, alongside the whitefish (`6-8KfjEg0x8`) |
 | [Striped marlin](../species/striped-marlin.md) | late August into fall | Warm water with "plenty of bass body" up this way in late August 2022 was called marlin water — "probably find a marlin up that way if you're gonna look for one" (`HnqiE05vdXs`). It is the corpus's earliest-in-year SoCal marlin call, and it is a call rather than a catch |
-| [Bluefin tuna](../species/bluefin-tuna.md) | July–September, on 2022–2023 reports | August peak dispersal reaches this end of the Bight — **Catalina to San Nicolas to Ventura**, fish "showing up in weird places" and gone the next day (`CMQkHQMxbXM`, [August](../seasonal/august.md)). Fish were forecast onto the Anacapa and Santa Cruz backsides on 2022-07-21 and onto the Anacapa front side on 2022-09-14 (`Blh2BA-7Ono`, `5to3Q5P7w90`), and a 2023-08-02 fleet trip worked foamers here while the full-day boats were not yet connecting (`42A8Owhc8fw`) |
+| [Bluefin tuna](../species/bluefin-tuna.md) | July–September, on 2022–2023 reports | August peak dispersal reaches this end of the Bight — **Catalina to San Nicolas to Ventura**, fish "showing up in weird places" and gone the next day (`CMQkHQMxbXM`, [August](../seasonal/august.md)). ⚠ Fact-check (contradicted-by-source): the three places verify ("those fish are scattered all the way from basically Catalina to [San Nicolas] and above there all the way up to Ventura"), but "**peak** August dispersal" is the KB's framing — no month and no peak language is spoken, the nearest being "these things are pretty much everywhere right now" — and the quote is a named third party's report condensed into a bare quote ("Aaron Graham who runs the Native Son talked about the fact that they're showing up in weird places and the next day they're gone again"). Identical row already ledgered from [12 Mile Reef](12-mile-reef.md) and [Anacapa Island](anacapa-island.md). Fish were forecast onto the Anacapa and Santa Cruz backsides on 2022-07-21 and onto the Anacapa front side on 2022-09-14 (`Blh2BA-7Ono`, `5to3Q5P7w90`), and a 2023-08-02 fleet trip worked foamers here while the full-day boats were not yet connecting (`42A8Owhc8fw`). ⚠ Fact-check (contradicted-by-source): the 2022-09-14 Anacapa front-side line is conditional and speculative on `5to3Q5P7w90`, not a forecast — "if the [yellowfin] pushes up ... you might be going bluefin fishing on the front side of Anacapa Island next, who knows; they've certainly been up there in the past" |
 
 ⚠ Flagged gap — no corpus source gives a grade, count or average size for any
 species at this group except the 22-fish white seabass day (`HnqiE05vdXs`) and
@@ -174,6 +230,14 @@ files: [barracuda](../species/barracuda.md) (Santa Cruz / Anacapa),
 but no current meters fish that do not bite: at the islands current is "just as
 important as the bait you're fishing," and the conditions make or break the day
 out there (`6-8KfjEg0x8`, [current structure](../conditions/current-structure.md)).
+⚠ Fact-check (contradicted-by-source): the quoted half verifies verbatim, but
+`6-8KfjEg0x8` says nothing about metering fish that refuse — and that same
+low-current day still produced the bag ("we got some whitefish, we lost a
+couple sheephead"); its only sonar reference precedes a bite ("some kind of
+scratchy marks coming through throughout the column ... And he's on. And we're
+bit"). Same finding already flagged on [12 Mile Reef](12-mile-reef.md),
+[Anacapa Island](anacapa-island.md) and
+[rockfish & lingcod](../species/rockfish-lingcod.md) against this cite.
 Grade the water moving over the structure before grading the marks on the screen
 ([electronics and sounder](../planning/electronics-and-sounder.md)).
 
@@ -219,6 +283,14 @@ bait; the Owner Aki Twist runs **4/0 to 6/0** for the same trip (`nRIAgz5G_Bc`,
 fleet trip the picks were a Daiwa SK jig, a Shimano Colt Sniper and RW Peanuts in
 **80 g** and **100 g** — small, heavy profile being the point rather than the
 model (`42A8Owhc8fw`, [foamer casting](../techniques/foamer-casting.md)).
+⚠ Fact-check (contradicted-by-source): all three models and both gram weights
+verify, but the trip framing does not. `42A8Owhc8fw` is a dockside tackle talk
+for a trip the speaker puts **the next day** ("tomorrow we're going to be
+fishing aboard the Speed Twin"), so 2023-08-02 is the talk, not the fishing;
+and "Channel Islands Sportfishing" is the Oxnard **landing/fleet name** in
+"there has been bluefin being caught out of the Channel Islands Sportfishing
+fleet" — the fish are located by which fleet caught them, not by a stated
+position at these islands.
 
 **The fall arc starts on this shore and runs away from it.** As the coast cools
 and the warm band fragments, the water tracks a repeatable path — backside Santa
@@ -227,6 +299,13 @@ Catalina → hooking to the 499 and Clemente (`OYOda6T3f-8`, `XLVUhV8DW64`,
 [bight geography](bight-geography.md), [October](../seasonal/october.md)). Its
 first station is these island backsides and every later one is further south, so
 the fall pattern moves the fishery off this group rather than onto it.
+⚠ Fact-check (contradicted-by-source): the whole arc comes from `OYOda6T3f-8`
+alone — "there's that bluefin in that zone there [backside Santa Cruz,
+backside Rosa] and it tracks down by Santa Barbara Island ... then that warmer
+water runs down the backside of Catalina and it hooks around to Clemente and
+that's at 499 zone". `XLVUhV8DW64` supplies no leg of it; its progression is a
+different and earlier one — west end of Catalina west into Clemente, the Nick
+and SBI, then down off the east end backside of Clemente.
 
 ⚠ Flagged gap — no corpus source: a tide, slack or light window for the Channel
 Islands, a stated drift or anchoring approach, or which face of which island to
