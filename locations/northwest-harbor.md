@@ -42,6 +42,16 @@ U.S. Navy, as of the 2025-04-19 seminar — verify current access before running
 the crossing.** The full access picture is on
 [San Clemente Island — Front Side](san-clemente-island-front-side.md).
 
+⚠ Fact-check (contradicted-by-source): only the distance is in `XyKF34C5iB4`,
+and it is one-way — "Coney [San Clemente] Island's a long ways away. Uh 60 mi
+one way and that's straight off the beach" (@00:09:43). The overnight-range
+framing belongs to a different video (`LTCFjqtSI8g`, quoted on the
+[zone page](san-clemente-island-front-side.md)), and "training range… rotating
+training schedule" is not in `XyKF34C5iB4`, which characterises no schedule at
+all — "San [Clemente] Island is controlled by the military. There's open zones,
+closed zones if they're doing training" (@00:11:53). The pre-trip check itself
+is supported. Same flag already stands on the zone page.
+
 **It is the corner of the island, not a stop along the front side.** Measured
 off the charted positions in [the spot library](../sources/spot-lists.md), the
 harbor sits about **11.3 nm** northwest of the next front-side mark,
@@ -58,6 +68,15 @@ here ran to San Clemente Island rather than staying at Catalina while citing
 "some really big swells" for that crossing, on an event window tracked at
 **5–7 ft** the day before, **4–6 ft** on day one and **3–5 ft** forecast four
 days later (`iQLyBzhOSi8`, [sea state](../conditions/sea-state.md)).
+
+⚠ Fact-check (contradicted-by-source): one continuous pre-fish line in
+`iQLyBzhOSi8` gives the whole ladder — "it was uh **I think** 5 to 7 **on the beach** yesterday, 4 to 6
+today, **4 to 6 tomorrow**, 3 to 5 on Sunday" (@00:02:40). Sunday is tournament
+day two, **two** days after the statement rather than four; the second 4–6 ft
+value is dropped; and the hedge "I think" and the qualifier "on the beach" are
+both dropped. Same flag already stands on the
+[zone page](san-clemente-island-front-side.md); the zone's evidence file has
+it right.
 
 ⚠ Flagged gap — no corpus source: run time and distance from a named departure
 port, where in the harbor a boat lands or anchors, and whether the approach
@@ -76,6 +95,18 @@ failure mode there, so constant re-tying is part of the program
 (`eNcltRh-shc`). That matches the island group's general framing as a hazard
 stack of thick kelp, razor-sharp boiler rocks and big waves (`iQLyBzhOSi8`,
 [island structure](island-structure.md)).
+
+⚠ Fact-check (contradicted-by-source): two wording drifts in this paragraph.
+`KCcEqHSZ84k` says the boat is **tied up**, not anchored — "tied up on the
+island we're in about six feet of water" (@00:00:16); the 6 ft, the sardines
+and the "coiler Rock" name all verify. And in `eNcltRh-shc` "boiler Rock" is a
+descriptor rather than a name given to a feature — "we're over here Northwest
+Harbor again we're pitching another little boiler Rock area" (@00:00:00) —
+so "named on camera as 'boiler Rock'" reads more like a proper noun than the
+source does. The hazard-stack line is scoped to "the local Islands" generally,
+not to San Clemente Island — "in January she can make conditions at the local
+Islands tough to fish thick kilp razor sharp boiler r and big waves can ruin
+the day".
 
 **Water clarity here swings hard between visits.** One session found the
 harbor unusually calm and clear for the island at **30–40 ft visibility**
@@ -103,6 +134,14 @@ whether the two on-camera rock names are one feature or two.
 anchor tight to the rock in about 6 ft and fish sardines over it, with chum
 (`KCcEqHSZ84k`, [chunking](../techniques/chunking.md),
 [fishing live bait](../bait/fishing-live-bait.md)).
+
+⚠ Fact-check (contradicted-by-source): "with chum" is not in `KCcEqHSZ84k` —
+the word never occurs; the transcript has only tossed sardines ("with his toss
+of sardines", ASR). "Anchor" is likewise the note's term against the source's
+"tied up on the island" (@00:00:16), as flagged above and repeated in the
+"What's there" calico row. The 6 ft depth, the sardine bait, the 8 lb
+grade ("we had fish up to eight pounds here"), the tip-high/no-pump doctrine
+and the 65 lb braid to 30 lb fluorocarbon top shot all verify verbatim.
 
 **Fight with the tip high and never pump.** Hooked this shallow and this tight
 to rock, hold the rod tip as high as possible and wind as fast as possible
