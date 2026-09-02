@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2526 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
+_Totals: 2527 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -338,6 +338,7 @@ _Totals: 2526 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Presence & forage`: gap — any stomach-content record from a landed white
   - `Spawning`: gap — when, where or how white seabass spawn anywhere
   - `Feeding triggers`: gap — mechanism — whether the moon acts through the
+  - `Situations → techniques`: gap — a named heavy-bottom/dropper-loop rod-reel class at 40–100+ lb" — the class this row and the `40lb-dropper-loop` front-matter term assert exists. It is in no row of [gear classes](../tackle/gear-classes.md), so a profile lookup on it resolves to nothing |
   - `Zone guides`: flagged stub row
   - `Zone guides`: zone guide missing
   - `Zone guides`: flagged stub row
