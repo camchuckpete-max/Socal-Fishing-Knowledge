@@ -67,6 +67,9 @@ The zone's recorded soundings — the **28–30 ft** resident rock (`QSmE3mdEL28
 the **60–68 ft** surface-iron band (`IdMJnlg_rZk`), the ridge cresting near
 **60 ft** (`BvT560Nblqo`) — all attach to other Cedros grounds and are on
 [the zone page](cedros-island.md#structure--bathymetry), not to this point.
+⚠ Fact-check (contradicted-by-source): `IdMJnlg_rZk` states no depth anywhere;
+the 60–68 ft band is `2cxeg_AE418` ("68 ft water") plus `_MygUHw19q8` ("fishing
+60 ft of water"), and the same flag already stands on the zone page.
 
 ⚠ Flagged gap — no corpus source: soundings, bottom composition, kelp extent, the
 shape of the point, or how far off it the boats work.
