@@ -135,6 +135,14 @@ spawning does to the bite. The corpus says nothing about snook spawning.
   mechanism is that the ebb flushes baitfish out of the roots and past the
   ambush points, so the fish get fed on a schedule the tide sets. See
   [tide & slack](../conditions/tide-and-slack.md).
+  ⚠ Fact-check (contradicted-internal):
+  [trolling](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin)
+  carries the opposite read of the flood in this same bay — the guide there
+  states that when the tide starts flooding the open-estuary bite slows but
+  the fish do not stop biting, they **move inside the mangroves**, and the
+  response is to keep working tight along the mangrove edge (`isXJONlpUP4`).
+  That is the reverse of the mechanism stated here, which is that the flood
+  has too little water over the root zone for fish to stage and feed there.
 - **Time arrival to tide direction, not to dawn.** "It's not about getting there
   super early, it's not about being the first one, it's about being there when
   the tide is flowing the right direction" (`dlxA22FVNGc`). Direction is readable
@@ -190,6 +198,15 @@ spawning does to the bite. The corpus says nothing about snook spawning.
 | **Boca / nearshore structure, 40–50 ft, mixed with grouper** | [Sliding sinker](../techniques/sliding-sinker.md) — Carolina rig, live shrimp or sardine dropped to just off the bottom, two-speed reel mandatory | Baja Pacific grouper/snook bottom class — see [gear classes](../tackle/gear-classes.md) | The fight is decided in roughly the first **5 seconds**; a hooked snook rises toward the boat rather than diving for the rock the way a grouper does, which is how the crew tells the two apart on the strike (`EcQK5elTPJE`) [b] |
 | **Estuary channel, 25–30 ft, fish on or near the bottom off the mangrove edge** | [Bucktail jig](../lures/bucktail-jigs.md) worked up off the bottom | ⚠ Flagged gap — no corpus source: no gear class is stated for this presentation — see [bucktail jigs](../lures/bucktail-jigs.md) | One snook taken this way, on the corpus's only lure record for the species (`OVwqUKim9Pc`). Colour, presentation, outfit and the single-source flag live on the [lure note](../lures/bucktail-jigs.md). ⚠ Fact-check (contradicted-by-source): the Situation column is not in `OVwqUKim9Pc` — that video states no depth at all and places the fish only "back at it in the estuary", with no channel, no mangrove edge and no bottom position; the 25–30 ft comes from `isXJONlpUP4`, a different day. "Popping it up off the bottom" is the cameraman's question, not the angler's description |
 | **Estuary channel, wind chop, prospecting the mangrove edge** | ⚠ Flagged stub — no corpus source yet: [trolling](../techniques/trolling.md) small lures tight to the mangrove edge is the documented inside program, but the only fish lost to the mangroves on it was called "probably snook" and never landed (`isXJONlpUP4`) | — | Fill in when a source lands a snook on the troll and gives speed, lure and standoff. ⚠ Fact-check (contradicted-by-source): `isXJONlpUP4` has several fish lost that day, not one — two more come off within the same hour and two more later — so "the only fish lost to the mangroves" overstates it, and the trolled lures are never called small; the one lure size given in that video is a ¾ oz Castmaster, which was cast, not trolled |
+
+⚠ Fact-check (contradicted-internal): the two mangrove rows route a
+`bay-harbor` situation to [flyline](../techniques/flyline.md), whose
+front-matter `waters` carries only `open-ocean, bank, island,
+nearshore-coast` — the water gate on this router and on the note it ranks
+first disagree, even though that note's own Baja mangrove section is the
+material these rows are built from. The parallel
+[mangrove structure livebait](../techniques/mangrove-structure-livebait.md)
+note carries `waters: bay-harbor`.
 
 [a] Both builds fish the identical cast; only line, leader, hook and drag
 differ.
@@ -318,6 +335,7 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 - [Bucktail Jigs](../lures/bucktail-jigs.md)
 - [Evidence — Snook (Robalo)](evidence/snook.md)
 - [Evidence — Snook (Robalo) — sliding sinker](evidence/snook-sliding-sinker.md)
+- [Flyline](../techniques/flyline.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
@@ -325,4 +343,5 @@ Trip reports and per-source provenance: [evidence file](evidence/snook.md).
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
 - [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
+- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

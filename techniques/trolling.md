@@ -771,6 +771,13 @@ Baja mangrove structure-casting section of [flyline](flyline.md)):
   edge rather than stop fishing. Different channel and trip from the Lopez
   Mateos series (no shared crew or guide named), so this stands as an
   independent corroborating data point, not a repeat of the same footage.
+  ⚠ Fact-check (contradicted-internal): this extends the Lopez Mateos
+  doctrine on the ebb but contradicts it on the flood.
+  [snook](../species/snook.md#feeding-triggers) states the flood from low
+  toward high is the poor window precisely because there is not yet enough
+  water over the root zone for fish to stage and feed there (`dlxA22FVNGc`),
+  while the flood behaviour recorded here is fish moving *into* the
+  mangroves and continuing to bite (`isXJONlpUP4`).
 
 **Observed** (StokedOnFishing, 2020-10-14 upload, Magdalena Bay, Baja
 California Sur — Mag Bay Lodge, presenter Shea — `OVwqUKim9Pc`, "Two More

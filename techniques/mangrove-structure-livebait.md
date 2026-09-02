@@ -52,6 +52,16 @@ fish that gets even a short run against an oyster-crusted root parts the
 leader almost immediately. Heavy fluorocarbon paired with a maxed-out drag
 is the fix — there's no finesse version of this presentation in water this
 skinny and this sharp (`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-internal):
+[flyline](flyline.md#baja-mangrove-structure-casting--precision-bait-placement-mag-bay)
+records the finesse version working in this same Lopez Mateos water — a size
+4 thin-wire bronze hook on **25 lb** fluorocarbon, and **60 lb** braid to
+**35 lb** fluorocarbon on a later trip, over a wide-open snook bite
+(`dlxA22FVNGc`, `-5kooyIyavs`) — and
+[snook](../species/snook.md#situations--techniques) ranks that build and this
+one as equals on the identical cast. The "no finesse version" statement here
+and the lighter-leader entry under [Common failures](#common-failures) below
+both read as a rule against a build the corpus documents catching fish.
 
 ## Common failures
 
@@ -73,6 +83,7 @@ Per-source provenance: [evidence file](evidence/mangrove-structure-livebait.md).
 ## Linked from
 
 - [Evidence — Mangrove Structure Livebait](evidence/mangrove-structure-livebait.md)
+- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Snook (Robalo)](../species/snook.md)

@@ -27,6 +27,14 @@ position for the situation. Bait keeping and selection depth live in
   edges, a cove mouth, a specific pocket — where a weighted rig would snag and
   only a natural, unweighted drift gets the bait into the strike zone. See the
   Mag Bay mangrove application below.
+  ⚠ Fact-check (contradicted-internal): this note's front-matter `waters`
+  carries only `open-ocean, bank, island, nearshore-coast`, so the
+  bay-harbor mangrove program this bullet points at is gated out of the water
+  class it is actually fished in — while
+  [snook](../species/snook.md#situations--techniques) (`waters: bay-harbor,
+  nearshore-coast`) ranks this note first for both of its mangrove rows, and
+  the parallel [mangrove structure livebait](mangrove-structure-livebait.md)
+  note, covering the same cast, carries `waters: bay-harbor`.
 
 ⚠ Fact-check (contradicted-internal):
 [Pacific crevalle jack](../species/pacific-crevalle-jack.md#situations--techniques)
@@ -527,6 +535,14 @@ rest of this note otherwise describes.
   structure rather than a specific casting or landing spec — offered
   alongside, not reconciled with, the 60 lb braid/35 lb fluoro rig logged
   from the later `-5kooyIyavs` trip below.
+  ⚠ Fact-check (contradicted-internal): [mangrove structure
+  livebait](mangrove-structure-livebait.md#gear-class) — the other note
+  [snook](../species/snook.md#situations--techniques) ranks for this same
+  cast — states there is "no finesse version of this presentation in water
+  this skinny and this sharp" and lists fishing a lighter leader among its
+  common failures, off 65 lb braid to an 80 lb fluorocarbon leader
+  (`EcQK5elTPJE`). The 25 lb and 35 lb fluorocarbon builds logged here are
+  that finesse version, in the same water, catching snook.
 - **Reel style is flexible for the cast (same source, 2022-01-23):** a
   level-wind conventional reel (named on camera as an "Okuma Komodo(s) 300
   series" — ASR-corrected per the known Okuma→"Akuma" corruption in this
@@ -888,6 +904,7 @@ confidence.
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Magdalena Bay Estuary Channel](../locations/magdalena-bay-estuary-channel.md)
+- [Mangrove Structure Livebait](mangrove-structure-livebait.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
