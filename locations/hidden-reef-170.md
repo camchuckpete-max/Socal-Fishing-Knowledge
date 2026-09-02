@@ -88,6 +88,15 @@ and its own as-of date ([rockfish & lingcod](../species/rockfish-lingcod.md)) bu
 gives no boundary for it, so whether either mark falls inside it is unverified —
 **check the CCCA boundary against your position with CDFW/NOAA before dropping.**
 Boundary compliance is positional, not depth-based ([US waters](us-waters.md)).
+⚠ Fact-check (unverifiable): the corpus cannot answer whether either mark falls
+inside the Cow Cod Conservation Area. [Rockfish & lingcod](../species/rockfish-lingcod.md)
+carries the CCCA as a depth rule only (600 ft, two hooks, as of 2024-03, itself
+under a single-source flag) and states no boundary anywhere, so the page's own
+"check before dropping" instruction is the only available answer.
+⚠ Fact-check (unverifiable): the **33 28.500** MPA line is a spot-library
+annotation on Santa Barbara Island's Cave Canyon entry (cameron), not a corpus
+statement about this water, and nothing in the corpus establishes that it is the
+*only* MPA line in this part of the Bight or that no closure covers either mark.
 
 ## Structure & bathymetry
 
@@ -109,6 +118,15 @@ fathom ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`). Read that way:
 | --- | --- | --- |
 | 170 | 170 fathoms | about 1,020 ft |
 | Hidden Reef | not a number — no depth claim | — |
+
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` hedges the naming
+convention and this page states it without the hedge. The transcript says
+"there's banks like that up and down the coast but **most of them** are the
+banks are called after the highest part," and names two counterexamples in the
+same breath — "the nine mile bank that's not nine miles deep that's nine miles
+off the coast" and "14 is 14 miles off the beach". The convention is a majority
+rule with distance-off-coast exceptions, not the rule this table applies to the
+170; [zone lexicon](zone-lexicon.md) carries the exception, this page drops it.
 
 **The 170's figure lands inside a working band.** **170 fathoms** falls in the
 lower half of the **150–350 fathom** contour band the SoCal daytime swordfish
@@ -158,6 +176,11 @@ corpus source yet: the **Kidney Bank (63) / 175** zone southeast and the
 **12 Mile Reef** zone northwest are both unbuilt, so
 the nearest hand-off out of this zone — the one **11.9 nm** away — has nothing to
 hand off to.
+⚠ Fact-check (contradicted-internal): both zones are built.
+`locations/kidney-bank-63-175.md` and `locations/12-mile-reef.md` exist and both
+link to this page — they are in this note's own `Linked from` block below — so
+the stub's premise, and the word "unbuilt" applied to the Kidney Bank (63) / 175
+pair in the opening neighbours paragraph, are stale as written.
 
 ## What's there
 
@@ -199,6 +222,16 @@ carry **no coordinates** in the spot library
 chlorophyll per position and decide on the water, not on this paragraph
 ([water temperature](../conditions/water-temperature.md),
 [water colour](../conditions/water-color.md)).
+⚠ Fact-check (contradicted-by-source): the arc is cited to two sources and only
+one carries it. `OYOda6T3f-8` states it verbatim off an October SST chart —
+"off the back side of Santa Cruz Island backside of Rosa … tracks down by Santa
+Barbara Island … runs down the back side of Catalina and it hooks around to
+Clementi and that's at 499 Zone". `HzE4FHHcvTk` is an August report with no arc,
+no fall framing and no Santa Cruz/Rosa or 499 mention; its nearest line is a
+plain north–south extent, "there's fish from below cat all the way up to uh that
+basically santa barbara island". [Bight geography](bight-geography.md) already
+carries a standing single-source flag saying this path is attested only in
+`OYOda6T3f-8`.
 
 **This zone is in the scarce half of the paddy split.** The best paddy water in
 the Bight is **south of San Clemente Island / Catalina** and the coastal strip
@@ -208,6 +241,14 @@ out and hold fewer fish (`HzE4FHHcvTk`,
 northernmost charted Dana Point position (cameron), which puts them above that
 line. ⚠ Flagged gap — no corpus source describes a paddy over either position
 either way; mechanics are in [kelp paddies](../conditions/kelp-paddies.md).
+⚠ Fact-check (contradicted-by-source): the thinning half of the split is a
+coastal statement in `HzE4FHHcvTk`, not a latitude line. The transcript thins the
+paddies "when you get further up" the coast toward "the inside of cat" — "the
+patties are fewer and further between and they're not always holding" — and in
+the same passage says paddy fishing "continues up in the u.s waters basically all
+the way to san clemente island". Dana Point appears only as the top of the good
+beach strip. Reading it as a parallel and placing two offshore banks 14.3 nm
+north of it "above that line" is this page's inference, not the source's.
 
 ## How it fishes
 
@@ -223,6 +264,14 @@ the meter, and either commit to or leave in **20–30 minutes** (`Blh2BA-7Ono`,
 east–west line is a short enough hop to read both inside a single morning
 (cameron), which is the compact pattern rather than the search-box one.
 ⚠ Flagged gap — no corpus source places either mark on either side of that split.
+⚠ Fact-check (contradicted-by-source): `Blh2BA-7Ono` carries neither the
+**20–30 minute** budget nor the complex-versus-compact taxonomy the split rests
+on. The transcript names 302, 371 and the west end of Catalina only as a contrast
+of scale — "it's not like running to the 302 or 371" — and attaches no time
+budget to them; there is no minutes figure of any kind in it. The area figure is
+also ASR-unstable, rendered once as "you get probably 50 miles 60 square miles to
+look" and once as "a 60 mile square area", and it describes the below-Clemente
+bank group, not a general zone type.
 
 **Wind is the risk this zone cannot answer for itself, and its neighbours argue
 it is exposed.** A big NW event rolls the **northern Channel Islands** and the
@@ -237,6 +286,17 @@ sits **15.7 nm** north of Santa Barbara Island and **29.1 nm** north-northeast o
 San Nicolas (cameron), outside every island's lee. ⚠ Flagged gap — no corpus
 source classifies this water on the rollover map; treat it as an open question,
 weight it down when a NW event is forecast, and pull the water per position.
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` does not carry the
+wind-rollover map. That transcript contains no temperature figure of any kind —
+no **5–8 °F**, no NW event, no northern Channel Islands or LA/Ventura shelf
+cooling, and no Coronados/Catalina/San Clemente "held their water" comparison;
+its only weather content is the opposite, "it was great over the weekend it looks
+like we're gonna have a great weather next weekend as well". The map itself
+stands under Cameron's 2026-08-26 adjudication on
+[bight geography](bight-geography.md), which records that its real telling was
+never recorded and that the map is to be re-backed by BightSST statistics rather
+than re-sourced to another video; this flag is scoped to the cite on this page,
+not to the doctrine.
 
 **With no corpus program, the general layers are what a plan has.** Structure is
 where bait stages and gamefish follow (`Rf1HKJG-SDg`,
@@ -255,6 +315,14 @@ are there (`5p6gu14ZC4w`, [Santa Barbara Island](santa-barbara-island.md),
 [report reading](../planning/report-reading-and-forecasting.md)). These two marks
 are a further **15.7 nm** out with **zero** corpus mentions (cameron), so the same
 correction applies harder.
+⚠ Fact-check (contradicted-by-source): in `5p6gu14ZC4w` the effort-versus-fish
+caveat is attached to the San Diego banks, not to Santa Barbara Island — "there's
+not a lot of coverage out there so there might be a lot of fish somewhere nearby
+that no one's run over yet … there's only so many boats out looking right now".
+Santa Barbara Island appears separately and only in a thin-coverage remark that
+names it together with San Nicolas, "really not a lot of coverage uh Nick SBI
+that area up there". The correction is sound doctrine; the place it is scoped to
+on this page is not the place the transcript scopes it to.
 
 **Neither mark is a BightSST eval target**, so conditions for this zone are
 pulled per charted position rather than read off a scored spot
