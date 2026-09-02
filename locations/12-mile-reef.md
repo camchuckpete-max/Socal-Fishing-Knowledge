@@ -32,6 +32,18 @@ sits in, what its name does and does not claim, and what a source would have to
 supply. The [region page](socal-bight.md) already carries this zone as a flagged
 stub and nothing here lifts that stub. The flags below aggregate in
 [the gap report](../sources/gap-report.md).
+⚠ Fact-check (contradicted-internal): the "no transcript" half verifies — all
+thirteen cited transcripts were read and none contains "12 Mile Reef", "twelve
+mile" or "Santa Barbara Channel" — but the repo enumeration is stale. The mark
+is named in prose on at least eleven further pages, most of them not flagged
+stubs: [Santa Cruz Island](santa-cruz-island.md),
+[Santa Rosa Island](santa-rosa-island.md),
+[Anacapa Island](anacapa-island.md), [Channel Islands](channel-islands.md),
+[San Juan Seamount](san-juan-seamount.md),
+[Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md),
+[Sverdrup Bank (126)](sverdrup-bank-126.md), [The Bumps](bumps.md),
+[380](380.md), [US waters](us-waters.md) and
+[Southern California Bight](socal-bight.md).
 
 **This is a zone of one because nothing else is within reach of it.** The census
 clusters banks under a **12 nm** zone-diameter cap and then attaches a leftover
@@ -59,8 +71,26 @@ coast and "the 14" is **14 miles off the beach** (`Rf1HKJG-SDg`,
 that reading checks out against the chart, because a mainland position sits
 **14.0 statute miles** off the mark. Here there is nothing to check it against:
 the nearest mainland-side position in the library is **98.9 nm** away (cameron).
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` never says **statute**. It
+says "now the nine mile bank that's not nine miles deep that's nine miles off
+the coast" (@00:05:29) and "the nine mile but it's nine miles off the beach 14
+is 14 miles off the beach" (@00:05:52) — miles off the beach, unit unspecified.
+The statute reading is the KB's inference, and the whole "the chart reads it
+back" derivation for the 14 Mile Bank (12.2 nm = 14.0 statute miles) rests on
+it. [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md) carries the same flag
+and [the zone lexicon](zone-lexicon.md) hedges the word in brackets ("9
+(statute) miles"); this page states it flat. The **14.0** figure itself
+recomputes exactly: 14 Mile Bank to the Dana Point Hospital 100 Fathom Curve is
+12.16 nm = **14.00** statute miles (cameron).
 ⚠ Flagged gap — no corpus source: what the twelve miles is measured from, or who
 or what the reef is otherwise known by.
+⚠ Fact-check (unverifiable): the mark's charted identity is unresolved inside
+the corpus. Its only repo existence is the coordinate line in
+[the spot library](../sources/spot-lists.md); no transcript, chart citation or
+second name confirms that a feature called "12 Mile Reef" sits at
+34°13.000'N 119°41.017'W, and the distance in the name resolves against nothing
+the library holds — **ext-verify**: whether a charted feature at that position
+carries this or another name, and what the twelve miles is measured from.
 
 ## Getting there
 
@@ -78,6 +108,13 @@ Islands" (`nRIAgz5G_Bc`). Sportboats out of the Channel Islands landings also ru
 as far as San Nicolas ([San Nicolas Island](san-nicolas-island.md)). Those are
 the ports on this end of the region; ⚠ Flagged gap — no corpus source connects
 any of them to this position.
+⚠ Fact-check (contradicted-by-source): the ellipsis in the `nRIAgz5G_Bc` quote
+marks a cut that does not exist. The transcript runs continuously — "I'm going
+to go over some essentials if you're going to be fishing out of Ventura or
+Oxnard going out to the Channel Islands targeting white sea bass, halibut,
+yellowtail" (@00:00:00) — so nothing was elided between "Oxnard" and "going out
+to the Channel Islands". The rest of the quote is verbatim, and the three
+targets verify (source order: white sea bass, halibut, yellowtail).
 
 **The wind map the corpus draws for this water is the harshest in the region.** A
 strong NW event rolls surface temperature down **5–8 °F** on the **northern
@@ -90,6 +127,25 @@ crushed waters are the two this zone sits between, which makes a NW forecast the
 first thing to check before pointing a boat up here — ⚠ Flagged gap — no corpus
 source scopes that map to this position, or states a wind or swell number that
 turns this zone off.
+⚠ Fact-check (contradicted-by-source): the **5–8 °F** range is not in
+`YZtX1MiT0y8`, and it is not measured at the northern islands. The source's only
+degree figure is a hedged single-site reading along the beach — "looked like it
+was like 56 degree water which is i think **seven maybe eight** degrees off from
+where it was before this wind along the beach" (@00:05:15). For the islands it
+gives an absolute, not a drop: "hardest hit was the northern channel islands
+miguel rosa the front side of santa cruz island they all that stuff dropped
+dramatically they're you know they're in the low 50s in some of those areas"
+(@00:01:14). "LA / Ventura coastal shelf" compresses a four-item list — "the
+coast above newport uh long beach ray del rey ventura coast" (@00:01:40). The
+quoted phrase also drops a clause: the source says "less prone to the wind wave
+driven rollovers **and upwelling**" (@00:02:02). The zones that held verify
+verbatim ("clementi catalina water temps are good coronados tuna grounds all
+those areas they held up pretty well", @00:01:33). The same **5–8 °F** figure is
+already flagged on [Southern California Bight](socal-bight.md) and
+[San Clemente Island — back side](san-clemente-island-back-side.md); Cameron
+adjudicated 2026-08-26 that the map in
+[bight geography](bight-geography.md) **stands**, so this flag is on this page's
+citation, not on the map.
 
 **A calm dock reading is a trap at this end of the region, but the rule is
 stated for water west of here.** W and NW wind blows around Point Conception at
@@ -101,6 +157,18 @@ every conditions pull alongside the forward forecast
 That crossing runs west of this mark and past the northern islands.
 ⚠ Flagged gap — no corpus source states the Conception night-wind behaviour for
 the Santa Barbara Channel itself.
+⚠ Fact-check (contradicted-by-source): the night-wind half verifies verbatim —
+"West Wind or northwest wind that blow around conception at night but stop in
+the morning A lot of times it may look very calm in the morning" (@00:02:36) —
+but "**2 or more consecutive days**" hardens a hedged first-person preference
+into a stated go/no-go. The line is "you know I don't really look for a couple
+days of continuous no wind or Santa anas before I plan a trip up there"
+(@00:02:54; the "don't really" reads as ASR garble of "I really"): "a couple
+days", said of the speaker's own trip planning, not a threshold. The **12–24 h**
+hindcast window is the KB's own operationalization in
+[sea state](../conditions/sea-state.md) and appears in neither `Z3rZqy2Pi8E` nor
+`zKmZ4zql2ws`. Identical finding already ledgered on
+[Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md).
 
 **Check the swell upstream, not just the point forecast.** Swell arrives days
 after and hundreds of miles from the wind that made it — a system off **Oregon**
@@ -110,6 +178,18 @@ the synoptic wind field up-coast over the prior **48–72 h**
 ([sea state](../conditions/sea-state.md#upstream-fetch-check-swell-arrives-after-the-wind-that-made-it)).
 This is the northernmost zone in the region, so it is the first water that swell
 train reaches.
+⚠ Fact-check (contradicted-by-source): the numbers and the place verify — "the
+swell bumps up dramatically from four feet on Thursday afternoon to over 12 feet
+on Monday" (@00:03:02) at "the West End of San Nicolas Island" (@00:02:45), and
+the fetch is "off basically Oregon border" (@00:08:52) — but two framings drift.
+The weekend is **not** described as calm: "fairly calm Thursday Friday it gets a
+little windier into the weekend" (@00:02:59), so the calm belongs to Thursday
+and Friday. And Point Conception is named as the path of the **weather system**,
+not of the swell: "the weather's starting to come into San Francisco coming down
+to point conception now it's starting to blow down here" (@00:08:41). The
+**48–72 h** scan window is the KB's operationalization in
+[sea state](../conditions/sea-state.md); the source's version is untimed — "the
+amount of wind not just when you're going but before you went" (@00:10:24).
 
 **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
 2026-08. Verify current rules before you fish** ([US waters](us-waters.md);
@@ -121,6 +201,15 @@ against it rather than your sounder
 ([rockfish & lingcod](../species/rockfish-lingcod.md)). ⚠ Flagged gap — no corpus
 source: closures, MPA boundaries, restricted areas or military schedules stated
 for this position or for the Santa Barbara Channel.
+⚠ Fact-check (single-source): the CDFW depth-boundary rule and the
+load-the-line-into-the-plotter fix carry no transcript cite on this page — they
+are inherited whole from
+[rockfish & lingcod](../species/rockfish-lingcod.md), whose own regulatory chain
+is already ledgered as single-source and stale. The **as of 2026-08** stamp is
+this page's, not a source's, and nothing in the corpus states any regulation for
+this position — **ext-verify**: the CURRENT California/CDFW groundfish depth
+boundary and season for the Santa Barbara Channel area, and whether compliance
+is stated positionally rather than by sounded depth.
 
 ## Structure & bathymetry
 
@@ -163,6 +252,24 @@ the library's mainland coverage stops at Crystal Cove, **98.9 nm** southeast
 and the Santa Barbara Channel mainland shore need spot coordinates before either
 can carry a page, which leaves this zone with no built neighbour inside **35 nm**
 in any direction and nothing at all to hand off to on the shore side.
+⚠ Fact-check (contradicted-internal): the mainland stop is **Pelican Point /
+Number 1 Spot** at **98.9 nm**, not Crystal Cove. *Crystal Cove / Number 2 Spot*
+recomputes at **100.0 nm** from this mark (cameron); 98.9 nm is the figure the
+front matter and the naming paragraph both correctly attach to Pelican Point.
+The two are the same zone's members, so the distance is right and the name it is
+hung on is not.
+⚠ Fact-check (contradicted-internal): the stub is stale — the northern
+Channel Islands already carry pages without spot coordinates
+([Santa Cruz Island](santa-cruz-island.md),
+[Santa Rosa Island](santa-rosa-island.md),
+[San Miguel Island](san-miguel-island.md),
+[Anacapa Island](anacapa-island.md), under
+[Channel Islands](channel-islands.md)), four of which link back to this page, so
+"no built neighbour inside 35 nm in any direction" is false as written even
+though no *coordinate-bearing* zone sits inside that radius. The remaining
+geometry in this section verifies exactly (170 35.8 nm, Hidden Reef 39.1, 311
+46.3, Kidney Bank 51.0, the 175 51.4, Arch Reef 53.9, The Boot 56.8, Blockhouse
+57.0, and the isolation ranking 36.5 / 35.8 / 30.9 / 23.0 / 23.0 nm).
 
 **Standalone structure with no land attached fishes in any direction.** Structure
 rising off the plain has no lee to work against, and the face to bias toward is
@@ -202,6 +309,29 @@ the northwest outer islands** and are the trigger to run them for shallow
 rockfish and lings in late fall (`Z3rZqy2Pi8E`, `OYOda6T3f-8`); a Santa Ana is an
 offshore-blowing northeast pattern and a seasonal norm
 ([November–December](../seasonal/november-december.md)).
+⚠ Fact-check (contradicted-by-source): the **100–250 ft** band is not in
+`6-8KfjEg0x8`. Its only depth is a single figure — "we ventured out to a little
+shallow spot. It's about 175 ft deep" (@00:03:01) — and neither 100 nor 250 nor
+any range occurs. The one-rock variety verifies verbatim ("hit this basically
+one rock fishing spot. We didn't move very much, but we were pounding the reds,
+the blue bass, couple bocaccio, couple smaller lingcod", @00:06:16), but two
+scopings drift: the boat is a Freedom Boat Club charter, not stated as
+"private" (@00:06:29), and the San Diego contrast is made about **blue bass**
+specifically, not island variety generally — "You catch them up here all the
+time on the Channel Islands. You do not get these in San Diego" (@00:03:08).
+[rockfish & lingcod](../species/rockfish-lingcod.md) already carries the same
+depth flag against the same cite.
+⚠ Fact-check (contradicted-by-source): neither cited source says Santa Anas
+**flatten** anything. `Z3rZqy2Pi8E` says "the Santa Ana winds made for really
+good weather over the weekend" (@00:00:30) and `OYOda6T3f-8` "a good day with
+some nice Santa Ana conditions it's a perfect time to route to Rosa or San
+Miguel" (@00:01:24) — a weather window, not a stated effect on sea state.
+**Lingcod is absent from `OYOda6T3f-8` entirely**; the lings belong to
+`Z3rZqy2Pi8E` ("a lot of stuff up there you can fish in 20 or 30 feet of water
+and get a chance to catching you know even a link caught up there", @00:01:55)
+and to `5p6gu14ZC4w`, which this sentence does not cite. "Late fall" is spoken
+in neither, though `Z3rZqy2Pi8E`'s "end of November here" (@00:07:24) supports
+it.
 
 **Seasonal marks the corpus does place on this shore.** Barracuda are dated to
 Santa Cruz and Anacapa in early August (`CMQkHQMxbXM`, `-JZpyWLdKlk`,
@@ -212,6 +342,32 @@ August dispersal — **Catalina to San Nicolas to Ventura**, "showing up in weir
 places, gone the next day" (`CMQkHQMxbXM`, [August](../seasonal/august.md),
 [bluefin tuna](../species/bluefin-tuna.md)) — which is the one seasonal window
 whose stated extent reaches this end of the region.
+⚠ Fact-check (contradicted-by-source): the barracuda row's second cite does not
+carry it. `-JZpyWLdKlk` names barracuda only generically at the islands —
+"starting up the channel islands… they were getting some barracuda occasional
+yellowtail" (@00:00:51) — and never says Santa Cruz or Anacapa. Only
+`CMQkHQMxbXM` has the islands: "still some barracuda caught at the santa cruz
+nana capitol islands" (@00:02:06, ASR for "Santa Cruz and Anacapa"). **"Early
+August" is spoken in neither**; it is upload metadata (2022-08-04 and
+2022-08-11), the only on-camera anchors being "this is wednesday afternoon i'm
+recording this" and "the 11th which is thursday".
+⚠ Fact-check (contradicted-by-source): the bonito row's second cite likewise
+carries neither half. `5p6gu14ZC4w` never ties bonito to Ventura — its bonito
+are Catalina/closure context ("you're mostly against Bonita bass and Rockfish
+this time of year", @00:03:17) — and speaks no month ("almost Halloween",
+@00:07:39; October is upload metadata, 2022-10-27). `OYOda6T3f-8` does support
+both: the Ventura coast trip (@00:00:55), Catalina bonito (@00:07:38), and
+October spoken on camera ("mid to late October", @00:00:12).
+⚠ Fact-check (contradicted-by-source): the bluefin quote is not the source's
+wording and is not the reporter's own. `CMQkHQMxbXM` renders it "aaron graham
+who runs the native son talked about the fact that they're showing up in weird
+places and the next day they're gone again" (@00:01:49) — a named third party's
+observation, condensed here into a bare quotation. The three places verify
+("those fish are scattered all the way from you know basically catalina to sand
+neck and above there all the way up to ventura", @00:04:02; "sand neck" = San
+Nicolas). **"Peak August dispersal" is the KB's framing** — no month and no
+peak language is spoken; the nearest is "these things are pretty much everywhere
+right now" (@00:01:43).
 
 **The fall arc starts on this shore and runs away from it.** As the coast cools
 and the warm band fragments, the warm water tracks a repeatable path — backside
@@ -221,6 +377,23 @@ Santa Cruz / Rosa → Santa Barbara Island → backside Catalina → hooking to 
 first station is the island backsides **50-odd nm** south of this mark and every
 later one is further away (cameron), so the fall pattern moves the fishery off
 this end of the region rather than onto it.
+⚠ Fact-check (contradicted-by-source): `XLVUhV8DW64` carries none of this arc.
+It names no Santa Cruz, no Rosa and no 499, and reaches Santa Barbara Island only
+as the fleet abbreviation SBI inside a different bluefin track — "that stuff was
+up off the West End of cat West into Clementi at the Nick and SBI for a while…
+it kind of moved down off the east end back side of Clementi" (@00:03:17). The whole chain belongs to `OYOda6T3f-8`
+alone ("that orange water there off the back side of Santa Cruz Island backside
+of Rosa", @00:03:07; "tracks down by Santa Barbara Island… and then that warmer
+water runs down the back side of Catalina and it hooks around to Clementi and
+that's at 499 Zone", @00:03:54). Note the source makes Clemente and the 499 one
+endpoint, not the two the "499 / Clemente" slash implies.
+⚠ Fact-check (contradicted-internal): **50-odd nm** is not the first station. The
+arc's first station is the backsides of Santa Cruz and Rosa, and this page's own
+Structure section states that the northern Channel Islands carry no coordinates
+in the spot library — so no distance to them is computable at all and the
+50-odd figure rests on nothing the library holds. It matches instead the
+arc's **second** station: Santa Barbara Island, nearest member Arch Reef at
+**53.9 nm** and zone centre **55.4 nm** (cameron).
 
 **The paddy band the corpus names is nowhere near here.** The best kelp-paddy
 water in the Bight is **south of San Clemente Island / Catalina** and along the
@@ -247,6 +420,18 @@ spot you idle onto, grade on the meter, and either commit to or leave in
 with nothing else inside **35 nm** (cameron) is the shape of the second, and with
 no fallback mark inside that radius a blank here ends the day rather than moving
 it along.
+⚠ Fact-check (contradicted-by-source): only half of this is in `Blh2BA-7Ono`,
+and that half is scoped elsewhere. The area figure is garbled and attached to one
+specific offshore bluefin search box below San Clemente — "the area below
+clementi i consider to be the 43 the 181 182 289 the entire clementi ridge um
+all the way up to the macro bank" (@00:08:21), "you get probably 50 miles 60
+square miles to look so if you go out there you know you should expect to spend
+quite a bit of time driving around" (@00:08:43) — not a general Bight zone
+shape. **The 20–30 minute commit-or-leave budget is absent from the
+transcript**, as are the idle-on and grade-on-the-meter steps; the only 20/30
+pairing is about birds moving "about 20 30 feet" (@00:17:02).
+[279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md) already carries this split,
+citing `Blh2BA-7Ono` on the box only; this page bundles both under the one cite.
 
 **The island program on this shore is a squid program.** The Ventura-departure day
 makes a tank of squid before running out, then covers the column with a
@@ -264,6 +449,15 @@ with no current will meter fish that do not bite (`6-8KfjEg0x8`,
 [current structure](../conditions/current-structure.md)) — so grade the water
 moving over the structure before grading the marks on the screen
 ([electronics and sounder](../planning/electronics-and-sounder.md)).
+⚠ Fact-check (contradicted-by-source): `6-8KfjEg0x8` says nothing about metering
+fish that will not bite. Its line is "we did not have much current, which at the
+islands is just as important as the bait you're fishing, really. Uh the
+conditions make or break it out here" (@00:02:43) — and that same low-current
+day still produced the bag ("We got some whitefish. We lost a couple
+sheephead"). "A spot with no current will meter fish that do not bite" is a
+harder claim than the source makes, and the meter half appears nowhere in it.
+[rockfish & lingcod](../species/rockfish-lingcod.md) carries the same finding
+against the same cite.
 
 **With no corpus program, the general layers are what a plan has.** Break
 position and break age decide whether this zone is on a given day's plan
@@ -276,6 +470,19 @@ are most likely on structure like the banks (`XLVUhV8DW64`, `OYOda6T3f-8`,
 [water colour](../conditions/water-color.md)). That last rule is the only general
 doctrine that argues for pointing a boat at an unfished mark, and it is not scoped
 here.
+⚠ Fact-check (contradicted-by-source): `XLVUhV8DW64` carries neither half of
+this sentence. It has no "100 %" in a chart context — its nearest line is "make
+some educated guesses using your chart using your SST using your chlorophyll"
+(@00:07:06) — and it states nothing about temperature differentiation or banks;
+it also speaks no month, so "from October" would be upload metadata there. Both
+halves belong to `OYOda6T3f-8` alone: "right now if I were going out I would
+like 100 on your temp chart and your chlorophyll when looking for fish"
+(@00:06:30), and "it's a big area of water down there so it's gonna without any
+differentiation and temperature breaks they're most likely going to be
+associating with the structure like the banks" (@00:05:32). Even there the
+trigger is season progression, not a date: "we're getting later in the season
+here" (@00:02:28) — the October threshold and the "regime flips" framing are the
+KB's.
 
 **This mark is not a BightSST eval target, and the nearest one is most of a day
 away.** Conditions here are pulled per charted position rather than read off a

@@ -451,6 +451,7 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](12-mile-reef.md)
 - [Albatross Knoll](albatross-knoll.md)
 - [Hancock Bank](hancock-bank.md)
 - [San Juan Seamount](san-juan-seamount.md)

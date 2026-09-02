@@ -240,6 +240,7 @@ Dated days and per-source provenance: [Channel Islands evidence](evidence/channe
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](12-mile-reef.md)
 - [Evidence — Channel Islands](evidence/channel-islands.md)
 - [San Miguel Island](san-miguel-island.md)
 - [Santa Cruz Island](santa-cruz-island.md)
