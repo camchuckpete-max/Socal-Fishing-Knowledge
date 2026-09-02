@@ -171,6 +171,13 @@ sweeping-arc search:
   the spread to keep lures in clean water and out of each other; the yellowfin
   Cedros programme adds a colour rule on top of the one-short-one-long positions,
   credited with the doubles (`YUdbrIm9vrE`).
+  ⚠ Fact-check (contradicted-internal): this delta has collapsed against the
+  note it is stated against. [Trolling](../techniques/trolling.md) now carries
+  the same `YUdbrIm9vrE` Cedros entry in full — the one-short-one-long
+  positions, the purple/purple colour match "called out on camera as the reason
+  simultaneous doubles came aboard," and the captain's different-colour
+  counter-example — so the general note does state the colour rule this bullet
+  says it does not.
 - **NOT a delta: the never-go-through-the-pod rule.** The captain who states it
   applies it to bluefin on a Mad Mac as readily as to yellowfin — it is pod
   doctrine that this page repeats for completeness, not something yellowfin

@@ -23,6 +23,13 @@ rip to the top) — flat-fall is worked passively, without an active jigging
 stroke. Lure specs for the class live in [knife jigs](../lures/knife-jigs.md#the-class--models)
 alongside the other wing-fall/butterfly profiles. Execution only; where/when
 to reach for it is the reverse map in **Linked from** below.
+⚠ Fact-check (contradicted-internal):
+[yellowfin tuna](../species/yellowfin-tuna.md#situations--techniques) routes its
+Baja slow-troll row here as "a **flat-fall jig on a ripping retrieve**"
+(`BQ2U1PqxWi8`) — the active, continuous rip this note defines the technique
+against, and against the free-spool sink / count-30–40 / wind-halfway cadence
+in [Mechanics](#mechanics) that follows from the lure being built to be eaten
+on the sink.
 
 ## Reach for this when
 
@@ -54,6 +61,14 @@ to reach for it is the reverse map in **Linked from** below.
   (named example: late August–September 2019) (`tpmOYXYQwhU`), consistent
   with the same sunset/sunrise night timing behind the mono-leader choice
   below (`FXWOIB0TPfE`).
+  ⚠ Fact-check (contradicted-internal): a second routing this list does not
+  cover — [yellowfin tuna](../species/yellowfin-tuna.md#situations--techniques)
+  sends a **15–20 lb-class yellowfin** taken alongside a big-bait slow troll at
+  the **East Cape** (Sea of Cortez, `BQ2U1PqxWi8`) to this note, while every
+  trigger here is large bluefin marked deep on rail-rod tackle at captain-called
+  100–360 ft, yellowfin appear below only as an *incidental* catch, and this
+  note's `regions` gate carries `socal-bight` alone — so the gate excludes the
+  water that router's row is sourced from.
 
 ## Mechanics
 

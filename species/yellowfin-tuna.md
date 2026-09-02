@@ -334,6 +334,45 @@ slow troll, and the transcript says only "Ryan can cast and drop down." The
 scad mackerel, the "vicious" strikes, the ripping flat-fall retrieve and the
 15–20 lb fish are verbatim and stand.
 
+⚠ Fact-check (contradicted-internal): the Baja slow-troll row's **ripping
+retrieve** on the flat-fall.
+[Flat-fall jigging](../techniques/flat-fall-jigging.md) defines the technique as
+the opposite — "worked passively, without an active jigging stroke," set
+explicitly against knife/speed jigging's "fast, continuous rip" and yo-yo iron's
+full-speed continuous crank — and its whole mechanic is a free-spool sink, a
+count of about 30–40, and a wind-up-halfway/re-drop cycle, because the lure is
+"built to be eaten **on the sink**." The row hands a reader the one retrieve
+that note is written against.
+
+⚠ Fact-check (contradicted-internal): this row also routes an **East Cape**
+(Sea of Cortez) **15–20 lb** yellowfin worked off a slow-trolling boat to
+[flat-fall jigging](../techniques/flat-fall-jigging.md), a note gated
+`regions: [socal-bight]` whose every stated trigger is **large bluefin marked
+deep** on rail-rod tackle at captain-called depths of 100–360 ft, and which
+records yellowfin only as an *incidental* catch of that program. The region gate
+that is supposed to stop an out-of-region recommendation excludes the water this
+row is sourced from, and the grade, depth and platform the row implies appear
+nowhere in the note.
+
+⚠ Fact-check (contradicted-internal): the ~6–6.5 kt troll speed this note
+assigns to **feathers and skirts** — in the troll-to-locate row, in
+[Gear summary](#gear-summary-class-terms) and in footnote [b] — is the cedar
+plug's yellowfin figure applied to a second lure class.
+[Tuna feathers and skirts](../lures/tuna-feathers-and-skirts.md) gives its
+members' own cameron-sourced speeds: the Williamson Tuna Catcher runs "to 9 kt,
+**best 6.5–8 kt**," the JAW dual-skirt 5–9 kt with **best 6–8 kt**, and the
+Live Series soft bait is slow-only at 4–7 kt. Both cameron figures cannot be the
+working speed for the same lure in the same troll; that note carries no
+yellowfin-keyed speed at all.
+
+⚠ Fact-check (contradicted-internal): the kite row's stated situation, **"calm
+water, kite conditions."** [Kite fishing](../techniques/kite-fishing.md) makes
+wind the entry condition — "there is **enough wind to fly a kite**" is its first
+"reach for this when," and its wind window names marginal, gusty or dying wind
+as the cue to abandon the kite for speed trolling. The row names as the trigger
+the one condition that note treats as the technique's failure mode; the
+no-corpus-source stub itself is not in question.
+
 [b] Speeds, spread positions and the pod approach are in
 [yellowfin — trolling](yellowfin-tuna-trolling.md#how-yellowfin-changes-the-execution):
 ~6–6.5 kt for cedar plugs and feathers (cameron), 7–9 mph for the small finesse
@@ -568,6 +607,7 @@ Trip reports and per-source provenance:
 - [Evidence — Yellowfin Tuna — trolling](evidence/yellowfin-tuna-trolling.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Guadalupe](../locations/guadalupe.md)
@@ -577,6 +617,7 @@ Trip reports and per-source provenance:
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Lighthouse Point](../locations/lighthouse-point.md)
 - [Lower Cross](../locations/lower-cross.md)
@@ -617,6 +658,7 @@ Trip reports and per-source provenance:
 - [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)

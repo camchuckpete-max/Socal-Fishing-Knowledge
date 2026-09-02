@@ -25,6 +25,14 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
 - There is **enough wind to fly a kite**, and bluefin in the 100–300 lb class
   are up top (foamers or high sounder marks) — the highest-percentage way to
   convert that grade. See [bluefin tuna](../species/bluefin-tuna.md).
+  ⚠ Fact-check (contradicted-internal):
+  [yellowfin tuna](../species/yellowfin-tuna.md#situations--techniques) states
+  the situation for its kite row as "big grade located, **calm water**, kite
+  conditions" — naming as the trigger the condition this bullet and the
+  [wind window](#wind-window) below treat as the technique's failure mode
+  (marginal, gusty or dying wind is the cue to switch to
+  [speed trolling](speed-trolling.md)). That row's flagged stub — no yellowfin
+  kite source in the corpus — is not in question; the conditions cell is.
 - When the wind won't fly a kite, cover water and pull bites with
   [speed trolling](speed-trolling.md) instead.
 

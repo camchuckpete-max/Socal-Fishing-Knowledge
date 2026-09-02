@@ -122,6 +122,18 @@ working bands both lure notes state" — but the Live Series soft bait above is
 class past its stated ceiling, and the Zuker Zucchini carries no speed at all.
 Neither note states a troll speed for skipjack.
 
+⚠ Fact-check (contradicted-internal):
+[yellowfin tuna](../species/yellowfin-tuna.md#situations--techniques) trolls
+"cedar plugs and **feathers/skirts** at **~6–6.5 kt**" for yellowfin — repeated
+in its gear summary and footnoted to cameron, the same source as the speeds
+above — while the Tuna Catcher's stated best band here is **6.5–8 kt** and the
+JAW's is **6–8 kt** — so the router's band touches the Tuna Catcher's best
+speed at a single point and sits at the bottom of the JAW's, and the only
+member it fits cleanly is the slow-only Live Series (4–7 kt), which the router
+does not name. That figure is the [cedar plug](cedar-plug.md)'s yellowfin speed
+applied to a second lure class; this note carries no yellowfin-keyed speed of
+its own.
+
 ### Rigging a bare tuna feather
 
 Full rig parameters and judgment live in

@@ -170,7 +170,14 @@ top-shot specs live in each lure note.
   different day's trip) switching to a different color Rapala had NOT
   produced the same doubles — a same-source, same-technique corroboration
   of the color-match-for-doubles read, not independently confirmed by this
-  crew's own footage. **Bait-to-feather swap:** later in the day, after
+  crew's own footage.
+  ⚠ Fact-check (contradicted-internal):
+  [yellowfin tuna — trolling](../species/yellowfin-tuna-trolling.md#differs-from-the-general-method)
+  lists this colour rule as one of its deltas against this note — "the general
+  note staggers the spread…; the yellowfin Cedros programme adds a colour rule
+  on top of the one-short-one-long positions" — while this entry carries the
+  same rule, the same positions and the same `YUdbrIm9vrE` cite. One of the two
+  holds the material; the sub-article's delta claim does not survive it. **Bait-to-feather swap:** later in the day, after
   birds marked a dorado school roughly 2–3 mi away (see the
   [dorado](../species/dorado.md) entry for that find), a flylined live
   sardine drew hookups until the bait stopped drawing bites — the crew
