@@ -196,10 +196,10 @@ complex.
 | Parked on island hard bottom, squid in the tank | [Dropper loop](../techniques/dropper-loop.md) with squid on the bottom | 30 lb bait class, level-wind reel | The bread and butter, and a legit 30-lb-class rig; they eat squid readily and school, so keep dropping (`6-8KfjEg0x8`) |
 | Scratchy marks through the whole column | [Sliding-sinker rig](../techniques/sliding-sinker.md) with squid | 30 lb bait class | Covers every level of the column from surface to bottom — the Channel Islands answer when the marks are not pinned to the bottom (`6-8KfjEg0x8`) |
 | Drifting an offshore-bank ridge in ~150 ft for reds | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) | 30 lb bait class | Whitefish come over the rail with the reds and sheephead on the same drift (`fDSd9kqwYW0`) |
-| Working an island high spot with iron, whitefish on the seam | [Yo-yo iron](../techniques/yo-yo-iron.md) | Yo-yo / heavy-iron class | They eat a wound iron (`UfuiWFVvz2E`); on a yellowtail day the whitefish is what takes a jig left sitting on the bottom (`8XIy7hPsFkQ`), so the retrieve rule that answers it lives in the [technique note](../techniques/yo-yo-iron.md#mechanics) [a] ⚠ Fact-check (contradicted-by-source): the source never says the whitefish ate the iron — "an angry whitefish" sits ~30 s after an "I'm yo-yoing" line and the link is caption adjacency — and the setting is the Cortez Bank high spot in ~120 ft, not an island (`UfuiWFVvz2E`) |
+| Working an island high spot with iron, whitefish on the seam | [Yo-yo iron](../techniques/yo-yo-iron.md) | Yo-yo / heavy-iron class | They eat a wound iron (`UfuiWFVvz2E`); on a yellowtail day the whitefish is what takes a jig left sitting on the bottom (`8XIy7hPsFkQ`), so the retrieve rule that answers it lives in the [technique note](../techniques/yo-yo-iron.md#mechanics) [a] ⚠ Fact-check (contradicted-by-source): the source never says the whitefish ate the iron — "an angry whitefish" sits ~30 s after an "I'm yo-yoing" line and the link is caption adjacency — and the setting is the Cortez Bank high spot in ~120 ft, not an island (`UfuiWFVvz2E`) ⚠ Fact-check (contradicted-internal): [yo-yo iron](../techniques/yo-yo-iron.md#mechanics) carries whitefish only as the bycatch that marks the cardinal yo-yo error — "start winding the instant the jig touches and never let it sit" — and names no whitefish application in its Reach for this when, so that note's own execution doctrine argues against this row's ranking of yo-yo iron as a way to target them |
 | Want to make the bottom grind a sport fishery / light-line day | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) | SPJ / slow-pitch class | Named as the way to turn rockfish, lingcod and whitefish fishing into sport fishing (`PRNMGpLj7Pw`); no jig weight or cadence is given for whitefish specifically |
 | Anchored on an island calico spot, no bottom program set up | Fish the same rock with the island bait rod | 30 lb bait class / workhorse all-around class | Whitefish to about **10 lb** come off anchored Catalina calico structure (`HGyL7pXy3Ts`) [b] |
-| No bait aboard / want to cover water | **Lead-head slug** or small jig on the bottom — see [lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) | 3 oz lead-head / light iron class, on the heavier bass rod | Same bottom presentation as the reds; whitefish will chase a slug or a [gulp-style grub](../lures/soft-plastic-swimbaits.md) |
+| No bait aboard / want to cover water | **Lead-head slug** or small jig on the bottom — see [lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md) | 3 oz lead-head / light iron class, on the heavier bass rod | Same bottom presentation as the reds; whitefish will chase a slug or a [gulp-style grub](../lures/soft-plastic-swimbaits.md) ⚠ Fact-check (contradicted-internal): [lead-head swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md), the note this row sends the reader to, is scoped to harbor/bay bottom contact (its worked example is 10 ft) and open-water column casting, on a ½–¾ oz baseline head; the 3 oz lead-head-and-plastic rig for a 100–300 ft hard-bottom drop is [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md#rigs--three-ways-to-fish-the-bottom)'s, and no head heavier than 2 oz appears in the linked note or its lure note |
 | Fly gear from a guide skiff, coast or island | ⚠ Flagged stub — no corpus source yet: whitefish are taken on flies alongside calicos and bonito at Catalina (`OYOda6T3f-8`), with no rod weight, line, leader or pattern anywhere in the corpus, and no fly technique note to link | — | Fill in when a source gives the pattern and presentation |
 
 [a] The same iron program is the yellowtail program on these spots, so the
@@ -224,6 +224,15 @@ up — see [Landing & handling](#landing--handling).
   [sliding sinker](../techniques/sliding-sinker.md). Squid is the staple bait;
   cut bait and [gulp/soft-plastic grubs](../lures/soft-plastic-swimbaits.md)
   work when you are not carrying squid.
+  ⚠ Fact-check (contradicted-internal): [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md),
+  the note this link and the Situations table's "gulp-style grub" both point
+  at, scopes itself to the paddle-tail/slug swimbait class for kelp and reef
+  bass and documents no scented Gulp bait and no bottom-grub application; the
+  corpus's Gulp grubs sit in
+  [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md) (5 in and
+  8 in grubs on a gangion or lead head) and
+  [slow-pitch jigging](../techniques/slow-pitch-jigging.md) (a 6 in curly-tail
+  trailer).
 - **Hooks and leader:** carry **size 1 and 3/0 light-wire J hooks** in the box
   for the shallow cod, whitefish and sheephead stop (`3xx_vES0kdo`) — see
   [hooks](../tackle/hooks.md). The same source's **25 lb fluorocarbon** figure
@@ -338,12 +347,14 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 - [Evidence — Ocean Whitefish](evidence/ocean-whitefish.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Santa Rosa Island](../locations/santa-rosa-island.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

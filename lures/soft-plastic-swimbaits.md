@@ -17,6 +17,15 @@ stringers without fouling. This note owns the rigging class, head/weight
 selection, and sizing; how it's fished is
 [swimbaits](../techniques/swimbaits.md).
 
+⚠ Fact-check (contradicted-internal):
+[ocean whitefish](../species/ocean-whitefish.md#gear-summary-class-terms) links
+this note twice for a "gulp-style grub" fished on the bottom, but the class
+scoped here is the unscented paddle-tail/slug swimbait for kelp and reef bass —
+no Gulp or other scented bait, and no bottom-grub application, is documented
+below; those sit in
+[rockfish deep-dropping](../techniques/rockfish-deep-dropping.md) and
+[slow-pitch jigging](../techniques/slow-pitch-jigging.md).
+
 ## The class / models
 
 Selection is driven by **how weedless it needs to be and how deep you fish it**:

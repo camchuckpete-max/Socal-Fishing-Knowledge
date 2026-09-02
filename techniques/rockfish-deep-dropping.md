@@ -466,6 +466,7 @@ file](evidence/rockfish-deep-dropping.md).
 - [Evidence — Rockfish Deep-Dropping](evidence/rockfish-deep-dropping.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [La Jolla](../locations/la-jolla.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
@@ -478,6 +479,7 @@ file](evidence/rockfish-deep-dropping.md).
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](../tackle/tackle-express-speedmaster-fathom-reel-sizing.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

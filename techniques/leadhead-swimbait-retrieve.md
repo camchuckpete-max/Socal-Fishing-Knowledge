@@ -121,6 +121,14 @@ not repeated here (`yTPtYL9QAsw`).
   of the same footage, not independent corroboration.
 - **Smaller baits are favored specifically in the harbor** (`OURS05qEGcA`).
 
+⚠ Fact-check (contradicted-internal):
+[ocean whitefish](../species/ocean-whitefish.md#situations--techniques) routes a
+**3 oz** lead-head on 100–250 ft island and bank hard bottom to this note; no
+head heavier than 2 oz appears here or in
+[soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md), which this note
+delegates weight selection to, and that deep hard-bottom lead-head-and-plastic
+rig is [rockfish deep-dropping](rockfish-deep-dropping.md#rigs--three-ways-to-fish-the-bottom)'s.
+
 ## Open-water casting retrieves — erratic vs. smooth
 
 A second, distinct retrieve family from the harbor count-and-pause rhythm

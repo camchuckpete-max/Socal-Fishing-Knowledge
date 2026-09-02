@@ -79,6 +79,11 @@ let it sit** — the most common yo-yo error is settling into position first, an
 a jig left on the bottom gets picked up by
 [ocean whitefish](../species/ocean-whitefish.md), small cod and other bottom
 critters before a yellowtail finds it (`8XIy7hPsFkQ`).
+⚠ Fact-check (contradicted-internal): [ocean whitefish](../species/ocean-whitefish.md#situations--techniques)
+ranks yo-yo iron as a technique for **targeting** whitefish ("they eat a wound
+iron") and points at this section for the retrieve that serves it, but the only
+whitefish content here is this rule — a whitefish on the iron marks the error
+the technique forbids — and no whitefish-targeting cadence exists in this note.
 
 **A 45° cast beats straight up-and-down for some anglers.** For yellowtail,
 casting the jig out (or flipping it away from the boat) so the line sits at
