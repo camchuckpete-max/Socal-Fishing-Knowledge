@@ -62,6 +62,13 @@ sponsors), which caps its product claims `low` and the zone at `medium`.
   on camera, Cabo San Lucas): dead ballyhoo trolled behind the boat produced
   multiple dorado hookups; the rigging narration was not captured in the
   transcript, so no leader, hook size or troll speed was logged.
+  ⚠ Fact-check (contradicted-by-source): only the **month** is on camera — "it's
+  the middle of November" (@00:00:14). The **year comes from the title and the
+  upload date**, not from the video, so "dated November 2019 on camera"
+  overstates what the source anchors. The rigging note is right for a different
+  reason than stated: the rigging demo is promised on camera ("we're gonna show
+  you about the Riggin and the hook tie-in", @00:00:24) but falls inside a blank
+  stretch of the manual captions, @00:00:42–@00:04:09.
 - `XH-Hrfet6To` (StokedOnFishing, 2014-12-02, offshore Cabo San Lucas): a
   "little stripe marlin" rose to the trolled lures and was landed after a
   dropback; a sailfish was confirmed the same morning with no method shown; the
