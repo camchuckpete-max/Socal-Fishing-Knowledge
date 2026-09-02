@@ -73,7 +73,10 @@ expensive, so the A-rig is worked over and past structure rather than into it.
 **One bite fires the next.** When the fish are schooled up and spawning and see
 the rig cruise past, one bite fires up the next, which fires up the one after
 that, until four or five fish are on — sometimes a full limit on a single cast —
-and the load feels like pulling up a 20 lb yellowtail (`P2OzCf2CwXI`). The
+and the load feels like pulling up a 20 lb yellowtail (`P2OzCf2CwXI`).
+⚠ Fact-check (single-source): the four-or-five-fish chain reaction and the
+20 lb yellowtail comparison rest on this one video alone, uncorroborated
+elsewhere in the corpus. The
 double rig gets at the same followers one bait at a time; the A-rig gets them as
 a chain reaction.
 
@@ -84,6 +87,9 @@ a chain reaction.
   larger tube baits and the two-plastic three-way rig (`P2OzCf2CwXI`).
 - **Reel: a low-profile ~300 size**, with a size either way acceptable
   (`P2OzCf2CwXI`).
+  ⚠ Fact-check (single-source): the 15–50 lb rod rating and ~300-size reel
+  rest on this one video alone; no other cited source in the note or
+  elsewhere in the KB corroborates the figures.
 - **Class term:** the
   [low-profile bass class](../tackle/gear-classes.md) — this is the cast-and-wind
   artificials outfit, not a rig built specifically for the A-rig
@@ -108,6 +114,11 @@ whose A-rig material is a Mission Bay spotted-bay-bass hardware build:
   five-hook saltwater / three-hook freshwater rule and the Palomar-over-uni knot
   are hardware decisions made before the cast; nothing in them describes a
   presentation for sand bass (`P2OzCf2CwXI`).
+  ⚠ Fact-check (contradicted-by-source): the sand bass studio video never
+  mentions a hook count, arm count, or knot — those figures are mis-scoped
+  here; per [swimbaits](../techniques/swimbaits.md#multi-bait-rigs) they
+  belong to the Mission Bay spotted-bay-bass build and are cited there to
+  `G6YRT4HNxr8`.
 - **The retrieve path is vertical, not horizontal.** The bay build is a straight
   grind held just above the eelgrass canopy — one depth, all the way back. The
   sand bass program sinks to at or near the bottom first and then cruises the
