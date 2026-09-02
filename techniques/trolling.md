@@ -532,6 +532,15 @@ i.e. a back-half strike on this lure still connects, where he rated a
 jig-and-reel presentation lower on hookup ratio for the same bite pattern.
 Not corroborated elsewhere in this corpus — a single angler's stated
 reasoning, not confirmed mechanism.
+⚠ Fact-check (contradicted-internal): the router disputes that this angler was
+trolling. [Wahoo — doctrine & conflicts](../species/wahoo.md#doctrine--conflicts)
+records `97clKtVsEOs` as a bomb-versus-**jig** comparison with the speaker
+**casting** the bomb — "I'm starting with a bomb… hookup ratio in my opinion is
+a lot better with these than with a jig" — and notes that the only lure trolled
+in the video is a Marauder. If that reading holds, this entry's trolled-bomb
+framing (and the cast-versus-troll conflict block in
+[wahoo bomb & Raider jig casting](wahoo-bomb-casting.md#reach-for-this-when),
+which rests on the same passage) has no trolled presentation behind it.
 **Tackle** (same session, sponsor products — Okuma is an on-air sponsor of
 this episode, so the specific reel/line **model** claims are logged at low
 confidence; the technique/parameters around them are medium): a two-speed

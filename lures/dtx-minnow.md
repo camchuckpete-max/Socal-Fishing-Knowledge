@@ -79,6 +79,15 @@ No troll speed, setback, or leader spec is given for the wahoo application;
 the DTX 165 running specs above are the closest documented analog, not a
 confirmed match for the 200 size. See [wahoo](../species/wahoo.md) for
 species-level routing.
+⚠ Fact-check (contradicted-internal): that analog cannot be the wahoo leader.
+The 165 specs above give leader/top-shot as **60–100 lb** and open the note
+with a swimmer "whose action **dies on heavy line**," while the paragraph
+below gives the only wahoo leader figure in the corpus as **275 lb wire**
+(`G81HN0dIDg0`) and [wahoo — gear summary](../species/wahoo.md#gear-summary-class-terms)
+requires wire on every presentation because the teeth cut mono regardless of
+test. A reader following the stated analog rigs mono/fluoro at a fifth of that
+test; no source reconciles the heavy wire against the dies-on-heavy-line
+action claim.
 
 The Nomad DTX Minnow — "the bigger size," not named by model number on camera
 and not confirmed as the DTX 200 above, though it is the same shop's stated
@@ -90,7 +99,13 @@ this corpus for the DTX-class wahoo troll application (no length, wire type,
 or setback given) (`G81HN0dIDg0`). ⚠ Fact-check (single-source): the 275 lb
 figure rests on this one transcript only (also the only source behind the
 same number in [wahoo](../species/wahoo.md)); no independent source
-corroborates it.
+corroborates it. ⚠ Fact-check (contradicted-internal): it also runs heavier
+than the trolled-lure wire the technique note builds.
+[Wahoo trolling — rigging](../techniques/wahoo-trolling.md#rigging) specs
+**200 lb**, with a second demonstration in the same session at **200–250 lb**
+(`4uNPLknRAQg`) — a session that shows a Nomad diving plug among its trolling
+lures — so the same lure class carries two builds a full test class apart,
+with neither note citing the other or giving a rule for choosing.
 
 Two further sizes of the Nomad DTX (not named by model number) are
 recommended as wahoo trolling lures for any long-range trip, called out by

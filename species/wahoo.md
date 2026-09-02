@@ -207,6 +207,15 @@ the SoCal/Baja range, and what spawning does to the bite. The corpus is silent.
   *over* it; the figure also carries the `depth_band` infobox field. The
   ridge's actual working depth is separately unresolved on
   [the Ridge / Uncle Sam Bank](../locations/ridge-uncle-sam-bank.md).
+  ⚠ Fact-check (contradicted-internal): the technique note this band governs
+  gives a deeper drop for the same cast.
+  [Wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#mechanics)
+  carries both a **20–30 count** sink with this same 60-ft-to-surface target
+  (`4uNPLknRAQg`) and, from a second source, a cast-as-far-as-possible drop of
+  **roughly 50–100 ft, maybe a little more** to a **45° line angle**
+  (`tjBeR9tWd4s`) — the top of that range puts the bomb on the bottom in the
+  90–100 ft this band assumes. Neither note states which figure governs, and
+  the same 60-ft ceiling carries this note's `depth_band` infobox field.
 - ⚠ Flagged gap — no corpus source: a wahoo sonar signature or meter depth,
   bird behaviour, or any surface sign (jumpers, foamers, breezing fish) that
   locates them — every documented catch is a troll, a cast on the slide, or a
@@ -264,6 +273,18 @@ in these sources; see the lead's flag on the same doctrine.
   build puts casting line at **50 lb**, up to 62 lb, with lighter risking a
   bite-off — see
   [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md).
+  ⚠ Fact-check (contradicted-internal): the **40 lb** bottom of that top-shot
+  band is below the floor the linked note states, on the same cite.
+  [Wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#gear-class-detail)
+  renders `4uNPLknRAQg`'s casting line as **50 or 60 lb test** — 80 lb braid
+  with a top shot matched to cast *distance* (50, 60 or 100 **ft**, not a
+  test) — and its
+  [common failures](../techniques/wahoo-bomb-casting.md#common-failures) make
+  50 lb the floor: "going lighter than the stated 50 lb line-class floor risks
+  a bite-off." The only 40 lb casting figure in the corpus is a different
+  angler's mono build (`tjBeR9tWd4s`), already kept side by side against that
+  floor on the technique note, so this bullet's first sentence recommends what
+  its second warns against.
 - **Live bait:** [flyline class](../tackle/gear-classes.md), **60–65 lb** braid
   with a **40 lb** top shot (`4uNPLknRAQg`), sardine on a single- or
   multi-strand wire leader — leader test, hook sizes and bite handling in
@@ -272,6 +293,15 @@ in these sources; see the lead's flag on the same doctrine.
 - **Terminal:** wire leader on every presentation; the teeth cut mono
   regardless of test (`G81HN0dIDg0`). See
   [haywire twist](../rigging/haywire-twist.md).
+  ⚠ Fact-check (contradicted-internal): the trolled hard bait row 3 routes to
+  does not carry that. [DTX Minnow](../lures/dtx-minnow.md) leads with a
+  swimmer "whose action **dies on heavy line**, so it fishes the lighter
+  **60–100 lb class**," puts leader/top-shot at **60–100 lb** in its spec
+  table, and tells a reader that those 165 specs are "the closest documented
+  analog" for the wahoo application — in the same section that gives the
+  wahoo leader as **275 lb wire** (`G81HN0dIDg0`). An angler taking the
+  stated analog rigs a mono/fluoro leader on a lure this note says must be
+  wired; no source says what 275 lb wire does to the DTX's swim.
 - **Whole-trip quiver:** the five-outfit long-range kit for an Alijos
   Rocks/Ridge seven-day trip is in
   [Searcher five-outfit quiver](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
@@ -362,6 +392,17 @@ produced one wahoo and its own recap is "we gave it a shot for some wahoo but
 the wahoo weren't there." `-62xDo4UQzo` also makes no troll-versus-cast
 comparison at all — the bite-frequency claim is `J3FGJj5zYPE` alone ("nine
 times out of ten you'll get picked up on these lures").
+⚠ Fact-check (contradicted-internal): that corrected reading is carried here
+only, and the two cluster notes it bears on still state the old one.
+[Wahoo bomb & Raider jig casting — reach for this when](../techniques/wahoo-bomb-casting.md#reach-for-this-when)
+builds an explicit, unreconciled cast-versus-troll conflict block on "one
+angler preferred **trolling** a bomb-style lure over a jig-and-reel
+presentation" (`97clKtVsEOs`), and
+[trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo)
+records the same angler as having "started the spread on a bomb-style
+**trolled** lure rather than a cast jig-and-reel presentation." Both readings
+cannot stand: either the source's angler was casting the bomb (as this note
+now records) or the conflict those notes carry is real.
 
 ## Landing & handling
 

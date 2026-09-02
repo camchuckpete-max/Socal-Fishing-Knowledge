@@ -72,6 +72,14 @@ this fits among wahoo's other techniques routes from
   buy the sleeve size printed on the wire's own packaging; going up one
   sleeve size from what the wire calls for leaves the crimp too loose and
   risks losing the fish and the lure on the hookset (`4uNPLknRAQg`).
+  ⚠ Fact-check (contradicted-internal): a heavier wire is given for the same
+  trolled-plug application on the lure note.
+  [DTX Minnow — wahoo trolling application](../lures/dtx-minnow.md#wahoo-trolling-application-dtx-200)
+  states **275 lb** wire for the Nomad DTX-class wahoo troll (`G81HN0dIDg0`),
+  where this session — which shows a Nomad diving plug among its own trolling
+  lures — builds at 200 lb, or 200–250 lb in its second demonstration. Neither
+  note cites the other and neither gives a rule for choosing, so an angler
+  wiring the same lure gets two builds a full test class apart.
 - **Loop size: about 1 in, and no shorter.** The exact loop length "doesn't
   really make that much difference" longer, but going shorter than about an
   inch costs the lure some of its swimming action (`4uNPLknRAQg`).
@@ -164,6 +172,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo-trolling.
 
 - [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Haywire Twist](../rigging/evidence/haywire-twist.md)
 - [Evidence — Wahoo Trolling — Speed, Leader, and Fight Mechanics](evidence/wahoo-trolling.md)
 - [Haywire Twist](../rigging/haywire-twist.md)

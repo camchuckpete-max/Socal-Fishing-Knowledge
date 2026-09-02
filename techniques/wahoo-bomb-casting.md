@@ -32,6 +32,16 @@ where this fits among wahoo's other techniques routes from
   This note's source frames casting the same class of lure as one of "the two
   most used," not a lesser option. Different anglers, not evaluated against
   each other in the corpus — kept side by side.
+  ⚠ Fact-check (contradicted-internal): the trolling half of this conflict is
+  disputed by the router.
+  [Wahoo — doctrine & conflicts](../species/wahoo.md#doctrine--conflicts) now
+  records `97clKtVsEOs` as a bomb-versus-**jig** comparison with the speaker
+  **casting** the bomb — "I'm starting with a bomb… hookup ratio in my opinion
+  is a lot better with these than with a jig," the only lure trolled in that
+  video being a Marauder. If that reading holds there is no trolling position
+  in this source and the conflict block above has one side only;
+  [trolling — Alijos Rocks](trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo)
+  carries the same trolled-bomb reading, unflagged.
 
 ## Lure choice
 
@@ -172,6 +182,16 @@ where this fits among wahoo's other techniques routes from
   pinned — "you're not going to outwind a wahoo," so turning the handle as
   hard and fast as possible the instant a bite is felt is what sets the hook,
   not a separate strike.
+  ⚠ Fact-check (contradicted-internal): this drop conflicts with the depth
+  doctrine the router states and with the sink count logged below.
+  [Wahoo — finding them](../species/wahoo.md#finding-them-sign--sonar) and the
+  species note's `depth_band` field both hold the fish in the **top 60 ft over
+  90–100 ft of bank**, and the `4uNPLknRAQg` bullet below counts only **20 or
+  30** on the sink for exactly that reason; a **50–100 ft "maybe a little
+  more"** drop reaches the bottom this note warns produces triggerfish and
+  whitefish. The 45° line angle makes the lure shallower than the line paid
+  out, but neither figure is stated as a correction on the other and no note
+  says which governs.
 - **A further speed/lure-choice data point, plus a second named ground
   (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 189 (Yoyos
   for Yellows)," `ETw_3AFxEcM`, 2022-07-14; unregistered channel — medium
@@ -415,6 +435,14 @@ Rocks) — not a confirmed wahoo catch, and not merged into
 
 - Going lighter than the stated 50 lb line-class floor risks a bite-off — no
   further failure modes given on camera.
+  ⚠ Fact-check (contradicted-internal): the router recommends line under that
+  floor. [Wahoo — gear summary](../species/wahoo.md#gear-summary-class-terms)
+  specs the casting build as 80 lb braid with a **40–60 lb** top shot, citing
+  `4uNPLknRAQg` — the session this note renders as **50 or 60 lb test** with
+  the top shot matched to cast *distance* — and then repeats this 50 lb floor
+  in its next sentence. The corpus's only 40 lb casting figure is Carl's mono
+  build (`tjBeR9tWd4s`, above), already kept side by side against the floor
+  here.
 - **Dull hooks out of the package.** Wahoo have "a very, very bony jaw";
   factory-sharp is treated as not sharp enough, so every casting lure, bomb,
   and live-bait hook gets touched up with a file or hook sharpener before
