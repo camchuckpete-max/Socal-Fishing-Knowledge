@@ -151,7 +151,11 @@ fathom — 182 tops out at 182 fathoms, 209 at 209, 43 at 43 (`Rf1HKJG-SDg`,
 [zone lexicon](zone-lexicon.md)). Nine Mile Bank is the stated **exception**: many
 closely spaced high spots of similar depth rather than one dominant peak, so no
 single fathom figure describes it, and it takes its distance off the beach as a
-name instead (`Rf1HKJG-SDg`). Read the two marks that way:
+name instead (`Rf1HKJG-SDg`). ⚠ Fact-check (contradicted-by-source): the source
+does not present Nine Mile Bank as the *only* exception — the same transcript
+distance-names the 14 the same way ("14 is 14 miles off the beach"), so
+distance-naming is a small class in that source rather than a lone carve-out.
+Read the two marks that way:
 
 | spot | what the name states | in feet |
 | --- | --- | --- |
@@ -197,7 +201,13 @@ bank still has its own **preferred directions** learned over repeat trips
 about working this complex points at the **contour edges** rather than the high
 spots: on the banks this fishery runs to — "the ridge or the 9 or the 178 or the
 302 … or even the 43" — the preferred drift is **down and in along the contour
-edges** where the fish dwell and feed (`yMiBtZ7k8-w`). ⚠ Flagged gap — no corpus
+edges** where the fish dwell and feed (`yMiBtZ7k8-w`).
+⚠ Fact-check (contradicted-by-source): the transcript's wording of that list is
+"the ridge or the the 9 or the 178 or the you know three or two or whatever have
+you um or even the 43" — **302** is a transcription inference rather than the
+source's word, and the same quoted list is reused twice more on this page. The
+"where we usually fish" framing and the down-and-in contour-edge drift are exact.
+⚠ Flagged gap — no corpus
 source: high-spot count, shape, preferred directions or current behaviour at
 either mark.
 
@@ -225,8 +235,8 @@ are [North 9 Mile Bank / 178](north-9-mile-bank-178.md),
 | --- | --- | --- |
 | [swordfish](../species/swordfish.md) | ⚠ Flagged gap — no corpus source for this zone | The daytime deep-drop working-spot list is "the ridge or the 9 or the 178 or the 302 … or even the 43" (`yMiBtZ7k8-w`); "the 9" is this bank complex under its short name, and no source says which of the library's three Nine Mile waypoints it means — the naming reaches this zone without landing on either mark |
 | [rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source for this zone | A stated run "to the 9-mile bank fishing cods" (`yn1suHH6b1Y`) again names the complex rather than an end of it. The nearest documented bottom ground is across the region line: Coronado Canyon and Lower 9 Mile Bank, **0.65–3.4 nm** from South 9 Mile Bank, fish as rockfish ground rather than as part of the island circuit ([Coronado Islands](coronado-islands.md), cameron) |
-| [yellowfin tuna](../species/yellowfin-tuna.md) | ⚠ Flagged stub — no corpus source yet | The corpus's one Nine Mile yellowfin day — **25 fish** on live bait with a popper in the mix — is placed on "the upper nine" (`ouBrIdO7d4k`), which by name is the other end of the complex, not this one |
-| [bluefin tuna](../species/bluefin-tuna.md), [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), [striped marlin](../species/striped-marlin.md) | ⚠ Flagged stub — no corpus source yet | Nothing places any of them on either mark, though the bank grid either side of this zone is the corpus's bluefin ground and the naming-convention source is itself a bluefin video (`Rf1HKJG-SDg`) |
+| [yellowfin tuna](../species/yellowfin-tuna.md) | ⚠ Flagged stub — no corpus source yet | The corpus's one Nine Mile yellowfin day — **25 fish** on live bait with a popper in the mix — is placed on "the upper nine" (`ouBrIdO7d4k`), which by name is the other end of the complex, not this one. ⚠ Fact-check (contradicted-by-source): "25 on the upper nine" and the yellowfin are verbatim, but the popper belongs to a *different* speaker's separate trip later in the same exchange, and "live bait" appears only in the interviewer's question and a garbled answer fragment — neither detail is established for the 25-fish day |
+| [bluefin tuna](../species/bluefin-tuna.md), [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), [striped marlin](../species/striped-marlin.md) | ⚠ Flagged stub — no corpus source yet | Nothing places any of them on either mark, though the bank grid either side of this zone is the corpus's bluefin ground and the naming-convention source is itself a bluefin video (`Rf1HKJG-SDg`). ⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` is a bluefin video by title only — its content is a SoCal banks-terminology explainer ("Outer Banks" meaning the SoCal outer banks, not North Carolina), bluefin appear twice in passing as illustration, and there is no bluefin technique or location content in it |
 
 **This zone is in the good half of the paddy split, and in the pressured part of
 it.** The best paddy water in the Bight is **south of San Clemente Island /
@@ -244,7 +254,13 @@ this water.** Bait stages on a high spot for shelter and the gamefish follow it,
 which is the constant across every fishery region (`Rf1HKJG-SDg`,
 [zone lexicon](zone-lexicon.md)); and the fish "go where the food is — whether
 that water moves in over the structure or it's outside of it, that's where
-they're gonna be" (`yMiBtZ7k8-w`). ⚠ Flagged gap — no corpus source describes
+they're gonna be" (`yMiBtZ7k8-w`).
+⚠ Fact-check (contradicted-by-source): that second quote is spoken by Rush Maltz
+of Key West, Florida — agreeing with the host — not by the San Diego captain
+whose SoCal doctrine the rest of this paragraph's cite carries. It is a general
+principle in the source, but as cited here it reads as SoCal doctrine from an
+out-of-region speaker.
+⚠ Flagged gap — no corpus source describes
 bait, squid, water colour or temperature over either mark, so the forage picture
 has to be pulled per position
 ([water temperature](../conditions/water-temperature.md),
@@ -270,6 +286,13 @@ one — **>15 kt = no-go**, comfortable **10–13 kt**, drift **≤ ~2–2.5 kt*
 either mark here holds the contour the fishery wants is unverified: the 439's
 name read as fathoms lands **below** the band that fishery works, and no source
 puts a sword drift on this end of the bank.
+⚠ Fact-check (contradicted-by-source): the **one to two-and-a-half knot** drift
+is stated in the transcript as the point where the presentation fails, not as a
+working band — "when I'm drifting that fast I'm not getting the presentation I
+like … I think that's about our limit right there" — so it is a ceiling, which is
+how the router's `≤ ~2–2.5 kt` reads it. The **10 lb** is likewise his top-end
+weight: "the least I fish is like seven … I think I have a ten and a half pound
+one". The 10–12/13 kt NW wind maximum is exact.
 
 **Life on arrival is the read this bank is named in.** Rolling out to the spot —
 "whether that's the 9 mile bank or the 14 or the 43" — and finding whales,
@@ -300,6 +323,16 @@ enough hop to read both in a morning (cameron), which is the compact pattern —
 except that the bank itself is explicitly the many-high-spots kind of ground
 (`Rf1HKJG-SDg`), which is the search type. ⚠ Flagged gap — no corpus source
 places either mark on that split.
+⚠ Fact-check (contradicted-by-source): `Blh2BA-7Ono` carries only half of that
+split. It gives the square-mile figure and the driving-around half — "you get
+probably 50 miles 60 square miles to look … you should expect to spend quite a
+bit of time driving around, don't just expect to drive a spot and find those
+fish" — scoped to the water below San Clemente Island (the 43, 181, 182, 289,
+the Clemente Ridge up to the Mackerel Bank), not to the Bight generally. The
+compact half is not in it: no "idle up to it, grade it on the meter, commit or
+leave" contrast appears, only "it's not like running to the 302 or 371". The
+figure itself is garbled in the captions ("50 miles 60 square miles", later "60
+mile square area") and is never stated cleanly as 50–60 square miles.
 
 **Conditions for the northeastern half come off a scored spot.** South 9 Mile
 Bank is one of the BightSST eval targets — the original set listed the bank as
