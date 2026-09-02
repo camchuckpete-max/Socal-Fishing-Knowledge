@@ -544,3 +544,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T15:01:08Z — species/spotted-bay-bass-structure-pitching.md — check-note-failed
 - run: 33644315121
 - reason: FAIL  species/spotted-bay-bass-structure-pitching.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the 2–3 ft figure is hedged and scoped
+
+## 2026-09-02T16:01:48Z — species/yellowtail-dropper-loop.md — verify-escalate
+- run: 33651803282
+- reason: verifier found no working-tree diff for the factcheck worker pass and could not confirm whether the zero-flag outcome (17/17 claims verified against SAltQjih0ms/YntRJAN88fs/HTowqnwAMeA, no contradictions) is legitimate or a missed worker step

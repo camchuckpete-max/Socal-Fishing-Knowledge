@@ -890,7 +890,7 @@ by their builders after the transform phase drains.
 | species/white-seabass-leadhead-squid.md | standard | fact-checked | contradicted-by-source(3) | 3 contradicted-by-source flags: rod/reel weight class mis-scoped, drag tip mis-scoped to baitcaster passage, head-maker attribution wrong (friend's heads, not source's own) |
 | species/yellowfin-tuna-flyline.md | standard | fact-checked | single-source(6) | 6 single-source flags added on surprising/precise numeric specs (bait budget, entry point, scale-down ladder, 10-count, sportboat depth/chum time, bait-net count), all verified verbatim |
 | species/yellowfin-tuna-trolling.md | standard | fact-checked | single-source(7), contradicted-by-source(1) | 8 flags added: 7 single-source on precise numeric specs, 1 contradicted-by-source on a reordered/conflated causal chain in the pod-approach passage |
-| species/yellowtail-dropper-loop.md | standard | transformed | none | verified already fully v2-compliant, no changes needed; 3 check-note.py WARN confirmed benign (restatements of in-note-cited figures) |
+| species/yellowtail-dropper-loop.md | standard | escalated | none | escalated: verifier found no working-tree diff for factcheck worker pass, could not confirm zero-flag outcome (17/17 claims verified, no flags) is legitimate vs missed worker step |
 | species/yellowtail-knife-jigging.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/snook-sliding-sinker.md | standard | transformed | none | verified already-compliant, no note changes needed; 1 accurate spot-harvest row appended and confirmed against transcript |
