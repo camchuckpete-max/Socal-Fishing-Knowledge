@@ -65,6 +65,13 @@ fourth time" — so the exact quoted wording above is verbatim only in
 swimming flat gets helped: "speed it up, slow it down, a little perky-jerky
 every now and then… you gotta make them bite it. Rarely do they just come up
 and inhale it" (`Ec2GaNpiOHI`).
+⚠ Fact-check (contradicted-internal): [cabrilla](../species/cabrilla.md) routes
+its surface-iron situation row to a jig "that tracks straight rather than in an
+S pattern" — the opposite selection criterion to the serpentine
+swim and kick-out this section makes the trigger, and to
+[iron jigs](../lures/iron-jigs.md)'s rule that a symmetrical body "swims dead."
+Whether this is a Sea-of-Cortez cabrilla exception or a misread of that source's
+tight-vs-wide kick contrast is unresolved.
 
 There is no species-specific retrieve: "I was using a yellowtail retrieve, a
 calico bass retrieve, a barracuda retrieve — no. When the lure swims right,

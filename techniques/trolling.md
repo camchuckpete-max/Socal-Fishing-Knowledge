@@ -314,6 +314,13 @@ trolling kit, ahead of casting for cabrilla or yo-yoing:
   — a different class from the bluefin-scale bars covered in that note.
   Feathers are not commonly trolled down there; when they are, they run small.
 
+⚠ Fact-check (contradicted-internal): [cabrilla](../species/cabrilla.md) carries
+its trolling row as a flagged stub — "no corpus source yet… with no speed, lure
+or depth parameters anywhere in the corpus" — while this section, cited to
+`M8hOYQ_6rSg`, gives the Sea-of-Cortez trolling lure classes and frames them as
+what is trolled ahead of casting for cabrilla. The speed and depth halves of
+that stub stand; the lure half does not.
+
 ## Cabo San Lucas — surf-line slow-trolling for sierra
 
 **Capt. Dave Hansen, Your Saltwater Guide (`ll7r4A6atno`, 2021-01-19);
