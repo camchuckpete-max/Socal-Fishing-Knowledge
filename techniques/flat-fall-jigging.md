@@ -39,6 +39,14 @@ to reach for it is the reverse map in **Linked from** below.
   a different mark, or a different trip.
 - **Windy conditions** — step up in jig weight so the lure still reaches the
   bite zone quickly; see [Jig weight and rig](#jig-weight-and-rig) below.
+  ⚠ Fact-check (contradicted-internal):
+  [rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+  routes its trophy-lingcod row ("want one trophy lingcod rather than
+  numbers," heavy jig class on a level-wind with 30 lb braid) to this note,
+  and names small flat-falls as the numbers answer on shallow rock — a
+  program nothing in this list covers: every trigger here is large bluefin
+  marked deep on rail-rod tackle, and rockfish appear below only as an
+  *incidental* catch of a flat-fall "fished too deep in shallow water."
 - **Night, especially the sunset/sunrise window.** Live bait flylined is
   generally the best overall bluefin option, but flat-fall fished at night —
   bite window right after sunset or right before sunrise — has, for

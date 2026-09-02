@@ -65,6 +65,16 @@ side. Execution only; species and situations are the reverse map in
 - Load the rod off that fulcrum and let it unload — the tip flicks the jig up,
   then you feed slack and watch/feel the fall. Most bites come as a bump on
   the drop; wind tight into them, don't swing.
+  ⚠ Fact-check (contradicted-internal):
+  [rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+  routes its deep/column row here with the opposite instruction — "thumb the
+  spool on the drop… keep tension on the drop so it falls straight and fast;
+  release near the bottom for flutter action" — which reserves the flutter for
+  the last few feet and puts tension on the fall this note's whole method
+  feeds slack into. (The router's own flag already traces those two rules to
+  `O5aQkex0qGg`, the jig cadence in
+  [rockfish deep-dropping](rockfish-deep-dropping.md#jig-cadence), rather than
+  to its slow-pitch cite.)
 - **One full handle turn moves roughly 3 ft of line and equals one "pitch."**
   Hit bottom, then count turns to work the jig up to where fish are marked —
   e.g., fish called 12 ft up: wind three turns, then start pitching, working

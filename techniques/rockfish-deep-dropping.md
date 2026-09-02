@@ -479,6 +479,7 @@ file](evidence/rockfish-deep-dropping.md).
 - [San Miguel Island](../locations/san-miguel-island.md)
 - [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](../tackle/tackle-express-speedmaster-fathom-reel-sizing.md)
+- [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)

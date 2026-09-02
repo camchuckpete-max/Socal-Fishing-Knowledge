@@ -267,6 +267,14 @@ drop-and-flutter yo-yo iron for rockfish and lingcod, sized to depth:
   stickbaits](tuna-poppers-and-stickbaits.md#ahi-usa-live-deception-flash-jig-cast-sink-35-sec-then-a-slow-crank));
   kept as a strengthened but still asr-uncertain reading rather than fully
   resolved, since neither upload's title names the jig brand.
+  ⚠ Fact-check (contradicted-internal):
+  [rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+  calls this class a **6 oz Ahi-Assault iron** in the gear cell of its
+  shallow-high-spot lingcod row (from `O5aQkex0qGg`, self-hedged there as "six
+  ounce… or maybe an eight ounce"), against the **8 oz** stated here, and puts
+  it on a shallow high spot where the rockfish/lingcod sizing above runs
+  50–300 ft — so router and class note hand a planner two different weights
+  and two different depth bands for the same jig.
 
 **Lighter surface-iron sub-class, line-class-limited (same source):** an
 **A1-light** class jig is a tight-swimming jig good for both yellowfin and

@@ -26,6 +26,15 @@ below; those sit in
 [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md) and
 [slow-pitch jigging](../techniques/slow-pitch-jigging.md).
 
+⚠ Fact-check (contradicted-internal):
+[rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+routes the same way — its workhorse dropper-loop row baits "a
+[gulp/plastic grub](soft-plastic-swimbaits.md) (5–8 in grub, white-glow /
+nuclear-chicken)" and its Gear summary links this note for "gulp/soft-plastic
+grubs… an 8 oz jig head with an 8 in white-glow grub in about 270 ft" — both
+naming a scented Gulp bottom grub this note does not document, at a head
+weight (8 oz) well past the heaviest head documented here (2 oz).
+
 ## The class / models
 
 Selection is driven by **how weedless it needs to be and how deep you fish it**:

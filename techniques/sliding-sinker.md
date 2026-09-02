@@ -45,6 +45,14 @@ fish sit is the router; this note owns the rig and how you feed the bite.
 - Match the sinker to the drift and the depth — just heavy enough to tick bottom.
   A fish that grabs the bait **pulls line through the sinker and feels nothing**;
   that is the whole point of the rig.
+  ⚠ Fact-check (contradicted-internal):
+  [rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+  routes its island-rock/live-squid row (~100 ft) here calling a **1/2 lb
+  (8 oz)** slider the "light lead so the squid swims" — heavier than every
+  SoCal figure in this note (1/8–3/4 oz white seabass, 1/4–1/2 oz sheephead,
+  2–4 oz San Diego yellowtail with "above 4 oz a different rig is preferred"),
+  and matched only by the Baja/Sea-of-Cortez grouper build below, so "light"
+  in the router is this note's heavy end.
 
 **A long-leader, no-cast build** (`O49WsHP4Zh0`). No species or location is
 stated; water depth at the time of filming was about **9 ft**, with no place

@@ -129,6 +129,14 @@ head heavier than 2 oz appears here or in
 delegates weight selection to, and that deep hard-bottom lead-head-and-plastic
 rig is [rockfish deep-dropping](rockfish-deep-dropping.md#rigs--three-ways-to-fish-the-bottom)'s.
 
+⚠ Fact-check (contradicted-internal):
+[rockfish & lingcod](../species/rockfish-lingcod.md#situations--techniques)
+routes the same way and adds a retrieve disagreement — its shallower-rock row
+(100–250 ft, suspended reds) sends a **3 oz** lead-head slug here to be fished
+"drop slack, **5–6 quick winds off the bottom**," against this note's
+three-turns-then-pause rhythm read off the line going slack, on a ½–¾ oz head
+with a 3–4 in bait in harbor/bay water.
+
 ## Open-water casting retrieves — erratic vs. smooth
 
 A second, distinct retrieve family from the harbor count-and-pause rhythm
