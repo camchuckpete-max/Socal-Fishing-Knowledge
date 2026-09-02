@@ -1,10 +1,10 @@
 # Review progress
 
-Last update: 2026-09-02 16:35 UTC (run 33651803282)
+Last update: 2026-09-02 16:59 UTC (run 33655897896)
 
 | total | pending | transformed | fact-checked | done | skipped | escalated | reverted |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 913 | 23 | 4 | 242 | 460 | 163 | 21 | 0 |
+| 913 | 23 | 0 | 246 | 460 | 163 | 21 | 0 |
 
 Rows by tier: cluster 23, full 24, gazetteer 523, geo 83, light 99, standard 161
 Pending relocations: 0
