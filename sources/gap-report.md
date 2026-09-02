@@ -4184,7 +4184,7 @@ _Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Structure & bathymetry`: flagged stub row
   - `What's there`: flagged stub row
   - `What's there`: gap — what the fish are
-  - `How it fishes`: gap
+  - `How it fishes`: gap — states a wind or swell number that turns this
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `Spots`: gap — names a sub-spot, rock or pinnacle on either
