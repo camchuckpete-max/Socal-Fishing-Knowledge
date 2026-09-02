@@ -33,6 +33,14 @@ Todos Santos Island pair reaches nearer a charted coastal position (cameron).
 compare against. Everything else on the
 numbered grid is a run offshore; this is water a coastal day already passes.
 
+⚠ Fact-check (contradicted-internal): both zones already have pages in this
+folder — sniffer-west-400-300.md and banda-bank-todos-santos-island.md — and
+both appear in this note's own backlinks block, so the stub is stale. The two
+comparisons themselves recompute: the Sniffer / West 400 / 300 (The Rampart)
+zone spans 10.8 nm corner to corner, the next tightest after this zone's 8.3 nm
+among the region's three-or-more-spot bank zones, and Banda Bank sits 4.3 nm
+from the 48 Fa. Spot against this zone's 5.7 nm.
+
 **Nothing in the corpus describes fishing any of these three marks.** The
 [region page](baja-pacific-north.md) carries the same gap across the whole
 numbered-bank grid — fifty-one charted positions over seventeen bank zones with
@@ -57,6 +65,14 @@ Measured that way the zone centre is **34.0 nm** out on **183°**. From the
 (cameron) — a quarter of the reach, from a coast the corpus does not describe
 fishing out of.
 
+⚠ Fact-check (contradicted-by-source): only `0dIwWiOc1NY` carries the
+bait-and-departure claim — "We stopped just outside the marina to catch a few to
+use as bait", with the Hotel Coral Marina named as the base. `0bcDBGzQnGw` has
+no bait-making and no marina departure: its only bait line is a receiver "bait
+barge" about ten minutes away, its base is the Hotel Coral ashore, and the only
+sea run it describes is the four-hour delivery down from California. The second
+cite does not support either half of the sentence.
+
 **Every one of these marks falls inside the corpus's stated Ensenada distance
 bands, and none of them is on the stated axis.** Read against the charted
 positions, the documented offshore day brackets all three by distance alone:
@@ -69,6 +85,22 @@ positions, the documented offshore day brackets all three by distance alone:
 | A floating object holding fish | about 35 mi | roughly the 60's distance | `0bcDBGzQnGw` |
 | The August 2024 tournament bank | 42–43 mi | the Baja - 230 at 43.3 statute miles is at the outer edge of this band | `Ix0gG0-l3v0`, `U1AgwmlY5bI` |
 | The supplier-conference fleet's grounds | 45–50 mi out | outside every mark here | `0bcDBGzQnGw` |
+
+⚠ Fact-check (contradicted-by-source): the **42–43 mi** row is distance
+*travelled*, not the bank's distance offshore — "how far did we just travel uh
+we just went uh I think about 42 43 miles so we're kind of getting into the the
+whole bank" (`Ix0gG0-l3v0`), and the same take in `U1AgwmlY5bI` adds "we stopped
+sou[th] of the dolphin we're just at 9 miles from the high spot", i.e. the run
+left them 9 mi short of the mark. The same day was a zig-zag search — "we
+probably drove 180 mil today we went North we went South" — so it is not a clean
+radius from port.
+
+⚠ Fact-check (contradicted-by-source): the **45–50 mi** fleet row identifies no
+fleet and stakes no grounds in its source — "I know the fleet is about 45 50
+miles from where at their lamp here if we could find fish away from them that's
+our goal" (`0bcDBGzQnGw`). It is boats to be avoided, at a distance from the
+speaker's position, not a named fleet's fishing grounds; the supplier-conference
+guests are aboard this boat.
 
 **The bearing is what breaks the coincidence.** Every one of those Ensenada
 figures that carries a direction carries **west** — the break run is **20–30 mi
@@ -116,6 +148,16 @@ fathom ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`):
 | Baja - 230 | 230 fathoms | about 1,380 ft |
 | Peanut Bank | not a number — a shape name | ⚠ Flagged gap — no corpus source |
 
+⚠ Fact-check (contradicted-by-source): the rule is hedged in `Rf1HKJG-SDg` —
+"most of them / are the banks are called after the highest part of the bank / on
+the fish finder" — and the same passage states its exception, the Nine Mile Bank and
+"the 14" being named for miles off the coast. "Six feet is in a fathom" is
+verbatim and the arithmetic in the table is right, but the transcript's worked
+examples are SoCal banks (the 182, the 209, the 43) and it never mentions these
+marks, so the derived depths are an inference from an unhedged rule. The
+identical finding is already open against
+[Punta Banda / Santo Tomas](punta-banda-santo-tomas.md).
+
 **Read literally, the 60 is the shallowest bank name in this half of the
 library except one.** Of every numerically named position in the spot library's
 offshore-banks section south of the border, only the **52** — which the census
@@ -131,6 +173,22 @@ The **Baja - 230** at about **1,380 ft** is a different kind of number
 altogether — inside the **150–350 fathom** contour band the KB gives for
 [swordfish](../species/swordfish.md), and below the deepest working depth
 anything else in the KB records.
+
+⚠ Fact-check (contradicted-internal): the **60 Mile Bank (53 Fa.)** also sits in
+that section and also reads shallower, and the KB places it south of the border
+— its page carries `regions: [baja-pacific-north]` and parents it to the
+Baja zone Upper Cross / 421 / 390. This note's own naming paragraph treats the
+parenthetical **53 Fa.** as that bank's fathom reading, so the superlative holds
+only if a parenthetical fathom figure does not count as a numeric name; nothing
+states that rule. No other position in the section reads under 60 south of the
+border (cameron).
+
+⚠ Fact-check (contradicted-by-source): the heaviest tier in `hteLeDIy9Qs` carries
+no depth figure at all, so it has no ceiling to top out below. The three tiers
+are a Salas 6X junior in "60 80 100 feet", a regular 6X in "the 120 to say 150
+range", and a 7X heavy when "you're fishing real deep which we do a lot of times
+in areas like colonet the ridge or alejos even guadalupe" — place names, not a
+depth. The 120–180 ft Colonet figure beside it is `YAKOv9bXKO0` and verifies.
 
 **The 60 continues the coastal fathom ladder outward.** The five fathom-named
 marks in [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) run **15, 33,
@@ -179,6 +237,22 @@ corpus source: the library's collision rules resolve *475* against *475 Knuckle*
 and *220* against *Double 220* but address neither the two 60s nor whether the
 60 is a depth name at all.
 
+⚠ Fact-check (contradicted-internal): "on the SoCal side" disagrees with the KB's
+own placement of that mark — locations/60-mile-bank-53-fa.md carries
+`regions: [baja-pacific-north]` and parents it to the Baja zone
+Upper Cross / 421 / 390, and the library position 32°04.000'N 118°14.833'W lies
+south of the maritime boundary's offshore run. The 85.8 nm separation recomputes
+exactly (cameron).
+
+⚠ Fact-check (contradicted-by-source): neither cited source applies the
+distance-naming pattern to the 60 Mile Bank. `Rf1HKJG-SDg` never mentions it and
+never says "53", stating the pattern only for two marks — "the nine mile bank
+that's not / nine miles deep that's nine miles off / the coast" and "14 is 14
+miles off the beach" — and [the lexicon](zone-lexicon.md) records the same two.
+The transcript also gives the nine-mile a specific reason the note drops: it has
+"so many high spots" that there is no single one to name it for. Extending the
+pattern to a third, unmentioned bank is inference.
+
 ## What's there
 
 | species | season | what this zone does for them |
@@ -200,6 +274,40 @@ here. The routers [yellowfin tuna](../species/yellowfin-tuna.md),
 [striped marlin](../species/striped-marlin.md) and
 [bluefin tuna](../species/bluefin-tuna.md) carry that material at region level.
 
+⚠ Fact-check (contradicted-by-source): `0bcDBGzQnGw` never puts the skipjack and
+yellowfin on the floating object. The paddy is announced after them — "look here
+it is our first Cal pal you are about 35 miles from Ensenada" — while "capiche
+skipjack skipjack" and "oh that's yellowfin right there" come roughly twenty
+seconds earlier, with nothing tying the sightings to it. The 35-mile figure
+itself is verbatim.
+
+⚠ Fact-check (contradicted-by-source): the marlin in `0bcDBGzQnGw` is not
+identified as striped and is not from the same outing. The line is "well
+actually just saw marlin jump right in front of the boat", spoken in the
+run-down-the-coast segment that precedes "getting ready for our first Navigo
+fishing trip"; the 35-mile paddy is a later day. Species and trip are both
+additions.
+
+⚠ Fact-check (contradicted-by-source): **August 2024** is upload metadata
+(`Ix0gG0-l3v0` 2024-08-21, `U1AgwmlY5bI` 2024-08-14), not spoken content — no
+month and no year is said in either transcript, whose only temporal marker is
+"the second annual blue fin tuna event".
+
+⚠ Fact-check (contradicted-by-source): "breezing and kite-raised" overstates
+`Ix0gG0-l3v0` and `U1AgwmlY5bI`. The word breezing is never used, the showing
+fish were worked with a spreader bar — "they're up on top so should be able to
+run the spreader bar right across them" — and the kite produced one unconverted
+response, "we had a swirl under it just take commit", on an episode that states
+"in the end we did not land any fish during the tournament".
+
+⚠ Fact-check (contradicted-by-source): the counts are hedged and the boat figure
+disagrees between the two cites. The fish are the tournament director's "yesterday
+I think were maybe four pieces and today uh seven pieces" (`Ix0gG0-l3v0`); the
+boats are "I think out of 40 boats I'm guessing" there against "we're in fourth
+place with about 35 other boats" in `U1AgwmlY5bI`. A separate day-one figure in
+the same passage — "three people three boats caught fish" — is not the same
+count as the four.
+
 **Where the bluefin are is a fleet-position question here, not a calendar one.**
 Three areas were being worked as of **2021-05** — one west of San Diego and two
 west of Ensenada — with nothing running further down the coast to Colonet or San
@@ -208,6 +316,25 @@ there expected to still hold fish, just unfished (`fgTmUq78ofQ`). This zone lies
 between those two descriptions — south of the Ensenada grounds, north of Colonet
 — and no coordinate, distance or bank name in that report reaches it.
 
+⚠ Fact-check (contradicted-by-source): **2021-05** is the file's upload date, not
+spoken content — the transcript dates nothing and speaks only in relative time.
+The split is also not stated as given: "i think there's there's three different
+areas of bluefin right now there's an area that's out west of uh san diego /
+there's one that's west of ensenada / well there's two areas out west so". Three
+areas is stated and hedged; one San Diego plus **two** Ensenada is a reading of
+that last, garbled line.
+
+⚠ Fact-check (contradicted-by-source): the source states a conditional about
+*water* structure, not an expectation about bottom structure — "there was a
+pretty good uh structure of water down there that uh in the beginning when this
+all started that's where that fish was at and **if** that water structure is
+still there **then** i'm sure that there's there's bluefin down there too we
+just haven't had to go that far". "The older structure down there expected to
+still hold fish" hardens an if-then about a water mass into a standing
+expectation about a bank. The unfished half is his hedged "i don't think that
+there's ... been a boat that has been down outside of colonet and san [quintin]
+in a while".
+
 **The nearest trace of anyone fishing offshore of this coast is second-hand.**
 An attendee at a 2025 trade show described three trips out of **La Bufadora** —
 **19.7 nm** north of the 60 — releasing tuna under 50 lb because there was so
@@ -215,6 +342,17 @@ much of it, with months given as November, December and February, no year, and
 no species named (`ouBrIdO7d4k`). It names no mark, no distance and no bearing,
 so it is not attributed to this zone; it is logged in the
 [Punta Banda / Santo Tomas evidence file](evidence/punta-banda-santo-tomas.md).
+
+⚠ Fact-check (contradicted-by-source): in `ouBrIdO7d4k` the release practice
+attaches to one trip, not to all three — "I went down there three separate times I went down there in
+uh November December and then again in February the second two times I went down
+there I stayed with Mauricio … that's the first trip we were doing Catch and
+Release tuna cuz there was so much of it". The three visits, the three months,
+the missing year and "anything under 50 lb throw it back in the water" all
+verify; the captions also read "Bufadora", never "La Bufadora". The same finding
+is already open against
+[Punta Banda / Santo Tomas](punta-banda-santo-tomas.md), which owns this
+observation.
 
 **The one species frame that spans this latitude is coastal, not offshore.**
 Baja coastal structure from Ensenada southward holds
@@ -246,6 +384,15 @@ locates fish and the crew deliberately worked away from the fleet
 runs west or north and this zone lies due south, so it is not water that plan
 reaches.
 
+⚠ Fact-check (contradicted-by-source): two separate moments in `0bcDBGzQnGw` are
+fused into one program. The cedar plugs are not the locating tool — they are pulled around life
+already found by eye: "or slow troll and some cedar plugs right now around this
+big dolphin school and hoping that some tuna around it", with the stated locating
+doctrine being "the name of the game is finding life". The away-from-the-fleet
+intent is a different day's line, "if we could find fish away from them that's
+our goal". The 20–30 mi due-west run, the sea-conditions branch and the 20–30 mi
+north fallback are all one hedged sentence in the source and verify.
+
 **What the geometry does say is that this is the one bank zone a coastal day
 could reach.** The 60 is **5.7 nm** outside the 33 Fa. Spot and **7.0 nm**
 outside the 38 Fa. Spot (cameron), which is a shorter hop than the **14.4 nm**
@@ -263,6 +410,17 @@ pinnacles and rocks" down there breaks (`PRNMGpLj7Pw`;
 Colonet, **30.1 nm** away on the coast side, not for these banks. General
 reading layers are [current & structure](../conditions/current-structure.md) and
 [water colour](../conditions/water-color.md); neither is scoped to this water.
+
+⚠ Fact-check (contradicted-by-source): the slow-pitch rig in `PRNMGpLj7Pw` is
+not carried for a Colonet trip — it is the all-purpose one, "my favorite overall
+allaround slow pitch rig for … Southern California and Baja whether you're on …
+an overnight boat out of the Channel Islands or or a Colonette trip or even a
+longer trip", with Colonet one of three named contexts, so "down there" is the
+note's scoping, not the source's. The abrasion quote is verbatim and the leader
+is specific: a 25 ft top shot of 50 lb mono to a four-turn surgeon's knot and
+about 3 ft of 80 lb, over 20 lb braid. The yo-yo figures beside it verify, with
+Colonet named at the depths ("if you're fishing Colonet … 120 to about 180 ft.
+Sometimes as deep as 220") and the 30 ft stated as "very common", not invariable.
 
 Zone guides — the trip-level story:
 
