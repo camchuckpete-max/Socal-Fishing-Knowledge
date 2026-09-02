@@ -47,7 +47,8 @@ and count the lure down until it hits bottom — the example given is **30
 seconds** — then on the following cast engage the reel at **20 seconds**
 instead of waiting for bottom, so the lure works a shallower zone than the one
 you just measured (`hjZ3hgq0Bzg`). The first cast is the measurement; the
-second is the fishing.
+second is the fishing. ⚠ Fact-check (single-source): the 30 s/20 s countdown
+pair, the page's core parameter, rests on this one transcript only.
 
 **Fish most casts shallow, but swim one through midwater roughly every third
 cast.** From the bracketed depth, keep the casts shallow and deliberately drop
@@ -56,7 +57,8 @@ reason is a miss the bait rail cannot detect: a school riding mid-column rather
 than cruising the bottom is invisible to
 [dropper-loop](white-seabass-dropper-loop.md) anglers, and a caster is the one
 person aboard who can confirm it without being told where the fish are
-(`hjZ3hgq0Bzg`).
+(`hjZ3hgq0Bzg`). ⚠ Fact-check (single-source): the every-third-cast cadence,
+also load-bearing for this page, is single-sourced.
 
 **A holding fish gets a slow, current-worked walk, not a crack.** For a white
 seabass that "wants to chase something" rather than eat a dead-drifted squid,
@@ -65,8 +67,14 @@ rod **slowly down-up-down** — deliberately imitating a live squid holding and
 drifting in the current rather than a fleeing baitfish (`qLKLlZdiflA`). Go slow
 even though a light, buoyant leadhead already carries a lot of drag in the
 water, because seabass are often "extremely lazy" and take their time
-(`qLKLlZdiflA`). That slow walk is set against the family's hard-crack call for
-this species under [doctrine & conflicts](#doctrine--conflicts).
+(`qLKLlZdiflA`). ⚠ Fact-check (contradicted-by-source): the source uses
+"extremely lazy" to explain why the dropper-loop/dead-squid presentation works
+on seabass generally, then introduces the fluke as the move for a fish that
+instead "wants to get a little more fired up and wants to chase something" —
+the slow retrieve it actually states is driven by the lure's buoyancy and drag,
+not restated as a laziness cause. That slow walk is set against the family's
+hard-crack call for this species under
+[doctrine & conflicts](#doctrine--conflicts).
 
 ## Rigs & gear
 
@@ -75,8 +83,9 @@ this species under [doctrine & conflicts](#doctrine--conflicts).
   the general retrieve uses. The countdown cadence above is described on a
   **1.5 oz** head, which is what makes the count a depth control rather than a
   guess — that weight sinks to the bottom in 60–100 ft "reasonably quickly"
-  and holds a chosen depth on the retrieve (`hjZ3hgq0Bzg`); head spec and sink
-  behaviour are in the
+  and holds a chosen depth on the retrieve (`hjZ3hgq0Bzg`). ⚠ Fact-check
+  (single-source): the 1.5 oz head spec and the 60–100 ft sink range are
+  single-sourced. Head spec and sink behaviour are in the
   [lure note](../lures/soft-plastic-swimbaits.md). Head weights for a white
   seabass fluke more broadly — the calm-day range and the heavier current/wind
   range — are stated in the router's
