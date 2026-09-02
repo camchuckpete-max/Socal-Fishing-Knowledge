@@ -49,7 +49,11 @@ and start fishing, against the common practice of shutting everything down
 up-wind and drifting down onto it (`ZFqe49jRgA0`). The evidence offered is the
 sportboat fleet: a 65–95 ft steel boat arrives with doors slamming, the PA
 running and the deck loud, drives to the kelp, drops in, catches fish and
-leaves (`ZFqe49jRgA0`). A drift-down buys nothing on this fishery.
+leaves (`ZFqe49jRgA0`).
+⚠ Fact-check (contradicted-by-source): the source names three discrete
+example lengths — "sport boat 65 85 95 feet long" — not a continuous
+65–95 ft range.
+A drift-down buys nothing on this fishery.
 
 **Qualify in one to two minutes, then leave.** Look in the water for dorado or
 yellowtail; failing that, look for the boomerang arcs at 90–120 ft on the
@@ -113,6 +117,10 @@ time rather than fishing one section through a run of fish (`VWClGAn2WEw`).
   sardine; step up to **2/0 or 3/0** on big donkey sardines, and step down when
   the bite is finicky (`E4vKwRaRueA`). Style and sizing generally:
   [hooks](../tackle/hooks.md).
+  ⚠ Fact-check (contradicted-internal): [dorado — gear summary](dorado.md#gear-summary-class-terms)
+  states **2/0** as the baseline hook on a flylined sardine for its lighter
+  dorado-dedicated build (`P9H-bpzT7eU`), against **1/0** as the all-around
+  size stated here (`E4vKwRaRueA`). Not reconciled.
 - **Jig for qualifying rather than fishing:** a pink-accented Mad Scad-class
   troll/cast lure thrown from the tower (`VgpgJ8IAyJo`) — the brand claim is a
   sponsored one and caps at low confidence; lure detail in
