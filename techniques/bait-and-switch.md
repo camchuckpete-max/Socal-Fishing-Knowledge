@@ -21,6 +21,16 @@ reliability (`Mwx5AAXNMvE`). This note owns the tease/switch mechanics and the
 dropback bait execution; teaser handling and hookset specifics are flagged
 gaps below.
 
+⚠ Fact-check (contradicted-internal): this note's front-matter `regions`
+carries `cortez-north`, which [striped marlin](../species/striped-marlin.md) —
+the only species this note serves, and the router it hangs off — does not
+(`socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-south`).
+Both of this note's sources are SoCal (`3qSY328fFYo`) and Cabo
+(`Mwx5AAXNMvE`), so nothing here supports the wider gate, and a northern
+Sea-of-Cortez plan can surface this play for a species the router gates out of
+that region. Flagged here only — the router's narrower set is the supported
+one.
+
 ## Reach for this when
 
 - A **tailing / finning marlin is sighted** — the single highest-value marlin
@@ -72,6 +82,16 @@ head-to-head on camera, kept alongside the nose-hook default in
   clear/retrieve the teaser as the pitch bait goes in.
 - ⚠ Flagged gap — no corpus source: **hookset** — circle vs J doctrine and
   drag setting for the pitch rod once the fish eats the dropback.
+  ⚠ Fact-check (contradicted-internal):
+  [striped marlin](../species/striped-marlin.md#gear-summary-class-terms) —
+  the router this note serves — states the circle-vs-J half of this gap as
+  sourced doctrine for the same dropback bait: nose-hook the live mackerel on
+  a **circle hook and do not set**, water tension alone pinning it in the
+  corner of the mouth, with a **long-shank** J-style hook for an angler who
+  will set (`m2q22sPPkEM`, a Cabo charter), carried again in its situations
+  row [c] and its Landing & handling section. The Gear class section below
+  also names a **#9 circle hook** on the Baja/Cabo dropback rig
+  (`Mwx5AAXNMvE`). Drag setting is genuinely unsourced; circle vs J is not.
 - ⚠ Flagged gap — no corpus source: **leader/bait specifics for the pitch** —
   leader class is unsourced, and sardine as an alternative bait to the sourced
   mackerel is unsourced.

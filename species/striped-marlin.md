@@ -253,6 +253,16 @@ states a hook style for the dropback bait.
   speaker says "my guys can't feel the bite 90% of the time" (not "90% of
   clients") and hedges the sawed-off rationale as belief ("maybe I'm wrong but
   that's how I believe it"). Scoped to his Cabo charter fishery, not SoCal.
+  ⚠ Fact-check (contradicted-internal):
+  [bait-and-switch](../techniques/bait-and-switch.md#thin-areas) — the member
+  note this bullet and situations row [c] route the dropback to — lists
+  "**hookset** — circle vs J doctrine and drag setting for the pitch rod once
+  the fish eats the dropback" as a ⚠ Flagged gap with **no corpus source**,
+  while this bullet states that same circle-vs-J doctrine as sourced
+  (`m2q22sPPkEM`, a Cabo dropback on a live mackerel for marlin). That note's
+  own Gear class section separately carries a **#9 circle hook** on the
+  Baja/Cabo dropback rig (`Mwx5AAXNMvE`), so the gap it declares is
+  contradicted by both notes. Neither note carries the other's source.
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
   the bill and the abrasion; class terms in
   [gear classes](../tackle/gear-classes.md). The corpus's landed fish sit under
