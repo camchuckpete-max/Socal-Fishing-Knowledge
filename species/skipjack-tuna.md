@@ -205,6 +205,20 @@ lure column has no cited source. Row 3's "on the way out" framing is also absent
 `Ow3an9lSVh4` says "if you run into a school of skip jack, just don't leave.
 Catch **a couple** and use them for chunk bait instead of your fin bait."
 
+⚠ Fact-check (contradicted-internal): row 2's region gate does not hold. This
+note is gated across all five regions and the row is sourced entirely from a
+**Cabo San Lucas** current-break troll (`dgauGbNxP84`, baja-pacific-south),
+but both lures it routes to — [tuna feathers &
+skirts](../lures/tuna-feathers-and-skirts.md) and
+[cedar plug](../lures/cedar-plug.md) — carry `regions: [socal-bight]` only, and
+neither carries `dgauGbNxP84` (nor the Ensenada cedar-plug troll `0bcDBGzQnGw`
+this note records under Where & when). The region field is the gate that stops
+an out-of-region recommendation, so a Baja row pointing at SoCal-only notes
+disagrees with the notes it points at. Same class on the row-3 chunk cite:
+`n4nMCLLW3tY` is Loreto (cortez-south) and
+[chunking](../techniques/chunking.md) is gated `socal-bight,
+baja-pacific-north`.
+
 ⚠ Fact-check (contradicted-by-source): `n4nMCLLW3tY` does not support this row at
 all — its only chunk line is "or skip Jack, keep it for some chunk bait," it
 makes no live-vs-chunk comparison, and its own bait program is live sardines on
@@ -373,6 +387,7 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
+- [Cedar Plug](../lures/cedar-plug.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [East Cape](../locations/east-cape.md)
@@ -384,7 +399,9 @@ Trip reports and per-source provenance: [evidence file](evidence/skipjack-tuna.m
 - [Pyramid Head](../locations/pyramid-head.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Six Mile Reef](../locations/six-mile-reef.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

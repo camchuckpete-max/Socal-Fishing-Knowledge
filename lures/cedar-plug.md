@@ -20,6 +20,15 @@ right in the prop wash or a long way back, on a species-matched **40–60
 lb-and-up class** outfit depending on rig. This note covers the standard 6"
 cedar plug.
 
+⚠ Fact-check (contradicted-internal): this note is gated `regions:
+[socal-bight]`, but
+[skipjack tuna](../species/skipjack-tuna.md#situations--techniques) routes its
+trolling row here off a Cabo San Lucas current-break troll (`dgauGbNxP84`,
+baja-pacific-south) and records the corpus's only cedar-plug skipjack troll off
+Ensenada (`0bcDBGzQnGw`, baja-pacific-north) — neither transcript is carried as
+a source here, and the region gate that is supposed to stop an out-of-region
+recommendation excludes the water the router's row is sourced from.
+
 ## Specs
 
 | Parameter | Value |
@@ -44,6 +53,14 @@ Match the troll speed to the species — 5–5.5 kt for bluefin, 6–6.5 kt for
 yellowfin — and place the plug in one of its two working positions, tight in
 the wash or way back, never the middle. Run it as the calm, mixed-grade,
 over-bait change-up when a skirt or a swimmer isn't drawing bites.
+
+⚠ Fact-check (contradicted-internal):
+[skipjack tuna](../species/skipjack-tuna.md#gear-summary-class-terms) trolls
+cedar plugs for skipjack at **~6–8 kt**, calling that "inside the working bands
+both lure notes state" — but the species-keyed speeds here top out at 6–6.5 kt
+(yellowfin) and 5–5.5 kt (bluefin), so 6–8 kt sits inside this note's
+**top-level 5–9 kt band only** and above every species figure it carries.
+Neither note states a troll speed for skipjack.
 
 ## Color and finish
 
@@ -99,6 +116,7 @@ holder pairing, are in
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)

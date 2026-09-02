@@ -189,6 +189,15 @@ the Searcher," for yellowtail in the **12-22 lb** range (`yGXSrUauo2w`):
   yellowtail on (see [evidence](evidence/sliding-sinker.md)) — a San Diego
   local/long-range dockside briefing rather than a single-trip observation
   (`yGXSrUauo2w`).
+  ⚠ Fact-check (contradicted-internal):
+  [skipjack tuna](../species/skipjack-tuna.md#situations--techniques)'s footnote
+  [c] prescribes a **1/2 oz to 3 oz** slider "sized to current and wind"
+  (`KajL5TsgBzU`, a transcript this note does not carry) — a single band that
+  straddles the 2–4 oz San Diego yellowtail figures here and the hard 1/4–1/2 oz
+  sheephead cap above, with no rule offered for picking within it. The router
+  also routes that rig at **yellowfin holding under a skipjack layer**, where
+  its own cite prescribes it for **yellowtail** and this note documents no tuna
+  application of the slider other than the bluefin slow-drop below.
 - **Reach for this over a flylined bait** to get the bait away from the boat,
   and — when bonita or similar bycatch are working the surface — down below
   them and in front of the yellowtail more quickly (`yGXSrUauo2w`).

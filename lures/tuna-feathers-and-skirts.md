@@ -24,6 +24,15 @@ rig, and three single-source attributed models: a Williamson
 current-sniper/cold-sniper-class lure, a Dana-Point-origin finesse trolling
 lure, and the historical Zuker Zucchini.
 
+⚠ Fact-check (contradicted-internal): this note is gated `regions:
+[socal-bight]`, but
+[skipjack tuna](../species/skipjack-tuna.md#situations--techniques) routes its
+trolling row here off a Cabo San Lucas current-break troll (`dgauGbNxP84`,
+baja-pacific-south), a transcript this note does not carry — the region gate
+that is supposed to stop an out-of-region recommendation excludes the water the
+router's row is sourced from. Same defect on
+[cedar plug](cedar-plug.md), the other lure in that row.
+
 ## Specs
 
 **Williamson Tuna Catcher (rigged)**
@@ -104,6 +113,14 @@ close enough that the head smokes and the skirt breathes — 25–50 ft back for
 the Tuna Catcher, 30–35 ft for the JAW (cameron). The Live Series soft bait
 is the slow-only member of the group (~4–7 kt) and also works as a frontline
 teaser ahead of a hooked lure (cameron).
+
+⚠ Fact-check (contradicted-internal):
+[skipjack tuna](../species/skipjack-tuna.md#gear-summary-class-terms) trolls
+small feathers and skirts for skipjack at **~6–8 kt**, calling that "inside the
+working bands both lure notes state" — but the Live Series soft bait above is
+**slow only, ~4–7 kt**, so the top of the router's band runs one member of this
+class past its stated ceiling, and the Zuker Zucchini carries no speed at all.
+Neither note states a troll speed for skipjack.
 
 ### Rigging a bare tuna feather
 
