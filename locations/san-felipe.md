@@ -282,4 +282,5 @@ the regional weather record.
 ## Linked from
 
 - [Cortez North](cortez-north.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->

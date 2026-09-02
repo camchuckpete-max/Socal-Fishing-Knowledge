@@ -526,4 +526,5 @@ Trip reports and per-source provenance:
 - [Regions & Waters — the gating vocabulary](regions.md)
 - [San Felipe](san-felipe.md)
 - [Sea of Cortez](sea-of-cortez.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 <!-- backlinks:end -->

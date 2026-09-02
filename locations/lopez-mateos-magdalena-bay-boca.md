@@ -60,6 +60,17 @@ Checked as of 2026-08. Verify current requirements before you fish**
 ([Mexican waters](mexican-waters.md),
 [the zone page](bahia-magdalena-lopez-mateos.md)).
 
+⚠ Fact-check (unverifiable): the CONAPESCA/INM agency split carries no cite on
+this page and is inherited from [Mexican waters](mexican-waters.md), where a
+ledger row already records that its two cited transcripts never name either
+agency. Same class as the rows standing on
+[Baja Pacific South](baja-pacific-south.md),
+[Baja Pacific North](baja-pacific-north.md), [Cortez North](cortez-north.md)
+and [San Felipe](san-felipe.md). The as-of stamp, the verify-current
+instruction and the two jurisdiction links all follow the content rules; only
+the agency naming is uncorroborated. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 ⚠ Flagged gap — no corpus source: a distance, bearing or heading to the mark;
 whether it can be fished from anything other than a local panga; or whether
 the bay's gray-whale season (whales arriving "about mid-January",

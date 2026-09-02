@@ -365,6 +365,7 @@ Trip reports and per-source provenance:
 - [Mexican waters](mexican-waters.md)
 - [San Felipe](san-felipe.md)
 - [The "lower banks"](lower-banks.md)
+- [The Boca (Magdalena Bay Entrance)](lopez-mateos-magdalena-bay-boca.md)
 - [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md)
 - [Thetis Bank](thetis-bank.md)
 <!-- backlinks:end -->
