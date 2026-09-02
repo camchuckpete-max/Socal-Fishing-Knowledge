@@ -24,6 +24,13 @@ general swimbait rigging, retrieve and hookset are in
 [swimbaits](../techniques/swimbaits.md); this page is what changes because the
 fish is a spotted bay bass sitting inside a dock field.
 
+⚠ Fact-check (contradicted-by-source): the 2–3 ft figure is hedged and scoped
+to docks only in `46ha7J1Fc6A` — "especially if you're fishing docks...
+sometimes those docks are only 2 3 feet in between and you got to get them
+coming your way." The source never gives that spacing for pilings or mooring
+blocks, which this sentence (and "docks and pilings" below) widens it to
+cover.
+
 ## When this is the call
 
 **Fish tight to docks, pilings and mooring blocks.** This is the row the router
@@ -66,6 +73,13 @@ below is sized for the halibut that eats the same bait rather than for a
 2.8–3.5 lb bass (`46ha7J1Fc6A`) — see
 [California halibut](california-halibut.md).
 
+⚠ Fact-check (contradicted-by-source): `46ha7J1Fc6A` never grades the fish at
+2.8–3.5 lb — its only spotted bay bass weight statement is an upper bound,
+"spotted bay bass don't get 8–10 pounds." The 2.8–3.5 lb figure is sourced
+elsewhere in the KB to `XyKF34C5iB4` (see
+[spotted bay bass](spotted-bay-bass.md#landing--handling), which carries the
+same defect on the paired "14 ft skiff" quote).
+
 **The rod is chosen for feel first and backbone second.** The blank is sensitive
 enough to feel a 3 in swimbait's tail kicking on the retrieve, which is how the
 bait is tracked through a dock field with no bottom contact to read, while still
@@ -105,9 +119,19 @@ rigging, the fast-wind retrieve and the set-on-the-pause hookset:
   on a 3/8–1/2 oz jighead, against a 7 in weedless slug on a 3/8–3/4 oz
   keel-weighted hook and the 3/4–1½ oz leadheads with 4–8 in plastics on the
   long-range build (`46ha7J1Fc6A`).
+  ⚠ Fact-check (unverifiable): `46ha7J1Fc6A` never discusses the general
+  kelp/rock weedless-slug or leadhead program — it covers only the dock/piling
+  bay-bass build. The comparison figures match
+  [swimbaits](../techniques/swimbaits.md#weedless-rigging), which cites them
+  to `YIABTTYXeqc`, `n6PTy8g3pb0` and `r9bF3VtzDUg`; this sentence's cite for
+  that half of the comparison is unresolved.
 - **Line drops by roughly a factor of three.** 20–30 lb braid to a ~15 lb
   fluorocarbon leader, against the general note's 50–65 lb braid to 40–60 lb
   fluoro or mono for kelp and rock (`46ha7J1Fc6A`).
+  ⚠ Fact-check (unverifiable): same defect as above — the 50–65 lb
+  braid/40–60 lb fluoro-or-mono figure is not in `46ha7J1Fc6A`; it is
+  [swimbaits](../techniques/swimbaits.md#weedless-rigging)'s own spec, cited
+  there to `YIABTTYXeqc`, `n6PTy8g3pb0` and `9xNhdu2aBqE`.
 - **The leader is stepped up for a different reason than in kelp.** The general
   note frames heavy leader as a structure decision — chafe and braid-up against
   kelp and rock, not fish size. Here the step-up is a bycatch decision: a big
@@ -118,6 +142,10 @@ rigging, the fast-wind retrieve and the set-on-the-pause hookset:
   *at* the boat after eating; the 6.6:1 here is argued from the **2–3 ft**
   between pilings — the head has to come around before the fish covers that
   distance (`46ha7J1Fc6A`). The numbers agree; the mechanisms are independent.
+  ⚠ Fact-check (unverifiable): `46ha7J1Fc6A` never states a 6.2:1 floor or the
+  calico-swims-at-the-boat mechanism — that half of the comparison is
+  [swimbaits](../techniques/swimbaits.md#line-leader-and-reel-speed)'s own
+  claim, cited there to `P6Slg6RQiXw`.
 - **The rod requirement inverts.** The general note wants a soft glass tip that
   bends and buys the split second before a set-on-the-pause hookset; this build
   wants sensitivity plus backbone, because the set is immediate and the fight
