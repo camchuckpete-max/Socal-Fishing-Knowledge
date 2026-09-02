@@ -33,6 +33,14 @@ banks are, what water they sit in, what their names do and do not claim, and
 what a source would have to supply. The [region page](socal-bight.md) already
 carries this zone as a flagged stub, and nothing here lifts that stub. The
 flags below aggregate in [the gap report](../sources/gap-report.md).
+⚠ Fact-check (contradicted-internal): the enumeration is incomplete — both names
+also occur in the prose of [311 (Trask Knoll)](311.md) (which states "Hancock
+Bank **68.9 nm**" plus a now-stale stub line), `locations/12-mile-reef.md`,
+`locations/san-juan-seamount.md`, [Sverdrup Bank (126)](sverdrup-bank-126.md)
+beyond its stub, and the zone table on [the region page](socal-bight.md), and
+[Northeast Bank](northeast-bank.md) is a built child page. The load-bearing half
+verifies: neither name appears in any transcript under `sources/transcripts/` or
+in any evidence file.
 
 **This is a zone by attachment, not by cluster.** At **13.6 nm** the pair is
 past the census's **12 nm** zone-diameter cap, so the two never clustered:
@@ -53,6 +61,15 @@ first mark to appear (cameron). The name is directional but every neighbour it
 could be named against lies the other way — Cortes bears **077°** from it,
 Tanner **050°**, Hancock **347°**. ⚠ Flagged gap — no corpus source: what
 Northeast Bank is northeast of, or who Hancock was named for.
+⚠ Fact-check (contradicted-internal): Sverdrup Bank bears **322°** from
+Northeast Bank — northwest, outside the stated due-south-to-west-northwest arc —
+so it is not the first mark to appear inside that arc, and 59.8 nm is the wrong
+bound for the sentence it closes. Recomputed from
+[the spot library](../sources/spot-lists.md), nothing charted lies between
+**180°** and **292.5°** of Northeast Bank at *any* distance; the first mark that
+does fall in the arc is **San Juan Seamount** at **80.1 nm / 303°**. Sverdrup's
+own 59.8 nm / 322°, the 391-position count and the empty south-and-west quadrant
+all verify, so the southwest-corner finding stands and is understated here.
 
 ## Getting there
 
@@ -70,6 +87,13 @@ runs on [Tanner Bank](tanner-bank.md). Cortes lies **26.4 nm** east-northeast of
 Northeast Bank and **29.8 nm** east-southeast of Hancock (cameron), so anything
 that reaches these two marks is that run plus another leg. ⚠ Flagged gap — no
 corpus source states that leg.
+⚠ Fact-check (contradicted-by-source): "a full overnight sportboat run" is not
+spoken in `UfuiWFVvz2E` and carries quotation marks it has not earned — the
+transcript's wording is "we're going to head out to Cortez Bank tonight. It's
+going to take us all night to get out there" [00:04:03], this one boat's run
+rather than a phrase from the source. Everything numeric around it verifies
+verbatim: "it's about a 110 115 mi" [00:04:07] and "out of Fisherman's Landing"
+[00:01:11], as do the 96 mi and 111 mi figures in `QSvzVHW9UMk` [00:00:06].
 
 **Nothing else is close.** The nearest charted land in the spot library is San
 Nicolas Island, **40.4 nm** from Hancock at **015°** (Dutch Harbor) and
@@ -104,6 +128,28 @@ the outer-bank programs the corpus records cross into
 [Mexican waters](mexican-waters.md) as a matter of course (`UfuiWFVvz2E`) —
 ⚠ Flagged gap — no corpus source states which side of the line either mark
 falls on.
+⚠ Fact-check (contradicted-by-source): `UfuiWFVvz2E` states **one trip's
+itinerary**, not a plural standing practice — "we're going to start pointing it
+south and we're going to go down into Mexican waters and look for kelp paddy
+fisheries" [00:04:49] — and it names no permit, licence or FMM anywhere. That
+this run crossed the line verifies; "the outer-bank programs… as a matter of
+course" is a generalisation from a single itinerary.
+⚠ Fact-check (contradicted-internal, ext-verify): the as-of stamp outruns the
+source it rests on — [rockfish & lingcod](../species/rockfish-lingcod.md) carries
+the Cow Cod Conservation Area as **California / Federal, as of 2024-03**,
+self-hedged and under a standing single-source flag, while this paragraph stamps
+the zone **California / CDFW, checked as of 2026-08** and the CCCA is a federal
+groundfish closure rather than a CDFW one. That the corpus gives no CCCA boundary
+verifies. **ext-verify**: the current CCCA boundary and depth limit against both
+positions.
+⚠ Fact-check (unverifiable, ext-verify): nothing in the corpus or anywhere in
+the repo locates the US/Mexico maritime boundary, so "nearer the maritime
+boundary than most of the region" rests on no stated datum, and it is not
+derivable from [the spot library](../sources/spot-lists.md) either — the boundary
+runs southwest from the coastal border, putting the region's southern charted
+positions (the Coronado Islands, Imperial Beach) far nearer it than either bank.
+The instruction to check which side you are on stands either way.
+**ext-verify**: the boundary's charted track against both positions.
 
 ## Structure & bathymetry
 
@@ -213,6 +259,16 @@ driving through **20 to 30 miles** of fish at Tanner/Cortez was called "not very
 common," with a boat **15 miles away** seeing the same thing rather than the
 usual isolated **4–5 sq mi** patch (`LsFMBCa9DOQ`). Both readings are drawn east
 of this zone.
+⚠ Fact-check (contradicted-by-source): the **20–30 minute** compact-spot figure
+is not in `Blh2BA-7Ono`, and neither is the idle-on / grade-the-meter /
+commit-or-leave language. The transcript states only the complex — "you get
+probably 50 miles 60 square miles to look so if you go out there you know you
+should expect to spend quite a bit of time driving around" [00:08:46] — and
+contrasts it merely by naming compact marks, with no time budget attached.
+[Zone lexicon](zone-lexicon.md) carries the 20–30 minute read as an uncited time
+budget of its own, and "hours of looking" is the lexicon's wording too; this page
+bundles both under the `Blh2BA-7Ono` cite. The `LsFMBCa9DOQ` sentence beside it
+verifies in full, in one passage, at Tanner and Cortez.
 
 **With no corpus program, the general layers are what a plan has.** Break
 position and break age decide whether this zone is on a given day's plan
@@ -237,6 +293,18 @@ sits west and south of everything named in that map, so treat the temperature
 question as open here and the exposure question as decided: open ocean this far
 out is [sea state](../conditions/sea-state.md) first. ⚠ Flagged gap — no corpus
 source states a wind or swell number that turns this zone off.
+⚠ Fact-check (contradicted-by-source): the **5–8 °F** figure is not in
+`YZtX1MiT0y8`. Its only degree figure is a hedged single-site reading along the
+Long Beach beachfront — "56 degree water which is i think seven maybe eight
+degrees off from where it was" [00:05:15] — and the source gives **no degree drop
+at all** for the northern Channel Islands or the Ventura shelf, stating those as
+absolutes instead ("hardest hit was the northern channel islands… low 50s"
+[00:01:14]). The zones that held verify verbatim.
+[Bight geography](bight-geography.md) owns this map and Cameron has adjudicated
+(2026-08-26) that **the map stands**, to be backed by BightSST rollover
+statistics rather than re-sourced — so this flag is on this page's citation of
+the number, not on the map, and mirrors the flag already standing on
+[the region page](socal-bight.md).
 
 **Neither bank is a BightSST eval target**, so conditions here are pulled per
 charted position rather than read off a scored spot
