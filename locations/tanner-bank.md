@@ -23,6 +23,9 @@ nearly due north–south, with **15.6 minutes** of the separation in latitude an
 of the fall condensation: as the coast cools and fragments, the bluefin condense
 outward toward Tanner and Cortez (`XLVUhV8DW64`, `OYOda6T3f-8`,
 [bight geography](bight-geography.md), [October](../seasonal/october.md)).
+⚠ Fact-check (contradicted-by-source): `XLVUhV8DW64` names neither bank and
+describes no cooling/fragmentation/outward condensation — the claim rests on
+`OYOda6T3f-8` alone.
 
 **The fleet works the two as one complex, and the names blur.** A captain naming
 the grounds for a three-day charter called them "Cortez and Tanner Bank"
@@ -35,6 +38,11 @@ bank complex — **flagged, not resolved**
 ([yellowtail](../species/yellowtail.md#where--when),
 [bluefin evidence](../species/evidence/bluefin-tuna.md)). Read every claim on
 this page as scoped to the complex unless it names a bank.
+⚠ Fact-check (contradicted-by-source): `c3NFkQbdDy0` never says Cortez —
+Tanner is the only bank named in it ("Tanner yellow right there son"
+[00:10:25]), so "a trip logged as Cortez" is this KB's log, not the
+transcript's, and the tension is between the KB's label and the video rather
+than between two on-camera names.
 
 **Spelling.** The spot library and the BightSST target list write **Cortes**;
 every fishing note in this repo writes **Cortez** (cameron,
@@ -65,6 +73,10 @@ transit for a sportboat:
 | Long Beach | Tanner Bank | roughly 90–100 mi west | `ntQXxcH5sjI` |
 | San Clemente Island | Cortez Bank | 47 mi SW | `QSvzVHW9UMk` |
 
+⚠ Fact-check (contradicted-by-source): "a full overnight sportboat run" is
+rendered as a quotation but is not spoken — `UfuiWFVvz2E` says "it's going to
+take us all night to get out there. It's about a 110 115 mi" [00:04:03].
+
 **The two Long Beach figures for Cortez differ by 20 miles, and that is the
 length of this zone rather than a disagreement.** ~90 mi (`nQvJnfb5jQ4`,
 `c3NFkQbdDy0`) against 110 mi (`fDSd9kqwYW0`), all three aboard the same boat
@@ -77,6 +89,13 @@ row — "roughly 90–100 mi west" out of Long Beach (`ntQXxcH5sjI`) — while 1
 matches Cortes, 18 miles further out. **Read it as one run to a two-bank
 complex: about 90 miles to Tanner, about 110 to Cortes.** Nothing here needs a
 chart to settle, and no figure was wrong.
+⚠ Fact-check (contradicted-by-source): the near-end/far-end resolution rests
+on a Tanner-specific 90–100 mi figure that no source states — `ntQXxcH5sjI`
+gives it for the pair ("the Tanner and Cortez banks are about 90 to 100 Mi
+west of Long Beach California" [00:02:08]), and `c3NFkQbdDy0`'s ~90 mi is "off
+the California coastline" [00:00:21], not off Long Beach. This page's own
+evidence file records the pair-scoping; the run table and this paragraph do
+not.
 
 The San Clemente figure is the one the charts can check: **40.8 nm** separates
 Cortes Bank from Eel Point on San Clemente's back side (cameron), which is 47
@@ -92,18 +111,31 @@ boat pointed south into Mexican waters around 3:00 a.m. on day two for a Baja
 kelp-paddy program (`UfuiWFVvz2E`). A day-and-a-half charter fishes the bank's
 bottom and its yellowtail in one shot (`fDSd9kqwYW0`); the two- and three-day
 charters add the night bluefin program (`oXunQKSbc2g`, `LsFMBCa9DOQ`).
+⚠ Fact-check (contradicted-by-source): `oXunQKSbc2g` runs no night bluefin
+program — tuna is conditional on the boat ("if the tuna showed up then we'll
+fish for them if not we're going to the Cortes bank" [00:00:29]) and its only
+night reference is the transit. The night program is `LsFMBCa9DOQ`'s alone.
 
 **A private boat can do it, and the accounts that describe one describe a big
 one.** A group entirely new to bluefin ran **2.5–3 hours** out to Tanner Bank on
 a captain's own triple-outboard boat and landed multiple 100 lb-plus fish in a
 day, the crew calling the return leg alone over 100 mi (`vCskOx6N-XM`). That is
 the only non-sportboat trip in the corpus for this zone.
+⚠ Fact-check (contradicted-by-source): 100 lb-plus is stated in
+`vCskOx6N-XM` only as the trip's target ("in search of those hundred pound plus
+fish" [00:00:18]); the day's on-camera tally is two fish ("that's two that's
+two gentlemen" [00:22:27]) with no weight given for either.
 
 **Expect a fleet when the bite is on.** Anchoring at Cortez in August 2024 meant
 picking a slot among "northern boats… southern boats… middle boats," private and
 commercial sportboats together on the same structure (`nQvJnfb5jQ4`). Where the
 other boats sit relative to the high spot is itself a positioning input here —
 see [How it fishes](#how-it-fishes).
+⚠ Fact-check (contradicted-by-source): the year is not on camera —
+`nQvJnfb5jQ4` says only "this is our annual trip in August" [00:00:19], so
+"August 2024" is upload metadata (2025-04-30), not a stated date. The same
+holds for `ntQXxcH5sjI` and `c3NFkQbdDy0`, which state the month and never the
+year.
 
 **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
 2026-08. Verify current rules before you fish** ([US waters](us-waters.md)).
@@ -122,6 +154,13 @@ positional, not depth-based ([US waters](us-waters.md)). Note also that the
 2.5-day program crosses into Mexican waters on its second leg (`UfuiWFVvz2E`),
 which is a different jurisdiction and a different paperwork set
 ([Mexican waters](mexican-waters.md)).
+⚠ Fact-check (contradicted-by-source): two of the three limits are looser on
+camera than the page renders them — `fDSd9kqwYW0`'s rockfish figure is
+ASR-garbled with the unit lost ("fulfilled our 10 around on the Rockfish"
+[00:19:22]), and `Y1xeieQI3B4` says "we are allowed 20 fish per day"
+[00:11:06] without "per angler" and before the rockfish stop, as the reason
+for taking it, rather than at the stop. The two-fish bluefin limit verifies
+("their limits of two each day" [00:00:27]).
 
 ## Structure & bathymetry
 
@@ -145,6 +184,21 @@ from the sources instead.
 | ~50 fathoms | the water an anchor job and a drift both produced in on the same day | `zBd1mayUt_I` |
 | 50–60 fathoms, the drop-off edge | where a repositioned boat found bluefin and yellowtail "right out the gate" | `nQvJnfb5jQ4` |
 | 50 fathoms down to 80, "even below" | night jig marks read 360° around the boat | `LsFMBCa9DOQ` |
+
+⚠ Fact-check (contradicted-by-source): the ~150 ft row bundles three species
+onto one drift. In `fDSd9kqwYW0` the 150 ft ridge drift produces reds; the
+captain's own summary puts sheephead and whitefish on a separate, shallower
+stop — "we fished out there at the edge of the bank and… fulfilled our 10
+around on the Rockfish, we moved into the shallows we picked up some sheep
+head and some white fish" [00:19:16]. The same compression is already ledgered
+on [ocean whitefish](../species/ocean-whitefish.md).
+
+⚠ Fact-check (contradicted-by-source): the ~50 fathom row reads as a result
+but `zBd1mayUt_I` states it as a plan — "there's been some really good
+drifting some good uh fishing out here in like 50 foms even you know anchor
+jobs out here in deeper water on this fish so that's something we're going to
+go look at right now" [00:09:40]; the anchor success it refers back to is the
+previous day's.
 
 That is a bank with a shallow, anchorable top in the 15–25 fathom range, a
 named high spot, and an edge that falls away to 50–60 fathoms close enough to
@@ -175,6 +229,11 @@ at **26.5 nm** off Tanner; and the back side of San Clemente Island at
 charted positions with no page on this ladder, so the water immediately west and
 south of Cortes has no built fallback. The realistic fallback from here is the
 island, and it is over 30 nm away.
+⚠ Fact-check (contradicted-internal): both pages exist —
+`locations/hancock-bank.md` is a zone parented to the Bight and
+`locations/northeast-bank.md` is its child spot — so the stub's premise no
+longer holds and the fallback west and south of Cortes is paged after all, at
+26.4 nm rather than the island's 31.9 nm.
 
 ## What's there
 
@@ -188,6 +247,30 @@ island, and it is over 30 nm away.
 | [Bonito](../species/bonito.md) | June and October documented | Present in quantity and grade — "giant" bonito worked as bycatch alongside a yellowtail yo-yo and surface-iron bite, and boils answered with a surface iron (`oXunQKSbc2g`, `UfuiWFVvz2E`) |
 | [Yellowfin tuna](../species/yellowfin-tuna.md) | one August record | A mixed yellowtail / yellowfin / skipjack bite in 74–75 °F water on the bank (`i3qIAHW-SJc`) — a single day, not a pattern |
 | [White seabass](../species/white-seabass.md) | ⚠ Flagged stub — no corpus source yet | No source names white seabass, dorado, marlin or swordfish at either bank. The silence is a gap in the sources, not a statement that the water is empty |
+
+⚠ Fact-check (contradicted-internal): the bluefin row's "300 lb fish through
+November" disagrees with the note it cites —
+[Nov–Dec](../seasonal/november-december.md) now states 60–80 lb fish with a few
+100+ lb mixed in for late November, and records that its own source
+(`Z3rZqy2Pi8E`) never names Tanner or Cortez. The 300 lb figure was the legacy
+number that page retracted.
+
+⚠ Fact-check (contradicted-by-source): "October–December is the doctrine
+window" is carried by neither BD cite on the row — `XLVUhV8DW64` names neither
+bank and `OYOda6T3f-8` places bluefin there in mid-to-late October only, with
+no November, December or multi-month window stated.
+
+⚠ Fact-check (contradicted-by-source): the yellowtail row's three cites do not
+each carry what the row asserts — `UfuiWFVvz2E` gives "anywhere from 20 to 40
+lb" [00:10:07] but never says "Home Guard"; `c3NFkQbdDy0` says "Home Guard"
+[00:00:26] but states no grade; `oXunQKSbc2g` says neither, and works its fish
+on the drift and on boils rather than at anchor over a high spot.
+
+⚠ Fact-check (contradicted-by-source): the yellowfin row's "one August record"
+is upload metadata — `i3qIAHW-SJc` states no date or year on camera, only "day
+one" of a five-day trip. The 74–75 °F reading itself verifies, spoken
+retrospectively on day two ("what were we at yesterday — we're in 74 75°
+water" [00:06:53]).
 
 **Forage.** The boats fish sardines, and the bite is a chum bite: bluefin came
 off bait marks sitting around **60 ft** while the boat chummed sardines at
@@ -245,6 +328,13 @@ roughly half a dozen 30 lb-class fish aboard on that first session
 only clock-time night guidance. At the other end of the day, an intense sundown
 bite produced multiple bluefin over **100 lb** on the kite and the flyline in
 the same window (`zBd1mayUt_I`).
+⚠ Fact-check (contradicted-by-source): "over 100 lb" comes from the episode's
+promo intro ("an intense Sundown bite on the kite and the big fat flying fish
+nothing better than in the hook on fish over 100 lb" [00:00:23]); the on-deck
+recap of that window gives no count and no weight — "a couple kite bites
+couple fly line on that better grade" [00:17:08]. The sundown bite also
+happens after the boat leaves Cortez, at a location never named, so scoping it
+to this zone is the page's inference.
 
 **Fish arriving here take their time coming up onto the bank.** One captain
 described the school holding outside the bank for several days, close to a week,
@@ -258,6 +348,18 @@ scale from the Bight's compact spot-check, and bigger even than the
 **~50–60 square-mile** search box the region's other complexes are planned
 around (`Blh2BA-7Ono`, [zone lexicon](zone-lexicon.md),
 [search and glassing](../planning/search-and-glassing.md)).
+⚠ Fact-check (contradicted-by-source): two separate `eL1Qm33-Mj0` intervals
+are stacked. The source gives the 10–14 days as the elapsed total for the
+push-in, not as time added after the week outside — "cruising around on the
+outside here for several days, almost a week at a time… it's been about maybe
+10 to 14 days now that the fish have gotten closer and closer and moved in on
+the bank" [00:20:09].
+
+⚠ Fact-check (contradicted-by-source): "on 50 to 100 fish days" reads as a
+qualifier on the 20–30-mile distribution, but in `LsFMBCa9DOQ` it is a
+separate, later and truncated sentence — "but it's lights out I've had 50 to
+100 fish days with the smallest fish is —" [00:06:22] — and does not modify
+the isolated-patch comparison at [00:05:57].
 
 **The mixed grade is this zone's defining tackle problem.** At Tanner a trip
 faced "10 pounders all the way up to 80 pounders, maybe even 100" moving through
@@ -272,6 +374,17 @@ quality, not section order:
   registered channel, [hooks](../tackle/hooks.md)). The **Tanner Bank data
   point** for that rule is the 2020 season — 40–60 lb bluefin at Tanner, where a
   smaller hook got bit better than a larger one regardless of bait size.
+  ⚠ Fact-check (contradicted-by-source): the quoted string is spliced. The
+  rule is stated as "if you're under gunned with trying to fish 40 or 50 pound
+  tests just to get a bite, you're… wasting your time because you're just not
+  gonna land a fish that size" [00:18:40], and the captions then run straight
+  on into the fragment "flag a fish for two hours yeah" [00:18:51] — so
+  "you're gonna" never prefixes "flag a fish" in the audio. The hook-size
+  doctrine and the 2020 Tanner 40–60 lb data point both verify verbatim
+  [00:25:08, 00:26:01]. The panel is three-handed (host plus Captains Mike
+  Todder and Armando Marquez, [00:03:27]) and the auto-captions carry no
+  speaker labels, so which of them speaks this passage is not recoverable
+  from the transcript.
 - **Step the line up when the grade is up** — on the same Cortez trip, 100 lb
   line was called easier for hooking the bigger fish being seen than 30 lb
   (`nQvJnfb5jQ4`, [double trouble](../rigging/double-trouble-rig.md)).
@@ -316,6 +429,18 @@ irrelevant, with white-with-polka-dots named if pressed (`UfuiWFVvz2E`,
 | Daytime bluefin refusing bait | [poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) — cast out and worked back through the column at ~45°, on a short 40 lb fluoro top shot | `QSvzVHW9UMk` |
 | Pelagic bags full, or the current dead | [rockfish & lingcod](../species/rockfish-lingcod.md) on the bank edge | `fDSd9kqwYW0`, `Y1xeieQI3B4` |
 
+⚠ Fact-check (contradicted-by-source): `QSvzVHW9UMk` carries no surface iron —
+the only iron in it is a yo-yo jig floated as a suggestion ("I think a yo-yo J
+might be a really good idea" [00:17:42]), and the casting shown is a Colt
+Sniper ("Colt snipers were good today" [00:21:44]), which is also what the
+poppers-and-stickbaits row rests on.
+
+⚠ Fact-check (contradicted-by-source): "flown during a hot morning bite while
+adrift" overstates `QSvzVHW9UMk`, which mentions the kite once, bare and
+without a bite — "flying a kite there" [00:05:49]; the adrift framing is
+sequence inference. The kite claims from `zBd1mayUt_I` and `vCskOx6N-XM` carry
+their own flags above.
+
 **Sea state is the gate on a bank this far out.** A day at Cortez was fished
 with the weather up and an uphill current against a light wind — chop, but
 fishable (`QSvzVHW9UMk`); a night on the same complex drifted hard enough to
@@ -323,8 +448,16 @@ break the jig program (`LsFMBCa9DOQ`); a Tanner day ran heavier-than-usual swell
 and the anglers were coached to pace themselves through the fights
 (`vCskOx6N-XM`). Nothing out here is sheltered by land in any direction, so the
 upstream fetch scan belongs in front of the run
-([sea state](../conditions/sea-state.md)). ⚠ Flagged gap — no corpus source
-states a wind or swell number that turns this zone off.
+([sea state](../conditions/sea-state.md)).
+⚠ Fact-check (contradicted-by-source): "heavier-than-usual" is the page's
+comparison, not the source's — `vCskOx6N-XM` mentions swell three times ("kind
+of depends on the swell" [00:02:15], "the swell is pretty good right now"
+[00:17:53], "days a little bumpy out here" [00:22:33]) and never measures it
+against a normal day. The pacing coaching verifies ("save your energy"
+[00:17:56]).
+
+⚠ Flagged gap — no corpus source states a wind or swell number that turns this
+zone off.
 
 **Conditions read.** From October the regime flips to reading the temperature
 chart and the chlorophyll chart, and across a big area with no temperature

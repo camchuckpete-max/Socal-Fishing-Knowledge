@@ -174,6 +174,10 @@ are **one boat's program, not independent corroboration.**
   sundown bite then produced multiple bluefin over 100 lb on both the kite and a
   flyline in the same window, one angler crediting a break in the clouds sending
   a shaft of sunlight onto the water.
+  ⚠ Fact-check (contradicted-by-source): "over 100 lb" is the promo intro
+  [00:00:23]; the deck recap of that window says only "a couple kite bites
+  couple fly line on that better grade" [00:17:08], and the window falls after
+  the boat leaves Cortez at an unnamed position.
 - `LsFMBCa9DOQ` (Cortez and Tanner Bank, mid-August 2024): running out overnight,
   the boat started yo-yo and jig fishing around 1:00 a.m., that first session
   putting roughly half a dozen fish aboard in the 30 lb class. On a windy,
@@ -222,6 +226,12 @@ are **one boat's program, not independent corroboration.**
   general rule to go down in hook size rather than line class, because line too
   light to land the fish wastes the trip: "you're gonna flag a fish for two
   hours."
+  ⚠ Fact-check (contradicted-by-source): the quotation is spliced — the audio
+  runs "you're just not gonna land a fish that size" [00:18:40] into the
+  fragment "flag a fish for two hours yeah" [00:18:51], and "you're gonna"
+  prefixes neither. The attribution to Captain Armando is also unverifiable:
+  the panel is host plus Captains Mike Todder and Armando Marquez [00:03:27]
+  and the auto-captions carry no speaker labels.
 - `Y1xeieQI3B4` (Cortez Bank, 2025-05-10): the boat ran an RSW fish hold at about
   36 °F that fish went into and stayed in until filleted, rather than being iced
   and pulled.
