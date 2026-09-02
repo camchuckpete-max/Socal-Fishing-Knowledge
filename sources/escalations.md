@@ -516,3 +516,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-01T23:03:58Z — locations/upper-500-hidden-bank.md — check-note-failed
 - run: 33568530870
 - reason: FAIL  locations/upper-500-hidden-bank.md: uncited direct quote: **Read as a depth, the 500 sits below every working band in the KB.** The SoCal
+
+## 2026-09-02T01:55:35Z — locations/la-270-286.md — check-note-failed
+- run: 33580496837
+- reason: FAIL  locations/la-270-286.md: uncited direct quote: **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
