@@ -564,3 +564,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T17:40:02Z — cluster:calico-bass — stale-anchors
 - run: 33658289076
 - reason: link-maintenance reports 203 stale anchors repo-wide (0 dead links) and does not fail on them; 9 sit in this cluster alone, all from the plain-statement rewrite dropping attribution tails from headings. Flagged the 3 router-side ones and ledgered the rest rather than seeding ~200 per-note flags — needs one mechanical anchor-repair pass
+
+## 2026-09-02T19:32:51Z — cluster:white-seabass — guard-violation
+- run: 33673115183
+- reason: commit 77f8539c4298de3a794a1029d3773438f2ecabd0 reverted: out of scope for 'review: cluster:white-seabass': techniques/tube-bait-fishing.md
