@@ -42,7 +42,10 @@ water.
 
 - **Jig weight: start at about 150 g and work up to about 350 g.** Past
   350 g the jig becomes a lot of work to fish for what it adds — the ceiling
-  is the angler, not the sink rate (`M8hOYQ_6rSg`). This is a Sea of Cortez
+  is the angler, not the sink rate (`M8hOYQ_6rSg`). ⚠ Fact-check
+  (single-source): the 150–350 g band and its workload-not-sink-rate ceiling
+  are stated in `M8hOYQ_6rSg` only, corroborated nowhere else in this note's
+  citations. This is a Sea of Cortez
   yellowtail band, narrower than the captain-called
   [150–400 g bluefin range](../techniques/knife-jigging.md#depth-control--jig-calling).
 - **Bumped without a hookup? Speed up.** The stroke is pump up, wind down at
@@ -58,7 +61,9 @@ Cortez quiver's speed-jig outfit — a short 5.5–6 ft rod rated 150–350 g (u
 to 400 g), 50–65 lb braid, and a taller/narrower reel chosen because vertical
 speed jigging wants as much line gained per pump as possible — is in
 [rod & reel selection](../tackle/rod-and-reel-selection.md#baja-sea-of-cortez-gear-quiver)
-(`M8hOYQ_6rSg`).
+(`M8hOYQ_6rSg`). ⚠ Fact-check (single-source): the 5.5–6 ft / 150–350 g
+(up to 400 g) / 50–65 lb braid quiver spec traces to `M8hOYQ_6rSg` only,
+corroborated nowhere else in this note's citations.
 
 - **A SoCal starter build, relayed secondhand.** A **Phoenix Megalodon
   607** — a jigging rod rated by jig weight rather than line class, this one
@@ -67,7 +72,10 @@ speed jigging wants as much line gained per pump as possible — is in
   leader in between**. The top shot is shorter than the same angler's yo-yo
   and jig-stick top shots but still deliberately sizable, to absorb the first
   initial bite and the head shakes that follow. The jig on the rod at filming
-  was a **200 g Daiwa SK** (`LTCFjqtSI8g`).
+  was a **200 g Daiwa SK** (`LTCFjqtSI8g`). ⚠ Fact-check (single-source):
+  the full build (Phoenix Megalodon 607 rated 200–300 g, Trinidad 20A,
+  25–40 yd 40–60 lb mono top shot, 200 g Daiwa SK) rests on `LTCFjqtSI8g`
+  alone.
   - **Status: a starting point, not tested doctrine.** The build is relayed
     secondhand — speed/vertical jigging was new to the angler documenting it
     in 2023 and the setup is what he had been told by others already fishing
