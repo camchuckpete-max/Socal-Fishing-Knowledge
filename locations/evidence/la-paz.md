@@ -62,7 +62,10 @@ slow-troll), `qM7iOO7fOBw` is day 2 (shared high spot, after a windy day 1),
   Bajo the most famous high spot in La Paz, shallowest point "on low tide has
   like 50 ft, on high tide no more than 80", fished by working around that rock.
   The spot name is heard as "El elito", "El bajo" and "El bajito" within the same
-  transcript.
+  transcript. ⚠ Fact-check (contradicted-by-source): "El bajito" does not occur
+  in the transcript; the renderings actually present are "the LEL grounds",
+  "El elito", "El bajo Elbo" and "El bajo elb", and the "most famous high spot"
+  line attaches to "El elito", not to "El bajo".
 - `qM7iOO7fOBw` (StokedOnFishing, 2023-11-03, La Paz shared high spot): the
   ground is called "this uh little high spot" with the fleet's other boats on
   it; the bottom under the boat was called sand mid-session, and kelp was in the
