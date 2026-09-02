@@ -35,9 +35,12 @@ router.
 **Bait budget is what shapes the programme.** A private boat carries a two-scoop
 maximum against the sportboat's effectively bottomless chum, which is what
 pushes the private-boat game toward the scale-down and the bait-net trick rather
-than sustained chumming (`8M4QhL-Qb7E`). On a sportboat the same fish are drawn
-up by weight of chum instead — a school marked at 40 ft came into hook range
-inside roughly two minutes of steady bait (`lxFNVdDhMy4`).
+than sustained chumming (`8M4QhL-Qb7E`). ⚠ Fact-check (single-source): the
+two-scoop figure is precise and sourced only to `8M4QhL-Qb7E`. On a sportboat
+the same fish are drawn up by weight of chum instead — a school marked at 40 ft
+came into hook range inside roughly two minutes of steady bait (`lxFNVdDhMy4`).
+⚠ Fact-check (single-source): the 40 ft / roughly-two-minute figures are
+precise and sourced only to `lxFNVdDhMy4`.
 
 **Chum first, hook bait second — always.** Any time a school of yellowfin is
 located, the first move is a quick dip of the bait net and a couple of freebies
@@ -59,7 +62,9 @@ one good bait out of it and nose-hook it, then throw the rest of the netful in
 as quickly as possible with the hook bait mixed in among them. The stated
 mechanism is that the netful reads to the fish as "a little mini bait ball" —
 the commotion triggers them, and the hook bait sitting inside the group is
-harder to pick out by its line and hook (`8M4QhL-Qb7E`).
+harder to pick out by its line and hook (`8M4QhL-Qb7E`). ⚠ Fact-check
+(single-source): the three-to-five-bait count is precise and sourced only to
+`8M4QhL-Qb7E`.
 
 **Slow-trolling the bait both locates and entices.** On arrival in the zone,
 with the right water, birds and paddies but no committed bite, a nose-hooked
@@ -79,14 +84,18 @@ outright. The exact setting depends on the reel (`8M4QhL-Qb7E`).
 boat in gear, go back to the rod and drop it into **free spool**, letting the
 fish take the bait for a deliberate **10-count** — counted out, not estimated —
 before going to **strike** and simply winding tight. On circle hooks nothing
-more is needed; there is no swing (`8M4QhL-Qb7E`).
+more is needed; there is no swing (`8M4QhL-Qb7E`). ⚠ Fact-check
+(single-source): the 10-count figure is precise and sourced only to
+`8M4QhL-Qb7E`.
 
 ## Rigs & gear
 
 - **Entry point: a 30 lb setup with a 2/0 circle.** A **2/0 circle hook**
   (Gamakatsu Nautilus named on camera) on a **30 lb** setup is the default,
   chosen because it is well matched to the size of a healthy live sardine —
-  hook to bait, not hook to fish (`8M4QhL-Qb7E`). Class terms in
+  hook to bait, not hook to fish (`8M4QhL-Qb7E`). ⚠ Fact-check (single-source):
+  the 2/0-on-30-lb entry point is precise and sourced only to `8M4QhL-Qb7E`.
+  Class terms in
   [gear classes](../tackle/gear-classes.md); hook style and sizing generally in
   [hooks](../tackle/hooks.md).
 - **The scale-down ladder, and the climb back.** When a school reacts to chum
@@ -95,7 +104,9 @@ more is needed; there is no swing (`8M4QhL-Qb7E`).
   is the wire gauge as much as the leader: thin wire "lets the bait swim a lot
   more freely and kind of hides itself even better." Then work the balance back
   up — once they are biting the 15, try **25**, then try to get back to **30**
-  (`8M4QhL-Qb7E`). The step down is a concession to the bite, not a setting to
+  (`8M4QhL-Qb7E`). ⚠ Fact-check (single-source): the 20/15 lb, size 1
+  thin-wire, and 25/30 lb climb-back figures are precise and sourced only to
+  `8M4QhL-Qb7E`. The step down is a concession to the bite, not a setting to
   start on.
 - **Picky-bite leader and hook: three figures, one situation.** The decision
   turns on how far down you have to go to get bit, not on which source you
