@@ -27,6 +27,11 @@ two renderings is auto-caption garble, the KB carries no charted position for
 either, and this page publishes both rather than picking one. Queued in
 [the fact-check ledger](../sources/fact-check-ledger.md) alongside the same flag
 on [the zone page](bahia-de-los-angeles.md#structure--bathymetry).
+⚠ Fact-check (contradicted-by-source): the captions render the island three
+ways, not two — *"Cardonosa. Cardonosa."*, then *"So, we're here fishing
+Lardinosa."*, then *"Isla Cartito. Isla Cart."*, all inside about eight seconds
+(`odiIWmut6gM`) — so "one of the two renderings" undercounts what the record
+holds.
 
 **It carries no charted position in
 [the spot library](../sources/spot-lists.md).** That library stops at San
@@ -52,6 +57,13 @@ four opened casting a shallower high spot; after *"a considerable amount of time
 casting"* the crew tied the slow periods to that day's tide, asked the captain
 to go looking in deeper water for yellows, and that move is what put them here
 (`odiIWmut6gM`). See [tide & slack](../conditions/tide-and-slack.md).
+⚠ Fact-check (contradicted-by-source): the transcript ties the move only to the
+tide read — *"we started noticing a correlation between this particular tide and
+previous slow periods on the trip. We asked the captain if we could go in search
+of deeper water and potentially find yellows"* — and never calls it morning,
+never says the shallower high spot was the day's first stop (fishing action runs
+between the "day four" card and it), and never links that move to the island it
+names about five minutes later.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -110,6 +122,11 @@ so treat the model name as unverified (`odiIWmut6gM`). Weights and shapes are in
 [knife / speed jigging](../techniques/knife-jigging.md), and the zone's wider
 **150–300 ft** jigging band sits on
 [the zone page](bahia-de-los-angeles.md#how-it-fishes).
+⚠ Fact-check (contradicted-by-source): that 150–300 ft band is doubly-hedged
+pre-trip hearsay in its own source — *"i think what we're going to be fishing is
+typically about 150 to 300 feet, that's kind of what i've heard"* (`vqsD0qpwcJA`)
+— and is already flagged on the zone page as not an observed band; this page
+restates the figure unflagged. Nothing in `odiIWmut6gM` states any such band.
 
 **Birds moved the boat off the shelf.** *"The birds are bombing"* was answered
 with *"we move"*, and the school under them was firecracker yellows that stayed
