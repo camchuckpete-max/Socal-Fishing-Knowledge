@@ -30,12 +30,26 @@ because the fish is a snook at this mark.
 
 **Outside the bay mouth, on a known bottom mark, for grade.** The boca sits
 about **five minutes from the dock** in **40–50 ft**, and is fished blind — no
-visual or sonar sign is given for it (`EcQK5elTPJE`). This is the row the router
+visual or sonar sign is given for it (`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-by-source): "known bottom mark" / "fished blind" is
+not in the source. `EcQK5elTPJE` gives only the depth and the five-minute run
+from the dock — no mark, no sounding, no spot-finding and no statement, either
+way, that the spot is fished blind or that no sonar/visual sign is used; this
+is the same flag already carried on the
+[router](snook.md#finding-them-sign--sonar).
+This is the row the router
 ranks for the outside program; see
 [snook — situations → techniques](snook.md#situations--techniques). It is the
 opposite trip from the inside program: the boca is where the grade is, with a
 **42 lb** snook as the best of one day and snook **over 20 lb** named as the
-reason to run outside at all (`EcQK5elTPJE`). The zone-by-zone grade split is on
+reason to run outside at all (`EcQK5elTPJE`).
+⚠ Fact-check (contradicted-by-source): "snook over 20 lb" is said while
+listing the bucket-list species Lopez Mateos offers — "I got my marlin, I got
+my snook over 20 lb, I got my grouper … 100 lb" — not as a reason to fish the
+boca; the boca's own billing in the same talk is "world class grouper snook
+fishery" (`EcQK5elTPJE`), the same flag already carried on the
+[router](snook.md#where--when).
+The zone-by-zone grade split is on
 the [router](snook.md#where--when).
 
 **Bring it expecting a mixed bag you cannot choose between.** Grouper to
@@ -99,8 +113,18 @@ terminal tackle rather than a reason to fish the drag softer.
   first six snook hooked in this fishery all broke off, and the leader was
   stepped up through **60, 80, 100 and finally 130 lb** before fish were landed
   (`EcQK5elTPJE`). The progression is the origin of the spec above, not a second
-  rule beside it. Leader material reasoning generally:
-  [line & leader](../tackle/line-and-leader.md).
+  rule beside it.
+  ⚠ Fact-check (contradicted-by-source): the transcript's 60→80→100→130 lb
+  progression (~00:16:29) is a separate personal anecdote about the first six
+  snook hookups on early trips, told roughly 26 minutes before the ~6 ft /
+  100–130 lb Carolina-rig leader spec (~00:42:38–00:43:23) — the source never
+  ties that progression to this specific spec, and never says fish were
+  landed once the leader reached 130 lb; the same passage that gives the
+  100–130 lb spec instead reports breaking off on "100 to 130 lb test" again
+  on a later trip. Same flag already carried on
+  [sliding sinker](../techniques/sliding-sinker.md#baja-pacific-grouper--snook-leader--lopez-mateos)
+  and the [router](snook.md#doctrine--conflicts). Leader material reasoning
+  generally: [line & leader](../tackle/line-and-leader.md).
 - **Hook: 4X strong, sized to the bait** — sardine or live shrimp
   (`EcQK5elTPJE`). Specified by wire strength rather than by pattern or aught
   size; see [hooks](../tackle/hooks.md).
