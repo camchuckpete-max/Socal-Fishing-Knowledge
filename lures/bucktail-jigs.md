@@ -45,6 +45,22 @@ it up off the bottom" (`OVwqUKim9Pc`). Relocated here with the content from
 [snook](../species/snook.md); single-source is not wrong, and the row stands
 until a second source lands.
 
+⚠ Fact-check (contradicted-by-source): "estuary channel" and "off the mangrove
+edge" are not in `OVwqUKim9Pc` — the episode says only "estuary" (00:11:27,
+00:14:12), never "channel" or "mangrove edge"; that framing and the 25-30 ft
+depth belong to a different day, `isXJONlpUP4`. Already flagged on
+[species/snook.md](../species/snook.md#situations--techniques) but unflagged
+here until now.
+
+⚠ Fact-check (contradicted-by-source): "popping it up off the bottom" is a
+question put to the angler on camera — "popping it up off the bottom is that
+what it was" (`OVwqUKim9Pc`, 00:15:06) — not a confirmed description of the
+presentation, and the transcript does not clearly tie it to the same fish as
+the white-bucktail snook landed roughly a minute earlier (00:14:03-00:14:34).
+Already flagged on
+[species/snook.md](../species/snook.md#situations--techniques) but unflagged
+here until now.
+
 ## When to choose it
 
 - **Estuary channel off a mangrove edge, fish on or near the bottom** — the one
