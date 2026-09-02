@@ -58,6 +58,14 @@ a statute reading, so the Ensenada offshore program does not reach this water
 however the units are read. ⚠ Flagged gap — no corpus source says whether those
 port figures are statute or nautical miles.
 
+⚠ Fact-check (contradicted-by-source): the band's far edge is not the grounds.
+`0bcDBGzQnGw` places *the fleet* at "about 45 50 miles from where at their lamp
+here" with no direction given, and states the 20–30 mi west leg as a plan
+("probably in a head West out maybe 20 to 30 miles"); `Ix0gG0-l3v0`'s 42–43 is
+distance *travelled* that morning ("how far did we just travel… about 42 43
+miles") to an unnamed bank, with "August" and "2024" never spoken on camera. The
+same rows already stand on [179 / 220](179-220.md).
+
 **On the US side the numbers are larger again.** The **Point Loma Pipe** at
 **32°40.350'N 117°17.000'W** is **106.8 nm** from Lower Cross, **104.2 nm** from
 Catchers Mitt and **120.3 nm** from the 950 (cameron) — about **120–138 statute
@@ -66,6 +74,14 @@ miles**. The one long-range distance figure the corpus gives for this coast is
 beyond it to a 300-mile spot, units never stated on camera (`_r_qKX_7080`). This
 zone falls inside that first leg on either reading, which places it in the
 travel band the corpus associates with multi-day trips rather than a day run.
+
+⚠ Fact-check (contradicted-by-source): the units are not absent in
+`_r_qKX_7080` — "miles" is spoken three times in that one line ("we're on was
+188 miles from San Diego and then we're going to go another 112 112 miles so
+it'll be 300 miles from San Diego"). What is never stated is statute versus
+nautical, which is the distinction this paragraph's "on either reading"
+argument turns on. The same wording is already flagged on
+[179 / 220](179-220.md).
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -111,6 +127,18 @@ sounder, at six feet to a fathom ([zone lexicon](zone-lexicon.md),
 | Lower Cross | none | no claim |
 | Catchers Mitt | none | no claim |
 
+⚠ Fact-check (contradicted-by-source): `Rf1HKJG-SDg` states the convention as a
+tendency, not a rule — "most of them are the banks are called after the highest
+part of the bank on the fish finder fedometer" — and names its exception class in
+the same passage: "the nine mile bank that's not nine miles deep that's nine
+miles off the coast" and "14 is 14 miles off the beach". Its worked examples are
+the SoCal 181/182, 209 and 43, and [zone lexicon](zone-lexicon.md) carries the
+distance-naming exception under its own heading where this table does not —
+leaving a third reading of *950* unconsidered beside the fathoms and feet
+readings weighed below. "Six feet is in a fathom" is verbatim and the arithmetic
+verifies. Sibling rows stand on [179 / 220](179-220.md) and
+[Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md).
+
 Read that way the 950 tops out deeper than any depth the KB fishes: SoCal
 daytime swordfish baits average **800–1,100 ft**
 ([deep-drop swordfishing](../techniques/deep-drop-swordfishing.md)), the
@@ -141,6 +169,15 @@ trips ([island structure](island-structure.md)). ⚠ Flagged gap — no corpus
 source: bottom composition, relief, contour, high-spot shape, surrounding depth,
 preferred directions, drift or current behaviour at any of these three marks.
 The `depth_band` is unknown for that reason, not because the marks are shallow.
+
+⚠ Fact-check (contradicted-internal): [island structure](island-structure.md)
+says standalone banks "sit off the island with open water on every side and fish
+in **any current direction**" — a current-direction typology whose named example
+is Farnsworth Bank off Catalina. Dropping "current" turns a statement about
+which way the current may run into one about approach direction generally, and
+lifts an island-adjacent read onto open-ocean marks **57.6–83.9 nm** from the
+nearest charted coastal position. The same row already stands on
+[Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md).
 
 **This is far-offshore water by the library's own arithmetic.** The nearest
 charted coastal or island position to any mark here is the **48 Fa. Spot** in
@@ -182,6 +219,16 @@ Ensenada port marks (cameron), well past the water that statement describes as
 already far. The [bluefin router](../species/bluefin-tuna.md) carries the
 material at region level.
 
+⚠ Fact-check (contradicted-by-source): `fgTmUq78ofQ` counts three areas and
+locates only two — "i think there's there's three different areas of bluefin
+right now there's an area that's out west of uh san diego there's one that's
+west of ensenada well there's two areas out west so". The trailing "two areas
+out west" is an unattached mid-sentence self-correction, never tied to Ensenada,
+so the one-and-two split is arithmetic supplied here; 2021-05 is upload
+metadata, no date being spoken on camera. The identical sentence is already
+flagged on [179 / 220](179-220.md), [Ensenada](ensenada.md) and
+[Baja Pacific — North](baja-pacific-north.md).
+
 ⚠ Flagged gap — no corpus source: whether
 [bluefin](../species/bluefin-tuna.md), [yellowfin](../species/yellowfin-tuna.md),
 [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md),
@@ -206,6 +253,16 @@ leg here is a transit rather than a search box: the shortest, Lower Cross to the
 950, is **14.2 nm**, and the longest is **27.7 nm** (cameron). ⚠ Flagged gap —
 no corpus source places any mark here on either side of that split, and the
 vocabulary is stated for the Bight rather than for this coast.
+
+⚠ Fact-check (contradicted-by-source): `Blh2BA-7Ono` carries only the complex
+half, and loosely — "you get probably 50 miles 60 square miles to look" and "a
+60 mile square area" — with the 302, the 371 and the west end of Catalina named
+only as the foil. Nothing in it describes idling onto a spot, grading it on the
+meter, or committing versus leaving; the nearest wording is "don't just expect
+to drive a spot and find those fish". That half of the contrast comes from
+[zone lexicon](zone-lexicon.md)'s compact-spot bullet, which carries no cite of
+its own, so the clause traces to no source through either cite. The identical
+row already stands on [179 / 220](179-220.md).
 
 **With no corpus program, the general layers are what a plan has.** Structure is
 where bait stages for shelter and gamefish follow it
