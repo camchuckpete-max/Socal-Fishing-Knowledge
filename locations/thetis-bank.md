@@ -52,6 +52,16 @@ That is a sequence, not a distance — no mileage, bearing, run time or
 sea-state envelope for reaching the bank is stated, and a night's steam is not
 a position.
 
+⚠ Fact-check (contradicted-by-source): **"San Diego" is nowhere in the cited
+video.** The transcript names the vessel on camera — *"Welcome aboard the
+Intrepid"* — but never states a port, and "long range" appears only in the
+video's title, never spoken (`3tQ1_xiqwVU`). The fleet-level fact is
+corpus-supported by other sources on
+[Alijos Rocks](alijos-rocks.md#getting-there); what is unsupported is this
+page's attribution of "San Diego long-range" to this one video, and the plural
+"boats" generalised from the single stop on record. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 **The only timed leg on that trip belongs to another ground.** The **160 mi**,
 **16-hour** run for an **08:00** arrival is the Ridge on to Alijos Rocks
 (`3tQ1_xiqwVU`); it does not transfer here. Corridor access generally — the
