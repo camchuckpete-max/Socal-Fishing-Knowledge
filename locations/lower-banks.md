@@ -19,7 +19,10 @@ the heaviest grade of fish anywhere in this KB.** "The lower banks" is a fleet
 name for an area rather than a charted mark: it is narrated on camera as the
 water running from **Magdalena Bay** down toward **Cabo San Lucas**, where
 giant tuna of **130s to 350 lb** move up every fall to breed and spawn
-(`UuyqTE21-kc`). The ground sits in
+(`UuyqTE21-kc`). ⚠ Fact-check (single-source): the fall breed-and-spawn
+migration and the 130–350 lb band rest on one captain's closing wrap-up on
+one trip ([fact-check ledger](../sources/fact-check-ledger.md)). The ground
+sits in
 [Baja Pacific — South](baja-pacific-south.md), which the census gives no zone
 of its own, so this page hangs off the region rung the same way
 [The Ridge / Uncle Sam Bank](ridge-uncle-sam-bank.md) does — the ground one
@@ -53,7 +56,13 @@ stated run is roughly **608 nm** south of San Diego on an 11-day trip
 (`pk2blktDQ9Y`), which puts this ground well beyond
 [Alijos Rocks](alijos-rocks.md) and the Ridge — the two grounds the region's
 six-, seven- and eight-day trips fish
-([Baja Pacific — South](baja-pacific-south.md#access--range)). A trip that
+([Baja Pacific — South](baja-pacific-south.md#access--range)). ⚠ Fact-check
+(contradicted-internal): the region page's lead puts its grounds **450–488
+mi** south of San Diego on six-, seven- and eight-day trips, a band this
+ground's 608 nm / 11-day run sits outside; the region page carries the
+reciprocal flag while this page states the two as harmonised
+([Baja Pacific — South](baja-pacific-south.md),
+[fact-check ledger](../sources/fact-check-ledger.md)). A trip that
 fishes here can also work back up toward the Ridge on the same run
 (`UuyqTE21-kc`).
 
@@ -62,7 +71,11 @@ fishes here can also work back up toward the Ridge on the same run
 prior trip, described on camera as six-day-old cured bait — at roughly **700
 scoops** (`pk2blktDQ9Y`), against the roughly **20 scoops** a 360-gallon
 private-boat tank typically carries for an offshore day
-([bait tanks](../bait/bait-tanks.md)).
+([bait tanks](../bait/bait-tanks.md)). ⚠ Fact-check
+(contradicted-by-source): the held-over-from-a-prior-trip provenance is not
+on camera — the dockside load is called only "a mix of sardine some green
+mackerels excellent bait good six-day-old cured stuff" (`pk2blktDQ9Y`)
+([fact-check ledger](../sources/fact-check-ledger.md)).
 
 ⚠ Flagged gap — no corpus source: a sea-state or weather envelope for this
 ground, a bait stop along the way, a departure time, or any access other than
@@ -88,7 +101,10 @@ relief or bottom description for this ground.
 morning's bite the marks were read as big fish — reportedly up to **200
 lb-plus** — with fleet boats nearby already hanging big fish; the same
 evening's brief set the line class for the next day (`pk2blktDQ9Y`; [How it
-fishes](#how-it-fishes)). On another day a large **bait ball sitting directly
+fishes](#how-it-fishes)). ⚠ Fact-check (contradicted-by-source): the meter
+read is a hope, not a call — asked what the red dots were, the crew answers
+"those are big fish hopefully over 200 pounder's" (`pk2blktDQ9Y`)
+([fact-check ledger](../sources/fact-check-ledger.md)). On another day a large **bait ball sitting directly
 under the boat**, with fish blowing up all around it on the surface, was the
 crew's stated reason for holding position rather than moving grounds; whether
 the ball was found on sonar or by surface sign is not stated on camera
@@ -111,9 +127,9 @@ Everything below comes from two trips in the **October–November** window — o
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | fall — the arrival dated on camera as **October** (`UuyqTE21-kc`), the heaviest fishing recorded on a **November 25** stop with the year unresolved on camera (`ASitOLYzFEA`) | The giant-tuna ground. The 11-day trip puts the grade at **150 to 300-plus lb** and closes at **11 fish over 200 lb and one over 300 lb** (`UuyqTE21-kc`), its pre-Halloween day taking **314, 270, 250, 215 and 210 lb** (`Fq4aRI3YrKE`); the dock-day trip's tallies run roughly **140 lb up to 350 lb**, with more than one crew member citing seven fish over 300 lb (`ASitOLYzFEA`). ⚠ Fact-check (single-source): the species is never named on camera (`ASitOLYzFEA`) |
-| [Dorado](../species/dorado.md) | November, year unresolved on camera (`ASitOLYzFEA`) | Bycatch on the tuna school: a dorado school moved in and stayed around the boat for the whole four days it sat anchored on that one spot — school-holding away from both the kelp-paddy and the open-water-school programs. No count, grade or technique given (`ASitOLYzFEA`) |
-| [Wahoo](../species/wahoo.md) | November, year unresolved on camera (`ASitOLYzFEA`) | Presence without catchability: wahoo swam through the giant-tuna school on and off across the four days and none were landed (`ASitOLYzFEA`) |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | fall — the arrival dated on camera as **October** (`UuyqTE21-kc`), the heaviest fishing recorded on a **November 25** stop with the year unresolved on camera (`ASitOLYzFEA`) | The giant-tuna ground. The 11-day trip puts the grade at **150 to 300-plus lb** and closes at **11 fish over 200 lb and one over 300 lb** (`UuyqTE21-kc`), its pre-Halloween day taking **314, 270, 250, 215 and 210 lb** (`Fq4aRI3YrKE`); the dock-day trip's tallies run roughly **140 lb up to 350 lb**, with more than one crew member citing seven fish over 300 lb (`ASitOLYzFEA`). ⚠ Fact-check (single-source): the species is never named on camera (`ASitOLYzFEA`) ⚠ Fact-check (contradicted-by-source): "150 to 300-plus lb" is not stated as a lower-banks grade — it is the cold open's negation about the Ridge ("there might not be 150 to 300 lb … tuna cruising around"), while the same video's captain gives 130s–350 lb and "a 130 on up" (`UuyqTE21-kc`) ⚠ Fact-check (contradicted-internal): three grade bands for one ground on one page — 130s–350, 150–300-plus and 140–350 — against the single **140–350 lb** the router states ([yellowfin tuna](../species/yellowfin-tuna.md#where--when)) |
+| [Dorado](../species/dorado.md) | November, year unresolved on camera (`ASitOLYzFEA`) | Bycatch on the tuna school: a dorado school moved in and stayed around the boat for the whole four days it sat anchored on that one spot — school-holding away from both the kelp-paddy and the open-water-school programs. No count, grade or technique given (`ASitOLYzFEA`) ⚠ Fact-check (contradicted-by-source): a grade IS given — "hundreds of Dorado moved in on us" — and the four-day duration is not stated on camera (`ASitOLYzFEA`) |
+| [Wahoo](../species/wahoo.md) | November, year unresolved on camera (`ASitOLYzFEA`) | Presence without catchability: wahoo swam through the giant-tuna school on and off across the four days and none were landed (`ASitOLYzFEA`) ⚠ Fact-check (contradicted-by-source): the transcript puts the wahoo on one day — "Wahoo moved in us on the last day" — and never says none were landed (`ASitOLYzFEA`) |
 | Everything else | — | ⚠ Flagged gap — no corpus source names another target species on this ground; the only other animal recorded is sea turtles moving in on the anchored boat (`ASitOLYzFEA`), and no source identifies the forage the giant tuna are on — the one bait ball recorded is never identified (`Fq4aRI3YrKE`) |
 
 ⚠ Flagged gap — no corpus source: water temperature, a break or colour read,
@@ -145,11 +161,22 @@ minutes, maxing out**, and is called "kind of iffy" past that; what drives it
 is how many times the fish rolls onto its side and drags the line across its
 mouth and teeth, an abrasion mechanism rather than a fixed clock
 (`pk2blktDQ9Y`; [fighting a big fish](../techniques/fighting-big-bluefin.md)).
+⚠ Fact-check (contradicted-by-source): the 45-minute figure is given in a
+post-mortem of a **gut-hooked** fish, and the same exchange adds "what if it
+was 130 maybe another 10 minutes" — it is scoped to a 100 lb top shot on a
+fish with line inside its mouth, not a general ceiling (`pk2blktDQ9Y`)
+([fact-check ledger](../sources/fact-check-ledger.md)).
 Boat-side, one hooked fish tangled on the **sonar dome** and took a crew
 member into the water repeatedly to free it, and a second fish's line was
 spliced twice mid-fight (`ASitOLYzFEA`) — the handling hazard the species
 router carries at giant grade
 ([yellowfin tuna](../species/yellowfin-tuna.md#landing--handling)).
+⚠ Fact-check (contradicted-by-source): the corpus records one fish here, not
+two, in three inconsistent accounts — the charter master relays hearsay of
+five water entries tangled "on the sonar Dome on the transducer", the angler
+says of his own fish "they jump in water twice splice the line twice", and a
+deckhand puts a hooked fish "on the anchor rope" (`ASitOLYzFEA`)
+([fact-check ledger](../sources/fact-check-ledger.md)).
 
 **Find the school and stay on it.** The recorded pattern is search, then
 commit: a couple of days looking, then four days anchored on one school,
@@ -167,7 +194,11 @@ marker rather than a peak (`Fq4aRI3YrKE`). They describe different points on
 the same fall run and are kept side by side rather than merged: the late-
 November claim is a stated annual practice, the pre-Halloween one a single
 season's framing, and nothing in the corpus tests either against a third
-trip.
+trip. ⚠ Fact-check (contradicted-by-source): "every year" hardens the
+source — the captain says "I've had this time slot for quite a while I like
+this time of year because … it's just when the bigger fish show up", stating
+no annual practice and attaching no place to the bigger-fish claim
+(`ASitOLYzFEA`) ([fact-check ledger](../sources/fact-check-ledger.md)).
 
 ⚠ Flagged gap — no corpus source: current, tide, moon, wind or light-window
 doctrine on this ground, how the boat searches on arrival, or what ends a
