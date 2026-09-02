@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
+_Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -850,8 +850,10 @@ _Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `What's there`: gap — | The fishery works the **150–350 fathom** contour ([swordfish](../species/swordfish.md)); the 267's stated depth sits mid-band. That is a depth match, not a report |
   - `What's there`: gap — | Nothing in the corpus names either mark for any of them, in any month |
   - `What's there`: gap — gives the temperature range that gates a bite
-  - `How it fishes`: gap
-  - `How it fishes`: gap — classifies this water on the
+  - `What's there`: gap — places either mark on or off the arc, and the
+  - `What's there`: gap — resolves which coast the fishery considers this
+  - `How it fishes`: gap — places either mark on either side of that split.
+  - `How it fishes`: gap — classifies this water on the rollover map by
   - `How it fishes`: zone guide missing
 - **locations/279-267.md**
   - `Getting there`: gap — the run, the approach, and where to start.
@@ -2829,9 +2831,9 @@ _Totals: 2519 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Structure & bathymetry`: gap — confirms
   - `Structure & bathymetry`: gap — targets
   - `Structure & bathymetry`: gap — says what the name
-  - `What's there`: gap — scoped to this zone |
-  - `What's there`: gap — |
-  - `What's there`: gap — , and a 63-fathom high spot is not a shoreline |
+  - `What's there`: gap — scoped to this zone. ⚠ Fact-check (contradicted-by-source): `i3qIAHW-SJc` places **only yellowfin** southeast of the bank — the deckhand says "there's some yell in **southeast of the bank** here where the water warms up a little bit there some yell in there also", set up by the interviewer's garbled "yellowfin"; **yellowtail is not in that exchange**. Yellowtail and yellowfin together appear only for the **previous day at the Cortez Bank** ("solid grade of yellowtail and yellow fent tuna at the Cortez Bank") in 74–75° water — a different place. The quoted phrase also drops a word: actual is "where the water warms up a little **bit**". "August 2016" is the **upload date** (2016-08-08); the transcript carries no trip date |
+  - `What's there`: gap — . ⚠ Fact-check (contradicted-by-source): "Documented at the island on squid" hardens a **prospective, hedged suggestion that never names SBI as the squid venue** — `5p6gu14ZC4w` says "there's squid around at different Islands now… **I think** you got a chance you know getting some squid and catching yellowtail with it… you take a squid any of these islands you'll **probably** have a good chance to catching the yellowtail **maybe in a place like Clementi or Kathleen [Catalina]**". The squid source he names is "nachos barge and Long Beach", and the one concrete yellowtail report is Catalina ("the freelance had like 40 yellows in Cavalier"), method unstated |
+  - `What's there`: gap — , and a 63-fathom high spot is not a shoreline. ⚠ Fact-check (contradicted-by-source): **lingcod appears in neither cited transcript** — `SGbynqaiHdY`'s bottom fish are "reds" and "chuckleheads". The ridge half is supported there ("a little **kelp on and a ridge it comes off the island**… 102 ft underneath this here… catch some rock fish here as well"), but the **shoreline** half is not in `EU_Dod4wfYw`, which never says shoreline, beach, ridge or a depth — only "the boys have made it to Santa Barbara Island", "there was a lot of kelp here last time". The explicit SBI shoreline-calico material is in `PKf7G3uL4io`, which this row does not cite ("see what we can do on **this beach** here", "he was way up like in the foam, **inches of water**") |
   - `What's there`: gap — | Nothing in the corpus names Kidney Bank (63) or the 175 for any species, in any month, in any condition. The silence is a gap in the sources, not a statement that the zone is empty |
   - `What's there`: gap — places either mark on or off the arc,
   - `What's there`: gap — describes a
