@@ -75,7 +75,11 @@ comes from the co-owner of the bait company presenting his own product.
 **Grade: this is what produces the big ones.** A **24 lb** sheephead in 2019
 came on a red crab thrown up into the island (`5Oh3IPIC5g4`), and two anglers
 took about **five fish of 15–20 lb** on one 2018 trip, "every single one of
-them" on the red-crab scent (`0HwYl0HO2tc`). ⚠ Fact-check (single-source): both
+them" on the red-crab scent (`0HwYl0HO2tc`). ⚠ Fact-check (contradicted-by-source):
+the cited transcript never states a year for this trip — "2018" is not in the
+source and appears inferred from the seminar's own year, which is not necessarily
+the trip's year (contrast the 24 lb fish above, where the source explicitly says
+"last year" against a dated 2020 seminar). ⚠ Fact-check (single-source): both
 grade records come from the same HookUp Baits presenter at two Fred Hall
 seminars promoting his own bait, so the second corroborates the presenter rather
 than the bait; queued in
