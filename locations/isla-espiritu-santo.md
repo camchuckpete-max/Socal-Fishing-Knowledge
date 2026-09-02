@@ -22,9 +22,10 @@ zone's 12 ft shallow rock is (`92y14x33etQ`). The guide translated the name on
 camera as *Holy Spirit Island* (`92y14x33etQ`).
 
 ⚠ Fact-check (contradicted-by-source): the **12 ft** figure is not in
-`92y14x33etQ` — the string "12" appears nowhere in that transcript in any unit,
-and it gives no troll depth at all. The number is real but belongs to
-`ORC1A68cEeM`, which [the zone page](la-paz.md#how-it-fishes) cites for it. The
+`92y14x33etQ` — the number 12 is never spoken in it, in any unit, and it gives
+no troll depth at all (its only depths are the high spot's *"50 ft… on high tide
+no more than 80"*). The number is real but belongs to `ORC1A68cEeM`, which
+[the zone page](la-paz.md#how-it-fishes) cites for it. The
 island-rock half of the sentence, and the *Holy Spirit Island* translation
 (*"Holy Spirit Island to Santo it means holy spirit"*, `92y14x33etQ`), are both
 verbatim.
@@ -37,6 +38,15 @@ this coast, so a conditions pull has to run against
 The whole record here is **one stop on one morning** — 2023-11-09, the last day
 of one crew's two-week stay, fished off a local fleet (`92y14x33etQ`). Read the
 page as that stop, not as the island's fishery.
+
+⚠ Fact-check (unverifiable): **2023-11-09 is `92y14x33etQ`'s upload date, not a
+date spoken on camera** — the transcript carries no date anywhere, only *"the
+last two weeks we've been hanging out in laa Baja California"* and *"today we're
+wrapping up our adventure"*, which fix the stop as the last day of a two-week
+stay but not to a calendar day. The same date is restated in the season cells of
+[What's there](#whats-there). [The zone page](la-paz.md#whats-there) carries the
+same three dates and names them uploads where it uses them to date the trip's
+water-temperature read.
 
 ## Getting there
 
