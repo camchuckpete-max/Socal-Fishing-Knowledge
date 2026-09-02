@@ -45,7 +45,10 @@ carrying its own bird — is search doctrine and stays on the router's
 **The named SoCal window for the pod programme is the lobster opener — "first
 week of October, end of September" — on the backside of
 [Catalina](../locations/catalina-island-backside.md)**, where the method is
-credited with **60–70 lb** fish taken on the dolphin (`ouBrIdO7d4k`).
+credited with **60–70 lb** fish taken on the dolphin (`ouBrIdO7d4k`). ⚠
+Fact-check (single-source): the dated window and the 60–70 lb credited weight
+both rest on this one unnamed-speaker booth interview, corroborated nowhere
+else in the note's citations.
 
 **Stop trolling when the fish come up.** A pod that breaks into a full foamer
 ends the troll: off [Ensenada](../locations/ensenada.md) the crew pulled the
@@ -59,12 +62,19 @@ cedar plugs and switched to flylined sardine plus
 same plug behind [bluefin](bluefin-tuna-trolling.md), so the plug's speed is set
 by which tuna you are looking for. The small finesse lure worked around a
 dolphin pod runs faster, at **7–9 mph**, described on camera as "not very fast"
-(`ouBrIdO7d4k`).
+(`ouBrIdO7d4k`). ⚠ Fact-check (single-source): verified verbatim against the
+cited transcript but corroborated nowhere else in the note's citations.
 
 **Approach geometry is the technique on a pod — never drive through it.** Stay
 well off a moving pod and get **way out in front** of it, then troll past.
 Busting through puts bow pressure on the animals: they hear and see the boat,
-split or bolt, and the school **dodges the lure** (`ouBrIdO7d4k`). The same
+split or bolt, and the school **dodges the lure** (`ouBrIdO7d4k`). ⚠
+Fact-check (contradicted-by-source): the transcript ties "split or...take off
+and...dodge it" directly to bow pressure from busting through, but "they hear
+the boat, they see what's going on" follows a separate clause ("so I just stay
+way off them and [they] come out, they hear the boat...") — the source doesn't
+clearly attach the hear/see clause to the busting-through consequence chain
+this sentence states. The same
 never-go-through rule is applied by the same captain to a trolled
 [Mad Mac](../lures/mad-mac.md) for bluefin, so it is a pod rule rather than a
 yellowfin one (`ouBrIdO7d4k`).
@@ -74,7 +84,9 @@ merely **travelling**, the yellowfin are underneath it and mostly out of sight
 (`fK2AT460xW4`). Once the pod is actively **feeding** and the bait ball starts
 breaking up, the school is hunting the scattered balls instead: the fish foam
 out **on the flanks and out in front**, sometimes as far as **50 yd** ahead of
-the pod with terns picking there (`ouBrIdO7d4k`). Read which of the two you are
+the pod with terns picking there (`ouBrIdO7d4k`). ⚠ Fact-check (single-source):
+the 50 yd figure is verified verbatim ("you'll see the turns 50 yard out in
+front of the DOL[phin]") but sourced only to this one transcript. Read which of the two you are
 looking at before committing the pass — the flanks-and-front water is the target
 on a feeding pod, and there are always some fish underneath either way
 (`ouBrIdO7d4k`).
@@ -84,7 +96,9 @@ on a feeding pod, and there are always some fish underneath either way
 **deep-diving hardbait** (Nomad-class, sardine colour) and a
 [cedar plug](../lures/cedar-plug.md) were trolled together around a big porpoise
 school; the deep diver got bit and the boat landed a yellowfin of about
-**60 lb** (`H-vIGWPIPVc`).
+**60 lb** (`H-vIGWPIPVc`). ⚠ Fact-check (single-source): verified verbatim
+("a nice yellow for about sixty pound") but corroborated nowhere else in the
+note's citations.
 
 **Colour-match the pair to get doubles.** On an October offshore troll
 **20–30 mi** out from [Cedros Island](../locations/cedros-island.md), two lines
@@ -92,7 +106,9 @@ were run **one short, one long**, and running the *same* colour on both —
 **purple/purple** named on camera — was credited with the simultaneous doubles
 that came aboard, including on a hardbait-to-feather swap. A different-colour
 Rapala run two days earlier out of the same operation did not produce the same
-doubles (`YUdbrIm9vrE`).
+doubles (`YUdbrIm9vrE`). ⚠ Fact-check (single-source): both the colour-doubles
+claim and its two-days-earlier counter-example come from the same captain on
+the same trip — same-source corroboration, not independent confirmation.
 
 **Feathers can restart a bite that live bait has killed.** In the same Cedros
 session a flylined sardine drew hookups until it stopped drawing them; the crew
@@ -114,7 +130,9 @@ dies.
   1/2 oz head** because the stock plastic head lets the lure pop out of the
   water at speed, rigged with a small **Yamashita stainless double hook** and
   trolled on **60 or 80 lb straight to the lure** — no leader step named
-  (`ouBrIdO7d4k`). The lure's own spec entry is in
+  (`ouBrIdO7d4k`). ⚠ Fact-check (single-source): the tungsten 1/2 oz head
+  swap, the hook, and the 60/80 lb straight-to-lure line rest on this one
+  transcript, corroborated nowhere else in the note's citations. The lure's own spec entry is in
   [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md). The idea came
   from a circa-mid-2010s Dana Point programme trolling cheap, fragile stock King
   Busters around porpoise pods for yellowfin, rebuilt with the tungsten head once
@@ -122,7 +140,9 @@ dies.
 - **Pod pair: a deep diver plus a plug.** Nomad-class deep-diving hardbait in
   sardine colour alongside a cedar plug (`H-vIGWPIPVc`).
 - **Cedros offshore: 60 lb line class** on the trolling outfits, running
-  Rapala-class hardbaits and feathers (`YUdbrIm9vrE`).
+  Rapala-class hardbaits and feathers (`YUdbrIm9vrE`). ⚠ Fact-check
+  (single-source): verified verbatim ("we got the [Rapalas] 12 rocking and
+  roll with 60 lb") but sourced only to this one transcript.
 - ⚠ Flagged gap — no corpus source: rod, reel, main-line or leader build for the
   cedar-plug-and-feather open-zone programme, and **setback distances** for any
   yellowfin spread — the corpus gives speeds, a 60 lb line class and a

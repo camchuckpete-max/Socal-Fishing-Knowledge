@@ -889,7 +889,7 @@ by their builders after the transform phase drains.
 | species/white-seabass-dropper-loop.md | standard | fact-checked | contradicted-by-source(1) | 1 contradicted-by-source flag: hook name cited to Eo_bA8IWvyU (which says Owner Oy twist) actually belongs to Y2bXn44lfqo (Ahi twist), mis-scoped cite |
 | species/white-seabass-leadhead-squid.md | standard | fact-checked | contradicted-by-source(3) | 3 contradicted-by-source flags: rod/reel weight class mis-scoped, drag tip mis-scoped to baitcaster passage, head-maker attribution wrong (friend's heads, not source's own) |
 | species/yellowfin-tuna-flyline.md | standard | fact-checked | single-source(6) | 6 single-source flags added on surprising/precise numeric specs (bait budget, entry point, scale-down ladder, 10-count, sportboat depth/chum time, bait-net count), all verified verbatim |
-| species/yellowfin-tuna-trolling.md | standard | transformed | spots(4) | verified already-compliant, no note changes; appended 4 accurate spot-harvest rows |
+| species/yellowfin-tuna-trolling.md | standard | fact-checked | single-source(7), contradicted-by-source(1) | 8 flags added: 7 single-source on precise numeric specs, 1 contradicted-by-source on a reordered/conflated causal chain in the pod-approach passage |
 | species/yellowtail-dropper-loop.md | standard | transformed | none | verified already fully v2-compliant, no changes needed; 3 check-note.py WARN confirmed benign (restatements of in-note-cited figures) |
 | species/yellowtail-knife-jigging.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
 | species/white-seabass-leadhead-swimbait.md | standard | transformed | none | verified already fully v2-compliant, no changes needed |
