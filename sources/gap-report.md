@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
+_Totals: 2525 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 
 ## species/
 
@@ -1050,6 +1050,7 @@ _Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - infobox `distance_nm`: unknown
 - **locations/380.md**
   - `Getting there`: gap — a stated distance, heading, run time, fuel
+  - `Getting there`: gap — states a run to this water from any port, on
   - `Getting there`: gap
   - `Structure & bathymetry`: gap — confirms the 380 as a
   - `What's there`: gap — names a species at this mark | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to the 380. Its name claims a depth and no target, unlike the Tuna Hole (179) **57.1 nm** east (cameron, [179 / 220](179-220.md)) |
@@ -1816,8 +1817,11 @@ _Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Getting there`: gap — a stated distance, heading, run time, fuel
   - `Getting there`: gap — states a run to this water from Ensenada or
   - `Getting there`: gap
+  - `Getting there`: gap — a wind or swell number that turns this zone
   - `Getting there`: gap
+  - `Structure & bathymetry`: gap — says what shape the name describes, or whether
   - `Structure & bathymetry`: gap — how many high spots the name covers, what
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour,
   - `What's there`: gap — names a species at this mark | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to The Bumps. Its name claims no target, unlike the Tuna Hole (179) **46.0 nm** southeast (cameron, [179 / 220](179-220.md)) |
   - `What's there`: gap — puts a
   - `What's there`: gap — whether
@@ -2547,7 +2551,7 @@ _Totals: 2521 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
   - `Getting there`: gap — what an angler personally must carry for the
   - `Structure & bathymetry`: gap — any charted position, depth contour, high
   - `Structure & bathymetry`: gap — water temperature, current or break structure
-  - `What's there`: gap — season | Present as a contingency rather than a documented fishery: a Guadalupe outfit is specced to double for night [flat-fall jigging](../techniques/flat-fall-jigging.md) "if there's a chance of encountering bigger bluefin" (`zuAuk-Kfa1Y`), and the island's shark-depredation guidance is fight mechanics for a hooked tuna with the species never named on camera (`FXWOIB0TPfE`) |
+  - `What's there`: gap — season | Present as a contingency rather than a documented fishery: a Guadalupe outfit is specced to double for night [flat-fall jigging](../techniques/flat-fall-jigging.md) "if there's a chance of encountering bigger bluefin" (`zuAuk-Kfa1Y`), and the island's shark-depredation guidance is fight mechanics for a hooked tuna with the species never named on camera (`FXWOIB0TPfE`) ⚠ Fact-check (contradicted-by-source): the flat-fall quotation is not in the source, whose captions read "if there was a chance that you were going to out for bigger bluefin this also could be used for flat falling at night" — the substance stands, the quotation marks do not |
   - `What's there`: gap — forage. Nothing in the corpus says what the
   - `What's there`: gap — [dorado](../species/dorado.md),
   - `What's there`: gap — a month-by-month calendar. Every row above
