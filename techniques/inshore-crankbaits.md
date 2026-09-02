@@ -41,6 +41,13 @@ situation calls for it lives in the routers:
   presentation** — wind noticeably faster than instinct suggests; halibut
   give chase and commit hard once the bait is moving (see
   [California halibut](../species/california-halibut.md#situations--techniques)).
+  ⚠ Fact-check (contradicted-internal): the router row this bullet mirrors
+  carries a standing contradicted-by-source flag on exactly this framing — in
+  `46ha7J1Fc6A` the speaker names a **Lucky Craft minnow** fished at Catalina
+  and from shore, with no bottom-type scope, so neither "open flats" nor
+  "crankbait" is in the source. Stated here as an unqualified reach-for-this
+  trigger for the crank class, and uncited, it reads as corroboration of a
+  claim the KB has already flagged.
 - Fish are scattered and you need a reaction bite, not a soaked bait.
 
 ## Cover density: hardbait vs. soft plastic

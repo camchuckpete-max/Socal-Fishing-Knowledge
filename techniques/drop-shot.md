@@ -140,6 +140,17 @@ marginal edges rather than a load-bearing claim.
   specify hook, weight, or leader — use the rig build above for those. Leader
   length off a sloped beach is a halibut-surf parameter — see
   [California halibut — surf lures](../species/california-halibut-surf-lures.md#how-california-halibut-changes-the-execution).
+  ⚠ Fact-check (contradicted-internal): the **22–30 in** drag and the
+  **3–4 ft** strike radius above are claimed as sub-article-only parameters by
+  two other notes on the same cite — footnote [b] of
+  [California halibut](../species/california-halibut.md#situations--techniques)
+  sends "the cadence, its drag length and the stated strike radius" to the
+  sub-article, and
+  [California halibut — surf lures](../species/california-halibut-surf-lures.md#differs-from-the-general-method)
+  lists both figures as a delta against this general note ("here the rig is
+  deliberately dragged 22–30 in… with a stated 3–4 ft radius of attraction").
+  This note states them itself, so that delta has collapsed and the routing is
+  stale (`9qwsg-e9ECA`).
 - **Hookset — take up slack first** (`EGKesj7V64M`): the drop shot's light
   spinning line is why beginner bay anglers are pointed to this rig first to
   learn what a bite feels like — and that same light line makes the hookset

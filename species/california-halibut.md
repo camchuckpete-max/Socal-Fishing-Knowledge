@@ -231,6 +231,19 @@ Trip reports by zone are in the [evidence file](evidence/california-halibut.md).
 | **Open bay or beach water, multi-bait reaction rig wanted** | **A-rig** (Warbaits mini rig), worked aggressive **from the first cast** | Heavier [bass class](../tackle/gear-classes.md) A-rig variant — hardware in [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) | Do not start slow and work up to aggressive; halibut chase the rig down rather than eating it dead-slow on the bottom (`eOLoHxoqk6E`) |
 | **Covering flats under power** (no drift-friendly wind or current) | **⚠ Flagged stub — no corpus source yet.** Bounce-ball trolling — a trolled ball weight ticking the sand ahead of a hoochie or swimbait | [Light troll class](../tackle/gear-classes.md) | Bounce-balling is named only in passing, as an alternative to drifting, and the instruction attached to it is to isolate structure and pick it apart rather than bounce-ball a straight line for an extended period (`OpcKQPA3vAI`); no execution parameters are recorded. Stubbed per the router rule so silence does not read as "not a method" |
 
+⚠ Fact-check (contradicted-internal): the two rows above that deep-link
+[swimbaits](../techniques/swimbaits.md) do so by headings that note no longer
+carries — `#covering-more-water-than-the-bait-anglers-tackle-express` (the
+heading is now "Covering more water than the bait anglers", without the
+attribution tail the plain-statement rewrite stripped) and
+`#umbrella-rig-setup-bay-bass-roman-castro` (that section is now "Multi-bait
+rigs", and the A-rig hardware this row promises there has since spun out of
+that note entirely, to the `spotted-bay-bass-swimbaits.md` sub-article).
+Both anchors are dead, so each row lands the reader at the top of
+[swimbaits](../techniques/swimbaits.md) instead of the section it names;
+`scripts/link-maintenance.py` reports stale anchors without failing on them,
+so CI is green.
+
 [a] The full program — leader length and class, trap-hook pairing, ball/
 cannonball sinker shape and its weight band, the straight-up-and-down rig
 attitude and the bite read — is in
@@ -239,6 +252,16 @@ attitude and the bite read — is in
 the depth-keyed lure ladder past 4 ft, rod-tip height as the depth trim, the
 reaction-bait colour family and the hook-set on the thump — is in
 [California halibut — surf lures](california-halibut-surf-lures.md).
+⚠ Fact-check (contradicted-internal): two of the parameters this footnote
+routes to the sub-article are stated in the general technique note itself.
+[Drop shot](../techniques/drop-shot.md#working-it) carries the surf cadence's
+drag length (**22–30 in**, "matching the halibut you're trying to catch") and
+its **3–4 ft** strike radius under "Surf cadence", off the same cite
+(`9qwsg-e9ECA`) — so the sub-article's matching delta bullet in
+[Differs from the general method](california-halibut-surf-lures.md#differs-from-the-general-method),
+which claims the drag length and radius as halibut parameters "stated here"
+rather than in the general note, no longer states something the general note
+does not.
 [c] **Catalina** is the named place this has produced, and the same fast
 retrieve is stated to draw bites from shore (`46ha7J1Fc6A`).
 
