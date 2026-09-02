@@ -63,6 +63,9 @@ the arm — on a **medium-speed crank**, popping the tip through the retrieve
 baitfish, not a fast burn. Two independent sources arriving at the same
 crank-and-pop shape is the strongest thing on this page; the speed reference
 (a swimming baitfish) is what keeps it from being fished as a burn.
+⚠ Fact-check (single-source): the 10-count sink figure itself is stated only
+in `5Oh3IPIC5g4` — the two-source corroboration covers the crank-and-pop shape,
+not this specific number.
 
 **Down, half-yo-yo variant.** When fish aren't showing on top: sink the bait to
 bottom, retrieve **about halfway** back up, open the bail and let it fall back
@@ -74,6 +77,9 @@ continuous-wind-to-the-top cadences in
 variant rather than merged into that note. Illustrated on a group trip to
 Cedros Island, Baja, fished into a yellowtail push moving through
 (`0HwYl0HO2tc`) — see [Cedros Island](../locations/cedros-island.md).
+⚠ Fact-check (single-source): the half-yo-yo cadence and its half-speed figure
+rest on this one demonstration by the bait's own designer, not independently
+corroborated elsewhere in the corpus.
 
 **Follows without commitment: downsize the profile.** At the
 [Coronado Islands](../locations/coronado-islands.md), repeated follows with no
@@ -96,6 +102,9 @@ documented on camera: slow-trolling live sardines at roughly **1 mph**
 (thorough but covers little ground) and a faster trolled lure at roughly
 **5 mph** (a different, unnamed lure — asr-uncertain, not confidently
 identified).
+⚠ Fact-check (single-source): the 3–4 mph "magic speed" figure and the
+1 mph / 5 mph bracketing speeds all come from this one seminar passage
+(`5Oh3IPIC5g4`).
 
 **Single-hookup workflow on the troll.** Because a hookup is one fish at a time
 on a single-bait troll, the [double dropper

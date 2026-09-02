@@ -898,7 +898,7 @@ by their builders after the transform phase drains.
 | species/white-seabass-sliding-sinker.md | standard | fact-checked | contradicted-by-source | fact-check flag added for misattributed bite-detection cite (jig passage misapplied to slider); ledger row appended |
 | species/spotted-bay-bass-swimbaits.md | standard | escalated |  | escalated: guard: out of scope for 'review: species/spotted-bay-bass-swimbaits.md': species/spotted-bay-bass.md |
 | species/calico-bass-swimbaits.md | standard | fact-checked | contradicted-by-source(2) | fact-check pass: 2 new inline flags (contradicted-by-source) + 2 matching ledger rows, no claims reworded/deleted |
-| species/yellowtail-tube-bait-fishing.md | standard | transformed | spots(2) | removed duplicated sponsor-disclosure sentence from lead (already in evidence file + confidence field); added 2 spot-harvest rows (Cedros, Coronado Islands); check-note.py clean |
+| species/yellowtail-tube-bait-fishing.md | standard | fact-checked | single-source(3) | 3 single-source flags added (10-count sink figure, half-yo-yo demo, troll-speed figures), ledger rows appended 1:1, no claim altered |
 | lures/lingcod-specialty-baits.md | standard | skipped |  | skipped: verifier-reject: worker made no edits (note already v2-compliant), leaving no diff for verifier to check |
 | techniques/countdown-casting.md | standard | transformed | none | already v2-structured from relocation pass; added missing inline cite to one parameter bullet; check-note.py clean |
 | cluster:barracuda | cluster | pending |  | members: lures/iron-jigs.md; lures/soft-plastic-swimbaits.md; techniques/flyline.md; techniques/surface-iron.md |
