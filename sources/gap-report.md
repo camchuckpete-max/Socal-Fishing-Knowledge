@@ -4204,7 +4204,7 @@ _Totals: 2526 flagged gaps, 381 flagged stubs, 1053 unknown infobox values._
 - **locations/the-ridge.md**
   - `Getting there`: gap — a distance, bearing, run time or sea-state
   - `Structure & bathymetry`: gap — the bank's relief, bottom composition,
-  - `What's there`: gap — the only stop on record is undated | The bank's headline — "fabulous yellow tail fishing" working back up on it, with one hooked yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`). Deep-iron water, not a surface fishery |
+  - `What's there`: gap — the only stop on record is undated | The bank's headline — "fabulous yellow tail fishing" working back up on it, with one hooked yo-yoing at **180 ft, 10 ft off the bottom** (`3tQ1_xiqwVU`). Deep-iron water, not a surface fishery. ⚠ Fact-check (contradicted-by-source): the transcript places neither that drop nor a species on this bank — see [How it fishes](#how-it-fishes) |
   - `What's there`: gap — season | Not off the bank itself: the stated program is to run **outside** the ridge for kelps or floating logs and take wahoo off them (`3tQ1_xiqwVU`) — a paddy fishery in the water around it, not structure fishing on it |
   - `What's there`: gap — names any other species here. Striped marlin, the zone's headline draw, is never attached to this bank ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
   - `What's there`: gap — forage, water temperature, a colour or break
