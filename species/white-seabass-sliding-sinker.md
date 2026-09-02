@@ -88,7 +88,12 @@ rather than parking it (`Eo_bA8IWvyU`).
 
 **The bite is taken slowly.** A white seabass chomps and eats its way through a
 squid, so the set comes when the rod **loads down** rather than on the first tap
-(`Eo_bA8IWvyU`). The soft-mouth chain that follows — stretchy mono, a softer tip,
+(`Eo_bA8IWvyU`). ⚠ Fact-check (contradicted-by-source): the cited transcript's
+"loads down" bite description is given for the heavy-current jig ("they're going
+to chomp, slowly, eat it. And once that rod loads down, that's when you're going
+to want to set the hook"); its slider/sliding-egg-sinker segment describes the
+retrieve cadence only and does not state a bite-detection rule for the slider
+itself. The soft-mouth chain that follows — stretchy mono, a softer tip,
 a lighter drag — is on the router's
 [landing & handling](white-seabass.md#landing--handling).
 
