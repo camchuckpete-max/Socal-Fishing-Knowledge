@@ -410,6 +410,7 @@ Trip reports and per-source provenance:
 - [Mexican waters](mexican-waters.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
+- [San Felipe](san-felipe.md)
 - [San Quintin](san-quintin.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [The Bumps](bumps.md)
