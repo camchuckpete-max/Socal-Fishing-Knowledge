@@ -57,7 +57,12 @@ account puts the same grounds "roughly 400 miles" south of San Diego
 
 **The trip lengths that reach it are six, seven and eight days.** Fall trips
 are timed to fish Alijos Rocks and the Ridge for wahoo from October onward
-(`tjBeR9tWd4s`), and the bomb doctrine is written for "seven-day-and-longer"
+(`tjBeR9tWd4s`). ⚠ Fact-check (contradicted-by-source): that cite names no
+month — it says only "they're going to start their 6 7 8 day trips here…
+they're going to be fishing the Alijos Rocks and the ridge"; October is the
+video's upload date, not a spoken figure, and the same month is restated in
+the wahoo row of [What's there](#whats-there). The bomb doctrine is written
+for "seven-day-and-longer"
 trips reaching one ground or the other (`ETw_3AFxEcM`). Seven- and eight-day
 boats leave as early as **July** to be first on the grounds when nothing is
 biting locally, which works only if the water is already warm enough
@@ -70,7 +75,11 @@ long-range boat.
 **Regulatory — Mexico.** Mexican entry and sport-fishing paperwork applies to
 every trip that reaches here: see [Mexican waters](mexican-waters.md) and the
 region's [paperwork gate](baja-pacific-south.md#access--range). Checked as of
-2026-08; **verify current requirements before you fish**. ⚠ Flagged gap — no
+2026-08; **verify current requirements before you fish**. ⚠ Fact-check
+(unverifiable): none of this page's twelve cited sources states a Mexican
+entry, licence or sport-fishing requirement — the gate is inherited from
+[Mexican waters](mexican-waters.md), whose own agency naming is already
+ledgered. ⚠ Flagged gap — no
 corpus source: the Mexican (CONAPESCA) bag limit, size gauge, gear rule or
 closed season for wahoo, yellowfin or yellowtail on this ground
 ([regulatory claims](../sources/regulatory-claims.md)).
@@ -91,6 +100,11 @@ wahoo-bomb sink-count rule uses roughly **90–100 ft** of water as its worked
 example and warns that letting the bomb reach bottom "on structure like the
 ridge" buys a triggerfish or whitefish instead of a wahoo (`4uNPLknRAQg`) —
 which also says the bottom here holds those species. ⚠ Fact-check
+(contradicted-by-source): the quoted words are not in that cite, which says
+"you don't want to let it sink to the bottom if you're on the ridge, and you
+get a trigger fish or a white fish or some sort of bottom fish" — it names
+this ground directly rather than as one instance of a structure class, and
+the `depth_band` infobox field repeats the same quotation. ⚠ Fact-check
 (unverifiable): the two figures are never stated as the same water, and the
 ridge plausibly carries both a shallow high-spot crest and deep flanks; no
 source says so.
@@ -115,7 +129,7 @@ not a month-by-month picture.
 | species | season | what this spot does for them |
 | --- | --- | --- |
 | [Yellowfin tuna](../species/yellowfin-tuna.md) | fall — late September / early October (`_r08B4bItAY`) | The fall seven-day alternative to [Guadalupe](guadalupe.md), with yellowfin named at the upper high spot, Uncle Sam Bank, "especially during the time frame that we're down there" (`_r08B4bItAY`). The **100 lb**-class chance stated on the same trip is placed at Alijos Rocks (`_r08B4bItAY`); no grade is given for this ground |
-| [Wahoo](../species/wahoo.md) | October onward on fall trips (`tjBeR9tWd4s`); the chance is stated as "at the rocks or on the ridge or on kelp paddies down in that area" (`_r08B4bItAY`) | One of the two dedicated wahoo stops the long-range fleet runs to, and the ground the bomb and DTX doctrine are written for (`ETw_3AFxEcM`, `it_YYh_8Z-w`) |
+| [Wahoo](../species/wahoo.md) | October onward on fall trips (`tjBeR9tWd4s`) — ⚠ Fact-check (contradicted-by-source): that cite names no month, see [Getting there](#getting-there); the chance is stated as "at the rocks or on the ridge or on kelp paddies down in that area" (`_r08B4bItAY`) | One of the two dedicated wahoo stops the long-range fleet runs to, and the ground the bomb and DTX doctrine are written for (`ETw_3AFxEcM`, `it_YYh_8Z-w`) |
 | [Yellowtail](../species/yellowtail.md) | the same fall window — "famous for yellowtail" in it (`_r08B4bItAY`) | A bottom fishery here: fished on a dropper loop with a **16 oz** weight and a live sardine or mackerel (`uWGGeDOprsE`, `MPC_OQjvO-o`). Bigger and meaner than the Bight grade, over more rock, which is the stated trigger for the heavier yo-yo outfit (`RNRFrfepiW0`). No weight figure is recorded for a fish from this ground |
 | [Dorado](../species/dorado.md) | fall, on the same trips (`_r08B4bItAY`) | "A nice big dorado" comes off the kelp paddies "down in that area" rather than off the ridge itself — a paddy fishery in the same water (`_r08B4bItAY`) |
 | Black sea bass, grouper | the same fall window (`_r08B4bItAY`) | Named in the same breath as the yellowtail and yellowfin this ground is famous for. Neither carries a router note in this KB — a single thin mention, recorded as context |
@@ -157,7 +171,13 @@ On [yo-yo iron](../techniques/yo-yo-iron.md) the ground sits in the heavy
 tier: a 7X-heavy iron (`hteLeDIy9Qs`) on a two-speed Penn Fathom 40 Narrow,
 **80 lb** braid to a **60 lb** monofilament top shot and a shorter, more
 powerful **30–80 lb** rod — stepped up for big fish, wind, or trouble getting
-the jig down (`RNRFrfepiW0`).
+the jig down (`RNRFrfepiW0`). ⚠ Fact-check (contradicted-by-source): in that
+cite the big-fish / windy / can't-get-down trigger governs the JIG choice, not
+the outfit — "when the fish are big or you need to get deep because it's windy
+or… you just [are] having a problem getting to the bottom then I like to use
+that Tady 14A jig"; the reel-and-rod step-up is given for a different reason,
+that at "Ali[jos] rocks the ridge places like that the yellowtail are bigger
+and they're meaner and sometimes the water's deeper".
 
 **Terminal tackle for the trip.** Match the fluorocarbon leader to the running
 line's class or step one size above — the worked example is **40 lb**
