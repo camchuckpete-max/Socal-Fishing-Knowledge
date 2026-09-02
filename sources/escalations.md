@@ -540,3 +540,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T12:35:21Z — locations/lighthouse-point.md — check-note-failed
 - run: 33629799640
 - reason: FAIL  locations/lighthouse-point.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): *"give him a 10 count, at least 10
+
+## 2026-09-02T15:01:08Z — species/spotted-bay-bass-structure-pitching.md — check-note-failed
+- run: 33644315121
+- reason: FAIL  species/spotted-bay-bass-structure-pitching.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the 2–3 ft figure is hedged and scoped
