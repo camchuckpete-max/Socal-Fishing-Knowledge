@@ -582,5 +582,6 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — knife / speed jigging](../species/yellowtail-knife-jigging.md)
 <!-- backlinks:end -->

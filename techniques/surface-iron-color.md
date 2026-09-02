@@ -115,6 +115,19 @@ are the target. This note's chrome doctrine is light-keyed and scoped to tuna
 lead jigs (chrome in bright midday, white-accented in low light), its
 surface-iron doctrine is that colour is not the variable at all, and its only
 yellowtail line is that "colour doesn't matter" is a yellowtail saying.
+⚠ Fact-check (contradicted-internal): a second router does the same from the
+other direction — [yellowtail](../species/yellowtail.md#situations--techniques)
+cites this note for a named "yellowtail iron colors" set (scrambled egg, bird
+shit, mint, blue/white), asserted twice, in its surface-iron situation row and
+again in its Gear summary. This note holds no yellowtail colour set: mint at
+Cedros and the rest of the corpus's single-angler confidence colours are filed
+in the [evidence file](evidence/surface-iron-color.md) specifically so they are
+not read as doctrine, and the doctrine here ranks colour last behind swim and
+size/weight. Whether the router's list is a yo-yo colour set (where
+[yo-yo iron](yo-yo-iron.md#colour) does carry forage-keyed blue-and-white /
+scrambled-egg / mint doctrine) migrating onto the surface iron is unresolved;
+"bird shit" appears in neither this note nor its evidence file, only on the
+yellowtail side.
 
 ## Gear class
 

@@ -161,6 +161,15 @@ iron's 2–3 oz — heavy enough to sink fast and hold vertical in current
 
 - **60/80/100 ft:** a smaller jig (Salas 6X Jr class).
 - **120–150 ft:** a Salas 6X, roughly 5–6 oz.
+  ⚠ Fact-check (contradicted-internal):
+  [yellowtail](../species/yellowtail.md) states this ladder twice — in its
+  Situations → techniques structure row and again in its Gear summary — as a
+  **current**-keyed rule at different weights: "full-size (Salas 6X class,
+  **8 oz**) in stronger current, 6X Jr (**4 oz**) when it's light." This
+  section keys 6X vs 6X Jr to depth and puts the 6X at 5–6 oz; neither the
+  8 oz nor the 4 oz figure appears anywhere in this note. The router's
+  situations row already carries the reciprocal flag; the Gear summary copy
+  was unflagged until this pass.
 - **Real deep water** — named examples: Colonet, "the ridge," Alijos Rocks,
   Guadalupe: a 7X-heavy iron (`hteLeDIy9Qs`, `VpW91AKOFVQ`, `LTCFjqtSI8g`).
   ⚠ Fact-check (contradicted-by-source): only `hteLeDIy9Qs` names Colonet,
@@ -387,6 +396,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yo-yo-iron.md).
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Surface Iron](surface-iron.md)
+- [Surface Iron — Colour](surface-iron-color.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Bumps](../locations/bumps.md)

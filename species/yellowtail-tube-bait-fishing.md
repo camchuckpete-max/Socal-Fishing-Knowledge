@@ -179,4 +179,5 @@ multi-species provenance is in
 
 - [Evidence — Yellowtail — tube-bait fishing](evidence/yellowtail-tube-bait-fishing.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

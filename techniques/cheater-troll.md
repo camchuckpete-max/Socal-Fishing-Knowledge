@@ -54,6 +54,14 @@ The [jig-stick class](../tackle/gear-classes.md#rod--reel-classes) is
 documented elsewhere as doubling for trolling (see
 [jig stick as trolling outfit](../tackle/tackle-express-jig-stick-trolling-outfit.md)),
 but that pairing is not asserted for this technique in the corpus.
+⚠ Fact-check (contradicted-internal):
+[yellowtail](../species/yellowtail.md#situations--techniques)'s cheater-troll
+row fills its Gear class cell with "Swimbait/jig class, double-collar-keeper
+trailer" — a class term this gap says the corpus does not supply, and one the
+front matter here records as `gear_classes: unknown`. The router hands a
+planner a class the profile lookup is being told to resolve off a note that
+declines to state one; the trailer half also generalises the single **2 oz
+leadhead** the source actually names (flagged above).
 
 ## Common failures
 

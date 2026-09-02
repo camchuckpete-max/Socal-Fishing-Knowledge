@@ -257,17 +257,17 @@ current, and light, and re-read the meter instead of grinding one read.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Boiling/breezing fish, or fish on a **kelp paddy** | 1) [Surface iron — for yellowtail](yellowtail-surface-iron.md) ([general method](../techniques/surface-iron.md)) 2) [flylined bait](../techniques/flyline.md) 3) [stickbait/jerkbait](../lures/tuna-poppers-and-stickbaits.md) | Jig-stick class; 20–30 lb flyline class; 20–50 lb bass-stick class for the hard bait | Cast at the activity, watch the iron's swim; yellowtail iron colors: scrambled egg, bird shit, mint, blue/white ([surface iron — color](../techniques/surface-iron-color.md)); heavier iron (Salas 7X class) in wind to punch the cast [a] |
+| Boiling/breezing fish, or fish on a **kelp paddy** | 1) [Surface iron — for yellowtail](yellowtail-surface-iron.md) ([general method](../techniques/surface-iron.md)) 2) [flylined bait](../techniques/flyline.md) 3) [stickbait/jerkbait](../lures/tuna-poppers-and-stickbaits.md) | Jig-stick class; 20–30 lb flyline class; 20–50 lb bass-stick class for the hard bait | Cast at the activity, watch the iron's swim; yellowtail iron colors: scrambled egg, bird shit, mint, blue/white ([surface iron — color](../techniques/surface-iron-color.md)); heavier iron (Salas 7X class) in wind to punch the cast [a]. ⚠ Fact-check (contradicted-internal): [surface iron — colour](../techniques/surface-iron-color.md) carries no yellowtail colour doctrine to route to — its doctrine is that colour is not the variable (rank: swim → size/weight → colour, last), its only two deliberate colour picks are the calico kelp/open-water pair, and it files every single-angler confidence colour (mint at Cedros among them) in its evidence file precisely so it is not read as doctrine. Its one yellowtail line is that "colour doesn't matter" **is** a yellowtail saying. The same four-colour list is asserted again in the [Gear summary](#gear-summary-class-terms) |
 | **Tight balls hugging structure** (marks on hard bottom / pinnacles, ~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-speed reel | The yo-yo is the **reaction** presentation — hit bottom and burn it; the strike comes a couple cranks off the bottom. The dropper loop presents **live bait to bottom fish that aren't chasing**. Full-size iron (Salas 6X class, 8 oz) in stronger current, 6X Jr (4 oz) when it's light; vertical/flat-fall change-up 100–180 g by current (`D5DR7Kx42_A`). ⚠ Fact-check (contradicted-by-source): `D5DR7Kx42_A` names "heavy full-size jigs like Salas 6X" with no ounce weight, no 6X Jr and no current-based sizing rule — only the 100–180 g flat-fall figure is verbatim ("from 100 to 180 grams depending on the current"); the row's ~5–10 fm depth is likewise absent from that source. ⚠ Fact-check (contradicted-internal): [yo-yo iron](../techniques/yo-yo-iron.md) puts a Salas 6X at "roughly 5–6 oz" and sizes 6X vs 6X Jr **by depth**, not by current |
-| **Deep high-spot marks in current** (Baja high spots, 150–300 ft) | 1) [Slow-pitch / knife jigs](../techniques/slow-pitch-jigging.md) 2) [yo-yo iron](../techniques/yo-yo-iron.md) | Slow-pitch / knife-jig class, **130–250 g** | Knife jigs punch down fast through current to deep fish and get bumped on the fall — wind tight (`vqsD0qpwcJA`); the yo-yo owns the mid-to-lower band over ordinary structure (`HTowqnwAMeA`). The 150–300 ft band (bit best 150–180 ft) is a single-trip BOLA data point — status in the [evidence file](evidence/yellowtail.md). ⚠ Fact-check (contradicted-by-source): `vqsD0qpwcJA` packs "like 130 gram to 200 gram"; 250 g appears only as one producing jig, so 130–250 g is a merged range rather than a stated one — the same range sits in front-matter `gear_classes` and the Gear summary |
+| **Deep high-spot marks in current** (Baja high spots, 150–300 ft) | 1) [Slow-pitch / knife jigs](../techniques/slow-pitch-jigging.md) 2) [yo-yo iron](../techniques/yo-yo-iron.md) | Slow-pitch / knife-jig class, **130–250 g** | Knife jigs punch down fast through current to deep fish and get bumped on the fall — wind tight (`vqsD0qpwcJA`); the yo-yo owns the mid-to-lower band over ordinary structure (`HTowqnwAMeA`). ⚠ Fact-check (contradicted-internal): [slow-pitch jigging](../techniques/slow-pitch-jigging.md#reach-for-this-when) makes current the axis that selects *against* it — "light current / less active fish → slow-pitch; more current / more active fish → [speed jig](../techniques/knife-jigging.md)" (`M8hOYQ_6rSg`) — and separates the two methods as different jigs and different strikes ("SPJ works the fall; speed jigging rips a slender jig up"), so this row ranks slow-pitch first for a situation defined by current and justifies it in speed-jigging terms. The 150–300 ft band (bit best 150–180 ft) is a single-trip BOLA data point — status in the [evidence file](evidence/yellowtail.md). ⚠ Fact-check (contradicted-by-source): `vqsD0qpwcJA` packs "like 130 gram to 200 gram"; 250 g appears only as one producing jig, so 130–250 g is a merged range rather than a stated one — the same range sits in front-matter `gear_classes` and the Gear summary |
 | Fish **visible or metered but not eating** | [Flylined bait](../techniques/flyline.md); downsize and fish the window | 20–30 lb flyline class, stepping up by grade/structure [b] | [Hook](../tackle/hooks.md) size follows bait size: No. 2 baseline on a sardine (`fDSd9kqwYW0`, `UfuiWFVvz2E`), J hooks 1–4 downsized when picky (`F9XjGMEvvag`), 2/0–4/0 with bigger baits (`yGXSrUauo2w`); plan the day around the tide/current window. ⚠ Fact-check (contradicted-by-source): `UfuiWFVvz2E` states no hook size at all (only "J hooks for the yellowtail"), and `fDSd9kqwYW0`'s ASR reads "a two on hook" / "a two odd hook" — as plausibly 2/0 as No. 2 |
 | **Prospecting an unworked zone** — no sign, no recent report | [Troll](../techniques/trolling.md#socal-local-coast--trolling-hard-baits-to-prospect-a-zone-for-yellowtail) diving hard baits to cover water | Flyline outfit tows 20–30 ft divers; dedicated 6–7 ft troll outfit for 40 ft divers (`HTowqnwAMeA`) | Carry a spread of colors, styles, and dive depths — fish key on presentation, depth, or vibration on any given day (`HTowqnwAMeA`) [c] |
 | **Resident fish over known shallow structure** (Cedros-class zones, 28–30 ft crests) | [Slow-trolled live giant mackerel](../techniques/trolling.md) on a circle hook, worked over the structure | 40 lb line-class floor, 50 lb for most of it ([line & leader](../tackle/line-and-leader.md)) | A standing program over a known rock, not a locate method; no strike — wind tight on the circle hook and back the boat down (`QSmE3mdEL28`). A heavier single-crew bracket is in the [evidence file](evidence/yellowtail.md) |
-| **A trolled rod gets bit** | Keep the other trolled rod working and cast a surface iron/stickbait into the same water while the first fish is fought | Jig-stick class for the follow-up cast | Yellowtail school, so a troll strike means more fish are under the boat — from any boat; a generic 1.5–2 oz jig is the standing follow-up cast (`jo8lMdFZ1bk`); the two-angler version is [panga team trolling](../techniques/panga-team-trolling.md). ⚠ Fact-check (contradicted-by-source): `jo8lMdFZ1bk` scopes the drill to a three-man panga ("it's three people, a panga, down there"), not to any boat, and its 1.5–2 oz weight belongs to a Hookup Baits tube jig ("ounce and a half, 2 oz, I call these things the stupid tube"), separate from the stickbait/surface-iron follow-up cast |
+| **A trolled rod gets bit** | Keep the other trolled rod working and cast a surface iron/stickbait into the same water while the first fish is fought | Jig-stick class for the follow-up cast | Yellowtail school, so a troll strike means more fish are under the boat — from any boat; a generic 1.5–2 oz jig is the standing follow-up cast (`jo8lMdFZ1bk`); the two-angler version is [panga team trolling](../techniques/panga-team-trolling.md). ⚠ Fact-check (contradicted-internal): [panga team trolling](../techniques/panga-team-trolling.md) is a **three**-angler program — one fights, a second winds the other trolled rod in, a third casts — and its "reach for this when" gates on three anglers aboard, so "the two-angler version" names a configuration that note does not carry. ⚠ Fact-check (contradicted-by-source): `jo8lMdFZ1bk` scopes the drill to a three-man panga ("it's three people, a panga, down there"), not to any boat, and its 1.5–2 oz weight belongs to a Hookup Baits tube jig ("ounce and a half, 2 oz, I call these things the stupid tube"), separate from the stickbait/surface-iron follow-up cast |
 | **Bonita or similar intercepting flylined baits** before they reach the yellowtail | [Sliding sinker](../techniques/sliding-sinker.md) instead of flyline — the weight carries the bait under the interceptor layer | 30 lb live-bait class, 12–22 lb grade | 2–4 oz egg sinker straight to a J hook (2/0–4/0), scaled to wind/depth (`yGXSrUauo2w`); full build in [Searcher sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md). ⚠ Fact-check (contradicted-by-source): `yGXSrUauo2w` shows four weights — "this little one is just a one" plus "2 oz, 3 oz and 4 oz respectively" — so the floor is 1 oz, not 2 |
 | **Hard wind (20–25 kt+) after a run of surface days** — fish metered, not showing | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [surface iron](../techniques/surface-iron.md) as a picker | 40–60 lb yo-yo class | The fleet bite goes mostly yo-yo; the iron still picks a fish — a re-rank, not an abandonment (`ejUTAnONf7o`) |
 | Working a **tube bait** instead of iron — on top or down | [Tube baits](../techniques/tube-bait-fishing.md#yellowtail-surface-pop-retrieve-and-a-half-yo-yo-variant) — surface crank-pop cadence, or the half-yo-yo when fish aren't showing | 8 ft parabolic-bend class, 40 lb+ | Pop-retrieve is easier on spinning gear; downsize to 5/8 oz on follows with no takes; sourcing caveats in the technique note |
-| **Dead time on a live-bait sportboat** between stops | [Cheater troll](../techniques/cheater-troll.md) — one spare rod slow-dragged off the side or back | Swimbait/jig class, double-collar-keeper trailer | An opportunistic one-rod sneak, not a program: stay clear of the live-bait rotation and the boat's own trolling gear — a rail-wide version would be a mess (`NXvqLUZ6qp8`). ⚠ Fact-check (contradicted-by-source): the window in `NXvqLUZ6qp8` is a troll hookup while the rail queues at the bait tank ("everybody else is standing by the bait tank waiting to give bait, so I will go over to the side"), not dead time between stops; the source says captains are fine with it "as long as you know what you're doing", never that a rail-wide version would be a mess |
+| **Dead time on a live-bait sportboat** between stops | [Cheater troll](../techniques/cheater-troll.md) — one spare rod slow-dragged off the side or back | Swimbait/jig class, double-collar-keeper trailer ⚠ Fact-check (contradicted-internal): [cheater troll](../techniques/cheater-troll.md#gear-class)'s own Gear class section is a flagged gap — "no corpus source: the seminar names no rod/reel class," only "a spare rod already rigged" — and it carries `gear_classes: unknown` in front matter, so this cell hands a planner a class term that note says the corpus does not supply | An opportunistic one-rod sneak, not a program: stay clear of the live-bait rotation and the boat's own trolling gear — a rail-wide version would be a mess (`NXvqLUZ6qp8`). ⚠ Fact-check (contradicted-by-source): the window in `NXvqLUZ6qp8` is a troll hookup while the rail queues at the bait tank ("everybody else is standing by the bait tank waiting to give bait, so I will go over to the side"), not dead time between stops; the source says captains are fine with it "as long as you know what you're doing", never that a rail-wide version would be a mess |
 
 [a] The stickbait/jerkbait (Colt Sniper class) is the visual, high-action
 alternative; no distinct retrieve is documented beyond casting to the boil.
@@ -289,6 +289,14 @@ shallow-rock fish that lighter line lost (`_r_qKX_7080`).
 swimbait trolled at 3–4 mph as the locating speed, vs ~1 mph slow-trolled
 sardines or ~5 mph on a faster lure — promotional-seminar sourcing; detail in
 [tube-bait fishing](../techniques/tube-bait-fishing.md#trolling-to-locate-yellowtail-chad-hookup-baits-co-owner-5oh3ipic5g4).
+⚠ Fact-check (contradicted-internal): stale routing left behind by a
+relocation — [tube-bait fishing](../techniques/tube-bait-fishing.md) holds no
+"Trolling to locate yellowtail" section any more (and no trolling content at
+all; its own yellowtail section forwards the program out), so this anchor
+lands nowhere. The 3–4 mph locating speed, the ~1 mph slow-trolled-sardine and
+~5 mph faster-lure comparators, and the single-rod workflow now live in
+[yellowtail — tube-bait fishing](yellowtail-tube-bait-fishing.md), which the
+sub-article itself names as a delta the general note does not carry.
 
 The rows are starting ranks, not exclusive routes — the faces are states, so
 re-read water temperature and bait depth before committing the day to one
@@ -308,6 +316,13 @@ presentation.
 - **Yo-yo:** stout **40–60 lb class** rod with a **high-speed reel** to burn
   a heavy iron off the bottom — full-size (Salas 6X class, 8 oz) in stronger
   current, 6X Jr (4 oz) when it's light.
+  ⚠ Fact-check (contradicted-internal): [yo-yo iron](../techniques/yo-yo-iron.md#jig-size--depth)
+  puts a Salas 6X at **roughly 5–6 oz** (against a surface iron's 2–3 oz) and
+  sizes 6X vs 6X Jr by **depth** — 6X Jr at 60/80/100 ft, a 6X at 120–150 ft,
+  a full-size 6X-class iron at 150–250 ft — never by current, and names no
+  8 oz or 4 oz figure. The same weights and the same current-keyed rule are
+  asserted in the Situations → techniques row above, where the disagreement is
+  already flagged; this is the second, unflagged copy.
 - **Dropper loop:** the same heavy-class rod, live bait on a
   [dropper loop rig](../techniques/dropper-loop.md).
 - **Slow-pitch:** a parabolic slow-pitch/knife-jig setup matched to
@@ -503,6 +518,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cedros West End ("Jurassic Park")](../locations/cedros-island-west-end.md)
 - [Channel Islands](../locations/channel-islands.md)
+- [Cheater Troll](../techniques/cheater-troll.md)
 - [Chester's Rock](../locations/chester-s-rock.md)
 - [Colonet](../locations/colonet.md)
 - [Coronado Islands](../locations/coronado-islands.md)
@@ -575,6 +591,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Northwest Harbor](../locations/northwest-harbor.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](../techniques/panga-team-trolling.md)
 - [Point Loma](../locations/point-loma.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Punta Banda / Santo Tomas](../locations/punta-banda-santo-tomas.md)
@@ -616,6 +633,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Southern California Bight](../locations/socal-bight.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
@@ -630,6 +648,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Thetis Bank](../locations/thetis-bank.md)
 - [Trolling](../techniques/trolling.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Two Harbors](../locations/two-harbors.md)

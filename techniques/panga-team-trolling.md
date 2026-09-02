@@ -27,6 +27,12 @@ bank or island.
 
 - Trolling for yellowtail from a small Baja panga running **two trolled
   rods** with **three anglers** aboard, and one trolled rod gets bit.
+  ⚠ Fact-check (contradicted-internal):
+  [yellowtail](../species/yellowtail.md#situations--techniques)'s "a trolled
+  rod gets bit" row calls this note "the two-angler version" — a headcount
+  this note does not carry, and one that cannot run the role split below,
+  which needs a fighter, a second angler to wind the other trolled rod, and a
+  third to make the follow-up cast.
 
 ## Mechanics — role split on the hookup
 

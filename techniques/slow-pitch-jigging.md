@@ -51,6 +51,16 @@ side. Execution only; species and situations are the reverse map in
   bottom and not super active — current-and-activity is the decision axis
   down there: light current / less active fish → slow-pitch; more current /
   more active fish → [speed jig](knife-jigging.md) (`M8hOYQ_6rSg`).
+  ⚠ Fact-check (contradicted-internal):
+  [yellowtail](../species/yellowtail.md#situations--techniques) ranks this
+  note **first** for a row whose stated condition is "deep high-spot marks
+  **in current** (Baja high spots, 150–300 ft)" — the side of this axis that
+  selects for speed jigging — and reasons the pick in speed-jigging terms
+  ("knife jigs punch down fast through current"), collapsing the
+  SPJ-vs-knife/speed distinction this note's Reach-for-this-when list is
+  built on. The row's own cite (`vqsD0qpwcJA`) is the single BOLA
+  wing-fall data point logged under Jig weight & selection, which this note
+  marks as one trip, not doctrine.
 - On Ensenada's Pacific side, a slow-pitch stop over a sounder-marked rocky
   bottom at roughly 300 ft — worked after a yellowtail stop went quiet — drew
   bites on the same fall-flutter mechanics as the Sea-of-Cortez case above,

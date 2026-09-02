@@ -256,6 +256,16 @@ the troll-to-locate speed with its single-rod workflow are in
 Note that the [double-bait dropper rig](#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft)
 above is deliberately not used for yellowtail.
 
+⚠ Fact-check (contradicted-internal): stale routing left behind by that
+relocation — [yellowtail](../species/yellowtail.md)'s footnote [c] still sends
+its troll-to-locate readers to a
+`tube-bait-fishing.md#trolling-to-locate-yellowtail-chad-hookup-baits-co-owner-5oh3ipic5g4`
+section that no longer exists here, for the 3–4 mph locating speed and its
+~1 mph slow-trolled-sardine / ~5 mph faster-lure comparators. This note holds
+no trolling content at all, and the sub-article names trolling as a delta the
+general note does not carry, so the anchor cannot be restored by adding a
+heading — the router's link belongs on the sub-article.
+
 ## Tuna: patties, boils, and punching through a skipjack layer
 
 **Checking a kelp paddy without spending live bait:** fire a **1 oz bullet**
