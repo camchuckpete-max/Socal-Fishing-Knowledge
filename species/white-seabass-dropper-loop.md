@@ -93,8 +93,15 @@ tip and a lighter drag than usual. The general fight and landing chain is in
   A wider, unreconciled torpedo range for the same Channel Islands drop is kept
   in [dropper loop](../techniques/dropper-loop.md#building-the-rig).
 - **Hook: an Owner Ahi twist long-shank J in 50–70** — a long shank sized to
-  pin a whole fresh-dead squid (`Eo_bA8IWvyU`). Where every fish is going back
-  alive, the substitution is a **circle hook** — see
+  pin a whole fresh-dead squid (`Eo_bA8IWvyU`). ⚠ Fact-check
+  (contradicted-by-source): `Eo_bA8IWvyU` never says "Ahi" — it consistently
+  renders the hook as "Owner Oy twist" ("This is an Owner Oy twist"; "Grab our
+  owner Oy twist hook"). The name "Ahi twist hook" is instead spoken in
+  `Y2bXn44lfqo` ("the slight neck sinker with Ahi twist hook"), a source cited
+  elsewhere in this note for the circle-hook conflict, not for this hook-name
+  claim; see the same naming issue already ledgered on
+  [dropper loop](../techniques/dropper-loop.md#building-the-rig). Where every
+  fish is going back alive, the substitution is a **circle hook** — see
   [Doctrine & conflicts](#doctrine--conflicts) (`Y2bXn44lfqo`).
 - **Leader geometry: about 4 ft from sinker to hook**, with the hook on a
   **8–12 to 16 in** tag off the loop (`Eo_bA8IWvyU`), or **12–18 in** above the

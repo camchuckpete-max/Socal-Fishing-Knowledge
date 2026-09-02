@@ -886,7 +886,7 @@ by their builders after the transform phase drains.
 | species/spotted-bay-bass-bottom-jig-crawl.md | standard | fact-checked | none | verified, no issues found: quotes/stats verified verbatim, no unflagged numeric claims |
 | species/striped-marlin-trolling.md | standard | fact-checked | contradicted-by-source(3) | 3 contradicted-by-source flags added: clear/clean water misquote, jig-strike tide-timing co-cite overreach, dropped 'if you're lucky' hedge on hookup ratio |
 | species/wahoo-live-bait.md | standard | escalated |  | escalated: guard: out of scope for 'review: species/wahoo-live-bait.md': species/wahoo.md |
-| species/white-seabass-dropper-loop.md | standard | transformed | none | verifier confirmed compliance, fixed two v2.1 prose-hygiene defects (self-narration filler, corpus-attribution preamble) |
+| species/white-seabass-dropper-loop.md | standard | fact-checked | contradicted-by-source(1) | 1 contradicted-by-source flag: hook name cited to Eo_bA8IWvyU (which says Owner Oy twist) actually belongs to Y2bXn44lfqo (Ahi twist), mis-scoped cite |
 | species/white-seabass-leadhead-squid.md | standard | transformed | none | already layout-v2 compliant, no changes needed; verifier confirmed conservation and drift checks pass |
 | species/yellowfin-tuna-flyline.md | standard | transformed | spots(1) | verified already-compliant, no note changes; appended and verified spot-harvest row (Coronado Islands) |
 | species/yellowfin-tuna-trolling.md | standard | transformed | spots(4) | verified already-compliant, no note changes; appended 4 accurate spot-harvest rows |
