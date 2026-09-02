@@ -43,7 +43,11 @@ is fish *showing* on top.
 yellowtail bite quit inside the first two hours of the day, the crew ran in
 tight to the beach, fished calico on a downsized iron, and waited for the
 yellows to reappear — the fish are thick enough there that "it's raining
-calicos out here" (`IdMJnlg_rZk`, `2cxeg_AE418`). The same relationship runs
+calicos out here" (`IdMJnlg_rZk`, `2cxeg_AE418`). ⚠ Fact-check
+(contradicted-by-source): `IdMJnlg_rZk` does not contain this quote at all;
+it appears only in `2cxeg_AE418`, said while spotting a calico school in 68 ft
+of water during ongoing yellowtail action, not during a mid-day lull or a run
+to the beach. The same relationship runs
 the other way on the same island: on a deliberate yellowtail push the calico
 came so freely on the iron they were a nuisance — "pesky 5-pound calicoes…
 putting off my 50-pound yellow" (`3SATCeA3KaU`).
@@ -55,7 +59,10 @@ general method, not a calico change.** Calico are the stated case for
 **slow-to-medium**, because cranking fast makes the jig skip out of the water
 instead of swimming through it (`3dVc-2rsYII`), with the corollary that you
 cannot out-wind them anyway: "calico bass can chase down the lure faster than
-you can [reel]" (`Ec2GaNpiOHI`). Both already sit in
+you can [reel]" (`Ec2GaNpiOHI`). ⚠ Fact-check (contradicted-by-source): the
+transcript's actual (ASR-garbled) wording after "faster than you can" is
+"blazes through great shape though," not "reel" — the bracketed word is an
+editorial guess, not confirmed in the source. Both already sit in
 [surface iron — working the retrieve](../techniques/surface-iron.md#working-the-retrieve),
 as do the change-ups the kelp-line grind uses — a slow, wide, drawn-out kick
 for slack current or a picky bite, a smaller iron worked medium-to-high as the
