@@ -40,11 +40,17 @@ into it.
 ## Close the bail the moment it lands
 
 Most break-wall faces sit at roughly a **45°** angle underwater, following the
-rock pile's natural angle of repose. Casting a lead-head or plastic onto the
-wall and lifting the rod tip to "let it sink" drops slack line straight into
-the rock pile — the bait falls into a gap and hangs up; fished that way, a
-guide working the wall hard can burn through "two dozen [jig] heads in a
-couple hours." The fix: **close the bail the instant the lure hits the
+rock pile's natural angle of repose. ⚠ Fact-check (single-source): one
+speaker's description of the walls he fishes ("everywhere on the wall is at
+an angle almost a 45 degree angle," `RUuPNpK0x-s`), generalized here to "most
+break-wall faces"; no second source measures wall angle. Casting a lead-head
+or plastic onto the wall and lifting the rod tip to "let it sink" drops slack
+line straight into the rock pile — the bait falls into a gap and hangs up;
+fished that way, a guide working the wall hard can burn through "two dozen
+[jig] heads in a couple hours." ⚠ Fact-check (single-source): verified
+verbatim ("they go through two dozen heads in a couple hours," `RUuPNpK0x-s`)
+but corroborated nowhere else; the note repeats this figure in Common
+failures below. The fix: **close the bail the instant the lure hits the
 water.** With the bail already closed, the retrieve follows the wall's angled
 contour back toward the boat/shore instead of dropping straight down — it may
 bump the rock once or twice on the way in but does not bury itself in a
