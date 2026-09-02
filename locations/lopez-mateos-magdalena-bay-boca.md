@@ -66,6 +66,13 @@ the bay's gray-whale season (whales arriving "about mid-January",
 `EcQK5elTPJE`) puts any restriction on traffic through the mouth
 ([zone page](bahia-magdalena-lopez-mateos.md#getting-there)).
 
+⚠ Fact-check (contradicted-by-source): the whale identification. `EcQK5elTPJE`
+says "the wh[ales] show up in about I think about mid January they['re] there
+now" and names no species — "gray" and the unhedged date are not in the
+transcript. Already queued for external verification on
+[the zone page](bahia-magdalena-lopez-mateos.md); logged in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 ## Structure & bathymetry
 
 **One depth is the whole of what is measured: 40–50 ft** (`EcQK5elTPJE`).
@@ -73,6 +80,19 @@ That puts the boca at the bottom of the bay's inside ladder — the mangrove
 interior at **12–15 ft** falling to about **2 ft** in the roots, the
 [estuary channel](magdalena-bay-estuary-channel.md) at **25–30 ft**, and this
 mark at **40–50 ft** (`EcQK5elTPJE`, `isXJONlpUP4`).
+
+⚠ Fact-check (contradicted-by-source): the **25–30 ft** rung and the joint cite
+behind the ladder. `EcQK5elTPJE` never states 25–30 ft — the only depths in it
+are 40–50 ft, 12–15 ft and 2 ft. In `isXJONlpUP4` the figure is a hedged
+sounding under the panga ("how deep enrique is it here is probably 25 30 foot")
+that the same transcript then distinguishes from the channel ("hit it past the
+channel"), which is how both
+[the estuary channel page](magdalena-bay-estuary-channel.md) and
+[the snook router](../species/snook.md#where--when) cite it —
+`isXJONlpUP4` alone. `EcQK5elTPJE`'s **40–50 ft** is also spoken in one breath
+with the estuary ("40 50 ft water the est[uary] there right outside the boka,
+boka's the mouth"), so narrowing it to the boca alone is the KB's. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 **There is hard structure down there and it is what costs you fish.** A
 single-speed reel means "breaking off all day" against the structure at this
@@ -102,9 +122,21 @@ with no month-by-month pattern recorded, and the inside fishing generally is
 called "phenomenal" through the winter (`EcQK5elTPJE`); neither claim is
 narrowed to this mark.
 
+⚠ Fact-check (contradicted-by-source): both halves, and the "no pattern"
+reading. In `EcQK5elTPJE` the year-round line is said of the bay's fishery as a
+whole — "there is no time that it doesn't bite", "fish b[ite] there all year
+long" — never of snook; "phenomenal" attaches to grouper specifically ("the
+grouper fishing is phenomenal in the winter"), not to inside fishing generally;
+and the same talk does give a pattern, which "no month-by-month pattern
+recorded" denies: "the best time [of] year to go guys is from about mid
+September till about the end of December". Already flagged on
+[the zone page](bahia-magdalena-lopez-mateos.md) and carried on
+[the snook router](../species/snook.md). Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Snook](../species/snook.md) | bite year-round in this bay, no month-by-month pattern given (`EcQK5elTPJE`) | The bay's big-fish program. **42 lb** was the best of one day and snook **over 20 lb** are named as the reason to run out here at all, against the "little" and "baby" fish the mangrove roots produce (`EcQK5elTPJE`). Execution: [snook — sliding sinker](../species/snook-sliding-sinker.md) |
+| [Snook](../species/snook.md) | bite year-round in this bay, no month-by-month pattern given (`EcQK5elTPJE`) | The bay's big-fish program. **42 lb** was the best of one day and snook **over 20 lb** are named as the reason to run out here at all, against the "little" and "baby" fish the mangrove roots produce (`EcQK5elTPJE`). Execution: [snook — sliding sinker](../species/snook-sliding-sinker.md). ⚠ Fact-check (contradicted-by-source): "over 20 lb" is said inside a personal bucket-list recap — "I got my Marlin, I got my snook over 20 lb, I got my gr[oup]er … 100 lb" — not as the reason to run to the boca; and neither "little" nor "baby" is said of mangrove snook anywhere in `EcQK5elTPJE`. Already flagged on [snook — sliding sinker](../species/snook-sliding-sinker.md) and [the snook router](../species/snook.md) |
 | Grouper, species never named — to **100 lb** | inside fishing "phenomenal" through winter (`EcQK5elTPJE`) | Comes off the same drop as the snook, and the tackle is sized for the grouper rather than for the snook (`EcQK5elTPJE`). It is **not** assumed to be [cabrilla](../species/cabrilla.md) — different region, different program, much smaller fish. ⚠ Flagged stub — no corpus source yet for a grouper router |
 | Everything else | — | ⚠ Flagged gap — no corpus source names another species at this mark. The bay's headline fisheries — [striped marlin](../species/striped-marlin.md), [wahoo](../species/wahoo.md), [dorado](../species/dorado.md), tuna — are run *through* the boca to water outside it, never fished at it ([zone page](bahia-magdalena-lopez-mateos.md#whats-there)) |
 
@@ -136,6 +168,18 @@ broke off, and the leader was walked up through **60, 80, 100 and finally
 straightened out by fish at the top of this grade (`EcQK5elTPJE`); see
 [hooks](../tackle/hooks.md) and
 [line & leader](../tackle/line-and-leader.md).
+
+⚠ Fact-check (contradicted-by-source): the progression is not stated as the
+origin of the **100–130 lb** spec, and no fish is said to be landed at 130 lb.
+In `EcQK5elTPJE` the 60→80→100→130 lb anecdote (~00:16:23) sits about 26
+minutes before the 6 ft / 100–130 lb rig spec (~00:42:38–00:43:23), the source
+never ties the two together, and the spec passage instead reports still
+breaking off on "100 to 130 lb test". The straightened **4X** hooks are also
+never attributed to a fish size in the transcript, so "at the top of this
+grade" is the KB's. Already flagged on
+[snook — sliding sinker](../species/snook-sliding-sinker.md) and
+[the snook router](../species/snook.md). Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 **Which fish you have is readable off the strike.** A snook comes **up**
 toward the boat and starts taking drag against the locked setting once it is
