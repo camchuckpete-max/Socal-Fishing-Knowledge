@@ -95,6 +95,15 @@ re-drop from the surface (`O5aQkex0qGg`).
   the thin braid is what gets a jig straight down in 300 ft or more and leaves
   enough spool diameter to crank it back (`O5aQkex0qGg`); the full outfit is in
   [rockfish & lingcod — gear summary](rockfish-lingcod.md#gear-summary-class-terms).
+  ⚠ Fact-check (contradicted-by-source): the cite names two separate rods — a
+  710H "heavy swimbait rod" used for cows, sand bass, breakwall and shallow
+  (<300 ft) rockfish, and a distinct graphite-composite "heavy extra heavy
+  bass rod" (Rain Shadow Judd 810ML, paired with a Fathom 400 reel) that the
+  speaker calls out by name ("your heavy bass rod is perfect for this stuff")
+  for the deeper-water rockfish/heavy-jig setup; this bullet labels the
+  jig-specific bass rod with the same "swimbait/rockfish class" term the
+  gear-classes lexicon and the router's gear summary use for the other (710H)
+  rod.
 - **Iron — 6 oz Ahi-Assault class**, the middle size in that line ("six ounce or
   maybe an eight ounce" — self-hedged on camera), green mackerel and blue among
   the colours, all of which are said to work (`O5aQkex0qGg`). Class detail:
