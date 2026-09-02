@@ -45,6 +45,12 @@ exists to protect the fishery and the local community (`qri15R3caYE`).
 on record flew out through the **CBX cross-border crossing** — presented on
 camera as an easy option for getting into Mexico — and then drove straight to
 the camp with Baja Fishing Convoys (`qri15R3caYE`, `Cobp85UvHmM`).
+⚠ Fact-check (contradicted-by-source): the outfitter is never called "Baja
+Fishing Convoys" in either cite — the on-camera introduction is "I'm with AHA
+fishing convoys and we're going to lava" (`qri15R3caYE`, @00:03:00, ASR) and
+`Cobp85UvHmM` says only "fishing convoys" (@00:00:05, @00:19:16). The "Baja"
+element appears nowhere in the corpus. The fly-then-drive access and the convoy
+itself both verify; only the company name does not.
 Accommodation is **eight cabins on the beach**, and the boats launch off that
 same beach at sunrise (`qri15R3caYE`). ⚠ Flagged gap — no corpus source: the
 road route and drive time from the airport, fuel, or any harbor or ramp
@@ -67,6 +73,14 @@ local rules are set on top of those by the co-op (`Cobp85UvHmM`). Checked as of
 differing from a California one is two jurisdictions, not a conflict. Verify
 current requirements before you fish
 ([Mexican waters](mexican-waters.md)).**
+⚠ Fact-check (unverifiable): `Cobp85UvHmM` names no agency, licence, permit or
+entry requirement anywhere — the only regulatory-adjacent content in it is the
+co-op's own keep limit ("the coop teamwork… allowing us only to keep one group
+or each", @00:23:04), which is never framed as sitting on top of federal rules.
+The agency split is inherited from [Mexican waters](mexican-waters.md), where a
+row already records that its own cites never say CONAPESCA. Same class as the
+rows standing on [Baja Pacific — South](baja-pacific-south.md) and
+`locations/isla-espiritu-santo.md`.
 
 **The co-op sets a keep limit on top of the federal rules.** The visiting group
 was allowed to keep **one grouper each** (`Cobp85UvHmM`) — a co-op agreement,
@@ -106,11 +120,11 @@ other than that single winter trip.
 
 | species | season | what the spot does for them |
 | --- | --- | --- |
-| [yellowtail](../species/yellowtail.md) | 2018-02 uploads (`qri15R3caYE`, `Cobp85UvHmM`); the Baja coastal-structure frame from Ensenada down to La Bocana is more or less year-round, grade improving south (cameron) | The inshore rock in 25–30 ft is a [surface iron](../techniques/surface-iron.md) fishery — "yellows on the surface iron always", per the crew (`Cobp85UvHmM`). Part 1 of the trip only missed a couple of big fish on the iron; part 2 connected on multiple fish on the same structure (`qri15R3caYE`, `Cobp85UvHmM`) |
-| [barracuda](../species/barracuda.md) | 2018-02 uploads (`qri15R3caYE`) | The inshore band is named for them. Jigs fished to roughly **80 ft** on the rock drew a hookup "every single drop" (`qri15R3caYE`) |
-| [calico bass](../species/calico-bass.md) | 2018-02 uploads (`qri15R3caYE`) | Volume with grade — the bite graded up through one session from repeated **5 lb** fish "one after another" to a **9 lb** fish, short of the double-digit mark hoped for (`qri15R3caYE`). This is the southern end of the Baja Pacific 4–9 lb calico belt that runs down from Cedros (`NGxyOlPx3ug`, `qri15R3caYE`) |
+| [yellowtail](../species/yellowtail.md) | 2018-02 uploads (`qri15R3caYE`, `Cobp85UvHmM`); the Baja coastal-structure frame from Ensenada down to La Bocana is more or less year-round, grade improving south (cameron) | The inshore rock in 25–30 ft is a [surface iron](../techniques/surface-iron.md) fishery — "yellows on the surface iron always", per the crew (`Cobp85UvHmM`). Part 1 of the trip only missed a couple of big fish on the iron; part 2 connected on multiple fish on the same structure (`qri15R3caYE`, `Cobp85UvHmM`) — ⚠ Fact-check (contradicted-by-source): the missed fish are verbatim in `qri15R3caYE` ("we missed a couple big yellows coming through on the surface iron"), but yellowtail also appear in **both** of that day's on-camera species tallies ("Sierra yellowtail Barracuda calico bass grouper needlefish"; "yellowtail sand bass Barracuda calico bass… Bonita… five different species all in one day"), so "only missed" understates part 1. The transcript never says which presentation landed them |
+| [barracuda](../species/barracuda.md) | 2018-02 uploads (`qri15R3caYE`) | The inshore band is named for them. Jigs fished to roughly **80 ft** on the rock drew a hookup "every single drop" (`qri15R3caYE`) — ⚠ Fact-check (contradicted-by-source): "every single drop" is not the transcript's wording; the captions render the two drops "every single draw" and "every single saw" ("about 80 feet down here every single saw made again just like that"). The sense is clearly a hookup per drop, but the quotation marks assert wording the source does not carry, and the phrase is tied to the Savage squid ("squish") jig. "about 80 feet" is verbatim. The same flag already stands on [Baja Pacific — South](baja-pacific-south.md) and `species/barracuda.md` |
+| [calico bass](../species/calico-bass.md) | 2018-02 uploads (`qri15R3caYE`) | Volume with grade — the bite graded up through one session from repeated **5 lb** fish "one after another" to a **9 lb** fish, short of the double-digit mark hoped for (`qri15R3caYE`). This is the southern end of the Baja Pacific 4–9 lb calico belt that runs down from Cedros (`NGxyOlPx3ug`, `qri15R3caYE`) — ⚠ Fact-check (contradicted-by-source): the 4–9 lb weights verify (`NGxyOlPx3ug`: "nine Pounders 8 Pounders 7 Pounders", "about a four pounder"), but **Cedros appears in neither cite** — `NGxyOlPx3ug` is a skiff trip to "Donal / Dono Island" (ASR) and `qri15R3caYE` is La Bocana. Neither transcript states a north–south belt or an endpoint. The identical flag already stands on [calico bass](../species/calico-bass.md) |
 | [bonito](../species/bonito.md) | 2018-02 uploads (`qri15R3caYE`) | Part of the inshore mixed bag, some of them big (`qri15R3caYE`) |
-| [dorado](../species/dorado.md) | 2018-02 uploads (`Cobp85UvHmM`) | The offshore payoff. Working birds **25 miles** out led to a school that "sunk down" in only about **60 ft**, producing a multi-angler "fire drill" with three fish hooked in a row (`Cobp85UvHmM`) |
+| [dorado](../species/dorado.md) | 2018-02 uploads (`Cobp85UvHmM`) | The offshore payoff. Working birds **25 miles** out led to a school that "sunk down" in only about **60 ft**, producing a multi-angler "fire drill" with three fish hooked in a row (`Cobp85UvHmM`) — ⚠ Fact-check (contradicted-by-source): the birds, the sunk-down dorado school and the 60 ft call are verbatim ("we had a school of dorado sink down", "it's only 60 feet deep son"), and so are the fire drill and the run of three ("is this fire drill number one baby", "that's round two again… that's three in a row right there"). But **none of the three is identified as a dorado on camera** — the only species called during the sequence is a yellowtail ("I think you got yourself the right kind bro huh yeah Jenna tail", ASR). Attributing the three-fish run to this row's species is the KB's inference |
 | sand bass, sierra, grouper, needlefish | 2018-02 uploads (`qri15R3caYE`, `Cobp85UvHmM`) | Named on camera as part of the inshore mixed bag and as the fish you get past on the way to a good yellowtail; no router note covers them at this region, so they are recorded here as context rather than linked |
 
 **Tuna, marlin and wahoo are the stated offshore targets, not documented
@@ -119,7 +133,16 @@ plus a third target heard on camera as "wasps" — asr-uncertain, read as wahoo
 against the stated trip target (`Cobp85UvHmM`). One hookup was lost when a
 tuna-rigged hook popped, and the
 crew speculated on camera — without confirming — that it may have been a
-marlin. Nothing offshore but the dorado was landed on camera. Execution for
+marlin. ⚠ Fact-check (contradicted-by-source): "wasps" is in `Cobp85UvHmM`, but
+not in the company this sentence puts it in — the line is "we're gonna go out
+and try to get some wasps and brought us some yellowtail" (@00:02:17), pairing
+it with yellowtail, while "tuna grounds" (@00:03:37) and "now we do Marlins
+here" (@00:05:24) come later and separately. The three-target list is the KB's
+assembly, not a single on-camera statement; the wahoo reading of "wasps" is
+itself unconfirmed. The lost-hookup detail verifies verbatim ("it was a tuna
+hook that was for tuna", "is that a big Marlin"). The same three-target framing
+is carried on [trolling](../techniques/trolling.md).
+Nothing offshore but the dorado was landed on camera. Execution for
 the run itself is in [trolling](../techniques/trolling.md).
 
 ## How it fishes
@@ -128,7 +151,15 @@ the run itself is in [trolling](../techniques/trolling.md).
 in the morning for the pelagic chance, then finish inshore on the rock
 (`Cobp85UvHmM`). The inshore ground is what actually produced across both parts
 of the trip, so it is the fallback that always has something on it while the
-25-mile run is the swing.
+25-mile run is the swing. ⚠ Fact-check (contradicted-by-source): the documented
+day does not *finish* on the rock — `Cobp85UvHmM` states the plan as offshore,
+then "rallying up back in Shore with the rest of the gang whaling on some more
+fish **and sneaking inside and fishing the estuary**" (@00:00:24), and its
+closing fishing footage is the Estero ("radical spotties and little groupers in
+the Estero", @00:22:37). The offshore-then-inshore-rock order verifies; the
+last stop of the day is the estuary, which this page routes to its own page
+rather than counting in the day order. The same order is asserted twice on this
+page.
 
 **The offshore find is made on birds, not on structure.** With no bank or high
 spot named out there, the dorado school was found by breaking off the run to
@@ -146,7 +177,13 @@ sierra cruising alongside, and the crew stayed on the
 [surface iron](../techniques/surface-iron.md) anyway (`Cobp85UvHmM`); the same
 rock gave up barracuda on jigs dropped to about 80 ft on the earlier day
 (`qri15R3caYE`). Plastics and surface iron are the two presentations the corpus
-records here (`qri15R3caYE`).
+records here (`qri15R3caYE`). ⚠ Fact-check (contradicted-by-source): the same
+transcript records **four**, not two — the stated plan is "some plastics some
+surface iron squish jigs… we know the baits gonna get bit for sure", live bait
+is made and fished ("the boys making bait… getting some bait in the boat"), and
+the Savage "squish" (squid) jig is the named producer on the 80 ft drops
+("that's how easy it is with the savage squish"). Plastics and surface iron are
+both confirmed; the count "the two" is not.
 
 **Boat-to-boat variance is real on the same day.** One boat's group went
 without grouper while other boats in the same party reportedly connected
