@@ -76,6 +76,7 @@ squid on the meter before you write the spot off (`YZtX1MiT0y8`).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)

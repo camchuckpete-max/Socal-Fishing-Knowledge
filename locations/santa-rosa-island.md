@@ -78,6 +78,13 @@ consecutive days** of no wind or Santa Ana conditions before it is committed to
 why a **12–24 h wind hindcast** for the route belongs in the conditions pull
 beside the forward forecast
 ([sea state](../conditions/sea-state.md#wind-history-not-just-wind-forecast-1224-h-hindcast)).
+⚠ Fact-check (contradicted-by-source): the transcript's threshold is "a couple
+days of continuous no wind or Santa anas before I plan a trip up there" — days,
+loosely counted, not a "two or more consecutive days" rule (`Z3rZqy2Pi8E`).
+⚠ Fact-check (contradicted-by-source): `Z3rZqy2Pi8E` states no hour window at
+all, so the 12–24 h hindcast cannot be chained to it by "that is why"; the figure
+is the KB's own operationalization and carries a standing flag on
+[sea state](../conditions/sea-state.md).
 
 **A Santa Ana is the window, not merely a nice day.** Santa Ana events flatten
 the northwest outer islands and are the stated trigger to run Rosa and Miguel
@@ -93,6 +100,16 @@ Miguel, Santa Rosa and the front side of Santa Cruz sat in the low 50s °F while
 backside Santa Cruz, San Clemente, Catalina and the Coronados held their water
 (`YZtX1MiT0y8`, [bight geography](bight-geography.md),
 [upwelling and turnover](../conditions/upwelling-and-turnover.md)).
+⚠ Fact-check (contradicted-by-source): `YZtX1MiT0y8` states no 5 °F low end
+anywhere. Its only delta is a hedged "seven maybe eight degrees" read off one
+boat's gauge along the Long Beach beach; the northern-island drop is given as an
+absolute — "hardest hit was the northern channel islands miguel rosa the front
+side of santa cruz island … they're in the low 50s **in some of those areas**" —
+so both the 5–8 °F range and its attachment to two whole geographies are the
+KB's, not the source's. Same finding already ledgered on
+[Channel Islands](channel-islands.md), [April](../seasonal/april.md),
+[Hancock Bank](hancock-bank.md) and [Sverdrup Bank](sverdrup-bank-126.md); the
+NW-event map itself was adjudicated by Cameron 2026-08-26 and stands.
 ⚠ Flagged gap — no corpus source states this island's own wind threshold, or a
 sea-state envelope for the crossing beyond the two-day rule.
 
@@ -101,7 +118,12 @@ schoolie-grade [surface iron](../techniques/surface-iron.md) build runs a
 **40 lb** monofilament top shot for the local, full-day-accessible islands — the
 Coronados, the Channel Islands and Catalina — stepping to **50 lb** only for the
 overnight-range destinations, San Clemente and Santa Barbara Island
-(`LTCFjqtSI8g`, [line and leader](../tackle/line-and-leader.md)). ⚠ Flagged gap — no corpus source
+(`LTCFjqtSI8g`, [line and leader](../tackle/line-and-leader.md)).
+⚠ Fact-check (contradicted-by-source): the word "only" is wrong — the transcript
+puts a third member in the 50 lb group, "if I'm fishing on overnight Island like
+San Clemente Island or Santa Barbara island **or going down anywhere in Baja**"
+(`LTCFjqtSI8g`). The 40 lb grouping and the full-day/overnight framing verify
+verbatim. ⚠ Flagged gap — no corpus source
 reconciles that grouping with the Santa Barbara Landing "long run" framing
 (`5D1vx29LVpI`); they are two different trips to the same island and neither
 states a range figure.
@@ -130,6 +152,15 @@ that a lingcod can be watched rolling on the bottom after it eats
 hard structure and squid nests and beds in **60–100+ ft** at these islands
 (`Eo_bA8IWvyU`, `Xr4nURK-Z48`), and halibut sit on the structure *beside* those
 nests in the same band and stay on it after the squid leaves (`OpcKQPA3vAI`).
+⚠ Fact-check (contradicted-by-source): the 60–100+ ft figure rests on
+`OpcKQPA3vAI` alone — "60 to 100 plus feet of water and there's squid nests out
+there and you catch se bass or big h[alibut]". Neither white-seabass cite
+supports it: `Eo_bA8IWvyU` gives "typically between 60 to about 90 ft" for the
+dropper-loop band and reaches 100 ft only inside a hypothetical ("if we're
+fishing 60 to 100 ft of water and the skipper says…"), with no "+" and no island
+named anywhere in that video, and `Xr4nURK-Z48` gives no depth at all and is shot
+at Catalina ("we're here at Catalina Island"). Same finding already ledgered on
+[Channel Islands](channel-islands.md).
 The deepest stated band is the group's **100–250 ft** island high spots, where a
 private boat gets reds, blue bass, bocaccio and short lingcod off a single drift
 over one rock — with the one stop given a number that day a rock at roughly
@@ -138,6 +169,11 @@ over one rock — with the one stop given a number that day a rock at roughly
 Rosa and Santa Barbara Island, but the day it comes from names "the Channel
 Islands" on camera and never an island — which rock sits on which island is not
 stated (`6-8KfjEg0x8`, [Channel Islands](channel-islands.md)).
+⚠ Fact-check (contradicted-by-source): the band itself is not in that source
+either. `6-8KfjEg0x8` states one depth — "we ventured out to a little shallow
+spot. It's about 175 ft deep" — and calls it *shallow*, so "100–250 ft" is the
+routers' band, not this day's, and calling it "the deepest stated band" inverts
+how the source frames the stop.
 
 **Hard bottom and hard-to-sand seams are the stated reason fish are there.**
 Those seams give [ocean whitefish](../species/ocean-whitefish.md) and
@@ -145,11 +181,27 @@ Those seams give [ocean whitefish](../species/ocean-whitefish.md) and
 produce the rockfish variety bag (`6-8KfjEg0x8`), and the halibut version of the
 same idea is sandy bottom lying right beside a hard edge (`OpcKQPA3vAI`,
 [California halibut](../species/california-halibut.md)).
+⚠ Fact-check (contradicted-by-source): "hard bottom", "hard-to-sand seams" and
+any bottom-composition reasoning are absent from `6-8KfjEg0x8` — it states only
+co-occurrence in the shallows ("we just finished up in the shallows… We got some
+whitefish. We lost a couple sheephead"), so no *stated reason* attaches to that
+cite. The halibut half verifies verbatim from `OpcKQPA3vAI` ("basically sandy
+bottom near structure and when I say near structure even 5 ft away from it 10 ft
+away from it").
 
 **One sub-feature is named and it carries no position.** The "Santa Rosa flats"
 appears once, in a one-breath list of island squid-bed halibut water alongside
 backside Catalina, San Clemente and the Coronados in the 60–100+ ft band
-(`OpcKQPA3vAI`). No source gives it a lat/lon, bearing, depth or structure of its
+(`OpcKQPA3vAI`).
+⚠ Fact-check (contradicted-by-source): the list membership is wrong in both
+directions. The spoken list is "that backside East End of Catalina, uh Santa Rosa
+Flats, I know there's stuff on the backside of Clemente, I'm sure there's stuff at
+**Santa Cruz** and every other island" — Santa Cruz is dropped and the Coronados
+are added. The Coronados come from a different, earlier passage about halibut on
+a sandy beach "right up against the beach", not the squid beds. The phrase "Santa
+Rosa Flats" does occur once, but "Santa Rosa" is spoken twice in the transcript.
+Same correction applies to the halibut row in
+[What's there](#whats-there) below. No source gives it a lat/lon, bearing, depth or structure of its
 own beyond that band, and none exists in
 [the spot library](../sources/spot-lists.md), so it stays a name on this page
 rather than a spot page of its own (cameron).
@@ -157,7 +209,19 @@ rather than a spot page of its own (cameron).
 **A backside is named and never described.** The backside is the head of the fall
 warm-band arc (`OYOda6T3f-8`, `XLVUhV8DW64`) and the April 2022 event treats this
 island as a single unit rather than splitting it by face the way it splits Santa
-Cruz (`YZtX1MiT0y8`). ⚠ Flagged gap — no corpus source says what either face
+Cruz (`YZtX1MiT0y8`).
+⚠ Fact-check (contradicted-by-source): `XLVUhV8DW64` does not carry the arc and
+never says "Santa Rosa". Its only movement narrative is "that stuff was up off
+the West End of cat, west into Clementi at the Nick and SBI for a while… it kind
+of moved down off the east end back side of Clementi" — different stations, no
+backside Santa Cruz/Rosa, no backside Catalina as a station, and no "499" (its
+only numbered marks are the 209 and macro bank 289). The arc rests on
+`OYOda6T3f-8` alone, which also ends "it hooks around to Clementi and that's at
+499 zone" — Clemente then the 499, not "the 499 and Clemente" — and carries an
+ASR-unresolved station between backside Rosa and Santa Barbara Island. The same
+`XLVUhV8DW64` co-cite repeats in the bluefin row and in
+[How it fishes](#how-it-fishes).
+⚠ Flagged gap — no corpus source says what either face
 looks like underwater or where the divide between them runs.
 
 **The general island read is what a plan has to work from.** Which face of an
@@ -177,12 +241,12 @@ publishes none.
 
 | species | season | what this island does for them |
 | --- | --- | --- |
-| [Rockfish](../species/rockfish-lingcod.md) (reds) | late fall into December, inside the Santa Ana window and before the California season closes | The primary target of the Rosa/Miguel run. A Santa Ana weekend in November 2022 produced limits of reds for sport boats out of Santa Barbara Landing and for a private boat on the pair (`Z3rZqy2Pi8E`), and sport boats were "doing really good up there on reds and lings" in mid-December 2022 (`5D1vx29LVpI`). The stated day shape is to load up on reds in deeper water first, then head inside (`Z3rZqy2Pi8E`). Separately, the shallow **100–250 ft** variety drift — reds, blue bass, bocaccio and short lingcod off one rock, blue bass named as an islands fish absent from San Diego — is scoped to this island by the router (`6-8KfjEg0x8`). ⚠ Fact-check (scope): the source day names the group, not the island |
-| [Lingcod](../species/rockfish-lingcod.md) | late fall — the shallow window | Limits of lings on the same November 2022 Santa Ana weekend (`Z3rZqy2Pi8E`). Lingcod pull onto shallow high spots at Santa Rosa and San Miguel in late fall, and in 20–30 ft of clear water the eat can be watched (`Z3rZqy2Pi8E`, [lingcod — jigging](../species/lingcod-jigging.md)). A slug on the bottom is the presentation the source has actually taken lings on at Rosa (`Z3rZqy2Pi8E`), which makes this island — not the pair — the one the technique is scoped to |
-| [White seabass](../species/white-seabass.md) | spring through summer on the squid, moon-clustered; also called in the late-fall Santa Ana window | The router names the Channel Islands — Santa Cruz and Santa Rosa — as the first place to look, on kelp edges, hard structure and squid nests and beds in **60–100+ ft** (`Eo_bA8IWvyU`, `Xr4nURK-Z48`). A **22-fish day** came at these islands on the new moon in warm water with squid present, hedged on camera as possibly a one-off (`HnqiE05vdXs`). A sea-bass shot on the squid was named "up that way" alongside the October 2022 call to run Rosa or Miguel for shallow rockfish (`OYOda6T3f-8`) — a call rather than a count |
-| [California halibut](../species/california-halibut.md) | the squid-bed months of the warming transition | The "Santa Rosa flats" is one of four island squid-bed zones named for halibut, with backside Catalina, San Clemente and the Coronados, in **60–100+ ft**: the fish sit on the structure beside the squid nests and stay there after the squid leaves (`OpcKQPA3vAI`, [water regimes](../conditions/water-regimes.md)). Halibut is also one of the three stated primary goals of the Ventura/Oxnard island day, scoped to the group (`6-8KfjEg0x8`, `nRIAgz5G_Bc`) |
+| [Rockfish](../species/rockfish-lingcod.md) (reds) | late fall into December, inside the Santa Ana window and before the California season closes | The primary target of the Rosa/Miguel run. A Santa Ana weekend in November 2022 produced limits of reds for sport boats out of Santa Barbara Landing and for a private boat on the pair (`Z3rZqy2Pi8E`), and sport boats were "doing really good up there on reds and lings" in mid-December 2022 (`5D1vx29LVpI`). The stated day shape is to load up on reds in deeper water first, then head inside (`Z3rZqy2Pi8E`). Separately, the shallow **100–250 ft** variety drift — reds, blue bass, bocaccio and short lingcod off one rock, blue bass named as an islands fish absent from San Diego — is scoped to this island by the router (`6-8KfjEg0x8`). ⚠ Fact-check (scope): the source day names the group, not the island. ⚠ Fact-check (contradicted-by-source): the limits are misattributed. `Z3rZqy2Pi8E` puts the private-boat limits at **San Miguel** alone — "they ended up fishing the San Miguel and had a limits the reds and [l]ings" — not on the Rosa/Miguel pair; the boat with "limits" is the Aloha Spirit **on Monday** with no landing named, while the Santa Barbara Landing boat (the Coral Sea) is only "loading up". The stated day shape is also reds **and lings** deep, not reds alone |
+| [Lingcod](../species/rockfish-lingcod.md) | late fall — the shallow window | Limits of lings on the same November 2022 Santa Ana weekend (`Z3rZqy2Pi8E`). Lingcod pull onto shallow high spots at Santa Rosa and San Miguel in late fall, and in 20–30 ft of clear water the eat can be watched (`Z3rZqy2Pi8E`, [lingcod — jigging](../species/lingcod-jigging.md)). A slug on the bottom is the presentation the source has actually taken lings on at Rosa (`Z3rZqy2Pi8E`), which makes this island — not the pair — the one the technique is scoped to. ⚠ Fact-check (contradicted-by-source): the November 2022 ling limits are the same misattributed catch as the rockfish row — the transcript places them at San Miguel. The island name in the slug sentence is ASR-mangled ("I caught them at Row three before you fish slug on the bottom and get bit"), so "at Rosa" is a contextual reading, and "the only presentation" is an argument from silence the source never makes |
+| [White seabass](../species/white-seabass.md) | spring through summer on the squid, moon-clustered; also called in the late-fall Santa Ana window | The router names the Channel Islands — Santa Cruz and Santa Rosa — as the first place to look, on kelp edges, hard structure and squid nests and beds in **60–100+ ft** (`Eo_bA8IWvyU`, `Xr4nURK-Z48`). A **22-fish day** came at these islands on the new moon in warm water with squid present, hedged on camera as possibly a one-off (`HnqiE05vdXs`). A sea-bass shot on the squid was named "up that way" alongside the October 2022 call to run Rosa or Miguel for shallow rockfish (`OYOda6T3f-8`) — a call rather than a count. ⚠ Fact-check (contradicted-by-source): "with squid present" is not in `HnqiE05vdXs` — the word squid never appears in it. The line is "there's some sign of sea bass on this new moon we're having right now, the Aloha Spirit had 22 fish up that way the other day, could be a one-off… but nice warm water up that way", and the only place named is "the channel islands" as a group. Count, moon, warm water and the hedge all verify |
+| [California halibut](../species/california-halibut.md) | the squid-bed months of the warming transition | The "Santa Rosa flats" is one of four island squid-bed zones named for halibut, with backside Catalina, San Clemente and the Coronados, in **60–100+ ft**: the fish sit on the structure beside the squid nests and stay there after the squid leaves (`OpcKQPA3vAI`, [water regimes](../conditions/water-regimes.md)). Halibut is also one of the three stated primary goals of the Ventura/Oxnard island day, scoped to the group (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). ⚠ Fact-check (contradicted-by-source): the four-zone list swaps Santa Cruz out for the Coronados — see the flag on the "Santa Rosa flats" paragraph above. The 60–100+ ft band and the structure-beside-the-nests mechanism both verify verbatim from `OpcKQPA3vAI` |
 | [Ocean whitefish](../species/ocean-whitefish.md) | on the same shallow stops | Hard bottom and hard-to-sand seams on the 100–250 ft island high spots, with "monster-sized whitefish" off a squid-baited shallow stop before the boat moved to the ~175 ft rock (`6-8KfjEg0x8`). ⚠ Fact-check (single-source): that one variety day is the corpus's only SoCal account of whitefish as a target rather than a by-catch, and the three-island scoping is the router's list rather than a whitefish-scoped cite |
-| [Yellowtail](../species/yellowtail.md) | late fall, as a by-catch rather than a target | A "real trophy" yellowtail was taken on an artificial lure at these islands on the November 2022 rockfish weekend and released as non-retainable in Southern California waters (`Z3rZqy2Pi8E`). Regulatory — jurisdiction California / CDFW, as stated on camera 2022-11-23, checked as of 2026-08; verify current rules before you fish. Yellowtail is also a stated primary goal of the Ventura/Oxnard day at group level (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). No program, grade or month window is given for yellowtail at this island |
+| [Yellowtail](../species/yellowtail.md) | late fall, as a by-catch rather than a target | A "real trophy" yellowtail was taken on an artificial lure at these islands on the November 2022 rockfish weekend and released as non-retainable in Southern California waters (`Z3rZqy2Pi8E`). Regulatory — jurisdiction California / CDFW, as stated on camera 2022-11-23, checked as of 2026-08; verify current rules before you fish. Yellowtail is also a stated primary goal of the Ventura/Oxnard day at group level (`6-8KfjEg0x8`, `nRIAgz5G_Bc`). No program, grade or month window is given for yellowtail at this island. ⚠ Fact-check (contradicted-by-source): that fish came off the private-boat trip `Z3rZqy2Pi8E` places at **San Miguel**, so "at these islands" on a Santa Rosa page is not what the source says. The lure and release wording verify verbatim — "releasing because you can't keep them in Southern California waters… on an artificial lure and a real trophy" — but the on-camera statement is a 2022 recreational rule, not a current one |
 | [Bluefin tuna](../species/bluefin-tuna.md) | October, on the fall track | The backside is the first station of the fall warm-band arc — backside Santa Cruz / Rosa → Santa Barbara Island → backside Catalina → hooking to the 499 and Clemente (`OYOda6T3f-8`, `XLVUhV8DW64`). It is water rather than a count: no corpus source reports a bluefin landed at this island |
 | The group's variety bag — [calico bass](../species/calico-bass.md), [barracuda](../species/barracuda.md), [bonito](../species/bonito.md), [sheephead](../species/sheephead.md) | ⚠ Flagged stub — no corpus source yet | "The three B's around" — bass, barracuda, bonito — and a pair of sheephead lost off a shallow island rock are all stated for the Channel Islands as a group out of Ventura and Oxnard, and none of them is placed at this island (`6-8KfjEg0x8`, [Channel Islands](channel-islands.md)) |
 
@@ -246,7 +310,15 @@ in [leadhead mods & rigging](../rigging/leadhead-mods.md) (`Xr4nURK-Z48`).
 no current meters fish that do not bite: at the islands current is "just as
 important as the bait you're fishing," and the conditions make or break the day
 out there (`6-8KfjEg0x8`,
-[current structure](../conditions/current-structure.md)). Grade the water moving
+[current structure](../conditions/current-structure.md)).
+⚠ Fact-check (contradicted-by-source): the two quoted fragments verify — "we did
+not have much current, which at the islands is just as important as the bait
+you're fishing… the conditions make or break it out here" — but the causal
+sentence in front of them does not. On that low-current day the boat still caught
+("we got some whitefish, we lost a couple sheephead"), and the only marks
+language ("some kind of scratchy marks coming through throughout the column")
+belongs to the other stop, so "a spot with squid but no current meters fish that
+do not bite" is not a claim `6-8KfjEg0x8` makes. Grade the water moving
 over the structure before grading the marks on the screen
 ([electronics and sounder](../planning/electronics-and-sounder.md)).
 
@@ -266,6 +338,12 @@ islands and the coast, and the August pattern is the same — with the fleet
 offshore the islands stop being reported (`5p6gu14ZC4w`,
 [report reading & forecasting](../planning/report-reading-and-forecasting.md),
 [August](../seasonal/august.md)).
+⚠ Fact-check (contradicted-by-source): the quote is verbatim but its geography is
+not the northern islands. Both instances in `5p6gu14ZC4w` attach to San Nicolas /
+Santa Barbara Island ("really not a lot of coverage uh Nick, SBI, that area up
+there") and to the coast ("on the coast really not a lot of coverage either") —
+the northern-island segment of that same report is actively reported, including
+this island's Sunday-only call.
 
 **Conditions come from a per-position pull, and there is no position.** Santa
 Rosa is not a scored spot ([eval targets](bightsst-eval-targets.md)) and has no
