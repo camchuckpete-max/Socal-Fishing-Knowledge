@@ -520,3 +520,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T01:55:35Z — locations/la-270-286.md — check-note-failed
 - run: 33580496837
 - reason: FAIL  locations/la-270-286.md: uncited direct quote: **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
+
+## 2026-09-02T03:19:29Z — locations/289-284.md — verify-escalate
+- run: 33580496837
+- reason: The rollover-map flag engages the adjudicated (Cameron, 2026-08-26) ruling on locations/bight-geography.md ('the map stands, and it is not going to be re-sourced to another video'). The flag surfaces that YZtX1MiT0y8 does carry the map near-verbatim (01:33-02:06) and that ~12 zone pages already cite it — Cameron should decide the re-source question once for the whole class rather than page by page. The 5-8 degF figure resolves to a hedged single-site Long Beach harbour reading either way.
