@@ -94,12 +94,19 @@ sheephead.
 - **Hook: No. 2 or No. 4, thin-wire, bronze or black finish — never chrome**
   ("give the chrome hooks to your buddies") (`OSbAHdB4uPs`). A third species
   corroborating the bronze/black-over-chrome stealth doctrine in
-  [hooks](../tackle/hooks.md).
+  [hooks](../tackle/hooks.md). ⚠ Fact-check (single-source): the weight
+  ceiling and this hook size/finish call both rest on this one tips video and
+  are numerically precise and load-bearing for the whole program.
 - **Bait, ranked: pismo clam → mussel → squid.** Pismo clam is the go-to for
   **big** sheephead when the budget allows; mussel and squid are the everyday
   options, and all three are cut into strips rather than chunks
   (`OSbAHdB4uPs`). **Mussel suits a treble hook** because it is a big wad of
-  slime with nothing for a single point to grip (`OSbAHdB4uPs`).
+  slime with nothing for a single point to grip (`OSbAHdB4uPs`). ⚠ Fact-check
+  (contradicted-by-source): the source lists bait in varying order ("that
+  strip of squid or that piece of muscle or pismo clam," then "get some
+  clams get some mussels get some squid") and calls pismo clam the go-to for
+  big fish, but never ranks mussel above squid — the strict
+  pismo-clam→mussel→squid hierarchy stated here is not in the source.
 - **Squid prep:** heads, tentacles and guts go into the chum bag, the body is
   split and cut into thin strips (`yKaHcxX46l4`) — full strip prep in
   [hooks](../tackle/hooks.md), chum delivery in
