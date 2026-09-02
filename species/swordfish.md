@@ -264,6 +264,12 @@ the dart here" — where the endgame instead runs a flying gaff to the gill plat
 restriction, and the same corpus describes harpooning surface swordfish as an
 established SoCal activity (`1iV1GnF4K-c`) — the two statements are never
 reconciled on camera.
+⚠ Fact-check (contradicted-internal): the technique note this section routes to
+prescribes the harpoon as a SoCal finishing tool — "finish with the flying
+gaff/harpoon to the gill plate" in
+[deep-drop swordfishing](../techniques/deep-drop-swordfishing.md), under a note
+whose stated numbers are SoCal — against this section's "we can't do the dart
+here" and this router's own gaff-only kill shot below.
 
 ## Doctrine & conflicts
 
@@ -292,10 +298,24 @@ transfer to the Bight.
   the hookups that hold are the **corner of the mouth** or deep in the gullet
   (`yMiBtZ7k8-w`). That anatomy is what drives the low-drag doctrine in the
   [technique note](../techniques/deep-drop-swordfishing.md).
+  ⚠ Fact-check (contradicted-internal): the technique note holds no low-drag
+  doctrine to point at. Its "Drag & the endgame (SoCal)" section states the
+  opposite frame — the setting "turns on how much resistance the rig already
+  carries, not on a single correct number," both captains start *heavier* at
+  strike (18–20 lb on one build) so the hook buries, and "the setting is more a
+  preference than a critical one" because a buried circle hook holds regardless.
 - **The fight changes at 30 ft**, when the breakaway lead comes off and the load
   transfers from the weight to the rod tip; from there a fish at a standstill
   darts under the boat and into the motors, so the boat stays in gear
   (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-internal):
+  [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md) states under
+  Bite handling that "the breakaway lead drops on the hookset so you fight the
+  fish clean" — the weight gone at the strike, not at 30 ft — which would mean
+  the whole fight is fought clean rather than against the lead, and would remove
+  the transfer this bullet describes. The same technique note's endgame section
+  agrees with this router (lead taken off by hand at the boat), so the two notes
+  disagree about when the weight leaves the line.
 - **Expect an early look.** Swordfish will come up to the boat inside the first
   ten minutes of a fight to check the boat out, long before they are done
   (`yMiBtZ7k8-w`).

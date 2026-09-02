@@ -91,6 +91,12 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
   Resist grabbing the rod on the first taps.
 - The breakaway lead drops on the hookset so you fight the fish clean
   (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-internal): the router
+  [swordfish](../species/swordfish.md) states the lead is still on until the
+  fight "changes at 30 ft," when it comes off and the load transfers from the
+  weight to the rod tip — and this note's own endgame section says the same
+  (taken off by hand at the boat). Same disagreement as the flag under Rigging
+  parameters, restated here because this bullet is what the router contradicts.
 - The circle-hook rig is designed to let the fish hook itself as it swims up
   against the weight; interfering with the bait mid-take is what is believed
   to disrupt the feeding pattern and cost hookups (`yMiBtZ7k8-w`).
@@ -109,6 +115,13 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
   setting is more a preference than a critical one: a properly buried circle
   hook holds regardless, the same way a buoy sitting on effectively zero
   rod-and-reel drag still lands fish all day (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-internal): the router
+  [swordfish](../species/swordfish.md) sends readers here for "the low-drag
+  doctrine," and derives it from the soft roof of the mouth — "fish pull off
+  when heat is put on them." This section states no such doctrine: both builds
+  start heavier at strike so the hook buries, one runs 18–20 lb there, the
+  anatomy is never given as the reason, and the setting is called a preference
+  rather than a critical number.
   ⚠ Fact-check (contradicted-by-source): the 15 lb lead / 150 ft wind-on /
   "twice as much line as you guys have out" description in this source is
   Rush Maltz's Gulf Stream rig, not Duane Diego Mellor's — Duane elsewhere in
@@ -130,6 +143,12 @@ Numbers here are **SoCal**; see the East-coast contrast at the end.
 - **Finish with the flying gaff/harpoon to the gill plate**, preferably under
   the vertebra and back through, then a couple of gaffs and a tail rope — the
   kill shot goes in the gill plate, not the body (`yMiBtZ7k8-w`).
+  ⚠ Fact-check (contradicted-internal): the router
+  [swordfish](../species/swordfish.md#regulations) records the harpoon dart as
+  Florida Keys practice that is **not used in SoCal** — "we can't do the dart
+  here" — with the SoCal endgame running a flying gaff to the gill plate
+  instead. This bullet sits in the note's SoCal section and offers the two as
+  interchangeable.
 
 ## Gear class
 
