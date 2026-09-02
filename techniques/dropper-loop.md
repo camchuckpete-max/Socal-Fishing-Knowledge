@@ -386,17 +386,7 @@ generic bottom-tackle rigs, up to 80–100 lb+ on Baja/long-range yellowtail and
 grouper — run past every application this lexicon currently names for that
 line range (yo-yo/heavy-iron class is fast-crank gear for iron, not this
 rig's slow-steady-wind retrieve): ⚠ Flagged gap — no corpus source: a named
-heavy-bottom/dropper-loop rod-reel class at 40–100+ lb.
-⚠ Fact-check (contradicted-internal):
-[white seabass](../species/white-seabass.md#situations--techniques) routes its
-squid-bed row at a **"40 lb dropper-loop class, conventional star drag"** and
-carries `40lb-dropper-loop` in its front-matter `gear_classes`, with
-[white seabass — dropper loop](../species/white-seabass-dropper-loop.md#rigs--gear)
-defining the term off `Eo_bA8IWvyU` — that is the named 40 lb class this gap
-says the corpus does not have, and it appears in no row of
-[gear classes](../tackle/gear-classes.md) either. Either this gap is stale or
-the router hands a planner a class term the profile lookup cannot resolve.
-Octopus offset hooks;
+heavy-bottom/dropper-loop rod-reel class at 40–100+ lb. Octopus offset hooks;
 loop knots and the barrel-swivel double covered in [essential
 knots](../rigging/essential-knots.md).
 

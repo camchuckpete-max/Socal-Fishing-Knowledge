@@ -213,19 +213,6 @@ yellowtail hookups on it "usually don't work out well"; two large bonita on
 it at once is "too much" — for yellowtail and tuna, a single bait is fished
 instead (`5Oh3IPIC5g4`).
 
-⚠ Fact-check (contradicted-internal):
-[white seabass](../species/white-seabass.md#situations--techniques) routes a
-white-seabass tube-bait program to this note — a **5/8 oz to 1.5 oz** ladder
-by current, the bite on the fall, "wind into a tap rather than swinging"
-(`Eo_bA8IWvyU`, a transcript this note does not carry). This note holds no
-white seabass application anywhere: not in *Reach for this when*, not in the
-tags, not in any weight or hookset section — and its only white seabass
-sentence is the exclusion in the paragraph above, scoped there to the double
-rig. Its own on-the-sink bite instruction is also the opposite hookset:
-"engage the reel, come tight, and **set**." The router's ladder is absent from
-[tube baits](../lures/tube-baits.md) too, so the execution the router points
-at lives in neither note.
-
 ## Party boat rock-fishing (cast–drift–bounce)
 
 The technique for a **drifting** rock/structure party-boat trip (as opposed
