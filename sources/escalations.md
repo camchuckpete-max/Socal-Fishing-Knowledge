@@ -532,3 +532,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T06:29:30Z — locations/bumps.md — guard-violation
 - run: 33595588003
 - reason: commit edc009888dc5f9d21fef17d3d2f369088c14d598 reverted: out of scope for 'review: locations/bumps.md': .para.py
+
+## 2026-09-02T09:22:35Z — locations/isla-espiritu-santo.md — check-note-failed
+- run: 33606994123
+- reason: FAIL  locations/isla-espiritu-santo.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the transcript's bigger-fish line is
