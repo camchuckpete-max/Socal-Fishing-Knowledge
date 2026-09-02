@@ -21,6 +21,19 @@ triangle" the crews draw between Cedros Island, the Benitos Islands and Punta
 Eugenia (`_r_qKX_7080`). It fishes as a **12 ft** rock with kelp on its outside
 edges, worked from skiffs off a mothership, and it is the far end of the
 Geronimo Island stretch of "endless miles" of calico water (`3SATCeA3KaU`).
+⚠ Fact-check (contradicted-by-source): `_r_qKX_7080` puts the rock **inside**
+the triangle, not at a corner — "it's right in the Yellow Tail triangle with
+Cedro and Bonitas and point eugia" (@00:12:14; the three names are ASR renderings
+of Cedros, Benitos and Punta Eugenia) — and no one "draws" it on camera. The
+"historically a good big yell taale spot… 4050 Pounders" wording (@00:11:57) and
+the south-of-Cedros placement ("it's right off of south of sedus Island",
+@00:12:35) verify.
+⚠ Fact-check (contradicted-by-source): "endless miles" is not a quotation.
+`3SATCeA3KaU` says "it's absolutely endless and endless of miles and miles of
+incredible calico bass territory" (@00:21:10), tied to no place name, and its one
+Geronimo–Chester's line runs "from Geronimo to sacrif Chester's rock point
+eugenia yellows" (@00:22:20) — Punta Eugenia sits **beyond** the rock, so "the
+far end" is not what the source says.
 
 **It carries no charted position in [the spot library](../sources/spot-lists.md).**
 Every source names it by name only, so a conditions pull has to be run against
@@ -38,6 +51,27 @@ the last stop of a **"macro banks" → Benitos Island → Chester's Rock** rotat
 San Diego long-range boat — are on
 [the zone page](cedros-island.md#getting-there); neither is written around a run
 to this specific rock.
+⚠ Fact-check (contradicted-by-source): the front matter's "300 **statute** miles"
+hardens a unit the source never states. `_r_qKX_7080` says only miles — "we're on
+was 188 miles from San Diego and then we're going to go another 112 112 miles so
+it'll be 300 miles from San Diego" (@00:11:48) — and never distinguishes statute
+from nautical; the same wording is already ledgered that way on
+locations/san-quintin.md, locations/179-220.md and locations/lower-cross.md. The
+three figures and the San Diego origin verify verbatim.
+⚠ Fact-check (contradicted-by-source): the October 2020 rotation runs in the
+other order. `yjwIGFzWO8I` puts the Benitos **yesterday** and the "macrobanks"
+**this morning** — "just waking up here on the macrobanks and all the boys are
+making mackerel here and yesterday was awesome we went to benito's today we're
+going to the mainland and chester's rock" (@00:05:49) — so it is Benitos → macro
+banks → Chester's Rock. Chester's Rock as the last stop verifies. (The same
+inverted order is carried on locations/san-benito-island.md.)
+⚠ Fact-check (contradicted-by-source): the 2014 dating is upload metadata and one
+source contradicts it. No date, month or year is spoken anywhere in
+`_r_qKX_7080` (its only anchors are relative — "we here about 8 days ago",
+@00:13:48; "picking back up from last week", @00:00:07), and `3SATCeA3KaU` calls
+the trip on camera "Cedros Island **2013** skiff trip" (@00:11:40) against both
+files' 2014-11-13 upload date. Same upload-date-as-spoken-date pattern already
+ledgered across the geo pass.
 
 **Wind decides whether you get to stay.** Wind blew the skiffs off the rock on
 the documented 2014 stop, and the crew's fallback was the lee of another island
@@ -45,6 +79,16 @@ near Rose Island / Dondo Ridge — both names asr-uncertain — where a "puff of
 current" bite ran to **40 lb** (`_r_qKX_7080`). Plan the stop with that lee in
 mind rather than as a fixed anchorage. Sea-state judgment is
 [sea state](../conditions/sea-state.md).
+⚠ Fact-check (contradicted-by-source): the "puff of current" 40 lb bite is
+narrated **before** the move, in the Chester's Rock wrap-up — "we saw a few come
+up we got a little puff of current and uh we got a nice little hit on the yellows
+we had them up to I'd say 40 Pounders" (@00:21:06) — and only then "we're going
+to start here with Dondo Ridge" (@00:21:35). It belongs to the rock they were
+blown off, not to the lee they ran to. The blow-off and the lee are verbatim ("we
+kind of got blown out of Chesters there… so we came over here to see Dr get out
+of the wind", @00:21:44), but the lee island is unnamed at that point and "Rose
+Island" is a separate later moment (@00:22:29). Identical row already stands on
+locations/cedros-island.md.
 
 **Regulatory — Mexico.** The zone's operator-level **100% catch-and-release**
 agreement for [calico bass](../species/calico-bass.md), grouper (cabrilla) and
@@ -66,6 +110,12 @@ depth is **12 ft** right on the rock, dropping to **40–60 ft** a short distanc
 out, and the captain's tip on the stop pointed at the **kelp on the outside
 edges** rather than at the rock top (`_r_qKX_7080`). That is the whole
 bathymetric record for this mark.
+⚠ Fact-check (contradicted-by-source): the numbers verify but the framing recasts
+them. The source states a fishing depth, not a rock height or a distance —
+"we're fishing 12 ft of water probably goes to 40 or 60 out here" (@00:17:50) —
+so "a **12 ft rock**", "right on the rock" and "a **short distance** out" are the
+KB's; the 40/60 pair also carries no unit of its own. The kelp tip is verbatim
+("there's some kelp on these outside edges", @00:17:34).
 
 **The kelp is thick enough to be the design constraint on a bait.** A weedless
 plastic rigged on a **3/8 oz** keel-weighted hook was called out on camera as
@@ -80,6 +130,13 @@ from **Geronimo Island to Chester's Rock** is worked as a single piece of calico
 water — "endless miles" of it — and the same stretch turns into a home-guard
 yellowtail brawl (`3SATCeA3KaU`). Anything read about one end applies down the
 stretch unless a source says otherwise.
+⚠ Fact-check (contradicted-by-source): "worked as a single piece" is not stated.
+The two place names occur only inside lists of stops — "a brawl in shallow water
+from Geronimo Island to Chester's Rock to Sandra's Island" (@00:00:26, the third
+name asr-uncertain) and "from Geronimo to sacrif Chester's rock point eugenia
+yellows" (@00:22:20) — and the "endless" language (@00:20:56, @00:21:10) is
+spoken in a separate passage tied to no place name. See the lead's flag on the
+"endless miles" quotation.
 
 **The corpus places the rock two different ways, and does not resolve it.** One
 crew logs it at the **south end of Cedros Island** (`_r_qKX_7080`,
@@ -100,11 +157,51 @@ rock, its extent, or how deep the water is between it and Geronimo Island.
 | [Calico bass](../species/calico-bass.md) | same two dated stops — a morning session and a first-cast stop | The mid-day fill and, in numbers, the interruption. A fish the captain called **7 lb** by eye was released unweighed — "we're not going to weigh him… slow to grow so let him go" — alongside a 3-pounder (`_r_qKX_7080`); the Geronimo-to-Chester's stretch produced a fast, high-volume bite with multiple doubles on surface iron and swimbaits (`3SATCeA3KaU`); a **5–6 lb** class kelp calico ate the first cast of a weedless plastic — "we know what's going to bite" (`yjwIGFzWO8I`). Catch-and-release by operator agreement ([zone page](cedros-island.md)) |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this rock for any other species. The zone's dorado, yellowfin, halibut, sheephead and rockfish records all attach to other Cedros-complex grounds ([zone page](cedros-island.md#whats-there)) |
 
+⚠ Fact-check (contradicted-by-source): in `3SATCeA3KaU` the "every bit a
+40-pounder" quote is verbatim but is not the brawl fish. It sits in a separate
+later segment, names no species and says nothing about boating it — "that was a
+huge fun now it's every bit a 40-pounder he was living some water yeah that was
+a big fish" (@00:17:25) —
+while the brawl is described only in the episode intro ("a few guys hooking into
+some big yellows on the small skip to turn into an absolute brawl in shallow
+water", @00:00:13; "a few guys", not "several anglers").
+
+⚠ Fact-check (contradicted-by-source): in `_r_qKX_7080` the 7 lb fish is never
+called a calico. The passage is "Captain just said that's 7 lbs we're not going
+to weigh him we're going to get him back in the water slow to grow so let him
+go" (@00:15:17), a
+relayed call on a fish hooked on the **surface iron** (@00:14:45), with no
+species named; "by eye" is an inference. The 3-pounder is a different fish four
+minutes later, identified as a calico there ("nice three pounder", @00:19:29;
+"it's a Calico", @00:19:06) — not landed "alongside" it.
+
+⚠ Fact-check (contradicted-by-source): the **5–6 lb** grade is not this fish.
+`yjwIGFzWO8I` speaks it before arrival, as a general size contrast with the
+morning yellowtail — "now we're going calico bass fishing these 30 40 pound fish
+and go catch some five and six pound calicos is that crazy" (@00:16:31) — and the
+first-cast fish is described only as "it's a toad" (@00:17:46). The first-cast
+quote is verbatim ("that was the first cast on the plastic so we know what's
+going to bite", @00:18:11), as is the 30–40 lb morning bite.
+
+⚠ Fact-check (contradicted-by-source): "multiple doubles" is one word in one
+place, and not this ground. "Doubles" occurs exactly once in `3SATCeA3KaU`, in
+the Santos (San Benitos) segment — "doubles oh right the boat gobball crystals
+all over" (@00:16:33) — and the Geronimo/Chester's naming (@00:22:20) carries no
+bite-rate claim; that segment's own summary is "then we came in and started
+fishing bass rest afternoon" (@00:22:07).
+
 **Grade here is a big-fish grade, and the calico are big enough to be in the
 way.** On the morning after the brawl the deliberate yellowtail push was
 repeatedly broken up by them — "pesky 5-pound calicoes… putting off my 50-pound
 yellow" (`3SATCeA3KaU`). Treat a running calico bite as a sign you are on the
 right ground rather than as the day's target.
+⚠ Fact-check (contradicted-by-source): said once, in the afternoon, at another
+stop. The line is "these calicos are interrupting my yellowtail fishing pesky
+5-pound calicoes is putting off my 50 pound yellow that's a good complaint"
+(@00:15:31) — the ellipsis elides "is" — and it sits in the Santos (San Benitos)
+block, itself framed as "we came out here for the afternoon" (@00:21:44), not on
+"the morning after the brawl". "Interrupting" is spoken once; "repeatedly" is the
+KB's.
 
 ⚠ Flagged gap — no corpus source: a month-by-month picture, a temperature band,
 or forage at this mark. Both dated stops are late-season trips and neither
@@ -137,6 +234,14 @@ the cast until the yellows actually showed** under the birds rather than
 throwing at the birds themselves (`3SATCeA3KaU`). Bird work is
 [bird reading](../conditions/bird-reading.md) and
 [search & glassing](../planning/search-and-glassing.md).
+⚠ Fact-check (contradicted-by-source): neither half is placed on this ground and
+the hold-the-cast half is only half the exchange. The jig-throw line is
+"…birds flared up came out here through the jig" (@00:15:07, "through" = threw),
+spoken of a spot tagged "Cedro grade yellowtail" in the same sentence; the
+discipline exchange is from a 7 a.m. post-breakfast session (@00:06:55) tagged
+"Cedros yellowtail" (@00:07:41), not first light, and runs both ways —
+"birds popped up and try to get your [jig] right on over they they eat it" beside
+"you gotta wait for your shot when those yellows come out" (@00:08:38).
 
 **Line class is decided by the rock, and the corpus gives a clean result.**
 Anglers on **40–50 lb** landed their fish while several on lighter line lost
@@ -154,6 +259,14 @@ iron, [dropper loop](../techniques/dropper-loop.md) and
 [flyline](../techniques/flyline.md), plus more calico on a light current under
 working birds (`_r_qKX_7080`). The lee is the documented continuation of the
 day, not an abandonment of it.
+⚠ Fact-check (contradicted-by-source): second instance of the misplaced "puff of
+current" bite flagged in [Getting there](#getting-there) — it is narrated in the
+Chester's Rock wrap-up (@00:21:06), before the move. The three methods verify
+("guys are getting them on the surface iron droper loaves a fly line", @00:21:14,
+which also names a plastic hook-up the sentence omits), but "**light** current"
+inverts the birds passage: "Rose Island beautiful afternoon in sand current Birds
+working all over the place yeah insane" (@00:22:33) — "in sand current" reads as
+ASR for *insane current*, reinforced by the reply.
 
 **A mothership changes what "moving" means here.** When the *Shogun* hooked
 yellowtail while the skiffs were on the rock, the skiff group came aboard and
