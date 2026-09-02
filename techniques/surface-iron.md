@@ -73,10 +73,6 @@ with the corollary that you cannot out-wind a fish: "calico bass can chase down
 the lure faster than you can [reel]" (`Ec2GaNpiOHI`). This sits beside — not
 merged into — the steady-grind cadence doctrine below; see
 **Doctrine & conflicts** for why the two are compatible readings.
-⚠ Fact-check (contradicted-internal): [barracuda](../species/barracuda.md)
-states a species-keyed retrieve as doctrine — barracuda and calico take a
-slower-swimming jig where yellowtail want a faster one (`lV-UcWUvxgc`) — and
-frames it as a live conflict without citing this flat denial.
 
 ### Working the retrieve
 
@@ -115,12 +111,6 @@ frames it as a live conflict without citing this flat denial.
   can see it, and **raising the rod tip** is the lever for bringing it up
   without winding faster (`ejUTAnONf7o`) — a practical read of the
   no-species-specific-retrieve doctrine above.
-  ⚠ Fact-check (contradicted-internal): [barracuda](../species/barracuda.md)
-  reads this same cite the opposite way on both variables — wind *faster*,
-  rod tip **up** — and builds a retrieve-speed conflict frame on that reading,
-  against this note's slowest-wind and tip-down doctrine
-  (`VpW91AKOFVQ`, `3dVc-2rsYII`). The reciprocal flag stands on that note;
-  which reading is the general rule is unsettled.
 - **Finicky bite scales with school size and location, same species and
   gear.** A big school at the **Coronado Islands** often eats on a faster,
   less exacting retrieve; the smaller schools along the mainland coast

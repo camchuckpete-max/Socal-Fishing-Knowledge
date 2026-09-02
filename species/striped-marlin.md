@@ -365,7 +365,6 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
-- [California Barracuda](barracuda.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez North](../locations/cortez-north.md)
