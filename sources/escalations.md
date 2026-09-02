@@ -556,3 +556,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T17:28:45Z — cluster:cabrilla — guard-violation
 - run: 33658289076
 - reason: commit 0809ef7049a2ad1c0f05dbe5c46ab4cf88387a6e reverted: out of scope for 'review: cluster:cabrilla': techniques/surface-iron.md; out of scope for 'review: cluster:cabrilla': techniques/trolling.md
+
+## 2026-09-02T17:29:49Z — cluster:cabrilla — out-of-scope-finding
+- run: 33658289076
+- reason: Two findings land outside this cluster row's guard scope (the row lists only the 5 technique/lure members, not the species-technique sub-articles). (1) STALENESS SWEEP: species/cabrilla-yo-yo-iron.md's 'Differs from the general method' bullet 1 says the general method 'positions up-current of a metered school or the bottom and free-spools straight down' - techniques/yo-yo-iron.md now also carries a 45-degree cast preference (HTowqnwAMeA) and a cast-and-retrieve working-water cadence that walks the iron up to 150 yd back to the boat (wzI0lpgKT1U), so 'a cast, not a drop' is no longer the delta; what survives is the target (visible or read rock rather than a metered mark). Needs a contradicted-internal flag + ledger row on that page. Its other three deltas, and all three cabrilla-jerkbait deltas, still hold. (2) techniques/trolling.md La Paz section links the word 'cabrilla' to ../tackle/hooks.md#baja-sea-of-cortez-sizing rather than ../species/cabrilla.md - a resolving but mis-targeted link, left unfixed because this pass flags rather than edits.
