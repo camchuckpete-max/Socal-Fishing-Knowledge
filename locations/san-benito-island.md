@@ -22,7 +22,15 @@ the crews draw between Cedros Island, the Benitos and Punta Eugenia
 [yellowtail](../species/yellowtail.md) ground: the fish sit **30–40 fathoms**
 down feeding right off the bottom rather than up top (`JaKSGkZ6CAc`), over a
 jagged rocky bottom that takes terminal tackle off anyone who leaves it down
-(`ilINTeknKB4`). Capt. Art of the *Searcher* named the San Benitos beside Cedros
+(`ilINTeknKB4`).
+⚠ Fact-check (contradicted-by-source): the captain says "they're all feeding on
+squid **30 40 50** Fathoms deep here" — the 50 is dropped in the band stated
+here, in the infobox `depth_band` and in the yellowtail row; the same segment
+separately gives "30 35". Already ledgered against `species/yellowtail.md` and
+`locations/cedros-island.md`.
+⚠ Fact-check (contradicted-by-source): the jagged-rock bottom in `ilINTeknKB4`
+is not San Benito bottom — see the flag under Structure & bathymetry.
+Capt. Art of the *Searcher* named the San Benitos beside Cedros
 as among his favourite places to fish [surface iron](../techniques/surface-iron.md)
 for yellowtail (`lYyi_Yh3S5g`).
 
@@ -54,6 +62,11 @@ warm," then came back to Benito's for another morning (`97clKtVsEOs`). One
 multi-stop Cedros Outdoor Adventures trip ran the other way —
 "macro banks" → Benitos → mainland and [Chester's Rock](chester-s-rock.md)
 (`yjwIGFzWO8I`).
+⚠ Fact-check (contradicted-by-source): the order is inverted — the Benitos come
+**before** the macro banks. "Just waking up here on the macrobanks and all the
+boys are making mackerel here and yesterday was awesome we went to benito's
+today we're going to the mainland and chester's rock." Same claim restated in
+the calico row.
 
 ⚠ Flagged gap — no corpus source: a port, heading, run time, nautical-mile
 distance or sea-state envelope for reaching the San Benitos, an anchorage, or
@@ -67,7 +80,13 @@ black seabass is an **operator agreement adopted by the fishing companies at
 Cedros**, not a federal or state rule; recorded on or before 2023-03-26, and
 whether it is applied at the San Benitos is not stated in the corpus. **Verify
 current status with your operator before fishing**
-([regulatory claims](../sources/regulatory-claims.md)). ⚠ Flagged gap — no
+([regulatory claims](../sources/regulatory-claims.md)).
+⚠ Fact-check (single-source): the release agreement rests entirely on the zone
+page's single cite `ldVj0BoB-kE`; none of this page's own nine sources mentions
+it, and whether it reaches the San Benitos is unstated, as the claim says. The
+same row already stands on `locations/san-augustine.md` and
+`locations/geronimo-island.md`. — **ext-verify**.
+⚠ Flagged gap — no
 corpus source: the Mexican (CONAPESCA) bag limit, size gauge or season for the
 rockfish and lingcod taken here — California rockfish rules do not apply in
 Mexican waters.
@@ -76,9 +95,24 @@ Mexican waters.
 
 **The bottom is jagged rock at about 200 ft, and it eats terminal tackle.** On a
 rockfish drift the captain warned the rail to get sinkers and iron up off the
-bottom the moment they touched down or lose them (`ilINTeknKB4`). That is the
+bottom the moment they touched down or lose them (`ilINTeknKB4`).
+⚠ Fact-check (contradicted-by-source): that drift is not at the San Benitos.
+In `ilINTeknKB4` it comes **after** the island — "got our Yellow Tail done and
+out of the way… we're stopping along the coast to let them do some link cod
+fishing before we head back out and do some tuna fishing" — and only then
+"going to set up make a drift looking at 200 ft of water real Jagged". The same
+passage says "we're going to be going deep to about 300 ft" moments earlier.
+The 200 ft figure is attributed to this island in the infobox `depth_band`, in
+this section, in the rockfish row and in How it fishes;
+`locations/cedros-island.md` already carries the corrected reading, so the two
+pages disagree. That is the
 same rock-cutoff pattern the crews report across the triangle
 (`_r_qKX_7080`), sharpened here by depth.
+⚠ Fact-check (contradicted-by-source): `_r_qKX_7080` reports rock cutoffs only
+at Chester's Rock — "he took me obviously right into the the Rocks", "these are
+some mean fish down here in these rocks", "we're in shallow water we lost a few
+guys using too light a line" — and never generalises them to the triangle. The
+same flag stands on `locations/cedros-island.md`.
 
 **The yellowtail depth is a bait depth, not a structure depth.** The fish were
 out on squid sitting **30–40 fathoms** down — called "30, 40, 50 fathoms" and
@@ -90,6 +124,11 @@ the depth off where the squid are, not off a fixed contour.
 **Kelp grows over the rock, and the two combine against you.** A hooked
 yellowtail ran into kelp, the braid was cut off in it, and the fish then dragged
 the frayed, kelp-wrapped line down into the rocks where it parted (`9D3Oiy0ASzg`).
+⚠ Fact-check (contradicted-by-source): the kelp does not cut the braid in the
+source — the angler is hoping the opposite, "hopefully the braid will cut
+through the kelp", and the loss is narrated as "the kelp blinds frayed took me
+down to the rocks and that cut me off". Fraying in kelp then a rock cutoff, not
+a kelp cutoff.
 Crew narration generalizes the risk past kelp: a deep-diving fish is "looking for
 anything that's structure, a piece of weed, anything to rock you off on"
 (`SH7zOA9ZF3o`).
@@ -103,9 +142,9 @@ relative to Cedros in miles or bearing.
 
 | species | season | what this spot does for them |
 | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape. The documented sessions carry air and upload dates (aired 2015-01-18, 2015-10-29 uploads, 2019-12-18 upload), not fishing dates | The reason to come, and a deep fishery rather than a surface one. Fish ran **30 lb and better**, "a lot of them," some bigger, taken on squid 30–40 fathoms down (`JaKSGkZ6CAc`); the island is named beside Cedros as favourite [surface iron](../techniques/surface-iron.md) yellowtail ground (`lYyi_Yh3S5g`). One morning the fish passed under the boat in small scattered groups at varying depths — "no real big schools" (`ilINTeknKB4`) |
-| [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source: season | The bottom option when the yellowtail sign is thin. A drift over 200 ft of jagged rock produced lingcod and red rockfish ("red snapper" on camera), including a double hookup of one of each on the same drift, one of them on a **bonita strip** bait; the meter showed a little yellowtail sign at the same spot, called "still a little early" for that bite (`ilINTeknKB4`) |
-| [Calico bass](../species/calico-bass.md) | ⚠ Flagged gap — no corpus source | The Benitos are the middle leg of a macro banks → Benitos → mainland rotation, but **no calico detail is given for this stop** — the trip's calico fishing is logged at Chester's Rock (`yjwIGFzWO8I`) |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season shape. The documented sessions carry air and upload dates (aired 2015-01-18, 2015-10-29 uploads, 2019-12-18 upload), not fishing dates | The reason to come, and a deep fishery rather than a surface one. Fish ran **30 lb and better**, "a lot of them," some bigger, taken on squid 30–40 fathoms down (`JaKSGkZ6CAc`) ⚠ Fact-check (contradicted-by-source): the grade is verbatim ("all these fish are in that probably 30 lb and better A lot of them and there's some big"), but the source never says the fish were caught **on** squid — squid appears as stomach contents and as the depth key, and the catches are narrated on iron and terminal rigs ("we're getting them on the yo-yo and drer Loops dropper Loops yo-yo yep sler sinkers"); the island is named beside Cedros as favourite [surface iron](../techniques/surface-iron.md) yellowtail ground (`lYyi_Yh3S5g`). One morning the fish passed under the boat in small scattered groups at varying depths — "no real big schools" (`ilINTeknKB4`) |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | ⚠ Flagged gap — no corpus source: season | The bottom option when the yellowtail sign is thin. A drift over 200 ft of jagged rock produced lingcod and red rockfish ("red snapper" on camera), including a double hookup of one of each on the same drift, one of them on a **bonita strip** bait; the meter showed a little yellowtail sign at the same spot, called "still a little early" for that bite (`ilINTeknKB4`) ⚠ Fact-check (contradicted-by-source): the drift's contents verify verbatim, but the stop is not this island — it is the coastal lingcod stop the boat makes after leaving the Benitos (see Structure & bathymetry) |
+| [Calico bass](../species/calico-bass.md) | ⚠ Flagged gap — no corpus source | The Benitos are the middle leg of a macro banks → Benitos → mainland rotation, but **no calico detail is given for this stop** — the trip's calico fishing is logged at Chester's Rock (`yjwIGFzWO8I`) ⚠ Fact-check (contradicted-by-source): calico ARE named at this stop — the episode's intro recaps "our venture to benitos island just a few hours away to produce some fun yellowtail fishing on the iron and some calico bass around the boilers". No technique, gear or grade detail follows, but the presence claim is stated, and the rotation order in this row is inverted (see Getting there) |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this island for any other species. The zone's dorado, yellowfin, halibut and sheephead records all attach to Cedros-complex grounds ([zone page](cedros-island.md#whats-there)) |
 
 **Forage is squid, and it is confirmed from the fish.** Nearly every yellowtail
@@ -118,6 +157,13 @@ tips summary, shot at Benito's Island on the final morning, covers the whole
 8 days — its bluefin build (40 lb mono main line to a **4 ft** top shot of 40 lb
 fluorocarbon on sardine) belongs to the trip's earlier northern legs, not to this
 island (`ilINTeknKB4`; [bluefin tuna](../species/bluefin-tuna.md)).
+⚠ Fact-check (unverifiable): the tackle figures are verbatim ("the best bet was
+40 lb mono with a 4ft Top Shot of 40lb fluorocarbon"), and the segment does
+frame itself as whole-trip ("when it comes to an 8-day trip there are a ton of
+tips"), but the source never states **where** or **when** it was shot — it airs
+after the yellowfin/Gladiator Bank footage with no location given, and the boat
+left the Benitos for the coast and then tuna. "Shot at Benito's Island on the
+final morning" is not in the transcript.
 
 ⚠ Flagged gap — no corpus source: a month-by-month picture, a water-temperature
 band, or a grade range for anything but the yellowtail.
