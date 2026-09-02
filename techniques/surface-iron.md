@@ -318,6 +318,14 @@ thumb-controlled, cranked at whatever cadence keeps the kick correct.
 - **Class:** [jig-stick class](../tackle/gear-classes.md) — 9–10 ft,
   medium-heavy, soft-enough tip to cast a heavy iron but with backbone; a
   10 ft stick throws the biggest irons farthest.
+  ⚠ Fact-check (contradicted-internal):
+  [white seabass](../species/white-seabass.md#situations--techniques) routes
+  its off-color-rip row to this note calling the same class **7–9 ft,
+  40–50 lb** — in the situations table and again in its gear summary —
+  against this note's 9–10 ft and the "an 8-ft jig stick is a yo-yo rod"
+  line below, and below the **8–10 ft** the
+  [gear-class lexicon](../tackle/gear-classes.md) sets for the class. Most of
+  the router's band is length this note says is not a jig stick.
 - **Length and material:** "An **8-ft jig stick is a yo-yo rod** — it's not a
   jig stick. **9-ft is okay. 10-ft is better**" (`yn1suHH6b1Y`). On glass:
   **S-glass does what E-glass does at ~20% less weight** — "when you're on a
