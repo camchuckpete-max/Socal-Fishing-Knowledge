@@ -24,6 +24,13 @@ a [skipjack](../species/skipjack-tuna.md) and a
 [cabrilla](../species/cabrilla.md); the trip's yellowtail came only after the
 crew gave up on it and went deeper.
 
+⚠ Fact-check (contradicted-by-source): *the trip's* yellowtail. Yellowtail were
+already landed earlier in the same trip, before this stop — *"and a couple big
+yellows"* and *"Jamie just got that last yellow"* both fall on an earlier day
+(`odiIWmut6gM`). What the record supports is that the yellowtail **of day four**
+came after the move, not the trip's. The same scope claim is repeated in the
+yellowtail row of [What's there](#whats-there).
+
 ⚠ Fact-check (unverifiable): the name. The captain's answer is rendered by the
 auto-captions as *"right here is a is the La Rasa Part"* (`odiIWmut6gM`), and
 that rendering is the only one the corpus offers — this page carries it rather
@@ -52,6 +59,15 @@ drive, the lodging, the operators and the day shape are all on
 camera, with the crew already fishing before the ground is named (`odiIWmut6gM`);
 the move off it, later the same morning, is what put them on
 [Cardonosa](cardonosa-isla-cartito.md).
+⚠ Fact-check (contradicted-internal): "first stop", "opens here" and "morning".
+*"Day four"* is verbatim (`odiIWmut6gM`), but the transcript never calls this the
+day's first stop and never says morning; fishing calls run between the day-four
+card and the naming, and the captain's line right after the depth call is
+*"Let's go fishing."*
+[Cardonosa](cardonosa-isla-cartito.md#getting-there) already carries the same
+finding from the other side, stating the corpus "never calls it morning, never
+says the shallower high spot was the day's first stop". The lead of this page
+carries the same "first stop of day four" claim.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -75,6 +91,16 @@ under 100 ft are where the zone's yellowtail fishing lives, and in that water th
 fish respond to a surface bait immediately even when they are marked deep
 (`T3cEQUqiH8E`) — [the zone page](bahia-de-los-angeles.md#structure--bathymetry)
 holds that read and the rest of the zone's depth programs.
+⚠ Fact-check (contradicted-by-source): "marked deep", and the depth condition.
+The source says *"if we're in less than 100 ft of water, these fish will respond
+to a surface bait immediately even if they're deep"* (`T3cEQUqiH8E`) — a
+condition on **water depth**, with no sounder, meter or marking language anywhere
+in the transcript, and "these fish" not named as yellowtail until ten lines
+later. The adjacent *"The on high spots"* is a caption fragment, not the stated
+condition, so "high spots under 100 ft are where the yellowtail fishing lives" is
+a reading rather than a statement.
+[The zone page](bahia-de-los-angeles.md#structure--bathymetry) quotes the line
+correctly as "even if they're deep"; the sonar framing is added here.
 
 **Whether this is a separate ground from Cardonosa is unresolved.** The move off
 here was described only as going to look in deeper water, yet the shelf the crew
@@ -116,7 +142,13 @@ carried two rungs up, on [Cortez North](cortez-north.md).
 
 **The documented program is casting, and the stop was slow.** The narration
 marks *"a considerable amount of time casting"* before anything changed
-(`odiIWmut6gM`). Two fish over that stretch is the whole catch record. The
+(`odiIWmut6gM`). Two fish over that stretch is the whole catch record.
+⚠ Fact-check (contradicted-by-source): the two-fish count. Two fish are the only
+ones **identified** at this stop, but the same stretch carries an *"Oh, double
+up"* and further hookup calls — *"There we go"*, *"He did it. Mitch"* —
+(`odiIWmut6gM`), so the transcript does not support two as the total landed. The
+lead's "what it produced on camera was a skipjack and a cabrilla" rests on the
+same count. The
 zone's shallow cast-and-wind doctrine — speed above all, twitch baits burned at
 structure, heavy line because fish rock you — is on
 [the zone page](bahia-de-los-angeles.md#shallow--cast-and-wind-fast), with the
