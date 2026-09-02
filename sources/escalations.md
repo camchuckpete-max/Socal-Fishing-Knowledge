@@ -528,3 +528,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T05:22:42Z — locations/tanner-bank.md — verify-escalate
 - run: 33588038415
 - reason: Flag 4 supersedes a standing 'resolved — no action required' ledger row (Long Beach 90-vs-110 mi spread): nQvJnfb5jQ4's '90 Mi off the coast of Long Beach' is stated OF Cortez, not Tanner, inverting the near-end/far-end assignment and unsettling the page's Getting-there resolution — Cameron should rule
+
+## 2026-09-02T06:29:30Z — locations/bumps.md — guard-violation
+- run: 33595588003
+- reason: commit edc009888dc5f9d21fef17d3d2f369088c14d598 reverted: out of scope for 'review: locations/bumps.md': .para.py
