@@ -79,7 +79,13 @@ positions, not observations made on them.
   you idle onto, grade and leave inside 20–30 minutes. Neither mark here is named
   in that source; the zone page reads the bank's many-high-spots description
   against the search type and the 178 against the compact type, and flags the
-  placement as unstated.
+  placement as unstated. ⚠ Fact-check (contradicted-by-source): only the
+  square-mile half is in this transcript — "50 miles 60 square miles to look …
+  you should expect to spend quite a bit of time driving around," and scoped
+  there to one named group of banks below San Clemente rather than to a general
+  typology. The compact spot, the idling and grading, and the 20–30 minute
+  commit-or-leave read are not in it at all; the only "20 30" is birds moving
+  "about 20 30 feet."
 
 - cameron (2026-08, east of the 9 Mile Bank, San Diego): a probable
   **black-footed albatross**, called unusually close to shore. Carried in
@@ -98,6 +104,14 @@ positions, not observations made on them.
   [bight geography](../../locations/bight-geography.md); the zone page uses it
   only to place these two marks on the abundant side of the paddy line and the
   resilient side of the rollover map, with nothing observed over either mark.
+  ⚠ Fact-check (contradicted-by-source): the paddy half verifies verbatim, but
+  the **wind-rollover contrast is not in this transcript** — its only wind is a
+  west wind discussed as ride quality ("that west wind coming home … a miserable
+  ride up the line"), with no NW event, no Channel Islands, no Ventura shelf, no
+  Newport line and no Coronados/Catalina/San Clemente "held their water"
+  statement. Adjudicated **standing** by Cameron 2026-08-26 on
+  [bight geography](../../locations/bight-geography.md) — the map stands and will
+  not be re-sourced — but the flag had not travelled to this zone.
 
 
 <!-- backlinks:start -->

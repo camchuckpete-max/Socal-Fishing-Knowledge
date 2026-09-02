@@ -32,6 +32,14 @@ beach** rather than in 9 fathoms (`Rf1HKJG-SDg`,
 beach than any other bank in the library except **La Jolla Canyon**, which is a
 canyon on the shelf, and **South 9 Mile Bank**, which is the next mark down the
 same complex.
+⚠ Fact-check (contradicted-internal): the two named exceptions are not the only
+ones. Measuring every entry in [the spot library](../sources/spot-lists.md)'s
+offshore-banks section against its nearest charted coastal position puts five
+more banks inside these figures — the **97** at **1.7 nm** off Punta
+Salsipuedes, **Todos Santos Island** at **3.1 nm**, **Banda Bank** at **4.3 nm**,
+the **60** at **5.7 nm** and the **330** at **6.7 nm** — all of them Baja marks
+against Baja coastal positions. The claim holds only if it is silently scoped to
+US/SoCal water, which it does not say.
 
 **Both of this zone's marks read into one fishery's working-spot list.** The
 daytime deep-drop swordfish list — "the ridge or the 9 or the 178 or the 302 …
@@ -63,6 +71,13 @@ miles** — at **073°** from North 9 Mile Bank, and **Widow Rock** in
 [La Jolla](la-jolla.md) is **7.2 nm** — **8.3 statute miles** — at **057°** from
 the 178 (cameron). Both of those are themselves offshore fishing marks rather
 than shoreline positions, so the figures bracket the name without confirming it.
+⚠ Fact-check (contradicted-by-source): the source says only "nine miles off the
+coast" / "nine miles off the beach" — **the word "statute" is never spoken**.
+[The zone lexicon](zone-lexicon.md) writes it "9 (statute) miles", parenthesising
+it as the KB's reading, and [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
+records the figure as unqualified in the source. This page hardens it to a plain
+`Rf1HKJG-SDg` claim in six places, and the statute conversions in this paragraph
+are what test the name.
 ⚠ Flagged gap — no corpus source: a shoreline or headland position to measure
 either mark against.
 
@@ -86,6 +101,24 @@ crushes the northern Channel Islands and the LA/Ventura shelf hardest while
 Catalina and San Clemente held their water through one such event
 (`HzE4FHHcvTk`, [bight geography](bight-geography.md)). Both marks lie south of
 Newport and inshore of every zone in that comparison (cameron).
+⚠ Fact-check (contradicted-internal): the **Catalina Eddy** scoping here is the
+superseded one. Cameron adjudicated 2026-08-26 that the eddy shields **everything
+east of Catalina and San Clemente**, not just the inner San Diego banks — the
+prevailing wind is from the north, so the islands shadow the water behind them.
+[South 9 Mile Bank / 439](south-9-mile-bank-439.md) and
+[sea state](../conditions/sea-state.md) carry the rescoped wording; this page
+does not.
+⚠ Fact-check (contradicted-by-source): `HzE4FHHcvTk` does not carry the NW-event
+map. That transcript is an offshore-only report whose only wind is a **west**
+wind discussed as ride quality — no NW event, no Channel Islands, no Ventura
+shelf, no Newport line, and no statement that the Coronados, Catalina or San
+Clemente held their water. The map is adjudicated **standing** (Cameron,
+2026-08-26 — it will not be re-sourced, and is to be backed by a per-zone SST
+rollover analysis instead), but that standing flag sits on
+[bight geography](bight-geography.md) and
+[South 9 Mile Bank / 439](south-9-mile-bank-439.md) and did not travel to this
+page, which presents the cite as clean. The paddy geography in the section below
+IS in this transcript.
 ⚠ Flagged gap — no corpus source names these two marks on either map directly.
 
 **The southeast edge of the complex crosses into Mexican water.** The library's
@@ -104,6 +137,13 @@ you fish** ([US waters](us-waters.md)). ⚠ Flagged gap — no corpus source sta
 closure, MPA boundary or restricted area at either position. The nearest
 boundary notes the library carries are on the [La Jolla](la-jolla.md) shoreline
 spots, **12.0 nm** and further northeast (cameron), not out here.
+⚠ Fact-check (unverifiable): both marks sit **10.9–13.5 nm** off the bay
+entrance, well outside California's 3 nm state-waters line, so the CDFW framing
+rests on the KB's own convention in [US waters](us-waters.md) ("US waters here
+means California") rather than on any source. The corpus cannot settle whether a
+federal groundfish measure reaches these positions — which matters here, because
+the bank's ~600 ft crown is worked as a rockfish run and depth-based groundfish
+closures are exactly the kind of boundary that would apply to it.
 
 ## Structure & bathymetry
 
@@ -149,6 +189,12 @@ Bank and the **439** is **13.3 nm** from the 178 (cameron). ⚠ Flagged stub —
 corpus source yet: the South 9 Mile Bank / 439 zone has no page, so the nearest
 hand-off out of this zone, **9.8 nm** from the centre, has nothing to hand off
 to.
+⚠ Fact-check (contradicted-internal): the stub is stale —
+[South 9 Mile Bank / 439](south-9-mile-bank-439.md) exists, and it already
+appears in this page's own **Linked from** block a few lines below the stub that
+says it does not. The hand-off is there; only the claim that it is missing is
+wrong. Same stale-stub class as the
+[Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md) finding.
 
 ⚠ Fact-check (contradicted-internal): **South 9 Mile Bank and Lower 9 Mile Bank
 are 0.65 nm apart** under two names in two different regions — South in
@@ -272,6 +318,16 @@ commit to or leave inside **20–30 minutes** (`Blh2BA-7Ono`,
 [zone lexicon](zone-lexicon.md)). The bank is explicitly the many-high-spots kind
 of ground (`Rf1HKJG-SDg`), which reads as the search type; the 178 is a single
 number **4.9 nm** away (cameron), which reads as the compact type.
+⚠ Fact-check (contradicted-by-source): only the first half of that split is in
+`Blh2BA-7Ono`. The transcript gives the big-box figure — "50 miles 60 square
+miles to look … you should expect to spend quite a bit of time driving around" —
+and scopes it to one specific group of banks below San Clemente on 2022-07-21,
+not to a general Bight typology. It says **nothing** about a compact spot, about
+idling on and grading the meter, or about a **20–30 minute** commit-or-leave
+read; the only "20 30" in it describes birds moving "about 20 30 feet."
+[The zone lexicon](zone-lexicon.md) cites the video on its complex bullet only
+and leaves the compact-spot bullet uncited — this page puts both halves under the
+one cite.
 ⚠ Flagged gap — no corpus source places either mark on that split.
 
 **Report coverage is the one thing this zone should have.** These are inner banks
@@ -311,6 +367,10 @@ Two charted spots (cameron), listed northwest to southeast:
 Charted positions for both are in
 [the spot library](../sources/spot-lists.md); neither spot page exists yet, so
 the generated list below is empty until the gazetteer runs.
+⚠ Fact-check (contradicted-internal): stale — both spot pages exist,
+[the 178](178.md) and [North 9 Mile Bank](north-9-mile-bank.md), and the
+generated list immediately below is not empty but carries both of them. Same
+stale-existence class as the South 9 Mile Bank / 439 stub above.
 
 <!-- children:start -->
 - [178](178.md)
