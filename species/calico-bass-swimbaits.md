@@ -38,7 +38,11 @@ when the fish are on structure instead.
 kelp, more open water** and **crystal-clear water**, over the more typical
 stained/seafoam-green water nearby — the clarity line is where to commit the
 cast, since the bait "gets lost" and fish spook in the cloudier water beside it
-(`lP6cg4eEU6s`). Read it with
+(`lP6cg4eEU6s`). ⚠ Fact-check (contradicted-by-source): the source gives
+visibility/the bait "getting lost" as the stated reason for working the
+clarity line; it does not clearly state that fish spook in the cloudier
+water — that clause is not supported by the (garbled) source audio. Read it
+with
 [water color](../conditions/water-color.md); the general surface-sign
 vocabulary for spotting boiling fish is in
 [search and glassing](../planning/search-and-glassing.md).
@@ -90,6 +94,9 @@ the named brands and the application method stay in
   the boiler program, and it is far lighter than the 40–65 lb kelp/structure
   classes in
   [swimbaits — weedless rigging](../techniques/swimbaits.md#weedless-rigging).
+  ⚠ Fact-check (contradicted-by-source): the 20–25 lb / 30 lb / 40 lb numbers
+  match the source, but the source never says "fluorocarbon" — the leader
+  material is not stated on camera, only the pound-test.
 
 ⚠ Flagged gap — no corpus source: rod length, reel size and gear ratio for this
 specific boiler program; the retrieve cadence for the hard bait; how the
@@ -119,7 +126,10 @@ cover-water boat program:
   [calico bass — presence & forage](calico-bass.md#presence--forage)); on the
   boiler bite the crystal-clear side of the line is where to cast, because in
   the cloudier water the bait gets lost and the fish spook up close
-  (`lP6cg4eEU6s`). These are not the same fish in the same posture — one is an
+  (`lP6cg4eEU6s`). ⚠ Fact-check (contradicted-by-source): the source states
+  the bait gets lost in the cloudier water but does not clearly state that
+  fish spook — see the flag in "When this is the call" above for the same
+  claim. These are not the same fish in the same posture — one is an
   ambusher sitting on structure, the other is already up and chasing bait in
   the open — so the read that applies is set by which of those you are looking
   at, not by which source is preferred.
