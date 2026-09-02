@@ -26,6 +26,16 @@ is the router; this note owns the rig and the retrieve.
   halibut](../species/california-halibut.md) buried in the sand waiting to
   ambush, and [spotted bay bass](../species/spotted-bay-bass.md) — "anything and
   everything" in the bay.
+  ⚠ Fact-check (contradicted-internal): [spotted bay
+  bass](../species/spotted-bay-bass.md#situations--techniques) ranks this note
+  for a scenario it defines as fish **suspended off structure** wanting a
+  **slow horizontal fall**, and describes the rig as holding the bait at the
+  fish's level over a channel edge — a suspended-at-any-depth presentation
+  against this note's bottom-pinned weight and fixed short hook-to-weight rise
+  (too long a distance is listed under [common failures](#common-failures) as
+  riding the bait out of the strike zone), and a falling presentation against a
+  rig whose stated cadences are shake-in-place, twitch-reel-twitch, and the
+  surf drag-shake-drag. That router row carries no cite.
 - You want a **vertical, in-place presentation** over bottom structure rather
   than a bait swimming through the column, using an **artificial** (fluke, grub,
   or small swimbait).

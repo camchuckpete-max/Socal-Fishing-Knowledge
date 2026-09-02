@@ -36,6 +36,15 @@ position for the situation. Bait keeping and selection depth live in
   the parallel [mangrove structure livebait](mangrove-structure-livebait.md)
   note, covering the same cast, carries `waters: bay-harbor`.
 
+⚠ Fact-check (contradicted-internal): a second instance of the same
+water-class gate defect flagged on the mangrove bullet above —
+[spotted bay bass](../species/spotted-bay-bass.md#situations--techniques)
+(`waters: bay-harbor`) ranks this note for its "live bait around structure"
+row (sabiki the small baitfish holding on a dock or bridge, then fish it live
+right there, `AH4Eiya1Hn0`), a bay/harbor situation this list does not carry
+and a source this note does not hold, pointing at a note whose `waters` gate
+excludes `bay-harbor` altogether.
+
 ⚠ Fact-check (contradicted-internal):
 [Pacific crevalle jack](../species/pacific-crevalle-jack.md#situations--techniques)
 routes its "fish **holding on structure**, not showing on top" row to this

@@ -427,6 +427,17 @@ straight-vs-angled fall trigger all live in [spotted bay bass — umbrella rig
 then cruise the baits back up the column — is in [barred sand bass — Alabama
 rig](../species/sand-bass-alabama-rig.md).
 
+⚠ Fact-check (contradicted-internal): the relocation this paragraph records is
+only half done on the router side. [Spotted bay
+bass](../species/spotted-bay-bass.md#situations--techniques)'s umbrella-rig
+row still names **this** note as its technique link and sets its gear cell to
+the standard bass casting class, and never links [spotted bay bass — umbrella
+rig (A-rig)](../species/spotted-bay-bass-swimbaits.md) — the page that now
+holds the build and program, rests on that row's two cites, and identifies
+that row as the one it serves. A reader following the router's link lands here
+and is sent back, and that class cell sits below the 65–80 lb braid / 40 lb
+fluoro A-rig step-up this note's [gear class](#gear-class) carries.
+
 ## Targeting a boiler bite
 
 Open-water/less-kelp "boiler" calico — fish surfacing and busting on bait
