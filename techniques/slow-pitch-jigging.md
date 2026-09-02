@@ -145,6 +145,16 @@ side. Execution only; species and situations are the reverse map in
 - **Weight rule: ~1.5 g per foot of depth** for slow-pitch (vs ~1 g/ft for a
   [speed jig](knife-jigging.md)) — the extra weight offsets the flutter and
   keeps the jig vertical.
+- ⚠ Fact-check (contradicted-internal):
+  [California sheephead](../species/sheephead.md#situations--techniques) routes
+  its bottom-high-spot-on-jigs row here calling for a **stubby** jig profile as
+  a species rule with no conditions attached — "the long skinny ones they don't
+  like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`) — against this section's
+  current-keyed ladder, which sends a reader to a longer, more slender,
+  flat-bottomed jig from 1.5 kt up. The two axes are never reconciled and no
+  decision frame says which governs when a sheephead spot is running current.
+  The same row's supporting fish ate on a slow steady wind-up (`L3tkGVu516A`),
+  against this note's premise that the fall is the trigger.
 - **High current or wind → longer, more slender jig** (cuts water, falls fast
   and straight); **slack / light wind → fatter, fluttery jig** (more hang time
   and action on the fall). Vertical "knife-shaped" SPJ jigs punch down to a

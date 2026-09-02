@@ -31,6 +31,16 @@ fish sit is the router; this note owns the rig and how you feed the bite.
   rather than laying it on the deck: sheephead feed with a forward-facing mouth,
   and a bottomed bait draws rays and sharks instead (`OSbAHdB4uPs`). See
   [species/sheephead.md](../species/sheephead.md).
+  ⚠ Fact-check (contradicted-internal):
+  [chunking](chunking.md#gear-class) — the note
+  [California sheephead](../species/sheephead.md#gear-summary-class-terms)
+  names for the terminal build of this same chummed light-line reef program —
+  caps the lead at **1/16 oz default, 1/8 oz if current demands it, never
+  heavier than 1/4 oz**, off the identical reasoning (more lead puts the bait
+  on the bottom, where shovelnose guitarfish and bat rays eat it)
+  (`f4qYtHACGyk`). This bullet's 1/4 oz floor is that note's absolute ceiling.
+  Neither names the other, and the rig difference (a split shot 2–3 in above
+  the hook there vs the free slider here) is not stated as the reason.
 - The fish are **wary** and drop a bait the instant they feel weight — the
   free-sliding lead removes that tell.
 - You are **drifting bait** and want the presentation pinned near bottom while
@@ -302,6 +312,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sliding-sinker.
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Channel Islands](../locations/channel-islands.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Chunking](chunking.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Dropper Loop](dropper-loop.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)

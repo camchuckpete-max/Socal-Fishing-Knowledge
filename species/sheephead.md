@@ -182,7 +182,7 @@ General method: [search & glassing](../planning/search-and-glassing.md),
 | No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback (`OSbAHdB4uPs`, `yKaHcxX46l4`) — strip prep and the ranking in [sheephead — sliding sinker](sheephead-sliding-sinker.md) and [hooks](../tackle/hooks.md) |
 | Bass or rockfish fishing island rock that holds red crab | **[A red-crab tube bait thrown up into the rocks — the by-catch program](sheephead-tube-bait-fishing.md)** ([general method](../techniques/tube-bait-fishing.md)) | Bass casting / swimbait class | Caught almost always as by-catch while bass or rockfish fishing, not targeted (`5Oh3IPIC5g4`). The bullet-over-"Big Game" profile call, the **5/8–1 oz** island weights, the worked-above-the-rocks presentation, the grades it produces and the switch to sardine or mint on a crab-saturated spot are all in the sub-article (`5Oh3IPIC5g4`, `0HwYl0HO2tc`) [b] |
 | Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) ⚠ Fact-check (contradicted-by-source): `6-8KfjEg0x8` says "we lost a couple sheephead" — none was landed, and the reds came afterward at a separate ~175 ft spot, not on that drift |
-| Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) |
+| Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) ⚠ Fact-check (contradicted-internal): [slow-pitch jigging](../techniques/slow-pitch-jigging.md#jig-weight--selection) keys jig profile to current, not to species — 0–0.5 kt wants a wide flat-sided wing-fall, 0.5–1.5 kt a thicker rounded body, and **1.5–3 kt a longer, flat-bottomed profile that cuts water and stays vertical**, with the note's general rule "high current or wind → longer, more slender jig" — so in the current band that note tells a reader to fish long and slender, this row tells them the fish refuse it, and neither states which governs. Secondary: the Dono support is an eat on a slow steady wind-up, where the linked note's whole premise is that the fall is the trigger and most bites come as a bump on the drop |
 | Live crab aboard as bait for big fish | ⚠ Flagged stub — no corpus source yet: live crabs are named as a thing anglers now carry out on boats specifically for sheephead (`PRNMGpLj7Pw`), with no rig, hook, weight or presentation given anywhere in the corpus | — | Fill in when a source gives the rigging |
 | Cold-water months, summer pelagics gone or slow | Fish the chummed-structure program rather than putting gear away | Same light bait class | A year-round bite that does not depend on the warm-water season (`OSbAHdB4uPs`) |
 | Teaching a new angler or a kid | Same chummed-reef + suspended-bait approach | Light spinning class | Small hooks, small weights and a reef full of willing fish; the catch goes home for dinner (`OSbAHdB4uPs`) |
@@ -223,6 +223,20 @@ class's colors, scents and construction live in
   charter box carries **size 1 and 3/0 light-wire J hooks** for the shallow cod,
   whitefish and sheephead stop (`3xx_vES0kdo`). See
   [hooks](../tackle/hooks.md).
+  ⚠ Fact-check (contradicted-internal): this row is sent to two members that
+  cap the lead differently for the same chummed-reef presentation.
+  [Chunking](../techniques/chunking.md#gear-class) — the note the Rod/reel
+  bullet above names for this program's light-line terminal build — caps the
+  split shot at **1/16 oz by default, 1/8 oz only if current demands it, never
+  heavier than 1/4 oz**, on the stated failure mode that a heavier lead drags
+  the bait to bottom and draws shovelnose guitarfish and bat rays
+  (`f4qYtHACGyk`). The slider ceiling this bullet points at is **1/4–1/2 oz,
+  never heavier than 1/2 oz**, on the same bottom-draws-rays reasoning
+  (`OSbAHdB4uPs`), and [sliding sinker](../techniques/sliding-sinker.md#reach-for-this-when)
+  carries that range for sheephead over a chum line. 1/4 oz is one note's
+  absolute maximum and the other's starting weight; neither names the other,
+  and the rig difference (a split shot 2–3 in above the hook vs a free slider)
+  is nowhere stated as the reason for the gap.
 - **Bait:** pismo clam, mussel or squid, cut into thin strips rather than chunks
   (`OSbAHdB4uPs`) — the ranking, the strip prep and the mussel-on-a-treble call
   are in [sheephead — sliding sinker](sheephead-sliding-sinker.md#rigs--gear).
@@ -318,6 +332,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Channel Islands](../locations/channel-islands.md)
+- [Chunking](../techniques/chunking.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — California Sheephead](evidence/sheephead.md)
@@ -334,6 +349,7 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 - [Santa Cruz Island](../locations/santa-cruz-island.md)
 - [Santa Rosa Island](../locations/santa-rosa-island.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Tube Baits (HookUp Baits)](../lures/tube-baits.md)

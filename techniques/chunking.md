@@ -285,6 +285,18 @@ shallow rock spot in the same harbor repeated the pattern — see the
   ladder rests on this one video, uncorroborated by another source in this
   note's citation set. The light shot is what lets the bait fall at the chum's
   own rate — see [drifting the hook bait](#drifting-the-hook-bait) above.
+  ⚠ Fact-check (contradicted-internal): the dedicated sheephead program on this
+  same chummed SoCal artificial-reef water runs a **1/4–1/2 oz** lead and caps
+  it at 1/2 oz, "never heavier"
+  (`OSbAHdB4uPs`) — see
+  [sliding sinker](sliding-sinker.md#reach-for-this-when) and the Gear summary
+  of [California sheephead](../species/sheephead.md#gear-summary-class-terms),
+  which routes that program's terminal build to this section. Both ceilings are
+  argued from the identical failure mode (too much lead puts the bait on the
+  bottom, where rays and shovelnose eat it instead), yet 1/4 oz is this note's
+  absolute maximum and the sheephead program's starting weight. Neither note
+  names the other, and the rig difference (this split shot 2–3 in above the
+  hook vs a free-sliding egg sinker) is not stated as the reason.
 - **Rail-rod / heavy-tuna class — Guadalupe big tuna.** Full reel/line/rod/
   hook/swivel build (Penn International 16VISX, 100 lb braid, 60–130 rod, "a
   nice big hook that'll hold them," optional swivel) is logged in
@@ -351,6 +363,7 @@ Trip reports and per-source provenance: [evidence file](evidence/chunking.md).
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Sliding Sinker](sliding-sinker.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
 - [Yellowfin Tuna — trolling](../species/yellowfin-tuna-trolling.md)
