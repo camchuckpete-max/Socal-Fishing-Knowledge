@@ -48,6 +48,16 @@ The zone's access — flights in through CBX, a mothership at anchor with an
 sardines ordered from the bait vendor who meets boats out front — is on
 [the zone page](loreto.md#getting-there).
 
+⚠ Fact-check (contradicted-internal): **the access summary restates a claim the
+zone page already flags.** `n4nMCLLW3tY` carries only the custom cleat-to-cleat
+tow rope for *"towing the Grady White behind the Odyssey"* — no length, no CBX,
+and the word "anchor" appears nowhere in it. The **18 ft** figure and CBX reach
+this page from `ikiXx9sUsoA`, where both verify; the *mothership at anchor*
+framing does not — neither transcript says "mothership" or "anchor", the vessel
+is named *"the Odyssey"*, and [the zone page](loreto.md#getting-there) carries a
+standing `contradicted-by-source` flag on that framing which this page restates
+unflagged. Queued in [the fact-check ledger](../sources/fact-check-ledger.md).
+
 **Nothing in the corpus times the leg.** The only distance the source states is
 to a different ground on a later day of the same trip: the north end of Isla
 Carmen at **about 20 miles, roughly an hour** from Puerto Escondido
@@ -76,6 +86,13 @@ deep enough that hitting bottom is worth
 asking about, against a zone whose every other documented ground is **5–30 ft**
 ([the zone page](loreto.md#structure--bathymetry)).
 
+⚠ Fact-check (contradicted-by-source): **one of the two depth quotes lands
+before the boat gets there.** *"all the way down huh"* is spoken at 03:36,
+sixty-seven seconds ahead of the on-camera arrival *"all right we made it to Six
+Mile Reef"* at 04:43; only the *"have you hit bottom yet"* / *"no just the
+trigger"* exchange at 05:09 is unambiguously on the mark (`n4nMCLLW3tY`). Queued
+in [the fact-check ledger](../sources/fact-check-ledger.md).
+
 ⚠ Flagged gap — no corpus source: the reef's depth, its relief, its bottom
 composition, how big it is, or any sounder picture of it — the mark is used as
 a plotter position, and nothing is ever read off the screen
@@ -90,7 +107,7 @@ crew (`n4nMCLLW3tY`). Nothing in the corpus puts any other month on this reef.
 | species | season | what this spot does for them |
 | --- | --- | --- |
 | [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: the trip that produced it is undated, and no month is attached to the fish | **The reason the reef is on the plan at all** — *"that's where I got the yellowtail"* on an earlier trip, recalled while running to it (`n4nMCLLW3tY`). None came off it on the day filmed. It is the zone's only yellowtail recorded over a high spot rather than against island rock or a sheltered corner ([zone page](loreto.md#whats-there)). ⚠ Fact-check (single-source): an undated on-camera recollection of one fish, never repeated and never retested |
-| Triggerfish | 2023-07-31 (`n4nMCLLW3tY`) | The reef's standing customer, and the one the crew grade the others against — a hookup here was called *"not as squirrely as a triggerfish"* before it was seen (`n4nMCLLW3tY`). ⚠ Flagged stub — no corpus source yet for a triggerfish router |
+| Triggerfish | 2023-07-31 (`n4nMCLLW3tY`) | The reef's standing customer, and the one the crew grade the others against — a hookup here was called *"not as squirrely as a triggerfish"* before it was seen (`n4nMCLLW3tY`). ⚠ Flagged stub — no corpus source yet for a triggerfish router. ⚠ Fact-check (contradicted-by-source): the trigger is hooked at 03:55 and released at 04:10, both ahead of the on-camera arrival *"all right we made it to Six Mile Reef"* at 04:43; only the later *"no just the trigger"* (05:09) ties it to the mark, and the *"not as squirrely as a triggerfish"* line is spoken over the pinto bass, not this fish |
 | Pinto bass | 2023-07-31 (`n4nMCLLW3tY`) | A bottom fish off the mark, identified on sight as it came up (`n4nMCLLW3tY`). ⚠ Flagged stub — no corpus source yet for a Pinto bass router; the nearest shallow-rock resident in this zone is [cabrilla](../species/cabrilla.md), which is **not** recorded here |
 | [Skipjack](../species/skipjack-tuna.md) | 2023-07-31 (`n4nMCLLW3tY`) | Came up over the reef and was **kept for chunk bait** rather than as a target — the zone's standing use for them (`n4nMCLLW3tY`) |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this reef for [dorado](../species/dorado.md), roosterfish, sierra, [barracuda](../species/barracuda.md) or [cabrilla](../species/cabrilla.md). All of those are recorded against other grounds in the zone ([zone page](loreto.md#whats-there)) |
