@@ -58,7 +58,9 @@ the bay) — is very important (`a5u8BaYzw8c`). The evidence for it is outcome,
 not mechanism: across many trips "the only guy to not catch a fish was the one
 guy using straight mono," and no mechanism is established beyond the
 fluorocarbon being stiffer and doing "something" to the bait's presentation
-(`a5u8BaYzw8c`).
+(`a5u8BaYzw8c`). ⚠ Fact-check (single-source): the mono-vs-fluoro outcome
+claim rests on this one angler's anecdote, uncorroborated elsewhere in the
+corpus.
 
 **Sinker shape is a halibut-specific choice: ball or cannonball over torpedo.**
 Torpedo sinkers are the habit; ball weights are the borrowed commercial
@@ -66,7 +68,9 @@ practice, because they bounce on the bottom rather than burying in the mud,
 disrupt the bottom, and "kick that halibut up off the mud" (`a5u8BaYzw8c`).
 The bounce-rather-than-bury behaviour is the established half; kicking a
 halibut up off the mud is stated as a theory rather than a demonstrated
-effect, and does not change the shape choice (`a5u8BaYzw8c`).
+effect, and does not change the shape choice (`a5u8BaYzw8c`). ⚠ Fact-check
+(single-source): the mud-kicking mechanism is one angler's self-described
+theory, uncorroborated elsewhere in the corpus.
 
 **Sinker weight is set by depth and current, not by a default.** **1–1½ oz** in
 the bay; **4–6 oz** as the offshore starting point; up to **10 oz** when the
@@ -81,6 +85,8 @@ is the cue to pay attention (`a5u8BaYzw8c`).
 exactly like dragging into a patch of kelp — about **60%** of the time it *is*
 kelp, but a good **25–30%** of the time it is a halibut that has picked the
 bait up and is moving along with it, with no tap felt at all (`a5u8BaYzw8c`).
+⚠ Fact-check (single-source): the 60% kelp / 25–30% halibut split is one
+angler's estimate, uncorroborated elsewhere in the corpus.
 
 **Lift and wind; never swing.** Respond to any change in pressure by lifting
 the rod and simply continuing to wind until it comes tight — "you never want to
