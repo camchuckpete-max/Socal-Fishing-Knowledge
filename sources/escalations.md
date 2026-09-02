@@ -552,7 +552,3 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T17:05:46Z — cluster:barracuda — guard-violation
 - run: 33658289076
 - reason: commit 33fd54359112a3a162093d6c0a0a84b4607afd54 reverted: out of scope for 'review: cluster:barracuda': techniques/flyline.md; out of scope for 'review: cluster:barracuda': techniques/surface-iron.md
-
-## 2026-09-02T17:28:40Z — cluster:cabrilla — out-of-scope-finding
-- run: 33658289076
-- reason: Two findings land on files outside this cluster row's guard scope (the worklist row lists only the 5 technique/lure members, not the species-technique sub-articles). (1) STALENESS: species/cabrilla-yo-yo-iron.md's 'Differs from the general method' bullet 1 says the general method 'positions up-current of a metered school or the bottom and free-spools straight down' - techniques/yo-yo-iron.md now also carries a 45-degree cast preference and a cast-and-retrieve working-water cadence walking the iron 150 yd to the boat, so 'a cast, not a drop' is no longer the delta; what survives is the target (visible/read rock rather than a metered mark). Needs a contradicted-internal flag + ledger row on that page. (2) techniques/trolling.md line ~798 links the word 'cabrilla' to ../tackle/hooks.md#baja-sea-of-cortez-sizing instead of ../species/cabrilla.md - a live but mis-targeted link, left unfixed because this pass flags rather than edits.

@@ -200,26 +200,10 @@ zone label. The up-to-20-a-day jig was another angler's ("he was catching up
 to 20 cabrilla day"), and the source blames his own blank on colour AND action
 jointly — "I didn't trigger those bites because I didn't have something bright
 coloured that was also a fast swimming jig" — not on the wide swim alone.
-⚠ Fact-check (contradicted-internal): the surface-iron row above specifies a
-jig "that tracks straight rather than in an S pattern," while
-[surface iron](../techniques/surface-iron.md) makes the serpentine S swim and
-its periodic kick-out the bite trigger itself — "that kick-out is what triggers
-a bite" — and [iron jigs](../lures/iron-jigs.md) holds that a body without that
-built-in asymmetry "swims dead." A straight-tracking iron is the jig those two
-notes say does not get bit; the wide-vs-tight kick axis they do carry is a
-different variable from tracking straight.
 [d] Two further micro-lure names in the source could not be reconstructed from
 the captions — see the [evidence file](evidence/cabrilla.md).
 [e] Retrieve, cadence counts, bite window and the depth-keyed iron weights are
 in [cabrilla — yo-yo iron](cabrilla-yo-yo-iron.md#how-cabrilla-changes-the-execution).
-⚠ Fact-check (contradicted-internal): the trolling stub row's "no speed, lure
-or depth parameters anywhere in the corpus" is contradicted by
-[trolling](../techniques/trolling.md), whose "Baja, Sea of Cortez trolling lure
-kit" section — cited to `M8hOYQ_6rSg`, a source this note already carries —
-names the lure classes trolled there (Nomad-, Rapala- and Yo-Zuri-class divers,
-mirror lures, micro spreader bars for dorado, feathers small and uncommon) and
-frames the kit as what is trolled ahead of casting for cabrilla. Speed and
-depth parameters are still absent; the lure half of the stub is not.
 
 ## Gear summary (class terms)
 
@@ -367,8 +351,6 @@ Trip reports and per-source provenance: [evidence file](evidence/cabrilla.md).
 - [Six Mile Reef](../locations/six-mile-reef.md)
 - [Snook (Robalo)](snook.md)
 - [Snook (Robalo) — sliding sinker](snook-sliding-sinker.md)
-- [Surface Iron](../techniques/surface-iron.md)
 - [The Boca (Magdalena Bay Entrance)](../locations/lopez-mateos-magdalena-bay-boca.md)
-- [Trolling](../techniques/trolling.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
