@@ -552,3 +552,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T17:05:46Z — cluster:barracuda — guard-violation
 - run: 33658289076
 - reason: commit 33fd54359112a3a162093d6c0a0a84b4607afd54 reverted: out of scope for 'review: cluster:barracuda': techniques/flyline.md; out of scope for 'review: cluster:barracuda': techniques/surface-iron.md
+
+## 2026-09-02T17:28:45Z — cluster:cabrilla — guard-violation
+- run: 33658289076
+- reason: commit 0809ef7049a2ad1c0f05dbe5c46ab4cf88387a6e reverted: out of scope for 'review: cluster:cabrilla': techniques/surface-iron.md; out of scope for 'review: cluster:cabrilla': techniques/trolling.md
