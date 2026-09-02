@@ -107,7 +107,14 @@ colour doctrine above, since it answers the question for a different lure
 class. ⚠ Fact-check (single-source): the chrome/white-by-light framework in
 this section is verified verbatim against `F7jLrt2j2X8` but rests on that one
 interview; no other cited source in this note addresses tuna lead-jig
-colour.
+colour. ⚠ Fact-check (contradicted-internal):
+[bonito](../species/bonito.md#situations--techniques) sends its readers here
+for a species-keyed chrome rule this note does not carry — that chrome is the
+colour bonito reach first, and the colour to leave in the bag when yellowtail
+are the target. This note's chrome doctrine is light-keyed and scoped to tuna
+lead jigs (chrome in bright midday, white-accented in low light), its
+surface-iron doctrine is that colour is not the variable at all, and its only
+yellowtail line is that "colour doesn't matter" is a yellowtail saying.
 
 ## Gear class
 

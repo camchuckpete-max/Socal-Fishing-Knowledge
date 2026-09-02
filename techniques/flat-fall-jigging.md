@@ -90,6 +90,11 @@ to reach for it is the reverse map in **Linked from** below.
   moving through fast — they "want it to flow through them, not past them" —
   while a big, fast-sinking jig sent past a holding fish can get ignored
   (`qLKLlZdiflA`).
+  ⚠ Fact-check (contradicted-internal): [bonito](../species/bonito.md#situations--techniques)
+  routes a picky-surface-bite row to this note at **80 g** on light casting
+  class — lighter than every weight documented here, against the
+  heavier-not-lighter doctrine above, and outside this note's own scope of
+  large bluefin marked deep on rail-rod tackle.
 
 ## Leader and terminal rigging
 
