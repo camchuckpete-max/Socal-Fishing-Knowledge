@@ -51,6 +51,15 @@ transcript content.
   ⚠ Fact-check (contradicted-internal): [East Cape](../locations/east-cape.md)
   additionally cites `tcso7Lpm_Xs` for jack crevalle on the sand, but that
   transcript's only "jack" is "skipjack" and it names no crevalle.
+  ⚠ Fact-check (contradicted-internal):
+  [flyline](../techniques/flyline.md#baja-mangrove-structure-casting--precision-bait-placement-mag-bay)
+  records "jack (crevalle)" taken at Lopez Mateos, Magdalena Bay — Baja
+  Pacific, not the Cortez — on the anchored chum/flyline mangrove pattern
+  (`dlxA22FVNGc`, 2022-01-23), released as bycatch rather than targeted. That
+  is a second sourced location, a second sourced program and a second landed
+  record, against this note's "East Cape … the only sourced location", its
+  "the one corpus record of a landed fish" framing, and its `regions` field,
+  which carries no `baja-pacific-south`.
 - **Presence is not a season here.** No month, water temperature or run timing
   is stated for crevalle at East Cape, and the three recordings are upload
   dates, not catch dates. ⚠ Flagged gap — no corpus source: when crevalle are
@@ -147,6 +156,24 @@ here contradicts the sourced row; it is simply unconfirmed for this species.
 class exists for rows 2–4. The only terminal figures the corpus carries for
 this species are the bait-program numbers in row 1, and no crevalle was landed
 on them.
+⚠ Fact-check (contradicted-internal): row 2's "**Fast reaction retrieve**"
+covers the popper/stickbait leg as well as the iron, against
+[poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md#how-to-fish-it),
+whose stated class doctrine is the opposite for a popper — "poppers first
+(they hold the zone; bite on the pause)", "the popper keeps a bait in the zone
+longest and the bite usually comes **on the pause**", and a cadence of a
+three-count, one hard rip, then wait. That note carries burn/skip retrieves
+too, but as trip-to-trip reads for the stickbait leg, never as a blanket fast
+retrieve for the class.
+⚠ Fact-check (contradicted-internal): row 3 routes a "**bottom bait**" to
+[flyline](../techniques/flyline.md), which defines itself as "a hooked live
+bait fished **with no weight**" and whose stated doctrine calls adding a split
+shot or sliding weight "a workaround for not knowing how to cast, not a
+technique upgrade". Its three weighted cases are explicitly kept as
+conditions-driven exceptions to the no-weight default (½ oz in current, a
+½–¾ oz rubber-core/slider for deeper sardines, a small egg sinker with no
+surface sign), and none is a bottom presentation; its own **Reach for this
+when** carries no fish-holding-deep-on-structure entry.
 
 ## Gear summary (class terms)
 
@@ -156,6 +183,14 @@ on them.
   beach-drop program (`APsnsunT4gM`).
 - **Lures:** [iron jigs](../lures/iron-jigs.md) and
   [poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
+  ⚠ Fact-check (contradicted-internal):
+  [poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) gates
+  itself `regions: [socal-bight, baja-pacific-north, baja-pacific-south]` —
+  neither Cortez region — while this note's only sourced water is East Cape
+  (`cortez-south`) and its own `regions` are `[socal-bight, cortez-north,
+  cortez-south]`. So the lure this router hands a Sea-of-Cortez planner in
+  row 2 and here is one whose note says its knowledge does not apply there;
+  only the row-4 SoCal-stray case falls inside both gates.
 - **Terminal:** strong, abrasion-tolerant leader — they fight brutally around
   structure and are not leader-shy, so heavier terminal costs few bites. In
   Baja California Sur a [circle hook](../tackle/hooks.md) is mandatory — see
@@ -238,6 +273,7 @@ Trip reports and per-source provenance:
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Pacific Crevalle Jack](evidence/pacific-crevalle-jack.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
+- [Flyline](../techniques/flyline.md)
 - [Isla Monserrat — north end](../locations/isla-monserrat-north-end.md)
 - [La Paz](../locations/la-paz.md)
 - [Lighthouse Point](../locations/lighthouse-point.md)
@@ -247,5 +283,6 @@ Trip reports and per-source provenance:
 - [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 <!-- backlinks:end -->

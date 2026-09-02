@@ -28,6 +28,15 @@ position for the situation. Bait keeping and selection depth live in
   only a natural, unweighted drift gets the bait into the strike zone. See the
   Mag Bay mangrove application below.
 
+⚠ Fact-check (contradicted-internal):
+[Pacific crevalle jack](../species/pacific-crevalle-jack.md#situations--techniques)
+routes its "fish **holding on structure**, not showing on top" row to this
+note as a "flylined or **bottom bait**" — a situation this list does not
+carry and a presentation against this note's no-weight definition and its
+stated doctrine that adding a split shot or sliding weight is "a workaround
+for not knowing how to cast, not a technique upgrade." The weighted cases
+below are conditions-driven exceptions to that default, not a bottom rig.
+
 ## Hook position by situation
 
 Pick the hook position for the swimming behavior you want:
@@ -560,6 +569,14 @@ rest of this note otherwise describes.
   suggestion, not an observed outcome. A separate session (`dlxA22FVNGc`,
   2022-01-23) also took jack (crevalle) on the same chum/flyline pattern,
   released as bycatch rather than the targeted species.
+  ⚠ Fact-check (contradicted-internal):
+  [Pacific crevalle jack](../species/pacific-crevalle-jack.md#where--when)
+  states East Cape is "the only sourced location" for the species, that its
+  one corpus record of a landed fish is `84XPJAeH0Rw`, and that "no corpus
+  source places a crevalle anywhere in the Cortez outside East Cape" — while
+  this Mag Bay record is a second location (Baja Pacific), a second program
+  (anchored chum + mangrove-edge flyline) and a second landed fish. That
+  router's `regions` field carries no `baja-pacific-south`.
 - **Observed** (Your Saltwater Guide, 2022-01-28, Lopez Mateos, Magdalena Bay —
   `frX09YMQxKE`; predates the `-5kooyIyavs`/`FxgLol_IHa0` clips above by about a
   month, same channel and location — a third data point for this Mag Bay

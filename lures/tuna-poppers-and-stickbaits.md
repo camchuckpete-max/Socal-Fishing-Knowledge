@@ -21,6 +21,14 @@ The same hard-bait-on-top idea also has a [yellowtail](../species/yellowtail.md)
 application — see the Colt Sniper stickbait/jerkbait entry below, a different
 product from the tuna casting jig despite sharing a model name.
 
+⚠ Fact-check (contradicted-internal):
+[Pacific crevalle jack](../species/pacific-crevalle-jack.md#situations--techniques)
+routes to this note for a species whose only sourced water is East Cape,
+Sea of Cortez (`cortez-south`), and lists it in that router's **Gear summary**
+— but this note's `regions` are `[socal-bight, baja-pacific-north,
+baja-pacific-south]`, neither Cortez region, so the region gate says this
+knowledge does not apply where that router is sending the reader.
+
 ## The class / models
 
 ### Yo-Zuri Mag Popper
@@ -772,6 +780,16 @@ terns, set up ahead of the school's travel, stop hard, and cast into the middle
 of the foam. **Poppers first** (they hold the zone; bite on the pause); switch to
 a **stickbait/darter** when fish are keyed on smaller bait, and to a **small lead
 bait** (Colt Sniper class) when the bait is finger-size.
+
+⚠ Fact-check (contradicted-internal):
+[Pacific crevalle jack](../species/pacific-crevalle-jack.md#situations--techniques)
+routes casting these plugs at fish boiling on inshore structure with the
+instruction "**fast reaction retrieve**", against the bite-on-the-pause
+cadence this note makes the popper's core doctrine (and the three-count,
+one-hard-rip-then-wait cadence logged for the Nomad Chug Norris). The burn and
+skip retrieves here belong to the stickbait/small-lead-bait legs and are
+framed as trip-to-trip reads, not as a blanket speed for the class. That
+router's row carries no crevalle source at all.
 
 **Popper size cap for yellowfin (Cesar, Eric's Tackle, via Dirty Hookers,
 F7jLrt2j2X8, 2023-10-09; first commit, medium confidence pending repetition):**
