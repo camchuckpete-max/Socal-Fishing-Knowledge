@@ -26,8 +26,13 @@ rather than a boundary the fishery drew.
 written in this region.** Two marks **3.6 nm** apart (cameron) span less than a third of the
 census's **12 nm** zone-diameter cap, and less than half the **8.5 nm** core of
 [385 / 238 / 475](385-238-475.md), the tightest bank grouping the review had
-written before it. A boat working one of these positions is already on top of
-the other.
+written before it. ⚠ Fact-check (contradicted-internal): the 8.5 nm
+superlative does not hold — [101 / 425](101-425.md) states its two banks sit
+**6.9 nm** apart and was written before this page, and
+[483/500 / 437](483-500-437.md) spans **7.9 nm** on the library's own
+coordinates. The 3.6 nm measurement, the 12 nm cap and the arithmetic against
+8.5 nm all recompute exactly. A boat working one of these positions is already
+on top of the other.
 
 **Nothing in the corpus describes fishing either mark.** The
 [region page](baja-pacific-north.md) carries the same gap across the whole
@@ -54,6 +59,13 @@ the Baja coast, out of San Diego or anywhere else.
 inside the port's documented offshore band but off its documented bearing.**
 Ensenada is a drive-to port with bait made outside the marina and the offshore
 fleet departing from it (`0dIwWiOc1NY`, `0bcDBGzQnGw`; [Ensenada](ensenada.md)).
+⚠ Fact-check (contradicted-by-source): neither cite states that an offshore
+fleet departs from Ensenada — the only fleet line in `0bcDBGzQnGw` puts one
+45–50 mi offshore ("I know the fleet is about 45 50 miles from where",
+@00:11:39). The drive-to and bait elements rest on `0dIwWiOc1NY` alone (a hotel
+shuttle across the border, @00:04:41; one crew stopping "just outside the
+marina to catch a few to use as bait", @00:06:44), and `0bcDBGzQnGw` offers a
+competing bait picture — "ten minutes to the bait barge" (@00:12:19).
 Measured from **Punta San Miguel** at **31°54.110'N 116°44.980'W**, the
 northern headland of that zone (cameron), the two marks lie **20.8–21.1 nm**
 away — **23.9–24.3 statute miles** — on a bearing of about **303°**. The stated
@@ -84,7 +96,14 @@ extension of a Coronados day, or reached from the US side at all.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
-([Mexican waters](mexican-waters.md)). ⚠ Flagged gap — no corpus source:
+([Mexican waters](mexican-waters.md)). ⚠ Fact-check (unverifiable): no cite is
+given and no corpus source names either agency or divides Mexican fishing
+permits from immigration entry between them — [Mexican waters](mexican-waters.md),
+the page this paragraph links, carries a standing ledgered finding that its own
+cited transcripts never give the CONAPESCA name. The as-of stamp and the
+verify-current instruction are correctly present.
+
+⚠ Flagged gap — no corpus source:
 closures, protected areas or restricted zones anywhere in this zone.
 
 ## Structure & bathymetry
@@ -103,7 +122,13 @@ marks — *Upper Finger Bank rockfish 180ft*, *240ft*, *300ft*, the *71 Fathom
 Spot* and the *27 Fathom Spot* (cameron) — and every one of them carries the
 Upper Finger Bank name while lying **7.6–12.7 nm** north-northwest of the
 position charted under that name, on bearings of **332–360°**
-([Finger Bank rockfish](finger-bank-rockfish.md)). The nearest of them, the
+([Finger Bank rockfish](finger-bank-rockfish.md)). ⚠ Fact-check
+(contradicted-by-source): the range is measured from both zone marks, not from
+"the position charted under that name". Recomputed from
+`sources/spot-lists.md`, the five lie **7.6–10.9 nm** from the Upper Finger
+Bank on bearings of **323–342°**; the 12.7 nm and ~360° endpoints belong to the
+475 Knuckle, and the 332° floor excludes the 71 Fathom Spot at 323°. The
+nearest of them, the
 27 Fathom Spot, is **7.6 nm** from the Upper Finger Bank — inside the census's
 12 nm cap, so on coordinates alone it would have clustered here. It did not,
 because those five sit in a `##` section of their own and a fisherman's carve-up
@@ -117,10 +142,25 @@ should not smooth over.** The five northern marks label **162–426 ft** of wate
 shallow enough to be worked on the bottom ([Finger Bank rockfish](finger-bank-rockfish.md)).
 The name charted *here* carries no number at all — one of the few bank names in
 the region's grid that makes no depth claim — while its zone partner claims
-**475**. Under the naming convention a bank takes the **fathom depth of its
+**475**. ⚠ Fact-check (contradicted-by-source): "one of the few" understates
+it. Counted over § Offshore banks in `sources/spot-lists.md`, **22 of the 71**
+bank names in this region carry no number at all — Mushroom, Upper Hidden Bank,
+Hidden Bank, Upper Cross, The Worm, Elephant, The Airplane, Todos Santos
+Island, The Pistol, Dumping Grounds, Banda Bank, Peanut Bank, Sniffer, Lower
+Cross, Catchers Mitt and The Bumps among them — roughly a third of the grid,
+not a handful. Under the naming convention a bank takes the **fathom depth of its
 shallowest (highest) point**, at six feet to a fathom
 ([zone lexicon](zone-lexicon.md), `Rf1HKJG-SDg`), which reads the 475 Knuckle at
-**475 fathoms — about 2,850 ft**. That is deeper than anything fished on the
+**475 fathoms — about 2,850 ft**. ⚠ Fact-check (contradicted-by-source): the
+naming rule is hedged in its cited source and carries counter-cases this
+sentence drops before deriving 2,850 ft. `Rf1HKJG-SDg` says "most of them are
+the banks are called after the highest part of the bank" (@00:06:09) and names
+distance-named exceptions in the same breath — "the nine mile bank that's not
+nine miles deep that's nine miles off the coast" (@00:05:29), "14 is 14 miles
+off the beach" (@00:06:01) — which the linked lexicon carries as "The
+exception". Six feet to a fathom is stated directly — "six feet is in a
+fathom" (@00:06:37) — and the same
+hardening is already ledgered on [101 / 425](101-425.md). That is deeper than anything fished on the
 bottom in the KB and well below the **800–1,100 ft** SoCal daytime swordfish
 bait ([deep-drop swordfishing](../techniques/deep-drop-swordfishing.md)). So one
 name says rockfish ground and the other says open-ocean depth, roughly 8 nm
@@ -150,7 +190,12 @@ in any direction after the Finger Bank rockfish five are the Descanso and
 La Fonda coastal positions **8.6–12.7 nm** east and northeast; the nearest bank
 zone is [101 / 425](101-425.md), whose 101 is **12.2 nm** north, and
 [Upper 500 / Hidden Bank](upper-500-hidden-bank.md) is **17.8 nm** or more to
-the southeast (cameron). This zone is therefore the **inshore edge of the Baja
+the southeast (cameron). ⚠ Fact-check (contradicted-by-source): both distances
+recompute but neither compass direction does. From `sources/spot-lists.md` the
+101 bears **313°** from the Upper Finger Bank — northwest, not north — and the
+whole Upper 500 / Hidden Bank zone lies **west to southwest** of the 475
+Knuckle rather than southeast: Upper Hidden Bank **267°** at 17.8 nm, Hidden
+Bank **243°** at 21.9 nm and the Upper 500 **227°** at 26.6 nm. This zone is therefore the **inshore edge of the Baja
 bank grid at these latitudes** — the last structure before the coast — which is
 the one thing about it that would shape a plan. ⚠ Flagged gap — no corpus source
 frames it that way, or any way.
@@ -175,7 +220,15 @@ port (`0dIwWiOc1NY`), and skipjack, yellowfin and a striped marlin were worked
 around a floating object about **35 mi** out on temperature breaks west of the
 port (`0bcDBGzQnGw`) — both bands outside this zone's **23.9–24.3 statute
 miles**, and neither carrying a bearing narrow enough to place a fish on a
-position. The routers [yellowfin tuna](../species/yellowfin-tuna.md) and
+position. ⚠ Fact-check (contradicted-by-source): three elements of the second
+band are not in `0bcDBGzQnGw`. The only marlin in it is one **seen jumping**
+in the earlier run-down-the-coast segment with no species named — "actually
+just saw marlin jump right in front of the boat" (@00:05:46) — never hooked and
+not at the paddy. At the 35-mile mark (@00:20:49, where the skipjack @00:20:27
+and yellowfin @00:20:31 sit) the source states nothing about temperature or
+bearing; the only water comment is colour ("this water is epic jus the color",
+@00:20:05), and the west heading comes from the pre-trip plan. A yellowtail was
+also landed there (@00:21:32). The routers [yellowfin tuna](../species/yellowfin-tuna.md) and
 [bluefin tuna](../species/bluefin-tuna.md) carry that material at region level.
 
 ⚠ Flagged gap — no corpus source: whether
@@ -200,7 +253,16 @@ by sea conditions, with a fallback search **20–30 mi north**; trolling cedar
 plugs locates fish and the crew deliberately worked away from the fleet
 (`0bcDBGzQnGw`; [Ensenada](ensenada.md),
 [water temperature](../conditions/water-temperature.md),
-[current structure](../conditions/current-structure.md)). Applied here that makes
+[current structure](../conditions/current-structure.md)). ⚠ Fact-check
+(contradicted-by-source): the cedar plugs are not part of the Ensenada plan and
+did not locate anything. The only cedar-plug line in `0bcDBGzQnGw` is in the
+earlier run-down-the-coast segment — "slow troll and some cedar plugs right now
+around this big dolphin school" (@00:03:03) — worked on fish already found by
+eye; the source's locating doctrine is "the name of the game is finding
+li[f]e … we found some life out here" (@00:03:11, garbled auto-caption reads
+"light"). The 20–30 mi west run to a break, the north-or-west continuation
+by sea conditions, the 20–30 mi north fallback and working away from the fleet
+all verify (@00:11:17–00:11:39). Applied here that makes
 these two positions **water you would cross on a break search**, not
 destinations the corpus sends you to. General reading layers are
 [current & structure](../conditions/current-structure.md) and
@@ -228,7 +290,12 @@ one stop:
   name shared with five depth-labelled marks in another zone and no depth claim
   of its own. It is the closer of the two to every neighbour the library charts —
   the coast, the Coronados, the Finger Bank rockfish ladder and the 101 alike
-  (cameron).
+  (cameron). ⚠ Fact-check (contradicted-by-source): the four neighbours named
+  check out, but "every" does not. Recomputed from `sources/spot-lists.md` the
+  475 Knuckle is the closer of the two to every charted mark south and west of
+  the pair — the 425 (17.6 vs 17.9 nm), Upper Hidden Bank (17.8 vs 20.4),
+  Hidden Bank (21.9 vs 25.2), the Upper 500 (26.6 vs 30.1), the 475 (28.1 vs
+  30.8) and the 1140 Finger (46.2 vs 49.2).
 - **The 475 Knuckle**, **3.6 nm** southwest of it, the deepest-reading name in
   this water and a distinct spot from the 475 far to the south.
 
