@@ -68,10 +68,16 @@ observation. Observations never change the note's stated doctrine.
 - `NJ9ZLAU3sls` (SearcherSportfishing, "Tackle Tip Thursday Vol. 68 (Chunking),"
   2019-10-03; speaker not named on camera — medium): the chunk-fishery grade
   called out at 100, 120, 130 and 140 lb, species named only as "tuna."
+  ⚠ Fact-check (contradicted-by-source): the figures are a rod-rating capability
+  line, not fish landed — "a rod rated 60 to 130 — this will handle those big big
+  tuna at Guadalupe Island, 100 120 130 140 pounds."
 - `EfaxxszOYFI` (SearcherSportfishing, "Tackle Tip Thursday Vol. 72 (Halloween
   Edition)," 2019-10-31; speaker not identified — medium): Guadalupe Island and
   "the ridge" named together as a light-line tuna fishery, with a 45 lb
   yellowfin landed on size 2 and 4 hooks described as "frightfully tough."
+  ⚠ Fact-check (contradicted-by-source): no fish is landed in the clip — "and
+  they're frightfully tough to get when you hook a 45 pound yellowfin tuna
+  Guadalupe Island" is hypothetical and describes the fish, not a catch.
 - `Ec2GaNpiOHI` (Strictly Irons, "Q & A with Dan Wade," 2019-03-19; `dan-wade`
   is a registered voice — high on the man, single occurrence for this figure):
   asked for his yellowtail personal best on the surface iron, Wade names a 68 lb
@@ -82,6 +88,10 @@ observation. Observations never change the note's stated doctrine.
   the drop-off, 100 lb leader on the bottom on a dropper loop, and the angler's
   own "I lose about eight out of 10" — "you bite right through it." Framed on
   camera as routine, not as a bad day: "it happens every day here."
+  ⚠ Fact-check (contradicted-by-source): "water buffalo" is a first-person intent
+  line, not a crew nickname — "Today's the day that I want to wrestle me a water
+  buffalo and I'm going to win" — and the captions carry no speaker labels;
+  "yellowtail" appears only in the video title, never in the transcript body.
 - `FXWOIB0TPfE` (SearcherSportfishing, Tackle Talk Live, 2020-04-08;
   `searcher-sportfishing` registered channel — medium, single mention): a viewer
   question opening "sharks are part of the game at Guadalupe" and asking how to

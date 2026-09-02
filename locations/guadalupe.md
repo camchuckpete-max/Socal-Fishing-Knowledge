@@ -17,20 +17,35 @@ distance_nm: unknown — the corpus gives 215 mi to the north end and 235 mi to 
 **[Baja only]** — Guadalupe Island, the outermost zone of
 [Baja Pacific — North](baja-pacific-north.md) and the only one in the region
 that no day boat reaches: **215 mi to the north end, 235 mi to the south end**
-from San Diego, a full day's run each way (`_r08B4bItAY`). Everything the corpus
-records here arrives on a multi-day long-range boat out of San Diego, and the
-draw is grade. [Yellowfin tuna](../species/yellowfin-tuna.md) run **50–150 lb**
-(`ETw_3AFxEcM`) against the
+from San Diego, a full day's run each way (`_r08B4bItAY`).
+⚠ Fact-check (contradicted-by-source): the source says "it's a day's run" — one
+leg, not "each way" — and never names San Diego as the departure port.
+Everything the corpus records here arrives on a multi-day long-range boat out of
+San Diego, and the draw is grade. [Yellowfin tuna](../species/yellowfin-tuna.md)
+run **50–150 lb** (`ETw_3AFxEcM`) against the
 [15–25 lb SoCal average grade](../species/yellowfin-tuna.md), chunk-caught fish are called
 out at **100, 120, 130 and 140 lb** (`NJ9ZLAU3sls`), and the island's resident
 [yellowtail](../species/yellowtail.md) — nicknamed "water buffalo" on camera —
 are fished on a dropper loop down a rock wall that cuts off most of what it
 hooks (`RgtkbmBFUXI`).
+⚠ Fact-check (contradicted-by-source): the 100/120/130/140 lb figures are a
+rod-rating capability line in `NJ9ZLAU3sls` — "a rod rated 60 to 130 … this will
+handle those big big tuna at Guadalupe Island, 100 120 130 140 pounds" — not
+fish called out as caught, and the species there is only "tuna", never yellowfin
+(the same figures are repeated in the What's there table).
+⚠ Fact-check (contradicted-by-source): the only "water buffalo" line in
+`RgtkbmBFUXI` is first-person intent — "Today's the day that I want to wrestle
+me a water buffalo and I'm going to win" — not a crew nickname as the What's
+there table has it, and neither "yellowtail" nor "resident" appears in the
+transcript body, only in the video title.
 
 The zone carries **no charted positions in [the spot library](../sources/spot-lists.md)**
 — it exists here because twenty-eight notes carry it, and the island is named in
 the corpus as one landmass with a north end and a south end, never as a set of
 marks.
+⚠ Fact-check (contradicted-internal): the count is understated — 57 notes
+outside `sources/` carry "Guadalupe" once auto-generated README indexes and
+evidence files are excluded (78 files including them).
 
 ## Getting there
 
@@ -44,8 +59,16 @@ long-range ladder: **five- and six-day** trips in September 2009 (`_r08B4bItAY`)
 **six-day** trips carrying the 50–150 lb yellowfin fishery (`ETw_3AFxEcM`),
 **three-day** trips filmed mid-summer (`_jDXMtCrUZg`), a fall **ultra-limited-load**
 trip (`gqEjWrPpa48`), and the October 2021 trips an outfit video calls "the trips
-that we're on right now" (`zuAuk-Kfa1Y`). One **seven-day** trip tip names the
-island as the presenter's own pre-trip expectation — "I think our destination is
+that we're on right now" (`zuAuk-Kfa1Y`).
+⚠ Fact-check (contradicted-by-source): the six-day link is hedged in
+`ETw_3AFxEcM` — "a six day trip that **might** be going on to Guadalupe Island" —
+not stated as the trip that carries the fishery.
+⚠ Fact-check (unverifiable): the three-day binding rests on a truncated caption
+in `_jDXMtCrUZg` — "we've got trips going to both Guadalupe Island we've got
+three-day trips" — where the second destination is lost, so the three-day format
+may belong to it rather than to Guadalupe.
+One **seven-day** trip tip names the island as
+the presenter's own pre-trip expectation — "I think our destination is
 going to be Guadalupe Island" — while the grade and line-shyness his tackle
 picks answer to reach him secondhand, through "buddies in the grapevine"
 (`WxlDxFjB8oQ`). Cedros and the San Benitos come up as the
@@ -69,6 +92,12 @@ its fishing season generally does not open until **the end of June**
 (`shZCjX2-fkI`). ⚠ Fact-check (single-source): this is one operator's account
 in one 2021 answer, and it is the only description of how access to this island
 works anywhere in the corpus.
+⚠ Fact-check (contradicted-by-source): the "end of June" is the operator's own
+season start, given with a reason the sentence drops — "generally we don't fish
+until the end of june but … we're not going to be doing natural history trips
+this year so we're going to start fishing sooner" — and it is spoken about ninety
+seconds after the Guadalupe answer, about the boat's calendar rather than the
+island's.
 
 ⚠ Flagged gap — no corpus source: private-boat access to this zone. Fuel range,
 anchorages, landing rules, the sea-state envelope the crossing demands, and
@@ -100,6 +129,9 @@ sinker rig is run to get a bait down to roughly **120 ft** on the same trips as
 the flyline outfit (`_jDXMtCrUZg`;
 [rubber-band deep rig](../rigging/rubber-band-deep-rig.md)), while bottom fishing
 takes a **16 oz** sinker to hold (`zuAuk-Kfa1Y`).
+⚠ Fact-check (contradicted-by-source): the source gives no reason for the 16 oz
+and frames the rig as yellowtail-specific — "fishing the bottom for yellowtail
+with a dropper loop a 16-ounce sinker"; "to hold" is not in it.
 
 ⚠ Flagged gap — no corpus source: any charted position, depth contour, high
 spot, bank, kelp bed or anchorage at this island. The zone is carried as one
@@ -114,15 +146,20 @@ is written from Ensenada, not from here.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| [Yellowfin tuna](../species/yellowfin-tuna.md) | the documented trips run summer into fall; September 2009 is the earliest dated window (`_r08B4bItAY`) | The reason to come, and the grade is the point: **50–150 lb** on the six-day trips (`ETw_3AFxEcM`), **40–70 lb** on the operator's first trip here in 2009 — "one of the best fishing trips to Guadalupe Island that I've experienced in my career" (`Sx40JvCXFuA`) — **80–100 lb** as the flyline application an 80–100 lb-class outfit is built around (`zuAuk-Kfa1Y`), and **100, 120, 130 and 140 lb** fish called out on the chunk (`NJ9ZLAU3sls`). A separate, lighter **30–40 lb** grade is recorded as "very, very line shy" (`WxlDxFjB8oQ`) |
-| [Yellowtail](../species/yellowtail.md) | good at the island's **north end** in September 2009 (`_r08B4bItAY`) | A big-fish structure fishery on the rock face — the crew nickname is "water buffalo" (`RgtkbmBFUXI`). Recorded weights are thin and far apart: up to **25 lb** in the 2009 season recap (`Sx40JvCXFuA`), against a **68 lb** personal best taken here on the [surface iron](../techniques/surface-iron.md) on 40 lb line (`Ec2GaNpiOHI`) |
-| [Bluefin tuna](../species/bluefin-tuna.md) | ⚠ Flagged gap — no corpus source: season | Present as a contingency rather than a documented fishery: a Guadalupe outfit is specced to double for night [flat-fall jigging](../techniques/flat-fall-jigging.md) "if there's a chance of encountering bigger bluefin" (`zuAuk-Kfa1Y`), and the island's shark-depredation guidance is fight mechanics for a hooked tuna with the species never named on camera (`FXWOIB0TPfE`) |
+| [Yellowfin tuna](../species/yellowfin-tuna.md) | the documented trips run summer into fall; September 2009 is the earliest dated window (`_r08B4bItAY`) ⚠ Fact-check (contradicted-by-source): `_r08B4bItAY` is a 2009-08-25 preview of September/October trips, and this row's own `Sx40JvCXFuA` records an already-completed first Guadalupe trip of 2009 before that upload date — earlier than September | The reason to come, and the grade is the point: **50–150 lb** on the six-day trips (`ETw_3AFxEcM`), **40–70 lb** on the operator's first trip here in 2009 — "one of the best fishing trips to Guadalupe Island that I've experienced in my career" (`Sx40JvCXFuA`) — **80–100 lb** as the flyline application an 80–100 lb-class outfit is built around (`zuAuk-Kfa1Y`), and **100, 120, 130 and 140 lb** fish called out on the chunk (`NJ9ZLAU3sls`). A separate, lighter **30–40 lb** grade is recorded as "very, very line shy" (`WxlDxFjB8oQ`) |
+| [Yellowtail](../species/yellowtail.md) | good at the island's **north end** in September 2009 (`_r08B4bItAY`) ⚠ Fact-check (contradicted-by-source): the source is a 2009-08-25 forward-looking preview reporting sign as of late August, not a September placement, and its unpunctuated wording — "a great sign of that 40 to 70 pound yellowfin tuna good yellowtail at the north end of the island" — leaves "at the north end" attachable to both species | A big-fish structure fishery on the rock face — the crew nickname is "water buffalo" (`RgtkbmBFUXI`). Recorded weights are thin and far apart: up to **25 lb** in the 2009 season recap (`Sx40JvCXFuA`), against a **68 lb** personal best taken here on the [surface iron](../techniques/surface-iron.md) on 40 lb line (`Ec2GaNpiOHI`) ⚠ Fact-check (single-source): `techniques/surface-iron-color.md` already carries this same 68 lb figure under a single-source flag, this page states it twice unflagged, and the source's words are "personal best on the surface", not "surface iron"; the 25 lb belongs to that one first-of-2009 trip rather than to a season-wide recap |
+| [Bluefin tuna](../species/bluefin-tuna.md) | ⚠ Flagged gap — no corpus source: season | Present as a contingency rather than a documented fishery: a Guadalupe outfit is specced to double for night [flat-fall jigging](../techniques/flat-fall-jigging.md) "if there's a chance of encountering bigger bluefin" (`zuAuk-Kfa1Y`), and the island's shark-depredation guidance is fight mechanics for a hooked tuna with the species never named on camera (`FXWOIB0TPfE`) ⚠ Fact-check (contradicted-by-source): the flat-fall quotation is not in the source, whose captions read "if there was a chance that you were going to out for bigger bluefin this also could be used for flat falling at night" — the substance stands, the quotation marks do not |
 
 **Great white sharks are a standing fact of this zone, not an incident.** They
 are described on camera as simply "part of the game at Guadalupe," and the
 question anglers ask is how to improve the odds a hooked fish reaches the boat
 rather than the shark (`FXWOIB0TPfE`) — the counter-moves are in
 [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+⚠ Fact-check (contradicted-by-source): "sharks are part of the game at
+Guadalupe" is the wording of a viewer's question read aloud, and it says
+"sharks", not great whites; the operator's own echo — "rather than have it get
+bit by a great white shark, they are part of the game" — comes at the end of his
+answer.
 
 ⚠ Flagged gap — no corpus source: forage. Nothing in the corpus says what the
 tuna or yellowtail here are eating, or why they hold at the island — the bait
@@ -146,8 +183,21 @@ class outfit — 65 lb braid, an 8 ft 30–60 lb rod, a 1/0 or 2/0 circle hook, 
 into the current (`_jDXMtCrUZg`); a **50–60 lb top shot over 80 lb braid** for
 the 50–150 lb grade (`ETw_3AFxEcM`); and an **80 lb** outfit or a **60–80 lb**
 top shot on an 80–100 lb-class reel for the biggest fish (`MPC_OQjvO-o`,
-`zuAuk-Kfa1Y`). A heavy two-speed is recommended outright for "landing one of
-those nice big tuna at Guadalupe" on a fall trip, cited for line capacity
+`zuAuk-Kfa1Y`).
+⚠ Fact-check (contradicted-by-source): `_jDXMtCrUZg` says "pick a lively bait"
+and never names sardine, and its 1/0 or 2/0 is read off captions rendering "a
+100 or a 200" — [the Searcher rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
+carries that hook size as asr-uncertain where this sentence states it flat.
+⚠ Fact-check (contradicted-by-source): in `ETw_3AFxEcM` the 50–60 lb top shot
+over 80 lb braid is introduced as the SoCal yellowtail yo-yo rig and only then
+said to be "also your standard live bait fly lining rig" for the Guadalupe
+grade — the source gives it no Guadalupe-specific standing.
+⚠ Fact-check (contradicted-by-source): `MPC_OQjvO-o` gives an 80 lb top shot
+over 100 or 130 lb spectra on a rod rated 80–100 lb — a rod rating, not a reel
+class — and never says 60 lb; the 60–80 lb pairing comes from `zuAuk-Kfa1Y`
+alone.
+A heavy two-speed is recommended outright for "landing one of those nice big
+tuna at Guadalupe" on a fall trip, cited for line capacity
 (`gqEjWrPpa48`). Gear-class terms are in
 [gear classes](../tackle/gear-classes.md); the four-outfit quiver these trips
 are packed around is in
@@ -172,6 +222,12 @@ strip line so the chunk **sinks naturally, as if nothing is attached to it**
 hook** with a shoulder-hooked bait, so the pair "dance around the surface" —
 called "one of our favorite ways to catch yellowfin at Guadalupe" (`fgTmUq78ofQ`;
 [double trouble rig](../rigging/double-trouble-rig.md)).
+⚠ Fact-check (contradicted-by-source): the source names it "double treble" and
+gives it inside the kite Q&A as the sardine variant of the kite rig, not as a
+standalone surface program; the hook size sits in unstable captions ("a three or
+four oh um two circle hook"), and the rig note carries the same spec under a
+single-source flag plus a "not confirmed as identical hardware" hedge this
+sentence drops.
 
 **Bring the jig stick.** Casting irons for tuna here is worth a rod on its own —
 "a lot of guys leave their jig sticks at home" (`rziFyx7SRGI`) — and the island's
@@ -183,10 +239,19 @@ sinker, a **6/0 or 7/0** hook and a **nose-hooked sardine** is the build
 (`zuAuk-Kfa1Y`; [dropper loop](../techniques/dropper-loop.md),
 [surgeon's loop](../rigging/surgeons-loop.md)), tied with a longer loop than a
 SoCal application would use — on Guadalupe yellowtail trips "they like a bigger
-loop" (`rFmWrp-Vndo`; [cut-loop dropper](../rigging/cut-loop-dropper.md)). Even
-on a **100 lb** leader, fish that dive back into the wall cut through it: the
+loop" (`rFmWrp-Vndo`; [cut-loop dropper](../rigging/cut-loop-dropper.md)).
+⚠ Fact-check (contradicted-by-source): the SoCal contrast is not in the source,
+which says only "a lot of times on the guadaloop trips for yellow tell they like
+a bigger Loop"; it names mackerel or squid rather than the nose-hooked sardine
+this sentence welds it to, and the cut-loop note marks the "guadaloop" place
+name asr-uncertain where this page states it flat.
+Even on a **100 lb** leader, fish that dive back into the wall cut through it: the
 angler on camera put his own loss rate at **about eight of ten** hookups
 (`RgtkbmBFUXI`). Budget terminal tackle accordingly.
+⚠ Fact-check (contradicted-by-source): the source never says "wall" and gives a
+different mechanism — fish "snapped off to the rocks" and, of the 100 lb, "you
+bite right through it", the fish chewing through rather than abrading on
+structure.
 
 **Two more presentations are carried at outfit level rather than as programs
 here:** a personal **kite** outfit spooled with 100 lb spectra and a short
@@ -216,6 +281,15 @@ on the same heavy outfit when bigger bluefin are a possibility (`zuAuk-Kfa1Y`).
   they are kept side by side; full parameters in
   [flyline](../techniques/flyline.md) and
   [line & leader](../tackle/line-and-leader.md).
+  ⚠ Fact-check (contradicted-by-source): no fish is landed in `EfaxxszOYFI` —
+  "they're frightfully tough to get when you hook a 45 pound yellowfin tuna
+  Guadalupe Island" describes the fish hypothetically on that light gear.
+  ⚠ Fact-check (contradicted-by-source): `WxlDxFjB8oQ` calls its fish "a medium
+  grade 30 40 pounds" and carries no second grade to be separate from — the
+  "separate, lighter" contrast is built across videos, not stated there.
+  ⚠ Fact-check (contradicted-by-source): in `48ZFXnCTTQE` the drop is 30 lb main
+  behind a 60 lb bite guard — "I was fishing from 30 to 60 lb" — not bare 30 lb
+  line.
 - **How light is light is itself unsettled.** The 2019 tip calls its own setup
   "light line" and gives hook sizes but no line class (`EfaxxszOYFI`), while the
   later tips give 20 lb and 30 lb figures (`WxlDxFjB8oQ`, `48ZFXnCTTQE`). The
@@ -255,7 +329,12 @@ described by its depth range — 120 ft out to 250 ft — rather than by any mar
 spot named **Uncle Sam Bank** — are the seven-day-trip alternative to Guadalupe
 at the end of September and beginning of October — **488 mi** to Alijos Rocks on
 a 45-hour run, **450–460 mi** to the Ridge's upper end at Uncle Sam Bank, both
-two-day runs against Guadalupe's one (`_r08B4bItAY`). The wahoo, dorado, black
+two-day runs against Guadalupe's one (`_r08B4bItAY`).
+⚠ Fact-check (contradicted-internal): `locations/alijos-rocks.md` and
+`locations/ridge-uncle-sam-bank.md` carry this same 488 mi figure under a flag
+against `97clKtVsEOs`, which gives Alijos as roughly 400 mi; this page states
+488 mi unflagged.
+The wahoo, dorado, black
 sea bass and grouper material from those trips
 belongs to them, not here. Valle de Guadalupe, the mainland wine country inland
 of Ensenada that shares the name in trip footage, is not this place.
