@@ -29,14 +29,14 @@ pages that reach this way and find nothing to hand off to
 ([179 / 220](179-220.md), [Lower Cross](lower-cross.md)).
 
 ⚠ Fact-check (contradicted-internal): two further pages reach this way and are
-not counted — [380](380.md) names The Bumps eight times and
-[12 Mile Reef](12-mile-reef.md) names it in its isolation ranking; both sit in
-this page's own backlinks block.
+not counted — [380](380.md) names The Bumps eight times, including as its own
+nearest charted position, and [12 Mile Reef](12-mile-reef.md) names it in the
+list of pages that reach that mark; both sit in this page's own backlinks block.
 
-The zone exists on
-coordinates (cameron), so this is a **position-and-ladder page**: it says where
-the mark is, what water it sits in, what its name does and does not claim, and
-what a source would have to supply. Nothing here lifts the region page's stub.
+The zone exists on coordinates (cameron), so this is a **position-and-ladder
+page**: it says where the mark is, what water it sits in, what its name does and
+does not claim, and what a source would have to supply. Nothing here lifts the
+region page's stub.
 The flags below aggregate in [the gap report](../sources/gap-report.md).
 
 **This is a zone of one because nothing else is within reach of it.** The census
@@ -133,11 +133,13 @@ one captain's plan for one trip, "we're here in Ensenada today probably in a
 head West out maybe 20 to 30 miles straight west and as soon as we hit a temp
 break … then we'll either go north or west based on sea conditions"
 (@00:11:17), and its stated locating doctrine is the opposite of chart-first:
-"the name of the game is finding life" (@00:03:11). Nothing in it is framed as
+"the name of the game is finding li[f]e" (@00:03:11, ASR "light", corrected by
+the following clause "we found some life out here"). Nothing in it is framed as
 the region's doctrine.
 
-⚠ Flagged gap — no corpus source: a wind or swell number that turns this zone off, a crossing rule
-for this stretch of coast, or any sea-state envelope stated south of Ensenada.
+⚠ Flagged gap — no corpus source: a wind or swell number that turns this zone
+off, a crossing rule for this stretch of coast, or any sea-state envelope stated
+south of Ensenada.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. CDFW rules do not apply on this side of the line, and a
@@ -172,8 +174,9 @@ fathom" (@00:06:35) is verbatim. Sibling rows already stand on
 [Lower Cross](lower-cross.md), [179 / 220](179-220.md) and three other zone
 pages.
 
-⚠ Flagged gap — no corpus source says what shape the name describes, or whether these shape names
-report bottom contour on a sounder screen, a chart outline, or something else.
+⚠ Flagged gap — no corpus source says what shape the name describes, or whether
+these shape names report bottom contour on a sounder screen, a chart outline, or
+something else.
 
 **The plural is the one clue on the page, and the corpus does not license
 reading it.** The library's own exception to the fathom convention is a bank
@@ -203,8 +206,9 @@ is Farnsworth Bank off Catalina, island-adjacent water, not an open-ocean mark
 **39.1 nm** off the nearest charted coastal position (cameron). Same row already
 standing on [Lower Cross](lower-cross.md).
 
-⚠ Flagged gap — no corpus source: bottom composition, relief, contour, surrounding depth, preferred
-directions, drift or current behaviour at this mark.
+⚠ Flagged gap — no corpus source: bottom composition, relief, contour,
+surrounding depth, preferred directions, drift or current behaviour at this
+mark.
 
 **Everything charted is north and east of it.** Nearest positions in the spot
 library, nearest first (cameron): **Catchers Mitt** at **31.3 nm** northwest in
@@ -247,9 +251,10 @@ that's where that fish was at and if that water structure is still there then
 i'm sure that there's there's bluefin down there too we just haven't had to go
 that far" (@00:34:17) — the note quotes it as "a good structure of water". The
 Colonet/San Quintín scoping, the word "outside", and the fleet-hasn't-gone
-reasoning all verify verbatim (@00:33:44, San Quintín ASR-garbled to "san
+reasoning all verify verbatim (@00:34:11, San Quintín ASR-garbled to "san
 cantina"); the closer grounds are named as "out west of san diego" and "west of
-ensenada". No date is spoken on camera — 2021-05-14 is the manifest upload date.
+ensenada" (@00:33:48). No date is spoken on camera — 2021-05-14 is the manifest
+upload date.
 
 ⚠ Flagged gap — no corpus source puts a
 [bluefin](../species/bluefin-tuna.md) on this position or gives it a month.
@@ -280,8 +285,9 @@ the closest thing to a depth-and-technique reading anything near this water has.
 ⚠ Fact-check (contradicted-by-source): the deep tier names **four** places, not
 two — "if you're fishing real deep which we do a lot of times in areas like
 colonet the ridge or alejos even guadalupe i like to use a 7x heavy"
-(@00:00:50). The stated tiers are 6X Jr at "60 80 100 feet" and the regular 6X
-at "120 to say 150", two separate tiers rather than one 60–150 ft band, and the
+(@00:01:12). The stated tiers are 6X Jr at "60 80 100 feet" (@00:00:55) and the
+regular 6X at "120 to say 150" (@00:01:03), two separate tiers rather than one
+60–150 ft band, and the
 deep tier carries no depth number at all. The target species in that passage is
 yellowtail, not tuna.
 
