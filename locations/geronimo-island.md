@@ -22,17 +22,17 @@ continuous stretch of shallow ground running to
 [yellowtail](../species/yellowtail.md) brawl in shallow water, worked from
 skiffs off a mothership (`3SATCeA3KaU`).
 ⚠ Fact-check (contradicted-by-source): the source places none of this. Its only
-south-end line is "on the south end of Cedros island" (@00:06:44), spoken of the
-skiff adventure as a whole and never of this island; "endless miles" is not a
-quotation — the wording is "it's absolutely endless and endless of miles and
-miles of incredible calico bass territory" (@00:21:10, cf. @00:20:56), tied to no
-place name; and the two island names occur only inside lists of stops — "a brawl
-in shallow water from Geronimo Island to Chester's Rock to Sandra's Island"
-(@00:00:26) and "from Geronimo to sacrif Chester's rock point eugenia yellows"
-(@00:22:20), the second running PAST the rock to Punta Eugenia. So neither the
-south-end placement, the "one end of a single continuous stretch" geometry, nor
-the quotation marks are the source's. "Home guard" (@00:00:18) and the
-mothership/skiff framing do verify. The same finding stands on
+south-end line is "on the south end of Cedros island" (@00:06:44), spoken of
+the skiff adventure as a whole and never of this island; "endless miles" is not
+a quotation — the wording is "it's absolutely endless and endless of miles and
+miles of incredible calico bass territory" (@00:21:10, cf. @00:20:56), tied to
+no place name; and the two island names occur only inside lists of stops — "a
+brawl in shallow water from Geronimo Island to Chester's Rock to Sandra's
+Island" (@00:00:26) and "from Geronimo to sacrif Chester's rock point eugenia
+yellows" (@00:22:20), the second running PAST the rock to Punta Eugenia. So
+neither the south-end placement, the "one end of a single continuous stretch"
+geometry, nor the quotation marks are the source's. "Home guard" (@00:00:18)
+and the mothership/skiff framing do verify. The same finding stands on
 [Chester's Rock](chester-s-rock.md).
 
 **It carries no charted position in [the spot library](../sources/spot-lists.md).**
@@ -61,9 +61,9 @@ on [the zone page](cedros-island.md) and
 not a federal or state regulation. Recorded on or before 2023-05-24; **verify
 current status with your operator before fishing**
 ([regulatory claims](../sources/regulatory-claims.md)).
-⚠ Fact-check (single-source): the agreement is absent from this page's own cited
-source — `3SATCeA3KaU` mentions catch-and-release for no species anywhere. It
-rests entirely on the zone page's single cite `ldVj0BoB-kE`.
+⚠ Fact-check (single-source): the agreement is absent from this page's own
+cited source — `3SATCeA3KaU` mentions catch-and-release for no species
+anywhere. It rests entirely on the zone page's single cite `ldVj0BoB-kE`.
 
 ## Structure & bathymetry
 
@@ -75,15 +75,15 @@ stretch unless a source says otherwise, so the bathymetry recorded at the far
 end (**12 ft** on the rock dropping to **40–60 ft** a short way out) is the
 nearest figure the corpus offers, and it belongs to
 [Chester's Rock](chester-s-rock.md#structure--bathymetry), not to this island.
-⚠ Fact-check (contradicted-by-source): "worked as a single continuous piece" and
-"anything read about one end applies down the stretch" are inference, not the
-source — the two names appear only in the stop lists cited in the lead, the
+⚠ Fact-check (contradicted-by-source): "worked as a single continuous piece"
+and "anything read about one end applies down the stretch" are inference, not
+the source — the two names appear only in the stop lists cited in the lead, the
 second continuing to Punta Eugenia beyond the rock (@00:22:20). The borrowed
-depth pair is also framed as its source does not state it: `_r_qKX_7080` gives a
-fishing depth, not a rock height or a distance out — "we're fishing 12 ft of
-water probably goes to 40 or 60 out here" (@00:17:50), with the unit on the 40/60
-inherited from the prior clause. Same row already stands on
-[Chester's Rock](chester-s-rock.md).
+depth pair is also framed as its source does not state it: `_r_qKX_7080` gives
+a fishing depth, not a rock height or a distance out — "we're fishing 12 ft of
+water probably goes to 40 or 60 out here" (@00:17:50), with the unit on the
+40/60 inherited from the prior clause. Same row already stands on [Chester's
+Rock](chester-s-rock.md).
 
 **The fishing is shallow-water fishing.** Both the yellowtail brawl and the
 later plug bite happened in shallow water, and doing it there is called "not
@@ -96,12 +96,12 @@ mile from the mothership (`3SATCeA3KaU`). That is the only piece of named
 topography the source gives on this end of the stretch.
 ⚠ Fact-check (contradicted-by-source): "tight to shore" is not stated and the
 point is not where the fish came from. The quarter mile is the run OUT to the
-point, and the yellowtail were spotted on birds off to the side afterwards — "we
-came out here for the afternoon came a pretty much quarter mile from the boat
-came around the point… started catching a few bass we looked over aside and a
-bunch of birds pick and sit out there and just caught some absolutely monster
-yellowtail on the plug shallow water" (@00:21:44). It is "the boat", never named
-as the mothership in that passage, and "some", not "several".
+point, and the yellowtail were spotted on birds off to the side afterwards —
+"we came out here for the afternoon came a pretty much quarter mile from the
+boat came around the point… started catching a few bass we looked over aside
+and a bunch of birds pick and sit out there and just caught some absolutely
+monster yellowtail on the plug shallow water" (@00:21:44). It is "the boat",
+never named as the mothership in that passage, and "some", not "several".
 
 ⚠ Flagged gap — no corpus source: soundings, bottom composition, relief, kelp
 extent or the island's shape, and how deep the water is between it and
@@ -139,15 +139,15 @@ birds the discipline was to wait for the yellowtail to actually appear under the
 birds rather than throwing at the birds themselves (`3SATCeA3KaU`) — the
 [surface iron](../techniques/surface-iron.md) cast is spent on a fish, not on a
 bird.
-⚠ Fact-check (contradicted-by-source): neither line is placed on this stretch and
-the discipline is only half the exchange. The jig line is "…birds flared up came
-out here through the jig" (@00:15:07, "through" = threw), spoken of a spot tagged
-Cedros-grade yellowtail in the same sentence. The hold-the-cast exchange comes
-from a post-breakfast 7 a.m. session — "last full day of the trip today 7:00 a.m.
-we just had some breakfast" (@00:06:55) — not a first-light push, and runs both
-ways: "birds popped up and try to get your [jig] right on over they eat it"
-beside "you gotta wait for your shot when those yellows come out" (@00:08:38).
-Same row stands on [Chester's Rock](chester-s-rock.md).
+⚠ Fact-check (contradicted-by-source): neither line is placed on this stretch
+and the discipline is only half the exchange. The jig line is "…birds flared up
+came out here through the jig" (@00:15:07, "through" = threw), spoken of a spot
+tagged Cedros-grade yellowtail in the same sentence. The hold-the-cast exchange
+comes from a post-breakfast 7 a.m. session — "last full day of the trip today
+7:00 a.m. we just had some breakfast" (@00:06:55) — not a first-light push, and
+runs both ways: "birds popped up and try to get your [jig] right on over they
+eat it" beside "you gotta wait for your shot when those yellows come out"
+(@00:08:38). Same row stands on [Chester's Rock](chester-s-rock.md).
 
 **Surface iron and swimbaits both produce, at the same time.** The afternoon
 calico bite ran on both, with the plastics fished weedless and the whole crew on
