@@ -412,7 +412,12 @@ transmit the rip that makes this presentation work.
   fluoro for the stretch. Thinner braid means less line angle in the water
   and a jig that hangs straighter under the boat; 65–100 lb covers the
   class, and much heavier braid is only worth it on the biggest jigs
-  (`Ul5FLB2dFgQ`). A rod-and-reel outfit can't generate enough drag to break
+  (`Ul5FLB2dFgQ`).
+  ⚠ Fact-check (contradicted-internal): [bluefin tuna](../species/bluefin-tuna.md#gear-summary-class-terms)
+  publishes the class as "100–130 lb-braid jig class / PE6–8" in both its gear
+  summary and its sounded-deep situations row — above this note's stated
+  65–100 lb ceiling, and the same 100–130 lb band this note's own fight
+  examples name as the heavier comparison group. A rod-and-reel outfit can't generate enough drag to break
   80 lb braid by pulling alone, and thinner braid usually cuts through a
   tangle with thicker braid rather than losing that fight — so tangles
   aren't a reason to size up: **80 lb braid** (with a ~15 ft, 130 lb mono

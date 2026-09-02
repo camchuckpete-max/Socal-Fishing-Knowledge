@@ -95,6 +95,12 @@ depth parameters — sitting beside, not replacing, the casting mechanics above
   the other bait fish at that depth (`m2g97MxmAGI`). No casting or
   drift-angle mechanic is given in this citation, unlike the
   windy-side/bow-cast mechanics above.
+  ⚠ Fact-check (contradicted-internal):
+  [bluefin tuna](../species/bluefin-tuna.md#situations--techniques)
+  distinguishes its dart-jig row from the yo-yo bait-ball row on the grounds
+  that there is "no mark to drop to, the boat's drift sets the drop angle" —
+  which this drop-to-the-captain's-call variant, and this note's own
+  front-matter `depth_band`, contradict.
 
 ## Gear class
 

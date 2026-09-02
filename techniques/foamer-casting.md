@@ -99,6 +99,11 @@ Two basic kinds of foamer (`HzE4FHHcvTk`, `HnqiE05vdXs`):
   yellowfin-specific length cap) is a lure spec, not a retrieve mechanic — see
   [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) for
   that number.
+  ⚠ Fact-check (contradicted-internal): [bluefin tuna](../species/bluefin-tuna.md#situations--techniques)
+  routes its foamer row to "poppers first … cast to the middle," against this
+  edge-not-middle popper rule and against the scissoring mechanism below that
+  gives the same placement a second reason; the router does not carry the
+  distinction between the general arrival cast and the popper cast.
 - **Trip-to-trip variability extends to popper vs. fast-mover, not just
   retrieve speed within one lure** (`F7jLrt2j2X8`): some trips the fish want
   the popper's long-pause presentation above; other trips they want a

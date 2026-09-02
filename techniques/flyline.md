@@ -256,6 +256,11 @@ isn't yet repeated doctrine).
   not thicker — the opposite instinct of most anglers worried about a big tuna.
   Cesar cites boat-skipper guidance capping fly line at **20–25 lb test, no more
   than 30**, as the working range for tough bites.
+  ⚠ Fact-check (contradicted-internal):
+  [bluefin tuna](../species/bluefin-tuna.md#situations--techniques) routes its
+  "chummed up / picky on bait" row to this technique at the **40–60 lb class**
+  — above the cap stated here and above the 20–25 lb figure `icpm7gADxvU`
+  gives for the same scenario on 40–60 lb fish.
 - **Why lighter line breaks leaders (the mechanism):** braid has no stretch and
   fluorocarbon has very little stretch, so on the shock of a bite or a hookset
   the strain lands entirely on the mono-to-fluoro connection — that's what
