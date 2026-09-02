@@ -21,6 +21,14 @@ sheltered"* from the boat, with a sailboat lying at anchor in it, and with
 one place in the zone the corpus names for **shelter** rather than for a fish
 that came out of it.
 
+⚠ Fact-check (contradicted-by-source): **the sailboat is not stated to be at
+anchor.** The transcript has only *"where that sailboat is"*, and the word
+"anchor" never appears anywhere in it (`ikiXx9sUsoA`). The bay being water you
+can lie in is an inference, and [Getting there](#getting-there) leans on it —
+its gap line offers the anchored sailboat as the one craft the corpus puts
+inside the bay. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 **Nothing was fished here on camera.** The whole record is one passing sighting
 on the way out of Puerto Escondido for an evening troll — the crew named the
 bay, looked at it, and carried on across the bay and around the island
@@ -47,6 +55,20 @@ documented trip flew in through **CBX** into the Tijuana airport, lived aboard a
 it, with **Puerto Escondido Marina** as the working base (`ikiXx9sUsoA`). The
 access, the operators and the day shape are all on
 [the zone page](loreto.md#getting-there).
+
+⚠ Fact-check (contradicted-by-source): **that sentence states four things the
+transcript does not.** The vessel is named *"the Odyssey"* and the word
+"mothership" never appears; **300–308 ft** is one ASR reading of a single
+answer — *"how long is this boat / 300 feet 308"* — not a range, and 300 ft is
+implausible for a private boat towing an 18 ft skiff; *staying* is attached to
+the small boat, *"the Grady White that's where we'll be staying living on"*,
+not to the big one; and the word "marina" occurs nowhere in this transcript —
+Puerto Escondido is named only as the destination, and the marina as the
+documented launch is sourced to `n4nMCLLW3tY` on
+[the zone page](loreto.md#getting-there), not here (`ikiXx9sUsoA`). The first
+three are already flagged a rung up. The **18 ft** Grady White
+(*"he tows 18-foot Grady White behind it"*) and the CBX crossing verify.
+Queued in [the fact-check ledger](../sources/fact-check-ledger.md).
 
 **The sighting was made outbound on the first afternoon**, after fuelling and
 running out to look for the evening bite; from there the boat went *"all the way
@@ -76,6 +98,16 @@ visible through the water, were both recorded on a bird chase elsewhere in the
 zone, not here (`ikiXx9sUsoA`) — they sit on
 [the zone page](loreto.md#structure--bathymetry) and are not transferable to
 this ground.
+
+⚠ Fact-check (contradicted-by-source): **the 30 ft and the 10 ft are not one
+bird chase, and the 10 ft is not called on the sounder.** *"I looked down and I
+was in 30 feet"* sits at ~10:26 on the birds; the bare *"ten feet"*, followed by
+*"you can see it right there"* and *"there's so much structure"*, comes at
+~12:45 after the crew break off, and no sounder or meter is named anywhere in
+the passage (`ikiXx9sUsoA`).
+[The zone page](loreto.md#structure--bathymetry) already carries this finding;
+this page restates the uncorrected version. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
 
 ⚠ Flagged gap — no corpus source: depth, bottom composition, relief, the extent
 of the bay, what the corner is made of, or any sounder picture from inside it
