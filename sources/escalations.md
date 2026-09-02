@@ -536,3 +536,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-09-02T09:22:35Z — locations/isla-espiritu-santo.md — check-note-failed
 - run: 33606994123
 - reason: FAIL  locations/isla-espiritu-santo.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): the transcript's bigger-fish line is
+
+## 2026-09-02T12:35:21Z — locations/lighthouse-point.md — check-note-failed
+- run: 33629799640
+- reason: FAIL  locations/lighthouse-point.md: uncited direct quote: ⚠ Fact-check (contradicted-by-source): *"give him a 10 count, at least 10
