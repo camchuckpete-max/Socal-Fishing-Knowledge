@@ -43,7 +43,13 @@ zone's operator-level **100% catch-and-release** agreement for
 [calico bass](../species/calico-bass.md), grouper (cabrilla) and black seabass,
 are recorded on [the zone page](cedros-island.md) and
 [Mexican waters](mexican-waters.md). That agreement is an operator agreement,
-not a Mexican federal or state regulation. Recorded on or before 2023-05-24; the
+not a Mexican federal or state regulation. ⚠ Fact-check (single-source): absent
+from this page's own cited source — `u0scEBby7nA` names no release rule for any
+species, and neither cabrilla nor black seabass appears in it at all; its only
+catch-and-release talk is the lodge's air-freight weight allowance ("400 kilos
+amongst those 11 … 36 kilos per person that's uh including luggage and fish").
+The agreement rests entirely on the zone page's single cite `ldVj0BoB-kE`.
+Recorded on or before 2023-05-24; the
 Mexican paperwork requirements were checked as of 2026-08; **verify current
 status with your operator before fishing**
 ([regulatory claims](../sources/regulatory-claims.md)).
@@ -60,7 +66,12 @@ how far off the beach the boats sit.
 
 **Kelp is in the day-three water.** One strike came right next to a small,
 isolated piece of kelp rather than a full paddy — small patches hold fish, not
-only paddies (`u0scEBby7nA`). The footage does not separate that cast from the
+only paddies (`u0scEBby7nA`). ⚠ Fact-check (contradicted-by-source): "isolated"
+is contradicted in the same breath — "right there off that little piece of kelp
+dude see that little piece yeah they out there oh that's another piece out
+there" — so several small pieces were in the water, not one on its own; the
+small-patch doctrine the line carries is unaffected, and the word "paddy" is
+never spoken in the source. The footage does not separate that cast from the
 San Augustine stop, so read it as day-three water rather than as this ground
 specifically.
 
