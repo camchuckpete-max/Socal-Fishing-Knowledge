@@ -52,11 +52,26 @@ on to the island (`n4nMCLLW3tY`). The reef's own record — a yellowtail on an
 earlier trip, triggerfish, a Pinto bass and a skipjack on this one — sits on
 [the zone page](loreto.md#structure--bathymetry).
 
+⚠ Fact-check (contradicted-by-source): the **triggerfish is caught before the
+crew announce they are at the reef** — *"trigger"* and *"I'm gonna uh just toss
+this guy back"* both precede *"all right we made it to Six Mile Reef"*
+(`n4nMCLLW3tY`) — so it is not established as a Six Mile Reef fish. The Pinto
+bass, the skipjack and the earlier-trip yellowtail all verify. Queued in
+[the fact-check ledger](../sources/fact-check-ledger.md).
+
 **The zone's access is the access here.** Flights in through CBX, a mothership
 at anchor with an **18 ft** Grady White towed behind it, Puerto Escondido
 Marina as the working base, and sardines ordered from the bait vendor who meets
 boats out front are all on
 [the zone page](loreto.md#getting-there) (`ikiXx9sUsoA`, `n4nMCLLW3tY`).
+
+⚠ Fact-check (contradicted-by-source): **"mothership" and "at anchor" are not on
+camera.** The big boat is named *"the Odyssey"*, the word mothership appears in
+neither transcript, and the tow is described as going out to *"hang out with the
+islands"* rather than lying at anchor (`ikiXx9sUsoA`, `n4nMCLLW3tY`). The
+**18 ft** figure verifies — *"he tows 18-foot Grady White behind it"*
+(`ikiXx9sUsoA`) — and so do CBX and the bait vendor. Already ledgered against
+[the zone page](loreto.md) and two other spot pages; this is the fourth carrier.
 
 **Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
 Checked as of 2026-08. Verify current requirements before you fish**
@@ -78,6 +93,14 @@ after the fish it gave them — *"past our little rooster island here"* — is t
 water the roosterfish was trolled up beside; and a **ledge** is called out as
 the position of a hookup that came off, *"right after that ledge"*
 (`n4nMCLLW3tY`). Neither is charted, positioned or described further.
+
+⚠ Fact-check (contradicted-by-source): **nothing on camera makes "rooster island"
+a separate islet, a christening, or the water the roosterfish came from.** The
+only line is *"okay time to move along past our little rooster island here"*,
+spoken roughly 90 seconds AFTER the roosterfish, which is called simply
+*"by the island here"* (`n4nMCLLW3tY`). The islet reading, the naming-on-the-fly
+story and the placement of the troll beside it are all the KB's; the same
+reading is carried in this page's `structure_type` field.
 
 **The water was clean on the day** — *"water is perfect"* was called while
 casting at the cabrilla ground (`n4nMCLLW3tY`). See
@@ -101,6 +124,28 @@ nothing in the corpus lays out any other month at this island (`n4nMCLLW3tY`).
 | Houndfish | 2023-07-31 (`n4nMCLLW3tY`) | Chased lures here rather than eating them — *"that was just from the lure he was going after"* (`n4nMCLLW3tY`). Bycatch and a sign of life, not a target |
 | Everything else | — | ⚠ Flagged gap — no corpus source names this island for [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md), sierra, [barracuda](../species/barracuda.md) or sailfish. Every one of those is recorded against other grounds in the zone ([zone page](loreto.md#whats-there)); the triggerfish, skipjack and Pinto bass belong to Six Mile Reef on the way out, not to this island |
 
+⚠ Fact-check (contradicted-by-source): the word **"suspending" is never spoken**
+— the transcript says only *"we're here five ten feet of water with that Shimano
+uh jerk bait was working well"* (`n4nMCLLW3tY`), naming no action class and no
+model. The **5–10 ft** depth is verbatim and stands. Already ledgered against
+[the zone page](loreto.md), which carries the same wording twice; this page
+carries it in the cabrilla row above and again in
+[How it fishes](#how-it-fishes).
+
+⚠ Fact-check (contradicted-by-source): **"several" cabrilla and a release are
+not on camera.** Exactly two are audible — one *"a little too small to keep"*
+and one kept, *"got him… bigger one… this is our C\[abrilla\] dinner"* — the
+recap counts *"one nice one to be able to bring for dinner"*, and no cabrilla is
+ever said to be put back (the only *"toss this guy back"* follows the
+triggerfish, before the island) (`n4nMCLLW3tY`).
+
+⚠ Fact-check (contradicted-internal): the **Cortez North roosterfish contrast**
+this row leans on is already ledgered as inverted at its source — the transcript
+behind it puts roosterfish *"higher up in the Sea of Cortez as well"*, i.e.
+further NORTH, and makes no reliability comparison between zones
+(`P36VGPPf120`, via [the zone page](loreto.md)). The luck reading for Cortez
+North stands; the south-is-more-reliable framing does not.
+
 ⚠ Flagged gap — no corpus source: grade or weight for anything taken here,
 water temperature, forage, or any sonar signature — the fish here were found by
 casting at shallow rock, by trolling past it, and by birds, never on the meter.
@@ -114,6 +159,12 @@ green-and-yellow *"candy bar"* pattern and a pink-and-blue —
 [Halco](../lures/halco-laser-pro.md), with UV-finish lures called out as the
 preference; the Halco is what the roosterfish ate (`n4nMCLLW3tY`). Execution is
 in [trolling](../techniques/trolling.md).
+
+⚠ Fact-check (contradicted-by-source): the **UV preference is not spoken about
+the trolling spread.** *"I think this is the UV glow, I like those UV ones"* is
+said back at Six Mile Reef, over a lure in hand there and before the run to the
+island (`n4nMCLLW3tY`); attaching it to this island's troll spread is the KB's. The candy-bar
+feather, the pink-and-blue, the cedar plugs and the Halco all verify.
 
 **Break off the troll for birds — but it is not what made the day here.** Birds
 were worked *"out top"* off the island and a Megabait was dropped through them;
