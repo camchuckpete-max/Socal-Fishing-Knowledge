@@ -124,6 +124,14 @@ a shape name and *Knoll* is a landform word:
 | San Salvador Knoll | no number in the name | — |
 | E. Butterfly | no number in the name | — |
 
+⚠ Fact-check (contradicted-by-source): the "every numbered mark within 20 nm"
+enumeration is incomplete against the spot library it cites (cameron) —
+**Coronados - 230** (10.1 nm from the Knoll, named two paragraphs above as its
+nearest neighbour of all) and the **91** (17.9 nm from the Knoll, in the linked
+[43 / 91 / 300](43-91-300.md) zone) are numbered marks inside 20 nm and neither
+appears in the list, and **60 Mile Bank (53 Fa.)** at 14.5 nm carries a fathom
+number too.
+
 The practical consequence is that this zone gives a planner **nothing to
 sound against** before the trip. ⚠ Flagged gap — no corpus source: any depth,
 relief, high-spot shape, bottom composition or surrounding depth at either
@@ -170,6 +178,16 @@ is the best-surrounded thin page on the ladder**: it has no corpus of its own,
 but a fallback plan out of it has four built neighbours inside **20 nm** in
 four different directions.
 
+⚠ Fact-check (contradicted-by-source): the "nearest first" ordering skips two
+marks — the **91** at **17.9 nm** from the Knoll, between the **302** (17.8 nm)
+and the **371** (18.2 nm) in this very list, and **The Corner** at **19.0 nm**
+from the Knoll, between the 371 and the **157** (19.6 nm) (cameron). The
+Corner's zone [The Corner / 140 / 182](corner-140-182.md) is built too, so the
+count drawn off this list — four built neighbours inside 20 nm — is five; The
+Corner bears **012°** from the Knoll, near the 43 / 91 / 300 zone's own
+342–354°, so the *four directions* half of that sentence still holds. Every
+other distance recomputes exactly from the spot library.
+
 ## What's there
 
 | species | season | what this zone does for them |
@@ -192,6 +210,18 @@ that ride them are [bluefin tuna](../species/bluefin-tuna.md),
 [yellowfin tuna](../species/yellowfin-tuna.md) and
 [dorado](../species/dorado.md).
 
+⚠ Fact-check (contradicted-by-source): the source gives three co-equal hedged
+options rather than one best water — "your best bet is i would say for that type
+of action is south of san clemente island or south of catalina or along the beach
+below dana point um towards the ocean side" (`HzE4FHHcvTk` @00:03:36) — and never
+indexes the thinning to Dana Point: "when you get further up the patties are
+fewer and further between and they're not always holding" (@00:03:30) describes a
+run continuing past San Clemente Island to the inside of Catalina. "Hold fewer
+fish" hardens "not always holding", and the driver the source names is boat
+pressure. The same reading is already ledgered on
+[the Bight](socal-bight.md), on `locations/dana-point.md` and on
+`locations/oceanside-north-county.md`; the map itself is not in question here.
+
 **The fall condensation runs well west of this zone.** In the 2022-10-20 Bight
 report the bluefin volume had slid out to Tanner and Cortez, the water being
 worked running "from the 381 off the east end back side of Clementi out to
@@ -200,6 +230,14 @@ sits southeast of that corridor's inshore end and a long way inshore of its
 outer end — **53.2 nm** from Cortes Bank and **58.3 nm** from Tanner Bank at the
 E. Butterfly, further still from the Knoll (cameron). Whatever that band is
 doing, it is not doing it here.
+
+⚠ Fact-check (contradicted-by-source): the quoted corridor is verbatim, but the
+sentence around it is hardened. The source says nothing about "volume" and hedges
+the move twice — "the blue fin that we talked about uh last week kind of being
+harder to find it sounds like those things slid out to the Tanner Cortez so
+they're kind of working that zone moving in between that zone from the 381 off
+the east end back side of Clementi out to Tanner and Cortez" (`OYOda6T3f-8`
+@00:04:51). The 2022-10-20 date is correct (the report is titled 10/20/2022).
 
 ⚠ Flagged gap — no corpus source: whether
 [bluefin](../species/bluefin-tuna.md), [yellowfin](../species/yellowfin-tuna.md),
@@ -226,6 +264,19 @@ on the meter, and either commit to or leave in **20–30 minutes** (`Blh2BA-7Ono
 of spot-checks with a short transit, not of a box. ⚠ Flagged gap — no corpus
 source places either mark on either side of that split.
 
+⚠ Fact-check (contradicted-by-source): the cited source carries only the first
+half of that split, and scoped to the water below San Clemente Island rather than
+to the Bight. Its area figure is ASR-garbled and self-inconsistent — "you get
+probably 50 miles 60 square miles to look" against "a 60 mile square area"
+(`Blh2BA-7Ono` @00:08:46–00:09:06) — "hours of looking" hardens "you should
+expect to spend quite a bit of time driving around", and the compact half has no
+counterpart at all: the source's only contrast is bare ("it's not like running to
+the 302 or 371"), with no idle-up, no meter grade, no commit-or-leave and no
+**20–30 minute** budget anywhere in the transcript.
+[The zone lexicon](zone-lexicon.md), named here as the figures' home, states them
+uncited, so the minutes have no origin in the KB. Already ledgered on
+[the Bight](socal-bight.md) and on `locations/south-9-mile-bank-439.md`.
+
 **With no corpus program, the general layers are what a plan has.** SoCal fish
 orient to structure and then to current edges, and the banger days come when the
 two line up; there is enough water on this coast that current edges get fished
@@ -244,6 +295,30 @@ against a chlorophyll chart for the cleanest (`OYOda6T3f-8`,
 [water colour](../conditions/water-color.md)). None of those layers is scoped
 to this water.
 
+⚠ Fact-check (contradicted-by-source): "there is enough water on this coast that
+current edges get fished as much as structure does" is a prediction in the
+source, not a present state — "for us we've got so much more water to cover you
+know when we really do get this a lot more refined i think we're going to be
+fishing current edges just as much as we're fishing structure" (`yMiBtZ7k8-w`
+@00:53:47) — and "so much more water to cover" is a comparison against Florida
+inside the speaker's own sentence. The structure-then-current-edges half and the
+banger-days line verify near-verbatim (@00:52:48); both are spoken by the host,
+Ali Hussainy. Already ledgered on `locations/51-181-138.md` and
+`locations/289-284.md`.
+
+⚠ Fact-check (contradicted-by-source): the temperature-chart line belongs to
+`OYOda6T3f-8` alone — "right now if I were going out I would like [rely] 100 [%]
+on your temp chart and your chlorophyll when looking for fish" (@00:06:30) —
+while `XLVUhV8DW64` carries no such statement (its nearest is "make some educated
+guesses using your chart using your SST using your chlorophyll looking at the
+structure", @00:07:14), so the dual cite reads as corroboration that is not
+there. "From October the regime flips" also hardens the source's "right now"
+inside one 2022-10-20 report, and the quoted wording is a normalisation of a
+garbled caption. The chlorophyll half verifies but is scoped to yellowfin: "if
+you're looking for Yellowfin at this time of year you're going to want to find
+the warmest water you can I think I would look at your chlorophyll chart and find
+the cleanest water you can" (@00:04:39).
+
 **The wind map is stated for the neighbours, not for these two marks.** South of
 Newport is "less prone to wind-wave-driven rollovers", and the Coronados, the
 tuna grounds, Catalina and San Clemente Island all held their water through a NW
@@ -255,6 +330,21 @@ Knoll and San Clemente Island **33.1 nm** north of the E. Butterfly (cameron) �
 so the pattern surrounds it without naming it. Exposure is a separate question
 from temperature, and open water this far out is
 [sea state](../conditions/sea-state.md) first.
+
+⚠ Fact-check (contradicted-by-source): neither the **5–8 °F** range nor the NW
+direction is in this cite. The transcript's only degree figure is a hedged
+single-site Long Beach harbour reading off a friend's video — "it looked like it
+was like 56 degree water which is i think seven maybe eight degrees off from
+where it was before this wind along the beach" (`YZtX1MiT0y8` @00:05:15) — and
+for the northern islands it gives an absolute, not a delta ("they're in the low
+50s in some of those areas", @00:01:14); the wind is never given a direction.
+The "south of newport… less prone to the wind wave driven rollovers and
+upwelling" line (@00:01:55) and the four zones that held (@00:01:33) verify
+verbatim. Scoped to this page's CITATION only: Cameron adjudicated the underlying
+rollover map as standing (2026-08-26), to be backed by BightSST statistics rather
+than re-sourced, and the identical flag already sits on
+[the Bight](socal-bight.md) and
+[San Clemente Island — Back Side](san-clemente-island-back-side.md).
 
 **Neither mark is a BightSST eval target**, so conditions here are pulled per
 charted position rather than read off a scored spot
