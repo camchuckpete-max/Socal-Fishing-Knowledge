@@ -30,12 +30,14 @@
 | Rigging, bait, care | 10.5 | 12 | 12 |
 | Honesty | 11 | 11.5 | 12 |
 
+**Browsable version:** [Head-to-Head Prompt Tests](https://claude.ai/code/artifact/7a59971f-3762-4857-ba9c-e85b7c8ef68e) — the same record with all three answers side by side per prompt.
+
 ## Verdict
 
 **The review earned its keep, but the rubric could not see how much.** NOW won
 13 of 21 prompts, batch 3 won 6, batch 2 won 2. The mean totals say something
 different — B2 11.10, B3 11.81, NOW 11.81 — and that dead tie is an artifact,
-not a result: **92% of the 378 criterion scores were 2/2**, so the rubric hit
+not a result: **351 of the 378 criterion scores (93%) were 2/2**, so the rubric hit
 its ceiling and stopped discriminating. Read the wins, not the means.
 
 ### What batch 3 did, and what the review did

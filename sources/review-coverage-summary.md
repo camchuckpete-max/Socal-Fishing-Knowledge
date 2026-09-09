@@ -154,10 +154,12 @@ The five prompt tests above were run by hand against the diffs. They were then
 re-run blind — 21 prompts, answered by a planning session confined to each of
 three pinned checkouts (batch 2, batch 3, the review), scored by a judge that
 never saw which version it was reading. The full record and the verdict are in
-[Head-to-head prompt tests](prompt-tests-2026-09-09/README.md).
+[Head-to-head prompt tests](prompt-tests-2026-09-09/README.md), and the
+browsable side-by-side version is
+[here](https://claude.ai/code/artifact/7a59971f-3762-4857-ba9c-e85b7c8ef68e).
 
 The headline: the review won 13 of 21, batch 3 won 6, batch 2 won 2 — but the
-rubric ceilinged (92% of scores were 2/2), so the mean totals tie the review
+rubric ceilinged (351 of 378 scores were a full 2/2), so the mean totals tie the review
 with batch 3 and carry no signal. Four of the five tests above agree in
 direction with their blind counterparts. The exception is Tanner Bank, where a
 533-line new page lost to batch 2's three passing mentions, because the review
