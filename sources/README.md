@@ -25,11 +25,22 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 - [Plan: distributed `socal-boat-day` skill + `config/` endpoint layer](plan-socal-boat-day-skill.md) — The governing plan for shipping the multi-user boat-day skill: a thin packaged bootstrap plus a live, editable endpoint layer in the repo.
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — Status: Cameron's PLAN APPROVED for this revision was given 2026-08-12 (after the resuming session's state report).
 - [Regulatory Claims Register](regulatory-claims.md) — Every regulation-shaped claim in the knowledgebase, in one place, so it can be re-verified in one pass.
+- [Review coverage summary — did the editorial run improve the knowledgebase?](review-coverage-summary.md) — The GATE B coverage summary for the 2026-08 editorial review (sources/plan-review.md).
 - [Source Registry](source-registry.md) — Registered sources qualify their doctrine for high confidence (see the confidence rubric in CLAUDE.md).
 <!-- index:end -->
 
 <!-- mermaid:start -->
 ## Map
 
-_No intra-folder links yet._
+```mermaid
+graph LR
+  n0["Judgment calls"]
+  n1["Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer"]
+  n2["Plan: distributed `socal-boat-day` skill + `config/` endpoint layer"]
+  n3["Plan: Build SoCal/Baja Fishing Knowledgebase"]
+  n4["Regulatory Claims Register"]
+  n5["Review coverage summary — did the editorial run improve the knowledgebase?"]
+  n6["Source Registry"]
+  n0 --> n5
+```
 <!-- mermaid:end -->
