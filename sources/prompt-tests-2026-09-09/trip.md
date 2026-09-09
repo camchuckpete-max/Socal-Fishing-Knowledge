@@ -6,14 +6,14 @@
 
 | | **B2** batch 2 | **B3** batch 3 | **NOW** review |
 |---|---:|---:|---:|
-| mean total /12 | 11.4 | 11.8 | 11.6 |
-| found | 1.6 | 2 | 2 |
+| mean total /12 | 11.4 | 11.6 | 12 |
+| found | 1.8 | 2 | 2 |
 | specific | 2 | 2 | 2 |
 | sourced | 2 | 2 | 2 |
 | scoped | 1.8 | 1.8 | 2 |
 | honest | 2 | 2 | 2 |
-| actionable | 2 | 2 | 1.6 |
-| **wins** | 1 | 2 | 2 |
+| actionable | 1.8 | 1.8 | 2 |
+| **wins** | 0 | 1 | 4 |
 | ⚑ fabricated_specifics | 0 | 0 | 0 |
 | ⚑ bluffed | 0 | 0 | 0 |
 | ⚑ regulation_without_asof | 0 | 1 | 0 |
@@ -22,7 +22,7 @@
 
 | category | B2 | B3 | NOW |
 |---|---:|---:|---:|
-| Trip planning | 11.4 | 11.8 | 11.6 |
+| Trip planning | 11.4 | 11.6 | 12 |
 | Gear | None | None | None |
 | Technique | None | None | None |
 | Finding fish | None | None | None |
@@ -694,19 +694,19 @@ One last note on how to read this: many claims above sit beside ⚠ fact-check f
 
 ### 2. [trip] It is blowing outside. I am launching from Dana Point. What is fishable today and for what? Assume these condi…
 
-**Winner:** B3 · mapping {'A': 'B2', 'B': 'NOW', 'C': 'B3'}
+**Winner:** NOW · mapping {'A': 'B2', 'B': 'NOW', 'C': 'B3'}
 
 | version | found | specific | sourced | scoped | honest | actionable | total | flags |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
 | B2 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 | B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
-| NOW | 2 | 2 | 2 | 2 | 2 | 1 | **11** |  |
+| NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three make the same correct call - outside is off, fish the Dana Point-to-Oceanside coastal strip for calico with mixed-bag bycatch - and all three are honest about the chlorophyll number and the missing swell period, so the separation is in coverage depth and how the envelope is declared. C wins on breadth plus execution: it states the regions/waters gate as binding, explains via bight-geography why water south of Newport survives a NW blow (a mechanism neither A nor B gives), ranks six programs down to gangion, slider-hook and diver-setback specifics, and still lands a harbor bail-out and a jurisdiction-stamped regs block. A is very close - its halibut water-triad, drift-control and bait-barge detail are the best of the three - but it never declares the envelope explicitly, leaves the lobster season unstamped, and its version of the KB has no inshore SST band so the 67-69 F datum goes unscored. B has the cleanest sourcing and the sharpest epistemics (it refuses a self-flagged unverifiable sonar band, surfaces the bait-barge contradiction, and won't guess how far the fishable band extends), but that discipline costs it execution detail on halibut, rockfish and the harbor fallback, leaving the angler with less to do once the kelp bite dies.
+**Judge:** All three make the same correct call — outside is a no-go, fish the Dana Point-to-Oceanside kelp and reef strip for calico/sand bass with barracuda and bonito, halibut second — and all three stamp regulations properly and admit the missing swell period, moon phase and chlorophyll scale. B separates on the "where": it is the only one working from an actual Dana Point zone page rather than a coordinate dump, so it classifies each spot (boiler rock vs kelp vs beach break), gives inter-spot distances (0.41 nm, 1.75 nm and mostly east), notes there is no shallow bank to duck behind because the bottom is 2,000-3,000 ft a mile off the beach, and warns that San Clemente Kelp and AR are off the mainland city, not the island — a real error a new angler would otherwise make; I verified those figures verbatim in locations/dana-point.md. B is also the most disciplined: it states the {socal-bight, nearshore-coast} gate as binding before opening a species note, surfaces the KB's own unreconciled conflicts (anchor vs drift, 5:00 vs 7:00 barge), flags the MPA latitude as unverifiable, and asks for the null boat envelope instead of assuming it. C is a close second with the sharpest conditions reasoning (the Ekman/upwelling test on whether 67-69 F is a drop, and the calico temperature band), but overreaches by listing Leucadia and Del Mar rock as "in reach" on a building-wind day; A is the most complete on execution (drift control in 8-12 kt, halibut fight, fish care) but never applies the given SST to a species and lacks any zone-level geography.
 
-- *B2 reasons:* found: nails the go/bail call, the blown-out September offshore program, and a full inshore bass/halibut/WSB/rockfish menu; says plainly the KB has no chlorophyll scale and no inshore SST bands. specific: coordinates for nine spots, 3/8 vs 3/4 oz keel weights, 50-65 lb braid to 60 lb fluoro, 1/2 oz egg + size-2 J, 2.5-3 ft 25-30 lb fluoro trap-rig leader, 20 ft kelp-under current read. sourced: note paths plus video ids on nearly every load-bearing claim, with unregistered-channel medium-confidence calls flagged. scoped: offshore correctly excluded and calico/halibut/rockfish/lobster regs carry CDFW + as-of + verify, but there is no explicit regions/waters declaration and the lobster season line is the one reg without an as-of stamp; the Catalina Eddy 'check before writing off everything offshore' aside is a slightly loose invitation on an SCA day. honest: fifteen concrete admitted gaps including the missing period, moon and current direction, and the tackle-file gap that kills the top calico presentation. actionable: bait-barge protocol, hour-by-hour shape, ranked presentations, drift control, gear table with an honest 'nearest fit' row.
-- *B3 reasons:* found: explicit envelope plus the best conditions reasoning of the three - the bight-geography note explaining why water south of Newport survives a NW blow while the northern islands roll over, which is exactly why this day is fishable. specific: six ranked programs with real numbers - 65-68 F band, 0-8/20-100 ft, ~40-42 ft hard bottom with kelp 20 ft off, 24 oz torpedo on 12-15 lb breakaway, 6/0 circles, 1/4-1/2 oz slider with No.2/No.4 bronze, Husky Magnum 25 ft at 33 yd setback at 6-8 kt, spottie 12-14 ft breaks. sourced: note paths and video ids throughout, with named sources and confidence levels attached. scoped: regions/waters declared binding, offshore species named and excluded by their own waters tags, regs block carries CDFW + as-of dates + verify plus three MPA lines. honest: admits September priors contain nothing inshore, no Dana Point location page exists, spot data comes from the personal library, boat envelope is null so it asks, and names two flagged stubs it cannot fill. actionable: the most complete day - bait plan, timeline anchored to the 09:20 pre-change arrival, ranked presentations, terminal rigs for every program, harbor bail-out, and a gear table that names the specific owned irons and divers; minor tension between the late-afternoon session and its own 'return against the build' rule.
-- *NOW reasons:* found: correct envelope, correct offshore exclusion, and the only answer that actually scores the given 67-69 F against a stated 65-68 F calico band; refuses to evaluate the paddy water because the KB cannot say how far the inshore band extends. specific: 0-8 and 20-100 ft working depths, nine charted positions, Salas 7X wind step-up, third-of-a-Tady-45 downsize rule, 240 ft vs 75-fathom RCA lines. sourced: cleanest citation hygiene of the three - linked note paths plus a video id on essentially every claim, and it names which claims are single-sourced. scoped: explicit regions/waters gate stated as binding, calico 14 in as of 2026-08, and it flags the bag-of-5 as 2019-03 single-source with no jurisdiction named rather than passing it off as law; MPA latitude flagged as unverified. honest: strongest epistemics - declines to use a sonar band its own note self-flags as unverifiable, surfaces the 5 a.m./7 a.m. bait-barge contradiction side by side, and admits it only read the lobster front matter. actionable: primary program is runnable, but the secondary programs are thin on terminal detail (halibut gets 15 lb fluoro and a three-way, no weight range or drift discipline; rockfish gets regs but no gangion spec) and the harbor bail-out resolves to 'no corpus source', so an angler gets less to execute once the kelp goes quiet.
+- *B2 reasons:* found: right material — no-go call, kelp/bass primary, halibut second, paddy/harbor fallbacks; only answer that never applies the given SST to a species preference band. specific: coordinates, 40-42 ft hard bottom, 7" slug on 7/0 3/8-3/4 oz keel hook, 50-65 lb braid/60 lb fluoro, 2.5-3 ft 25-30 lb halibut leader, 1-10 oz balls, 5.5 kt troll. sourced: note paths plus video ids (NC3-3pJDEgo, HMdrP4-i9MM, M6U_FVdosr4, poqjnb1r1zk) that cross-corroborate the other answers. scoped: island/bank/open-ocean correctly refused, Catalina explicitly not called for lack of data; regs stamped California/CDFW + on-camera dates + verify-current. honest: strong gaps block — no chlorophyll threshold, no Dana Point Harbor note, no coastal nearshore rock program, three named tackle gaps, no relative time. actionable: most complete execution — bait-barge etiquette, 09:20 arrival, motor-as-rudder and drift-sock control in 8-12 kt, halibut fight, ice/salt slurry.
+- *B3 reasons:* found: applies every given number — wind, seas, SST band (65-68 F, 67-69 at the top), chlorophyll via the color doctrine, and the 10:20 low; best conditions reasoning, including whether 67-69 is a drop (Ekman/upwelling mechanism). specific: spot table, 0-8/20-100 ft, 10-25 casts then move 100 ft/100 yd, 2-3 oz surface vs 5-6 oz yo-yo iron, 4:1 Jigmaster retrieve speed, two-loop gangion 1.5 ft apart with 24 oz torpedo, 1/4-1/2 oz slider with No.2/No.4 bronze hook. sourced: paths plus ids (LqW32NSkObY, kzD0kSnnVPw, pcwcRdmWmLc, OpcKQPA3vAI) consistent with the others. scoped: explicit envelope gate, ocean whitefish correctly gated out on waters, regs carry CDFW + as-of + verify except the spotted-bay-bass no-minimum line which names no jurisdiction; listing Leucadia and Del Mar rock (~28-33 nm south) as 'in reach' on a building NW day is a judgment stretch it never range-checks. honest: solid gaps list including the null boat envelope, no Dana Point zone guide, no drift-management doctrine, no chlorophyll scale. actionable: fully runnable, three programs plus harbor bail-out, wind-specific iron and sounder adjustments, named gear gap without substitution.
+- *NOW reasons:* found: only answer to open a real Dana Point zone page and a spot page; applies the given SST to the 65-68 F calico band; leaves the given chlorophyll unapplied in the body (relegated to the gaps list). specific: charted positions plus derived geometry (Salt Creek-Monarch 0.41 nm, Barber Poles 1.75 nm and mostly east), 2,000-3,000 ft a mile off the beach, 0-8/20-100 ft working depths, No.4-6 hooks on 1/16 oz shot never over 1/4 oz, 35-40 ft AR chum, 15 lb inshore halibut class. sourced: dense note links plus ids; I verified dana-point.md and its 2,000-3,000 ft, 0.41 nm and 1.75 nm figures and the mainland-vs-island warning exist verbatim in the repo. scoped: explicit {regions: socal-bight, waters: nearshore-coast} gate stated as binding before any species note; regs carry CDFW + as-of + verify, and it flags the calico bag limit as jurisdiction-unnamed rather than asserting it; no halibut size limit offered. honest: best — surfaces internal KB conflicts (anchor vs drift, flyline bait, 5:00 vs 7:00 barge), flags the MPA latitude as an unverifiable annotation, refuses gear substitution, asks for the null range_nm/sea_state_max_ft. actionable: runnable, but misses the wind-up-heavier-iron adjustment on a wind day and its primary presentation has no owned tackle.
 
 <details><summary>Full prompt</summary>
 
@@ -718,34 +718,209 @@ It is blowing outside. I am launching from Dana Point. What is fishable today an
 
 ## Short answer
 
-**Outside is off. Inside is on, and it's a bass day.** Fish the Dana Point–to–San Onofre kelp and hard bottom for calico and sand bass, with barracuda and bonito as the mixed-bag bycatch, and a halibut drift as the change-up. Skip the outer-bank/island program entirely — the water that holds it in September is exactly the water that's blown out.
+Outside is a **no-go**, and it's not a close call. Fish the **Dana Point → Oceanside inshore strip** — kelp-edge and hard-bottom **calico bass / sand bass**, with **barracuda and bonito** mixed in, **halibut** on the sand next to structure as the second program, and a quick look at any **inshore kelp paddy** you cross for yellowtail. Dana Point Harbor is the bail-out if the inside builds.
 
 ---
 
-## 1. The go/bail call
+## 1. Why the outside is off
 
-The KB's sea-state layer (`conditions/sea-state.md`) doesn't just look at height:
+Your outside numbers (NW 20–25 kt, 6–8 ft, SCA through Sunday) blow past every go/no-go threshold the KB carries. From `conditions/sea-state.md` (dave-hansen, `NC3-3pJDEgo`, 2020-11-18 — a registered voice but this specific threshold set is single-mention, medium confidence):
 
-- **Working-captain thresholds** (`NC3-3pJDEgo`, 2020-11-18 — the note holds these at *medium* confidence, single-mention): wind **above ~12 kt is what raises whitecaps**, and that captain's personal cutoff is not to run above 12 kt. **Swell interval under 10 seconds is a hard bad-sea flag** ("absolutely horrible"), independent of height. And the **named unfishable combo is 12–15 kt with 4–8 ft swell at a 9-second interval** — "you cannot be caught out there," a call he applies to big boats too, not just small ones. NW 20–25 kt over 6–8 ft at San Nic / SBI / the outer banks is well past every one of those numbers.
-- **Forecast error is asymmetric** — assume it errs on the worse side, and that afternoon W at the islands **strengthens** rather than eases (Academy Ep. 6, cited by date in the note). Corollary: **if it's windier than forecast in the morning, assume it builds all day and a small boat bails early** (7/14/22 report).
-- **Captain's-call framing:** a big-red-flag forecast is a "we are not going," not a "let's see" (`NC3-3pJDEgo`).
+- **Wind above ~12 kt is what raises whitecaps**, and his personal cutoff is not to run when it's blowing over 12 kt.
+- The **named unfishable combo** is **12–15 kt with 4–8 ft at a 9-second interval** — "you just cannot be caught out there," and he holds *larger* boats at the dock in it too. You have more wind and the same seas.
+- **Captain's-call framing:** a big-red-flag forecast is a "we are not going," not a "let's see."
 
-**What I'd want before I trust the inshore leg:** the **swell period** for the 3–4 ft inside. The steepness rule is the whole game — *10 ft @ 15 s is barely felt; 3–4 ft @ 4–5 s is brutal*. Flag any zone or route segment where the period in seconds approaches the height in feet. You gave me height but not period, so I can't score the inside ride. Also check **current-vs-swell opposition**: a 4 ft @ 10 s forecast fishes like **6 ft @ 7–8 s** where the current runs against the NW swell.
+Two more from the same note that shape today even inside:
 
-Two more route notes from the same file:
-- **Homebound wind.** Runs *south* put the wind on your return leg — plan the return **against** the afternoon build, not on the outbound conditions. From Dana Point that means if you run south to San Onofre/Barn, go early and be heading home before the build, not after it.
-- **Bathymetric slop hotspots.** Where current accelerates over a ridge or shoal the swell stands up *locally* — one rough patch doesn't condemn a whole zone (Landesfeind's example is the ridge off Catalina's east end: horrible for a few miles, lays down 3–4 mi past it).
-- If you're mourning the outside: the note also carries the **Catalina Eddy** case — the eddy can shield inner banks while it blows outside, so check eddy state before writing off *everything* offshore. That's a check, not a promise.
+- **Forecast error is asymmetric** — assume it errs on the worse side, and that afternoon W at the islands strengthens rather than eases (Ep. 6). And: if it is windier than forecast in the morning, **assume it builds all day — a small boat bails early** (7/14/22).
+- **Homebound wind** — plan the return leg against the afternoon build, not the outbound conditions (8/17/22). If you run south toward Oceanside, you're coming back up into it.
 
-**What you're giving up:** `seasonal/september.md` puts the bigger bluefin in the **"volume square" — SBI–San Nicolas–Clemente–Catalina** (`5to3Q5P7w90`, cameron). That block is precisely your 6–8 ft. Dorado in September run in **open-water schools below Catalina**, also out of reach. And per `conditions/water-temperature.md`, dorado concentrate at the **green-cold/blue-warm coastal boundary around ~71–72 °F** — your 67–69 °F inshore is under that boundary anyway.
+Your boat backs this up: `profiles/cameron/boat.md` — Panga Marine Marquesas 22, single 115 hp, **no trim tabs**, and the trim routine calls for a rider forward on the bow bean bag underway, with the note's own remark that **rough days forward are brutal** (rider catches air, then hits the deck).
+
+**What that costs you today:** the September grade-bluefin program. `seasonal/september.md` (`5to3Q5P7w90`) puts the bigger bluefin in the **"volume square" — SBI–San Nicolas–Clemente–Catalina** — which is exactly the water under the advisory. That's a wait-for-the-window target, not a today target.
+
+I am **not** making a Catalina call: you gave me no wind/sea numbers for the channel or the island, and I'm not fetching any. For reference, `conditions/sea-state.md` flags the ridge off **Catalina's east end** as a bathymetric slop hotspot (bad for a few miles, lays down 3–4 mi past it), and `locations/bight-geography.md` (`HzE4FHHcvTk`) notes that **south of Newport is less prone to NW wind-wave rollover** and that the Coronados/Catalina/SCI **held their water** through a big NW event — but that's a *water-temperature* map, not a sea-state permission slip.
 
 ---
 
-## 2. Primary program: calico bass on the kelp and hard bottom
+## 2. Today's program — the coastal strip
 
-`species/calico-bass.md` is the router. The load-bearing rule: **calico are current-driven and largely tide-indifferent** — you read the *current across the kelp*, not the tide clock. That's why this is the right call on a day whose only tide datum is a 10:20 low.
+### Read of your inshore conditions
 
-**Where (coordinates from `sources/spot-lists.md`, Dana Point + Oceanside sections):**
+- **SST 67–69 °F, chl 1.2 along the kelp.** `conditions/water-color.md` warns that a green signal has an **age**: a *new cold bloom* (overnight ~5 °F drop + green after an afternoon NW wind = local upwelling) is a short-term negative to mark for later; a **mature bloom edge** is what you fish. You gave a steady inshore SST with no drop, so this doesn't read as a fresh rollover — but check for a sudden temp break as you run. Cameron's own doctrine in the same note: in warm-water years weight color at least as heavily as SST, and **don't fish dirty-green water for gamefish**.
+- **For kelp bass, some stain is a plus.** `species/calico-bass.md` carries an observed read of **green-stained, near-opaque water with roughly 5–10 ft visibility** as the preferred kelp-edge bass color — the stain gives fish a place to hide and makes them feed up in the open (`9xNhdu2aBqE`, medium confidence).
+- **The switch is current, not the tide clock.** `species/calico-bass.md` + `conditions/current-structure.md`: calico are **current-driven and largely tide-indifferent**. Parallel current (uphill or downhill) = good; **into the beach** = marginal; **straight off the beach** = dead, skip it.
+- **Read current off the kelp** (`conditions/current-diagnostics.md`): kelp **pulled ~20 ft under** = raging, surface presentations are dead; **laid down** = strong, fishable; **resurfacing** = slacking, switch back to the surface. A second tell for the current shutting off: **bites on nearly every drop, then several drops with nothing** (dave-hansen, `aFb221LUoD0`, medium confidence).
+- **Corner selection** (`conditions/current-structure.md`, dave-hansen `kzD0kSnnVPw`, medium confidence, single mention): at a named kelp bed — his examples include **San Onofre**, on your stretch — **downhill current → work the NW corner of the bed; uphill → work the SE corner.** Same source-family also keeps a **per-spot wind-direction record** (some spots fish on NW wind, others on SE — `xI9tPJFXbUM`, medium confidence); today is a NW-wind day, so log which of these beds produce on NW for next time.
+- **Spot check-in shorthand** (`species/white-seabass.md`, `82gEHYel-4U`): milky water + a readable uphill/downhill current + that current lining up with the reef or kelp line = worth a shot.
+
+### Timing
+
+- **Bait first.** `bait/making-bait.md` (dave-hansen, `7WapaxdtjQg`, 2022-01-04, Dana Point example): **avoid the 6:00 a.m. sportboat rush** — go at **5:00 or 7:00**. Follow the barge's side signal (**at Dana Point, a cone on the ocean side**), hail on **VHF 11** with the barge name twice plus your boat name, **never board the barge**, ask for it **loaded light**, and tip the attendant.
+- **Low tide 10:20.** `conditions/tide-and-slack.md`: be on your highest-percentage zone **an hour before the change** — so **fishing by ~09:20**, not arriving at 10:20. The **late-morning slack** (a tide falling after ~9:30) is the prime open-water pop-up window, and pop-ups also **cluster in the afternoon**, so re-run water you marked in the morning at the afternoon tide time. Also: **on marginal days action compresses into the tide windows** (wide-open days bite all day, 8/17/22) — today is a marginal day, so anchor your zone rotation to the tide rather than roaming freely.
+- Caveat that matters: that arrival discipline is for the **slack-tide biters** (white seabass, marlin, bluefin foamers). Your primary target, calico, is tide-indifferent — for them the kelp lean is the clock. Your 8 a.m. norm departure (`profiles/cameron/boat.md`) still lands you fishing before 9:20 if you're bait-in-the-tank early.
+
+### Where — named spots on this stretch
+
+From your own committed library, `sources/spot-lists.md` (repo-public, waiver on file per `CLAUDE.md`):
+
+**Dana Point section**
+- Dana Point Kelp — Red Buoy — **33 27.320 / 117 43.380**
+- Barber Poles — **33 26.710 / 117 41.410**
+- Salt Creek — **33 28.565 / 117 44.040**
+- Monarch Boilers — **33 28.970 / 117 44.020**
+- San Clemente Kelp (mainland city) — **33 24.450 / 117 38.140**
+- San Clemente Artificial Reef — **33 23.890 / 117 37.200**
+- The Hospital 100 Fathom Curve — **33 29.500 / 117 47.100** — *the list annotates: stay S of the MPA at 33 30.050*
+
+**Oceanside / North County**
+- San Onofre Kelp — **33 20.880 / 117 34.050**
+- Barn Kelp — **33 17.015 / 117 29.475**
+- Box Canyon rockfish area — **33 17.290 / 117 34.150**
+- Pendleton AR Center — **33 19.500 / 117 31.700**
+- Oceanside AR 2-series cluster — around **33 12.2–12.9 / 117 25–26**
+
+Two direct local precedents in the KB for exactly this run:
+- `species/calico-bass.md` (`HMdrP4-i9MM`, 2022-10-11): a boat **departed Dana Point and worked south**, finding calico and sand bass over **hard bottom with light kelp that did not reach the surface — kelp riding roughly 20 ft off the bottom in ~40–42 ft of water**. Same trip's pre-trip briefing flagged **barracuda and 25–30 lb yellowtail recently seen in that stretch of coast.** Techniques that produced: dropper loop, flylined sardine, squid or sardine strip fished dropper-style, and a soft plastic.
+- `species/calico-bass.md` (`M6U_FVdosr4`, 2013-07-04, **Dana Point kelp bed**): boat **anchored** on a light current running through the kelp bed; the morning's tally was **5 sand bass + 3 calico, every one on a strip of squid** — then by day's end the same crew reported bass "actually biting the smaller sardines." Kept side by side, unreconciled: **carry both squid strips and small sardines.**
+
+### How to fish it
+
+Ranked off the `species/calico-bass.md` situations table:
+
+1. **Weedless swimbait / slug** — short targeted casts to individual stringers and the leading edge, fast steady wind, **pause on the eat**. Rigging from `techniques/swimbaits.md`: a **7" weedless slug on a keel-weighted hook — Gamakatsu 7/0, 3/8 oz** (Landesfeind prefers the **3/4 oz** because it keeps the bait in the water while you wind fast); replace the stock spring with an **Owner large / Trokar XL** spring and bury it to the bait. Line: **50–65 lb braid on a 300-size reel to 60 lb fluorocarbon** (a second voice runs **65 lb braid to 40 lb mono**, cinched down tight — kept side by side, `9xNhdu2aBqE`). **Set on the pause, never on the grab** — swing on the grab and nine times out of ten you pull it out of the fish's mouth.
+2. **Surface iron along the kelp line** — steady grind, change kick/speed to the bite. **This is the wind adjustment:** `techniques/surface-iron.md` — **wind up → heavier iron** (Salas 7X class) to punch the cast out (`D5DR7Kx42_A`), corroborated by the three-iron-box framework (`A70kK2niu2Q`) whose third slot is exactly "heavier, casts through wind/chop." Counter-case: if the forage is small anchovy ("rice"), **drop to a Tady AA-light / A1-light class — roughly a third the weight of a Tady 45 — and the small jig out-bites the big one two or three to one** (`pcwcRdmWmLc`), which then drags the whole setup down to a medium-action 9 ft stick and ~50 lb braid.
+3. **Flyline a sardine or mackerel** on the up-current edge when live bait's aboard and fish sit deeper on the edge or in wind — 25–40 lb class.
+4. **Raging current / kelp pulled under** → subsurface: sunk iron or leadhead, or wait for the slack; **resurfacing kelp = go back on top.**
+5. **Chum-and-anchor** a kelp edge with parallel current: chum the spot, reposition up-current, back down onto it as the anchor sets — fish come out of the kelp as the anchor goes down (`RXNebDr4j7s`, via `techniques/chunking.md` reference in the calico table).
+
+**Working method** (`species/calico-bass.md`, Ep. 13/14): the **up-current / leading edge is the spot** — calico face into the current and ambush from the front (Benny Florentino, `Rwy4MqeXCIU`). Hit three or four sides of a kelp head and you know in **two or three casts**. **10–25 casts to the prime edge, then move 100 ft or 100 yards.** Beds re-bite — come back later. Working depths run the **outside kelp edge ~50 ft in to ~25 ft**, and calico will rise **10–15 ft off 80–100 ft of reef** to eat a crank or a sunk iron. Bird tell: **cormorants diving *in* the kelp** = actively feeding, better than gulls inshore. Bait grade on the meter: **solid unbroken wall = no predators; broken, harried bait = predators on it.**
+
+**Barracuda and bonito** ride along (`species/barracuda.md`, `species/bonito.md`): fast, flashy surface-iron retrieve for both; add a **short single-strand wire (haywire twist)** or heavy hard mono the moment you start getting bit off by 'cuda. There's a Dana Point-specific bonito data point in `species/bonito.md` (`poqjnb1r1zk`, 2019-07-02): a 5:45 a.m. start south of Dana Point Harbor then working north, **small feathers rigged as a small daisy-chain trolled at roughly 5.5 kt**, plus a small sardine-profile diving hard bait cast and twitched behind the boat. That's a legitimate way to cover this coast in chop between kelp stops.
+
+**If you mark yellowtail** on the hard bottom (they were reported in this stretch at 25–30 lb): `species/yellowtail.md` — **tight balls hugging structure, classic arcs/boil-ups at ~5–10 fathoms near structure** → **yo-yo iron** (heavy Salas 6X class, hit bottom, **a couple of cranks off the bottom = the reaction bite**) or a **dropper loop** with live bait to the same marks, on a **40–60 lb class stout rod with a high-speed reel**. Structure yellows sit on **hard bottom only, never mud** — read bottom hardness before you work a spot.
+
+### Second program — halibut
+
+`species/california-halibut.md` (Landesfeind Ep. 15, `OpcKQPA3vAI`): the game is **sand within 5–20 ft of a hard edge** — a rock, a shale reef, a channel edge, an eelgrass line. Even a **15-ft-wide rock that barely paints** changes the current and holds a fish. The coastal version is **off-color water just outside the surf line** where shale sits outside the beach (a 40–50 lb fish came out of a Huntington bubbler zone in **30 ft**). Your chl-1.2 stained kelp-line water is the right family of water — but apply the **triad**: **off-color + current + bait, all three. Missing one → leave inside 20–30 minutes** (`conditions/tide-and-slack.md`, `conditions/water-color.md`, `6TBxHnkYXI0`).
+
+Rig: **trap rig off a three-way with a breakaway sinker**, **30 lb mono class** outside (mono for stretch on the bolting run), **fluorocarbon leader 2.5–3 ft, 25–30 lb**, **ball/cannonball sinkers 1–10 oz** to conditions. Short controlled drifts along the edge, not long random sand drags — a two-angler private boat should **isolate the structure and pick it apart**. Fight: one long bolting run, then **high rod tip and a straight, light-drag grind, no pumping**; keep the head underwater to the gaff.
+
+**Wind-day drift control** (`planning/search-and-glassing.md`): stop on arrival, note the stopping point, and watch which way and how fast wind/current move you **before** dropping. Angle the outboard off the keel line to use it as a **rudder** to slow/steer the drift; **drop the motor back in and/or deploy a drift sock** to slow a fast drift; pull the motor out to speed a slow one. In 8–12 kt of NW you'll be pushing, not drifting — this is the part that makes or breaks a halibut drift today.
+
+### Third — check any paddy you cross
+
+`locations/bight-geography.md` and `conditions/kelp-paddies.md` (8/17/22, `HzE4FHHcvTk`): the **best coastal paddy water is exactly Dana Point to Oceanside and southward**; paddies are **scarcer and hold less north of Dana Point.** Discipline (`ZFqe49jRgA0`, `4xzK7YaXK5s`): **drive right up to it like it's the dock** — a paddy isn't spooky — look for visible fish, check the meter for **boomerang-shaped arcs at typically 90–120 ft**, give it a **minute, maybe two**, one bait, then move. **A dry paddy stays dry all day** (they only restock at night). Once you find a live one, **search its line** — N–S in open water under the uphill current, along the contour near a bank edge.
+
+Temperature reality check: `species/dorado.md` / `conditions/water-temperature.md` put dorado on the **green-cold/blue-warm boundary around ~71–72 °F** (`E4vKwRaRueA`). At **67–69 °F** inshore you're below that band, so treat inside paddies today as a **yellowtail/bonito** bet, not a dorado bet. On a live paddy: flylined bait first, then surface iron/casting jig.
+
+### Bail-out — Dana Point Harbor
+
+`locations/bays-and-harbors.md` + `species/spotted-bay-bass.md`: a harbor is a **tidal system first**, and spotted bay bass are **fully tide-driven** (the exact opposite of the calico outside). Work **eelgrass edges, channel drop-offs, riprap, and dock/piling fields** — and **favor old, weathered pilings over new ones**; the growth on them is what holds fish (`usHl-4SfqDA`). Set up **up-current of the structure**, cast **up-current across the grain of the eelgrass lean** (retrieving against the grain snags; a bass sits facing up-current anyway — `EGKesj7V64M`). Note the timing nuance: **roughly the half hour either side of the turn, current all but stops** — so around your 10:20 low, fish the moving water on either side rather than the turn itself. Lures: **Zoom fluke on a 1/4–3/8 oz ballhead flipped tight to pilings**, Ned rig, drop shot, small cranks — light spinning / low-profile, 10–20 lb.
+
+---
+
+## 3. Gear off your profile
+
+| Job | Your setup (`profiles/cameron/rods.md`, `tackle.md`) |
+|---|---|
+| Surface iron on the kelp line | **Torium 20HG on the Phenix Abyss 10'0" (25–60 lb), 50 lb braid** — your full surface-iron setup |
+| Wind-punching iron | **Nomad Slidekick 120g (4.25 oz)** — heavier than traditional irons and can be sunk out to cover the column; **JRI-7** (~Tady 45 class) is your local/kelp all-rounder |
+| Flyline sardine/mackerel | **Avet MXJ on the Teramar 90MHB2 (9'0", MH, 30–65 lb), 50 lb braid** — step the leader down for kelp-line bass |
+| Yo-yo / dropper loop if yellowtail or bottom fish show | **Trinidad 40 on the 8'0" XH 40–80 lb blank, 80 lb braid** (yo-yo iron, sinker rigs) with the **Salas 6X** |
+| Closest thing you own to a bass/swimbait stick | **Tranx 400 on the Phenix M1 SMX-82H (8'2", H, 20–45 lb)** — but your own note has its **braid TBD, respool pending**, so confirm before you leave the dock |
+
+Three honest gaps in your kit for today's primary program: your tackle note is **hard baits only** — no soft plastics, slugs, or keel-weighted weedless hooks recorded, so the #1 calico presentation is a **class-term recommendation, not an owned-gear one**. Likewise there's **no trap-rig / three-way / breakaway terminal** recorded for halibut, and **no light spinning class** for the harbor finesse fallback.
+
+Boat: 30-gal tank, **100–125 lb of ice per trip**, and drain the bait tank before the run home per your trim routine.
+
+---
+
+## 4. Off the table today, and why
+
+- **Bluefin in the volume square (SBI–Nick–Clemente–Catalina)** — that's the September grade water (`seasonal/september.md`, `5to3Q5P7w90`), and it's the water under the advisory.
+- **Outer banks / offshore paddy line** — same reason.
+- **White seabass** — `species/white-seabass.md` makes it a **moon-clustered, squid-driven, gray-light/night island program** on the slack. You gave me no moon phase and no squid, and the island grounds are blown out. The **off-color triad** from that note still governs any milky inshore water you fish today.
+- **Lobster** — `species/california-spiny-lobster.md` puts the season at roughly **early October through mid-March**; late September is **before the opener**. Regulation, not water state — confirm the exact date with CDFW.
+- **Rockfish/lingcod** — the KB's programs are **island shallow (100–250 ft)** and **offshore/coastal deep (300–900 ft)**, and it says plainly that **season, depth limits and the year-end closure change annually and are not encoded here** — verify with CDFW. Your list does carry coastal rockfish ground on this strip (**Box Canyon 33 17.290 / 117 34.150**), but the KB has no dedicated coastal-nearshore-rock program for the Dana Point–Oceanside band.
+- **Sheephead** is a legitimate windy-day add: `species/sheephead.md` puts them on the **numbered Carlsbad AR / Oceanside AR clusters** and inshore rocky structure, **chum-driven** — the bite turns on once chum is in the water.
+
+**Regulations** (California / CDFW, as stated on camera in the cited sources — **verify current before you fish**): **14 in** minimum for kelp bass and sand bass (`HMdrP4-i9MM`, 2022); **22 in** minimum for California halibut (`MUpvP-Yl2R0`, 2016). Honor the MPA annotations carried in your own spot list (stay **S of 33 30.050** at The Hospital; **N of the SMCA at 33 03.000** at Encinitas; **N/W of the MPA at 33 33.233 x 117 49.200** at Abalone Point).
+
+**Fish care** (`fish-care/dorado-and-general.md`): ice immediately, **salted slurry — ~2 cups rock salt per 7–10 lb bag of ice plus a splash of seawater**, and **never freshwater-rinse** the catch. `species/bonito.md` carries two independent data points that **bleeding and icing a bonito immediately** is the whole difference between "trash fish" and near-yellowfin table quality — worth doing if you box one.
+
+---
+
+## 5. What I could not resolve from the knowledgebase
+
+- **No swell period.** You gave heights but not intervals. `conditions/sea-state.md`'s steepness rule (**10 ft @ 15 s is barely felt; 3–4 ft @ 4–5 s is brutal**) and the **sub-10-second hard bad-sea flag** can't be applied without it — and your inshore 3–4 ft could be short-period wind chop, which would be materially worse than the number suggests. Pull the period before you commit.
+- **No moon phase**, so the moon-gated doctrine is unusable: `species/calico-bass.md` warns that on clear full-moon nights calico gorge after dark and **shut down by mid-morning** (bite first light or late afternoon), and `conditions/moon.md` is what would tell you whether today is one of those days.
+- **Chlorophyll 1.2 has no threshold in this KB.** The notes handle water color qualitatively (new bloom vs mature bloom edge, "don't fish dirty green") — nothing maps a numeric chlorophyll value to a go/no-go.
+- **No Dana Point Harbor note.** `locations/bays-and-harbors.md` names San Diego Bay, Mission Bay, Newport, Huntington Harbour and the LA/Long Beach complex; the structure knowledge is universal, but there is no Dana Point Harbor-specific page.
+- **No current direction given**, and the parallel-current rule is the single biggest lever on the calico program. You'll have to read it on the water off the kelp lean and the chum-drift angle.
+
+
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `conditions/sea-state.md`, `conditions/tide-and-slack.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/kelp-paddies.md`, `seasonal/september.md`, `seasonal/october.md`, `species/calico-bass.md`, `species/sand-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/yellowtail.md`, `species/california-halibut.md`, `species/white-seabass.md`, `species/dorado.md`, `species/rockfish-lingcod.md`, `species/ocean-whitefish.md`, `species/sheephead.md`, `species/california-spiny-lobster.md`, `species/spotted-bay-bass.md`, `techniques/surface-iron.md`, `techniques/swimbaits.md`, `techniques/flyline.md`, `locations/bight-geography.md`, `locations/bass-structure.md`, `locations/bays-and-harbors.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `fish-care/dorado-and-general.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`  
+*videos:* `NC3-3pJDEgo`, `HzE4FHHcvTk`, `5to3Q5P7w90`, `HMdrP4-i9MM`, `M6U_FVdosr4`, `poqjnb1r1zk`, `9xNhdu2aBqE`, `Rwy4MqeXCIU`, `RXNebDr4j7s`, `D5DR7Kx42_A`, `A70kK2niu2Q`, `pcwcRdmWmLc`, `kzD0kSnnVPw`, `xI9tPJFXbUM`, `aFb221LUoD0`, `ZFqe49jRgA0`, `4xzK7YaXK5s`, `OpcKQPA3vAI`, `6TBxHnkYXI0`, `MUpvP-Yl2R0`, `E4vKwRaRueA`, `7WapaxdtjQg`, `EGKesj7V64M`, `usHl-4SfqDA`, `82gEHYel-4U`  
+*gaps admitted:* No swell period given for either the outside or inshore seas, so the KB's steepness rule (3-4 ft @ 4-5 s is brutal; sub-10-second interval is a hard bad-sea flag, conditions/sea-state.md) cannot be applied to today's 3-4 ft inshore chop. | No moon phase given, so the moon-gated doctrine is unusable: the full-moon calico shutdown by mid-morning (species/calico-bass.md), white seabass moon clustering (species/white-seabass.md), and the lobster dark-night preference (conditions/moon.md) could not be factored in. | The KB has no numeric chlorophyll threshold — it only distinguishes a new cold bloom from a mature bloom edge qualitatively (conditions/water-color.md), so the given value of 1.2 cannot be graded good or bad from the notes. | No current direction or strength was given, and the parallel-current rule is the largest single lever on the kelp-bass program (conditions/current-structure.md); it has to be read on the water rather than planned. | There is no Dana Point Harbor note — locations/bays-and-harbors.md covers San Diego Bay, Mission Bay, Newport, Huntington Harbour and the LA/Long Beach complex only, so the harbor fallback rests on universal structure knowledge, not a local page. | No conditions were given for the Catalina channel or the island, so no Catalina call is made; the KB's wind-rollover map (locations/bight-geography.md) is about water temperature holding, not sea state. | The KB carries no coastal nearshore rockfish/lingcod program for the Dana Point-Oceanside band — its rockfish notes cover island shallow (100-250 ft) and offshore/coastal deep (300-900 ft) only — and it explicitly does not encode current-year CDFW seasons, depth limits, or the year-end closure. | Ocean whitefish is documented only as a Channel Islands hard-bottom fishery in this KB, so it is not routed as a coastal-strip option today. | Cameron's profile records no soft plastics, slugs, or keel-weighted weedless hooks, no halibut trap-rig/three-way terminal, and no light spinning class, so those recommendations degrade to class terms rather than owned gear; the Tranx setup's braid weight is still listed as pending respool. | Regulatory figures carried here (14 in kelp/sand bass, 22 in halibut, roughly early-October lobster opener) come from dated on-camera statements in the corpus, not current CDFW rules, and must be verified before fishing.
+
+</details>
+
+<details><summary><b>B3 — batch 3</b> · 12/12</summary>
+
+# Blown out outside, fishable inside — go bass/kelp, from Dana Point south
+
+**Short version:** everything the late-September priors would send you at is in the water that's blown out. Stay inside the 3–4 ft band, fish the Dana Point → San Onofre kelp and reef edges for the calico/barracuda/bonito complex, with coastal hard bottom (rockfish/sheephead) as the second half and Dana Point Harbor as the bail-out. Be on your best kelp edge by **09:20** for the 10:20 low.
+
+---
+
+## 1. The day's envelope (protocol step 1b — this is binding)
+
+Per [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md), I set `{regions, waters}` before opening a single species note, and anything outside it is **never offered**, not offered with a caveat.
+
+- **regions:** `socal-bight`
+- **waters:** `nearshore-coast` (plus `bay-harbor` if it deteriorates)
+- **Out today:** `island`, `bank`, `open-ocean` — SCA, 6–8 ft at San Nicolas / Santa Barbara Island / the outer banks.
+
+That single filter kills the whole late-September A-list:
+
+| September prior | Why it's out today |
+| --- | --- |
+| The **"volume square" — SBI–San Nicolas–Clemente–Catalina — holds the bigger bluefin** in September ([`seasonal/september.md`](seasonal/september.md), `5to3Q5P7w90`) | That is literally the blown-out box |
+| **Dorado in open-water schools below Catalina**; **yellowfin volume near the border sliding north** (same note) | `open-ocean` — outside the envelope |
+| Paddy program — best paddy water is **south of SCI/Catalina and the Dana Point→Oceanside strip** ([`conditions/kelp-paddies.md`](conditions/kelp-paddies.md), [`locations/bight-geography.md`](locations/bight-geography.md), `HzE4FHHcvTk`) | The strip is your water, but the KB files paddies as `open-ocean` structure and gives no guidance on paddy fishing inside a 3–4 ft nearshore band. If you cross one *inside* the fishable band, the doctrine is: **drive right up to it like it's the dock**, look under it, check fast — **a dry paddy stays dry all day**, fish only move paddy-to-paddy at night (`4xzK7YaXK5s`) |
+
+**Sea-state sanity check.** The one numeric go/no-go the KB carries is Dave Hansen's (medium confidence, single mention): wind **above ~12 kt is what raises whitecaps**, his personal cutoff is not to run over 12 kt, **sub-10-second swell interval is a hard bad-sea flag**, and **12–15 kt with 4–8 ft at 9 s** is his named "you cannot be caught out there" combo ([`conditions/sea-state.md`](conditions/sea-state.md), `NC3-3pJDEgo`, 2020-11-18). Your inside numbers (8–12 kt, 3–4 ft) sit right at the top of that cutoff, and **you did not give me a swell period** — the steepness rule in that same note is blunt: **3–4 ft at 4–5 s is brutal**, while 10 ft at 15 s is barely felt. Get the period before you commit; it decides whether this is a pleasant day or a beating.
+
+Two more from that note that apply directly:
+- **Forecast error is asymmetric** — assume it errs worse. If it's windier than forecast in the morning, **assume it builds all day and bail early** (small-boat rule).
+- **Homebound wind:** plan the return leg against the afternoon W build, not off the outbound conditions. Work south early, be heading home before it stands up.
+
+## 2. Why the inside band is actually the right side of this blow
+
+This isn't just "settle for the inside." [`locations/bight-geography.md`](locations/bight-geography.md) (`HzE4FHHcvTk`, Landesfeind 4/21/22) maps NW-blow geography explicitly:
+
+- **Gets crushed:** the northern Channel Islands and the LA/Ventura coastal shelf — a strong NW event rolls surface temp down **5–8 °F** there.
+- **Less prone:** **south of Newport** — "less prone to wind-wave-driven rollovers."
+- **Held through it:** Coronados, the tuna grounds, Catalina, San Clemente.
+
+Dana Point → Oceanside is the sheltered-geometry side of that map, and your **67–69 °F** reading is consistent with water that held.
+
+**The one thing I can't settle for you:** whether 67–69 °F is *steady* or a *drop*. The rule is that an overnight **~5 °F drop plus green water after NW wind** is a fresh local upwelling event — **cold, green, bad now, mark it for the recovery** — versus a **mature bloom edge**, which is what you fish ([`conditions/upwelling-and-turnover.md`](conditions/upwelling-and-turnover.md), [`conditions/water-color.md`](conditions/water-color.md)). The mechanism says to expect it: a NW alongshore wind deflects surface transport 90° right — offshore — which draws cold water up at the coast (Ekman transport, `32TQdFJKIlI`). With a multi-day NW event running, check your 24–48 h SST trend at the kelp before you believe the 67–69.
+
+Your own standing doctrine also bears on the chlorophyll number: **in warm-water years you weight chlorophyll at least as heavily as SST and won't fish dirty green water for gamefish** (`cameron`, [`conditions/water-color.md`](conditions/water-color.md)). **The KB gives no numeric chlorophyll scale**, so I can't tell you what 1.2 "is" — that's a gap, flagged below. What the corpus *does* say for kelp-edge bass specifically cuts the other way: a **green-stained, near-opaque water color with roughly 5–10 ft of visibility** was called the preferred read for kelp-edge bass, because the stain gives fish a place to hide and makes them comfortable feeding up (`9xNhdu2aBqE`, San Clemente Island 2015-10-28, medium confidence). Judge it with your eyes at the kelp, not off the number.
+
+## 3. The clock
+
+- **Low tide 10:20.** Arrival discipline: **be on your highest-percentage spot an hour before the change** — **09:20**, fishing, not arriving ([`conditions/tide-and-slack.md`](conditions/tide-and-slack.md)). The **late-morning slack** (tide falling after ~09:30) is called the prime pop-up window, and pop-ups also cluster in the afternoon — so re-run water you marked earlier.
+- **Window compression:** when conditions are marginal (this is marginal), the action **compresses into the tide windows** — anchor your zones to tide times rather than routing freely (same note, 8/17/22).
+- **Bait:** if you're buying, the Dana Point barge fills the sportboat fleet at **06:00** and the line forms by a quarter to six — target **05:00, or 04:30** ([`bait/making-bait.md`](bait/making-bait.md), `7WapaxdtjQg`, `bM2vUS1B-yQ`; [`bait/bait-tanks.md`](bait/bait-tanks.md), `ztpj1Xll0-U`). Cone marks the tie-up side on the ocean side; hail on **VHF 11**; tell them to load it light. Note your own profile has departure ~08:00 as the norm ([`profiles/cameron/boat.md`](profiles/cameron/boat.md)) — that misses the barge window entirely.
+
+## 4. Plan A — the kelp/reef bass complex (calico, barracuda, bonito)
+
+This is the target the envelope, the season and the water all agree on. [`species/calico-bass.md`](species/calico-bass.md) is `regions: socal-bight`, `waters: nearshore-coast, island, bay-harbor` — in envelope, and a year-round coastal fishery that peaks in the warm months.
+
+**Spots (charted positions from [`sources/spot-lists.md`](sources/spot-lists.md), N→S from your ramp):**
 
 | Spot | Position |
 | --- | --- |
@@ -753,475 +928,264 @@ Two more route notes from the same file:
 | Salt Creek | 33 28.565 / 117 44.040 |
 | Dana Point Kelp — Red Buoy | 33 27.320 / 117 43.380 |
 | Barber Poles | 33 26.710 / 117 41.410 |
-| San Clemente Kelp (mainland city) | 33 24.450 / 117 38.140 |
-| San Clemente Artificial Reef | 33 23.890 / 117 37.200 |
-| San Mateo Point / Trestles | 33 22.960 / 117 36.800 · 33 22.790 / 117 36.280 |
+| San Clemente Kelp (mainland) | 33 24.450 / 117 38.140 |
+| San Clemente Artificial Reef (mainland) | 33 23.890 / 117 37.200 |
 | San Onofre Kelp | 33 20.880 / 117 34.050 |
 | Barn Kelp | 33 17.015 / 117 29.475 |
+| The Hospital 100-fathom curve (**stay S of the MPA line at 33 30.050**) | 33 29.500 / 117 47.100 |
 
-The spot library gives **coordinates only — no depths** for these, so verify soundings on your own plotter. If you run north instead, the library flags MPAs: **Abalone Point — stay N/W of the MPA at 33 33.233 x 117 49.200**, and **The Hospital 100 Fathom Curve — stay S of the MPA at 33 30.050**.
+**How to pick which end of which bed — this is the whole game:**
 
-**A near-exact seasonal precedent for this stretch:** a Dana Point–departing trip on **2022-10-11** worked south down the coast and found calico (with sand bass mixed) over **hard bottom with light kelp that did not reach the surface — kelp riding roughly 20 ft off the bottom in ~40–42 ft of water**. Same trip's pre-fish plan also flagged barracuda and **25–30 lb yellowtail** recently seen in that stretch (`HMdrP4-i9MM`; unregistered channel — medium confidence). Don't write off unbroken-looking water just because there's no surface canopy.
+- **Calico are current-driven and tide-indifferent.** Read the current across the kelp, not the tide clock ([`species/calico-bass.md`](species/calico-bass.md)).
+- **Parallel-current rule** ([`conditions/current-structure.md`](conditions/current-structure.md), [`locations/bass-structure.md`](locations/bass-structure.md), Landesfeind Ep. 14): current **parallel** to the beach = good (definable leading edge); **into** the beach = marginal; **off** the beach = **dead, skip it**.
+- **Corner call** (`kzD0kSnnVPw`, Dave Hansen — San Onofre is one of his named examples; medium confidence): **downhill current → work the NW corner of the bed; uphill → the SE corner.**
+- **Anchor the bed, don't drift through it** (`sIoNELGlxmk`) — drifting through gives up the edge-holding pattern. On hard, kelp-free rock with nothing to read, **drop the anchor and watch which way the line points** — that's the current read; expect to reset it repeatedly ([`conditions/current-diagnostics.md`](conditions/current-diagnostics.md)).
+- **Kelp lean is your current gauge** (same note): pulled ~20 ft under = raging, surface presentations dead, go vertical; laid down = strong, fishable; **resurfacing = slacking, switch back to the surface.**
+- **The biting fish sit on the up-current / leading edge** — calico face into the current and ambush from the front of the kelp (`Rwy4MqeXCIU`, Benny Florentino). Hit three or four sides of a head; you know in two or three casts.
+- **Cover water:** **10–25 casts to the prime edge, then move 100 ft or 100 yards** to the next stringers. Beds re-bite — come back later. Coastal-panel version of the same rule is 10–20 casts (`XyKF34C5iB4`).
+- **Depths:** work the outside kelp edge ~**50 ft in to ~25 ft**; calico will rise **10–15 ft off 80–100 ft of reef** to eat. Tommy Ponce's Dana Point water specifically: **0–8 ft and 20–100 ft** (`LqW32NSkObY`, medium confidence).
+- **Temperature:** Ponce's stated preference is **65–68 °F**, with fish going lethargic past ~70 (`LqW32NSkObY`, medium, single source). **Your 67–69 sits at the top of that band** — fine, but if the shallow edge feels dead, drop to the 20–100 ft side.
+- **Light:** bright/stable light pushes calico up into the **outer canopy edge**; overcast spreads them through the column and structure (`RUuPNpK0x-s`, medium).
+- **Sign:** **cormorants diving *in* the kelp** = actively feeding = the calico tell, better than gulls inshore. On the meter, a **solid unbroken wall of bait has no predators on it; broken, harried bait does.** Same read visually: "happy," meandering bait = keep running; **balled-up, fast-moving bait = stop and fish it** ([`planning/search-and-glassing.md`](planning/search-and-glassing.md), `XyKF34C5iB4`).
+- **Sounder caveat for a 3–4 ft day:** in chop the transducer cone has to be shot lower, so **fish high in the column won't paint until you're right on top of them** — not a gain setting to fix (`fgTmUq78ofQ`, [`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md)). Don't write a bed off on a clean-looking screen today.
 
-**Pick the spot on current, not the chart:**
-- **Parallel-current rule** (`conditions/current-structure.md`): current running **parallel** to the shoreline (uphill or downhill) makes the edge fishable; **into the beach** is marginal; **off the beach is dead — skip it.**
-- **Corner selection within a bed** (Dave Hansen, `kzD0kSnnVPw`, 2019-04-07 — registered voice, single mention on this framing, medium confidence): **current running downhill → work the NW corner of the kelp; running uphill → work the SE corner.** Same logic carries to rock structure.
-- **Kelp lean is your current gauge** (`conditions/current-diagnostics.md`): **pulled ~20 ft under = raging** (surface presentations dead, go weighted); **laid down = strong** (fishable, work the down-current side); **resurfacing = slacking** (switch back to surface/lighter).
-- **The edge is the spot.** Biting fish sit on the **up-current / leading edge**, facing into the current — "hit three or four sides of it and you know in two or three casts." Fish edges, pinch-points and isolated stringers, never the dense middle (Ep. 14; leading-edge/ambush mechanic also `Rwy4MqeXCIU`).
-- **Water color:** a green-stained, near-opaque read with roughly **5–10 ft of visibility** was called the preferred kelp-edge color — the stain gives fish a place to hide and makes them feed up in the open (`9xNhdu2aBqE`, 2015-10-28, unregistered — medium confidence).
-- **Bird tell:** **cormorants diving *in* the kelp** = actively feeding, a better calico tell inshore than gulls.
+**Techniques, ranked for today's wind:**
 
-**Sonar picture:** calico mark **tight to kelp/structure edges and hard bottom**. Working depths run the **outside kelp edge ~50 ft in to ~25 ft**, and they'll rise **10–15 ft off 80–100 ft of reef** to eat a crankbait or a sunk iron. A **solid unbroken wall of bait has no predators on it; broken/harried bait does** — grade the mark before you commit.
+1. **Surface iron along the kelp line** — steady grind, bigger cruising fish, and the presentation the wind actually favors: **wind up → step up to a heavier iron** (Salas 7X class) to punch the cast out (`D5DR7Kx42_A`, [`techniques/surface-iron.md`](techniques/surface-iron.md)). A surface iron normally runs **2–3 oz** vs **5–6 oz** for a yo-yo iron (`VpW91AKOFVQ`). Don't over-wind it — these jigs were designed around a **4:1 Penn Jigmaster**; 6.5–7.5:1 is called too fast (`Ec2GaNpiOHI`). On a miss, **keep winding, never stop.**
+2. **Flylined sardine/mackerel** on the up-current edge when there's bait aboard and fish are deeper on the edge or the wind's up ([`techniques/flyline.md`](techniques/flyline.md)).
+3. **When the kelp goes flat/under (raging current):** go vertical — sunk iron or leadhead; switch back on top when the kelp resurfaces ([`techniques/yo-yo-iron.md`](techniques/yo-yo-iron.md)).
+4. **If they're on small anchovy ("rice"):** drop to a light iron (Tady AA-light/A1-light class, roughly a third the weight of a Tady 45) — on small bait the small jig out-bites the big one **two or three to one** (`pcwcRdmWmLc`).
 
-**Technique, ranked for today (from the router's Situations table):**
+**The mixed bag rides along:**
+- **Barracuda** on the same kelp lines — fast, flashy retrieve, they chase a moving target; **rig for the teeth** when you start getting cut off: short single-strand wire on a haywire twist, or heavy hard mono as the line-shy compromise ([`species/barracuda.md`](species/barracuda.md)). A Catalina data point has one coming on a **Tady-45-class iron sunk to ~30 ft** before the retrieve (`oadK6zIYyCo`).
+- **Bonito** — treat a boil as the **measure of life**; small chrome jigs / small irons into the foam ([`species/bonito.md`](species/bonito.md)). Dana Point local data point: a 05:45 start working south then north of the harbor, **small feathers as a mini daisy-chain trolled at ~5.5 kt**, plus a small sardine-profile diver cast and twitched (`poqjnb1r1zk`, 2019-07-02). Bleed and ice them immediately and they eat close to yellowfin (`H-vIGWPIPVc`, `0dIwWiOc1NY`).
+- **Sand bass** mix in on the same hard bottom / reef-to-sand transition ([`species/sand-bass.md`](species/sand-bass.md)). Note they hover **above or within** structure, so cover the column.
+- **Regs:** calico and barred sand bass minimum **14 in** (California/CDFW, as last checked 2022-04-25 — `r6j5w40fVHI`, `HMdrP4-i9MM`; calico bag limit 5/day is on record from 2019-03-13 and is the oldest figure in the register). **Verify current CDFW rules before you fish** ([`sources/regulatory-claims.md`](sources/regulatory-claims.md)).
 
-1. **Weedless swimbait to the stringers** — short targeted casts, fast steady wind, pause on the eat. **7" weedless/MC slug on a keel-weighted hook: Gamakatsu 7/0, 3/8 oz, or a Trokar keel-weight.** Weights come half oz / 3/4 oz / nano; Landesfeind prefers the **3/4 oz** because it keeps the bait *in the water* while you wind fast. Replace the stock spring with an **Owner large** or **Trokar/Eagle Claw XL**, buried all the way so the plastic butts the hook — worth roughly **10x more fish per bait**. Line: **50–65 lb braid on a 300-size reel to 60 lb fluoro** (kelp chafes leader just from casting). A second, side-by-side data point runs **65 lb braid to 40 lb mono**, buttoned down tight (`9xNhdu2aBqE`).
-2. **Surface iron along the kelp line** — and this is the wind-adapted choice. **Wind up → heavier iron:** step up to a **Salas 7X class** to punch the cast through it (`D5DR7Kx42_A`); a second source frames the same thing as one of three jigs you should carry — small-and-erratic for reaction, a Tady 45 for finesse, and a heavy one that casts through wind/chop (`A70kK2niu2Q`, medium confidence). For reference weights, a **surface iron runs 2–3 oz** vs a **5–6 oz yo-yo iron** (Scotty, `VpW91AKOFVQ`, registered — high confidence). **Counter-case:** if the forage is small anchovy ("rice"), drop to a light iron (Tady AA-light / A1-light, about **a third the weight of a Tady 45**) — on small bait the small jig out-bites the big one **two or three to one** (`pcwcRdmWmLc`). Those two rules pull opposite directions today; let the bait you actually see decide, not the wind alone.
-3. **Flyline a sardine or mackerel** — the router explicitly lists this for "live bait around, fish deeper on the edge **or in wind**," 25–40 lb flyline class. It sweeps the up-current edge naturally.
-4. **Raging current / kelp pulled under** → go subsurface (sunk iron, leadhead) or wait for the slack. Resurfacing kelp = go back on top.
-5. **Chum-and-anchor** if you find a live edge: chum-bucket the spot, then reposition **up-current** and back the boat down onto it as the anchor sets — fish come out of the kelp as the anchor goes down (`RXNebDr4j7s`).
+## 5. Plan B — coastal hard bottom, second half or if the kelp is dead
 
-**Covering water is the method:** 10–25 casts to the prime edge, then move — 100 ft or 100 yards to the next stringers. If they're not on the prime spot they're usually not in the bed. Beds re-bite, so come back later (Ep. 13).
+[`species/rockfish-lingcod.md`](species/rockfish-lingcod.md) carries `waters: bank, island, nearshore-coast` — the coastal deep rock is in envelope. **Wind is less of a problem here than on the kelp:** it's a meter-and-chart fishery with no surface sign, and the drift does the work.
 
-**Bait choice, Dana Point specifically — kept side by side, not reconciled** (`M6U_FVdosr4`, 2013-07-04, Dana Point kelp bed, unregistered — medium confidence): the boat anchored on a **light current running through the kelp bed**; that morning's first trip had produced **5 sand bass and 3 calico, every one on a strip of squid**. By day's end the same crew reported the fish were "actually biting the smaller sardines." Bring both.
+Coastal rock in reach (from [`sources/spot-lists.md`](sources/spot-lists.md)): **Box Canyon rockfish area 33 17.290 / 117 34.150**, **Leucadia rockfish area 33 04.100 / 117 20.600**, **Del Mar rockfish area 32 57.191 / 117 17.981**, **Encinitas rockfish / Devil's Rock North — stay N of the SMCA at 33 03.000 — 33 03.130 / 117 20.920**; plus the artificial reefs (**Pendleton AR center 33 19.500 / 117 31.700**, the **Oceanside AR 1A–2L** cluster around 33 10.9–33 13.0 / 117 25–26, **San Clemente AR 33 23.890 / 117 37.200**).
 
----
+- **Find it:** run the contour and read **where hard meets soft** — mark every hard-bottom hit as a waypoint and keep the track line running (`11npFUPOJKU`). A good spot is a distinct pinnacle/hump rising 20–30 ft.
+- **Current matters as much as bait** — a spot with no current will meter fish that won't bite (`6-8KfjEg0x8`). Tell for the shutoff: bait pointing every direction and fish metering but not biting; or bites on nearly every drop, then several dead drops in a row (`aFb221LUoD0`).
+- **Rig:** dropper-loop gangion — **two loops ~1.5 ft apart, circle hooks, 24 oz torpedo sinker on a light breakaway**, 30 lb braid for a fast straight drop; bait it with a **5–8" gulp/plastic grub** (white-glow / nuclear chicken) and you carry no squid ([`species/rockfish-lingcod.md`](species/rockfish-lingcod.md)). General dropper-loop rule: sinker **6–10 oz**, heavier if the current is up, err **long** on the loop for bait action ([`techniques/dropper-loop.md`](techniques/dropper-loop.md)).
+- **Or a 3 oz lead-head slug** on shallower rock: drop slack, **5–6 quick winds off the bottom**; ~**90% of bites come on the first drop** or the instant you kick back into gear.
+- **Sheephead** come off the same ground and are in envelope (`nearshore-coast`): anchored on a chummed reef, chunk to draw them up then a **1/4–1/2 oz slider with a No. 2 / No. 4 bronze hook**, bait **suspended, never laid on the bottom** — a bottomed bait draws bat rays, shovelnose and leopard sharks instead (`OSbAHdB4uPs`, `eL1Qm33-Mj0`, [`species/sheephead.md`](species/sheephead.md)).
+- **Regs:** rockfish is open most of the year and closes year-end, with depth limits and RCA boundaries that vary by location (the register's examples: ~240 ft near the islands vs ~75 fathoms nearer the coast, 2020-03, speaker self-hedged). **California/CDFW — verify current season, depth limits and RCA line before you drop.**
 
-## 3. Riding along: sand bass, barracuda, bonito
+## 6. Halibut — the swing option, if you find the right dirt
 
-- **Sand bass** (`species/sand-bass.md`) mark **slightly above or within** the reef/wreck, not pinned to the bottom — cover the column. If they're locked down, **dropper loop**. With small anchovy, the **sliding (egg) sinker**: **1/2 oz egg + size-2 J hook**, slow-sink through the column on an **8–8.5 ft, 12–30 lb finesse fly-line class** rod. A big sand bass is ~6 lb, so **20 lb leader** gets it done.
-- **Barracuda** (`species/barracuda.md`, medium confidence — the corpus has no dedicated barracuda program): they mark as **scattered, higher-in-the-column fish suspended along the kelp/structure edge**, looser and more mobile than the bass. **Retrieve the iron fast** — they chase a moving target. When you start getting cut off, add a **short single-strand wire (haywire twist)** or step to heavy hard mono; wire ends the cut-offs but costs bites.
-- **Bonito** (`species/bonito.md`, medium confidence): read them as the **measure of life** — where they boil outside the kelp, the water is working. Cast small chrome jigs/small iron into the foam. There's a Dana Point data point: a **5:45 am** start, slow morning fishing **south of Dana Point Harbor then working north of it**, with **small feathers rigged as a small daisy-chain trolled at ~5.5 kt** and a **small sardine-profile hard bait (Rapala-class) cast and twitched** behind the boat also drawing bites (`poqjnb1r1zk`, 2019-07-02, Your Saltwater Guide).
+In envelope and it likes exactly this kind of day: **off-color water just outside the surf line** where hard bottom sits outside the beach and bait gets pushed in. The rule is **sand within 5–20 ft of a hard edge** — a rock, shale reef, channel edge, low-relief rockpile, bubbler, eelgrass line — not open sand (`OpcKQPA3vAI`, [`species/california-halibut.md`](species/california-halibut.md)). Halibut also **push into less than 15 ft in spring and fall** (`ghHQe3fP9U4`, medium).
 
----
+- **Live bait:** trap rig off a three-way with a breakaway sinker, 2.5–3 ft of **25–30 lb fluoro** leader, 30 lb mono class outside (mono for stretch on the bolting run).
+- **Artificials, covering water:** drop-shot short controlled drifts, or a fast-wound hard bait — halibut **chase it down** (`46ha7J1Fc6A`). In **1–4 ft** run a shallow minnow so it doesn't dig into the sand; **by 10 ft switch to a leadhead and swimbait** (`E4CDqBFOaP8`).
+- **Fight it:** light drag, steady tension, **no pumping**, head kept underwater to the gaff.
+- **Regs:** minimum **22 in** (California/CDFW, as stated on camera 2016-11-23, `MUpvP-Yl2R0`) — verify current.
 
-## 4. Change-up: halibut
+## 7. Bail-out — Dana Point Harbor
 
-`species/california-halibut.md` — good use of an 8–12 kt breeze, because this is a **drift** fishery.
+If it builds and you come in early: the harbor is the marginal-weather fallback ([`species/spotted-bay-bass.md`](species/spotted-bay-bass.md), `regions: socal-bight`, `waters: bay-harbor`). Fish eelgrass edges, mooring cans, piling fields, riprap and channel drops, and especially the **edges where two of those meet** ([`locations/bays-and-harbors.md`](locations/bays-and-harbors.md)).
 
-- **You cannot mark the halibut.** You mark the conditions that put one there. What you want is **sand within 5–20 ft of a hard edge** — a rock, shale reef, channel edge, low-relief rockpile, a bubbler, an eelgrass line. Even a **15-ft-wide rock that barely paints** changes the current, traps plankton, and gives a fish a place to lie (`OpcKQPA3vAI`).
-- **The water triad — all three or leave:** off-color patch **+ current + bait**. Milky water alone is not a spot. If you're in it and not marking bait or catching *anything* — leopard shark, sargo, a small calico, any feeding sign — **leave inside 20–30 minutes.** The productive version is a dirty patch with a **hard rip / dirty foam edge** inside cleaner water (`OpcKQPA3vAI`, `6TBxHnkYXI0`).
-- **Sonar:** hunt the soft/hard transition, and look for **bait pinned close to the bottom** — bait 20 ft down over 80 ft of water won't fire a halibut.
-- **Drift discipline:** drift **along** the structure, not across it. Start **20 ft up-current**, end **20 ft past**. If it looked right and you got nothing, drift the other side.
-- **Rig:** **trap rig** off a three-way with a **breakaway sinker**; **30 lb mono class** outside (mono for stretch on the bolting run), **2.5–3 ft of 25–30 lb fluorocarbon leader** — "the mono-leader guy is the one who blanks." **Ball/cannonball 1–10 oz** to conditions; ball weights bounce and kick the fish up off the mud. Artificial alternative: **drop-shot** a plastic near the bottom to pick apart rockpiles instead of long straight drifts.
-- **Drift control in breeze** (`planning/search-and-glassing.md`, Scotty via `_ZThckj2TIM`, registered — high confidence): on arrival, **stop and watch which way and how fast the boat moves before dropping lines**; angle the outboard off the keel line to use it as a **rudder** to slow/steer the drift, or deploy a **drift sock**; pull the motor out of the water to speed a slow drift.
+- **Spotties are fully tide-driven** — the exact opposite of the calico outside. Your 10:20 low means ebb all morning, then flood.
+- **Slack itself is the slow window** — roughly the half hour either side of 10:20; fish the moving water on either side of it (`EGKesj7V64M`, medium).
+- **Read current off the eelgrass lean and cast up-current, retrieving with the grain** — against the grain drags the lure into standing blades, and the bass sits facing up-current anyway (`EGKesj7V64M`).
+- On the **flood** they push shallow onto ground they can't reach at low water; on the ebb they pull off to the deeper edges (`lP6cg4eEU6s`, medium).
+- **No minimum size** on spotted bay bass (2024-11 — verify; `usHl-4SfqDA`).
 
----
+**Caveat:** the KB's bay notes name San Diego Bay, Mission Bay, Newport, Huntington Harbour and the LA/Long Beach complex. **Dana Point Harbor is not named anywhere in the KB** — I'm applying the universal bay-structure knowledge, not documented local spots.
 
-## 5. The long shots, honestly graded
+## 8. What I'm deliberately not offering
 
-- **White seabass** (`species/white-seabass.md`): it's a **squid-driven, gray-light-and-night, slack-tide** fishery, and the odds concentrate at low light. Your one tide datum — **low at 10:20** — actually gives you the discipline: **be on your highest-percentage spot an hour before the change**, so in place by ~09:20 (`conditions/tide-and-slack.md`). Same water triad as halibut, plus the spot check-in shorthand: **milky water + uphill/downhill current + structure line all "going together"** (`82gEHYel-4U`). Anchor **up-current** of the spot and let bait/chum drift back — WSB is not a bottom fish. Rig: **lead-head + squid** (2–3 squid threaded up the head, 3/4–1 oz), or a **dropper loop with the hook 12–18 in above the sinker** (`ShSxNKAcUB4`). Realistically: mid-morning, no squid intel, no low-light window — this is an opportunistic add if you land in the right dirty-water edge, not a plan.
-- **Rockfish** (`species/rockfish-lingcod.md`): the coast has ground for it — **Box Canyon rockfish area 33 17.290 / 117 34.150**, **Leucadia rockfish area 33 04.100 / 117 20.600** (`sources/spot-lists.md`). Workhorse rig is a **dropper-loop gangion — two loops ~1.5 ft apart, 6/0 circle hooks, 24 oz torpedo on a light 12–15 lb breakaway**, baited with a **5–8" gulp/plastic grub** (white-glow / nuclear-chicken); scent fishes as well as live bait. **~90% of bites come on the first drop.** But the KB is explicit that the **season and depth limits are CDFW regulation, checked as of 2026-08 — verify current-year dates and depth constraints before you go.** I can't tell you today's depth band from this KB.
-- **Lobster: no.** `species/california-spiny-lobster.md` puts the recreational season at **roughly early October through mid-March**, set by regulation, not water state. Late September is almost certainly before the opener — **confirm the exact date with CDFW** before you even load nets.
+- **Bluefin, yellowfin, dorado, striped marlin, paddy yellows** — `open-ocean`/`bank`/`island`, out of envelope. The gate is binding, not a ranking.
+- **Ocean whitefish** — tagged `waters: bank, island` only ([`species/ocean-whitefish.md`](species/ocean-whitefish.md)), so it's gated out of a nearshore-coast day even though it'd be a natural bycatch thought.
+- **Coastal yellowtail off Dana Point** — [`species/yellowtail.md`](species/yellowtail.md) does include `nearshore-coast`, but every documented SoCal program in it is islands, banks, Coronados or paddies. **The KB has no Dana Point–Oceanside mainland yellowtail program.** If a boil or a paddy shows inside the band, the iron is already in your hand — but I'm not routing the day to it.
+- **Lobster** — season runs roughly **early October through mid-March**; late September is almost certainly before the opener (California/CDFW, as of 2026-08 — `b19_AJjYCok`, [`species/california-spiny-lobster.md`](species/california-spiny-lobster.md)). Verify the exact opener.
+- **White seabass** — in envelope on paper, but it's moon-clustered, slack-driven and squid-dependent, and needs the full **off-color patch + current + bait** triad; **missing any one leg, leave within 20–30 min** ([`species/white-seabass.md`](species/white-seabass.md), [`conditions/tide-and-slack.md`](conditions/tide-and-slack.md)). You didn't give me a moon phase, so I can't weight it. If you hit a dirty patch with a hard rip edge inside cleaner water, with current and bait, fish it on the 10:20 slack — that's the setup.
 
----
+## 9. Gear (resolved against your profile — including a real gap)
 
-## 6. Running the day
+From [`profiles/cameron/rods.md`](profiles/cameron/rods.md) and [`profiles/cameron/tackle.md`](profiles/cameron/tackle.md), mapped through [`tackle/gear-classes.md`](tackle/gear-classes.md):
 
-1. **Bait first.** `bait/making-bait.md` has the Dana Point barge specifically (`7WapaxdtjQg`, Dave Hansen): **hail on VHF 11** with the barge's name twice plus your boat's name, wait for a response before approaching. **Never board the barge.** Follow the side signal — **at Dana Point, a cone on the ocean side**. Tell the attendant you want it **loaded light** and you're not in a rush. **Avoid the 6:00 a.m. rush** — the 3/4-day and half-day fleet all load then; go **5:00 or 7:00 a.m.** Tip at the end. Take both sardine and squid if they have it (see the Dana Point bait reversal above).
-2. **First light on the closest live edge** — Monarch Boilers / Salt Creek / the Red Buoy kelp. Grade each bed in 10–25 casts.
-3. **Read the kelp lean before you pick a presentation**, and re-read it every stop.
-4. **Work outward with the wind at your back**, but plan the return against the build. If the inside is windier than forecast at 08:00, take that as "it builds all day" and shorten the plan.
-5. **Around 09:20–10:20**, if you've found off-color water with current and bait, that's your halibut/WSB window on the low.
-
----
-
-## 7. Gear, resolved against your profile
-
-Your profile (`profiles/cameron/`) is an offshore/tuna kit, and that matters today:
-
-| Job | Class term | Your gear |
+| Job | Your setup | Lure |
 | --- | --- | --- |
-| Surface iron on the kelp line | jig-stick / surface-iron class (8–10 ft, 2–4 oz, 25–60 lb) | **Torium 20HG on the Phenix Abyss 10'0" (PSX-C 1009, 25–60 lb), 50 lb braid** — your dedicated surface-iron setup |
-| Punching a cast into wind | heavier iron | **JRI-5** (biggest JRI), **Nomad Slidekick 120g / 4.25 oz** (heavier than traditional irons, can be sunk out). **JRI-7** is your "~Tady 45 class, local/kelp all-rounder" |
-| Flylined sardine/mackerel on the edge | flyline class, 25–40 lb | **Avet MXJ on the Teramar 90MHB2, 50 lb braid** |
-| Dropper loop / sinker rigs | yo-yo / heavy-iron class | **Trinidad 40 on the 8'0" XH 40–80, 80 lb braid** (heavier than this fishery needs, but it's what's rigged) |
-| Weedless slug / plastics | **bass class** — 7–9 ft graphite-composite, low-profile 200–300 reel, 30–65 lb braid | **Nearest fit: the Tranx 400 on the Phenix M1 Inshore SMX-82H (8'2", H, 20–45 lb)** — but its braid is logged **TBD, respool pending** |
+| Surface iron on the kelp line (**primary**) | **Torium 20HG / Phenix Abyss 10'0" 25–60 lb, 50 lb braid** — the jig-stick class | **Nomad Slidekick 120g (4.25 oz)** is your wind jig — heavier than a traditional iron and can be sunk out to cover the column; **JRI-7** (~Tady 45 class) as the kelp all-rounder; **Strictly Irons Glory** (7", wide drawn-out kick) for a picky/slack-current change-up |
+| Flylined bait on the up-current edge | **Avet MXJ / Teramar 90MHB2, 50 lb braid** — flyline class | — |
+| Bottom / dropper loop on coastal rock, or vertical when the kelp lays flat | **Trinidad 40 / Rainshadow 8'0" XH 40–80, 80 lb braid** — yo-yo & sinker-rig class | **Salas 6X**, **Salas CP 105** |
+| Small-bait / bonito & barracuda casting | **Lexa 400 / Okuma PCH 9'0" H** or the **Tranx** | **Daiwa Zakana 100g**, **Jansen Cabo Killer** |
 
-**Real gap:** `profiles/cameron/tackle.md` is complete as of 7/23/26 for **hard baits, casting and jigging only** — it lists **no soft plastics, no weedless slugs, no keel-weighted hooks, no leadheads**. The highest-percentage calico row in the router is exactly that program, so today it resolves to **class terms, not owned gear**: 7" weedless slugs + Gamakatsu 7/0 3/8 oz or Trokar keel-weight hooks + 60 lb fluoro. Buy or borrow, or fish the iron and the flyline and accept you're leaving the best presentation on the beach.
+**Named gap (protocol step 4 — I don't substitute):** the calico programs the KB ranks highest for kelp stringers — **weedless swimbaits, open slugs, leadheads, inshore crankbaits** — all call for the **bass / swimbait class** (7–9 ft graphite-composite, low-profile 200–300 reel, 30–65 lb braid, 40–65 lb fluoro leader for kelp abrasion) and there is **no bass-class rod and no soft plastics or leadheads in your inventory**. Your Tranx (8'2" H, 20–45 lb, braid TBD after respool) is the nearest thing, but it isn't the same rod — the swimbait rows specifically want a soft glass tip so you don't pull the hook. Today that costs you the "fish tight to individual stringers" and "sparse kelp lanes" rows entirely; you're an iron-and-bait boat on the kelp. Also no wire/haywire material is listed for the barracuda cut-offs.
 
-**Boat notes** (`profiles/cameron/boat.md`): the Panga Marquesas 22 has **no trim tabs** — engine trim is your only attitude control — and your own routine is **at least one person forward on the bow bean bag** underway, with the caveat that **rough days forward are brutal**. 3–4 ft is workable; it's the period I'd want first. **30-gal tank, Rule 401 500 GPH pump**, and **drain the tank coming in** (heavy stern water) with one person shifted aft. Also worth naming: **your home port is Dana Landing, Mission Bay** — Dana Point is a trailer launch for you, not the usual departure, so budget the tow. No drift sock is listed in the profile, and the drift-control doctrine above wants one.
-
----
-
-## 8. Regulations (verify before you fish)
-
-- **Calico bass / kelp bass and sand bass: 14 in minimum** (California/CDFW, as of 2026-08 — `r6j5w40fVHI`; the 14 in figure was also called out on camera on the 2022 Dana Point trip, `HMdrP4-i9MM`). **Verify current rules.**
-- **California halibut: 22 in minimum**, as stated on camera 2016-11-23 (`MUpvP-Yl2R0`) — the KB flags this explicitly as a regulatory claim to re-check with CDFW.
-- **Rockfish season and depth limits:** CDFW annual regs, as-of 2026-08 in the KB — **verify current-year dates and depth constraints.**
-- **Lobster:** season roughly Oct–Mar; **confirm the opener with CDFW.**
-- **MPAs** on the Laguna/Crystal Cove side, per the spot library: **stay N/W of the MPA at 33 33.233 x 117 49.200** (Abalone Point) and **S of 33 30.050** (Hospital).
-- Local release ethic for the bass, from the corpus: "our bass are slow to grow, so let them go" — photo-and-release is the encouraged SoCal practice (`usHl-4SfqDA`). Handle by the **lower lip**, and per one tournament dock, **grab them by the middle of the body, not the tail**, to release.
+**Boat:** [`profiles/cameron/boat.md`](profiles/cameron/boat.md) records **`range_nm: null` and `sea_state_max_ft: null`** — deliberately not guessed. The protocol says to **ask** rather than assume, so: is the Panga a 3–4 ft, 8–12 kt boat for a 20+ nm round trip today? The note does flag that **rough days forward are brutal** (the bow rider catches air), and you run with at least one person forward — that's a real cost on a 3–4 ft short-period day. It also notes no trim tabs and a single starting battery running the bait pump.
 
 ---
 
-## 9. What this KB can't tell you today
+## What I could not answer from the knowledgebase
 
-- **It has no chlorophyll scale.** `conditions/water-color.md` gives *new cold bloom (skip) vs mature bloom edge (fish)* and Cameron's "won't fish dirty green water" rule — but **no numeric thresholds**, so I can't tell you whether **1.2 along the kelp** is good green or dead green. The test the KB *does* give: if there was an **overnight ~5 °F drop plus green water after an afternoon NW wind**, that's a **local upwelling event — short-term negative, mark it for the recovery, don't expect it to fish today.** With NW 20–25 offshore, that's a live possibility worth checking against yesterday's SST.
-- **It has no SST band for any inshore species.** 67–69 °F can't be scored for calico, sand bass, barracuda, bonito, halibut or WSB. The only temperature anchor near your numbers is the dorado boundary at ~71–72 °F.
-- **You didn't give me a swell period or the moon phase**, and both change the plan — see the steepness rule above, and the moon rule below.
-- **Moon matters and I don't have it.** On clear full-moon nights calico gorge after dark and **shut down by mid-morning** — bite early, then dead until late day, and the same suppression applies to sand bass. If we're near a full moon, front-load the day hard and plan a late-afternoon second session.
-- **Current direction and strength for today weren't given**, and the parallel-current rule — the single most load-bearing call in this plan — depends entirely on it. Read it on the water off the kelp lean and the chum-drift angle.
-
-<sub>Sources are the KB notes named inline; video IDs are carried from those notes. Several inshore data points come from unregistered channels and are held at medium confidence in the KB — I've flagged those where I used them.</sub>
+Listed in `gaps_admitted` — the load-bearing ones: **no chlorophyll numeric scale** (I can't tell you what 1.2 means), **no swell period given** (the steepness rule needs it), **no moon phase given** (calico full-moon shutdown and the WSB moon windows both hinge on it), **your boat's range/sea-state limits are null in the profile**, and **there's no Dana Point zone guide or spot detail** beyond the coordinates above.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `conditions/sea-state.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/tide-and-slack.md`, `conditions/water-color.md`, `conditions/water-temperature.md`, `conditions/kelp-paddies.md`, `seasonal/september.md`, `seasonal/october.md`, `species/calico-bass.md`, `species/sand-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/california-halibut.md`, `species/white-seabass.md`, `species/rockfish-lingcod.md`, `species/yellowtail.md`, `species/california-spiny-lobster.md`, `species/ocean-whitefish.md`, `species/spotted-bay-bass.md`, `techniques/surface-iron.md`, `techniques/swimbaits.md`, `techniques/flyline.md`, `techniques/dropper-loop.md`, `techniques/inshore-crankbaits.md`, `tackle/gear-classes.md`, `locations/bass-structure.md`, `locations/breakwalls-jetties-riprap.md`, `locations/bays-and-harbors.md`, `bait/making-bait.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`  
-*videos:* `NC3-3pJDEgo`, `5to3Q5P7w90`, `HMdrP4-i9MM`, `M6U_FVdosr4`, `poqjnb1r1zk`, `r6j5w40fVHI`, `Rwy4MqeXCIU`, `9xNhdu2aBqE`, `RXNebDr4j7s`, `kzD0kSnnVPw`, `D5DR7Kx42_A`, `pcwcRdmWmLc`, `VpW91AKOFVQ`, `A70kK2niu2Q`, `7WapaxdtjQg`, `OpcKQPA3vAI`, `6TBxHnkYXI0`, `82gEHYel-4U`, `ShSxNKAcUB4`, `MUpvP-Yl2R0`, `usHl-4SfqDA`, `_ZThckj2TIM`, `P6Slg6RQiXw`  
-*gaps admitted:* No numeric chlorophyll scale anywhere in the KB — it cannot say whether 1.2 along the kelp is fishable green or dead green; only the new-cold-bloom vs mature-bloom-edge distinction is given. | No SST band for any inshore species (calico, sand bass, barracuda, bonito, halibut, white seabass), so 67–69 F cannot be scored; the only nearby temperature anchor is the dorado ~71–72 F coastal boundary. | Swell period for the inshore 3–4 ft was not supplied, and the KB's steepness rule (10 ft @ 15 s vs 3–4 ft @ 4–5 s) cannot be applied without it. | Moon phase was not supplied, so the calico/sand-bass full-moon suppression rule (gorge at night, shut down by mid-morning) cannot be applied. | Current direction and strength for today were not supplied, and the parallel-current rule that governs every kelp spot choice depends entirely on it. | sources/spot-lists.md gives coordinates only for the Dana Point and Oceanside spots — no depths, no bottom descriptions, no bed extents. | The KB has no Dana Point Harbor note; bays-and-harbors covers San Diego Bay, Mission Bay, Newport and the LA/Long Beach complex only, so there is no in-harbor fallback detail for a Dana Point launch. | Current-year CDFW rockfish season dates and depth limits are not in the KB — the note explicitly defers to CDFW (as-of 2026-08). | The exact spiny lobster opener date is not in the KB (only 'roughly early October'), so whether late September is open must be confirmed with CDFW. | No live squid availability intel — squid is the driver for the white seabass program and the KB is not a conditions source. | Bounce-ball trolling for halibut on coastal flats is a flagged stub in the router — no corpus source covers it. | Barracuda has no dedicated program in the corpus; everything in that router is inferred from mixed-bag report mentions and held at medium confidence. | The KB has no small-craft-advisory or sea-state threshold specific to a 22 ft panga — the go/no-go numbers used are boat-agnostic and held at medium confidence (single-mention, dave-hansen). | profiles/cameron/tackle.md inventories hard baits, casting and jigging lures only — it lists no soft plastics, weedless slugs, keel-weighted hooks or leadheads, so the highest-percentage calico presentation cannot be resolved to owned gear. | No drift sock is listed in the profile, though the drift-control doctrine calls for one on a breezy halibut drift.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `locations/regions.md`, `locations/bight-geography.md`, `locations/bass-structure.md`, `locations/bays-and-harbors.md`, `seasonal/september.md`, `conditions/sea-state.md`, `conditions/water-color.md`, `conditions/water-temperature.md`, `conditions/tide-and-slack.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/upwelling-and-turnover.md`, `conditions/kelp-paddies.md`, `species/README.md`, `species/calico-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/sand-bass.md`, `species/california-halibut.md`, `species/white-seabass.md`, `species/yellowtail.md`, `species/rockfish-lingcod.md`, `species/sheephead.md`, `species/ocean-whitefish.md`, `species/spotted-bay-bass.md`, `species/california-spiny-lobster.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/flyline.md`, `techniques/dropper-loop.md`, `techniques/wind-in-your-face-positioning.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `bait/bait-tanks.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `sources/regulatory-claims.md`  
+*videos:* `5to3Q5P7w90`, `HzE4FHHcvTk`, `NC3-3pJDEgo`, `32TQdFJKIlI`, `LqW32NSkObY`, `RUuPNpK0x-s`, `9xNhdu2aBqE`, `Rwy4MqeXCIU`, `XyKF34C5iB4`, `kzD0kSnnVPw`, `sIoNELGlxmk`, `aFb221LUoD0`, `D5DR7Kx42_A`, `pcwcRdmWmLc`, `VpW91AKOFVQ`, `Ec2GaNpiOHI`, `oadK6zIYyCo`, `poqjnb1r1zk`, `11npFUPOJKU`, `6-8KfjEg0x8`, `OSbAHdB4uPs`, `eL1Qm33-Mj0`, `OpcKQPA3vAI`, `MUpvP-Yl2R0`, `ghHQe3fP9U4`, `E4CDqBFOaP8`, `46ha7J1Fc6A`, `EGKesj7V64M`, `lP6cg4eEU6s`, `usHl-4SfqDA`, `7WapaxdtjQg`, `ztpj1Xll0-U`, `bM2vUS1B-yQ`, `fgTmUq78ofQ`, `b19_AJjYCok`, `r6j5w40fVHI`, `HMdrP4-i9MM`, `H-vIGWPIPVc`, `0dIwWiOc1NY`, `4xzK7YaXK5s`, `r9bF3VtzDUg`  
+*gaps admitted:* No chlorophyll numeric scale anywhere in the KB — it gives no mapping from a chlorophyll value (your 1.2 along the kelp) to 'clean', 'green', or 'seabass-color', so I cannot grade that number, only the visual read. | Swell period was not given, and the KB's steepness rule (10 ft @ 15 s barely felt vs 3-4 ft @ 4-5 s brutal) cannot be applied without it. | Moon phase for late September was not given; the calico full-moon-shutdown rule, the white seabass moon-window weighting, and spring/neap tide amplitude all depend on it. | Your boat profile has range_nm and sea_state_max_ft as null (profiles/cameron/boat.md) — the protocol says to ask rather than assume, so I could not verify a 3-4 ft, 8-12 kt round trip is inside your envelope. | The KB has no zone guide or spot pages for the Dana Point / Oceanside coast — only coordinates in sources/spot-lists.md, with no per-spot depth, structure, or bottom-composition detail. | Dana Point Harbor is not named anywhere in the KB; the bay/harbor knowledge I applied names San Diego Bay, Mission Bay, Newport, Huntington Harbour and LA/Long Beach only. | No mainland Dana Point-to-Oceanside yellowtail program exists in the KB — yellowtail coverage is islands, banks, Coronados, Baja and paddies. | No doctrine on managing drift speed in 8-12 kt of wind (drogue/drift sock, motor-assisted drift) for either the halibut drift or the bottom-fishing drift. | No guidance on fishing kelp paddies inside a nearshore 3-4 ft band — paddies are treated as open-ocean structure — and the conditions given do not say how far offshore the 'inshore' 3-4 ft band extends. | No SoCal-specific numeric wind/sea go-no-go for a small private boat on a nearshore day; the only threshold set in the KB (Dave Hansen's ~12 kt cutoff, sub-10-second interval flag) is single-mention, medium confidence. | Current direction relative to the shoreline was not given, and the parallel-current rule that decides which beds are alive can only be resolved on the water (kelp lean, chum-drift angle, anchor-line read). | Whether 67-69 F represents a drop from prior days is unknown, so I cannot apply the new-cold-bloom vs mature-bloom-edge test that decides whether this water fishes today. | Bait availability at the Dana Point barge on the day is not something the KB can tell you — it carries only etiquette, timing and load-judgment doctrine. | All regulatory figures cited (14 in bass, 22 in halibut, lobster season, rockfish depth/RCA limits) carry as-of dates from 2016-2026 and must be re-verified with CDFW before fishing; the KB explicitly flags them as changeable.
 
 </details>
 
-<details><summary><b>B3 — batch 3</b> · 12/12</summary>
+<details><summary><b>NOW — review</b> · 12/12</summary>
 
-# Blown out outside, wide open inside — fish the Dana Point → Oceanside coastal strip
+# Blowing outside, launching Dana Point — late September
 
-## 1. The envelope (this is binding for everything below)
+## 1. The envelope call (this is binding for the rest of the plan)
 
-Per step 1b of [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md), the day's `{regions, waters}` from your launch point and today's numbers:
+Per step 1b of [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md), I set the day's `{regions, waters}` before opening a single species note:
 
-- **regions:** `socal-bight`
-- **waters:** `nearshore-coast` (+ `bay-harbor` if you bail into the harbor)
-- **NOT reachable today:** `island`, `bank`, `open-ocean`
+- **regions: `socal-bight`** only.
+- **waters: `nearshore-coast`** — the Dana Point coastal ribbon and south toward Oceanside. `bay-harbor` is a bail-out, with a caveat below.
+- **OUT: `island`, `bank`, `open-ocean`.** San Nicolas, Santa Barbara Island and the outer banks are the water your forecast blows out, and per [`conditions/sea-state.md`](conditions/sea-state.md) a **12–15 kt wind with 4–8 ft swell at a 9-second interval** is already the named unfishable combo — "you just cannot be caught out there," a dire situation even for bigger boats (`NC3-3pJDEgo`). You're describing 20–25 kt and 6–8 ft. That's not a "see how it looks" call, it's a no.
 
-Anything the KB tags outside that set is not offered today, not offered with a caveat — that's the protocol's rule, and it's why you won't see dorado, yellowfin or bluefin below (all gated `waters: [open-ocean]` / `[open-ocean, bank]` in `species/dorado.md`, `species/yellowfin-tuna.md`, `species/bluefin-tuna.md`).
+Anything gated to `island`/`bank`/`open-ocean` is therefore **not offered at all today**, not offered with a caveat: bluefin, yellowfin, dorado, marlin, swordfish, paddy yellowtail, and the island yellowtail/white-seabass programs.
 
-**One thing I need from you:** your boat file [`profiles/cameron/boat.md`](profiles/cameron/boat.md) has `range_nm: null` and `sea_state_max_ft: null` — the comment in that file says the protocol must **ask** rather than assume. So: the plan below assumes you're staying inside the 3–4 ft / 8–12 kt band and not crossing anything. If your real limit is higher than I'm assuming, tell me and I'll re-run it. (The profile also lists your launch as Dana Landing, Mission Bay — I'm using Dana Point as you gave it.)
+**Catalina / San Clemente Island — I am not calling it either way.** [`conditions/sea-state.md`](conditions/sea-state.md) says explicitly to check **Catalina Eddy shielding** before writing off water east of Catalina and San Clemente on a bad outer forecast — the prevailing wind down the coast outside SoCal is from the north, so the islands shadow the water behind them (`S2L3KLSQ6Is`, cameron). But you gave me no numbers for the San Pedro Channel or Catalina, I'm not allowed to invent them, and [`locations/dana-point.md`](locations/dana-point.md) carries an explicit flagged gap: **no corpus source gives a run distance, run time, or the sea-state envelope for any run out of Dana Point Harbor.** Two more things from the same note argue for caution even if the eddy is in: the ridge off the **east end of Catalina** stands the swell up locally for a few miles (`zKmZ4zql2ws`), and **forecast error is asymmetric** — assume it errs on the worse side and that afternoon W at the islands strengthens rather than eases (`zKmZ4zql2ws`).
 
-## 2. Why outside is a no, in the KB's own numbers
+**One structural fact about your launch:** from Dana Point through Newport, the bottom **a mile to a mile-and-a-half off the beach is already 2,000–3,000 ft** (`Rf1HKJG-SDg`, [`locations/dana-point.md`](locations/dana-point.md)). There is no shallow bank to duck behind out there. The fishable structure today is the coastal ribbon against the beach — which is exactly the water your 8–12 kt / 3–4 ft band covers.
 
-[`conditions/sea-state.md`](conditions/sea-state.md):
+## 2. What's fishable, ranked
 
-- The one explicit go/bail threshold set in the corpus (dave-hansen, `NC3-3pJDEgo`, 2020-11-18, held at medium confidence as a single-mention claim): **wind over ~12 kt is what raises whitecaps**, and his personal cutoff is not running above 12 kt. NW 20–25 is double that.
-- Same source names **12–15 kt with 4–8 ft swell at a 9-second interval** as a flat "you cannot be caught out there" combo — and he holds *bigger* boats at the dock in it, not just small ones. You have more wind and the same sea height.
-- **Forecast error is asymmetric** (Landesfeind Ep. 6): assume the forecast errs on the worse side and that afternoon W at the islands strengthens rather than eases.
-- **Homebound wind** (8/17/22): plan the return leg against the afternoon build, not the outbound conditions. A downwind run out to San Nicolas/SBI feels fine; the beat home is the part that hurts.
+### PRIMARY — coastal kelp and boiler bass: calico + sand bass, with barracuda and bonito in the mix
 
-The good news is geographic and it's in [`locations/bight-geography.md`](locations/bight-geography.md) (`HzE4FHHcvTk`): a big NW blow **crushes the northern Channel Islands and the LA/Ventura shelf** (5–8 °F of surface rollover), but **south of Newport is "less prone to wind-wave-driven rollovers."** You are south of Newport. Your 67–69 °F inside water is exactly the water that survives this pattern.
+This is the day. Your SST of **67–69 °F** sits right on the calico preference band: **roughly 65–68 °F, with fish going lethargic and dropping to cooler water past about 70 °F** (`LqW32NSkObY`, [`species/calico-bass.md`](species/calico-bass.md)). You're at the warm top of the band, not over it.
 
-*One caveat I can't resolve without live data:* the same note logs the **Catalina Eddy shield** — the eddy can hold the inner banks down while it blows outside (5/26/22). If you ever want to re-open the outside question, that's the check. I'm not fetching it, and you gave me no numbers for Catalina or San Clemente, so I'm treating everything past the coastal strip as unknown, not as fishable.
+The spots, north to south, from [`locations/dana-point.md`](locations/dana-point.md) (charted positions, cameron):
 
-## 3. The clock — low tide 10:20
-
-From [`conditions/tide-and-slack.md`](conditions/tide-and-slack.md):
-
-- **Be on your highest-percentage spot by ~09:20** — an hour *before* the change, not at it (2/20/25).
-- **Window compression:** when conditions are marginal, the action compresses into the tide windows; wide-open days bite all day. Today is a wind-affected day, so anchor the plan to the tide clock and be disciplined about arriving early to each stop.
-- Your tide is **falling through 09:30 into a 10:20 low**, which is the note's stated **late-morning slack pop-up window** (7/14/22, 10/26/22) — though it frames that specifically as an *open-water* pop-up rule, so treat it as a reason to keep your eyes up, not as a bass rule.
-- **Important nuance:** calico bass are listed in that note's table as **current-driven and tide-indifferent** — for the kelp they care about current across the structure, not the clock. The fully tide-driven fish is the **harbor spotted bay bass**.
-
-**Suggested shape of the day:**
-- Bait first (see §6), then out.
-- **08:00–09:15** — work the closest kelp (Dana Point Kelp / Red Buoy) while the tide still runs.
-- **09:20–11:30** — be parked on your best edge across the low and the turn.
-- **Midday** — reposition down the strip (Barber Poles → San Clemente Kelp → San Onofre / Barn Kelp) working the flood, or drop onto hard bottom.
-- **Late afternoon** — the dawn/dusk hour is the other high-percentage window per the n6yun panel in [`species/calico-bass.md`](species/calico-bass.md) (`RUuPNpK0x-s`, medium confidence): the hour before sunset.
-
-## 4. What's fishable, ranked
-
-### #1 — Calico bass on the kelp line (the day's primary)
-
-[`species/calico-bass.md`](species/calico-bass.md), [`locations/bass-structure.md`](locations/bass-structure.md).
-
-**Why it's #1 today:** it's a coastal kelp/reef fishery that lives inside your envelope, and your water is right in the stated band. Tommy Ponce — a kayak guide fishing **Dana Point** specifically (Fisher Newb seminar, `LqW32NSkObY`, 2019-03-13; medium confidence) — gives a personal temperature preference of **65–68 °F**, with fish getting lethargic and dropping to cooler water past about 70 °F. Your 67–69 °F straddles the top of that. His stated Dana Point working depths: **0–8 ft and 20–100 ft**, occasionally a bit past 100.
-
-**Charted spots on your strip** (from your own library, [`sources/spot-lists.md`](sources/spot-lists.md) — public per your 2026-08-12 waiver):
-- The Hospital 100 Fathom Curve — 33 29.500 / 117 47.100 (**stay S of the MPA line at 33 30.050**)
-- Monarch Boilers — 33 28.970 / 117 44.020
-- Salt Creek — 33 28.565 / 117 44.040
-- **Dana Point Kelp — Red Buoy — 33 27.320 / 117 43.380**
-- Barber Poles — 33 26.710 / 117 41.410
-- San Clemente Kelp (mainland city) — 33 24.450 / 117 38.140
-- San Clemente Artificial Reef — 33 23.890 / 117 37.200
-- San Mateo Point — 33 22.960 / 117 36.800
-- San Onofre Kelp — 33 20.880 / 117 34.050
-- Barn Kelp — 33 17.015 / 117 29.475
-
-**How to pick the edge:** the **parallel-current rule** governs (Ep. 14) — current running **parallel** to the shore/kelp makes the edge fishable; **into** the beach is marginal; **off** the beach is garbage, skip it. Fish the **up-current / leading edge** of each kelp head; calico face into the current and ambush from the front (Benny Florentino, `Rwy4MqeXCIU`). Hit three or four sides of a head and you know in two or three casts.
-
-**Depths / marks:** typical working depth is the **outside kelp edge ~50 ft in to ~25 ft**, and calico will rise **10–15 ft off 80–100 ft of reef** to eat a crank or a sunk iron. A solid unbroken wall of bait usually has no predators on it; broken, harried bait does.
-
-**Cover water:** 10–25 casts to the prime edge of a bed, then move — 100 ft or 100 yards to the next patch of stringers. Beds re-bite, so come back later (Ep. 13).
-
-**Presentations, in the order today's conditions rank them:**
-1. **Weedless swimbait** — 7" slug on a **3/8–3/4 oz keel-weighted spring hook**, short targeted casts to individual stringers, fast steady wind, pause on the eat. Heavy fluoro leader (40–65 lb) for kelp abrasion. ([`techniques/swimbaits.md`](techniques/swimbaits.md))
-2. **Surface iron** along the kelp line, steady grind. **In wind, step up to a heavier iron to punch the cast through it** ([`techniques/surface-iron.md`](techniques/surface-iron.md), `D5DR7Kx42_A`). At 8–12 kt this is a real factor.
-3. **Flylined sardine/mackerel** on the up-current edge — the note's row for "live bait around, fish deeper on the edge **or in wind**," 25–40 lb class.
-4. **If the current rages and the kelp pulls under** — surface presentations are dead; go subsurface (sunk iron, leadhead) or wait for the slack.
-
-**A Dana-Point-specific data point worth carrying:** StokedOnFishing, 2013-07-04, Dana Point kelp bed aboard a Dana Wharf boat (`M6U_FVdosr4`) — they **anchored** rather than drifted on a light current running through the kelp, and that morning's tally was **5 sand bass and 3 calico, every one on a strip of squid**; by day's end the crew said the bass were "actually biting the smaller sardines." Both kept side by side in the note — so carry squid strips *and* small bait.
-
-**Water color:** your chlorophyll 1.2 along the kelp — see §9 for what I can and can't say about that number. What the KB *does* give (StokedOnFishing, 2015-10-28, `9xNhdu2aBqE`, medium confidence) is that a **green-stained, near-opaque kelp edge with roughly 5–10 ft of visibility is the preferred read for kelp-edge bass** — the stain gives fish a place to hide and makes them feed up more comfortably. A colored kelp line is not a problem for this program.
-
-### #2 — Barracuda and bonito on the same edges (free upgrades)
-
-[`species/barracuda.md`](species/barracuda.md), [`species/bonito.md`](species/bonito.md) — both `nearshore-coast`, both in-season (barracuda are a late-spring-into-fall nearshore fishery; bonito run spring through fall).
-
-- **Barracuda:** cast the iron and **retrieve fast** — they chase a moving target. Small chrome jigs when they're on small bait. There's one dated SoCal iron data point (`oadK6zIYyCo`, Catalina, 2016): an old Tady 45 **let sink to roughly 30 ft** before the retrieve. **Rig for the teeth** the moment you get cut off — a short single-strand wire ([`rigging/haywire-twist.md`](rigging/haywire-twist.md)) or heavier hard mono as the line-shy compromise.
-- **Bonito:** cast small flashy iron/jigs into the foam outside the kelp. The KB frames them as a **measure of life** — a boil tells you the zone is working. There's a Dana Point trolling report in the note (Your Saltwater Guide, `poqjnb1r1zk`, 2019-07-02): a 5:45 am start south of Dana Point Harbor then north, **small feathers rigged as a small daisy chain trolled at ~5.5 kt**, plus a small sardine-profile diver cast and twitched behind the boat.
-
-### #3 — Sand bass on the hard bottom / reef-to-sand transition
-
-[`species/sand-bass.md`](species/sand-bass.md) (`nearshore-coast, bay-harbor, bank`).
-
-Be honest about the timing: the note's headline event is the **summer spawn, peaking around late June–July** on the open flats. Late September is past that, and the winter deep-structure program hasn't started. What still applies today is the general read: they hold on hard bottom, high spots, wrecks and the **hard-to-soft transition**, and they mark **slightly above or within** the structure, not pinned to it — so cover the column.
-
-There's a directly relevant local observation (`HMdrP4-i9MM`, 2022-10-11, off North County San Diego near Camp Pendleton, medium confidence): sand bass mixed into the calico catch on **hard bottom with kelp not reaching the surface, ~40–42 ft**. That's a good description of half the ground between San Onofre and Oceanside.
-
-Presentations: **paddle-tail plastics on a leadhead**, cast-and-wind low and slow through the column (get bit on the sink — watch the free-spool for the speed-up/tap); **sliding egg-sinker live anchovy** (1/2 oz egg + size-2 J, slow-sink); **dropper loop** when they're pinned down. A big sand bass is ~6 lb, so 20 lb leader gets it done.
-
-### #4 — Halibut on the sand next to structure (the wind actually helps)
-
-[`species/california-halibut.md`](species/california-halibut.md).
-
-**The rule that matters:** not "sandy bottom" — **sand within 5–20 ft of a hard edge** (`OpcKQPA3vAI`). A 15-ft-wide rock that barely paints changes the current, traps plankton and gives a halibut somewhere to lie. On the coast specifically: **off-color water just outside the surf line where hard bottom (shale) sits outside the beach and bait gets pushed in** — the note cites a 40–50 lb fish off a Huntington bubbler zone in **30 ft**.
-
-**Timing is on your side:** Tackle Express / Shannon Gallagher (`ghHQe3fP9U4`, 2025-11-04, medium confidence) states halibut push into **less than 15 ft of water in spring and in fall**, and splits the fishery — bigger fish spend most of their time in **80–200 ft**, harbor fish run **17–33 in**.
-
-**The triad, and it's a hard gate:** off-color water **+ current + bait**, all three. Milky water alone is not a spot. If you drop in and aren't marking bait or catching *anything* — a leopard shark, a sargo, a small calico — **leave inside 20–30 minutes**. The premium version is a dirty patch with a **hard rip / foam edge** inside otherwise cleaner water.
-
-**Rigs:** **trap rig** (stout bait hook + 3–4X-strong treble stinger) off a **three-way with a breakaway clip**, ball/cannonball **1–10 oz** to conditions, **fluorocarbon leader 2.5–3 ft, 25–30 lb** — the note is blunt that the mono-leader guy is the one who blanks. **30 lb mono class** outside for the stretch on the bolting run. Artificial alternative: **drop-shot** a plastic on short drifts, or a **crankbait/jerkbait wound noticeably faster than instinct suggests** — halibut give chase.
-
-### #5 — Coastal hard bottom: rockfish, lingcod, sheephead
-
-[`species/rockfish-lingcod.md`](species/rockfish-lingcod.md) (`bank, island, nearshore-coast`), [`species/sheephead.md`](species/sheephead.md).
-
-Season is **open most of the year, closing around year-end** (CDFW, as of 2026-08 — **verify current-year dates and depth limits before you go**). This is a **meter-and-chart fishery, no surface sign**: run the contour, read **where hard meets soft**, and **mark every hard-bottom hit as a waypoint** with the track line running so you can circle back (`11npFUPOJKU`). What you want is a **distinct pinnacle or hump rising 20–30 ft** off the surrounding floor, with a bait cloud up high and **arches on the hard bottom** under it. Run **low + high frequency split screen** — low paints the bait cloud, high distinguishes the gamefish arches.
-
-Where the drift lays your bait decides the species (Capt. Scotty, Brothers Sportfishing, `_ZThckj2TIM`, high confidence): **reds/vermilion sit tight to the rock**; **bocaccio hold in the sand off it**.
-
-Charted coastal options from your library: **Box Canyon rockfish area — 33 17.290 / 117 34.150**, **Leucadia rockfish area — 33 04.100 / 117 20.600**, **Del Mar rockfish area — 32 57.191 / 117 17.981**, plus the **Pendleton AR cluster (33 19.5 / 117 31.7)** and the **Oceanside AR 1A–2L / Carlsbad AR 1–12** clusters.
-
-**Rig:** dropper-loop gangion, two loops ~1.5 ft apart, **6/0 circle hooks**, **24 oz torpedo on a light 12–15 lb breakaway**, 30–40 lb mono leader (rockfish aren't leader-shy), **30 lb braid** for a fast straight drop. Bait a 5–8" gulp/plastic grub — scent fishes as well as live bait and you carry no squid.
-
-**Sheephead** ride along on the artificial reefs: **chum first**, then a **1/4–1/2 oz slider** with a **No. 2 or No. 4 thin-wire bronze hook** (never chrome), bait **suspended off the bottom, never laid on it** — a bottomed bait draws bat rays and shovelnose instead. Pismo clam is the named premium bait; squid strips are the fallback.
-
-### #6 — The one pelagic still legal in today's envelope: yellowtail
-
-[`species/yellowtail.md`](species/yellowtail.md) is tagged `island, bank, nearshore-coast, open-ocean`, so the nearshore version stays on the menu. Two rows are directly on point:
-
-- **"Hard wind (20–25 kt+) after a run of good surface days — fish still there, no longer showing on top"** → **1) yo-yo iron, 2) keep casting surface iron as a picker** (Coronado Islands, 2026-04-21, `ejUTAnONf7o`, Jared Saaib; medium confidence — 25 kt gusts, the crew's read was that the wind turned the bite and the day went "mostly yo-yo," but the surface iron still produced two, so it's a re-rank, not an abandonment). Yo-yo target picture: **tight balls hugging structure, marks on hard bottom or pinnacles at ~5–10 fathoms** — heavy full-size iron (Salas 6X class), hit bottom, **a couple cranks off the bottom is the reaction bite**, 40–60 lb stout rod + high-speed reel.
-- **"Prospecting an unworked zone"** → **troll diving hard baits to cover water fast** (Nate Winnicki, BDOutdoors, `HTowqnwAMeA`; registered voice, medium pending repetition). Carry variety across three axes — **colour, style/profile, dive depth**. Colour by light and it runs opposite to intuition: **overcast/low light → high-visibility; bright clear blue day → darker** (blues, purples, reds). **20–30 ft divers run fine off the flyline outfit**; only 40 ft divers need a dedicated troll rod.
-
-**On paddies:** [`locations/bight-geography.md`](locations/bight-geography.md) and [`conditions/kelp-paddies.md`](conditions/kelp-paddies.md) both name **the coastal strip from Dana Point to Oceanside and southward** as the *best* paddy water in the Bight (paddies thin out and hold fewer fish north of Dana Point). If you cross a paddy inside your fishable band: **drive right up to it like it's the dock** — don't sneak (Dave Hansen, `ZFqe49jRgA0` + `8XrMkWPRxgs`, repeated doctrine, high confidence); look under it for visible fish, check the meter for **boomerang-shaped arcs, typically 90–120 ft** down; give it **about a minute, maybe two**, then move. **A dry paddy stays dry all day** — they only restock at night (`4xzK7YaXK5s`). Note that paddies aligned by current run roughly **N–S in open water**, so if one produces, search that line.
-
-### Bail-out — Dana Point Harbor
-
-If it gets uglier than forecast, [`species/spotted-bay-bass.md`](species/spotted-bay-bass.md) (`socal-bight`, `bay-harbor`) is the note's explicit fallback for "marginal weather when the outside coast is blown out." Spotties are **fully tide-driven** — set up **up-current of the structure** and re-read after the turn. Roman Castro (`EGKesj7V64M`, medium confidence): the **half hour either side of the turn is the dead window** — fish the moving water on either side of 10:20, not the turn itself; **cast up-current across the grain of the eelgrass** (blades lean like a flag); and if you snag **brown, decaying grass, move to green** — brown grass is releasing CO2 and that water runs less oxygenated. Jeremy (`lP6cg4eEU6s`, medium confidence): on the **falling/low tide they pull off the flat onto the adjacent drop-offs**, which is exactly your 10:20 situation. Working depths **12–14 ft**, on breaks as subtle as 17 ft rolling up to 12 ft.
-
-Note: the KB's harbor structure note [`locations/bays-and-harbors.md`](locations/bays-and-harbors.md) covers San Diego Bay, Mission Bay, Newport, Huntington and the LA/Long Beach complex — **it does not have a Dana Point Harbor breakdown**. The universal read still applies: eelgrass edges, channel drop-offs, docks/pilings (**favor old weathered pilings over new** — established growth holds fish, `usHl-4SfqDA`), and riprap **deviations** — points, pockets, corners, angle changes, not the featureless straightaways ([`locations/breakwalls-jetties-riprap.md`](locations/breakwalls-jetties-riprap.md), Ep. 9). **Birds sitting on the rocks mark the deviation.** When casting a wall, **close the bail the instant the lure hits** — the face sits at ~45° and slack line buries a leadhead in the rocks.
-
-## 5. Gear, resolved against your profile — and the gaps
-
-From [`profiles/cameron/rods.md`](profiles/cameron/rods.md) and [`profiles/cameron/tackle.md`](profiles/cameron/tackle.md):
-
-| Today's job | What you own | Fit |
-| --- | --- | --- |
-| Surface iron on the kelp line | **Torium 20HG / Phenix Abyss 10'0" 25–60 lb, 50 lb braid** — your full surface-iron setup | Exact match to the jig-stick class |
-| Iron selection | **JRI-7** (~Tady 45 class, your "local/kelp all-rounder"); **Nomad Slidekick 120g / 4.25 oz** for the wind (heavier, and can be sunk out — matches the cuda sink-to-30-ft trick); **Strictly Irons Mighty 5.5"** for the fast retrieve on cuda/bonito; **Strictly Irons Glory 7"** as the slow drawn-out change-up for picky/slack current | Good coverage. The Slidekick is the "wind up → heavier iron" answer |
-| Yo-yo, if you find bait balls on hard bottom | **Salas 6X / Salas CP 105** on the **Trinidad 40 / Rainshadow 8'0" XH 40–80, 80 lb braid** | Rod is right in the 40–60 lb class. The note wants a **high-speed reel** to burn the iron off the bottom — your profile doesn't record the Trinidad's ratio, so verify |
-| Flyline | **Avet MXJ / Teramar 9'0" MH 30–65 lb, 50 lb braid** | Exact match to the 25–50 lb flyline class |
-| Prospect-trolling divers | **Rapala Husky Magnum 25** (= **25 ft at ~33 yd setback**, best **6–8 kt**, 40–50 lb line, low gunnel holder) and **HM15** (15 ft); **Halco Laser Pro 190 XDD** (20+ ft, 3–11 kt, optimum 6.5) | Right in the 20–30 ft diver band — which the KB says the **flyline outfit** handles, no second rod needed. Your **TLD 20 / Seeker 660H** is already earmarked for diver duty |
-| Bonito daisy chain | **Williamson Tuna Catcher**, JAW dual-skirt lures, dad's feather bag | Matches the ~5.5 kt small-feather chain from the Dana Point report |
-
-**Gaps I have to name rather than paper over** (step 4 of the protocol says never substitute something that doesn't fish the same way):
-
-- **The day's #1 program has no bait in your box.** The calico kelp-edge program wants **7" weedless slugs on 3/8–3/4 oz keel-weighted spring hooks**, leadheads, and 40–65 lb fluoro. Your recorded inventory ([`profiles/cameron/tackle.md`](profiles/cameron/tackle.md)) is hard baits, irons and poppers only — no soft plastics, no leadheads, no weedless hardware. Buy them on the way to the ramp, or accept that you're fishing this day on **iron + flylined bait**, which will work but gives up the highest-percentage presentation.
-- **No inshore bass rod.** The class is a **7–8 ft graphite-composite bass rod, 200–300 size reel, 30–65 lb braid**. Your closest is the **Tranx 400 on the Phenix M1 SMX-82H (8'2", H, 20–45 lb, 3–8 oz)** — a heavier reel than the class calls for, and the profile lists its braid as **TBD, respool pending**. Sort the line before you leave.
-- **No bottom terminal recorded.** The rockfish/sheephead programs want gangions, 6/0 circles, 24 oz torpedoes, light breakaway line, and 1/4–1/2 oz sliders with No. 2/No. 4 bronze hooks. None of that is in your profile files.
-- **No light spinning / drop-shot outfit** for spotties or the halibut drop-shot row.
-
-## 6. Bait
-
-[`bait/making-bait.md`](bait/making-bait.md) has a **Dana Point-specific** barge section (dave-hansen, `7WapaxdtjQg`, 2022-01-04):
-
-- **Never board the barge** — ask the attendant for help rather than jumping off to fend the boat.
-- **At Dana Point the side signal is a cone on the ocean side** — tie to the side they mark.
-- **Hail on VHF 11** if no attendant is visible: barge name twice, then your boat's name, then wait.
-- **Tell them to load it light** and that you're not in a rush.
-- **Avoid the 6:00 a.m. rush** — every half-day, 3/4-day and charter boat loads then. Go at **5:00 a.m. or 7:00 a.m.**; the same presenter's own target at a later seminar (`bM2vUS1B-yQ`) is "at least five, if not four thirty."
-
-Your own split (source `cameron`) is: **buy sardines; when you make bait, it's always mackerel** — sabiki to **~100 ft with an 8 oz sinker**, which has loaded five 12-inch macks on one drop. Twelve-inch mackerel are heartier baits than sardine. Given the day's targets, a mixed tank plus **squid strips** covers the Dana Point kelp observation above.
-
-## 7. What you're reading once you're out there
-
-- **Kelp lean is your current gauge** ([`conditions/current-diagnostics.md`](conditions/current-diagnostics.md), Ep. 14): **pulled ~20 ft under = raging** (surface presentations dead, go deep); **laid down = strong** (fishable, work the down-current side); **resurfacing = slacking** (switch back to the surface). Watch the kelp, not the clock.
-- **Separate wind push from real current:** chum drifting straight back in line with the boat = wind-dominated; chum swinging **off at an angle** to the boat's lay = real current cutting across. On today's 8–12 kt this matters — and note the KB's warning that **a chart plotter's current-arrow layer is reading wind, not current** (`BskCsKaTiZw`, medium confidence).
-- **Birds:** **cormorants diving *in* the kelp = actively feeding**, a better calico tell than gulls inshore. Birds sitting on riprap mark the current deviation.
-- **Grade the bait mark before you commit:** solid unbroken wall = no predators; broken/harried bait = predators on it (Ep. 5).
-- **Casting distance:** on a beach stop the fish are usually within **30–40 yards of the boat**, not way out (Doug Kearn, `r9bF3VtzDUg`, medium confidence).
-
-## 8. Explicitly NOT today
-
-- **Bluefin, yellowfin, dorado, marlin, swordfish** — all gated to `open-ocean`/`bank`, which is out of the envelope. September's priors ([`seasonal/september.md`](seasonal/september.md)) put the bigger bluefin in the **SBI–San Nicolas–Clemente–Catalina "volume square"** and dorado in open-water schools below Catalina; that's precisely the water that's 6–8 ft today.
-- **Lobster.** [`species/california-spiny-lobster.md`](species/california-spiny-lobster.md) puts the season at roughly **early October through mid-March** — late September is before the opener. Confirm the exact date with CDFW; don't set nets on a hunch.
-- **White seabass** is region- and waters-legal (`island, nearshore-coast`), but the KB's program for it is **island squid beds in 60–100+ ft, moon-driven, gray light and night**. You gave me no moon phase, the islands are out, and I have no report of squid or off-color water on your strip. If you *do* run into a dirty-water patch with a hard rip edge, current and bait all together, that's the triad and it's worth 20–30 minutes with a lead-head-and-squid or a slow-worked surface iron — but I'm not planning the day around it.
-
-## 9. Regulations (verify before you fish)
-
-The KB carries these as jurisdiction-stamped claims, not current law:
-- **California / CDFW, as of 2022-04-25: 14 in minimum for sand bass** (and the same 14 in figure called out on camera for calico) — [`species/sand-bass.md`](species/sand-bass.md).
-- **Rockfish: open most of the year, closes around year-end; depth constraints apply** (as of 2026-08) — verify current-year dates *and* depth limits.
-- **Spiny lobster: roughly Oct–mid-March, 7 per person per day** (as of 2026-08).
-- **MPA lines on your own spots:** The Hospital — **stay S of 33 30.050**; Abalone Point (Crystal Cove) — **stay N/W of 33 33.233 × 117 49.200**; Encinitas/Devil's Rock North — **stay N of 33 03.000**.
-
-Verify all of it with CDFW before you leave the dock — the KB does not carry a current, complete bag/size table.
-
-## 10. Where the KB came up short today
-
-Listed plainly rather than filled in from anywhere else — see `gaps_admitted`. The big three: **chlorophyll 1.2 can't be graded against any numeric scale in this KB**, **your boat's sea-state and range limits are blank in your own profile**, and **the September priors page has nothing at all about the inshore coastal program** — everything below is assembled from the species routers and conditions layers, not from a seasonal prior for this exact week.
-
-
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `locations/regions.md`, `locations/bight-geography.md`, `locations/bass-structure.md`, `locations/bays-and-harbors.md`, `locations/breakwalls-jetties-riprap.md`, `seasonal/september.md`, `conditions/sea-state.md`, `conditions/tide-and-slack.md`, `conditions/water-color.md`, `conditions/water-temperature.md`, `conditions/current-diagnostics.md`, `conditions/kelp-paddies.md`, `species/README.md`, `species/calico-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/sand-bass.md`, `species/california-halibut.md`, `species/white-seabass.md`, `species/rockfish-lingcod.md`, `species/sheephead.md`, `species/spotted-bay-bass.md`, `species/yellowtail.md`, `species/california-spiny-lobster.md`, `techniques/surface-iron.md`, `techniques/trolling.md`, `techniques/wind-in-your-face-positioning.md`, `bait/making-bait.md`, `bait/fishing-live-bait.md`, `lures/rapala-husky-magnum.md`, `lures/halco-laser-pro.md`, `profiles/cameron/README.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`  
-*videos:* `NC3-3pJDEgo`, `HzE4FHHcvTk`, `LqW32NSkObY`, `RUuPNpK0x-s`, `Rwy4MqeXCIU`, `9xNhdu2aBqE`, `M6U_FVdosr4`, `r9bF3VtzDUg`, `D5DR7Kx42_A`, `oadK6zIYyCo`, `poqjnb1r1zk`, `HMdrP4-i9MM`, `OpcKQPA3vAI`, `6TBxHnkYXI0`, `ghHQe3fP9U4`, `11npFUPOJKU`, `_ZThckj2TIM`, `OSbAHdB4uPs`, `EGKesj7V64M`, `lP6cg4eEU6s`, `usHl-4SfqDA`, `ejUTAnONf7o`, `HTowqnwAMeA`, `ZFqe49jRgA0`, `8XrMkWPRxgs`, `4xzK7YaXK5s`, `BskCsKaTiZw`, `7WapaxdtjQg`, `bM2vUS1B-yQ`, `5to3Q5P7w90`  
-*gaps admitted:* Chlorophyll 1.2 cannot be graded — conditions/water-color.md gives no numeric chlorophyll scale or thresholds anywhere; it only gives bloom-age doctrine (new cold-green bloom vs mature bloom edge), the bait-in-the-dirty-water/fish-the-seam rule, and Cameron's warm-year clarity preference. I used those qualitatively and did not assign a value judgment to the number 1.2. | Your boat's operating envelope is blank — profiles/cameron/boat.md has home_port, range_nm and sea_state_max_ft all null, with an explicit note that the protocol must ASK rather than assume. I assumed you are staying inside the 3-4 ft band; nothing in the KB says what sea state a Panga Marquesas 22 will take. | seasonal/september.md has no inshore/coastal content at all — it covers only the offshore volume square, dorado below Catalina, yellowfin sliding north, and the Baja/BOLA bottom yellowtail program. There is no September prior for the Dana Point-to-Oceanside kelp/bass fishery. | No Dana Point location note exists — locations/ has no page for Dana Point, Dana Point Harbor, or the Orange County coastal strip. All spot names and coordinates I used came from Cameron's personal library in sources/spot-lists.md, not from universal locations knowledge, and there is no structure breakdown for any of them. | locations/bays-and-harbors.md does not cover Dana Point Harbor — it names San Diego Bay, Mission Bay, Newport, Huntington Harbour and the LA/Long Beach complex only. The harbor bail-out plan is the universal structure read applied by analogy. | No moon phase was given and I did not compute one, so the moon-gated doctrine is unused: the full-moon calico/sand-bass suppression pattern, the white seabass full/new-moon island windows, and the lobster darkest-nights rule all stayed out of the plan. | No conditions were given for Catalina or San Clemente Island, only for San Nicolas, Santa Barbara Island and the outer banks. I treated the nearer islands as unknown rather than assuming they were fishable or blown out. The KB's Catalina Eddy shielding caveat (sea-state note) cannot be checked without live data. | The KB has no sea-state guidance for a Small Craft Advisory as such, no launch-ramp or bar-crossing guidance for Dana Point, and no note on trailering/launching in wind. | The KB carries no rule for how NW wind affects an inshore drift speed for halibut or rockfish — the only wind-and-drift doctrine is techniques/wind-in-your-face-positioning.md, which is rail positioning on a crowded sportboat, not private-boat drift control. | Bounce-ball trolling for halibut is a flagged stub in species/california-halibut.md with no corpus source, so I could not give it any parameters despite it being a standard coastal-flats method. | The downsized-jig presentation for picky small-bait bonito is a flagged stub in species/bonito.md with no corpus source. | Your profile records no soft plastics, leadheads, weedless spring hooks, bay-bass plastics, dropper-loop gangion terminal, torpedo sinkers, circle hooks, or a light spinning/drop-shot outfit — so the weedless-swimbait calico program, the bottom-fishing programs and the drop-shot rows have no owned gear behind them. | The Trinidad 40's gear ratio is not recorded in profiles/cameron/rods.md, so I cannot confirm it meets the yellowtail yo-yo spec of a high-speed reel. | The Tranx 400 setup's braid weight is listed as TBD/respool pending in profiles/cameron/rods.md, so its line class for today is unknown. | The KB carries no current, complete CDFW bag/size/season table — only scattered jurisdiction-stamped claims (14 in sand bass as of 2022-04-25, rockfish closing around year-end as of 2026-08, lobster roughly Oct-mid-March, 7/day). Barracuda, bonito, halibut and white seabass limits are not stated anywhere I read. | species/barracuda.md is explicitly held at medium confidence with no dedicated technique program in the corpus — everything there is inferred from report mentions alongside bass and bonito.
-
-</details>
-
-<details><summary><b>NOW — review</b> · 11/12</summary>
-
-# Dana Point, late September, blowing outside — what's fishable
-
-## 1. The envelope call (day-plan protocol step 1b)
-
-Per [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md), I set `{regions, waters}` before opening a single species note, and that filter is binding for the rest of the plan.
-
-- **regions:** `socal-bight`
-- **waters:** `nearshore-coast` (+ `bay-harbor` as the bail-out)
-
-**Islands, banks and open ocean are out today.** You gave me NW 20–25 kt / 6–8 ft at San Nicolas, Santa Barbara Island and the outer banks with an SCA through Sunday, and no conditions at all for anything else offshore. That means every note gated `island`, `bank` or `open-ocean` is **not offered** — not ranked lower, not offered with a caveat. Concretely, the whole late-September headline fishery is off the table for you today:
-
-- The **volume square (SBI–San Nicolas–Clemente–Catalina) that holds the bigger bluefin in September** ([`seasonal/september.md`](seasonal/september.md), `5to3Q5P7w90`) sits inside the blown-out water.
-- **Dorado running open-water schools below Catalina** in September (same note, `5to3Q5P7w90`) is `waters: [open-ocean]` — out.
-- The **kelp-paddy program**, which is exactly what this stretch is famous for — the best paddy water in the Bight runs **from Dana Point to Oceanside and southward** ([`conditions/kelp-paddies.md`](conditions/kelp-paddies.md), `HzE4FHHcvTk`) — is open-ocean water offshore of the coastal spots, not on them ([`locations/dana-point.md`](locations/dana-point.md)). **The KB cannot tell me how far out your 8–12 kt / 3–4 ft inshore band actually extends.** If you can get me wind, swell height *and period* for the paddy water 5–15 mi off the beach, I'll re-run it; I won't guess.
-
-## 2. Is the inshore band actually a go?
-
-Your inshore numbers are **NW 8–12 kt, 3–4 ft**. Run them against [`conditions/sea-state.md`](conditions/sea-state.md):
-
-- **You are sitting right on the working-captain cutoff.** Wind above ~12 kt is what raises whitecaps, and 12 kt is the stated personal don't-run line (`NC3-3pJDEgo`). 8–12 kt is fishable; 12+ is the bail number.
-- **I'm missing the number that matters most.** Period drives how a sea feels far more than height: **10 ft @ 15 s from the south is barely felt; 3–4 ft @ 4–5 s is brutal** (`zKmZ4zql2ws`). And **a sub-10-second interval is a hard bad-sea flag independent of height** (`NC3-3pJDEgo`). Your 3–4 ft could be a pleasant day or a beating. **Pull the period before you launch.** The named never-go combo is 12–15 kt with 4–8 ft at a 9-second interval (`NC3-3pJDEgo`) — you're not there, but you're not far off it either.
-- **Degrade the forecast where current opposes swell.** Summer uphill counter-current running against NW swell compresses the interval: a forecast 4 ft @ 10 s fishes like 6 ft @ 7–8 s, and point forecasts won't show it (`zKmZ4zql2ws`).
-- **Assume it errs worse and builds.** Forecast error is asymmetric, and afternoon W strengthens rather than eases (`zKmZ4zql2ws`). If it's windier than forecast at 7 a.m., **assume it builds all day and bail early** — that rule is written for small boats (`DnSqw4r7A1s`).
-- **Plan the return leg, not just the run out.** Homebound wind doctrine: plan return timing *against* the afternoon W build (`HzE4FHHcvTk`). The zone's own kayak guide picks his stretch of coast off wind direction and heads **south** on a windy day to avoid resistance coming home (`LqW32NSkObY`) — the note flags that he hedges it and never says which way the push actually runs, so treat it as a prompt to think about the return, not a rule.
-
-**Verdict: go, inshore only, early, with a hard bail trigger at 12 kt sustained or any sign it's building.** Deep water starts close here — a mile to a mile-and-a-half off the beach from Dana Point through Newport is already **2,000–3,000 ft** (`Rf1HKJG-SDg`) — so you are never far from the harbor mouth.
-
-## 3. Reading your water
-
-- **SST 67–69 °F is the calico window, just.** The stated preference band is roughly **65–68 °F**; past about **70 °F** they go lethargic and drop to cooler water, though they'll still hit a top-water bait ([`species/calico-bass.md`](species/calico-bass.md), `LqW32NSkObY`). You're at the top of the band — good, and a reason to work the cooler/cleaner patches rather than the warmest.
-- **Chlorophyll 1.2 — I can't grade that number.** The KB carries **no numeric chlorophyll bands anywhere** (see gaps). What it does carry is qualitative: **bait holds in the dirtier water and the clean blue sits empty** (`HzE4FHHcvTk`), predators work the **dirty/clean seam** (`HWx1jDTGsng`), and for calico specifically a **green-stained, near-opaque kelp edge with roughly 5–10 ft of visibility** was called the *preferred* read — the stain is cover they feed in (`9xNhdu2aBqE`). A chlorophyll signal along the kelp is not a reason to leave. Cameron's own warm-year rule is the counterweight: weight color at least as heavily as SST and skip dead dirty green.
-- **Current, not the tide clock, picks your calico spots.** Parallel to the shoreline (uphill or downhill) = fishable edge; **into** the beach = marginal but viable when it's off-color (fish use the dirt to ambush against structure, `Z3rZqy2Pi8E`); **off** the beach = garbage, skip it (`0KQ--N5TjqE`, `Rwy4MqeXCIU`). Read it off the kelp: **pulled 20 ft under = raging** (surface presentations dead), **laid down = strong**, **resurfacing = slacking**, go back on top.
-- **The 10:20 low.** Calico are current-driven and tide-indifferent, but halibut and white seabass are tide-gated, and on a marginal day the bite **compresses into the tide windows** ([`conditions/tide-and-slack.md`](conditions/tide-and-slack.md), `HzE4FHHcvTk`). **Be on your highest-percentage spot by 9:20 — an hour before the change — not looking for water at 10:20** (`6TBxHnkYXI0`).
-- **You didn't give me the moon.** That matters: on a clear full moon calico gorge overnight, bite early and shut down by mid-morning, and the instruction is not to launch until noon or one if you can't make first light (`Blh2BA-7Ono`). Tell me the phase and I'll re-shape the timeline.
-
-## 4. What to fish, ranked
-
-### A. Primary — coastal calico + the "three B's" on the Dana Point kelp-and-boiler strip
-
-This is the zone's actual fishery: **two kelp beds, boiler rock, three beach-break points, one artificial reef and the 100-fathom curve** ([`locations/dana-point.md`](locations/dana-point.md), 9 charted spots, cameron). September is inside the calico peak (`season_peak: apr–oct`), and the corpus records **calico, sand bass and barracuda coming off the Dana Point kelp bed together, all on strips of squid, in a single morning session** (`M6U_FVdosr4` — the note flags that the transcript places only the *afternoon* trip at that bed, so treat the pairing as the pattern, not a pinned location).
-
-**Working depths here are the ones the corpus actually fishes: 0–8 ft and 20–100 ft, occasionally a little past 100** (`LqW32NSkObY`).
-
-**How to run it:**
-1. **Grade each bed in a handful of casts, then move.** The biting fish sit on the **up-current / leading edge** — hit three or four sides of a head and you know (`0KQ--N5TjqE`).
-2. **Surface iron is your wind-day tool** — it covers a whole edge on the drift where a weedless cast covers one stringer, and **wind is a reason to step *up* in iron weight** (Salas 7X class) to punch the cast ([`techniques/surface-iron.md`](techniques/surface-iron.md), `D5DR7Kx42_A`). Retrieve slow-to-medium for calico — crank it fast and it skips out instead of swimming, and you can't out-wind them anyway (`3dVc-2rsYII`, `Ec2GaNpiOHI`). **Colour ranks last: swim → size/weight → colour.** The one calico exception is yellow up in the kelp/canopy, "bleeding soldier" out in the open (`Ec2GaNpiOHI`).
-3. **If the bait is small ("rice" anchovy), downsize hard** — a Tady AA-light/A1-light class iron, roughly a **third the weight of a Tady 45**, out-bites the big jig **two or three to one** (`pcwcRdmWmLc`).
-4. **Pick stringers with a weedless slug** where the iron won't reach: 7" weedless slug on a **3/8–3/4 oz keel-weighted spring hook**, 7–8 ft bass class, **40–60 lb**, heavy fluoro leader for kelp abrasion, soft glass tip so you don't pull it (`YIABTTYXeqc`).
-5. **Sonar/sign:** calico mark **tight to kelp and structure edges and on hard bottom**, on the reef-to-sand transition. Watch for the sub-surface signature you'd otherwise run past — **hard bottom with light kelp riding ~20 ft off the bottom in ~40–42 ft**, documented on the Camp Pendleton stretch just south of you (`HMdrP4-i9MM`). Birds: **cormorants diving *in* the kelp = bass below**, a better inshore read than gulls (`Blh2BA-7Ono`).
-6. **Regs (California/CDFW — verify current before you fish):** calico minimum **14 in** (as of 2026-08; corroborated four ways), bag stated as **5** (as of 2019-03, single-source and the speaker names no jurisdiction).
-
-**Spots, with the coordinates the KB carries** (all `parent: dana-point.md`, cameron):
-
-| Spot | Position |
-|---|---|
-| Monarch Boilers | 33°28.970'N 117°44.020'W |
-| Salt Creek | 33°28.565'N 117°44.040'W |
-| Dana Point Kelp — Red Buoy | 33°27.320'N 117°43.380'W |
-| Barber Poles | 33°26.710'N 117°41.410'W |
-| San Clemente Kelp *(mainland city)* | 33°24.450'N 117°38.140'W |
-| San Clemente Artificial Reef *(mainland city)* | 33°23.890'N 117°37.200'W |
-| San Mateo Point | 33°22.960'N 117°36.800'W |
-| Trestles | 33°22.790'N 117°36.280'W |
-| The Hospital 100 Fathom Curve | 33°29.500'N 117°47.100'W — **stay south of 33°30.050'N (MPA edge)** |
-
-**Naming trap:** "San Clemente Kelp" and "San Clemente Artificial Reef" are off the **mainland city**, not San Clemente Island. Do not read island reports onto them.
-
-**The MPA line at The Hospital is single-sourced to one spot-library annotation with no MPA named** — latitude alone doesn't establish a boundary. California/CDFW, as of 2026-08: verify boundaries and take rules before fishing.
-
-### B. Bonito and barracuda — the corpus's one dated Dana Point program
-
-The KB has an actual worked Dana Point method for this: **troll a short, soft daisy chain of small feathers ("just small booties") at 5.5 kt either side of the harbor mouth, and cast a lure the moment you get bit** — the troll locates a scattered school, the cast is what you fish it with ([`techniques/trolling.md`](techniques/trolling.md), `poqjnb1r1zk`, 2019-07-02, either side of Dana Point Harbor). Follow-up cast: a small sardine-profile diving hard bait twitched behind the boat.
-
-- **Chrome is the colour bonito and barracuda reach first** (`YAKOv9bXKO0`, `PrdPJy26H8c`) — which is exactly why chrome backfires if a yellowtail shows.
-- SoCal bonito grade runs **2–3 lb typical** (`Z3rZqy2Pi8E`).
-- **Barracuda teeth cut mono leaders even in heavy sizes** (`lm7D9Tlc7Po`) — carry short single-strand wire or heavier hard mono if they turn up thick. If they're a tax, **run a single inline hook and shake them off** (about half drop without handling — the note flags the source actually ran two *barbless* singles, `kt3G72gUldM`, `28IttH7P7K0`), or upsize to a big live mackerel to screen them out (`YVHdDbkQrKk`).
-- Late-September is inside both season windows (barracuda `may–oct`, bonito `may–dec`); the corpus's dated Dana Point bonito record is early July.
-
-### C. Coastal yellowtail — the opportunistic overlay, not the plan
-
-[`species/yellowtail.md`](species/yellowtail.md) maps **warm-stable (June–September) to coastal kelp-line fish from LA to San Diego**, and `waters` includes `nearshore-coast`, so it's in envelope. Just south of you, **25–30 lb fish were reported on this stretch of coast in October**, and mainland-coast schools are **markedly finicky on the iron** compared to island fish (`HMdrP4-i9MM`, `VpW91AKOFVQ`).
-
-- **Sonar signature: arcs at 5–10 fathoms near structure.**
-- **If it's windy and they're metered rather than showing, the rank flips: yo-yo iron first, surface iron as a picker** — a re-rank, not an abandonment (`ejUTAnONf7o`). That's a 40–60 lb class rod, hit bottom and burn it; the strike comes a couple cranks off.
-- Don't build the day around this. **The KB gives no numeric SST band for yellowtail at all** — it's an explicit flagged gap in the note.
-
-### D. Bail-out if it builds — bottom program, or the harbor
-
-If the wind pushes past 12 kt or the chop stands up, drop off the shallow boiler work:
-
-- **Sand bass / rockfish on the deeper hard structure.** Sand bass hover **above or within** the structure, so a column-covering presentation beats a dead-stick on the rocks (`P2OzCf2CwXI`); a big one is about **6 lb**, which sets the whole scale — 20 lb leader gets it done. Match the bait's depth, not the bottom's: sand bass and calico came off a Newport pipe in **80 ft** on crankbaits running only **15 ft** deep (`kwMIgkCtFUE`). South of you, four spots in the North County library are labelled "rockfish area" outright ([`locations/oceanside-north-county.md`](locations/oceanside-north-county.md), cameron). **Rockfish (California/CDFW, as of 2026-08 — verify):** season open most of the year, closing roughly Jan–Feb; bag stated as **10 rockfish + a separate 10-whitefish allowance** (as of 2020-03, single-source); the RCA depth line runs ~**240 ft** at the islands vs a **75-fathom (450 ft)** line closer to the mainland, so check position against the drawn boundary, not the depth reading (`iAr6sbRC384`).
-- **Halibut are genuinely in season.** `season_peak` includes September, and inshore fish push under **15 ft** twice a year — spring behind the grunion and **again in fall on structure** (`ghHQe3fP9U4`, `EuYOlsnxXko`). They lie in the sand within **5–10 ft of a hard edge** (`OpcKQPA3vAI`). Discipline: you need **off-colour water + current + bait, all three** — missing one, **leave inside 20–30 minutes** (`OpcKQPA3vAI`). Live-bait drift on a trap rig off a three-way with a breakaway sinker, **15 lb fluoro inshore** on a 200-class reel; artificial version is a **3 in swimbait**, which covers about **90%** of deeper fishing (`a5u8BaYzw8c`, `OURS05qEGcA`, `fHMwcm1xRQk`). The 10:20 low means you're fishing the outgoing into the change — be set up by 9:20.
-- **White seabass:** in envelope on `nearshore-coast`, but its `season_peak` is **mar–aug**. Late September is outside it. Not a target today.
-- **Harbor:** I have to be straight with you — **the KB has no Dana Point Harbor page.** [`locations/bays-and-harbors.md`](locations/bays-and-harbors.md) gives universal harbor structure (eelgrass edges, channel drops, docks/pilings — older weathered pilings hold better than new, `usHl-4SfqDA`), but the bays it documents are San Diego Bay, Mission Bay, Newport, Huntington and LA/Long Beach. Spotted bay bass are `regions: socal-bight`, `waters: bay-harbor` so they're in envelope in principle, but **no corpus source puts them in Dana Point Harbor.**
-
-## 5. Bait and the clock
-
-The bait comes first and the clock is the whole problem at this port ([`locations/dana-point.md`](locations/dana-point.md), [`bait/making-bait.md`](bait/making-bait.md)):
-
-- **The Dana Point sportboat fleet leaves at 6:00 a.m.**, which is exactly when the private-boat line forms — it's already building by a quarter to six (`ztpj1Xll0-U`, `bM2vUS1B-yQ`).
-- **Leave the dock at 5:00, or 4:30, and there's no line** (`ztpj1Xll0-U`). A **7:00 a.m.** arrival also avoids the line (`7WapaxdtjQg`) — but the other half of that same presenter's doctrine is that by 7:00 "it's all gone" (`ztpj1Xll0-U`). Both halves are in the KB; pick your poison.
-- **At the barge:** follow the side signal — **at Dana Point it's a cone on the ocean side**. Hail on **VHF 11**, barge name twice plus your boat name, wait for the response. **Never board the barge to fend off.** Tell the attendant you want it loaded light and you're not in a rush; tip at the end (`7WapaxdtjQg`).
-
-**Suggested timeline:** dock 4:30–5:00 → bait → be on the Dana Point kelp bed or Monarch Boilers for the **gray-light window** (the hour before sunrise into early morning is credited with deciding a large share of SoCal bass tournaments, `RUuPNpK0x-s`) → work the edges south with the current read → be re-set on your best spot by **9:20** for the 10:20 change → reassess wind by late morning and run for the barn against the afternoon W build.
-
-Note this collides with your profile: [`profiles/cameron/boat.md`](profiles/cameron/boat.md) records your normal departure as **~8 a.m.**, "earlier starts are the exception." An 8 a.m. start here costs you both the bait and the gray-light window.
-
-## 6. Gear, resolved against your profile
-
-Per [`tackle/gear-classes.md`](tackle/gear-classes.md), which maps your setups to classes directly:
-
-| Job | Class | Your gear ([`profiles/cameron/rods.md`](profiles/cameron/rods.md)) |
+| Spot | Position | What it is |
 |---|---|---|
-| Kelp-line surface iron | jig-stick / surface-iron class, 8–10 ft, 2–4 oz, ~25–60 lb | **Torium 20HG on the Phenix Abyss 10'0" (25–60 lb), 50 lb braid** — your full surface-iron setup |
-| Flylined bait on the edge | flyline / soft-rod class, ~9 ft MH, ~30–65 lb | **Avet MXJ on the Teramar TMC90MHB2, 50 lb braid** |
-| Yo-yo iron / dropper loop / sinker rigs | yo-yo / heavy-iron class, ~8 ft XH, 40–80 lb | **Trinidad 40 on the RA96XH 8'0" 40–80 lb, 80 lb braid** |
-| Utility inshore casting | utility inshore / baitcast, 8 ft H, 20–45 lb | **Tranx 400 on the Phenix M1 SMX-82H** — braid still TBD, respool pending |
+| Monarch Boilers | 33°28.970'N 117°44.020'W | boiler rock |
+| Salt Creek | 33°28.565'N 117°44.040'W | beach break point, effectively same longitude as Monarch, ~0.41 nm apart |
+| **Dana Point Kelp — Red Buoy** | **33°27.320'N 117°43.380'W** | the one bed the corpus has actually worked on camera |
+| Barber Poles | 33°26.710'N 117°41.410'W | boiler rock (1.75 nm from the DP bed, and mostly east — not "just south") |
+| San Clemente Kelp (mainland city) | 33°24.450'N 117°38.140'W | kelp |
+| San Clemente Artificial Reef (mainland city) | 33°23.890'N 117°37.200'W | built structure |
+| San Mateo Point / Trestles | 33°22.960'N 117°36.800'W / 33°22.790'N 117°36.280'W | beach break points |
+| San Onofre Kelp (next zone south) | 33°20.880'N 117°34.050'W | kelp, top of [Oceanside/North County](locations/oceanside-north-county.md) |
 
-**Owned irons that fit today** ([`profiles/cameron/tackle.md`](profiles/cameron/tackle.md)):
-- **JRI-7** (light blue, ~Tady 45 class, medium-fast) — your local/kelp all-rounder, the default grind.
-- **Nomad Slidekick 120g** (4.25 oz, heavier than traditional irons) — this is your answer to the "wind up → heavier iron" rule; it also sinks out to cover the column.
-- **Strictly Irons Mighty 5.5"** (medium-to-high retrieve) — the downsized in-tight jig.
-- **Strictly Irons Glory 7"** (wide drawn-out kick, slow and steady) — the change-up for a picky bite or slack current.
-- **Salas 6X / Salas CP 105** for the yo-yo re-rank if yellowtail meter up.
+**Read this before you read any report:** San Clemente Kelp and San Clemente Artificial Reef are off the **mainland city**, not San Clemente Island. Do not read island reports onto them ([`locations/dana-point.md`](locations/dana-point.md), cameron).
 
-**Gaps I have to name rather than paper over** (protocol step 4: never recommend gear you haven't said you own):
-- **You have no bass-casting / swimbait class outfit.** The gear-classes table lists *no* example setup for bass class (7–9 ft graphite, low-profile **200–300** reel, 30–65 lb braid) or crank class, and your inventory has none. The Tranx is the nearest thing but it's an 8'2" H rated **3–8 oz** — a **3/8–3/4 oz** weedless slug is well under it. The weedless-slug and crankbait programs in the calico and sand bass routers are real gaps in your box, not something I'll substitute around.
-- **No soft-plastic swimbaits, slugs, flukes or leadheads are recorded in your tackle file** — it's scoped to hard baits, casting and jigging. So the plastics half of the coastal bass game isn't equipped.
-- **No small feathers for the bonito daisy chain.** [`profiles/cameron/trolling-lures.md`](profiles/cameron/trolling-lures.md) lists the Williamson Tuna Catcher, three JAW dual-skirt lures and your dad's unidentified skirt bag — all offshore-scale. The Dana Point program calls for a **short, soft chain of small booties**, and I can't see one.
-- **No wire bite tippet recorded** for the barracuda cut-off problem.
-- **Your boat's operating envelope is null.** `range_nm` and `sea_state_max_ft` are deliberately left empty in [`profiles/cameron/boat.md`](profiles/cameron/boat.md) — "Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must **ASK** for range and sea-state." So: **what's your honest sea-state limit in the 22 Panga, and how far off the beach will you take it in 3–4 ft?** That answer is what decides whether §3 (paddy water) ever comes back on the table.
+**Working depths.** The only depths the corpus works in this zone are **0–8 ft and 20–100 ft, occasionally a little past 100 ft** (`LqW32NSkObY`). Bass structure generally runs **20–120 ft** (`kwMIgkCtFUE`, [`locations/bass-structure.md`](locations/bass-structure.md)). Off the Camp Pendleton end, calico and sand bass came off hard bottom with sub-surface kelp in **~40–42 ft** in October (`HMdrP4-i9MM`, [`locations/oceanside-north-county.md`](locations/oceanside-north-county.md)).
 
-One profile detail that matters in 3–4 ft: your trim routine puts **one person forward on the bow bean bag** underway, and the file notes rough days forward are brutal — rider catches air then hits the deck. Short legs and a slow bump down the coast, not a run.
+**How to pick which end of the ribbon — read current, not the tide clock.** Calico are **current-driven and tide-indifferent** ([`conditions/tide-and-slack.md`](conditions/tide-and-slack.md), `6TBxHnkYXI0`). The parallel-current rule from [`conditions/current-structure.md`](conditions/current-structure.md) (`0KQ--N5TjqE`, mechanism `6TBxHnkYXI0`):
 
-## 7. What the KB does not cover here
+- Current running **parallel** to the beach (uphill or downhill) → **good**, it creates a definable leading edge.
+- Current **straight into the beach** → marginal (the exception is off-color water, where fish use the dirt to ambush).
+- Current **straight off the beach** → **dead, skip it.**
 
-Listed honestly rather than filled in — see `gaps_admitted`. The big ones: **no numeric chlorophyll bands anywhere in the KB**, so I cannot tell you what 1.2 means; **no swell period in your brief**, which the KB says matters more than height; and **the Dana Point zone note carries an explicit flagged gap for the launch ramps and hoists, the run time or distance from the harbour mouth to any spot, and the sea-state envelope the run demands.** All nine Dana Point spot pages are minimum pages — position and parent zone, nothing on depth, relief or bottom.
+Mechanism: calico face into the current and ambush from the front of the structure, so parallel flow is what delivers food past the edge they're sitting on (`Rwy4MqeXCIU`).
+
+Then pick your corner of the bed: **current downhill → work the northwest corner of the kelp; current uphill → work the southeast corner** — the bigger fish in the bed sit in that corner (`kzD0kSnnVPw`, flagged single-source). Fish **edges and pinch-points**, never the dense middle. Grade a bed fast: hit three or four sides of a kelp head and you know in two or three casts (`0KQ--N5TjqE`).
+
+**Light.** Bright stable light has calico "levitating" up into the canopy out of direct sun, concentrating along the **outer canopy edge**; overcast spreads them through the column so a wider area produces (`RUuPNpK0x-s`). Fish the hour before sunrise into early morning and the hour before sunset.
+
+**The bait read here is unsettled, so carry both.** On the one worked Dana Point kelp session, a morning produced **5 sand bass and 3 calico, every one on a strip of squid**, then by the end of the day the same crew reported bass "actually biting the smaller sardines today" and called it a surprise (`M6U_FVdosr4`). The note's own verdict: not a doctrine conflict to resolve, just have **squid strip and small sardines both aboard**. **Short barracuda** showed mid-session in that same bed (`M6U_FVdosr4`).
+
+**On the kelp: anchor rather than drift** was the call on the one worked session there, on a light current running through the bed (`M6U_FVdosr4`) — note the KB flags that "anchor over drift" is not actually a rule any linked note states, and [`species/calico-bass.md`](species/calico-bass.md) carries a drift row of its own. Use your sounder read: fish still marking but not responding at anchor is the cue to **drift over them instead of staying pinned** (`97clKtVsEOs`, [`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md)).
+
+**Techniques, ranked, from the router table in [`species/calico-bass.md`](species/calico-bass.md):**
+
+1. **Weedless swimbait** to individual stringers — 7" weedless slug on a **3/8–3/4 oz keel-weighted spring hook**, short targeted casts, fast steady wind, pause on the eat; soft glass tip so you don't pull it, heavy fluoro leader for kelp abrasion (`YIABTTYXeqc`).
+2. **Surface iron** ground down the kelp line when you want to cover a whole edge instead of one stringer, or when bigger fish are cruising with the current up ([`techniques/surface-iron.md`](techniques/surface-iron.md), [`species/calico-bass-surface-iron.md`](species/calico-bass-surface-iron.md)). Standing iron sizes across yellowtail/bass/barracuda are **Tady 45, Tady 14A, Salas 7X** (`pcwcRdmWmLc`); downsize on small bait. Retrieve **tip-down** — tip-up pulls it onto the surface where it stops swimming right ([`techniques/surface-iron.md`](techniques/surface-iron.md)).
+3. **Flyline a live bait** on the up-current edge when it's deeper or windy ([`techniques/flyline.md`](techniques/flyline.md)) — note the KB flags an internal conflict on which bait pairs with calico (the router says sardine/mackerel, the flyline note pairs **anchovy** with calico).
+4. **Chum-and-anchor** on a kelp edge with parallel current: chum the spot, reposition up-current, back the boat down onto it as the anchor sets — fish come out of the kelp and start biting as the anchor goes down (`RXNebDr4j7s`).
+
+**Sand bass on the same water.** They hover slightly **above or within** the structure, not pinned to the rocks, so cover the column (`P2OzCf2CwXI`, [`species/sand-bass.md`](species/sand-bass.md)). A big one is about **6 lb**, which sets the whole tackle scale — **20 lb leader gets it done**. Critical sounder point: **they don't mark while sitting on the bottom** — mark the structure and the bait, and drop regardless of whether fish show (`kwMIgkCtFUE`). When they do come up they come a long way: over a rock in **60 ft**, bass rose **40 ft** to intercept a sinking lure where the screen had shown nothing a moment before. If they're locked down, **dropper loop** to the bottom.
+
+**Barracuda and bonito are the mixed bag, not a target.** Barracuda hold on the same kelp lines and beach edges; dated SoCal appearances run **late May through October** (`S2L3KLSQ6Is`, `DnSqw4r7A1s`, `0KQ--N5TjqE`, `Klfb433I3Uk` — [`species/barracuda.md`](species/barracuda.md)). **Chrome is the barracuda colour** (`PrdPJy26H8c`), which is also why chrome backfires when yellowtail are the target. Carry a short **single-strand wire** or heavier hard mono bite tippet — barracuda teeth cut mono even in heavy sizes (`lm7D9Tlc7Po`, [`rigging/haywire-twist.md`](rigging/haywire-twist.md)).
+
+Bonito were on the Dana Point harbour mouth in early July, taken on the troll **both sides of it** — a skiff worked south of the harbor first, then moved north and pulled **small feathers rigged as a short daisy chain at roughly 5.5 kt**, casting a small sardine-profile diving hard bait behind the boat on the troll bite and twitching it under way (`poqjnb1r1zk`, [`species/bonito.md`](species/bonito.md), [`techniques/trolling.md`](techniques/trolling.md)). That's a good low-cost way to run between the kelp beds this morning.
+
+### SECONDARY — halibut on the structure edges
+
+[`species/california-halibut.md`](species/california-halibut.md): halibut **move around looking for feed** rather than holding a spot and waiting (`OpcKQPA3vAI`). **Fall beaches do not follow the grunion cycle** — in fall the inshore bait is smaller, fish sit farther off the beach, more often in a **9–11 ft** zone, keyed to structure: protected beaches with eelgrass, point breaks, and "finger rock" areas where rock has eroded into strips with sand between them (`EuYOlsnxXko`). That's a description of Salt Creek / San Mateo Point / Trestles water.
+
+Program: **live-bait drift with a trap rig off a three-way and a breakaway sinker**, mono for stretch on the bolting run ([`species/california-halibut-live-bait-drift.md`](species/california-halibut-live-bait-drift.md), [`rigging/trap-rig.md`](rigging/trap-rig.md), `a5u8BaYzw8c`). **15 lb class inshore**, one hook size smaller than the island build. Artificial alternative: **drop-shot a plastic near the bottom** on short drifts to pick apart rockpiles rather than running long straight drifts; deeper, a **leadhead swimbait — sink to bottom, three turns, pause, watch the line fall to confirm bottom, repeat**, with a **3-in swimbait covering about 90%** of deeper fishing (`OURS05qEGcA`, `fHMwcm1xRQk`).
+
+**Discipline before you commit:** the halibut/WSB water triad needs **all three** of off-color water, current, and bait. Missing any one → **leave within 20–30 min** (`OpcKQPA3vAI`, [`conditions/tide-and-slack.md`](conditions/tide-and-slack.md)). The best version is a dirty patch with a hard rip/foam edge inside otherwise cleaner water.
+
+### THIRD — the artificial reef, if the kelp is dead
+
+San Clemente Artificial Reef (33°23.890'N 117°37.200'W) is right in the strip; the Pendleton/Oceanside/Carlsbad series are south ([`locations/north-county-artificial-reefs.md`](locations/north-county-artificial-reefs.md)). One program runs the whole zone: **anchor up, build a chum line, fish light**.
+
+- **Build prey density, don't just feed** — periodically add another handful of cut chunks; past a certain density even non-feeding fish come over because they see the others doing it, which is what turns a slow pick into a frenzy (`f4qYtHACGyk`, [`techniques/chunking.md`](techniques/chunking.md)). A private boat that can't carry sportboat-scale bait gets help from a **chum tube** (`JK2-cpaXkI8`).
+- **Don't chum off the stern** — at anchor the current runs down the *sides*, so throw as far up the side as you can (`yKaHcxX46l4`). (The KB keeps two unreconciled current models for why the stern doesn't work; the rule holds either way.)
+- **Fish far lighter than instinct says.** The stated #1 mistake at artificial reefs is fishing way too heavy: a **No. 4–No. 6 hook** tied straight to mono, a **1/16 oz split shot 2–3 in above it**, **never heavier than 1/4 oz**, and a spaghetti-thin strip of bait rather than a wad (`f4qYtHACGyk`, `bM2vUS1B-yQ`). The Pendleton worked example is in **35–40 ft** with a bucket of ground sardine/mackerel/anchovy.
+- This is also the **sheephead** program — chummed artificial reef, suspended strip bait on a slider, **pismo clam** the premium bait and squid strips the everyday fallback (`OSbAHdB4uPs`, [`species/sheephead.md`](species/sheephead.md), [`species/sheephead-sliding-sinker.md`](species/sheephead-sliding-sinker.md)). Year-round resident, no month prior applies.
+
+Deep-reef alternative if the fish are spooky over the top: **stand off the structure and bomb a slug on a 1 oz head** back across the edge — set up off to the side, not on top (`-eaaWPN5Fxk`).
+
+### NOT today
+
+- **White seabass.** [`species/white-seabass.md`](species/white-seabass.md) is squid-driven: the corpus's season shape is early spring through summer, and its own dated moon records run **July–August 2022**. Late September is off the back of it. Not a program to build a day on.
+- **Yellowtail.** [`species/yellowtail.md`](species/yellowtail.md) puts coastal kelp-line fish in warm-stable June–September, but every zone guide and every catchable window it names is island, bank or paddy — all outside today's envelope. Mainland-coast schools from **Del Mar to Imperial Beach** are recorded as **markedly finicky on the iron** (`VpW91AKOFVQ`), and that's south of your band anyway. Keep an iron rigged, don't plan around it.
+- **Paddies.** The Bight's best paddy water runs **Dana Point to Oceanside and southward** (`HzE4FHHcvTk`) — but that's open water offshore of this strip, `waters: open-ocean`, and it's the water your wind is on. (The KB flags this "Dana Point is the northern paddy limit" framing as over-stated against its source.)
+- **Rockfish.** The four charted "rockfish area" spots in the corpus are down at Box Canyon / Leucadia / Encinitas / Del Mar in the next zone south, with a flagged gap for depths and season (`locations/oceanside-north-county.md`). If you go, the **RCA depth line** is the thing that bites you: about **240 ft around the offshore islands versus a 75-fathom (450 ft) line closer to the mainland**, so you can be legal at one position and over the line at a similar depth a short distance away — **check position against the drawn boundary, not against the depth reading** (`iAr6sbRC384`, [`species/rockfish-lingcod.md`](species/rockfish-lingcod.md)).
+
+### Bail-out
+
+If it comes up more than forecast, the coastal ribbon lets you work in tight all day. Note the honest limit: [`species/spotted-bay-bass.md`](species/spotted-bay-bass.md) names San Diego Bay, Mission Bay, Newport Bay and the LA/Long Beach harbors — **the corpus has nothing on a Dana Point Harbor spotty fishery**. The general read still applies if you poke around inside: on a running tide they hold ambush stations and you cast at the station (mooring can, grass edge, channel lip) from up-current; through the roughly half hour of slack they roam and a crankbait covering water beats the station cast (`YgqXf9iICyg`).
+
+## 3. The clock
+
+- **Bait first, and the clock is the whole problem.** The Dana Point sportboat fleet leaves at **6:00 a.m.**, which is when the private-boat line at the barge forms — by a quarter to six it's already building. Leaving the dock at **5:00 a.m. or 4:30** beats it entirely (`ztpj1Xll0-U`, `bM2vUS1B-yQ`). The KB records a genuine conflict on the late option: the same presenter elsewhere says **arrive at 7:00 and you'll never see a line** (`7WapaxdtjQg`), while in the Dana Point telling 7:00 means "it's all gone" (`ztpj1Xll0-U`). The 7:00 slot buys a short line at the cost of the morning window.
+- **At the barge:** hail on **VHF 11** with the barge's name twice plus your own if no attendant is visible; the barge marks the side it wants you on — **at Dana Point, a cone on the ocean side**; **never board the barge** to fend your boat off; tell the attendant you want it **loaded light** and you're not in a rush (`7WapaxdtjQg`, [`bait/making-bait.md`](bait/making-bait.md)).
+- **Low 10:20.** Arrival discipline is **be at your highest-percentage spot an hour before the change**, i.e. fishing by ~09:20, not searching for water at 10:20 (`6TBxHnkYXI0`). This matters most for the halibut drift and any harbor work — calico don't care about the clock, they care about current.
+- **First light and the last hour** are the calico windows (`RUuPNpK0x-s`).
+- **Plan the day to shorten, not lengthen.** If it's windier than forecast in the morning, assume it **builds all day** — a small boat bails early (`DnSqw4r7A1s`). One kayak-scoped read from this exact coast: on a windy day the guide's choice pushes **south**, so the trip home isn't fighting resistance (`LqW32NSkObY`, hedged in the source).
+
+## 4. Gear
+
+**Class terms first** (per the protocol's graceful-degradation rule):
+
+- **Bass class** — 7–9 ft graphite-composite, 200–300 size reel, 30–65 lb braid, **40–65 lb fluoro leader** for kelp abrasion. This is the primary outfit for weedless slugs and swimbaits.
+- **Jig-stick class** for surface iron down the kelp line.
+- **Deep-structure bass class** for the artificial reef standoff — **8 ft graphite heavy, 300-size reel, 50 lb braid / 40 lb fluoro. Do not step up to extra-heavy — the stiffer tip pulls hooks, especially on sand bass** (`-eaaWPN5Fxk`).
+- **Light bait class** (light spinning or small level-wind) for the chummed-reef program — No. 4–6 hooks, 1/16 oz shot.
+- **15 lb inshore bait class** for the halibut trap rig.
+- Full lexicon: [`tackle/gear-classes.md`](tackle/gear-classes.md).
+
+**Resolved against [`profiles/cameron/`](profiles/cameron/README.md)** — and this is where I have to name gaps rather than substitute:
+
+- **Surface iron: covered.** Setup 5 — Torium 20HG on the Phenix Abyss 10'0" 25–60 lb, 50 lb braid — is the full surface-iron setup ([`profiles/cameron/rods.md`](profiles/cameron/rods.md)). Owned irons that fit: **JRI-7** (light blue, ~Tady 45 class, logged as the "local / kelp all-rounder"), **Strictly Irons Mighty** 5.5", **Squidco Candy Bar SR Lite** 3 oz / 6.5" ([`profiles/cameron/tackle.md`](profiles/cameron/tackle.md)).
+- **GAP — no chrome surface iron or small chrome casting jig.** Chrome is the barracuda colour (`PrdPJy26H8c`) and what bonito reach first; the bonito boil answer in the corpus is DD100-class small divers and **small chrome jigs fished on bass gear** (`Z3rZqy2Pi8E`). The only chrome in the inventory is the **Salas CP 105**, which is a heavy yo-yo iron, not a surface or small casting jig.
+- **GAP — no bass-casting / swimbait outfit and no soft plastics on file.** All eight rods are 30–130 lb class offshore builds. The closest to the 7–8 ft bass class the calico and sand bass programs call for is the **Tranx 400 on the Phenix M1 SMX-82H (8'2", H, 20–45 lb, 3–8 oz)** — and its braid is listed **TBD pending respool**. [`profiles/cameron/tackle.md`](profiles/cameron/tackle.md) is hard baits, casting and jigging only: there are **no leadheads, weedless spring hooks or soft-plastic slugs recorded**, so the primary program of the day — a 7" weedless slug on a 3/8–3/4 oz keel-weighted spring hook — has no bait in the box. That's a tackle-shop stop, not something I'll substitute around.
+- **GAP — nothing light enough for the artificial-reef program.** No. 4–6 hooks on 1/16 oz shot and a light spinning outfit have no match in the inventory.
+- **GAP — nothing at the 15 lb inshore halibut scale.** The lightest recorded is 50 lb braid on the Avet MXJ / Teramar 9'0" MH.
+- **Bottom work: the Trinidad 40** (M&M on a 8'0" XH 40–80 lb blank, 80 lb braid) does the yo-yo/sinker-rig job, but note it is far heavier than the scale a ~6 lb sand bass wants — the species note says **20 lb leader gets it done** (`P2OzCf2CwXI`).
+- **Boat notes that matter today:** 30-gal bait tank on a Rule 401 (500 GPH), 100–125 lb of ice, **no trim tabs**, and slight hull flex on hard wave impacts ([`profiles/cameron/boat.md`](profiles/cameron/boat.md)). **Normal departure is ~8 a.m.** — that misses both the barge window and first light. For this plan you're looking at a 4:30–5:00 departure. Also: home launch on file is **Dana Landing, Mission Bay**, so Dana Point is a trailer move, and the KB has no launch-ramp or hoist detail for Dana Point Harbor.
+- **I cannot check your sea-state envelope.** `range_nm` and `sea_state_max_ft` in [`profiles/cameron/boat.md`](profiles/cameron/boat.md) are **null** — deliberately left blank rather than guessed — and the protocol says to **ask** rather than assume. The coastal ribbon is a short run against the beach, so it's very likely inside whatever your envelope is; the Catalina question is not, and I'd want those two numbers before we ever revisit it.
+
+## 5. Sounder note for a 3–4 ft day
+
+Sea state sets how shallow your sounder can actually read, independent of the range setting. In chop a **fixed transducer follows the boat's roll**, so the cone tips off vertical and a fish holding high in the column doesn't paint until you're nearly on top of it — the same fish would show at range on a calm day; a rolling boat also returns aerated-water noise that swamps the signal (`fgTmUq78ofQ`, `ZIJAvAEW_tU`, [`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md)). **Don't write off a kelp edge today based on what marks at range.** Grade marks the way the bass notes say: hard bottom reads harder than the chart suggests, feeding game fish show **vertical movement** through the column while perch marks read as **straight lines**, and most of what paints over reef structure is perch (`kwMIgkCtFUE`).
+
+## 6. Regulations — verify before you go
+
+- **Calico (kelp) bass minimum: 14 in** (California / CDFW, as of 2026-08; corroborated four ways in the corpus). **Bag limit stated as 5** — single-source, no jurisdiction named on camera, oldest regulatory figure in the note (as of 2019-03) ([`species/calico-bass.md`](species/calico-bass.md)).
+- **Barred sand bass minimum: 14 in** (as of 2022; the KB flags that only one source states it for sand bass specifically). **The California bag limit for barred sand bass is a flagged gap — the corpus doesn't state it** ([`species/sand-bass.md`](species/sand-bass.md)).
+- **One MPA edge is charted in this zone:** at The Hospital 100 Fathom Curve, stay **south of 33°30.050'N**. The KB flags this as resting on a single spot-library annotation with **no MPA named and no boundary extent** — a latitude alone doesn't establish where a boundary runs. Verify current MPA boundaries and closures with CDFW ([`locations/dana-point.md`](locations/dana-point.md)).
+- All of the above are stamped "as of" dates in the KB and move year to year. Check current CDFW regs before you leave the dock.
+
+## 7. What I could not answer from the knowledgebase
+
+These are real gaps, not hedging — I'd rather flag them than fill them from outside the KB:
+
+- **You didn't give me swell period, and it decides your day.** [`conditions/sea-state.md`](conditions/sea-state.md) is emphatic that period matters more than height: **10 ft @ 15 s from the south is barely felt; 3–4 ft @ 4–5 s is brutal** (`zKmZ4zql2ws`). Your inshore 3–4 ft could be a pleasant day or a beating. Flag any segment where the period in seconds approaches the height in feet, and note that **sub-10-second intervals are called a hard bad-sea flag** on their own (`NC3-3pJDEgo`). Also worth knowing: **8–12 kt straddles the personal 12 kt "don't run" cutoff** one working captain in the corpus states (`NC3-3pJDEgo`).
+- **No current direction given.** The whole spot-selection logic above (parallel vs into vs off the beach, and NW vs SE corner of the bed) has to be read on arrival. The KB records that anglers keep a per-spot log of which wind direction each spot fishes on (`xI9tPJFXbUM`) but flags the mechanism as unknown, and it gives no wind-direction → current-direction mapping I can apply to your NW 8–12.
+
+Everything else I couldn't cover is listed below.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `conditions/sea-state.md`, `conditions/tide-and-slack.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/kelp-paddies.md`, `conditions/bird-reading.md`, `seasonal/september.md`, `locations/dana-point.md`, `locations/oceanside-north-county.md`, `locations/dana-point-kelp-red-buoy.md`, `locations/monarch-boilers.md`, `locations/salt-creek.md`, `locations/barber-poles.md`, `locations/san-clemente-kelp.md`, `locations/san-clemente-artificial-reef.md`, `locations/hospital-100-fathom-curve.md`, `locations/san-mateo-point.md`, `locations/trestles.md`, `locations/bays-and-harbors.md`, `species/calico-bass.md`, `species/calico-bass-surface-iron.md`, `species/sand-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/california-halibut.md`, `species/yellowtail.md`, `species/rockfish-lingcod.md`, `species/white-seabass.md`, `species/spotted-bay-bass.md`, `species/california-spiny-lobster.md`, `techniques/trolling.md`, `techniques/surface-iron.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`  
-*videos:* `zKmZ4zql2ws`, `NC3-3pJDEgo`, `DnSqw4r7A1s`, `HzE4FHHcvTk`, `Z3rZqy2Pi8E`, `LqW32NSkObY`, `0KQ--N5TjqE`, `Rwy4MqeXCIU`, `YIABTTYXeqc`, `9xNhdu2aBqE`, `M6U_FVdosr4`, `ztpj1Xll0-U`, `7WapaxdtjQg`, `bM2vUS1B-yQ`, `poqjnb1r1zk`, `HMdrP4-i9MM`, `Rf1HKJG-SDg`, `6TBxHnkYXI0`, `OpcKQPA3vAI`, `ghHQe3fP9U4`, `EuYOlsnxXko`, `OURS05qEGcA`, `fHMwcm1xRQk`, `a5u8BaYzw8c`, `D5DR7Kx42_A`, `pcwcRdmWmLc`, `Ec2GaNpiOHI`, `3dVc-2rsYII`, `ejUTAnONf7o`, `YAKOv9bXKO0`, `PrdPJy26H8c`, `lm7D9Tlc7Po`, `kt3G72gUldM`, `28IttH7P7K0`, `YVHdDbkQrKk`, `VpW91AKOFVQ`, `Blh2BA-7Ono`, `HWx1jDTGsng`, `RUuPNpK0x-s`, `P2OzCf2CwXI`, `kwMIgkCtFUE`, `iAr6sbRC384`, `usHl-4SfqDA`, `5to3Q5P7w90`, `r6j5w40fVHI`  
-*gaps admitted:* The KB carries no numeric chlorophyll bands anywhere — nothing in conditions/water-color.md or elsewhere lets me classify a reading of 1.2 as clean, green or dirty; only qualitative doctrine (bait in the dirty water, fish the dirty/clean seam) applies. | No swell period was given for the inshore 3-4 ft, and conditions/sea-state.md makes period the primary variable (10 ft @ 15 s barely felt vs 3-4 ft @ 4-5 s brutal; sub-10 s a hard flag) — the steepness rule cannot be applied without it. | locations/dana-point.md carries an explicit flagged gap: no corpus source for the launch ramps and hoists in Dana Point Harbor, the run time or distance from the harbour mouth to any spot in the zone, or the sea-state envelope the run demands. | All nine Dana Point spot pages are minimum pages — coordinates and parent zone only. No charted depths, relief or bottom composition for Dana Point Kelp, Monarch Boilers, Salt Creek, Barber Poles, San Clemente Kelp, San Clemente Artificial Reef, The Hospital, San Mateo Point or Trestles; and no source says what Barber Poles actually is. | No corpus source for the extent, health or seasonality of the two Dana Point kelp beds. | locations/dana-point.md flags that no corpus source says whether yellowtail, white seabass, halibut, rockfish, lingcod or sheephead are targeted anywhere in this zone, and no month-by-month season is scoped there for any species. | species/yellowtail.md carries an explicit flagged gap for numeric SST bands — the corpus gives directional water-state reads only, so I cannot tell you whether 67-69 F favours coastal yellowtail. | No SST band exists in the KB for barracuda or bonito (sst_band_f: unknown on both). | The KB has no Dana Point Harbor zone page. locations/bays-and-harbors.md is universal structure only and documents San Diego Bay, Mission Bay, Newport, Huntington and LA/Long Beach — no corpus source records spotted bay bass, halibut or any species inside Dana Point Harbor specifically. | The moon phase was not given, and species/calico-bass.md makes a clear full moon invert the fishing day (gorge overnight, bite early, dead until late) — that rule cannot be applied. | profiles/cameron/boat.md leaves range_nm and sea_state_max_ft null by design, and instructs the protocol to ASK rather than assume — so I cannot compute how far offshore the 8-12 kt band is usable for you. | Nothing in the KB or the given conditions establishes how far offshore the inshore Dana Point-to-Oceanside band extends, so the kelp-paddy water (the region's normal late-September program, and open-ocean gated) could not be evaluated. | Cameron's profile contains no bass-casting/swimbait class rod (gear-classes.md lists no example setup for bass class or crank class at all) and no soft-plastic swimbaits, slugs, flukes or leadheads — the plastics half of the coastal bass program is unequipped. | Cameron's trolling inventory has no small-feather daisy chain of the kind the Dana Point bonito program calls for, and no wire bite tippet is recorded for barracuda cut-offs. | species/calico-bass.md self-flags its 'outside kelp edge ~50 ft in to ~25 ft' sonar band as unverifiable — no cite, in no other note, yet promoted into the infobox — so I did not rely on it. | The Hospital MPA line (stay south of 33 30.050 N) rests on a single spot-library annotation with no MPA named and no corpus source; California/CDFW boundaries must be verified independently before fishing. | Regulatory figures used (calico 14 in / bag 5; rockfish season and 10+10 bag; RCA depth lines) are stamped as of 2026-08, 2019-03 and 2020-03 in the notes, several single-sourced, and all require verification with CDFW before fishing. | I did not open species/california-spiny-lobster.md beyond its front matter; its season_peak is oct-mar, so late September falls outside it, but I make no claim about the legal opener.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/electronics-and-sounder.md`, `locations/regions.md`, `locations/dana-point.md`, `locations/dana-point-kelp-red-buoy.md`, `locations/oceanside-north-county.md`, `locations/north-county-artificial-reefs.md`, `locations/bass-structure.md`, `conditions/sea-state.md`, `conditions/tide-and-slack.md`, `conditions/water-color.md`, `conditions/current-structure.md`, `seasonal/september.md`, `species/calico-bass.md`, `species/sand-bass.md`, `species/barracuda.md`, `species/bonito.md`, `species/california-halibut.md`, `species/sheephead.md`, `species/white-seabass.md`, `species/yellowtail.md`, `species/rockfish-lingcod.md`, `species/spotted-bay-bass.md`, `species/calico-bass-surface-iron.md`, `species/california-halibut-live-bait-drift.md`, `species/sheephead-sliding-sinker.md`, `techniques/surface-iron.md`, `techniques/swimbaits.md`, `techniques/flyline.md`, `techniques/chunking.md`, `techniques/dropper-loop.md`, `techniques/trolling.md`, `techniques/drop-shot.md`, `techniques/leadhead-swimbait-retrieve.md`, `techniques/wind-in-your-face-positioning.md`, `rigging/trap-rig.md`, `rigging/haywire-twist.md`, `bait/making-bait.md`, `tackle/gear-classes.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`  
+*videos:* `NC3-3pJDEgo`, `zKmZ4zql2ws`, `S2L3KLSQ6Is`, `DnSqw4r7A1s`, `HzE4FHHcvTk`, `Rf1HKJG-SDg`, `LqW32NSkObY`, `M6U_FVdosr4`, `poqjnb1r1zk`, `ztpj1Xll0-U`, `bM2vUS1B-yQ`, `7WapaxdtjQg`, `HMdrP4-i9MM`, `0KQ--N5TjqE`, `Rwy4MqeXCIU`, `kzD0kSnnVPw`, `6TBxHnkYXI0`, `OpcKQPA3vAI`, `RUuPNpK0x-s`, `YIABTTYXeqc`, `RXNebDr4j7s`, `kwMIgkCtFUE`, `P2OzCf2CwXI`, `-eaaWPN5Fxk`, `f4qYtHACGyk`, `yKaHcxX46l4`, `JK2-cpaXkI8`, `OSbAHdB4uPs`, `PrdPJy26H8c`, `YAKOv9bXKO0`, `pcwcRdmWmLc`, `Z3rZqy2Pi8E`, `lm7D9Tlc7Po`, `a5u8BaYzw8c`, `EuYOlsnxXko`, `OURS05qEGcA`, `fHMwcm1xRQk`, `ghHQe3fP9U4`, `iAr6sbRC384`, `r6j5w40fVHI`, `VpW91AKOFVQ`, `YgqXf9iICyg`, `fgTmUq78ofQ`, `ZIJAvAEW_tU`, `97clKtVsEOs`, `5to3Q5P7w90`, `Klfb433I3Uk`, `Kf5wk_TFgTc`, `xI9tPJFXbUM`  
+*gaps admitted:* Swell period was not given, and conditions/sea-state.md makes period the deciding variable (10 ft @ 15 s barely felt vs 3-4 ft @ 4-5 s brutal) - I cannot grade your inshore 3-4 ft without it. | Current direction was not given, so the parallel-current rule and the NW/SE kelp-corner rule have to be applied on arrival; the KB gives no wind-direction to current-direction mapping I can apply to NW 8-12 kt. | The KB gives no numeric chlorophyll scale, so a value of 1.2 cannot be graded against any threshold in these notes - only the qualitative new-cold-bloom vs mature-bloom-edge distinction applies. | Moon phase for late September was not given, so the full-moon inversion for calico and sand bass (bite early, dead mid-day, launch at noon if you cannot make first light) cannot be applied. | Tide range/height was not given, only the 10:20 low, so the per-bay tide-swing thresholds for spotted bay bass (SD Bay 3.5-6.5 ft best, 1-2 ft do something else; Mission Bay 4-5 ft) cannot be applied. | locations/dana-point.md carries an explicit flagged gap: no corpus source states run distance, run time, or the sea-state envelope for any run out of Dana Point Harbor - including to Catalina. | No corpus source covers the launch ramps or hoists in Dana Point Harbor. | No conditions were given for Catalina, San Clemente Island or the San Pedro Channel, so I could not evaluate the Catalina Eddy shielding option that conditions/sea-state.md says to check before writing off the inside. | profiles/cameron/boat.md has range_nm and sea_state_max_ft set to null (deliberately unstated), so per the protocol I must ask for the boat's range and sea-state limits rather than assume them. | locations/dana-point.md flags that the zone has no start-and-move program in the corpus: which end to start on, how the two kelp beds fish against the boilers and the artificial reef on a given day, how tide/light/swell shape a day there, and how long to give a spot before moving. | No corpus source gives charted depths, relief or bottom composition for any named Dana Point spot; what Barber Poles actually is; or the extent, health or seasonality of the two kelp beds. | No corpus source says whether yellowtail, white seabass, halibut, rockfish, lingcod or sheephead are targeted anywhere in the Dana Point zone, and no month-by-month season is scoped there for any species. | No zone guides exist yet for barracuda, bonito or calico bass at Dana Point - all three are flagged stubs. | seasonal/september.md is offshore-weighted (volume square bluefin, dorado below Catalina, yellowfin sliding north, BOLA bottom yellowtail); it carries no September prior for the SoCal coastal kelp strip. | species/spotted-bay-bass.md names San Diego Bay, Mission Bay, Newport Bay and the LA/Long Beach harbors - the corpus has nothing on a Dana Point Harbor spotty fishery. | The California bag limit for barred sand bass is a flagged gap in the KB, and the calico bag limit of 5 rests on one 2019 source that names no jurisdiction. | The MPA note at The Hospital 100 Fathom Curve (stay south of 33 30.050N) rests on a single spot-library annotation with no MPA named and no eastern/western limit, so it cannot be checked from inside the corpus. | No corpus source gives depths, species mix or season for the four charted rockfish areas in the Oceanside/North County zone (Box Canyon, Leucadia, Encinitas/Devil's Rock North, Del Mar). | profiles/cameron/tackle.md records no soft plastics, leadheads or weedless spring hooks, and profiles/cameron/rods.md records no 7-8 ft bass-casting outfit, no light spinning outfit and nothing at the 15 lb inshore scale - so the primary swimbait program, the light artificial-reef program and the inshore halibut trap rig have no owned match, and I did not substitute.
 
 </details>
 
@@ -1231,15 +1195,15 @@ Listed honestly rather than filled in — see `gaps_admitted`. The big ones: **n
 
 | version | found | specific | sourced | scoped | honest | actionable | total | flags |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
-| B2 | 1 | 2 | 2 | 2 | 2 | 2 | **11** |  |
+| B2 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 | B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 | NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three read the conditions the same correct way (0.9 F is a gradient not a break, neap tide means the bite compresses into current windows, 12 kt / 10 s sits exactly on the KB's go/no-go lines) and none fabricated - the shared specifics I spot-checked against the repo (sabiki 100 ft / 8 oz / five 12-inch mackerel, 6X at 5-6 oz keyed to depth, ~30 ft of sink on the surface iron, October's '100% temp chart and chlorophyll') all verify. The separator was the papers half of the question: B returned nothing at all on Mexican paperwork, A found the FMM/CONAPESCA/passport block and correctly labelled it a road-trip source from another region, and C delivered a jurisdiction page with INM/CONAPESCA + as-of 2026-08 + verify, the matching US-side CDFW licence and GO ID, and the fact that Lower 9 Mile sits 0.65 nm from US water so jurisdiction is a positional question - the single most useful thing any answer says about permits. C also has the best spot layer (per-spot pages with bearings and distances, plus an admission that nine of eleven are position-only) and the most unusual honesty, flagging that the KB's own Coronados circuit doctrine rests on a video that never mentions the islands. A's one clear edge over C is resolving the gear against the owned rod inventory and naming the gaps; B's is bait execution (mackerel filtering the catch toward yellowtail, butt-hooking against sea lions).
+**Judge:** All three read the conditions the same way — no break in a 0.9 F spread, chlorophyll ungradeable because the KB has no numeric scale, neap tide from the last quarter meaning weak current and tide-anchored windows — and all three refused to invent Mexican vessel paperwork, so the separation is in what each could actually put behind the question. C wins because it answers both halves: a jurisdiction page (INM entry, CONAPESCA fishing, as of 2026-08, verify-current) with FMM, licence, passport and insurance, immediately followed by the named gap that no source covers what a private boat that never lands must carry, alongside charted positions, real run distances (Zuniga to Pukey Point 14.0 nm, not the 13 the other two repeat) and per-spot pages it honestly labels as position-only. C is also the only one that separates source text from KB inference — flagging the 5-10 fathom yellowtail depth as absent from D5DR7Kx42_A and surfacing the unresolved 6X-by-current versus 6X-by-depth conflict — where A and B state the same figures as settled. A is a close second: same paperwork substance, correctly labelled as drive-down scoped from a Bahia de los Angeles note, plus a strong meter-read routing table. B has the best execution detail on the water (cast mechanics, retrieve, hookset, bait hook placement, sounder ranges) but returns nothing at all on permits, which is half of what was asked.
 
-- *B2 reasons:* found: excellent on the fishing half (bait-choice doctrine, anchoring, birds, paddies, technique cadences) but delivers nothing at all on the papers half - 'nothing to cite' - where the other two surfaced an FMM/CONAPESCA/passport block, so half the question returns empty. specific: full spot table, sabiki 100 ft/8 oz, 3/8-3/4 oz spring hook with 7in slug, 40-65 lb fluoro, 10-25 casts then move, 130-250 g at 1.5 g/ft, 10-crank and 5-6-crank yo-yo cadences, 5-minute bleed, 2 cups salt per 7-10 lb ice. sourced: dense note paths and ids (w5_x6kkN-xE, ZFqe49jRgA0, 9tTM99InluM, kzD0kSnnVPw) with confidence tiers. scoped: region and jurisdiction handled correctly - CDFW does not travel, BCS circle-hook dated 2019-02-13 with verify flag and correctly excluded; no US-side licence mention. honest: strongest single feature is the 10-item 'could not tell you' list; no bluffing, no relative time. actionable: the day is runnable and the gear riggable, and the mackerel-filters-to-yellowtail and butt-hook-versus-sea-lions detail is the best bait execution of the three, but an angler still cannot answer 'what papers do I need'.
-- *B3 reasons:* found: pulled the right layers (yellowtail router, current diagnostics, sea-state, tide/moon, bait, care) and located the KB's only paperwork block (BOLA FMM/CONAPESCA), while stating plainly that no Coronados location note exists in its version. specific: coordinates for 7 island + 4 vicinity spots, sabiki 100 ft/8 oz, iron 2-3 oz vs 5-6 oz, 40/50/60 lb line ladder, 2-4 oz egg sinker with 2/0-4/0 J hook, 6-10 oz dropper, salt slurry 2 cups per 7-10 lb ice. sourced: note paths plus video ids (D5DR7Kx42_A, 0DKmYId1NN4, HTowqnwAMeA, ejUTAnONf7o, yGXSrUauo2w) that match real KB content; flags confidence tiers per source. scoped: baja-pacific-north + socal-bight transit gate stated up front, exclusions named; FMM/licence carry INM/CONAPESCA + as-of 2026-08 + verify, and it correctly rules the 2019 BCS circle-hook row out of scope; misses the US-side California licence for the Point Loma/9 Mile leg. honest: labels the BOLA block as a road-trip source in another region, says island-structure.md is socal-bight-gated so applying it is extrapolation, no relative time, long explicit gap list. actionable: only answer that resolves the called-for classes against owned rods and names the two gaps (no SPJ outfit, unknown Trinidad gear ratio, braid TBD).
-- *NOW reasons:* found: hit the exact right material on both halves - a dedicated Mexican-waters jurisdiction page, a US-waters page, a Coronados zone page and species-zone guide, and per-spot location pages - and named the gaps those pages themselves flag. specific: 11 spots with positions plus bearings/distances off Middle Grounds (2.0 nm NE, 4.7 nm NNW, 9.6 nm SSE), 190-class divers, 65 lb braid to 40-50 lb top shot, yo-yo depth ladder 60/80/100 ft to 120-150 ft at 5-6 oz, 1-4 oz egg sinker, 1.5-3 mph slow-troll, calico 65-68 F band, dorado ~71-72 F, 0.65 nm to the border. sourced: cites verified against the repo (mexican-waters.md as-of 2026-08, yo-yo 5-6 oz depth ladder, 30 ft sink, sabiki 8 oz / five 12-inch macks all match). scoped: only answer that handles both jurisdictions - Mexican block with INM/CONAPESCA + as-of 2026-08 + verify, plus the CDFW licence and GO ID for any US-side leg and the point that jurisdiction is positional; CA licence requirement itself carries no as-of stamp, the one small slip. honest: exceptional - discloses that the KB's own Coronados circuit doctrine rests on a video that never mentions the islands, surfaces contradicted-by-source flags on the FMM and licence rows, labels the two-day schedule as its own sequencing rather than KB doctrine, and lists internal conflicts it declined to resolve. actionable: circuit, conversion sequence, meter reads, gear table and pre-trip checklist are all executable; weaker than A only in not resolving gear against the owned rod inventory.
+- *B2 reasons:* found: strongest execution material of the three, and stated plainly that its KB has zero Mexican paperwork — but that means half the question returns only an absence, with four thin fragments in place of an answer. specific: the deepest mechanics — 2 o'clock to 9 o'clock cast load, jig hung ~18 in below the tip, tip-down grind, wind-through hookset, flyline 80-100 yd 30 lb top shot to 4-6 ft of 25/30 lb fluoro, 1/0-2/0 by bait, sabiki to 100 ft on 8 oz, manual sounder range 0-120/0-150 ft. sourced: dense note+id citation (VpW91AKOFVQ, 3dVc-2rsYII, NC3-3pJDEgo, gKrYKvqHUjk) that matches the claims. scoped: Mexican-water jurisdiction stated, no bare limits anywhere, and the lone BCS circle-hook datum carried with its 2019-02-13 date, its wrong-state caveat and its unverified flag. honest: section 9 is a clean refusal to guess, plus a twelve-item gap list including the spring-prior problem and the missing yellowtail break-side rule. actionable: excellent on the water, but an angler still has no idea what to carry across the border.
+- *B3 reasons:* found: pulled the right program material (yellowtail router, Coronados chum-and-cast, spot library) and located the one adjacent paperwork note instead of shrugging. specific: seven spot coordinates plus 9-Mile/Canyon/North-of-North-Island, 5-10 fathom marks, 2-3 oz vs 5-6 oz iron, 12-18 in dropper loop at 3-4 ft above a 6-10 oz sinker, 40-50 lb flyline, 2 cups salt per 7-10 lb ice. sourced: note paths plus video ids throughout (D5DR7Kx42_A, 4pT0efBD1j0, ejUTAnONf7o, VpW91AKOFVQ) that fit the claims. scoped: explicit baja-pacific-north + socal-bight transit envelope, FMM/licence/passport stamped INM+CONAPESCA as of 2026-08 with verify-current, says plainly CDFW rules do not govern Mexican water, and admits island-structure.md is socal-bight-gated so applied by analogy. honest: says the four paperwork items are drive-down scoped and refuses to invent vessel permits, clearing in/out or CBP; wide gap list; no relative time. actionable: three-outfit stack, meter-read routing table, anchoring geometry, bait plan and an afternoon-wind clock all runnable.
+- *NOW reasons:* found: the only answer that hits both halves — a dedicated jurisdiction page for the papers and a Coronados zone guide plus per-spot pages for the program; verified against locations/mexican-waters.md and locations/coronado-islands.md. specific: charted positions for all eleven spots, Zuniga-to-Pukey 14.0 nm and 15 nm to Middle Grounds with neighbour spacing (2.0/2.8/3.5/4.4 nm), Halco 190 pink and purple on 20-30 and 40 ft divers, sabiki 100 ft on 8 oz, 5 twelve-inch macks a drop, 65 lb braid to 40-50 lb top shot, hook sizes 1/2/4 to 2/0-4/0. sourced: best fidelity of the three — separates what a source says from what the KB inferred (flags the 5-10 fathom figure as absent from D5DR7Kx42_A, flags the terns-here-specifically line as contradicted, flags the 6X-by-current vs 6X-by-depth conflict). scoped: full region/waters envelope, correctly rules out the socal-bight-gated yellowtail dropper-loop sub-page, papers stamped INM/CONAPESCA as of 2026-08 with verify-current, CA licence noted for the US leg; only slip is quoting CDFW's 10-fish/240-ft rockfish numbers without an as-of, though jurisdiction and verify-with-CONAPESCA are both attached. honest: names the spring-scoped zone guide as the wrong season, calls the per-spot pages minimum pages, declines to apply the 10-15 nm bluefin displacement to structure fish, and lists seventeen gaps. actionable: a real circuit — troll in, convert on sign, yo-yo the tight balls, sabiki top-up, turn north early afternoon — plus the three profile questions the protocol requires.
 
 <details><summary>Full prompt</summary>
 
@@ -1247,321 +1211,419 @@ I want to do two days at the Coronado Islands in October on a private boat. What
 
 </details>
 
-<details><summary><b>B2 — batch 2</b> · 11/12</summary>
+<details><summary><b>B2 — batch 2</b> · 12/12</summary>
 
-> Built from the KB only, using exactly the conditions you gave. No live BightSST pull, no outside sources. Where the KB is silent I say so rather than filling it in.
+# Two days at the Coronado Islands, mid-October — the program
 
----
-
-# 1. Papers and permits — the KB cannot answer this, and you should not let me guess
-
-The Coronado Islands are Mexican water. **This knowledgebase contains no entry on Mexican paperwork for a private boat** — no fishing licence, no vessel documentation, no immigration or customs procedure, no crew-manifest or border-crossing guidance. I searched every note branch; there is nothing to cite.
-
-The only Mexico-regulatory traces in the whole KB, none of which is a procedure you can act on:
-
-- `techniques/flyline.md` carries a single on-camera claim that a circle hook was "mandatory," read as a Mexican sportfishing requirement — **Baja California Sur, as of a 2019-02-13 video**, explicitly flagged "verify current CONAPESCA/DOF circle-hook rules before fishing," and never confirmed against regulation text (`0dIwWiOc1NY` is the Ensenada entry in the same note; the circle-hook claim is from the BCS entry). BCS is not Baja California Norte, so it does not even cover the Coronados.
-- `species/rockfish-lingcod.md` states plainly that **California/CDFW rockfish regulations do not apply in Mexican waters in any case, and that current Mexican/Baja regs must be verified separately before fishing there.** That is a warning, not a rule set.
-- `species/calico-bass.md` mentions in passing that one charter group's Mexican fishing permits were **obtained in Tijuana** (`xIUKmH9ccgQ`, 2012 Cedros trip via Ensenada) — an incidental historical detail about someone else's trip, not guidance.
-
-The KB's own house rule (`CLAUDE.md`) is that any regulatory claim must carry jurisdiction + an as-of date + a verify-current flag. Nothing meeting that bar exists here for a private boat fishing Mexican water. **Get your paperwork requirements from the Mexican authorities or an official source before you leave the dock — I am not going to invent a checklist for a foreign border crossing.** Also assume any US-side bag/size limit you know is irrelevant: `species/rockfish-lingcod.md` is explicit that CDFW rules do not travel across the line, and the KB has no Mexican limits for yellowtail, bass, or rockfish.
+I planned this off the KB only, following `planning/day-plan-protocol.md` (conditions → priors + layers → species router → gear). I used the conditions you gave exactly and pulled nothing live. **Two things up front: the KB has no Mexican permit/paperwork content at all (section 9), and it has no per-spot structure notes for the Coronados — only the coordinate library plus universal island typology.** I'm planning this as **two day-runs**, not an overnight, because the KB carries no guidance on staying out overnight in Mexican waters.
 
 ---
 
-# 2. Reading your conditions
+## 1. What your numbers actually say
 
-**SST spread is 0.9 °F across the whole plan area** (Coronados 66.8, 9 Mile 66.2, Point Loma 65.9). Warmest and cleanest read available to you is the islands themselves.
+**October is the regime-change month, and the chart runs the plan.** `seasonal/october.md` is blunt about it: *"conditions become pretty important… look 100 % at your temp chart and chlorophyll"* (`XLVUhV8DW64` 10/12/22, `OYOda6T3f-8` 10/20/22). It's the **fall fragmentation** regime — an "everything season, but scattered: breadth of species, low density of any one" (`seasonal/october.md`, `conditions/water-regimes.md`). Build the plan on break structure, not spot names.
 
-- **October is the regime-change month.** `seasonal/october.md`: "conditions become pretty important… look 100 % at your temp chart and chlorophyll" (`XLVUhV8DW64`, `OYOda6T3f-8`) — build the plan on break structure, not spot names. `conditions/water-regimes.md` calls this **fall fragmentation**: an everything-season but **scattered — breadth of species, low density of any one**.
-- **Your temperature field has essentially no break in it.** A 0.9 °F spread over ~20 nm is not the "sharp offshore edge that jumps multiple degrees in ~1 mi" that `conditions/water-temperature.md` tells you to hunt. Treat the whole area as one water mass with a mild inshore-to-island warm gradient, and go looking for the edge **on the water** — `conditions/current-diagnostics.md` documents a current break as a visible whitewater/foam line against a slicker patch.
-- **Chlorophyll 0.9 — the KB gives you no numeric scale.** There is no threshold anywhere in `conditions/water-color.md` or elsewhere mapping a chlorophyll number to "clean" or "green." What the KB does give you is the **age question**: is this a new cold bloom (skip — cold, green, "bad now, productive later") or a **mature bloom edge** (fish it)? With SSTs in the mid-60s and no reported overnight ~5 °F drop, you have no evidence of a fresh upwelling event, so read it as established water and **fish the edge, not the middle of the mass**. Corollary from the same note: **bait holds in the dirtier water and predators work the dirty/clean seam** — do not default to the prettiest blue.
-- **This species mix is on, this one is off.** `conditions/water-temperature.md` puts the dorado concentration at the green-cold/blue-warm boundary around **~71–72 °F** — you are ~5 °F below that, so do not build any part of the trip around dorado. Yellowfin want **SST max × chlorophyll min**; your max is 66.8 and there is no warm cell to run to. `seasonal/october.md` has the bluefin **condensing outward toward Tanner and Cortez** as the coast cools — off the map for a Coronados trip.
-- **Wind geography favors you.** `locations/bight-geography.md` (`HzE4FHHcvTk`, 4/21/22 Landesfeind) names the **Coronados among the zones that held their water through a big NW blow**, while the northern Channel Islands and the LA/Ventura shelf rolled over 5–8 °F. In a NW pattern, this is the right side of the Bight to be on.
+**Your SST field does not contain a break.** 66.8 at the islands / 66.2 at the 9 Mile / 65.9 at Point Loma is **0.9 °F spread over ~13+ miles** — a gentle gradient. `conditions/water-temperature.md` says the thing you're hunting is a **sharp** edge, where "offshore edges can jump multiple degrees in ~1 mi," and that the value "is usually not the absolute number but which side of a break a species sits on." Three point readings can't locate that. **Practical consequence: pull the full SST field before you leave and look for a real edge; if there isn't one within range, fish structure and bait, because the break-side game isn't available to you.**
 
-**Sea state.** NW 8 kt AM / 12 kt PM, NW 3 ft @ 10 s, per `conditions/sea-state.md`:
-- Steepness rule: flag any segment where **period in seconds approaches height in feet**. 10 s against 3 ft is nowhere near that — the swell itself is a non-issue.
-- Hansen's thresholds (`NC3-3pJDEgo`, registered voice, single-mention set — medium confidence): **wind over ~12 kt is what raises whitecaps**, and that is his personal no-run cutoff; **sub-10-second interval is a hard bad-sea flag**. Your afternoon sits exactly on the 12 kt line and your period sits exactly on the 10 s line. You are inside the envelope, but with zero margin in the afternoon.
-- Two rules that bite specifically here: **forecast error is asymmetric** — assume the worse side, and assume afternoon W at the islands **strengthens** rather than eases; and the **homebound-wind rule** — "runs south into Mexican paddy water put a W wind on the return leg = uphill misery. Plan return timing against the afternoon W build, not just the outbound conditions" (`HzE4FHHcvTk`, 8/17/22). Your entire trip is a run south. **Plan both days to be turning for home before the afternoon build, not after it.**
-- If you launch San Diego Bay: Cameron's own chart work in the same note has the entrance open to swell from **~160°–186°**, channel seaward axis **186°**, with **Point Loma blocking swell from west of the axis** — a NW swell is blocked, so the entrance is not your problem on this forecast.
+The one thing the gradient does tell you: **the islands are the warm end of your range** — which is exactly the pattern `locations/bight-geography.md` predicts under NW wind. In the 4/21/22 wind-rollover event, the northern Channel Islands and the LA/Ventura shelf rolled down **5–8 °F**, while **"the Coronados, the tuna grounds, Catalina, and San Clemente Island held their water through the blow"** (`YZtX1MiT0y8`; also `seasonal/april.md`). Your NW 8–12 kt is nowhere near that event, but the geography rule says the Coronados are the right side of the bight to be on when the north is blowing.
 
-**Moon — last quarter.** `conditions/tide-and-slack.md` (mechanism, `9tTM99InluM`): **quarter moons are neap tides — the smallest tidal range**, because the lunar and solar bulges partially cancel. So the moon/tide stacking described in `conditions/moon.md` is absent: you get the **weakest tidal push of the month**. Consequences you can act on:
-- The moon note's elevated windows are full/new **±1 week with the leading days strongest**; last quarter sits at the outside edge of them. Hansen's dissenting view in the same note (`fri_BWI-VA0`) actually likes the 7-days-after-full window, tied to bluefin. Both are recorded side by side, neither is a gate — treat the moon as a mild probability adjustment here, not a reason to go or not go.
-- One clear positive: the **full-moon daytime bass suppression** (calico gorging at night, dead by mid-morning) does not apply. Your bass segments are not moon-suppressed.
-- The **post-moon relocation/coverage-illusion discipline** also does not apply — you are not chasing a stale post-moon report.
-- The real consequence is **window compression** (`conditions/tide-and-slack.md`): when the bite is off-peak — and fall fragmentation is explicitly "scattered, low density" — **action compresses into the tide windows**, and the answer is to **anchor the plan's zones to tide times and arrive an hour before the change**, not at it. On weak neap swings you may also get the "treadmill is off" state (bait pointing every direction, fish metering but not biting) more often; that is a **move-or-wait signal**, not a reason to keep soaking.
+**Chlorophyll 0.9 — I can't grade this number.** The KB carries **no numeric chlorophyll scale** anywhere; its whole chlorophyll doctrine is about **age and edges**, not absolute values (`conditions/water-color.md`, `conditions/upwelling-and-turnover.md`). What you can actually do with it:
 
-**Pull a real tide table.** The KB gives timing rules but no tide data, and BightSST is not in scope here. The rules that need actual times: arrive an hour before the change; the **late-morning slack when a tide falls after ~9:30 is the prime open-water pop-up window**, and pop-ups also **cluster in the afternoon**, so re-run water you marked earlier at those times.
+- **Ask the freshness question.** A **new cold bloom** — an overnight **~5 °F drop plus green water after an afternoon NW wind** — is a local upwelling event, "bad *now*, productive *later*." A **mature bloom edge** is what you fish (`conditions/upwelling-and-turnover.md`, `conditions/water-color.md`). Your islands reading is the *warmest* of the three spots, which does not look like a fresh cold crash — but the rule needs the **day-before SST at the same spot**, which you haven't given me. Pull it.
+- **Fish the seam, not the mass.** Bait was found **holding in the dirtier water** while clean blue water sat empty, and predators work the **dirty/clean edge** (`conditions/water-color.md`, `HzE4FHHcvTk` 8/17/22). Don't default to the prettiest water — find the seam.
+- **Cameron's own doctrine is on record here:** in warm-water years, weight chlorophyll/colour **at least as heavily as SST**, and **don't fish "dirty green" water for gamefish** (`conditions/water-color.md`, source `cameron`).
+- **The Coronados are not one water cell.** Conditions "vary a lot across that group" — which is exactly why BightSST splits the Coronados entry into **each of the 6 spots individually**, taking the eval set from 8 to ~14 (`locations/bightsst-eval-targets.md`, `conditions/upwelling-and-turnover.md`, source `cameron`). **One averaged 0.9 reading for "the islands" hides the spread.** Pull per-spot.
+
+**No tuna case in these numbers.** October's break rule has bluefin **condensing outward toward Tanner and Cortez** as the coast fragments (`seasonal/october.md`, `locations/bight-geography.md`) — out of a Coronados day's range. Dorado concentrate at the green-cold/blue-warm coastal boundary, referenced around **~71–72 °F** (`conditions/water-temperature.md`); you're 5 degrees under that. Yellowfin want **SST max × chlorophyll min** and the KB gives no absolute threshold. Treat any offshore fish as a bonus, not the program.
+
+**Note the break-side rules exist for bluefin, yellowfin and dorado — not for yellowtail.** The yellowtail read is a different axis: **water temperature and bait depth** (`species/yellowtail.md`, source `cameron`).
 
 ---
 
-# 3. The program
+## 2. Sea state — this is a go, with a hard afternoon clock
 
-## Primary target: yellowtail — with an honesty caveat
+**Swell 3 ft @ 10 s is fine.** `conditions/sea-state.md`'s steepness rule: period drives feel far more than height, and the flag is when **the period in seconds approaches the height in feet** — 10 vs 3 is nowhere near it (for scale, the note calls 10 ft @ 15 s "barely felt" and 3–4 ft @ 4–5 s "brutal"). Capt. Dave Hansen's harder line is that **sub-10-second intervals are "absolutely horrible"** regardless of height (`NC3-3pJDEgo`) — you're sitting exactly on 10, so you have no margin if the period drops.
 
-`species/yellowtail.md`: **"The Coronados are synonymous with yellowtail"** (`D5DR7Kx42_A`), ~13 mi from San Diego, and the western side of the group is exposed to colder Pacific currents and tidal swings, so **the water stays bait-rich**.
+**Wind is your actual constraint.** Same source: **wind above ~12 kt is what raises whitecaps, and 12 kt is Hansen's personal don't-run cutoff** (`NC3-3pJDEgo`, single-mention, medium confidence). Your NW 12 kt afternoon lands right on that number. Two rules stack on top of it:
 
-The caveat you should hear before you commit: **the KB frames the Coronados as the warming-transition (spring) classic, and carries no October-at-the-Coronados corpus entry.** What partly offsets that is Cameron's standing doctrine, kept side by side with the corpus year-anniversary prior in the same note: **"calendar date doesn't matter for yellowtail — water state (temp + bait) does."** So October is not a disqualifier, but you are fishing a zone the KB documents best in spring, in the month the KB says to trust the chart over the calendar.
+- **Forecast error is asymmetric** — assume the forecast errs worse, and that afternoon wind at the islands **strengthens rather than eases**. If it's windier than forecast in the morning, assume it builds all day and a small boat **bails early** (`conditions/sea-state.md`).
+- **Homebound wind:** plan return timing **against** the afternoon build, not on the outbound conditions (`conditions/sea-state.md`, `HzE4FHHcvTk` 8/17/22). Your return from the Coronados is northbound into the NW.
 
-The second Coronados-specific pattern to plan around, and it matters more than anything else on a neap two-day trip: **"seeing-not-biting" cycles with narrow daily windows** — you will mark and even see fish that will not eat until a short window opens (`YZtX1MiT0y8`, 4/21/22). **Anchor those days to tide and current, not to the clock.**
+**Two checks before you commit each morning:**
+1. **12–24 h wind hindcast**, not just the forward forecast — a calm-morning read hides overnight wind and leftover chop (`conditions/sea-state.md`).
+2. **Current-vs-swell opposition** along the route: where current runs against the NW swell it compresses the interval and stands it up — a forecast **4 ft @ 10 s fishes like 6 ft @ 7–8 s**, and no point forecast shows this (`conditions/sea-state.md`). Degrade your 3 ft @ 10 s wherever the current field opposes.
 
-## The spots (coordinates from `sources/spot-lists.md`)
+**Launch/return exposure (if you're going out of San Diego Bay):** Cameron's own chart work has the bay entrance open to swell from roughly **160°–186°**, with the measured channel seaward axis at **186°**; **Point Loma blocks swell from west of that axis** (`conditions/sea-state.md`, source `cameron`). A NW swell sits outside that window — the channel should be protected. Cameron's profile launch is **Dana Landing, Mission Bay**, normal departure ~8 am (`profiles/cameron/boat.md`) — on this wind pattern I'd move that earlier and be off the water before the 12 kt fills in.
 
-Seven island spots and four vicinity spots, N→S:
+Worth checking before you write off a bad-looking outer forecast: the **Catalina Eddy can shield the inner San Diego banks and tuna grounds while it blows outside** (`locations/island-structure.md`, `conditions/sea-state.md`, `S2L3KLSQ6Is` 5/26/22).
 
+---
+
+## 3. Moon and tide — last quarter is a neap, and that changes the day
+
+**Last quarter = neap tide, the smallest tidal range** (quarter moons put sun and moon ~90° apart so the bulges partially cancel — `conditions/tide-and-slack.md`, `9tTM99InluM`; also `conditions/moon.md`). Three consequences:
+
+- **The moon window and the tide window do NOT stack.** `conditions/moon.md` notes that springs on full/new stack a big-swing tide onto the moon window. You get the opposite: **weak swings, weak current.**
+- **You're clear of the full-moon bass suppression.** The "gorge at night, shut down by mid-morning" pattern is a **clear full-moon** effect (`conditions/moon.md`, `Blh2BA-7Ono` 7/21/22, `XLVUhV8DW64` 10/12/22). Mid-day isn't automatically dead for you.
+- **You're also clear of the post-moon relocation trap** — the "discount report persistence hard, schools moved 10–15 nm overnight" discipline is a moon-peak rule (`conditions/moon.md`, `planning/report-reading-and-forecasting.md`). Last quarter sits a week past the full.
+- **Where last quarter falls in the windows:** the working rule is full/new **±1 week elevated, leading days strongest**, with the moon peak itself a relocation event (`conditions/moon.md`). Hansen's dissent — kept side by side, not reconciled — is that the best window is **7 days before AND 7 days after the full**, with the moon peak being travel, not bite; he says the 7-days-after window is when "that stuff really gets going" (`fri_BWI-VA0`). Last quarter is roughly that day. **Read it as neutral-to-mildly-positive, not as a gate.**
+
+**The neap risk you must actively manage: no current.** `conditions/current-diagnostics.md` names the failure mode exactly — **"the treadmill is off"**: bait pointing in all directions rather than lined up, and **fish metering but not biting**. That's a **move-or-wait** signal, not a "grind it out" signal. Hansen's earlier tell for the same shutoff: **baits getting hit nearly every drop, then several drops in a row with nothing** (`aFb221LUoD0`, single mention).
+
+**So anchor the day to the tide, and arrive early:**
+- **Be at your highest-percentage zone an hour BEFORE the tide change** — not at it (`conditions/tide-and-slack.md`, 2/20/25 report).
+- **Window compression:** on weak/off-peak conditions the action compresses into the tide windows; wide-open days bite all day. Neap + fall fragmentation = **anchor zones to tide times and be disciplined about arriving early to each** (`conditions/tide-and-slack.md`, `HzE4FHHcvTk` 8/17/22).
+- **The late-morning slack** (when a tide falls after ~9:30) is the prime pop-up window; pop-ups also cluster in the afternoon, so **re-run water you marked earlier at those tide times** (`conditions/tide-and-slack.md`).
+- **This is doubly true at the Coronados specifically.** Coronado yellowtail run **"seeing-not-biting" cycles with narrow daily windows** — you'll mark and even *see* fish that won't eat until a short window opens. **Anchor those days to tide and current, not to the clock** (`species/yellowtail.md`, `seasonal/april.md`, `YZtX1MiT0y8` 4/21/22). Be on the fish and ready when it comes rather than expecting an all-day grind.
+
+I don't have the actual tide times for your dates and the KB doesn't carry a tide table — pull them and hang the two days off them.
+
+---
+
+## 4. Where in the island group
+
+**The Coronados sit ~13 mi from San Diego, off Mexico; the western coast is exposed to colder Pacific currents and tidal swings, so the water stays bait-rich. "The Coronados are synonymous with yellowtail"** (`species/yellowtail.md`, `D5DR7Kx42_A`).
+
+The KB's spot library (`sources/spot-lists.md`; committed because Cameron waived the private-only restriction — *"none of these spots are secret,"* 2026-08-12, per `CLAUDE.md` and `profiles/cameron/spots.md`):
+
+**Coronado Islands**
 | Spot | Position |
 |---|---|
 | Pukey Point | 32 26.850 / 117 18.000 |
-| East of Pukey Point (yellowtail & rockfish) | 32 27.000 / 117 14.100 |
 | Middle Grounds | 32 25.810 / 117 15.950 |
 | Ribbon Kelp | 32 24.800 / 117 13.880 |
 | Lighthouse | 32 23.290 / 117 14.570 |
 | 5-Minute Kelp | 32 22.940 / 117 13.515 |
 | South Kelp Ridge | 32 22.000 / 117 13.260 |
 | Rockpile | 32 17.620 / 117 10.030 |
-| Coronado Canyon (rockfish) | 32 30.300 / 117 17.500 |
-| North of North Island (rockfish) | 32 27.380 / 117 18.000 |
+
+**Rockfish areas, Coronados vicinity**
+| Spot | Position |
+|---|---|
 | Lower 9 Mile Bank | 32 32.500 / 117 20.500 |
+| Coronado Canyon | 32 30.300 / 117 17.500 |
+| North of North Island rockfish area | 32 27.380 / 117 18.000 |
+| **East of Pukey Point (yellowtail & rockfish)** | 32 27.000 / 117 14.100 |
 
-Two planning points from the KB about this group specifically:
-- **Conditions vary a lot across the six-spot group** — enough that Cameron's own BightSST eval set is being **split from one "Coronado Islands" entry into each of the six spots individually, because one averaged reading hides the spread** (`locations/bightsst-eval-targets.md`, `profiles/cameron/spots.md`). Do not treat "66.8 at the islands" as one number: expect the north end and the south end to differ, and **verify temp and color spot to spot as you move**.
-- The KB **does not classify these spots as "complex" or "compact" search boxes.** `locations/zone-lexicon.md` gives that framework and names 302/371/west-of-Catalina as compact 20–30 minute reads and the below-Clemente group as a 50–60 sq-mi expedition — but no Coronado spot is placed in either bucket. Budget your time from your own read of the structure, not from a KB classification that doesn't exist.
+Format is `deg min.mmm`, all lat N / long W (`profiles/cameron/spots.md`). **The KB gives no structure description, depth, or preferred-current note for any individual Coronado spot** — only the coordinates plus the one annotation on East of Pukey Point. So you pick between them with the universal typology, not with spot lore:
 
-## How to pick which spot to fish, hour by hour
+**Decide the day's current vector once, then pre-judge every spot on the list.** Current direction is **coherent across a region on a given day** — read it once and apply it to the whole list, then confirm with observables at each stop (`conditions/current-structure.md`, Academy Ep. 14). Then apply the typology (`locations/island-structure.md`, `conditions/current-structure.md`):
 
-`conditions/current-structure.md` is the decision layer here, and it does more work than temperature will on this trip:
+- **Land-attached perpendicular ridges are two-directional** — they only produce on **parallel** current (running along the shoreline, uphill or downhill). Current **straight into the beach is marginal**; **straight off the beach is dead — avoid**. A perpendicular ridge on an off-the-beach current is a non-starter no matter how good the water looks.
+- **Standalone banks fish in any direction**, but each has its own preferred directions you learn spot by spot.
+- **Coastal deep spots default-prefer downhill (N→S).**
+- **Late-fall exception, kept side by side:** on 11/23/22 at San Clemente the bass bites **required current running INTO the island with off-color water present** — fish used the dirt to ambush. Parallel is the prior, into-beach is a viable late-fall/off-colour state, off-beach is dead (`conditions/current-structure.md`).
 
-- **Parallel-current rule.** Current running **parallel** to the shoreline (uphill or downhill) is good — it builds a definable leading edge and makes land-attached reef pinch-points work. Current **straight into the beach** is marginal (with a genuine late-fall exception: on 11/23/22 at San Clemente the bass bites *required* into-the-island current with off-color water, fish using the dirt to ambush). Current **straight off the beach is dead — leave**.
-- **Spot typology** (`locations/island-structure.md`): **land-attached perpendicular ridges are two-directional** — they only produce on parallel current; **standalone banks fish any direction** but each has its own preferred directions; **coastal deep spots prefer downhill (N→S)**. Identify which one you're looking at *before* you commit.
-- **Spatial coherence** — current direction is coherent across a region on a given day. **Read the current once, then pre-judge every spot on your list from it.** This is the single highest-leverage thing you can do at a seven-spot island group.
-- **Up-current face.** Within any one spot, bias to the **up-current face** — that's where nutrients get forced up and the food chain stacks. Kelp-bed corner refinement (Hansen, `kzD0kSnnVPw`, medium confidence): **current downhill → work the NW corner of the kelp; current uphill → work the SE corner.**
-- **Read current off observables**, not the plotter (`conditions/current-diagnostics.md`): **kelp pulled ~20 ft under = raging, surface presentations are dead, go deep**; **kelp laid flat = strong, fishable, work the down-current side**; **kelp resurfacing = slacking, switch back to the surface.** The chum bucket is an artificial "thumb over the hose" — its drift angle relative to how the boat lies separates true current from wind push.
+**Kelp-corner selection at the kelp spots** (Ribbon Kelp, 5-Minute Kelp, South Kelp Ridge): **downhill current → work the northwest corner of the bed; uphill current → the southeast corner** — same logic carries to rock structure (Dave Hansen, `kzD0kSnnVPw`, single mention, medium confidence, `conditions/current-structure.md`).
 
-## Finding them
+**Read current strength off the kelp itself** (`conditions/current-diagnostics.md`) — this is your gear-change trigger all day:
 
-`species/yellowtail.md`, Finding them:
-- **Sonar, structure yellows: tight balls hugging the structure — arcs / boil-ups at ~5–10 fathoms (30–60 ft) near structure.** "We see tight balls of yellowtails hugging the structure, so you drop something with weight to get down there and provoke a reaction bite" (`D5DR7Kx42_A`).
-- **Hard bottom only, never mud** (`6DzbsElGE7E`) — read bottom hardness by return thickness (thin/faint = sand or mud, thick and dark = rock) and decide whether a spot is worth working *before* hunting for fish sign on it. Works on any brand of sounder.
-- **A thin, lighter mark riding higher than the bait ball can be the yellowtail itself**, pushing bait up off the rocks — that's the commit signal, not the bait pile alone.
-- **Deep high-spot fish** (the KB's BOLA/Baja pattern) sit in the **150–300 ft** band on the **up-current face**, best bit 150–180 ft (`vqsD0qpwcJA` / `Jtf-bU4aM-c`) — relevant if you work Coronado Canyon or the deeper vicinity structure.
-- **Sounder settings** (`planning/electronics-and-sounder.md`, Hansen, repeated doctrine — high confidence): **run manual range, not auto.** Private-boat working window **0–120 ft on older machines, 0–150 ft on newer**, regardless of true bottom depth; a school paints as a large upside-down-U at that range and shrinks to a speck on auto. When you *are* reading bottom, size the range so **the bottom sits mid-screen, not pinned at the edge** — that leaves column above it to read hardness and pick fish out. **Photograph the meter when you're getting bit** and build your own library of marks that pay.
-- **Glassing** (`planning/search-and-glassing.md`): glass from a full stop or bow into the swell at ~1 kt; **3–4 minutes per full 360° scan**; **watch a bird 30–40 s** before judging it. Ranges from deck level: a few terns at **0.5–1 mi**, a big bird spot at **~2 mi**; from a hardtop, birds ~2 mi and dolphins ~4 mi. Space glass stations **3–4 mi apart**; run a contour at **16–18 mph** with a lookout ~30° off each bow.
-- **Birds** (`conditions/bird-reading.md`): **terns are the best bird** — Cameron follows working terns even with nothing else flying and almost always stops and casts. **Boobies are mostly seen at the Coronado Islands and Cameron considers them worth paying attention to** (his observation, no corpus doctrine to merge). **Gulls** = life and floating kelp, paddy-finders, not gamefish. **Pelicans diving = usually the wrong area, expect mackerel** — useful as a bait tell. **Mixed piles at an open-water current break = bait only, skip**; a mixed pile **on kelp/structure** can be a real bait event.
-- **The governing search rule** (`locations/island-structure.md`): **sign associated with structure is a repeatable decision; sign in no-man's-land is low value.** And when you get a popped fish near a contour, identify the structure it related to, **run the curve slowly**, do not sprint to where the fleet went, and **come back to your own marked positions at tide time.**
+| Kelp | Current | Do |
+|---|---|---|
+| Pulled **~20 ft under** | Raging | Surface presentations are **dead** — go deep / weighted |
+| **Laid flat** on the surface | Strong | Fishable but hard; work the down-current side |
+| **Resurfacing** / standing back up | Slacking | **Switch back to the surface / lighter** |
 
-## Bait
+On a neap, expect to live in the bottom two rows. **The transition from "laid down" to "resurfacing" is your cue to change gear before the window — watch the kelp, not the clock.**
 
-`bait/making-bait.md` — the Coronados are Cameron's own mackerel spot: **drop the sabiki to ~100 ft with an 8 oz sinker**; he has loaded **5 twelve-inch mackerel on one drop** there. Twelve-inch mackerel are big, hearty baits, heartier than sardine. Buy sardine at the barge when it's available; **when he makes bait it's always mackerel.**
-
-The reason this matters more than convenience, from `bait/fishing-live-bait.md` (`w5_x6kkN-xE`, Hansen, high confidence, and the region label names the Coronado Islands explicitly): **fishing live mackerel rather than sardine or anchovy at San Clemente, Catalina, or the Coronado Islands skews the catch toward yellowtail specifically**, screening out the calico, barracuda, and bonito bycatch a smaller bait draws. Yellowtail have been seen eating mackerel up to **1.5 lb**, sometimes five or six fish attacking one mackerel at once.
-
-Hook position, same note:
-- **Butt hook, zero weight only** — swims down and away, and **defeats sea lions at the islands that pick off nose-hooked baits**. Mechanism: pulling a butt-hooked bait reads to the bait as something biting its tail, so it bolts the other way. Applied cast: throw to the edge of a visible school, then **jerk the tail on the water** and the bait swims away from the jerk, toward the fish.
-- **Nose hook becomes mandatory the moment any weight is added** (dropper loop, sliding sinker, rubber-core) — a butt-hooked bait under a sinker gets dragged backward and doesn't read as natural.
-- **Back/dorsal hook is kite-only** — not part of this trip.
-- Sardine specifics (`ZggReeO1nyU`): nose-hook **side to side through the clear spot at the tip of the nose**, the only way to do it; the butt hook draws blood so that bait doesn't last as long.
-
-On a two-day trip, keep the tank honest: `bait/bait-tanks.md` — **don't overload it** (too many baits for the volume crashes the oxygen), match pump GPH to tank gallons for enough turnovers per hour, and **save culled dead bait in a 5-gallon bucket for chum**, including chumming on the anchor. The note also carries a cautionary observation of a boat on a 2-day trip whose **bait net rolled overnight and lost its bait** — if you are holding bait between days, that is the failure mode to guard against.
-
-## Situation → technique → gear
-
-From the `species/yellowtail.md` router, with execution from the technique notes. **Cameron's three-outfits switching doctrine** governs the day: **rig the surface-iron outfit, the heavy yo-yo/dropper outfit, and the flyline outfit simultaneously and switch as temp + bait depth change** — the three faces are states of one population, not fish types, so no row below locks you in.
-
-**1 — Boiling / breezing fish, or fish on a paddy → surface iron, then flylined bait, then stickbait.**
-Gear: **jig-stick class, 9–10 ft, 25–60 lb** (`tackle/gear-classes.md`). Irons: **Tady 45 / Tady 45 Surface, Salas 7X / 6X Jr.**, roughly **5.5″–7″, ~3 oz** (`lures/iron-jigs.md`); **go heavier (Salas 7X) when it's windy to punch the cast out** — relevant to your 12 kt afternoons. Execution (`techniques/surface-iron.md`): hang the jig about **18 in** below the tip, take the rod to **2 o'clock**, let the blank load, sweep through to 9 o'clock — **the rod does the work**; pendulum the jig **up and down, not side to side** (`VpW91AKOFVQ`), release on the **outside part of the swing** (`3dVc-2rsYII`), and **lay the reel on its side through the cast** for distance (`KLoEJInlmZo`). **Placement beats distance** — land it *on* moving fish and cut off their line of travel rather than casting into their wake. Retrieve: steady grind ("steady whine"), not too fast; **watch how the iron swims back to the boat** (`D5DR7Kx42_A`). A **wide, slow, drawn-out kick** is the change-up for picky bites and slack current — which is what a neap day is likely to hand you.
-
-**2 — Tight balls hugging structure / marks on hard bottom at ~5–10 fathoms → yo-yo iron, then dropper loop.**
-Gear: **stout 40–60 lb class rod with a high-speed reel**. Iron: **Salas 6X / Salas CP 105 class**, heavy enough to **stay vertical** in current (`lures/iron-jigs.md`). Corpus doctrine from the Coronados/BOLA roundups: **heavy full-size irons work the majority of the time on structure fish; vertical/flat-fall jigs 100–180 g depending on current are the change-up** (`D5DR7Kx42_A`).
-Execution (`techniques/yo-yo-iron.md`): position **up-current** so the drop sweeps onto the structure; **free-spool straight down under light thumb pressure** so it tracks vertical instead of scoping away; then **wind as fast as you can, all the way up** — the speed is the trigger; **a couple of cranks off the bottom is where the reaction bite comes**. Kept side by side: Hansen's cadence (`wzI0lpgKT1U`) defines yo-yoing as **staying down in the zone** — cast version, **10 cranks then straight back to freespool to the bottom**, walking the iron back over as much as 150 yards; vertical version, **five or six quick cranks (~20 ft) then freespool**, cycling the same 20-ft band where fish are marked. **Strikes often come on the drop.** Both cadences stand; pick by whether your marks are suspended or pinned.
-
-**3 — Deep marks on a high spot, fast drift → slow-pitch / vertical jigging.**
-**130–250 g** wing-fall jigs, **150–300 ft** band, bit best 150–180 ft (`lures/knife-jigs.md`, `techniques/slow-pitch-jigging.md` via the router). Weight rule: **~1.5 g per foot of depth** for slow-pitch, **~1 g per foot** for a speed jig; in a fast drift go **longer and more slender**, in slack go **fatter and more fluttery**. They typically **bump it on the fall, then you wind tight.**
-
-**4 — Fish visible but not biting (the Coronados' signature state) → flylined bait, downsize leader and hook, and wait for the window.**
-Gear: **40–50 lb flyline class** per the yellowtail gear summary; the flyline/soft-rod class is ~9 ft, MH, fast, ~30–65 lb. **Drop leader size, put live bait in the water, and anchor the plan to the daily bite window rather than grinding through it.** On a neap day, the window is more likely tide-driven than clock-driven.
-
-**5 — Bottom bait presentation on the same marks → dropper loop.**
-`techniques/dropper-loop.md`: hook off a **dropper-loop knot or spider hitch**, **err long on the loop** for more bait action, **sinker 6–10 oz** at the bottom; **if the current is heavy, up the weight**; sinker weight tracks drift speed, not just depth. Nose-hook the bait (weight is on the line).
-
-## Anchoring — get this right or the yellowtail will beat you
-
-`planning/search-and-glassing.md`:
-- **Grade first, then commit.** Idle over the high spot, mark the peak, **re-drive the same track** to confirm bait/fish sign, and only then set up.
-- **Drop the anchor into the sand patch beside the rock, not on the rock** (`6DzbsElGE7E`); the same presenter frames it earlier as anchoring **in front of the structure so your lines drift back onto it** (`xI9tPJFXbUM`) — same effect, both stated.
-- **Midwater/gamefish → anchor up-current, standoff scaled to current strength**, so chum and baits sweep down onto them.
-- **Yellowtail specifically → anchor further still**, so a hooked fish has room before it reaches the structure. This is the break-off rule and it is called out for yellowtail by name.
-- **Rode:** chain-and-rope, never all-chain (Hansen, repeated across two videos — high confidence on the structure of the rode).
-- Expect the sounder to **blank the bottom while you back down** — that's aerated water under the hull, not a fault.
-- If a spot is too deep to anchor, **set the drift instead** (Scotty/Brothers Sportfishing, `_ZThckj2TIM`, high confidence): stop, note the position, watch which way wind and current move you, then start up-drift; the outboard angled off the keel line works as a rudder to steer or slow the drift, and a drift sock slows a fast one.
-
-## The rest of the card — because October is scattered
-
-`seasonal/october.md` calls October an **everything season but scattered**, so build a variety fallback rather than a single-species day.
-
-- **Calico bass** (`species/calico-bass.md`): fish **edges and pinch-points** — leading edge, outside edge, isolated stringers — **not the dense middle**. **Current, not calendar or tide**, governs, by the same parallel rule. Gear: **7–8 ft graphite-composite bass class, 40–60 lb**, a **7″ weedless slug on a 3/8–3/4 oz keel-weighted spring hook**, **40–65 lb fluoro leader** for kelp abrasion; **10–25 casts to the prime edge, then move** 100 ft or 100 yards. Beds re-bite — come back later. Ribbon Kelp, 5-Minute Kelp, South Kelp Ridge and Middle Grounds are the named kelp/structure spots in the library.
-  - **The October wildcard worth watching for:** **grunion-in-kelp events override water quality entirely** (`OYOda6T3f-8`, 10/20/22) — every-cast bass in ugly, stagnant water you'd normally skip. The tell is a **mixed bird pile *on* kelp/structure**. If you see it, drop everything and match the bait.
-- **Bonito** (`species/bonito.md`): boil **up outside the kelp**; sportboats "doing good on the bonito" is a common fall-fragmentation island line, and they **persist later into the season than many nearshore species**. Small chrome jigs / surface iron into the foam, or a flylined small bait. Also a **life indicator** — a bonito boil tells you the zone is living water.
-- **Barracuda** (`species/barracuda.md`): kelp lines and boiler rocks, mixed into the bass and bonito. **Fast, flashy retrieve** — they chase a moving target. The one gear change is a **bite tippet: short single-strand wire tied with a haywire twist**, or heavier hard mono as the line-shy compromise.
-- **Rockfish** on the vicinity spots (Coronado Canyon, North of North Island, Lower 9 Mile, East of Pukey Point). `species/rockfish-lingcod.md`: hard bottom, dropper loop or **200–250 g knife jigs**, squid or cut bait; **reds and lings chase bait up off the bottom — fish the column just over the rock, not only the bottom line.** Regs: California limits do not apply; **verify Mexican/Baja regs separately.**
-- **Kelp paddies on the run out and back** (`conditions/kelp-paddies.md`): **drive right up to it like it's the dock** — a paddy is not spooky. **Check fast: look for visible fish, check the meter for boomerang-shaped arcs typically 90–120 ft down, give it about a minute or two, one bait, then move** (`ZFqe49jRgA0`). **A dry paddy stays dry all day** — fish only move paddy-to-paddy at night (`4xzK7YaXK5s`). If one produces, **search its line**: paddies align **N–S in open water** under the uphill current, and **along the contour near a bank edge**. Note the KB's paddy-water geography puts the best paddy water **south of Catalina/San Clemente and from Dana Point southward** — you're in that band.
+**One more layer that's specific to this zone:** Cameron's own practice is watching **sportboat AIS stop/start patterns at the Coronado Islands** (e.g. the Grande, MMSI 366746210) as "one of the most valuable data sources he has for learning the islands" (`planning/fleet-intelligence.md`, source `cameron`). That's third-party-observed and hard to fake. **VHF chatter is the opposite** — Hansen states outright he has used the radio to pull competing boats off his own program with a fabricated "wide open" call, and that anglers who are actually on fish don't broadcast it (`planning/fleet-intelligence.md`, `9hEa3sGTh40`). Working channels offshore SoCal are **72 or 65**. And **"go fishing for fish, not for boats"** — a cluster of sportboats is usually one boat stopping and the rest following it over (`ZFqe49jRgA0`).
 
 ---
 
-# 4. A suggested two-day shape
+## 5. The program: yellowtail, three faces, three rods rigged at once
 
-**Day 1 — read the group, then commit.**
-1. Bait first. Barge sardines if available; **sabiki mackerel at the islands, ~100 ft, 8 oz** — and remember mackerel is the bait that filters your catch toward yellowtail.
-2. **Start in gray light if you can.** The one timing data point the KB gives for yellowtail feeding is from Ensenada (`0dIwWiOc1NY`, medium confidence, unregistered channel): **yellowtail feed hardest during gray light early in the morning** — a crew there attributed a blank stop to fishing after that window with the tide "off." That argues against the ~8 am departure norm in `profiles/cameron/boat.md` for this particular trip.
-3. **Read the current once** — kelp lean, chum drift angle — and then pre-judge all seven spots from it (spatial coherence). Skip anything sitting on off-the-beach current.
-4. Work the north end down (Pukey Point → Middle Grounds → Ribbon Kelp → Lighthouse → 5-Minute Kelp → South Kelp Ridge), **grading each on the meter before you commit bait** — every stop on an ungradeable mark is a bait budget you spend for nothing. Verify **temp and color spot to spot**; the group's spread is real.
-5. **Be on your highest-percentage spot an hour before the tide change**, fishing when it hits.
-6. **Turn for home ahead of the afternoon W build.**
+Yellowtail is the router. `species/yellowtail.md` frames them as showing three faces — **boiling/breezing surface fish, paddy yellows, and bottom/structure yellows** — and is explicit that these are **"outputs of water temperature and bait depth acting on one population — states, not fish types"** (source `cameron`). The same fish roam the column and **feed looking up**.
 
-**Day 2 — spend day 1's information.**
-- Your own day-1 marks are the best intel you will have, and they age differently than a fleet report: `planning/report-reading-and-forecasting.md` puts open-water bluefin at **10–15 nm overnight** and low single-digit mph intraday, but **structure fish on a rockpile are not that problem** — go back to the spots that graded out, at tide time, per the fathom-curve worked example.
-- If day 1 said "seeing not biting," day 2 is a **window discipline** day: pick the two best spots, arrive an hour before each change, run the flyline outfit with a downsized leader, and be patient instead of driving.
-- If day 1 said dead water — no current, bait pointing every direction, marks not converting — that is the **treadmill-off** read, and the answer is **reposition to where current is running or wait for the change**, not more casts.
-- Only extend offshore (Lower 9 Mile at 66.2, or the KB-named compact spots further out like 371 at 32 16.200 / 117 32.800) if you actually find an **edge**. On the numbers you gave, there is no offshore warm cell pulling you out there, and the October fish that do condense offshore are condensing toward **Tanner and Cortez**, which is not a Coronados-trip destination.
-- **Fleet as a data layer, not a destination:** `planning/fleet-intelligence.md` — "**go fishing for fish, not for boats**"; a cluster of boats on a spot is usually one boat stopping and the rest following. Cameron's own verification-oriented use is **AIS stop/start tracking on Coronados sportboats** (e.g. the Grande, MMSI 366746210) as a learning layer, which is exactly the kind of thing a two-day trip is good for building.
+**The operating doctrine for your two days (Cameron, `species/yellowtail.md`): rig the surface-iron outfit, the heavy yo-yo/dropper outfit, and the flyline outfit SIMULTANEOUSLY, and switch as the read (temp + bait depth) changes.** No situation locks you to one presentation — the table below is starting ranks, not exclusive routes.
+
+Also on record and unreconciled, which matters in October: **Cameron holds that calendar date doesn't matter for yellowtail — water state (temp + bait) does**, kept side by side with the corpus year-anniversary prior (`species/yellowtail.md`). Worth knowing because the KB's Coronado yellowtail entry is filed as **"the warming-transition (spring) classic"** — so you're fishing a zone whose corpus prior is a spring one, in a fall month. Cameron's water-state doctrine is what justifies going anyway.
+
+### Situation → technique → gear (from `species/yellowtail.md`)
+
+| Situation | Do this (ranked) | Gear class |
+|---|---|---|
+| Boiling/breezing surface fish, or fish on/around a kelp paddy | 1) **Surface iron** 2) flylined bait 3) stickbait/jerkbait | Jig-stick class; 40–50 lb flyline class; 20–50 lb heavy bass-stick for the hard bait |
+| **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) **Yo-yo iron** 2) **dropper loop** | 40–60 lb class stout rod + high-ratio reel |
+| Deep marks on a high spot, fast drift | Slow-pitch / vertical jigging | Slow-pitch / knife-jig class, **130–250 g** |
+| **Fish visible but not biting** (seeing-not-biting) | **Flylined bait; downsize leader/hook; wait for the window** | 40–50 lb flyline class |
+
+Note the fourth row is the Coronados row. When they're showing and not eating: **live bait, drop leader size, anchor the plan to the daily bite window** — don't burn the day changing jigs.
+
+### The core doctrine numbers
+
+- **Heavy full-size irons (Salas 6X class) work the majority of the time on structure fish; vertical/flat-fall jigs 100–180 g depending on current are the change-up** (`species/yellowtail.md` Doctrine, `D5DR7Kx42_A` — the Coronados/BOLA roundup, high confidence).
+- **Structure/bottom yellows:** *"We see tight balls of yellowtails hugging the structure, so you drop something with weight to get down there and provoke a reaction bite"* (`D5DR7Kx42_A`).
+- **Slow-pitch band:** 150–300 ft, **bit best 150–180 ft** (`vqsD0qpwcJA` / `Jtf-bU4aM-c`). At the island proper you're likely shallower than that; the Coronado Canyon / Lower 9 Mile side is where that band lives.
+
+### Surface iron (`techniques/surface-iron.md`)
+
+- **Distance is the technique**, but **placement beats distance** — landing the jig ON moving fish beats a longer cast past them.
+- **The cast:** hang the jig about a **leader length below the tip — roughly 18 in**; take the rod to **2 o'clock**, let the blank load, sweep through to **9 o'clock**, turning the wrist slowly. The rod does the work; the commonest error is shoving with the arms. Pendulum by moving the tip **up and down**, not side to side (`VpW91AKOFVQ`, Scotty/Brothers, high confidence).
+- **Retrieve:** start winding the instant it lands; a **steady grind, tip pointed DOWN at the water** — tip up pulls the iron onto the surface and it stops swimming (`VpW91AKOFVQ`; `3dVc-2rsYII` Hansen, high confidence). **Speed up for yellows.**
+- **Coronados-specific, and useful:** *a big school at the Coronado Islands will often eat on a **faster, less exacting retrieve**; the smaller mainland schools from **Del Mar down to Imperial Beach** run markedly more finicky and need the retrieve dialled in precisely* (`VpW91AKOFVQ`). Don't over-finesse it at the islands.
+- **Wind up → heavier iron** (Salas 7X class) to punch the cast out (`D5DR7Kx42_A`). Your afternoon NW 12 kt is the trigger.
+- **Hookset: wind through it, don't swing.** Roughly 9 of 10 strikes come as the fish grabs the swimming iron amidships and shakes it ("dog boning") before turning — a swing jerks the jig out of its mouth and ends the shot; winding keeps it in the zone for a repeat bite. **Crank as fast as you can once bit until line starts peeling out the other way** — that's the tell you're actually hooked up (`3dVc-2rsYII`, `KLoEJInlmZo`, Hansen, high confidence).
+- **Reeling too fast is called out as the single most common mistake** — when fish you can see, and have caught on that jig before, won't eat, **suspect retrieve speed before you change jigs** (`3dVc-2rsYII`).
+- **Weight:** a surface iron generally runs **2–3 oz**, distinctly lighter in the hand than a **5–6 oz** yo-yo iron (`VpW91AKOFVQ`, high confidence).
+
+### Yo-yo iron (`techniques/yo-yo-iron.md`)
+
+- **Position up-current of the mark** so the drop sweeps down onto the structure. **Free-spool the iron straight to the mark**, thumbing the spool so it falls under light tension and tracks straight down instead of scoping away.
+- **The retrieve is one thing: wind as fast as you can, all the way up.** The strike is a reaction to the fleeing iron; there is no finesse cadence. No hit → drop back and rip it again.
+- **A heavy iron is mandatory** so it reaches the zone and stays vertical in current.
+- **Conflict, kept side by side:** Hansen defines yo-yoing as a repeated **crank-then-freespool cycle that stays down in the strike zone**, not one continuous wind to the surface (`wzI0lpgKT1U`, high confidence). Both are in the KB unreconciled — on a neap with weak current I'd try the crank-and-drop cycle when the full burn isn't producing.
+- **Iron:** Salas 6X / Salas CP 105 type. **Traditional yellowtail yo-yo colours: scrambled egg, and blue and white** (`A70kK2niu2Q`, medium confidence).
+
+### Dropper loop (`techniques/dropper-loop.md`)
+
+- **Sinker at the very bottom, 6–10 oz; hook(s) on the loop above it.** A **longer loop gives the bait more action — err long.**
+- **If the current is heavy, up the weight** until it holds bottom; under-weighting drags the sinker off the structure and the bait leaves the strike zone. (On a neap, expect to be at the **light end** — a 6 oz was run on a low-drift day.)
+- **Deadstick in the rod holder is the default** — one to two, even three dropper rods soaking while your hands work an iron. More lines in the water, more bites.
+- **The retrieve once hooked up: slow, steady wind, all the way to the surface. No jerking, no pumping** — jerk-and-wind-fast winds the fish off the hook (`U-dGRQ0X-Mc`, Hansen, San Clemente).
+
+### Flyline (`techniques/flyline.md`)
+
+- This is your **seeing-not-biting** answer. Yellowtail flyline build: an **8–8'6" rod, lighter action, rated 20–40 to 20–50 lb**; braid backing to **80–100 yd of 30 lb mono top shot**, then **4–6 ft of fluorocarbon in 25 or 30 lb** — **25 lb gets bit a little better, 30 lb gives the leverage to turn a fish off rocks or kelp**. Hook to bait size: **2/0** for jumbo bait and smaller mackerel, **1/0** for smaller sardines and anchovies (`A70kK2niu2Q`, `LTCFjqtSI8g`, medium confidence).
+- **Run 4–6 ft of fluoro even though ~3 ft is enough** — fishing 25 lb means cutting and re-tying after every fish to clear nicks, so the extra length is buffer.
+- **Distance beats weight.** Get the bait **beyond everybody else's**, into its own zone. Adding a split shot or slider to help the cast is a crutch, not an upgrade — **no weight, hook tied direct** (`gKrYKvqHUjk`, Hansen).
+- **Match line weight to the BAIT, not just the fish**: 40 lb to flyline a mackerel, but drop to a **15–20 lb** setup if you're on anchovy — a small anchovy can't swim 40 lb line through the water (`gKrYKvqHUjk`).
+- **Hooks:** J hooks are the stated recommendation for yellowtail (circle hooks for bluefin) — `species/yellowtail.md` via `UfuiWFVvz2E`, corroborating `tackle/hooks.md`.
+
+### Gear, in class terms and resolved
+
+Class terms (`tackle/gear-classes.md`) → the profile lookup (`profiles/cameron/rods.md`, `profiles/cameron/tackle.md`). If you're not fishing Cameron's profile, use the left column:
+
+| Job | Class | Cameron's resolution |
+|---|---|---|
+| Surface iron | Jig-stick class, 8–10 ft, casts 2–4 oz, ~25–60 lb | **Torium setup** — Phenix Abyss 10'0" 25–60 lb + Torium 20HG, 50 lb braid |
+| Yo-yo / sinker rigs / dropper | Yo-yo heavy-iron class, ~8 ft XH 40–80 lb, fast crank | **Trinidad 40** — RCJB96XH 8'0" XH 40–80 lb, 80 lb braid |
+| Flyline | Flyline/soft-rod class, ~9 ft MH ~30–65 lb | **Avet setup** — Teramar TMC90MHB2 9'0" + Avet MXJ, 50 lb braid |
+| Utility / lures | Utility inshore baitcast class | Tranx or Lexa 400 |
+| Slow-pitch (if you work the deep band) | SPJ class, PE1.5–2, 130–250 g | **Open item — Cameron doesn't own one yet** |
+
+**Line/leader for the iron:** the standard build is ~**80 lb braid main, a short 50 lb / ~18 in mono-fluoro leader to a 100 lb clip** tied straight to the iron so you can swap without re-tying (`techniques/surface-iron.md`). Run the **thinner end of your top-shot range on irons specifically** — a thick top shot dampens the swimming action in a way it doesn't on a stickbait or popper (`F7jLrt2j2X8`, Cesar, medium confidence).
+
+**A directly on-point top-shot datum:** one angler sizes his iron top shot **by location — 40 lb mono for the full-day-accessible islands (Coronado Islands, Channel Islands, Catalina), 50 lb for overnight-range destinations and anywhere in Baja**, on the reasoning that the overnight spots carry a genuine trophy shot at any moment (`LTCFjqtSI8g`, Ray Sharifi, unregistered channel — medium confidence). Attributed, not doctrine.
+
+**Owned irons that fit (`profiles/cameron/tackle.md`):** JRI-7 (light blue, ~Tady 45 class, medium-fast — the local/kelp all-rounder), Strictly Irons Glory (light blue, wide drawn-out kick, slow and steady — **the change-up for picky bites / slack current**, which is your neap scenario), Strictly Irons Mighty (tan, medium-to-high speed), Squidco Candy Bar SR Lite (scrambled egg, 3 oz), JRI-5 (biggest, slow-to-medium on heavy line), Nomad Slidekick 120g (4.25 oz — heavier, can be **sunk out to cover the column**, which is your wind-day punch-through jig). **Yo-yo: Salas 6X (blue) and Salas CP 105.**
 
 ---
 
-# 5. Fish care (plan it before you land one)
+## 6. Shape of the two days
 
-`fish-care/tuna-care.md` carries the only yellowtail-specific bleed data point in the KB (`Klfb433I3Uk`, San Clemente, 2019-10-04, unregistered channel — medium confidence; the note flags that **no dedicated yellowtail bleed-and-chill note exists**): as soon as the fish is on deck, **cut the artery**, hold the fish **upside down in a bucket**, **~5 minutes** is enough for the blood to pump out, then **on ice**. The tuna chain in the same note is bleed → **field-dress (guts and gills out)** → **wet-towel cooldown** → chill.
+**Day 1 — grade the group, don't try to fish all of it.**
 
-`fish-care/dorado-and-general.md`, general principles for every species: **salted slurry — about 2 cups of rock salt per 7–10 lb bag of ice, plus a splash of seawater**, which is what drops the mix below freezing; **keep fish cold and out of the sun**; **never rinse in fresh water**; and **bring a car cooler for the drive home** — the cold chain has to survive past the dock, which matters more on a two-day trip than a single day.
+- Depart early enough to be fishing before the 8 kt fills. Cameron's normal ~8 am departure (`profiles/cameron/boat.md`) is too late for this wind pattern.
+- **Bait first** (section 7), then run to the island.
+- **Read the current once on arrival** and pre-judge the whole spot list off it (`conditions/current-structure.md`). Deploy the **chum bucket as a deliberate current sensor** — it's an artificial "thumb over the hose" and its drift line is a live reading (`planning/search-and-glassing.md`, `conditions/current-diagnostics.md`). **Chum drifting straight back off the stern = wind-dominated lay; chum swinging off at an angle to the boat = real current cutting across** — that angle is your direction sensor.
+- Work the **kelp spots** (Ribbon Kelp, 5-Minute Kelp, South Kelp Ridge) on the appropriate corner for the current direction, and grade **East of Pukey Point** — the one spot the library flags for yellowtail.
+- **Get off the water ahead of the afternoon build.** Don't push the last hour.
+- Log the current direction, which spots had bait/marks, and the tide time of anything that popped. That's Day 2's plan.
 
-Ice: Cameron's own panga load is **100–125 lb per trip** (`profiles/cameron/boat.md`) — a two-day trip is where that number gets tested.
+**Day 2 — return to your own marks at tide time.**
+
+The KB's template for exactly this, from the island fathom-curve worked example (`locations/island-structure.md`, `conditions/current-structure.md`, 8/31/22):
+
+1. One popped fish appears near the structure.
+2. **Identify the structure that fish related to** — treat it as a signal, not noise.
+3. Run it **slowly** and wait. **Do NOT sprint to where the fleet went.**
+4. **Return to your own marked positions at tide time.**
+
+The governing rule, near-verbatim: **"sign associated with structure is a repeatable decision; sign in no-man's-land is low value."**
+
+Two more Day-2 disciplines:
+- **Pop-ups cluster at the late-morning slack and again in the afternoon — re-run the water you marked yesterday at those tide times** (`conditions/tide-and-slack.md`).
+- **Beds and spots re-bite.** The calico framework generalises: **10–25 casts to the prime edge, then move**; if they're not on the prime spot they're usually not in the bed — but **come back later** (`species/calico-bass.md`, Ep. 13).
+
+**Secondary targets if the yellowtail don't play** (all supported, all thin in the corpus for this zone):
+- **Calico bass** on the kelp — weedless swimbait to the stringers, or surface iron along the kelp line; **heavy fluoro leader (40–65 lb) for kelp abrasion** (`species/calico-bass.md`). Note the October wildcard: **grunion-in-kelp events override water quality entirely** — every-cast bass in ugly, stagnant water you'd normally skip; the mixed bird pile *on* the kelp is the tell (`seasonal/october.md`, `OYOda6T3f-8` 10/20/22).
+- **Bonito** — "sportboats doing good on the bonito" is a common line in the fall-fragmentation island reports; they boil **outside the kelp** where you can pull off a structure spot and cast into the foam. Small chrome jigs, downsize to the bait. Treat a bonito boil as a **measure of life** — it tells you the zone is productive (`species/bonito.md`).
+- **Barracuda** — kelp lines and boiler rocks, same water as the bass, mixed-bag component; **they have real teeth, so the terminal end changes** when you target them (`species/barracuda.md`).
+- **Rockfish** on the Coronado Canyon / Lower 9 Mile / North-of-North-Island marks. Meter-and-chart fishery, no surface sign; **at the islands current is as important as bait — a spot with no current will meter fish that won't bite** (`species/rockfish-lingcod.md`). **California rockfish regs do not apply in Mexican waters** — see section 9.
+- **Kelp paddies on the run:** the KB puts the best paddy water **south of San Clemente/Catalina and along the coastal strip from Dana Point to Oceanside and southward** (`locations/bight-geography.md`, `HzE4FHHcvTk`). Check any paddy **fast** — a look, a sounder pass, one bait; **seconds to a minute or two, not twenty** — then move. Paddies restock **only at night**, so a paddy sat on for hours won't turn on by waiting (`conditions/kelp-paddies.md`, `ZFqe49jRgA0`). Under a paddy showing no surface activity, look for **boomerang-shaped arcs around 90–120 ft** (`species/yellowtail.md`).
 
 ---
 
-# 6. If this is Cameron's Panga Marine Marquesas 22
+## 7. Bait
 
-Resolved against `profiles/cameron/rods.md` and `boat.md`, the three-outfits doctrine maps cleanly:
+**You have both paths at the Coronados, and the KB says do both.**
 
-- **Surface iron** → the **Torium 20HG on the Phenix Abyss 10'0" (25–60 lb), 50 lb braid** — the full surface-iron setup.
-- **Yo-yo / dropper loop** → the **Trinidad 40 on the 8'0" XH 40–80 lb blank, 80 lb braid** — the heavy setup, explicitly for yo-yo iron and sinker rigs.
-- **Flyline** → the **Avet MXJ on the Teramar 9'0" MH (30–65 lb class), 50 lb braid**, with the **Lexa 400** (9'0" H, ~20–60 lb, 50 lb braid) as the workhorse backup.
-- The **Talica 25 / Fathom 80** are trolling and jumbo-bluefin tools — not needed for this program on these numbers.
-- Boat envelope notes that matter: **35 kt top end, 30-gal bait tank on a single starting battery with the NOCO charger holding it up so the pump can run overnight**, **10 rod holders**, normal launch **Dana Landing, Mission Bay**, home waters explicitly include the Coronado Islands. **Drain the bait tank coming in** — that's heavy stern water on a small foam-filled hull.
+**Make your own — this is a documented Coronados program (`bait/making-bait.md`, source `cameron`):**
+- **Where:** the Coronado Islands (and La Jolla during shortages).
+- **Sabiki to ~100 ft.**
+- **8 oz sinker** to get the string down and hold it.
+- Result on record: **5 twelve-inch mackerel on one drop.**
+- Twelve-inch mackerel are big, hearty baits — **heartier than sardine** (`bait/fishing-live-bait.md`).
 
-If it isn't Cameron's boat, everything above stands in class terms and `tackle/gear-classes.md` is the lexicon; `tackle/rod-and-reel-selection.md` notes that the full five-outfit ladder is the kit for **anything overnight to 2+ days**.
+**Buy sardines at the barge (`bait/making-bait.md`, `7WapaxdtjQg`, Hansen):**
+- **Avoid the 6:00 a.m. rush** — the 3/4-day and half-day sportboats all load then. Go **5:00 a.m. or 7:00 a.m.**
+- **Hail on VHF channel 11** with the barge's name twice plus your boat's name; wait for the response before approaching.
+- **Never board the barge** — ask the attendant for help instead.
+- **Tell the attendant you want it loaded light and you're not in a rush.** Treat him well; tip at the end.
+- **Floor, not a target:** **at least three scoops every time you run offshore** — bait gets used to throw, to chum and to fish with, and there's no topping off out there (`bait/bait-tanks.md`, `9hEa3sGTh40`).
+
+**Fishing it (`bait/fishing-live-bait.md`):**
+- **Match the hatch** — sardine isn't always the best option, and when the gamefish are chewing mackerel a live mackerel out-fishes a sardine (`mscHk0qiXnk`).
+- **Hook position by the swim you want:** **nose** (clear spot in front of the eyes) is the all-purpose — flyline, slow-troll, and it's what sends a bait down a **dropper loop**; **belly** sends it down and away; **collar/shoulder** keeps the line up out of the water; **butt** flylines great, swims away and a bit deeper, and **defeats sea lions at the islands that pick off nose-hooked baits** (`T3p1mrqNjIo`, `8YvmROeVL-0`). **Trade-off: the butt hook draws blood, so that bait doesn't last as long** (`ZggReeO1nyU`, Hansen).
+- **Keep it active** — wind in and cast back out rather than letting a bait sit idle; keep a bait presented since the yellowtail are moving through (`species/yellowtail.md`, `D_Y2G0rBZCs`).
+
+**Cameron's tank (`profiles/cameron/boat.md`):** 30 gal, Rule 401 Tournament 500 GPH, running off the **single starting battery** — a NOCO GEN5X1 was added July 2026 specifically to hold the battery up while the bait pump runs overnight. If you hold bait between the two days, that charger is the plan; the boat has no house battery and no shore-power inlet.
 
 ---
 
-# 7. What this knowledgebase could not tell you
+## 8. Search, anchoring and the meter
 
-Listed so you know exactly where to go get it elsewhere:
+**Glassing (`planning/search-and-glassing.md`):**
+- Glass from a **full stop**, or bow into the swell at **~1 kt** — you can't glass off a rolling boat.
+- **360° in small increments, 3–4 minutes per full scan.** When you catch a bird, **watch it 30–40 seconds** before judging it.
+- Ranges: a few terns at **~0.5–1 mi**, a big bird spot at **~2 mi** from deck level; from a hardtop, birds to ~2 mi and dolphins to ~4 mi. **Space glass stations 3–4 mi apart.**
+- **Along a bank, run the contour at 16–18 mph with a lookout ~30° off each bow.**
+- **Gray-calm mornings:** scan down-swell a quarter-mile out and watch **kelp paddies roll over the swell crests**.
+- *"If you're not burning batteries every trip or two, you're not looking enough."*
 
-1. **Every part of your permits/papers question** — Mexican fishing licence, vessel paperwork, immigration, customs, border-crossing procedure for a private boat. Nothing in the KB.
-2. **Mexican bag, size, and gear limits** for anything you'd catch there.
-3. **Any October record of the Coronados** — the KB documents this zone as the spring classic.
-4. **What chlorophyll 0.9 means numerically** — no scale, no threshold anywhere.
-5. **Any SST number for yellowtail** — no on/off temperature for the species.
-6. **Per-spot detail for the seven Coronado spots** — depths, contour shape, kelp extent, which current direction each one fishes. The library gives coordinates; `locations/island-structure.md` gives only the generic typology.
-7. **Whether these spots are quick reads or all-day search boxes.**
-8. **Overnighting** — anchorages, whether to run home between days, and the whole logistics layer (fuel, float plan, safety gear, comms).
-9. **Your actual tide times** — the KB has the timing rules, not the data.
-10. **Mission Bay / Dana Landing entrance exposure** — the KB has San Diego Bay's swell window only.
+**Birds (`conditions/bird-reading.md`):** **terns are the best bird**, and both voices agree. **Locked-in repeated dives on one spot = bait only; a MOVING dive-line = bait being pushed by fish underneath — that's the one to run on** (7/21/22). Cameron will follow working terns offshore even with no other birds working. Finer read: **birds actively diving = the school is surface-feeding; birds off the fish = the school is still there but "puddling,"** not gone (`A6DJoXbID4c`).
+
+**Anchoring (`planning/search-and-glassing.md`):**
+- **Bottom fish → anchor on the spot.** Grade the mark with **repeated passes** — idle over the high spot, mark the peak, turn around and re-drive the same track to confirm bait/fish sign — then **drop the anchor into the adjacent SAND, not on the rock**, so your lines drift back onto the structure (`6DzbsElGE7E`, `xI9tPJFXbUM`, Hansen — repeated doctrine, high confidence).
+- **Midwater / gamefish → anchor UP-CURRENT, with the standoff scaled to current strength** so chum and baits sweep down onto the fish.
+- **Break-off risk (yellowtail) → anchor further still**, so a hooked fish has room before it reaches the structure. That's your setting at the Coronados.
+- **Sportboat trick worth stealing:** at anchor, **chum gets pushed UP-current toward the bow by the fish themselves** — watch for **birds locking on up there and put the surface iron under them** (7/14/22).
+- **If they mark but won't bite at anchor, try drifting over them instead** — position above the marks and let the boat drift through, on the idea that the fish want more motion in the presentation. That move brought a dead bite back on (`97clKtVsEOs`). Pair this with the "treadmill is off" read from section 3.
+
+**Sounder (`planning/electronics-and-sounder.md`):**
+- **Run manual range, not auto** — repeated across three Hansen videos, high confidence. Working range **0–120 ft on older machines, 0–150 ft on newer.** On auto with the real (deep) bottom set, a school shrinks to a barely visible speck; on manual it paints as a large, distinct **upside-down-U** (`9hEa3sGTh40`).
+- **Size the range so the bottom sits mid-screen, not pinned at the edge** — that leaves room to read hard vs soft bottom and to pick fish and bait out of the column above it (`FEXgl0eQCa8`).
+- **Bottom hardness by return thickness, any brand:** thin faint line = sand/mud; thickening and darkening = rock (`6DzbsElGE7E`).
+- **Yellowtail sit exclusively on hard bottom — "they're not going to be out in the mud"** — so read bottom hardness to decide whether a spot is worth working *before* you look for fish sign on it (`species/yellowtail.md`).
+- **The yellowtail read: tight balls hugging structure, arcs / boil-ups at ~5–10 fathoms near structure.** And **a thin, lighter mark riding HIGHER than the bait ball can be the yellowtail itself**, pushing bait up off the rocks — **that's the sign to commit the anchor, not the bait pile alone** (`species/yellowtail.md`, `D5DR7Kx42_A`, `6DzbsElGE7E`).
+- **Stop only on marks you can grade — it's a bait budget.** Every stop on a no-name mark burns bait and time.
+- **Photograph the meter during bites** to build your own library of marks that paid off.
+- Cameron's plotter is a **Garmin GPSMAP 840xs** (`profiles/cameron/boat.md`).
+
+---
+
+## 9. Papers and permits — **the KB does not cover this**
+
+I have to be straight with you: **you asked the one question this knowledgebase cannot answer.**
+
+I searched the whole KB. There is **nothing** on:
+- a **Mexican sportfishing licence** (CONAPESCA) for anglers,
+- a **Mexican boat/vessel permit** for a private boat fishing Mexican waters,
+- **FMM / tourist permit or visa** requirements,
+- **temporary import** paperwork for a boat or trailer,
+- **Mexican liability insurance**,
+- **US CBP reporting on return** from foreign waters,
+- **Mexican bag, size or season limits** for yellowtail, calico, bonito, barracuda or rockfish,
+- **customs, immigration or check-in procedure** at the border or at sea.
+
+**Do not treat anything above as clearance to fish.** The Coronados are Mexican waters — `species/yellowtail.md` states it plainly (*"~13 mi from San Diego, off Mexico"*) — and the KB's own rule is that regulatory claims must carry jurisdiction, an as-of date, and a verify-current flag (`CLAUDE.md`). It carries none for Mexico, because the corpus has none.
+
+**The four fragments that exist, so you know exactly how thin this is:**
+
+1. **The KB's only Mexico sportfishing-regulation datum anywhere** is a crew member on camera at East Cape, Baja California Sur (2019-02-13) saying a **circle hook was "mandatory"** — the note itself reads this as a Mexican regulatory requirement and flags it **"as of the 2019-02-13 video date — verify current CONAPESCA/DOF circle-hook rules before fishing," not independently confirmed against the regulation text** (`techniques/flyline.md`, `GptrotE0x5M`). That is **Baja California Sur, not Baja California Norte**, it is seven years old, and it is unverified. It is not guidance for your trip.
+2. The only mention of Mexican fishing permits as a *thing you obtain* is incidental logistics on a Cedros charter — a group "reached by small-plane charter out of Ensenada with **Mexican fishing permits obtained in Tijuana**" (`species/calico-bass.md`, `xIUKmH9ccgQ`). A note about how one operator did it in 2012, not a procedure.
+3. **`species/rockfish-lingcod.md` explicitly warns that California rockfish regs — the year-end closure, the depth limits — do NOT apply in Mexican waters "in any case; verify current Mexican/Baja regs separately before fishing there."** So the KB's CDFW rockfish content is actively *not* applicable to your Coronados bottom-fishing.
+4. The KB's only worked example of a fishing-licence requirement is **California**: `species/california-spiny-lobster.md` documents that lobster needs **two** documents — a California fishing licence **plus** a lobster report card. That's a CDFW example and irrelevant here except as a reminder that "one licence" is often not the whole answer.
+
+**What I'd do:** get the current requirements from the Mexican authorities and from CBP directly before the trip, and if a California licence matters for any leg (e.g. anything you fish inside US waters on the run out or back), confirm that separately. I'm not going to guess at it from general knowledge — the whole point of this KB is that a claim without a source and an as-of date isn't a claim.
+
+---
+
+## 10. Fish care
+
+Once the fish is aboard (`fish-care/dorado-and-general.md`, `fish-care/gaffing.md`):
+
+- **The salted slurry:** **rock salt, ~2 cups per 7–10 lb bag of ice**, plus a splash of seawater to wet it. The salt is what drops the mix below freezing.
+- **Get fish cold fast and keep them out of the sun.**
+- **Never freshwater-rinse.** Salt water only, whole fish and fillets alike.
+- **Bring a car cooler for the drive home** — plan the cold chain past the dock.
+- **Gaffing:** yellowtail up to **40–50 lb** fall in the **3-in hook / ~6-ft gaff** class. ⚠ Note this note sits at **low confidence** — it's from a sponsored gaff spot and the registry caps those regardless of content.
+- Cameron's boat carries **100–125 lb of ice per trip** (`profiles/cameron/boat.md`) — that's your slurry budget for two days.
+
+**Fillet storage (`fish-care/dorado-and-general.md`):** ice-saltwater soak before bagging, dry before freezing, water-displacement bagging for a near-vacuum seal without a machine. Refrigerated ~3 days; vacuum-sealed frozen 1–3 months; plain ziplock frozen ~1 week to 1 month.
+
+---
+
+## 11. What the KB could not tell me
+
+Listed so you know where to fill in from elsewhere: Mexican permits/licences/paperwork and Mexican bag-and-size limits (section 9); any numeric meaning for chlorophyll 0.9; per-spot structure, depth or preferred-current detail for the seven named Coronado spots; tide times for your dates; anything about overnighting at the islands; a documented October Coronados yellowtail prior (the KB's Coronado prior is a spring one); and a yellowtail break-side rule (the KB has those only for bluefin, yellowfin and dorado).
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `planning/fleet-intelligence.md`, `seasonal/october.md`, `seasonal/september.md`, `conditions/water-regimes.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/kelp-paddies.md`, `conditions/bird-reading.md`, `locations/bight-geography.md`, `locations/island-structure.md`, `locations/zone-lexicon.md`, `locations/bightsst-eval-targets.md`, `species/yellowtail.md`, `species/calico-bass.md`, `species/bonito.md`, `species/barracuda.md`, `species/rockfish-lingcod.md`, `species/yellowfin-tuna.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `bait/making-bait.md`, `bait/fishing-live-bait.md`, `bait/bait-tanks.md`, `lures/iron-jigs.md`, `lures/knife-jigs.md`, `tackle/gear-classes.md`, `tackle/rod-and-reel-selection.md`, `fish-care/tuna-care.md`, `fish-care/dorado-and-general.md`, `sources/spot-lists.md`, `profiles/cameron/boat.md`, `profiles/cameron/spots.md`, `profiles/cameron/rods.md`  
-*videos:* `D5DR7Kx42_A`, `YZtX1MiT0y8`, `XLVUhV8DW64`, `OYOda6T3f-8`, `5to3Q5P7w90`, `5p6gu14ZC4w`, `HzE4FHHcvTk`, `NC3-3pJDEgo`, `fri_BWI-VA0`, `9tTM99InluM`, `w5_x6kkN-xE`, `ZggReeO1nyU`, `6DzbsElGE7E`, `xI9tPJFXbUM`, `kzD0kSnnVPw`, `ZFqe49jRgA0`, `4xzK7YaXK5s`, `9hEa3sGTh40`, `SgF5hRlEGqU`, `vqsD0qpwcJA`, `Jtf-bU4aM-c`, `Klfb433I3Uk`, `T3p1mrqNjIo`, `8YvmROeVL-0`, `mUrihh0V59M`, `HTssdpnUGMo`, `VpW91AKOFVQ`, `3dVc-2rsYII`, `KLoEJInlmZo`, `wzI0lpgKT1U`, `_ZThckj2TIM`, `0dIwWiOc1NY`, `xIUKmH9ccgQ`, `Rf1HKJG-SDg`, `E4vKwRaRueA`, `2gHRrR3D8rY`, `xPFm_ZV2PZU`, `mscHk0qiXnk`, `Ul5FLB2dFgQ`  
-*gaps admitted:* Mexican paperwork for a private boat fishing the Coronados — fishing licence, vessel documentation, immigration, customs, border-crossing procedure — is entirely absent from the KB; the only Mexico-regulatory traces are an unverified 2019 Baja California Sur circle-hook claim in techniques/flyline.md and an incidental note in species/calico-bass.md that one 2012 Cedros charter's permits were obtained in Tijuana. | No Mexican bag limits, size limits, or gear restrictions for any species; species/rockfish-lingcod.md only states that California/CDFW rules do not apply in Mexican waters and must be verified separately. | No October-at-the-Coronados entry exists — the KB frames the Coronado Islands as the warming-transition (spring) yellowtail classic, so the October program here is assembled from general fall-fragmentation doctrine plus Cameron's water-state-over-calendar rule, not from a documented October Coronados bite. | No numeric chlorophyll scale anywhere in the KB — chlorophyll 0.9 cannot be mapped to 'clean' or 'green'; only the bloom-age and fish-the-edge doctrine applies. | No SST threshold for yellowtail — the KB gives no temperature at which they turn on or off, and no Coronados-specific temperature band. | No per-spot structure detail for the seven Coronado Islands spots (depths, contour orientation, preferred current direction, kelp extent) — sources/spot-lists.md gives coordinates only, and locations/island-structure.md is generic typology. | The KB does not classify the Coronado spots as 'complex' vs 'compact' search boxes, so it gives no basis for budgeting time per spot there. | Nothing on overnighting in Mexican waters — anchorages, whether to run home between days, fuel planning, float plans, safety gear, or comms for a two-day private-boat trip. | No tide times or tide data — the KB carries the timing rules (arrive an hour before the change, late-morning slack after ~9:30) but you must pull an actual tide table. | No swell-exposure note for the Mission Bay / Dana Landing entrance; conditions/sea-state.md covers only the San Diego Bay entrance window (~160-186 degrees). | Sea-lion depredation is documented as general island doctrine (butt-hook counter, free-spool slack trick), not specifically observed at the Coronado Islands. | No October bluefin or yellowfin guidance tied to a 66-67 F, near-flat SST field near the border — the KB's fall pattern condenses bluefin toward Tanner and Cortez, well outside a Coronados trip, and gives no yellowfin temperature floor.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `planning/fleet-intelligence.md`, `seasonal/october.md`, `seasonal/april.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/upwelling-and-turnover.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/sea-state.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/kelp-paddies.md`, `conditions/bird-reading.md`, `locations/bight-geography.md`, `locations/island-structure.md`, `locations/zone-lexicon.md`, `locations/bightsst-eval-targets.md`, `species/yellowtail.md`, `species/calico-bass.md`, `species/bonito.md`, `species/barracuda.md`, `species/rockfish-lingcod.md`, `species/california-spiny-lobster.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `techniques/slow-pitch-jigging.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `bait/fishing-live-bait.md`, `bait/bait-tanks.md`, `fish-care/dorado-and-general.md`, `fish-care/gaffing.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `skills/boat-day/SKILL.md`  
+*videos:* `XLVUhV8DW64`, `OYOda6T3f-8`, `HzE4FHHcvTk`, `YZtX1MiT0y8`, `D5DR7Kx42_A`, `VpW91AKOFVQ`, `6DzbsElGE7E`, `xI9tPJFXbUM`, `NC3-3pJDEgo`, `fri_BWI-VA0`, `9tTM99InluM`, `kzD0kSnnVPw`, `wzI0lpgKT1U`, `U-dGRQ0X-Mc`, `3dVc-2rsYII`, `KLoEJInlmZo`, `LTCFjqtSI8g`, `A70kK2niu2Q`, `F7jLrt2j2X8`, `UfuiWFVvz2E`, `vqsD0qpwcJA`, `Jtf-bU4aM-c`, `7WapaxdtjQg`, `9hEa3sGTh40`, `FEXgl0eQCa8`, `SgF5hRlEGqU`, `97clKtVsEOs`, `ZFqe49jRgA0`, `mscHk0qiXnk`, `T3p1mrqNjIo`, `8YvmROeVL-0`, `ZggReeO1nyU`, `gKrYKvqHUjk`, `D_Y2G0rBZCs`, `A6DJoXbID4c`, `Blh2BA-7Ono`, `S2L3KLSQ6Is`, `5p6gu14ZC4w`, `GptrotE0x5M`, `xIUKmH9ccgQ`, `I84uoay_jwQ`, `E4vKwRaRueA`, `2gHRrR3D8rY`, `aFb221LUoD0`, `Rf1HKJG-SDg`, `6-8KfjEg0x8`, `cameron`  
+*gaps admitted:* Mexican paperwork and permits are entirely absent from the KB — no sportfishing licence (CONAPESCA), no boat/vessel permit, no FMM/tourist permit or visa, no temporary import, no Mexican liability insurance, and no US CBP return-reporting procedure. | Mexican bag limits, size limits and seasons for any species at the Coronados are absent; the KB's only regulatory content is California/CDFW, and species/rockfish-lingcod.md explicitly says CA rockfish regs do not apply in Mexican waters. | The KB's single Mexico sportfishing-regulation datum (a crew member calling circle hooks 'mandatory') is from East Cape, Baja California Sur, dated 2019-02-13, flagged unverified against the regulation text, and is not applicable guidance for Baja California Norte in 2026. | The KB carries no numeric chlorophyll scale, so a value of 0.9 cannot be graded as good or bad — its chlorophyll doctrine is entirely about bloom age and edges, not absolute values. | No per-spot structure, depth, bottom-type or preferred-current description exists for any of the seven named Coronado Islands spots — sources/spot-lists.md gives coordinates only, plus one annotation ('yellowtail & rockfish') on East of Pukey Point. | The KB has no tide tables or tide times, so the tide-window timing that the Coronados 'seeing-not-biting' doctrine depends on has to be sourced elsewhere. | No guidance anywhere on overnighting, anchoring out, or a multi-day stay at the Coronado Islands in Mexican waters — the two days are planned as two day-runs by default. | The KB's Coronado Islands yellowtail entry is filed as 'the warming-transition (spring) classic'; there is no October/fall-fragmentation Coronados prior in the corpus. | The break-side rules in conditions/water-temperature.md cover bluefin, yellowfin and dorado only — there is no yellowtail break-side rule to apply to the SST field. | No documented Coronados bait-history, squid presence, or forage-species prior for October; the squid-zone doctrine in the KB is attached to Santa Barbara Island, San Clemente Island and Catalina, not the Coronados. | Surface-iron colour has no systematic doctrine in the corpus — the note says so explicitly and declines to invent one. | No Coronados run-time, fuel or route detail; the only figure is the '~13 mi from San Diego' distance in species/yellowtail.md.
 
 </details>
 
 <details><summary><b>B3 — batch 3</b> · 12/12</summary>
 
-# Two days at the Coronado Islands, mid-October — the program
+# Two days at the Coronados, mid-October — the program
 
-## First, the thing that reframes the whole trip
+Worked through [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md). I used only the conditions you gave (no BightSST pull), and everything below comes from the knowledgebase — where it has nothing, I say so.
 
-**The Coronado Islands are Mexico.** The KB tags them `baja-pacific-north` and describes them as "~13 mi from San Diego, off Mexico" (`species/yellowtail.md`). That sets both the fishing envelope and the paperwork problem — and the paperwork section below is mostly a list of what this KB does **not** know, because it genuinely doesn't.
+## 1. The envelope (protocol step 1b — binding on everything after it)
 
----
+- **`regions`: `baja-pacific-north`** (the Coronados sit in Mexican water; `locations/regions.md` puts the US-border-to-28°N Pacific side in that region, and `species/yellowtail.md` confirms the Coronados/Ensenada/Punta Banda group is labelled `baja-pacific-north`) **plus `socal-bight`** for the transit and any 9-Mile/Point Loma stop.
+- **`waters`: `island`** primarily; add **`bank`** if you work Lower 9 Mile / Coronado Canyon, **`open-ocean`** if you check paddies on the way.
+- Consequence: this is an **island structure + bait program**, not a bay or beach program, and Sea-of-Cortez-only material (cabrilla etc.) is off the table by the gate.
 
-## 1. The envelope (day-plan protocol step 1b)
+## 2. What your numbers actually say
 
-Per `planning/day-plan-protocol.md`, I set `{regions, waters}` before opening a single species note. For a San Diego-launched two-day run to the Coronados:
+**The SST set doesn't give you a break.** Islands 66.8 / 9 Mile 66.2 / Point Loma 65.9 is a **0.9 °F spread across three points** — that is a gradient, not the sharp edge October doctrine wants. `seasonal/october.md` is blunt about the month: *"conditions become pretty important… look 100 % at your temp chart and chlorophyll"* (`XLVUhV8DW64`, `OYOda6T3f-8`), and `conditions/water-temperature.md` says the value is *"usually not the absolute number but which side of a break a species sits on,"* with offshore edges able to jump multiple degrees in ~1 mi. **You cannot resolve a break from three point values — pull the chart before you commit to a tuna plan.**
 
-- **`regions`: `baja-pacific-north`** (the islands themselves) **+ `socal-bight`** (the transit lane — Point Loma, 9 Mile Bank). Vocabulary in `locations/regions.md`.
-- **`waters`: `island`** (primary), **`nearshore-coast`** (the island kelp/beach edges), **`bank`** (9 Mile Bank and the Coronado Canyon rockfish ground on the way down), **`open-ocean`** only if you glass paddies on the transit.
+**What the numbers do rule in and out:**
+- **Dorado — out.** `conditions/water-temperature.md` puts the dorado concentration at the green-cold/blue-warm boundary around **~71–72 °F**. You are 4–5 °F under it.
+- **Yellowfin — weak.** They want **SST max × chlorophyll min** (`species/yellowfin-tuna.md`, `conditions/water-temperature.md`, `XLVUhV8DW64`/`OYOda6T3f-8`). Your warmest water (66.8) is the islands, and 9 Mile is your *coolest* offshore number — the wrong shape for a yellowfin run.
+- **Bluefin — unresolvable, not excluded.** The rule is relative: cool side of a break in warm water, warm side in cold water (`conditions/water-temperature.md`). With no break in the data, there's no side to pick. Note the 76 °F ceiling is explicitly **soft, not hard** (`9/14/22`), so temperature alone never rules bluefin out — a chart does.
+- **Calico — in.** 66.8 °F sits inside the stated **65–68 °F** preference (`species/calico-bass.md`, Tommy Ponce, `LqW32NSkObY`; medium confidence, past ~70 °F they get lethargic).
+- **Chlorophyll 0.9 — the KB gives no numeric threshold.** `conditions/water-color.md` is all edge-and-age: distinguish a **new cold bloom** (an overnight ~5 °F drop plus green after an afternoon NW blow — skip it now, mark it for recovery) from a **mature bloom edge** (fish it). One number with no neighbours and no history can't be read either way.
 
-What that gate **excludes** outright: everything `cortez-*` (cabrilla, etc.), and the `socal-bight`-only notes — `species/swordfish.md`, `species/opah.md`, `species/california-spiny-lobster.md`, `species/spotted-bay-bass.md`. No hoop-net program in Mexican water off this KB.
+**Sea state — go, with a hard afternoon discipline.** NW 3 ft @ 10 s passes the steepness rule in `conditions/sea-state.md` (flag it when period in seconds approaches height in feet; 10 vs 3 is fine). Dave Hansen's thresholds in the same note (`NC3-3pJDEgo`, medium): **wind over ~12 kt raises whitecaps and is his personal don't-go line**, and **sub-10-second intervals are a hard bad flag** — you're sitting exactly on both edges in the afternoon. Two rules bind:
+- **Forecast error is asymmetric** — assume it errs worse, and that **afternoon W at the islands strengthens rather than eases** (Ep. 6, `zKmZ4zql2ws`); if it's windier than forecast in the morning, assume it builds all day and a small boat bails early (`7/14/22`).
+- **Homebound wind:** runs south into Mexican water put the wind on the return leg — *"uphill misery."* **Plan the return against the afternoon build, not the outbound conditions** (`8/17/22`, `conditions/sea-state.md`).
 
-**Two open questions the protocol says I must ask rather than assume.** `profiles/cameron/boat.md` carries an explicit machine comment: `range_nm` and `sea_state_max_ft` are `null` — "Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must ASK." So:
+Add the 12–24 h wind hindcast, not just the forward forecast (same note) — a calm morning read hides overnight chop.
 
-1. **What's the boat's range and sea-state ceiling?** That decides whether the 9 Mile Bank / Coronado Canyon detour is in or out.
-2. **Does "two days" mean two day-runs from the mainland, or an overnight on the hook down there?** The KB has nothing on overnighting a private boat in Mexican waters — no anchorage, no legal, no procedure. Two day-runs is what I've planned.
+**Last-quarter moon — this is the biggest planning lever in your set.**
+- Quarter moons are **neap tides — the smallest tidal range** (`conditions/tide-and-slack.md`, mechanism from `9tTM99InluM`; `conditions/moon.md` states the same coupling). Small swings mean less water movement, and at the islands **current is as important as the bait — a spot with no current will meter fish that won't bite** (`species/rockfish-lingcod.md`, `6-8KfjEg0x8`).
+- You are **not** in a moon window: the elevated windows are full/new ±1 week (`conditions/moon.md`). The upside is you're also not fighting post-moon relocation, and reports age normally rather than being heavily discounted.
+- So: **anchor the day to the tide changes.** Be at your highest-percentage zone **an hour before** the change, not at it (`conditions/tide-and-slack.md`, `2/20/25`), and expect **window compression** — off-peak conditions push the action into the tide windows while wide-open days bite all day (`8/17/22`). This lines up exactly with the Coronados' own signature failure mode: **"seeing-not-biting" cycles with narrow daily windows** — you'll mark and even see fish that won't eat until a short window opens; anchor those days **to tide and current, not to the clock** (`species/yellowtail.md`, `YZtX1MiT0y8`).
 
----
+**Regime:** mid-October is **fall fragmentation** — an "everything season, but scattered": breadth of species, low density of any one (`conditions/water-regimes.md`, `seasonal/october.md`). Plan for a mixed bag, not a one-species massacre. One override worth knowing: **a grunion-in-kelp event beats water quality entirely** — every-cast bass in ugly stagnant water, with a mixed bird pile on the kelp as the tell (`seasonal/october.md`, `10/20/22`).
 
-## 2. Reading the conditions you gave me
+## 3. The species call: a yellowtail-led island mixed bag
 
-### SST: 66.8 islands / 66.2 nine-mile / 65.9 Point Loma
+Primary router is [`species/yellowtail.md`](species/yellowtail.md) — *"The Coronados are synonymous with yellowtail"* (`D5DR7Kx42_A`), ~13 mi from San Diego, the western side exposed to colder Pacific currents and tidal swings so the water stays bait-rich. Be aware of the honest caveat: **the KB frames the Coronados as the warming-transition (spring) classic**, and Cameron's standing counter-doctrine is that **calendar date doesn't matter for yellowtail — water state (temp + bait) does** (kept side by side with the corpus year-anniversary prior). Behind them: **calico bass** on the kelp spots, **bonito** and **barracuda** as the classic "three B's" mixed bag (`species/bonito.md`, `species/barracuda.md` — both `baja-pacific-north` tagged, so both clear the gate), and **rockfish** on the Coronados-vicinity hard bottom.
 
-**That is a gradient, not a break, and it changes the plan.** `conditions/water-temperature.md` is explicit that the value "is usually not the absolute number but which **side of a break** a species sits on," and that sharp offshore edges "can jump multiple degrees in ~1 mi." Your three points spread **0.9 °F across the entire run** — roughly the noise floor of the read. `seasonal/october.md` says October is the regime change where you "look 100 % at your temp chart and chlorophyll" and "build the plan on the break structure, not on spot names" (`XLVUhV8DW64`, `OYOda6T3f-8`) — but there is no break in these numbers to build on. So the plan **defaults back to structure, bait and current at the islands**, which is what the rest of this document is.
+**Situation → technique, straight off the router table:**
 
-Consequences for the pelagic options, so you don't waste a day chasing them:
+| What you see | Do this (ranked) | Gear class |
+|---|---|---|
+| Boiling / breezing fish, or fish on a paddy | 1) surface iron 2) flylined bait 3) stickbait 4) skip jigging | jig-stick class; 40–50 lb flyline |
+| Tight balls hugging structure, marks on hard bottom ~**5–10 fathoms** | 1) yo-yo iron 2) dropper loop | 40–60 lb stout rod + high-ratio reel |
+| Fish **visible but not biting** (the Coronados special) | flylined bait, downsize leader/hook, **wait for the window** | 40–50 lb flyline |
+| **Metered but not showing** | chum them up, then cast — or get any jig down to their depth | as above |
+| Wind up (20–25 kt+) after good surface days | 1) yo-yo iron 2) keep the surface iron as a picker | 40–60 lb + high-speed reel |
 
-- **Bluefin** — the break-side rule (`conditions/water-temperature.md`) is *relative*: cool side when the water is warm, warm side when it's cold. You need an edge to apply it and you don't have one. And `seasonal/october.md` says that as the coast cools and fragments, bluefin **condense outward to Tanner and Cortez** — away from you. The 76 °F ceiling being soft (`9/14/22`) doesn't help here; that softens *warm* exclusions.
-- **Yellowfin** — want **SST max × chlorophyll min** (`conditions/water-temperature.md`, `seasonal/october.md`). The islands are your warmest point at 66.8 °F, but the KB's only yellowfin-sign-with-a-temperature data point is white terns working over **72 °F** near the 209 (`species/yellowfin-tuna.md`, `SczdZIq3UmE`). There *is* a documented Coronados school-yellowfin entry — a 2018-10-31 tackle tip recommending **20 or 25 lb fluorocarbon** for a bite that was "starting" (`NN5MWeRA28o`) — but the note itself caps it at **low confidence** (promotional segment). Carry a light-fluoro leader; do not build the trip on it.
-- **Dorado** — `conditions/water-temperature.md` puts them on the green-cold/blue-warm boundary around **71–72 °F**. 66.8 is well under.
+That last row is a **Coronado Islands** data point specifically: 2026-04-21, 25 kt gusts, fish metering and swiping without committing; the crew's read was the wind turned the bite and other boats confirmed it had gone *"mostly yo-yo"* — but the iron still produced two, so it's a **re-rank, not an abandonment** (`ejUTAnONf7o`, medium).
 
-### Chlorophyll 0.9 — the KB gives you no number to compare it to
+**The Coronados chum-and-cast sequence is high-confidence doctrine here** (`techniques/surface-iron.md`, Jared Saaib, `4pT0efBD1j0` 2020-08-18 at the Coronado Islands, repeated in `dS9gd9k7A7Q`): **meter the school → throw live chum → let them boil → cast the iron into the boil.** Casting to natural surface activity outranks it; this is the fallback when they're metered and not showing. Same source: the fish are **boat-shy** — *"they would not let me drive them over the top of them"* — which is the practical reason the long cast exists. And **hold the stop while someone's bent**: a hooked fish holds the school near the boat (`gdqI2dNd5_U`).
 
-I have to be straight about this: **this knowledgebase contains no numeric chlorophyll scale.** `conditions/water-color.md` treats chlorophyll as an **age-and-edge** read, not a threshold, and the only numeric mention anywhere is an endpoint-hygiene rule in `config/endpoints.md` (check `chlorophyll_coverage_pct` before reporting chlorophyll at all). So "0.9" is uninterpretable against this KB. What the KB *does* give you, and what you should actually do on the water:
+**On the meter (`species/yellowtail.md`):**
+- Structure yellows = **tight balls hugging structure**, classic read **arcs/boil-ups at 5–10 fathoms** near structure (`D5DR7Kx42_A`).
+- **40–60 ft marks that aren't showing = surface-iron and light-bait water — explicitly not a yo-yo day** (`0DKmYId1NN4`, medium).
+- **Shape beats depth:** a **stratified column** (marks running bottom-to-mid or all the way up) = fish hunting → slow-trolled baits; a **ball stuck to the bottom** = present but not hunting → dropper-loop water, not flyline water (`HTowqnwAMeA`). **High and spread = biting; tucked tight to the bottom = not** (same trip).
+- Marked-but-not-surfacing schools still get bit: *"just about every lure that makes it down to the depth that fish is, is a bite"* — named specifically for yo-yo iron (`tpmOYXYQwhU`, medium).
+- **Hard bottom only, never mud** — read return thickness (thin = sand/mud, thick = rock) before you even look for fish sign (`6DzbsElGE7E`); a thin, lighter mark riding *above* the bait ball is often the yellowtail itself pushing bait up — that's your commit signal.
 
-- **Distinguish a new cold bloom from a mature bloom edge.** New = cold + green after an afternoon NW blow (often with a ~5 °F overnight drop) — that's a fresh local upwelling event, "bad *now* but productive *later*." Mark it for the recovery, don't expect it to fish today. Mature bloom **edge** = where the chain has caught up and bait has stacked. Fish the edge.
-- **Bait holds in the dirtier water; predators work the seam.** Clean-water trolling found nothing because the bait wasn't there (`8/17/22`). Do not default to the prettiest blue water — find the dirty/clean **seam** and work it.
-- **Cameron's own doctrine, if this is your trip:** in warm-water years weight color at least as heavily as SST, and don't fish "dirty green" water for gamefish (`conditions/water-color.md`).
+**Bite-rate calibration so you don't panic-switch:** a good day of local yellowtail fishing is **three or four bites**; a 12–15-bite day was called an anomaly on camera. At that rate, two fishless hours is not evidence your technique is wrong (`HTowqnwAMeA`). Balanced against the same source's *"you can't really be glued to a certain technique"* — that crew pulled anchor, started moving and slow-trolling, and **roughly quadrupled their bite rate**.
 
-### Wind NW 8 → 12 kt, swell NW 3 ft @ 10 s
+## 4. Running the two days
 
-- **Steepness rule** (`conditions/sea-state.md`): period drives feel far more than height. 3 ft @ 10 s is a benign ratio — the flagged case is "period in seconds approaching the height in feet," and 3–4 ft @ 4–5 s is what's described as brutal.
-- **But you are sitting exactly on two of Dave Hansen's go/no-go lines** (`NC3-3pJDEgo`, medium confidence, single-mention): **wind above ~12 kt is what raises whitecaps**, and that's his personal don't-run cutoff; and **swell interval under 10 seconds is a hard bad-sea flag**. Your afternoon is 12 kt and your interval is 10 s — at the edges, not over them. His named unfishable combo (12–15 kt with 4–8 ft @ 9 s) is worse than your forecast.
-- **Forecast error is asymmetric.** Assume the forecast errs on the worse side and that afternoon W at the islands **strengthens** rather than eases (`conditions/sea-state.md`, Ep. 6). If it is windier than forecast in the morning, **assume it builds all day and a small boat bails early** (`7/14/22`).
-- **Pull a 12–24 h wind hindcast, not just the forward forecast.** A calm-morning number hides overnight wind and the leftover chop it left.
-- **Homebound wind.** `conditions/sea-state.md` names this exact case: runs south into Mexican water put a wind on the return leg — "uphill misery." **Plan the return against the afternoon build, not the outbound conditions.** With NW 12 in the afternoon, the beat home is the part of the day to budget for.
-- **Current-vs-swell opposition:** where the current field opposes the NW swell it compresses the interval and stands the swell up — degrade the forecast on those route segments.
-- One caution on a figure you may be tempted to use: Cameron's charted entrance-exposure window (open to swell **160°–186°**, channel axis **186°**, Point Loma blocking anything west of the axis) is stated in `conditions/sea-state.md` for the **San Diego Bay entrance specifically**. A NW swell is on Point Loma's blocked side of that. The KB gives **no equivalent figure for the Mission Bay / Dana Landing entrance**.
-
-### Moon: last quarter
-
-- **Quarter moon = neap tide** — the *smallest* tidal range of the month (`conditions/tide-and-slack.md`, mechanism from `9tTM99InluM`). Expect the weakest tide-driven current of the cycle. Current is the engine in `conditions/current-structure.md`, so this is a real headwind.
-- **You are outside the elevated moon windows.** `conditions/moon.md` reconciles to full/new **±1 week** as elevated-probability, leading days strongest. Last quarter is neither. The upside: you also skip full-moon daytime bass suppression (calico/sand bass gorging at night and shutting down by mid-morning), so **your bass window is not shut mid-day** — and there's no bright-moon paddy redistribution to chase.
-- **The operative consequence** comes from `conditions/tide-and-slack.md`: when the bite is off-peak, "action **compresses into the tide windows**" — wide-open days bite all day, marginal days don't. So **anchor both days' zones to tide times**, and **be on the highest-percentage spot an hour BEFORE the change, fishing when it hits** — do not arrive *at* the change (`2/20/25`). This dovetails exactly with the one Coronados-specific behavioral warning in the KB.
-
-### The one Coronados-specific warning you need
-
-`species/yellowtail.md`: Coronado yellows run **"seeing-not-biting" cycles with narrow daily windows** — you will mark and even *see* fish that won't eat until a short window opens (`YZtX1MiT0y8`). **Anchor those days to tide and current, not to the clock.** With a neap tide, that discipline is the difference between the trip working and not.
-
----
-
-## 3. What's actually on the table (species routers, filtered to the envelope)
-
-| Target | Gate | KB depth for this trip |
-| --- | --- | --- |
-| **Yellowtail** — the primary | `baja-pacific-north` + `island`/`bank` | Deep. "The Coronados are synonymous with yellowtail" (`D5DR7Kx42_A`) |
-| **Calico bass** — the fill and the fallback | `baja-pacific-north` + `island`/`nearshore-coast` | Deep, and October-relevant (see grunion note below) |
-| **Rockfish / lingcod + ocean whitefish** — the weather fallback | `baja-pacific-north` + `bank`/`island` | Good, with a Baja data point |
-| **Bonito, barracuda, sheephead** | in-gate | Bycatch/fill; bonito matter tactically (below) |
-| Bluefin / yellowfin / dorado | in-gate but conditions don't support | See §2 |
-
-**An honest gap you should plan around: this KB's Coronados content is spring-weighted.** `species/yellowtail.md` calls the islands "the warming-transition (**spring**) classic," and the dated Coronados entries are April (`YZtX1MiT0y8`, `ejUTAnONf7o`) and November (`F9XjGMEvvag`). **There is no October-at-the-Coronados doctrine in this knowledgebase.** Everything below is built from universal structure/current/technique doctrine plus the Coronados entries that do exist — not from an October Coronados prior. Treat the seasonal layer as thinner than the tactical layer here.
-
-**October's one wildcard, and it's a good one:** `seasonal/october.md` — **grunion-in-kelp events override water quality entirely** (`10/20/22`). When grunion pile into the kelp you get **every-cast bass in ugly, stagnant water** you'd normally skip. The tell is a **mixed bird pile *on* the kelp/structure** (`conditions/bird-reading.md`) — as opposed to a mixed pile at an open-water current break, which is bait only and gets skipped. Match the bait: a 7" split-tail slug on a sled/leadhead, every cast (`species/calico-bass.md`).
-
----
-
-## 4. Spots
-
-From your own library, `sources/spot-lists.md` (committed under the 2026-08-12 waiver — "none of these spots are secret"). Format is `deg min.mmm`, N latitude / W longitude.
-
-**Coronado Islands (the six-plus-one that BightSST splits out individually):**
+**Spots.** The KB has **no Coronado Islands location page** — what it has is the coordinate library in [`sources/spot-lists.md`](sources/spot-lists.md) (public; Cameron waived the private-only restriction 2026-08-12), listing the group N→S:
 
 | Spot | Position |
-| --- | --- |
+|---|---|
 | Pukey Point | 32 26.850 / 117 18.000 |
 | Middle Grounds | 32 25.810 / 117 15.950 |
 | Ribbon Kelp | 32 24.800 / 117 13.880 |
@@ -1570,419 +1632,270 @@ From your own library, `sources/spot-lists.md` (committed under the 2026-08-12 w
 | South Kelp Ridge | 32 22.000 / 117 13.260 |
 | Rockpile | 32 17.620 / 117 10.030 |
 
-**Bottom / bad-weather ground nearby:** Lower 9 Mile Bank 32 32.500 / 117 20.500 · Coronado Canyon 32 30.300 / 117 17.500 · North of North Island rockfish area 32 27.380 / 117 18.000 · East of Pukey Point (yellowtail **and** rockfish) 32 27.000 / 117 14.100.
+Plus, in the vicinity: **Lower 9 Mile Bank** 32 32.500 / 117 20.500, **Coronado Canyon** 32 30.300 / 117 17.500, **North of North Island rockfish area** 32 27.380 / 117 18.000, **East of Pukey Point (yellowtail & rockfish)** 32 27.000 / 117 14.100. Note that **conditions vary a lot across the group** — that's exactly why the BightSST eval set splits the Coronados into six individual spots rather than one average (`locations/bightsst-eval-targets.md`, `conditions/upwelling-and-turnover.md`).
 
-**On the transit, if range allows:** North 9 Mile Bank 32 38.000 / 117 26.000 · South 9 Mile Bank 32 32.000 / 117 21.000 (`profiles/cameron/spots.md`).
+**Pick spots by current direction, not by name** (`locations/island-structure.md`, `conditions/current-structure.md`):
+- **Land-attached perpendicular ridges are two-directional** — they only work on **current running parallel** to the shoreline. Straight into the beach is marginal (with a real late-fall exception when off-color water lets fish ambush against structure); **straight off the beach is dead — skip it** no matter how good the water looks.
+- **Standalone banks fish any direction** but each has its own preferred ones.
+- Kelp corner selection: **downhill current → work the NW corner; uphill → the SE corner** (Dave Hansen, `kzD0kSnnVPw` / `sIoNELGlxmk`; the front/up-current edge is where the bigger fish stack).
+- Because current is spatially coherent, once you know the day's vector you can **pre-judge every spot on the list** before you burn fuel.
 
----
+**Verify the current on the water, don't trust the plotter.** Kelp pulled ~20 ft under = raging (surface presentations dead, go deep); kelp laid flat = strong; **kelp resurfacing = slacking — switch back to the surface**, and that transition is your cue to change gear *before* the window (`conditions/current-diagnostics.md`, `8/31/22`, Ep. 14). The **chum-bucket drift line is your current sensor**: chum straight off the stern = wind-dominated lay; chum swinging off at an angle to the boat = real current. A chart plotter's current-arrow layer is reading wind, not current.
 
-## 5. Day 1 — bait, read the current, let the meter pick the technique
+**Anchoring geometry (`planning/search-and-glassing.md`):** bottom fish → sit on the spot, but **grade the mark on repeated passes and drop the anchor in the sand beside the rock, not on it**, so your lines drift back onto the structure (repeated doctrine, `6DzbsElGE7E` + `xI9tPJFXbUM`). Midwater gamefish → **anchor up-current, standoff scaled to current strength**. **Yellowtail specifically → anchor further still**, so a hooked fish has room before it reaches the structure. Too deep to hook (180–200 ft+) → set up the drift instead, reading wind vs current, and use the outboard angled off the keel as a rudder to slow/steer it (`_ZThckj2TIM`).
 
-### 5a. Bait before anything
+**Searching, if the spots are dry.** Glass from a full stop or bow into the swell at ~1 kt, 360° in small increments, **3–4 minutes per scan**, and watch a bird **30–40 seconds** before judging it; stations **3–4 mi apart**; along a bank run the contour at **16–18 mph** with a lookout 30° off each bow (`planning/search-and-glassing.md`). Sign vocabulary: **boiler/foamer, breezer** (ripple in calm water), **flat spot** (the smooth whitecap-free patch in chop — the version you'll actually see in 12 kt) (`91ZJbhAnzMg`). Birds: **terns are the best bird** — a locked-in repeated dive = bait only, a **moving dive-line = bait being pushed from underneath**, and cast **under the diving bird**, not at its general position (`conditions/bird-reading.md`, `7/21/22`, `JiJYamo0QHk`). **Boobies are mostly seen at the Coronado Islands and Cameron rates them worth paying attention to** (attributed observation, no corpus doctrine). **Diving pelicans = wrong area for gamefish, right area for mackerel** — use them as a bait tell.
 
-- **Make mackerel at the islands** — the KB records this as your own program (`bait/making-bait.md`): sabiki dropped to **~100 ft** with an **8 oz** sinker; has loaded **5 twelve-inch mackerel on one drop**. Twelve-inch macks are big, hearty baits, heartier than sardine.
-- **Buy sardine at the barge if they have them.** Barge discipline (`bait/making-bait.md`, `7WapaxdtjQg` / `bM2vUS1B-yQ`): **avoid the 6:00 a.m. sport-fleet rush** — be there **5:00 a.m. or earlier** (Hansen's own target is "at least five o'clock, if not four thirty"), or 7:00 a.m. Hail on **VHF ch 11** with the barge's name twice plus yours. Tell the attendant you want it **loaded light** and you're not in a rush. Never board the barge. Tip at the end.
-- **Bait choice has a tactical edge here:** if the tank ends up **anchovy**, `techniques/flyline.md` (`8TO-tuYjwWk`) says a fly-lined anchovy draws bycatch as readily as the target — that's the stated cue to switch to iron.
+**Day 2 is where the two-day format pays.** Return to **your own marked positions at tide time** rather than sprinting to where the fleet went (`locations/island-structure.md`, `8/31/22`). If the current has reversed overnight, **don't just re-anchor to the same GPS position** — fish face into the current, so reset onto the *other* side of the spot so your baits reach the new up-current face (`planning/search-and-glassing.md`, `BskCsKaTiZw`/dave-hansen, medium). Age any intel you get: intraday schools drift at **low single-digit miles per hour**, so draw a box around a reported position sized by the report's age, not a pin (`planning/report-reading-and-forecasting.md`, `8/17/22`). For fleet reading, **AIS stop/start patterns on the sportboats at the Coronados** (e.g. the Grande, MMSI 366746210) are Cameron's most valuable learning layer there — third-party-observed and harder to fake than VHF chatter (`planning/fleet-intelligence.md`).
 
-### 5b. On arrival, read the current before you pick a spot
+**Bait.** Buy sardines at the barge when they're available; **when making bait it's always mackerel** on sabikis — and Cameron has sabiki'd both La Jolla and the Coronado Islands when the barge couldn't fill him (`bait/making-bait.md`, cameron). Barge etiquette: never board it, follow the side signal (cone/arrow), **hail on VHF ch 11** with the barge name twice plus your boat name, and tell the attendant you want it **loaded light** (`7WapaxdtjQg`). One bait-driven technique switch: **if the tank is anchovy rather than sardine or mackerel**, a flylined anchovy draws bycatch as readily as the target — switch to iron (`techniques/surface-iron.md`, `8TO-tuYjwWk`, medium), and if the forage is small "rice" anchovy, **drop to a light iron (Tady AA-light / A1-light class, ~a third the weight of a Tady 45)** — on small bait the small jig out-bites the big one **two or three to one**, and it drags the tackle down with it (9 ft medium-action composite, smaller narrow reel, ~50 lb braid to a short fluoro leader) (`2/27/25`, `pcwcRdmWmLc`).
 
-Do this first, every time, from `conditions/current-diagnostics.md`:
+**One Coronados-specific hazard:** sea lions. If one works a hooked fish boatside — **wind continuously, never pump**; once it grabs the fish, **throw the reel into free spool** to give total slack (reads as the line breaking, so it lets go), then wind fast to recover (`species/yellowtail.md` → `techniques/fighting-big-bluefin.md`, `mdhoEQPqpng`).
 
-| Kelp behavior | Current | Call |
-| --- | --- | --- |
-| Kelp pulled **~20 ft under** | Raging | **Surface presentations are dead** — go deep / weighted |
-| Kelp **laid flat** on the surface | Strong | Fishable but hard; work the **down-current side** |
-| Kelp **resurfacing / standing back up** | Slacking | **Switch back to the surface / lighter** |
+## 5. Gear
 
-Also: **chum-drift angle vs. how the boat is lying** separates true current from wind push — chum swinging off at an angle to the boat's lay is real current cutting across, and that angle is your direction sensor. The chum bucket is a deliberate "thumb over the hose" you can deploy on purpose. And **do not trust the chartplotter's current-arrow layer — it's reading wind, not current** (`sIoNELGlxmk`, medium).
+Class terms first (`tackle/gear-classes.md`), because I don't know what's in your boat. Cameron's doctrine is to **rig all three simultaneously and switch as the read changes** — the day moves between faces of one population, not between fish types:
 
-### 5c. Structure typology decides which of your seven spots can work today
+1. **Surface iron / jig-stick class** — 8–10 ft (9 ft okay, **10 ft better**; *"an 8-ft jig stick is a yo-yo rod"*), throwing **2–3 oz** irons (a second attributed range: 1¾–2¾ oz, 5–7 in). Tady 45 / Salas 7X / 6X Jr. class. **Wind up → step up to the heavier 7X-class iron to punch the cast out** (`D5DR7Kx42_A`) — relevant on your 12 kt afternoons. Carry three jobs' worth: small-and-erratic for a reaction bite, a Tady-45-type all-rounder, and a heavy one that casts through chop (`A70kK2niu2Q`). **Beware high-ratio reels** — these jigs were designed around a 4:1 Jigmaster; 6.5–7.5:1 is called too fast (`Ec2GaNpiOHI`), kept side by side with a counter-view that 7:1 is a workable torque middle ground.
+2. **Yo-yo / heavy-iron class** — ~8 ft, XH, 40–80 lb, fast crank; **5–6 oz** iron (Salas 6X / CP 105 class) against the surface iron's 2–3 oz (`VpW91AKOFVQ`). Free-spool to the mark under thumb tension so it tracks straight down, then **wind as fast as you can, all the way up** — *you can't crank it too fast, but it's easy to crank it too slow* (`RNRFrfepiW0`). A stated standard rig for 12–30 lb yellowtail near an island or bank in **120–180 ft**: two-speed Fathom 30 class, **65 lb braid + a 50-yard 40–50 lb mono top shot**.
+3. **Flyline class** — ~9 ft MH fast, 30–65 lb; **40–50 lb** for yellowtail. If bonito start intercepting the flylined baits, switch to a **sliding sinker** (2–4 oz egg to a 2/0–4/0 J hook) to get under them (`yGXSrUauo2w`, medium).
+4. **Dropper loop** for balled, inactive fish on the bottom: loop **12–18 in** (min 12; if you build it to 24 in tie it with a **double San Diego jam**), sitting **3–4 ft above the sinker**; SoCal reference weights **6–10 oz** (a heavier same-fishery data point runs a **16 oz torpedo** with a 5/0 hook, kept side by side); tie a **plain overhand knot above the sinker as a breakaway** so a snag costs the lead, not the rig; **wind up 3–4 cranks off the bottom**; fish it **in gear, never free-spool** near structure. Bite reads as a **strong thump** — wait for the rod to load, then wind down and reset. **The first 30–40 ft off the bottom is the critical window** — win that race in low gear under a tight drag before the fish gets back into the structure (`SAltQjih0ms`).
 
-`locations/island-structure.md` + `conditions/current-structure.md`:
+**If this is Cameron's panga:** the three-outfit stack resolves to the **Torium** (Phenix Abyss 10'0", 25–60 lb, 50 lb braid) for surface iron, the **Trinidad 40** (8'0" XH 40–80 lb, 80 lb braid) for yo-yo/dropper/sinker rigs, and the **Avet/Teramar 90MHB2** (30–65 lb class, 50 lb braid) for flyline. Owned irons cover it: **Salas 6X** and **Salas CP 105** for yo-yo; JRI-7 (~Tady 45 class), JRI-5, Strictly Irons Glory (wide drawn-out kick — the picky/slack-current change-up) and Mighty, Squidco Candy Bar 3 oz, Nomad Slidekick 120 g for the column. **Two gaps to name rather than paper over:**
+- **No slow-pitch / knife-jig setup** — it's an open shopping item in `profiles/cameron/rods.md`. If the fish end up deep on a high spot, the KB's slow-pitch row (130–250 g, 150–300 ft) has nothing in your box to resolve to.
+- **`profiles/cameron/boat.md` has `range_nm: null` and `sea_state_max_ft: null`** — deliberately not guessed. The protocol says **ask** rather than assume, so before I'd sign off on a 12 kt-afternoon run to Mexican water in a 22 ft panga I need your real range and sea-state limit. Relevant boat facts that are recorded: 30-gal bait tank on a **Rule 401, 500 GPH** pump running off the **single starting battery** (a NOCO GEN5X1 charger was added July 2026 to hold it up while the pump runs overnight — worth knowing for a two-day trip), **100–125 lb of ice per trip**, normal departure ~8 am, launch from **Dana Landing, Mission Bay**.
 
-- **Land-attached perpendicular ridges are two-directional** — they only produce on **parallel** current (running along the shoreline). Straight **into** the beach is marginal; straight **off** the beach is **dead**. Don't waste a tide window on a ridge that today's vector can't light up.
-- **Standalone banks fish any direction** but each has its own preferred ones, learned spot by spot.
-- **Coastal deep spots default-prefer downhill (N→S).**
-- **Late-fall exception, kept side by side:** at San Clemente in late November the bass bites *required* current running **into** the island with off-color water present — fish used the dirt to ambush. Encode parallel as the prior, into-beach as a viable late-fall/off-color state, off-beach as dead. Mid-October sits right at the front edge of that exception, so don't reflexively reject an into-the-island day.
-- **Current direction is spatially coherent across a region** — once you've read it at your first stop you can pre-judge the whole day's list without running it.
-- **Kelp corner selection** (`kzD0kSnnVPw`, `sIoNELGlxmk`, dave-hansen): downhill current → work the **northwest** corner of the bed; uphill → the **southeast** corner. And **anchor the kelp, don't drift through it** — drifting gives up the edge-holding pattern entirely.
+**Fish care:** yellowtail (and dorado, halibut, WSB) up to **40–50 lb** are the **3-in hook, ~6-ft gaff** class (`fish-care/gaffing.md`). Get them cold immediately in a **salted slurry — ~2 cups rock salt per 7–10 lb bag of ice plus a splash of seawater** (the salt is what drops it below freezing); **never freshwater-rinse**, and bring a **car cooler** so the cold chain survives the drive home (`fish-care/dorado-and-general.md`).
 
-*Caveat I owe you: `locations/island-structure.md` is region-gated `socal-bight` only. Its typology is universal in framing but its worked examples are Catalina/SCI. Applying it at the Coronados is an extrapolation the KB doesn't formally authorize.*
+## 6. Papers and permits — read this part carefully
 
-### 5d. The meter picks the technique — this is the core of the day
+**The knowledgebase does not cover this, and it says so itself.** [`sources/regulatory-claims.md`](sources/regulatory-claims.md) carries an explicit *Known gap*: **"Mexican licensing and entry requirements are absent from the knowledgebase"** — noting that anyone planning a Baja trip needs an FMM, a CONAPESCA fishing permit, a passport and Mexican insurance, "and the KB currently says none of it."
 
-From `species/yellowtail.md` § Finding them, the depth bands are decision rules, not descriptions:
+The only paperwork detail anywhere in the KB is in [`locations/bahia-de-los-angeles.md`](locations/bahia-de-los-angeles.md), and it is for a **drive-down road trip to Bahía de los Ángeles**, not a boat crossing — treat it as adjacent, not as your checklist (Mexico: **INM** for entry, **CONAPESCA** for fishing; as reported **2026-08-06**; verify current requirements before you travel — foreign jurisdiction, these change):
 
-- **Marks at 40–60 ft that aren't showing** → *"usually like surface iron fish and like light bait zone — so we're **not** going to be yo-yoing today"* (`0DKmYId1NN4`). Stay on light bait and casting; go all-in on surface iron once they start boiling.
-- **Tight balls hugging structure / arcs at ~5–10 fathoms (30–60 ft) near structure** → **yo-yo iron**, then dropper loop. "Drop something with weight to get down there and provoke a reaction bite" (`D5DR7Kx42_A`).
-- **Stratified column** — marks running as lines from the bottom up through mid-column → fish **actively hunting**; put **slow-trolled baits** out. **Ball stuck to the bottom** → fish present but not hunting: that's **dropper-loop water, not flyline water** (`HTowqnwAMeA`).
-- **High and spread = biting; tucked tight to the bottom = not** (same trip, `HTowqnwAMeA`). This behavioral read overrides the depth bands — same fish, same mark, worth working or not depending on distribution.
-- **Hard bottom only, never mud** — thin return = sand/mud, thick return = rock. Read bottom hardness to decide if a spot is even worth working before you look for fish on it (`6DzbsElGE7E`).
-- **A thin, lighter mark riding higher than the bait ball is the yellowtail itself**, pushing bait up off the rocks — that's the sign to commit, not the bait pile alone.
-- **Marked but not surfacing?** Get any lure down to their depth and it gets bit: *"just about every lure that makes it down to the depth that fish is, is a bite"* — and yo-yo iron has "absolutely" out-fished live bait "multiple times" in exactly this scenario (`tpmOYXYQwhU`, registered channel, single mention — medium).
-- If you do check a paddy on the transit: look for **boomerang-shaped arcs at ~90–120 ft** under a paddy showing nothing on top; give it a minute or two before writing it off (`ZFqe49jRgA0`).
-
-### 5e. The afternoon wind adjustment
-
-The KB has a **dated Coronado Islands** data point for exactly this shape of day (`species/yellowtail.md`, `ejUTAnONf7o`, Jared Saaib, 2026-04-21, registered voice, single session — medium): **25 kt gusts**, fish metered and **swiping the iron without committing**; the crew read it as *the wind turning the bite*, and other boats confirmed the day had gone *"mostly yo-yo."* The surface iron still produced two, so the note is explicit that this is **a re-rank, not an abandonment**.
-
-Your afternoon is 12 kt, not 25 — far milder — but the direction of the adjustment is the same: **as the NW builds, shift weight to the yo-yo and keep the iron going as a picker.** The complementary move from `conditions/current-diagnostics.md`: when the wind-driven current lays the kelp flat, surface is dead and you go vertical; when the kelp resurfaces, go back on top.
-
-### 5f. Bonito interference — have the counter rigged before you need it
-
-`species/yellowtail.md` has a specific row for this, and it's a real Coronados problem: **bonito working the surface intercept flylined baits before they reach the yellowtail.** The fix is **sliding sinker instead of flyline** — the added weight gets the bait *under* the bonito layer and in front of the yellows faster. Build: **2–4 oz egg sinker straight to a J hook, 2/0–4/0**, scaled to wind and depth, on a 30 lb live-bait class outfit (`yGXSrUauo2w`, Steve Carson, registered voice, single mention — medium). Have one tied.
-
----
-
-## 6. Day 2 — spend the fresh day on what day 1 taught you
-
-- **Your own day-1 marks are your freshest report.** The template from `locations/island-structure.md` (`8/31/22`): one popped fish appears → identify **the structure that fish related to**, treat it as signal not noise → run the contour **slowly** and wait → **do not sprint to where the fleet went** → **return to your own marked positions at tide time.** The governing line: *sign associated with structure is a repeatable decision; sign in no-man's-land is low value.*
-- **Age everything else.** `planning/report-reading-and-forecasting.md`: reports have a shelf life measured in miles (advection), and absence of reports is coverage bias, not absence of fish. Hansen's chart method (`JiJYamo0QHk`): sighting dots are age-coded **red = today, yellow = yesterday, green = the day before** — read the 3-day trend and **run to where the water is heading, not where it was**; if the projected water is empty, work back down the trend line toward yesterday's position, because the fish are usually in between.
-- **The fleet layer, and its dissent.** `planning/fleet-intelligence.md` records **AIS sportboat stop/start tracking at the Coronado Islands** (e.g. the Grande, MMSI 366746210) as one of the most valuable data sources for learning these islands — AIS is third-party-observed and harder to fake than radio chatter. Kept side by side, unreconciled: Hansen's stated practice is that **when he sees a cluster of boats he goes the other way**, hunting clean water with no boats on it. Both are in the KB; the choice turns on whether you're trying to *learn the islands* (AIS, follow the stops) or *find unpressured fish today* (go the other way).
-- **The weather/bottom fallback if both mornings die.** Drop onto Coronado Canyon / Lower 9 Mile / North-of-North-Island with **dropper loops**: sinker **6–10 oz** at the very bottom, hooks on the loop(s) above; **longer loop = more bait action, err long**; heavier lead for rock cod and deeper water or when current is up, lighter for a seabass-style presentation kept off the bottom (`techniques/dropper-loop.md`). Single-hook rockfish version keeps the hook **no more than ~2½ ft** above the sinker. The nearest Baja analogue in the KB (`species/rockfish-lingcod.md`, Ensenada, `0dIwWiOc1NY`): the crew slid out to where the bottom drops to about **300 ft** over rock and split the boat between **slow-pitch jigging** and a dead-bait dropper — both produced steadily, on a mixed bag of reds/vermilion, bocaccio and multiple lingcod. **Note explicitly: California/CDFW rockfish regs do not apply in Mexican waters, and this KB carries no Mexican bottomfish regs at all.**
-
----
-
-## 7. Gear, by class
-
-From `species/yellowtail.md` § Gear summary and the technique notes.
-
-**Surface iron** — jig-stick class, **9–10 ft**. A surface iron runs **2–3 oz**, distinctly lighter in the hand than a **5–6 oz** yo-yo iron (`VpW91AKOFVQ`, registered voice — high). **Wind up → heavier iron** (Salas 7X class) to punch the cast out (`D5DR7Kx42_A`) — relevant to your 12 kt afternoons. **If the bait is small anchovy ("rice"), downsize hard:** drop to a Tady AA-light / A1-light class jig, roughly **a third the weight of a Tady 45** — on small bait the small jig out-bites the big one **two or three to one** — and the light iron drags the tackle down with it: medium-action **9 ft** graphite-composite stick, smaller narrow reel, **~50 lb braid** to a short fluorocarbon leader (`pcwcRdmWmLc`).
-
-**The retrieve is the presentation.** Dan Wade, registered voice, stated in two videos (`yn1suHH6b1Y`, `Ec2GaNpiOHI`) → high confidence: it's a **serpentine action**, and **every third or fourth time the jig kicks out to the side — that kick-out is what triggers the bite**, because it imitates the bait that separated from the ball. If the jig is swimming flat, speed it up or slow it down to make it kick.
-
-**Yo-yo iron** — stout **40–60 lb class** rod with a **high-speed** reel, heavy full-size iron (Salas 6X class). Position **up-current** of the mark; **free-spool to the mark thumbing the spool** so the iron falls under light tension and tracks straight down instead of scoping away. Then **wind as fast as you can, all the way up** — speed is the trigger, there is no cadence. **On the bite, don't set the hook — keep cranking through it** (`5pbA-wXoric`). Line: **40 lb works, 50 better, 60 better still, "because the fish don't care."** Carson's stated base rig for **12–30 lb yellowtail near an island or bank in 120–180 ft** (`RNRFrfepiW0`, registered channel): two-speed **Penn Fathom 30**, **65 lb braid** with a **50-yard 40–50 lb mono top shot**, **8 ft 30–60 lb** all-around rod, treble hook, **Tady 4/0**; colors **scrambled egg, blue-and-white, and red crab when there are crabs around**.
-
-**Flyline** — **40–50 lb** class, 8–9 ft, enough backbone to turn a fish off the rocks. **Nose hook** (the clear spot in front of the eyes) is the all-purpose position. **Coronados-specific hook note:** as a Coronados bite picked up, the boat's tip was to **downsize to smaller J hooks for flylining fluorocarbon — Owner Ringed Flyliner, sizes 1, 2 and 4** (`F9XjGMEvvag`, 2018-11-20, unregistered channel — medium).
-
-**Dropper loop** — same heavy class rod, 6–10 oz.
-
-**Slow-pitch / knife jig** — **130–250 g**, if you find deep high-spot marks. The KB's band is **150–300 ft, bit best 150–180 ft**, fish stacked on the **up-current face** — but that's a **BOLA/Baja single-trip source at medium confidence** (`vqsD0qpwcJA`), not Coronados doctrine.
-
-**Calico** — 7–8 ft graphite-composite bass class, 40–60 lb; **7" weedless slug on a 3/8–3/4 oz keel-weighted spring hook**; **heavy fluoro leader, 40–65 lb**, for kelp abrasion. Method: **10–25 casts to the prime edge of a bed, then move — 100 ft or 100 yards.** If they're not on the prime spot they're usually not in the bed. **Beds re-bite — come back later** (`species/calico-bass.md`).
-
-### If this is the Panga 22 in the profile — the owned-gear pass, gaps named
-
-`planning/day-plan-protocol.md` says never recommend gear the angler hasn't said they own, and **name the gap** when a called-for class has no match. Against `profiles/cameron/rods.md`:
-
-| Called for | Your match | Verdict |
-| --- | --- | --- |
-| Jig-stick, surface iron | **#5 Torium 20HG** on Phenix Abyss 10'0" 25–60 lb, 50 lb braid | Clean fit — the profile calls it the full surface-iron setup |
-| Flyline 40–50 lb | **#2 Avet MXJ** on Teramar 9'0" MH 30–65 lb, 50 lb braid; **#4 Lexa 400** on Okuma PCH 9'0" H, 50 lb braid | Two good options |
-| Yo-yo, 40–60 lb + **high-speed reel** | **#1 Trinidad 40** on M&M/Rainshadow 8'0" XH 40–80 lb, 80 lb braid | **Partial.** The rod is right and the profile lists yo-yo as its role, but it also flags a **"relatively soft tip"**, and **no gear ratio is recorded for the Trinidad 40 anywhere in the profile.** The yo-yo doctrine is built on a high-speed reel. Confirm the ratio before you count on it |
-| Dropper loop / sinker rigs | **#1 Trinidad 40** (role explicitly includes sinker rigs) | Fits |
-| Slow-pitch / knife jig 130–250 g | **Nothing** | **Gap.** The profile's own open items list a dedicated SPJ/speed-jig setup as still being shopped. If you end up on 150–300 ft high-spot marks you have no rod that fishes that way — go dropper loop instead, don't substitute |
-| Bass/calico 7–8 ft, 40–60 lb | **#3 Tranx 400** on Phenix M1 SMX-82H 8'2" H 20–45 lb | Closest fit, but the profile records **braid TBD, respool pending** — spool it before the trip |
-
-**Boat-side facts from `profiles/cameron/boat.md` worth staging around:** 30-gal bait tank on a Rule 401 (500 GPH, 2.1 A) running off the **single starting battery** — the **NOCO GEN5X1** is what lets the bait pump run **overnight**, which is exactly the day-1-to-day-2 problem. **100–125 lb ice per trip.** Normal departure ~8 a.m. — for a tide-anchored, wind-limited October day at the islands, that is later than this plan wants; the wind builds on you. **Drain the 30-gal tank coming in** (heavy stern water on a small foam-filled hull).
-
----
-
-## 8. Fish care over two days
-
-`fish-care/dorado-and-general.md`: **the salted slurry** — roughly **2 cups of rock salt per 7–10 lb bag of ice**, plus a splash of seawater to wet it; the salt is what drops the mix below freezing. Get fish cold fast and keep them out of the sun. **Never soak or rinse the catch in fresh water** — it degrades colour and flesh. Fillets: ice-saltwater soak, rinse in salt water only, **pat dry before bagging**; water-displacement bagging gets you a near-vacuum seal with no machine. Storage windows: **~3 days refrigerated**, **1–3 months** vacuum-sealed and frozen, **1 week to 1 month** in a plain ziplock.
-
----
-
-## 9. Papers and permits — and this is where I have to stop short
-
-**The knowledgebase does not cover taking a private boat into Mexican waters.** `sources/regulatory-claims.md` carries an explicit **"Known gap"** section saying Mexican licensing and entry requirements are absent, that `FMM`, `tourist permit` and `fishing licence` return no hits outside that file, and that "the KB currently says none of it." I'm not going to fill that from general knowledge.
-
-**What the KB does have** is one paperwork block, and it was written for a **drive-across trip to Bahía de los Ángeles** — a different region (`cortez-north`), a different mode of entry, unregistered source (`P36VGPPf120`), jurisdiction **INM for entry / CONAPESCA for fishing**, as reported **2026-08-06**, stamped verify-before-you-travel (`locations/bahia-de-los-angeles.md`):
-
-1. **FMM** (the tourist permit) — filled out online in advance; needs **passport details, point of entry, and length of stay**; it produces a printout. **Print it.** One viewer reported being checked three times on a previous trip.
-2. **Mexican fishing licence** — bought online. The source notes a **new website as of 2026**, so search fresh rather than trusting an old bookmark. Have your passport with you.
+1. **FMM (tourist permit)** — filled out online in advance; needs passport details, point of entry and length of stay; it produces a printout. **Print it** (one traveler reported being checked three times).
+2. **Mexican fishing licence** — bought online; the source flags a **new website as of 2026**, so search fresh rather than trusting an old bookmark. Have your passport with you.
 3. **Passport.**
-4. Plus **vehicle insurance**, mandatory in practice, **Baja Bound** named — but that's a *car* item on a *drive* trip, not a boat item.
+4. Vehicle insurance (Baja Bound named) — **that's car insurance for a drive-down, not boat coverage**.
 
-`locations/cedros-island.md` says the same thing from the other direction: Mexican paperwork "is not covered by this source," pointing back to the BOLA entry and telling you to **verify current rules with the Mexican authorities before travelling**, with the KB's Mexico entries stamped as of 2026-08.
+**What the KB has nothing on, and I will not fill in from outside knowledge:**
+- Any **permit for the boat itself** in Mexican waters, or a **per-vessel fishing permit** / everyone-aboard-must-be-licensed rule.
+- **Clearing in or out**, port captain / zarpe requirements, or **US CBP reporting on re-entry** from Mexican waters.
+- **Baja California (northern) sportfishing regulations** — bag limits, size limits, seasons, gear rules. The KB's *entire* Mexico regulatory table is **one row**: circle hooks mandatory in **Baja California Sur** sportfishing, as of **2019-02-13** (`GptrotE0x5M`) — that's the other state, ~700 miles south, and it does not tell you what applies at the Coronados.
+- One thing the KB *does* state plainly: **California/CDFW regulations do not apply in Mexican waters** — so your CA rockfish season/depth rules and the 2/person/day CA bluefin limit are not your rulebook out there; **verify current Mexican/Baja regs separately before fishing** (`species/rockfish-lingcod.md`, `sources/regulatory-claims.md`).
 
-**What this KB does NOT tell you, and you must resolve elsewhere before you go:**
+Everything in this section carries the KB's standing caveat: **nothing here is current by virtue of being written down — check the issuing agency (CONAPESCA for permits, INM for the FMM) before you fish.**
 
-- Anything **boat-specific**: vessel/temporary import permit, crew list, port clearance, Mexican boat liability insurance, whether you check in or out with a port captain, or how to handle a Mexican Navy boarding.
-- Whether the **CONAPESCA licence is per-angler or per-vessel**, its cost, its duration, or whether every person aboard needs one.
-- Whether an **FMM is required for a same-day boat trip that never lands ashore** — the FMM guidance in the KB is written for a land crossing with a point of entry and a length of stay.
-- Anything about **going ashore on the islands** (they're a Mexican reserve in reality; the KB is silent, so I'm not asserting it).
-- **US re-entry**: no CBP reporting/small-vessel requirement is recorded anywhere in this KB.
-- **Mexican bag and size limits** for yellowtail, rockfish or anything else at the Coronados. The KB's *only* Mexico regulatory row is a **circle-hook requirement for Baja California Sur sportfishing, as of 2019-02-13** (`GptrotE0x5M`) — a different state, roughly 700 miles away, **not applicable at the Coronados**. `species/rockfish-lingcod.md` states plainly that California rockfish regs do not apply in Mexican waters and that you must verify Mexican/Baja regs separately.
+## 7. The short version
 
-The KB's own framing, from `locations/regions.md`: a Baja limit differing from a CDFW limit is **two jurisdictions, not a conflict** — don't try to reason from California rules to Mexican ones. **Verify the full private-boat set with CONAPESCA and INM (and the relevant port captain) before you leave the dock.**
-
----
-
-## 10. Summary — how I'd run it
-
-| | Day 1 | Day 2 |
-| --- | --- | --- |
-| **Depart** | Early enough to make bait and be on your first spot **an hour before the tide change**, not at it | Same, earlier if day 1 showed a specific window |
-| **Bait** | Barge sardine before 5 a.m. if available; sabiki mackerel at the islands, 100 ft / 8 oz | Top up; the NOCO holds bait overnight |
-| **First move** | Read current off the kelp lean and the chum-drift angle **before** picking which of the seven spots is even live today | Return to **your own** day-1 marks at tide time |
-| **Primary** | Yellowtail; the meter picks iron vs. yo-yo (40–60 ft = iron/light bait; balls on structure at 5–10 fm = yo-yo) | Same, refined |
-| **When wind builds (12 kt, afternoon)** | Re-rank toward yo-yo, keep the iron as a picker; watch the kelp for the flat/resurfacing switch | Plan the run home **against** the NW build |
-| **Fill** | Calico on the kelp edges — 10–25 casts, then move; watch for a mixed bird pile **on** the kelp (grunion) | Bottom program at Coronado Canyon / Lower 9 Mile if the islands are flat |
-| **Discipline** | Neap tide + off-peak = the bite compresses into the tide windows. Be early to each | Don't sprint to the fleet; structure-related sign beats no-man's-land sign |
-
-**Biggest risks, in order:** (1) the paperwork, which this KB genuinely cannot answer for a private boat; (2) the neap tide killing the current the whole program runs on; (3) the afternoon NW sitting right on the 12 kt whitecap line with a 10-second interval, and the fact that the KB says to assume the forecast errs worse and that afternoon wind at the islands strengthens rather than eases.
-
-Tell me the boat's range and sea-state ceiling and whether you're overnighting, and I'll tighten the transit and the fallback ladder.
+Two-day island program, tide-anchored because you're on a neap moon: run down early both days, make or buy bait first, work the kelp spots (Ribbon Kelp / 5-Minute Kelp / South Kelp Ridge / Lighthouse) and the north-end structure (Pukey Point, Middle Grounds, East of Pukey Point) **choosing spots by whether today's current runs parallel to the shore**, grade every mark before you stop, run the three-outfit stack and let the meter pick — 40–60 ft marks and boils = iron and light bait; balls tight to structure at 5–10 fathoms = yo-yo and dropper loop; metered-but-not-showing = chum them up and cast into the boil. Expect three or four good bites, not thirty. Be off the water ahead of the 12 kt afternoon NW so the northbound leg home isn't uphill. And sort the Mexican paperwork from CONAPESCA/INM directly — **this knowledgebase cannot tell you what a US private boat needs to fish Mexican water, and I'm not going to invent it.**
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/search-and-glassing.md`, `planning/report-reading-and-forecasting.md`, `planning/fleet-intelligence.md`, `planning/electronics-and-sounder.md`, `config/endpoints.md`, `locations/regions.md`, `locations/island-structure.md`, `locations/bight-geography.md`, `locations/bahia-de-los-angeles.md`, `locations/cedros-island.md`, `locations/bightsst-eval-targets.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/bird-reading.md`, `conditions/upwelling-and-turnover.md`, `seasonal/october.md`, `seasonal/september.md`, `seasonal/november-december.md`, `species/README.md`, `species/yellowtail.md`, `species/calico-bass.md`, `species/rockfish-lingcod.md`, `species/yellowfin-tuna.md`, `species/bluefin-tuna.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `bait/making-bait.md`, `bait/bait-tanks.md`, `fish-care/dorado-and-general.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `sources/regulatory-claims.md`  
-*videos:* `XLVUhV8DW64`, `OYOda6T3f-8`, `5to3Q5P7w90`, `D5DR7Kx42_A`, `YZtX1MiT0y8`, `ejUTAnONf7o`, `F9XjGMEvvag`, `HzE4FHHcvTk`, `NC3-3pJDEgo`, `0DKmYId1NN4`, `HTowqnwAMeA`, `tpmOYXYQwhU`, `6DzbsElGE7E`, `ZFqe49jRgA0`, `RNRFrfepiW0`, `5pbA-wXoric`, `UP_3fBu7VPA`, `VpW91AKOFVQ`, `pcwcRdmWmLc`, `yn1suHH6b1Y`, `Ec2GaNpiOHI`, `kzD0kSnnVPw`, `sIoNELGlxmk`, `JiJYamo0QHk`, `aFb221LUoD0`, `yGXSrUauo2w`, `8TO-tuYjwWk`, `vqsD0qpwcJA`, `0dIwWiOc1NY`, `NN5MWeRA28o`, `SczdZIq3UmE`, `GptrotE0x5M`, `P36VGPPf120`, `7WapaxdtjQg`, `bM2vUS1B-yQ`, `9tTM99InluM`, `XyKF34C5iB4`, `fri_BWI-VA0`, `cameron`  
-*gaps admitted:* Private-boat entry paperwork for Mexico is entirely absent: no vessel/temporary import permit, no crew list, no port clearance or port-captain check-in, no Mexican boat liability insurance, no Navy-boarding procedure. sources/regulatory-claims.md names this as a Known gap in so many words. | No US re-entry requirement (CBP small-vessel reporting) is recorded anywhere in the KB. | The KB does not say whether the CONAPESCA fishing licence is per-angler or per-vessel, what it costs, how long it lasts, or whether every person aboard needs one. | The KB does not say whether an FMM is required for a same-day boat trip that never lands ashore — its FMM guidance is written for a land border crossing with a point of entry and a length of stay. | No Mexican bag limits, size limits, or seasons for yellowtail, rockfish, calico or anything else at the Coronado Islands. The only Mexico regulatory row in the KB is a Baja California Sur circle-hook requirement (2019-02-13), a different state and not applicable here. | Nothing on landing or going ashore at the Coronado Islands, or on any reserve/closure status there. | The KB provides no numeric chlorophyll scale, so the given value of 0.9 cannot be interpreted against it — chlorophyll is treated only as an edge-and-age read, not a threshold. | No October-specific Coronado Islands doctrine exists in the KB. The islands are documented as the spring warming-transition classic; the dated Coronados entries are April and November. | No Coronado Islands location note exists at all — the islands appear only as mentions inside species, conditions, bait and profile notes, plus coordinates in Cameron's spot library. | locations/island-structure.md is region-gated socal-bight only, so applying its structure typology at the Coronados (baja-pacific-north) is an extrapolation the KB does not formally authorize. | The boat profile leaves range_nm and sea_state_max_ft null, and the protocol explicitly requires asking rather than assuming — so the 9 Mile Bank / Coronado Canyon detour and the sea-state go/no-go cannot be resolved from the KB. | Nothing on overnighting a private boat in Mexican waters — no anchorage guidance, no legal or procedural coverage. | The KB gives a swell-exposure window (160-186 degrees) for the San Diego Bay entrance only; there is no equivalent figure for the Mission Bay / Dana Landing entrance. | profiles/cameron/rods.md records no gear ratio for the Trinidad 40, so the yo-yo doctrine's high-speed-reel requirement cannot be verified against the owned inventory. | No slow-pitch / knife-jig outfit (130-250 g class) exists in the owned inventory; the profile lists one as still being shopped.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `planning/fleet-intelligence.md`, `planning/trip-length-selection.md`, `seasonal/october.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/current-structure.md`, `conditions/current-diagnostics.md`, `conditions/bird-reading.md`, `conditions/kelp-paddies.md`, `conditions/upwelling-and-turnover.md`, `locations/regions.md`, `locations/island-structure.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `locations/bightsst-eval-targets.md`, `locations/bahia-de-los-angeles.md`, `locations/cedros-island.md`, `locations/README.md`, `species/README.md`, `species/yellowtail.md`, `species/calico-bass.md`, `species/bonito.md`, `species/barracuda.md`, `species/rockfish-lingcod.md`, `species/white-seabass.md`, `species/yellowfin-tuna.md`, `species/bluefin-tuna.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `lures/iron-jigs.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `bait/bait-tanks.md`, `bait/fishing-live-bait.md`, `fish-care/gaffing.md`, `fish-care/dorado-and-general.md`, `profiles/cameron/boat.md`, `profiles/cameron/spots.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `sources/spot-lists.md`, `sources/regulatory-claims.md`  
+*videos:* `D5DR7Kx42_A`, `YZtX1MiT0y8`, `4pT0efBD1j0`, `dS9gd9k7A7Q`, `gdqI2dNd5_U`, `ejUTAnONf7o`, `XLVUhV8DW64`, `OYOda6T3f-8`, `5to3Q5P7w90`, `5p6gu14ZC4w`, `HTowqnwAMeA`, `0DKmYId1NN4`, `tpmOYXYQwhU`, `mdhoEQPqpng`, `6DzbsElGE7E`, `xI9tPJFXbUM`, `VpW91AKOFVQ`, `RNRFrfepiW0`, `SAltQjih0ms`, `yGXSrUauo2w`, `A70kK2niu2Q`, `Ec2GaNpiOHI`, `yn1suHH6b1Y`, `pcwcRdmWmLc`, `8TO-tuYjwWk`, `91ZJbhAnzMg`, `JiJYamo0QHk`, `NC3-3pJDEgo`, `zKmZ4zql2ws`, `LqW32NSkObY`, `kzD0kSnnVPw`, `sIoNELGlxmk`, `BskCsKaTiZw`, `_ZThckj2TIM`, `6-8KfjEg0x8`, `9tTM99InluM`, `fri_BWI-VA0`, `4xzK7YaXK5s`, `ZFqe49jRgA0`, `7WapaxdtjQg`, `P36VGPPf120`, `GptrotE0x5M`, `vqsD0qpwcJA`, `cameron`  
+*gaps admitted:* No Coronado Islands location note exists — the KB has coordinates for the seven named spots in sources/spot-lists.md but no per-spot structure, depth, or how-each-spot-fishes knowledge, and locations/island-structure.md is region-tagged socal-bight only, so its typology is applied here by analogy rather than by the region gate. | Mexican entry and fishing paperwork for a US private boat crossing by sea is not in the KB at all — sources/regulatory-claims.md logs it as a known gap; the only paperwork content (FMM, Mexican fishing licence, passport, vehicle insurance) is stated in locations/bahia-de-los-angeles.md for a drive-down road trip to Bahía de los Ángeles, not a boat crossing. | Nothing in the KB covers a vessel permit for a US boat in Mexican waters, per-boat fishing permits, clearing in/out or port-captain requirements, or US CBP reporting on re-entry. | The KB carries no Baja California (northern) sportfishing regulations — no bag limits, size limits, seasons or gear rules; its entire Mexico regulatory table is a single 2019 Baja California Sur circle-hook row that does not apply at the Coronados. | No tide tables or tide/slack times for mid-October — the KB's arrival-an-hour-before-the-change discipline cannot be converted into clock times from anything in the KB. | Chlorophyll 0.9 cannot be interpreted numerically — conditions/water-color.md gives only edge-and-age doctrine, no numeric thresholds or units, so a single value with no neighbouring water or history is unreadable here. | The three given SSTs (66.8 / 66.2 / 65.9 F) do not resolve a temperature break, and October doctrine is built entirely on break structure — the KB cannot substitute for a chart or a BightSST pull. | No October-specific Coronados material in the corpus: the KB frames the Coronados as the warming-transition (spring) classic; the Coronados-specific sessions cited are August 2020 (chum-and-cast) and April 2026 (wind re-rank). | No content on overnighting on a private boat at the Coronados — nowhere to lay up, anchoring or mooring overnight in Mexican water, or running two consecutive days out of one launch; planning/trip-length-selection.md covers sportboat trip formats only. | The active profile's boat envelope is unset — profiles/cameron/boat.md has range_nm and sea_state_max_ft as null, so the protocol requires asking for range and sea-state limit rather than assuming one; the KB also has no fuel-range or crossing-distance planning for a small boat. | No slow-pitch / knife-jig outfit in the profile — if the fish sit deep on a high spot, the KB's 130-250 g slow-pitch row has no owned gear to resolve to (logged as an open shopping item in profiles/cameron/rods.md). | No safety, VHF/emergency, or border-crossing procedure content for a small private boat operating in Mexican waters.
 
 </details>
 
 <details><summary><b>NOW — review</b> · 12/12</summary>
 
-# Two days at the Coronado Islands — mid-October
+MEXICO ISLAND, TWO DAYS, MID-OCTOBER — PRIVATE BOAT
 
-Worked through [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md). I used the conditions you gave exactly and pulled nothing live.
-
-**Before the fishing, the honest headline twice over:**
-
-1. **The KB cannot tell you what a private boat needs to cross into Mexican water.** It says so itself, in three separate places. Everything below under "Papers" is what the KB *does* hold plus the exact shape of the hole.
-2. **The KB has no October at the Coronados.** Its Coronados material is a spring fishery (Apr–Jun), and `locations/baja-pacific-north.md` carries an explicit flagged gap: *no corpus source for a month-by-month prior for the Baja Pacific north.* So this plan is built the way October says to build one — conditions-first, off the chart, not off a calendar prior for that chain.
+I ran this through `planning/day-plan-protocol.md` in order, using only the conditions you gave (no live pull). Two things up front: the KB's Coronados program is written as a **spring** trip, and the KB **does not answer the paperwork question for a private boat**. Both are called out below rather than papered over.
 
 ---
 
-## 1. The day's envelope (protocol step 1b)
+## 1. The envelope (protocol step 1b — binding)
 
-- **`regions: baja-pacific-north`** — the whole chain is Mexican water ([`locations/coronado-islands.md`](locations/coronado-islands.md)).
-- **`waters: island`**, plus **`bank`** if you work the Middle Grounds or the ground north of the chain.
-
-That filter is binding. It rules out, by gate rather than by opinion: swordfish and opah (socal-bight only), cabrilla (Cortez only), and dorado (`waters: open-ocean` only — and at 66.8 °F you are ~5 °F below the ~71–72 °F green-cold/blue-warm boundary dorado concentrate on, with 71.6 °F measured on a productive paddy, `E4vKwRaRueA`). White seabass does gate into this region, but `locations/baja-pacific-north.md` flags that no corpus source says where or when they are taken on this coast — so I'm not offering it.
-
-**The border runs through your fishing grounds.** [`locations/south-9-mile-bank-439.md`](locations/south-9-mile-bank-439.md) puts South 9 Mile Bank (US waters) **0.65 nm** from Lower 9 Mile Bank (Mexico), and 5.7 nm from Pukey Point, then states flatly: *"Which papers a day here needs is therefore a positional question, and the KB cannot answer it."* Treat your position, not your intention, as what decides which jurisdiction you're in — and know where the line is on your plotter before you start drifting.
-
-**I need two numbers from you the protocol says not to guess.** If this is the profile boat ([`profiles/cameron/boat.md`](profiles/cameron/boat.md), Panga Marine Marquesas 22, 115 hp, 30-gal tank, 100–125 lb ice, Dana Landing), its `range_nm` and `sea_state_max_ft` are both **null** in the profile with a comment saying the protocol must *ask* rather than assume. So: what's your range, and what sea state do you actually run in? Also note that profile launches from **Mission Bay**, which is a materially longer run to the Coronados than a San Diego Bay start.
+- **regions:** `baja-pacific-north` at the islands; `socal-bight` on the transit out and back (`locations/regions.md`, `locations/coronado-islands.md`).
+- **waters:** `island`, `bank`, plus `nearshore-coast` on the run.
+- Anything gated to `socal-bight` only is **off the table at the islands** — that includes the KB's `yellowtail — dropper loop` sub-page (`species/yellowtail-dropper-loop.md`, `regions: [socal-bight]`), even though the Coronados guide routes to the general `techniques/dropper-loop.md`, which is not region-gated. Sea-of-Cortez species (cabrilla, etc.) never surface for this trip.
+- **Run:** the chain is ~13 nm off the San Diego bay entrance per `locations/coronado-islands.md` (cameron). Note the KB flags its own unit conflict here — `species/yellowtail-coronado-islands.md` says "roughly 13 **mi**" verbatim from `D5DR7Kx42_A`; the charted math on `locations/pukey-point.md` gives Zuniga Jetty → Pukey Point = **14.0 nm**, and `locations/middle-grounds.md` gives Zuniga → Middle Grounds = **~15 nm**. Plan on 14–15 nm each way, not 13.
 
 ---
 
-## 2. Papers and permits
+## 2. Papers and permits — what the KB actually has, and what it does not
 
-**Regulatory — Mexico. INM for entry, CONAPESCA for fishing. Checked as of 2026-08. Verify current requirements before you travel; this is a foreign jurisdiction and these change.** ([`locations/mexican-waters.md`](locations/mexican-waters.md))
+From `locations/mexican-waters.md` (authority: **INM** for entry, **CONAPESCA** for fishing; stamped **as of 2026-08**, verify current before you travel — this is a foreign jurisdiction and these change):
 
-### What the KB holds (all of it sourced to a Baja *road* trip, `P36VGPPf120`)
+1. **FMM (tourist permit)** — filled out online in advance; needs passport details, point of entry, length of stay; produces a printout. **Print it.** One report of being checked three times on a trip (`P36VGPPf120`) — the KB flags that the source actually says "someone got checked three times last year," an unnamed third party, not one angler on one trip.
+2. **Mexican fishing licence (CONAPESCA)** — bought online; **carry your passport when you buy** (`P36VGPPf120`). The note says the licence moved to a new website as of 2026 so search fresh rather than trusting an old bookmark — and flags that the year and the "search fresh" advice are the note's own additions, not the source's. Only "bought online" + "have your passport on you" are verbatim.
+3. **Passport.**
+4. **Mexican vehicle insurance** — Baja Bound named; ~$90 for a 2021 car and ~$130 for a newer Tacoma over 4 days (`P36VGPPf120`). **This is road-trip scoped.** It is relevant to you only for the tow vehicle and trailer, and the KB flags that no cited source actually states that US policies don't carry over.
 
-| Paper | What the KB says |
-| --- | --- |
-| **FMM (tourist permit)** | Filled out online in advance; needs passport details, point of entry, length of stay. Produces a printout — **print it**. The KB records someone being checked three times (the note frames it as one angler on one trip; the flag on it says the transcript actually says "someone got checked three times last year"). |
-| **Mexican fishing licence (CONAPESCA)** | Bought online. Have your passport on you when you buy it. The note adds that the licence moved to a new website "as of 2026" and to search fresh rather than trust an old bookmark — flagged, because the transcript states only "there's this new website for the licenses… purchase it there. Have your passport on you," with no year. |
-| **Passport** | Yes. |
-| **Vehicle insurance** | Baja Bound named; ~**$90** for a 2021 car and ~**$130** for a newer Tacoma over **4 days**. This is *vehicle* insurance — it bears on towing or driving in, not on the boat. |
+**The gap you need to know about, stated plainly:** the KB carries an explicit flag on both `locations/mexican-waters.md` and `species/yellowtail-coronado-islands.md` — *no corpus source covers what a boat run from San Diego into Mexican water for the day requires: whether an FMM applies when you never land, and what a **private boat** as opposed to a vehicle must carry.* The Coronados are called out by name as "the single most common Mexican-water trip in the KB and the corpus does not answer it." Also absent: boarding/inspection practice and what the Mexican Navy asks for; and US declaration forms for bringing fish home. **Do not treat the four items above as a complete list for a boat.** Verify the vessel-side requirements with CONAPESCA/INM directly before you cross.
 
-### What the KB does not have — say it plainly
+Limits: `sources/regulatory-claims.md` records **no** Mexican bag limit, size gauge or season for yellowtail, rockfish/lingcod, whitefish, sheephead, yellowfin or skipjack — all logged as "unknown, absent from the corpus." California/CDFW rockfish rules (10 fish, the 240 ft island RCA line, the year-end closure) are on `species/rockfish-lingcod.md` **and do not apply in Mexican water.** Verify with CONAPESCA.
 
-- **Whether a boat run from San Diego into Mexican water for the day needs an FMM at all, and what a private boat as opposed to a vehicle must carry.** Flagged as a gap in [`locations/mexican-waters.md`](locations/mexican-waters.md), [`locations/coronado-islands.md`](locations/coronado-islands.md) *and* [`species/yellowtail-coronado-islands.md`](species/yellowtail-coronado-islands.md), where it is called "the single most common Mexican-water trip in the KB" and the corpus does not answer it.
-- **Boarding and inspection practice** — what the Mexican Navy asks for and how paperwork should be presented. No corpus source.
-- **US declaration for bringing fish home** — customs, transport and limits at the border. No corpus source.
-- **Mexican bag limits / size gauges for yellowtail, rockfish and lingcod, whitefish and sheephead** — all recorded in [`sources/regulatory-claims.md`](sources/regulatory-claims.md) as *unknown, absent from the corpus.* The register is explicit that **California rockfish regs do not apply in Mexican waters** — do not carry your CDFW season, depth lines or bag limits across the border in your head.
-
-The only boat-specific permit datapoint in the whole KB: running a San Diego boat to **Guadalupe Island** in 2009 was done only after obtaining Mexican federal fishing permits (`Sx40JvCXFuA`; the issuing agency is garbled in the caption). That's a 2009 datapoint about a different destination — treat it as evidence that boat-level permits exist, not as your checklist.
-
-**So: call CONAPESCA and a San Diego Mexican-permit broker before this trip. Do not treat the table above as sufficient for a vessel.**
-
-### The US side
-
-If any part of either day is fished on the US side of the line — Point Loma on the way out, the 9 Mile complex, anything north of the border — that's CDFW water and a **California fishing licence** applies, carried on your person and checked before you reach the water (`LsFMBCa9DOQ`). Your **GO ID** is the 10-digit number on it. Boundary compliance is **positional, not depth-based**: load the line into a chart app and check position in real time rather than trusting the sounder (`iAr6sbRC384`). ([`locations/us-waters.md`](locations/us-waters.md))
+Your California licence still matters on the US side of the transit (`locations/us-waters.md`, CDFW).
 
 ---
 
-## 3. Reading your conditions
+## 3. What your numbers say (protocol step 2)
 
-### Temperature — there is no break here to fish
+**SST — you have a 0.9 °F gradient, islands warmest.** 66.8 at the islands, 66.2 at the 9 Mile, 65.9 at Point Loma. October is the month `seasonal/october.md` says the water chart runs the plan — "conditions become pretty important… look 100% at your temp chart and chlorophyll" (`OYOda6T3f-8`; the note flags that `XLVUhV8DW64` never says this line). But that doctrine is about **which side of a break** you fish, and a 0.9 °F spread across 15 nm is a gradient, not the sharp break `conditions/current-structure.md` and the October note want you to build a plan on. **Treat the islands as the warm end of a soft gradient and let structure, not the thermometer, pick the stops.**
 
-66.8 at the islands, 66.2 at the 9 Mile, 65.9 at Point Loma: **0.9 °F across the whole inshore-to-island span.** [`conditions/water-temperature.md`](conditions/water-temperature.md) says the planning move is to find **breaks** — sharp gradients, where offshore edges can jump multiple degrees in ~1 mi — not the warmest cell. Your three points don't resolve a break at all; they show a gentle warm-toward-the-islands gradient. The islands are the warm end of what you've given me, which is consistent with going there, but **do not plan on a temperature edge you can't see in this data.** If a real edge shows up inside the chain on the day, that's your structure.
+What 66.8 °F supports and doesn't, by the numbers the KB actually states:
 
-At 66.8 °F: **calico bass sit right in their stated 65–68 °F preference band** (past ~70 °F they get lethargic and drop, `LqW32NSkObY`). Yellowtail have **no numeric SST band in the corpus** — [`species/yellowtail.md`](species/yellowtail.md) flags that gap explicitly and gives directional water-state reads only.
-
-### Chlorophyll 0.9 — the KB gives you no threshold
-
-I searched: **the KB carries no numeric chlorophyll bands anywhere.** [`conditions/water-color.md`](conditions/water-color.md) works entirely on two ideas, neither of which a single number can serve:
-
-- **Age.** A new cold bloom (post-NW-wind, overnight ~5 °F drop, cold and green) is *bad now, productive later*; a mature bloom edge is what fishes. You have no way to age 0.9 from one reading.
-- **Edges.** The fishable water is the edge, not the middle of a mass — and you cannot see an edge with one value at one point.
-
-October doctrine says to run "100% at your temp chart and chlorophyll" (`OYOda6T3f-8`, quoted in [`seasonal/october.md`](seasonal/october.md) with a flag that the quote splices two non-adjacent passages). That's exactly the layer your data is thinnest in. **If you can get a chlorophyll image rather than a point value before you go, that's the highest-value thing you can add to this plan.**
-
-### Wind and swell — the day is a morning day
-
-- **NW 3 ft @ 10 s** is not steep by the KB's steepness rule (flag a zone when the period in seconds approaches the height in feet — 10 vs 3 is fine, `zKmZ4zql2ws`). But a working-captain threshold in [`conditions/sea-state.md`](conditions/sea-state.md) calls **sub-10-second intervals "absolutely horrible"** (`NC3-3pJDEgo`) — you are sitting exactly on that line, so if the period drops at all, the sea gets worse faster than the height suggests.
-- **12 kt is the same captain's personal no-run cutoff, and above ~12 kt is what raises whitecaps** (`NC3-3pJDEgo`, flagged single-source and framed as personal). Your afternoon forecast *is* 12 kt.
-- **Forecast error is asymmetric** — assume it errs worse, and that afternoon wind at the islands strengthens rather than eases (`zKmZ4zql2ws`). **If it's windier than forecast in the morning, assume it builds all day and a small boat bails early** (`DnSqw4r7A1s`).
-- Also unmodelled in a point forecast: **current running against the NW swell compresses the interval and stands it up** — 4 ft @ 10 s can fish like 6 ft @ 7–8 s (`zKmZ4zql2ws`).
-
-**Consequence: both days are front-loaded.** Be on fish at first light, plan to be done or inside by early afternoon, and don't let a 12 kt afternoon become a "we'll see."
-
-On the bright side for presentation: the Coronados wind read is that **gusts to 25 kt push fish off the top and the fleet bite goes mostly yo-yo while the surface iron still picks a fish** (`ejUTAnONf7o`). At 8–12 kt you are well under that — **the surface iron should stay live both days.**
-
-### Moon — last quarter is the awkward one
-
-- **Quarter moons are neap tides — the smallest tidal range**, because sun and moon sit ~90° apart and the bulges partially cancel (`9tTM99InluM`, [`conditions/tide-and-slack.md`](conditions/tide-and-slack.md)).
-- The KB's elevated windows are **full/new ±1 week, with the days leading into the peak strongest** ([`conditions/moon.md`](conditions/moon.md)). Last quarter sits roughly 7 days off both peaks — the outer edge of both windows, not the middle of either.
-- **This matters because yellowtail run on current, not the clock.** "Current on = bite on"; slack current keeps the bite off and the current *starting* is what starts it (`fDSd9kqwYW0`); even a puff of current can fire a lee-side bite (`_r_qKX_7080`). A neap range means **current is your scarce ingredient**, so you cannot afford to be off-station when it runs.
-- The Coronados-specific version: the zone runs **seeing-not-biting cycles with one short bite window a day**, and the day is planned around tide and current rather than the clock (`YZtX1MiT0y8`). Inside a cycle there is "no shortage of fish" — presence stays high while catchability compresses.
-- **Arrival discipline: be at your highest-percentage spot an hour BEFORE the tide change, not at it** (`6TBxHnkYXI0`).
-
-I have no tide table — the KB doesn't hold one and I'm not fetching. **Pull the tide and current times for both days and hang the whole plan on them.** The KB also flags that no corpus source covers the moon-phase effect on yellowtail at all, so I'm not going to tell you last quarter is good or bad; I'm telling you it's a small tidal range and that the current windows are therefore worth more.
-
----
-
-## 4. The program
-
-### The zone circuit (from [`species/yellowtail-coronado-islands.md`](species/yellowtail-coronado-islands.md))
-
-1. **Set the troll before you reach the islands.** Pink and purple **190-class deep divers** are the zone's fish-finder — troll while you search for working birds, boils, breezing fish and bait on top. Trolling here is prospecting that happens to hook fish, not the presentation (`HTowqnwAMeA`).
-2. **Figure-8 patterns around the islands, plus a pass across the Middle Grounds** — the circuit covers island edges and mid-chain structure in one sweep.
-3. **Convert on sign or a troll strike.** Cast a surface iron at any surface activity (`D5DR7Kx42_A`). Fish metered but not showing get **chum-then-cast**: meter the school, throw live chum, let them boil, cast into the boil (`4pT0efBD1j0`, `dS9gd9k7A7Q`). The long cast is load-bearing — they won't let the boat drive over the top of them (`dS9gd9k7A7Q`).
-4. **Hold the stop while anyone is bent** — a hooked fish keeps the school near the boat; get a jig back in the water while someone is still hooked (`gdqI2dNd5_U`).
-5. **Tight balls hugging structure → yo-yo iron:** hit bottom and the bite comes a couple of cranks off it — a reaction bite, so burn it (`D5DR7Kx42_A`).
-6. **With bait aboard → slow-trolled bait** over the same zones; **flyline** when current and tide turn them onto bait; **dropper loop** to bottom marks (`D5DR7Kx42_A`).
-
-**A caveat you should have.** The KB's own evidence file flags that the "figure-8s + Middle Grounds circuit" wording rests on `HTowqnwAMeA`, which is a mid-August day on a small rock *above the border* and never mentions the Coronados ([`locations/evidence/coronado-islands.md`](locations/evidence/coronado-islands.md)). The circuit is the KB's stated doctrine; the corpus support under it is thinner than it reads. Fish it, but don't treat it as heavily corroborated.
-
-Two more zone reads worth having:
-- **Good water here is bait volume.** The west side's exposure to colder Pacific currents and tidal swings keeps it filled with bait (`D5DR7Kx42_A`).
-- **Big Coronado schools forgive the retrieve** — they eat a faster, less exacting retrieve than the finicky smaller schools on the Del Mar–Imperial Beach coast (`VpW91AKOFVQ`). Get the jig swimming and keep it moving before micro-tuning cadence.
-- **Water flips fast** — Coronado droughts run in hours, not months, so re-run the circuit rather than abandoning it.
-
-### Spots and coordinates (all `cameron`, charted; feed these to your plotter and to per-spot conditions)
-
-| Spot | Position | Role |
+| Species | KB number | Your 66.8 °F |
 | --- | --- | --- |
-| [Pukey Point](locations/pukey-point.md) | 32°26.850'N 117°18.000'W | North end of chain; ~14 nm from the bay entrance |
-| [East of Pukey Point](locations/east-of-pukey-point.md) | 32°27.000'N 117°14.100'W | Library names it "yellowtail & rockfish" |
-| [North of North Island](locations/north-of-north-island-rockfish-area.md) | 32°27.380'N 117°18.000'W | Rockfish ground |
-| [Middle Grounds](locations/middle-grounds.md) | 32°25.810'N 117°15.950'W | Mid-chain bank — the trolled leg |
-| [Ribbon Kelp](locations/ribbon-kelp.md) | 32°24.800'N 117°13.880'W | Kelp edge |
-| [Lighthouse](locations/lighthouse.md) | 32°23.290'N 117°14.570'W | South island landmark |
-| [5-Minute Kelp](locations/5-minute-kelp.md) | 32°22.940'N 117°13.515'W | Kelp edge |
-| [South Kelp Ridge](locations/south-kelp-ridge.md) | 32°22.000'N 117°13.260'W | Kelp edge |
-| [Rockpile](locations/rockpile.md) | 32°17.620'N 117°10.030'W | Outlying high spot, 9.6 nm SSE of Middle Grounds |
-| [Coronado Canyon](locations/coronado-canyon.md) | 32°30.300'N 117°17.500'W | Rockfish ground N of chain |
-| [Lower 9 Mile Bank](locations/lower-9-mile-bank.md) | 32°32.500'N 117°20.500'W | Rockfish ground; 0.65 nm from US South 9 Mile Bank |
+| Calico bass | preference band **65–68 °F**; past ~70 they go lethargic (`LqW32NSkObY`, `species/calico-bass.md`) | **dead centre of the band** |
+| Bluefin | 70–72 °F preferred band stated against 81 °F fished the day before, 76 °F foamers, 63–65 °F January presence — "treat any single number as soft evidence" (`species/bluefin-tuna.md`) | below the stated band |
+| Yellowfin | warmest × cleanest; 72 °F over a SoCal fall bite (`OYOda6T3f-8`, `SczdZIq3UmE`) | ~5 °F under it |
+| Dorado | green-cold/blue-warm boundary ~71–72 °F; 71.6 °F on a productive paddy (`E4vKwRaRueA`) | ~5 °F under it |
+| Yellowtail | **⚠ no SST band exists in the KB** — `species/yellowtail.md` flags the numeric bands as a gap and gives directional water-state reads only | not decidable from temperature |
 
-Useful geometry from [`locations/middle-grounds.md`](locations/middle-grounds.md): from the Middle Grounds, East of Pukey Point 2.0 nm NE, Ribbon Kelp 2.0 nm ESE, Pukey Point 2.0 nm WNW, North of North Island 2.3 nm NW, Lighthouse 2.8 nm SSE, 5-Minute Kelp 3.5 nm SE, South Kelp Ridge 4.4 nm SSE, Coronado Canyon 4.7 nm NNW, Lower 9 Mile 7.7 nm NNW, Rockpile 9.6 nm SSE. **Nine of the eleven spot pages are minimum pages** — position and parent zone only, with depth, bottom composition and approach all flagged as no-corpus-source. There is no per-spot depth data in this KB.
+**Read: this is an island/structure trip, not a tuna trip.** Don't run past the islands to the 9 Mile hoping for warm-water pelagics — the 9 Mile is 0.6 °F *colder* and nothing in the KB's stated numbers supports bluefin, yellowfin or dorado at these temperatures. The KB's own hedge applies: a single SST number is soft evidence, never a hard exclusion (`conditions/water-temperature.md`).
 
-**Distance caveat:** the KB carries an unresolved unit conflict on the run — the zone page says ~13 **nm** from the San Diego bay entrance (cameron), the yellowtail guide says ~13 statute **mi** (`D5DR7Kx42_A`), and the charted math gives 13.3 nm to the nearest waypoint and 14.0 nm to Pukey Point. Plan fuel on ~14 nm from the bay entrance, more from Mission Bay.
+**Chlorophyll 0.9 — I can't grade this.** The KB contains **no numeric chlorophyll thresholds anywhere**. What `conditions/water-color.md` gives you instead is the freshness read: a chlorophyll signal has an age. New cold bloom (overnight ~5 °F drop + green after an afternoon NW blow) is short-term negative — mark it for the recovery, don't fish it today (`h3PTupup17I`). A **mature bloom edge** is where the chain has caught up and bait/predators stacked. Fish the **edge**, not the middle of a mass, and don't default to the prettiest blue — bait holds in the dirtier water and predators work the seam (`HzE4FHHcvTk`, `HWx1jDTGsng`). At the Coronados specifically, the zone's virtue is bait volume: the west side's exposure to colder Pacific currents and tidal swings is what keeps it loaded (`D5DR7Kx42_A`).
 
-### Two days — my structuring, not KB doctrine
+**Wind NW 8 → 12 kt: you are running right at the KB's threshold.** `conditions/sea-state.md` carries a working-captain rule that **wind above ~12 kt is what raises whitecaps**, and 12 kt is that captain's personal no-run cutoff (`NC3-3pJDEgo`; the note flags this as single-sourced and personally framed). Layered on top: **forecast error is asymmetric** — assume it errs worse, and assume afternoon W at the islands **strengthens** rather than eases (`zKmZ4zql2ws`); if it's windier than forecast in the morning, assume it builds all day and a small boat bails early (`DnSqw4r7A1s`). And the **homebound-wind rule applies directly to this trip**: a run south into Mexican water puts a W wind on the return leg — uphill misery — so **plan return timing against the afternoon build, not the outbound conditions** (`HzE4FHHcvTk`). Practical shape: be on the water at first light, take the bite window in the morning, and be turning north by early afternoon both days.
 
-**The KB has nothing on a two-day private-boat trip here.** [`planning/trip-length-selection.md`](planning/trip-length-selection.md) is about booking a sportboat (one-day vs 3-day vs 5-day) and doesn't apply. The anchor-vs-drift commit call at the Coronados is a flagged gap, and there is no corpus material on overnighting in Mexican water. So this schedule is me sequencing KB-sourced pieces, and I'm labelling it as such:
+**Swell 3 ft @ 10 s: clean, but sitting on a line.** The steepness rule says flag a segment where the period in seconds approaches the height in feet — 10 vs 3 is nowhere near it, so this is a comfortable sea by that test (`zKmZ4zql2ws`). But the same note calls a **sub-10-second interval a hard bad-sea flag** (`NC3-3pJDEgo`), and you are exactly at 10 — no margin. **Channel transit:** the SD Bay entrance is open to swell from roughly **160°–186°** (measured seaward axis 186°), and **Point Loma blocks swell from west of the channel axis** (cameron) — a NW swell is on the blocked side, so the harbor transit should be the protected part of your day. One thing I can't do: `conditions/sea-state.md` wants the current vector checked against the swell (opposition compresses the interval and stands it up — a forecast 4 ft @ 10 s fishing like 6 ft @ 7–8 s). **You gave me no current, so that check is unrun.**
 
-**Day 1 — learn the water.** Leave early enough to make bait and be trolling into the chain at gray light (yellowtail feed hardest in the gray light early, `0dIwWiOc1NY`). Run the full circuit north-to-south with divers down: Pukey Point → Middle Grounds → Ribbon Kelp → Lighthouse → 5-Minute Kelp → South Kelp Ridge. Glass hard between passes. Time your commitment so you are parked on whatever produced **an hour before the tide change**. Be honest about the afternoon wind.
+**Moon last quarter — this is the least helpful phase in the KB, and it changes your timing.** `conditions/moon.md` and `conditions/tide-and-slack.md`: **spring tides (biggest swings) fall on full and new; neap tides (smallest) fall on the quarters** (`9tTM99InluM`). Every elevated-probability window the KB documents is full/new ±1 week (`XLVUhV8DW64`, `fri_BWI-VA0`) — a quarter moon is the trough between them, and the KB states **no quarter-moon bite doctrine at all**. `species/yellowtail.md` separately flags moon-phase effect on yellowtail as a **no-corpus-source gap**.
 
-**Day 2 — re-run what worked, plus the tide.** Coronado droughts run in hours, so a dead Day-1 spot is not disqualified. Repeat the productive legs and, if Day 1 was flat everywhere, extend to the Rockpile (9.6 nm SSE) or work the rockfish ground north of the chain — **subject to the Mexican limits you'll have to verify yourself.** Calibrate expectations: the corpus's local-coast yellowtail benchmark is **three or four bites for a good day**, 12–15 bites an anomaly (`HTowqnwAMeA`) — two fishless hours is not evidence the technique is wrong. That figure is scoped to the local coast, not stated for the islands.
-
-### Search discipline ([`planning/search-and-glassing.md`](planning/search-and-glassing.md))
-
-- Glass from a **full stop, or bow into the swell at ~1 kt** — a rolling boat makes glassing useless. Image-stabilized binoculars.
-- **360° in small increments, 3–4 minutes per scan.** When a bird catches your eye, **watch it 30–40 seconds** before judging it.
-- **Ranges from deck level:** a few terns at ~0.5–1 mi, a big bird spot at ~2 mi. From a hardtop: birds ~2 mi, dolphin ~4 mi. **Space glass stations 3–4 mi apart.**
-- **Along a bank, run the contour at 16–18 mph** with a lookout ~30° off each bow.
-- **Terns are the run-to bird** — run to working terns even when nothing else is working, and cast under the bird the moment it dives, not at its general position (`JiJYamo0QHk`). A **moving dive-line** = bait being pushed from below; a **locked-in, stationary** bird = bait only (`Blh2BA-7Ono`).
-- **Boobies are mostly seen at the Coronados and are worth paying attention to (cameron)** — but [`conditions/bird-reading.md`](conditions/bird-reading.md) flags that there is **no corpus doctrine on booby behavior at all**, so you get "look at them," not "here's what they mean."
-- **Mixed piles at open-water current breaks = bait only, skip.** Exception: a mixed pile *on kelp or structure* can be a real bait event (`Blh2BA-7Ono`, `OYOda6T3f-8`).
-
-### On the meter ([`species/yellowtail.md`](species/yellowtail.md))
-
-- **Grade the bottom before hunting fish sign:** thin return = sand/mud, thick return = rock, and the fish hold on rock (`6DzbsElGE7E`).
-- **Tight balls hugging hard bottom, arcs at ~5–10 fathoms near structure** → yo-yo / dropper loop. (Flagged: `D5DR7Kx42_A` carries no depth figure; the 5–10 fathom band is note-side.)
-- **Metered at 40–60 ft and not showing** = staging up — surface-iron and light-bait fish, not yo-yo fish; when they boil, go all-in on the iron (`0DKmYId1NN4`).
-- **Stratified column, bottom through mid-water** = hunting → slow-trolled and flylined bait (`HTowqnwAMeA`).
-- **Balled tight to the bottom** = present but not feeding → dropper loop, plus a yo-yo burned past them for the reaction strike.
-- **Don't marry the technique.** Pulling the anchor and slow-trolling the same zone roughly quadrupled a bite rate over anchoring (`HTowqnwAMeA`).
+The consequence is real and actionable: **neap = smallest tidal swing = least current.** For yellowtail, `species/yellowtail.md` states **current on = bite on** — slack current keeps the bite off and the current starting is what starts it (`fDSd9kqwYW0`); even a puff of current can fire a lee-side bite to 40 lb (`_r_qKX_7080`). On a neap you get less push, so:
+- **Anchor the day to the tide/current changes, not the clock.** `conditions/tide-and-slack.md`: be at your highest-percentage zone **an hour before** the change (`6TBxHnkYXI0`), and when the bite is off-peak or marginal, **action compresses into the tide windows** — arrive early to each (`HzE4FHHcvTk`).
+- Confirm current on the water rather than trusting the plotter: **a chart plotter's current-arrow layer reads wind, not current** (`BskCsKaTiZw`). Use kelp lean and chum-drift angle instead (`conditions/current-diagnostics.md`): kelp pulled ~20 ft under = raging, surface dead, go deep; laid flat = strong, work the down-current side; **resurfacing = slacking, switch back to the surface** — that transition is the cue to change gear *before* the window opens (`HnqiE05vdXs`). Chum swinging off at an angle to how the boat lies = real current cutting across.
 
 ---
 
-## 5. Gear — class terms, with the zone's numbers
+## 4. The program (protocol step 3)
 
-Rig all three faces before you leave the dock; the face can flip by the hour.
+**Caveat first:** `species/yellowtail-coronado-islands.md` is the KB's only Coronados program and its `season_window` is **spring (warming transition)**. `species/yellowtail.md` maps October to **fall fragmentation** — "island fish keep biting while the water holds" — and immediately flags that half of that sentence as absent from all three cited sources. **There is no October-specific Coronados content in this KB.** What follows is the spring circuit applied to your October conditions, and you should treat it that way.
 
-| Job | Class | Coronados numbers |
+### Bait — decide this before anything else
+Two paths (`bait/making-bait.md`):
+- **Buy sardines at the barge.** Timing is the whole game: sportboats all load ~6:00 a.m. and the line forms by quarter to six, so target **5:00 a.m. or 4:30 a.m.** for no line (`ztpj1Xll0-U`, `bM2vUS1B-yQ`). A 7:00 a.m. arrival also avoids the line but "it's all gone" — it buys a short wait at the cost of your morning window (`7WapaxdtjQg`, `ztpj1Xll0-U`). Hail on **VHF 11**, tie to the side the cone marks, ask for it **loaded light**, tip the attendant, never board the barge.
+- **Make mackerel on the sabiki at the islands** — this is cameron's documented Coronados program: sabiki down to **~100 ft** on an **8 oz** sinker; has loaded **5 twelve-inch mackerel on one drop**. Twelve-inch macks are heartier baits than sardine, and bigger bait selects bigger fish (`Zo92MG459gQ`, `d0yGBQDeY_4`).
+
+Given a neap/low-current day and two days to fish, **do both**: buy light at 5:00 a.m. day one, and top up with macks on the sabiki when the troll goes quiet.
+
+### The circuit — one loop, not a list of stops
+`locations/coronado-islands.md` and `species/yellowtail-coronado-islands.md`:
+
+1. **Set the troll before you reach the islands.** Pink and purple **Halco 190-class divers** are this zone's fish-finder (`lures/halco-laser-pro.md`). Trolling here is **prospecting that happens to hook fish**, not the presentation (`HTowqnwAMeA` — the KB flags that this source never mentions the Coronados; the prospecting framing is what it supports). Carry a spread of colors, styles and dive depths — fish key on presentation, depth or vibration on any given day. The flyline outfit tows a **20–30 ft diver**; a dedicated 6–7 ft troll outfit tows **40 ft divers**.
+2. **Figure-8s around the islands, plus a pass across the Middle Grounds.** Charted positions (all cameron, from `sources/spot-lists.md`, carried on the per-spot pages):
+   - Pukey Point (north end) **32°26.850'N 117°18.000'W** — ~14.0 nm from Zuniga Jetty
+   - Middle Grounds (the mid-chain bank) **32°25.810'N 117°15.950'W** — ~15 nm
+   - Ribbon Kelp **32°24.800'N 117°13.880'W**
+   - Lighthouse **32°23.290'N 117°14.570'W**
+   - 5-Minute Kelp **32°22.940'N 117°13.515'W**
+   - South Kelp Ridge **32°22.000'N 117°13.260'W**
+   - Rockpile (outlying, SE) **32°17.620'N 117°10.030'W**
+   Neighbour spacing off the Middle Grounds: East of Pukey Point 2.0 nm NE, Ribbon Kelp 2.0 nm ESE, Pukey Point 2.0 nm WNW, Lighthouse 2.8 nm SSE, 5-Minute Kelp 3.5 nm SE, South Kelp Ridge 4.4 nm SSE.
+   **Be honest about what these pages hold:** Rockpile, Ribbon Kelp, 5-Minute Kelp, South Kelp Ridge, Lighthouse, East of Pukey Point, North of North Island, Coronado Canyon and Lower 9 Mile Bank are all **minimum pages — position and parent zone only.** Depth, bottom composition and approach are flagged gaps on every one of them.
+3. **Convert on sign or a troll strike.** Cast a **surface iron** at any surface activity (`D5DR7Kx42_A`). Fish **metered but not showing** get the chum-then-cast sequence: meter the school, throw live chum, let them boil, cast into the boil (`4pT0efBD1j0`, `dS9gd9k7A7Q`). **The long cast is load-bearing — they will not let the boat drive over the top of them** (`dS9gd9k7A7Q`).
+4. **Hold the stop while anyone is bent.** A hooked fish keeps the school near the boat — get a jig back in the water while someone is still hooked up (`gdqI2dNd5_U`). A troll strike means more fish are under the boat, so keep the other trolled rod working and cast into the same water.
+5. **Tight balls hugging structure → yo-yo iron.** Hit bottom, and **start winding the instant the jig touches — never let it sit** (`8XIy7hPsFkQ`); the bite comes a couple of cranks off the bottom and it's a reaction bite, so burn it (`D5DR7Kx42_A`). Wind through the bite rather than swinging — the continuous full-speed crank drives the hookset (`5pbA-wXoric`, `ETw_3AFxEcM`, `RNRFrfepiW0`). Position **up-current of the mark** so the drop sweeps onto the structure; thumb the spool so it falls straight instead of scoping away.
+6. **With bait aboard**, slow-troll over the same zones, flyline when current and tide turn them onto bait, and put a **dropper loop** down to bottom marks (`D5DR7Kx42_A`).
+
+### Reading the meter (`species/yellowtail.md`, `planning/electronics-and-sounder.md`)
+- **Grade the bottom before you hunt fish:** thin/faint return = sand or mud, thick and dark = rock, and **structure fish sit on rock, never mud** (`6DzbsElGE7E`). Works on any brand, no discrimination mode needed.
+- **Tight balls hugging hard bottom, arcs at ~5–10 fathoms (30–60 ft)** near pinnacles and high spots — ⚠ the KB flags this depth figure: `D5DR7Kx42_A` carries no depth at all, only "tight balls of yellowtails sometimes hugging the structure." Treat 5–10 fm as the KB's inference, not the source's number.
+- **Fish at 40–60 ft not yet showing are staging up** — surface-iron and light-bait fish, not yo-yo fish; when they boil, go all-in on the iron (`0DKmYId1NN4`).
+- **Shape reads feeding state:** stratified marks running bottom-to-mid-column, or fish sitting high and spread over a small rock (~20–30 ft across), are **hunting** → slow-trolled and flylined baits. **Balled tight to the bottom** = present but not feeding → dropper loop, plus a yo-yo burned past them for the reaction strike (`HTowqnwAMeA`, `tpmOYXYQwhU`).
+- **Don't stop on the first bottom mark** — idle on and stack the picture depth by depth; every stop on an ungradeable mark burns bait and time (`KjVLn4cWHbc`, `QP6c8vcslVs`).
+
+### Birds
+Glass from a full stop or bow-into-swell at ~1 kt, 360° in small increments, **3–4 min per full scan**, and watch a bird **30–40 seconds** before judging it. From deck level expect a few terns at **0.5–1 mi**, a big bird spot at **~2 mi**; space glass stations **3–4 mi apart** (`planning/search-and-glassing.md`, `DnSqw4r7A1s`, `E4vKwRaRueA`). On a bank, run the contour at **16–18 mph** with a lookout ~30° off each bow.
+- **Terns:** locked-in repeated dives on one spot = **bait only**; a **moving dive-line** = bait being pushed from below — that's the one to run on. Cast **under the bird the moment it dives**, not at its general position (`Blh2BA-7Ono`, `JiJYamo0QHk`).
+- **Boobies:** `conditions/bird-reading.md` says boobies are **mostly seen at the Coronados** and cameron considers them worth paying attention to — but flags that there is **no corpus doctrine on this bird at all**, and no read distinguishing bait-only from fish-underneath. So: note them, don't build the day on them.
+- ⚠ `locations/coronado-islands.md` claims "terns are worth reading here specifically" and the KB flags it as contradicted — the cameron source scopes terns as his best bird *generally* and scopes the **booby** to the Coronados.
+- **Mixed piles** (gulls + pelicans + terns + cormorants) at open-water current breaks = bait only, skip — **exception:** a mixed pile **on kelp/structure** can be a real bait event worth working (`Blh2BA-7Ono`, `OYOda6T3f-8`).
+
+### Expectations, and how to run two days rather than one twice
+- **Seeing-not-biting is this zone's normal state, not the fish leaving.** Boats fishing the islands daily see more fish than they catch, and each day carries one short weather-or-time bite window; inside a cycle there is "no shortage of fish" (`YZtX1MiT0y8`). Presence stays high while catchability compresses.
+- **Coronado droughts run in hours, not months** (`locations/coronado-islands.md`) — which is exactly why **the circuit is worth re-running rather than abandoning**, and why day two is not a wasted repeat.
+- **Big Coronado schools forgive the retrieve** — they often eat a faster, less exacting retrieve than the finicky small schools on the mainland coast from Del Mar to Imperial Beach (`VpW91AKOFVQ`). Get the jig swimming and keep it moving before micro-tuning cadence. The general rule: there is no species-specific retrieve — when the lure swims right, fish bite it; the **kick-out** every third or fourth swim is the trigger, and a flat-swimming jig gets helped with speed changes and "a little perky-jerky" (`Ec2GaNpiOHI`, `yn1suHH6b1Y`).
+- **Wind re-ranks the presentation; it doesn't end the day.** Gusts to 25 push fish off the top, the fleet bite goes mostly yo-yo, and the surface iron still picks a fish — a re-rank, not an abandonment. Fish swiping the jig without committing on a wind day is the wind turning the bite, not the wrong jig (`ejUTAnONf7o`). Your 12 kt afternoon is milder than that, but it's the same direction: **surface program in the morning, weight toward the yo-yo as the afternoon builds.**
+- **Day two: don't re-run day one's pin.** `planning/report-reading-and-forecasting.md` — draw a box around a position sized by how old the intel is, not a pin. (The 10–15 nm overnight figure is scoped to **open-water bluefin not holding structure** (`Blh2BA-7Ono`), so I'm not applying it to island yellowtail; the KB has no overnight-displacement figure for structure fish — a gap.) Re-run the circuit, and re-read the water rather than assuming yesterday's edge is in the same place.
+- **Bite-rate calibration:** a good SoCal **local-coast** yellowtail day is **three or four bites**; a 12–15-bite day is an anomaly, and two fishless hours is not evidence the technique is wrong (`HTowqnwAMeA`). The KB explicitly scopes that to the local coast, **not** to an island — so treat it as a floor for expectations, not a Coronados forecast.
+
+### If the yellowtail won't play — the in-envelope backups
+- **Calico bass** (`species/calico-bass.md`, gated `baja-pacific-north`, `island`): your **66.8 °F sits inside the stated 65–68 °F preference band**, and October–December is named as a transitional stretch that can pull another degree of warmth out of stable water (`LqW32NSkObY`). Kelp edges along the island faces — the Ribbon Kelp / 5-Minute Kelp / South Kelp Ridge line. Weedless swimbait to individual stringers on a 7–8 ft bass-class outfit, 40–60 lb, 7" slug on a 3/8–3/4 oz keel-weighted spring hook, heavy fluoro for kelp abrasion (`YIABTTYXeqc`).
+- **Bonito and barracuda**: both gated in-region. Dated October appearances exist for both (`OYOda6T3f-8`, `5p6gu14ZC4w`, `Klfb433I3Uk`, `0KQ--N5TjqE`). The KB's framing is that **bonito hours and yellowtail hours are not the same hours** — the yellowtail window is the morning and the day then "becomes a pick-o day" of bass, barracuda and bonito (`Blh2BA-7Ono`). That is a good description of what your afternoons will probably be.
+- **Bottom fish on the rockfish ground north of the chain** — Coronado Canyon **32°30.300'N 117°17.500'W**, Lower 9 Mile Bank **32°32.500'N 117°20.500'W**, North of North Island **32°27.380'N 117°18.000'W**, East of Pukey Point **32°27.000'N 117°14.100'W**. Rockfish, lingcod, whitefish and sheephead all sit in-envelope, and sheephead/whitefish are explicitly the cold-season resident package (`species/sheephead.md`, `species/ocean-whitefish.md`, `46ha7J1Fc6A`). **But: this is Mexican water and the KB has no CONAPESCA season, bag or gauge for any of them.** Verify before you keep one. Note also that `locations/coronado-islands.md` calls the East-of-Pukey ground "rockfish," and the KB flags that the source library actually names it "East of Pukey Point (**yellowtail** & rockfish)" — yellowtail listed first.
+
+---
+
+## 5. Gear (protocol step 4)
+
+You didn't give me a profile, so these are **class terms** (`tackle/gear-classes.md`) with the Coronados-specific numbers from `species/yellowtail-coronado-islands.md`. Rig all three yellowtail outfits before the day starts — surface iron, yo-yo/dropper, flyline — because the faces flip by the hour (`species/yellowtail.md`).
+
+| Outfit | Class build | Coronados numbers |
 | --- | --- | --- |
-| **Troll / search** | The flyline outfit tows a 20–30 ft diver — no second setup needed. For a **40 ft** diver, switch to a **6–7 ft rod, 40-class reel, 80 lb braid**, top shot short: **15–20 ft of 50–60 lb** (`HTowqnwAMeA`) | Pink and purple **190-class deep divers**. Carry variety on three axes — colour, profile, dive depth. **Colour by light, and it inverts intuition:** overcast/low light → high-vis; bright clear blue → darker, blues/purples/reds |
-| **Surface iron** | **Jig-stick class** — 8–10 ft, casts 2–4 oz irons, ~25–60 lb ([`tackle/gear-classes.md`](tackle/gear-classes.md)) | ~**65 lb braid** backing to **fresh 40–50 lb mono top shot** (`D5DR7Kx42_A`); **40 lb** is the local full-day-island top-shot bracket (`LTCFjqtSI8g`). **Tady 45 / JRI Stinger class**; step up to a **Salas 7X-class** heavy iron in wind to punch the cast |
-| **Yo-yo iron** | **40–60 lb stout rod + high-speed reel** | Depth ladder: **60/80/100 ft → 6X Jr class; 120–150 ft → Salas 6X, roughly 5–6 oz** ([`techniques/yo-yo-iron.md`](techniques/yo-yo-iron.md)). Flat-fall / vertical change-up **100–180 g depending on current** (`D5DR7Kx42_A`) |
-| **Dropper loop** | Same 40–60 lb outfit | Sinker **6–10 oz** at the very bottom, hooks on the loops above; **err long on the loop** for bait action |
-| **Flyline** | **20–40 or 20–50 lb rated rod, 8–9 ft** — backbone to turn a fish off the rocks (`D5DR7Kx42_A`) | Hook follows bait size: **1/0–2/0 baseline**; downsize to **J hooks 1, 2, 4** when they're picky on fluorocarbon (`F9XjGMEvvag`); **2/0–4/0** on bigger baits |
-| **Sliding sinker** (if bonito intercept your flylined baits before the yellowtail get them) | 30 lb live-bait class | **1–4 oz egg sinker** straight to a **J hook 2/0–4/0**, scaled to wind and depth (`yGXSrUauo2w`) |
-| **Slow-trolled bait** | Same outfit as flyline — it's a change of boat behaviour, not tackle | **1.5–3 mph, chosen by the bait:** small sardine (size 1–2 hook) → as slow as you possibly can; mackerel or anything taking a 3/0–5/0 → pull it faster |
+| **Troll/search** | Flyline outfit tows a 20–30 ft diver; 6–7 ft diver-troll outfit (~6 ft, H, E-glass, 30–80 lb) for 40 ft divers (`HTowqnwAMeA`) | Halco 190-class deep divers, **pink and purple** |
+| **Surface iron** | Jig-stick class: 8–10 ft, casts 2–4 oz, ~25–60 lb; ~65 lb braid backing to **fresh 40–50 lb mono top shot** (`D5DR7Kx42_A`) | **40 lb is the local full-day-island top-shot bracket** (`LTCFjqtSI8g`); Tady 45 / JRI Stinger-class swim jigs; step up to a **Salas 7X-class** heavy iron in wind to punch the cast |
+| **Yo-yo iron** | 40–60 lb class stout rod (~8 ft, XH) + high-speed reel | Full-size **Salas 6X class** works the majority of the time. ⚠ The KB carries an unresolved internal conflict here: the zone guide and `species/yellowtail.md` size 6X vs 6X Jr **by current** (8 oz strong / 4 oz light) and flag that the source states neither weight; `techniques/yo-yo-iron.md` puts a 6X at **roughly 5–6 oz** and sizes **by depth** — 6X Jr at 60/80/100 ft, 6X at 120–150 ft, full-size at 150–250 ft. I'd fish the depth rule and carry both. Vertical/flat-fall change-up **100–180 g by current** is the one figure that verifies verbatim. Fish as heavy a line as you can still crank fast: **40 lb works, 50 better, 60 better still** (`5pbA-wXoric`, `UP_3fBu7VPA`) |
+| **Flyline** | 20–30 lb class, **8–9 ft**, rated 20–40 or 20–50 lb — backbone to turn a fish off the rocks (`D5DR7Kx42_A`) | Hook size follows bait size: **1/0–2/0 baseline**; downsize to J hooks **sizes 1, 2 and 4** on fluoro when they're picky (`F9XjGMEvvag`); 2/0–4/0 with bigger baits |
+| **Dropper loop** | Same 40–60 lb outfit as the yo-yo | Live bait to bottom marks when they hold down (`D5DR7Kx42_A`, `HTowqnwAMeA`); good rod-holder soak while your hands are on a jig |
+| **Sabiki** | — | ~100 ft, **8 oz** sinker (cameron) |
 
-**Yo-yo execution:** position **up-current of the mark** so the drop sweeps onto the structure; free-spool the iron to the mark thumbing the spool so it tracks straight down instead of scoping away; **start winding the instant it touches** — the most common error is letting it settle; then **wind as fast as you can, all the way up**, and keep cranking on the bite rather than swinging (`5pbA-wXoric`, `hteLeDIy9Qs`, `RNRFrfepiW0`). Line: 40 lb works, 50 better, 60 better still.
+**Iron colour:** the zone guide lists scrambled egg, bird shit, mint and blue/white as the yellowtail colours — and the KB flags this as contradicted-internal: `techniques/surface-iron-color.md` holds **no yellowtail colour doctrine**, ranks colour **last** (swim → size/weight → colour), and records that "colour doesn't matter" is itself a yellowtail saying. Don't burn planning energy on colour; burn it on swim and on the cast.
 
-**Surface iron execution for yellowtail:** **let it sink ~30 ft before you start winding** — it covers depth instead of only the top (`ntQXxcH5sjI`) — and **work it all the way to the rail**, because they eat it right at the boat after trailing it in (`VpW91AKOFVQ`).
-
-**Two internal conflicts you should know about rather than trip over:**
-- **Iron weight.** [`species/yellowtail.md`](species/yellowtail.md) says full-size 6X = 8 oz in stronger current, 6X Jr = 4 oz when light; [`techniques/yo-yo-iron.md`](techniques/yo-yo-iron.md) puts a 6X at 5–6 oz and sizes it by **depth**, not current, and says neither the 8 oz nor 4 oz figure appears in it. I've given you the depth ladder above because the technique note owns execution. Not a ranking — the KB keeps both.
-- **Iron colour.** The zone guide and the router both list scrambled egg, bird shit, mint and blue/white as "the yellowtail colours," and [`species/yellowtail.md`](species/yellowtail.md) itself carries the flag that the colour note's actual doctrine is **colour is not the variable** (rank: swim → size/weight → colour, last), and that "colour doesn't matter" is itself a yellowtail saying. Carry the four; don't spend the day changing them.
+**Leave the heavy tuna gear home.** A casting reel (Lexa / Fathom / Tranx class) — or a spinning rod for anyone new to conventional gear — throws yellowtail lures better than heavy tuna outfits and makes a better day (`QEmxUIGmKbo`).
 
 ---
 
-## 6. Bait for two days ([`bait/making-bait.md`](bait/making-bait.md), [`bait/bait-tanks.md`](bait/bait-tanks.md))
+## 6. Fish care — matters more on a two-day trip
 
-- **Making bait at the Coronados is a documented program (cameron):** sabiki dropped to **~100 ft** with an **8 oz** sinker; **five 12-inch mackerel on one drop** at best. Twelve-inch mackerel are big, hearty baits — heartier than sardine.
-- **Buying instead:** sardines from the barge. **Avoid the 6:00 a.m. rush** when the sportboat fleet loads — target **5:00 a.m., or 4:30** (`ztpj1Xll0-U`, `bM2vUS1B-yQ`). A 7:00 a.m. arrival avoids the line but "it's all gone." Tell the attendant you want it **loaded light** and you're not in a rush; hail on **VHF 11** if nobody's dockside; never board the barge; tip.
-- **Holding bait between days:** the KB's turnover target is **the entire tank volume changing every 8 minutes** (flagged single-source, and the source itself says "why eight minutes I have no clue but that's what works"). West-coast circular flow, side drain, never a centre standpipe. On the profile boat that's a 30-gal tank on a **Rule 401, 500 GPH** pump running off a **single starting battery** with a NOCO GEN5X1 charger added specifically to hold the battery up while the bait pump runs overnight. **The KB has no doctrine on keeping bait alive across an overnight between two fishing days** — plan power and water changes yourself.
+`fish-care/dorado-and-general.md`: build a **salted slurry** — roughly **2 cups rock salt per 7–10 lb bag of ice**, plus a splash of seawater to wet it; the salt is what drops the mix below freezing. Keep fish cold and out of the sun, **never rinse in fresh water** (salt water for every rinse), and if the drive home is more than ~10 minutes, bring a **car cooler** so fillets have somewhere cold to go. The KB gives no ice budget for a two-day private-boat trip; the only figure it holds is a profile one — **100–125 lb of ice per trip** on a 22 ft panga (`profiles/cameron/boat.md`).
 
 ---
 
-## 7. Fish care over two days ([`fish-care/dorado-and-general.md`](fish-care/dorado-and-general.md))
+## 7. Before you commit — the questions the KB says to ask you
 
-- **Salted slurry:** rock salt at roughly **2 cups per 7–10 lb bag of ice**, plus a splash of seawater to wet it — the salt is what drops the mix below freezing.
-- **Never fresh-water rinse** anything; salt water for every rinse. Keep fish out of the sun and get them cold fast.
-- **A deck hose-down doesn't chill a fish** — that water runs in the high 70s °F.
-- **Bring a cooler for the drive home** if it's more than ~10 minutes.
-- The profile boat carries **100–125 lb of ice per trip** — that number is stated for a trip, not for a two-day trip, and the KB has no guidance on holding a catch across an overnight. Budget ice accordingly and assume you need more than the single-day figure.
+`planning/day-plan-protocol.md` step 1b requires the boat's `range_nm` and `sea_state_max_ft` against the day's forecast, and says to **ask** when they aren't on file. The one profile in this KB (`profiles/cameron/boat.md`) has both fields explicitly **null** — "Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must ASK." So:
 
----
-
-## 8. What else is realistically on the table
-
-The Coronados zone page lists yellowtail (spring peak), rockfish & lingcod, and bonito (summer, with a flagged gap for zone-specific behaviour). Beyond that, gating in for `baja-pacific-north` + `island`:
-
-- **Bonito** — the best-documented October fish in the KB, though every dated October record is SoCal-side (Ventura coast and the islands, Cortez Bank, San Clemente late October). The framing that matters: *"presence is not the bite, and late fall inverts the ratio"* — inside Catalina in late October the water still supports yellowtail, but "you're mostly against Bonita, bass and Rockfish this time of year" (`5p6gu14ZC4w`). And **bonito hours and yellowtail hours are not the same hours** (`Blh2BA-7Ono`). Expect bonito to fill the middle of the day.
-- **Barracuda** — dated SoCal appearances run late May through October, and off Ensenada barracuda are named with bonito and yellowtail as the standing inshore mix (`0dIwWiOc1NY`).
-- **Calico bass** — in their 65–68 °F band at your temperature; fish edges and pinch-points, not the dense middle of kelp. The Coronados page doesn't list them, so this is a gate-level inference from region and water type, not a zone-documented fishery.
-- **Rockfish, lingcod, whitefish, sheephead** — the ground north of the chain (Coronado Canyon, Lower 9 Mile, North of North Island, East of Pukey Point). **Mexican limits and seasons for all of them are recorded as unknown in the KB, and California's rules do not apply.** Verify before you keep anything.
+1. **What's your range and your sea-state limit?** 14–15 nm each way is a short run, but the 12 kt afternoon plus the homebound-wind rule is what decides whether you fish until 2 p.m. or turn at noon.
+2. **Where are you launching?** The distances above are all from the **San Diego bay entrance / Zuniga Jetty (32°40.300'N 117°13.400'W)**. From Mission Bay (Dana Landing) it's a longer run and the KB doesn't measure it.
+3. **What do you own?** The protocol's rule is **never recommend gear you haven't said you own**, and to **name the gap** when a class the plan calls for isn't in your box — e.g. if there's no 40–60 lb high-speed yo-yo outfit, the tight-ball-on-structure situation has no answer and you'd be casting iron at fish that are 40 ft under it.
 
 ---
 
-## 9. Before you go — my short list
+## What this KB could not tell you
 
-1. **Resolve the vessel paperwork with CONAPESCA / a San Diego permit broker.** The KB cannot tell you what a boat needs; treat the FMM + CONAPESCA licence + passport list as necessary, not sufficient.
-2. **Get chlorophyll imagery, not a point value**, and pull the tide/current times for both days.
-3. **Tell me your range and sea-state limit**, and whether you're launching from Mission Bay or San Diego Bay — the profile leaves both null and the protocol says to ask, not assume.
-4. **Load the border onto your plotter.** Lower 9 Mile is 0.65 nm from US water.
-5. **Plan both days to be finished, or inside, before the 12 kt NW fills in.**
+Listed so you can fill them elsewhere rather than assume I covered them:
 
-## Notes for judging this plan
+- **The vessel-side Mexican paperwork** — whether an FMM applies to a boat day-run that never lands, and what a private boat as opposed to a vehicle must carry. Flagged as a known gap on two separate pages.
+- **Boarding and inspection practice** — what the Mexican Navy asks for and how to present papers. No source.
+- **US customs / declaration for bringing fish back across.** No source.
+- **Mexican (CONAPESCA) bag limits, size gauges and seasons** for every species on this trip. All recorded as "unknown, absent from the corpus."
+- **An October Coronados program.** The only zone guide is spring-scoped; there is no October-specific content for this chain.
+- **Anything about a multi-day trip at the Coronados** — overnighting, anchoring in Mexican water, or how day two should differ. The KB's only trip-length note is about booking sportboat trips, not private-boat two-day plans.
+- **Depths and bottom composition** for every Coronados spot — every per-spot page is a minimum page with position only.
+- **Numeric chlorophyll thresholds.** None exist in the KB, so I can't tell you whether 0.9 is good or bad water.
+- **A yellowtail SST band.** Flagged gap; the corpus gives directional water-state reads only.
+- **Quarter-moon doctrine, and moon-phase effect on yellowtail.** Both flagged gaps.
+- **The anchor-vs-drift commit call at the Coronados** — when to drop the hook on a mark versus keep working the circuit. Flagged gap.
+- **What flips Coronados fish from seeing to eating**, and any zone-specific gray-light read. Flagged gap.
+- **Zone-specific bonito behaviour at the Coronados.** Flagged gap.
+- **The swell-vs-current opposition check** — you gave no current, and the KB requires the current vector to degrade the sea-state forecast properly.
 
-Two things I did *not* do, deliberately: I didn't give you an October Coronados prior (the KB doesn't have one — its Baja Pacific north fall row is a single November 2014 calico record from San Martin Island, 200-odd miles south), and I didn't tell you what 0.9 chlorophyll means (the KB has no numeric bands). Anything you read elsewhere on those two points isn't coming from this knowledgebase.
 
-
-*notes:* `CLAUDE.md`, `README.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/search-and-glassing.md`, `locations/coronado-islands.md`, `locations/evidence/coronado-islands.md`, `locations/mexican-waters.md`, `locations/evidence/mexican-waters.md`, `locations/us-waters.md`, `locations/regions.md`, `locations/baja-pacific-north.md`, `locations/middle-grounds.md`, `locations/pukey-point.md`, `locations/ribbon-kelp.md`, `locations/5-minute-kelp.md`, `locations/south-kelp-ridge.md`, `locations/lighthouse.md`, `locations/rockpile.md`, `locations/north-of-north-island-rockfish-area.md`, `locations/east-of-pukey-point.md`, `locations/coronado-canyon.md`, `locations/lower-9-mile-bank.md`, `locations/south-9-mile-bank-439.md`, `locations/north-9-mile-bank-178.md`, `locations/coronados-230-302-226.md`, `species/yellowtail.md`, `species/yellowtail-coronado-islands.md`, `species/yellowtail-surface-iron.md`, `species/yellowtail-dropper-loop.md`, `species/bonito.md`, `species/barracuda.md`, `species/calico-bass.md`, `species/rockfish-lingcod.md`, `species/ocean-whitefish.md`, `species/sheephead.md`, `seasonal/october.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/current-structure.md`, `conditions/bird-reading.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `techniques/trolling.md`, `techniques/slow-trolling-bait.md`, `lures/halco-laser-pro.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `bait/bait-tanks.md`, `fish-care/dorado-and-general.md`, `sources/regulatory-claims.md`, `sources/gap-report.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`  
-*videos:* `D5DR7Kx42_A`, `HTowqnwAMeA`, `YZtX1MiT0y8`, `ejUTAnONf7o`, `VpW91AKOFVQ`, `4pT0efBD1j0`, `dS9gd9k7A7Q`, `gdqI2dNd5_U`, `LTCFjqtSI8g`, `F9XjGMEvvag`, `P36VGPPf120`, `Sx40JvCXFuA`, `OYOda6T3f-8`, `5p6gu14ZC4w`, `E4vKwRaRueA`, `LqW32NSkObY`, `NC3-3pJDEgo`, `zKmZ4zql2ws`, `DnSqw4r7A1s`, `9tTM99InluM`, `6TBxHnkYXI0`, `fDSd9kqwYW0`, `_r_qKX_7080`, `0dIwWiOc1NY`, `ntQXxcH5sjI`, `0DKmYId1NN4`, `yGXSrUauo2w`, `6DzbsElGE7E`, `hteLeDIy9Qs`, `5pbA-wXoric`, `RNRFrfepiW0`, `Blh2BA-7Ono`, `JiJYamo0QHk`, `sIoNELGlxmk`, `ztpj1Xll0-U`, `bM2vUS1B-yQ`, `7WapaxdtjQg`, `iAr6sbRC384`, `LsFMBCa9DOQ`, `L3tkGVu516A`, `5to3Q5P7w90`  
-*gaps admitted:* What a private BOAT run into Mexican water actually requires — whether an FMM applies to a day trip that never lands, and what a vessel (as opposed to a vehicle) must carry. The KB flags this identically in locations/mexican-waters.md, locations/coronado-islands.md and species/yellowtail-coronado-islands.md as its single most common Mexican-water trip, unanswered by the corpus. | Mexican Navy boarding and inspection practice — what is asked for and how paperwork should be presented. No corpus source. | US customs declaration for bringing fish home from Mexico, and transport/limits at the border. No corpus source. | Mexican (CONAPESCA) bag limits, size gauges and seasons for yellowtail, the rockfish/lingcod complex, ocean whitefish and sheephead — all recorded as unknown/absent in sources/regulatory-claims.md. | Whether the water at the 9 Mile complex is a US or Mexican paperwork day — locations/south-9-mile-bank-439.md states this is a positional question the KB cannot answer. | Any October or fall prior for the Coronado Islands or the wider baja-pacific-north region. locations/baja-pacific-north.md flags the absence of a month-by-month prior outright; seasonal/october.md is written for socal-bight, and the Coronados material is a spring (Apr–Jun) fishery. | Numeric chlorophyll bands — the KB carries no threshold anywhere that would let me call 0.9 good, bad or indifferent; conditions/water-color.md works only on bloom age and edges, neither derivable from one point value. | Numeric SST bands for yellowtail — species/yellowtail.md explicitly flags the absence and gives directional water-state reads only. | Moon-phase effect on yellowtail — species/yellowtail.md flags that the corpus's moon claims cover bass and offshore tuna only, so last quarter cannot be scored for this species. | Depth bands and bottom composition for every Coronados spot — nine of the eleven spot pages are minimum pages carrying position and parent zone only. | The anchor-versus-drift commit call at the Coronados — when to drop the hook on a mark versus keep working the circuit. Flagged gap in species/yellowtail-coronado-islands.md. | Mechanism for what flips Coronados fish from seeing to eating, and any zone-specific gray-light read. Flagged gap in the zone guide. | Anything on a two-day private-boat trip: overnighting or anchoring in Mexican water, how to structure day 2 against day 1, or holding bait and catch across an overnight. planning/trip-length-selection.md covers sportboat booking only. The two-day schedule I gave is my sequencing of KB pieces, not KB doctrine. | Zone-specific bonito behaviour at the Coronados — flagged in locations/coronado-islands.md; every dated October bonito and barracuda record in the KB is from the SoCal side, not this chain. | Where or when white seabass are taken on the Baja Pacific north coast, despite the species gating into the region — flagged in locations/baja-pacific-north.md, so I did not offer it. | Booby behaviour — what distinguishes bait-only from fish-underneath. conditions/bird-reading.md says there is no corpus doctrine on this bird at all, even though it is the Coronados bird. | Tide and current times for the two days — the KB holds no tide data and I made no live pull, so the timing discipline in this plan has no clock attached to it. | The boat's operating envelope: profiles/cameron/boat.md leaves range_nm and sea_state_max_ft null with an explicit instruction that the protocol must ask rather than assume. | Internal conflicts I passed through rather than resolved: yo-yo iron weight (current-keyed 8 oz/4 oz in the species router vs depth-keyed 5–6 oz in the technique note), yellowtail iron colour (four named colours vs the colour note's 'colour is not the variable' doctrine), and the Coronados run distance (13 nm vs 13 statute mi). | Gating oddities that would silently drop content under a strict protocol read: lures/halco-laser-pro.md is gated socal-bight / open-ocean+bank even though the Coronados zone guide routes to it, and species/yellowtail-dropper-loop.md is gated socal-bight only. I used the class terms rather than the gated-out model pages. | The Coronados circuit doctrine (figure-8s + Middle Grounds pass) rests on HTowqnwAMeA, which the KB's own evidence file flags as a mid-August day above the border that never mentions the Coronados — the doctrine is the KB's, but the corpus support under it is thin.
+*notes:* `CLAUDE.md`, `README.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `planning/trip-length-selection.md`, `locations/coronado-islands.md`, `locations/mexican-waters.md`, `locations/us-waters.md`, `locations/regions.md`, `locations/middle-grounds.md`, `locations/pukey-point.md`, `locations/rockpile.md`, `locations/ribbon-kelp.md`, `locations/5-minute-kelp.md`, `locations/south-kelp-ridge.md`, `locations/lighthouse.md`, `locations/east-of-pukey-point.md`, `locations/north-of-north-island-rockfish-area.md`, `locations/coronado-canyon.md`, `locations/lower-9-mile-bank.md`, `species/yellowtail.md`, `species/yellowtail-coronado-islands.md`, `species/calico-bass.md`, `species/bonito.md`, `species/barracuda.md`, `species/rockfish-lingcod.md`, `species/ocean-whitefish.md`, `species/sheephead.md`, `species/bluefin-tuna.md`, `species/yellowfin-tuna.md`, `seasonal/october.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/water-regimes.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/sea-state.md`, `conditions/current-diagnostics.md`, `conditions/bird-reading.md`, `techniques/surface-iron.md`, `techniques/yo-yo-iron.md`, `techniques/dropper-loop.md`, `techniques/flyline.md`, `techniques/slow-trolling-bait.md`, `tackle/gear-classes.md`, `bait/making-bait.md`, `fish-care/dorado-and-general.md`, `sources/regulatory-claims.md`, `profiles/cameron/boat.md`, `species/README.md`  
+*videos:* `D5DR7Kx42_A`, `HTowqnwAMeA`, `YZtX1MiT0y8`, `ejUTAnONf7o`, `VpW91AKOFVQ`, `4pT0efBD1j0`, `dS9gd9k7A7Q`, `gdqI2dNd5_U`, `F9XjGMEvvag`, `LTCFjqtSI8g`, `P36VGPPf120`, `OYOda6T3f-8`, `XLVUhV8DW64`, `SczdZIq3UmE`, `E4vKwRaRueA`, `zKmZ4zql2ws`, `NC3-3pJDEgo`, `HzE4FHHcvTk`, `DnSqw4r7A1s`, `Blh2BA-7Ono`, `6TBxHnkYXI0`, `9tTM99InluM`, `fri_BWI-VA0`, `LqW32NSkObY`, `5p6gu14ZC4w`, `fDSd9kqwYW0`, `_r_qKX_7080`, `tpmOYXYQwhU`, `6DzbsElGE7E`, `8XIy7hPsFkQ`, `5pbA-wXoric`, `ETw_3AFxEcM`, `RNRFrfepiW0`, `UP_3fBu7VPA`, `HnqiE05vdXs`, `BskCsKaTiZw`, `7WapaxdtjQg`, `bM2vUS1B-yQ`, `ztpj1Xll0-U`, `Zo92MG459gQ`, `d0yGBQDeY_4`, `0DKmYId1NN4`, `KjVLn4cWHbc`, `QP6c8vcslVs`, `JiJYamo0QHk`, `HWx1jDTGsng`, `h3PTupup17I`, `Ec2GaNpiOHI`, `yn1suHH6b1Y`, `QEmxUIGmKbo`, `YIABTTYXeqc`, `Klfb433I3Uk`, `0KQ--N5TjqE`, `46ha7J1Fc6A`, `HueC1KHrcVw`, `5to3Q5P7w90`, `A6DJoXbID4c`, `91ZJbhAnzMg`  
+*gaps admitted:* Whether a private boat day-run into Mexican water requires an FMM when it never lands, and what a boat as opposed to a vehicle must carry — flagged as a no-corpus-source gap on both locations/mexican-waters.md and species/yellowtail-coronado-islands.md. | Mexican boarding and inspection practice — what the Mexican Navy asks for and how paperwork should be presented. No corpus source. | US customs declaration, transport and limits for bringing fish home across the border. No corpus source. | Mexican (CONAPESCA) bag limits, size gauges and seasons for yellowtail, rockfish/lingcod, ocean whitefish, sheephead and the tunas — all recorded as unknown/absent in sources/regulatory-claims.md. | No October-specific Coronado Islands program exists; the only zone guide (species/yellowtail-coronado-islands.md) is season-scoped to spring (warming transition). | No content on a multi-day or overnight Coronados trip — overnighting, anchoring in Mexican water, or how day two should differ from day one. planning/trip-length-selection.md covers booking sportboat trip lengths only. | Depth bands and bottom composition for every Coronados spot — Rockpile, Ribbon Kelp, 5-Minute Kelp, South Kelp Ridge, Lighthouse, East of Pukey Point, North of North Island, Coronado Canyon and Lower 9 Mile Bank are all minimum pages carrying position and parent zone only. | No numeric chlorophyll thresholds anywhere in the KB, so the given 0.9 reading cannot be graded good or bad — only the qualitative new-bloom-vs-mature-bloom-edge freshness read applies. | No SST band for yellowtail — species/yellowtail.md flags the numeric bands as a gap and gives directional water-state reads only. | No quarter-moon bite doctrine; the KB's only documented moon windows are full/new +/- 1 week. Moon-phase effect on yellowtail specifically is a flagged gap. | The anchor-versus-drift commit call at the Coronados — when to drop the hook on a mark versus keep working the circuit. Flagged gap. | Mechanism for what flips Coronados fish from seeing to eating, and any zone-specific gray-light read. Flagged gap. | Zone-specific bonito behaviour at the Coronados. Flagged gap on locations/coronado-islands.md. | No overnight-displacement figure for structure-holding island fish; the 10-15 nm overnight number is scoped to open-water bluefin not holding structure, so day-two search-box sizing has no KB number. | The sea-state current-vs-swell opposition check could not be run — no current vector was given, and conditions/sea-state.md requires it to degrade the swell forecast. | Distances are measured from the San Diego bay entrance / Zuniga Jetty; the KB gives no run distance to the Coronados from Mission Bay or other launch points. | The one profile in the KB (profiles/cameron/boat.md) has range_nm and sea_state_max_ft explicitly null, so the boat envelope could not be resolved and the protocol requires asking.
 
 </details>
 
 ### 4. [trip] I am thinking about an overnight run to Tanner Bank / Cortez Bank for bluefin. Go or no-go? Describe the run, …
 
-**Winner:** B2 · mapping {'A': 'B3', 'B': 'NOW', 'C': 'B2'}
+**Winner:** NOW · mapping {'A': 'B3', 'B': 'NOW', 'C': 'B2'}
 
 | version | found | specific | sourced | scoped | honest | actionable | total | flags |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
 | B2 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
-| B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
+| B3 | 2 | 2 | 2 | 2 | 2 | 1 | **11** |  |
 | NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three reach the same well-supported no-go on the same two gates — the named 12–15 kt / 4–8 ft @ 9 s unfishable combo and an unset boat envelope (range_nm / sea_state_max_ft null) — and all three refuse to invent an eclipse effect or a chlorophyll threshold, so the separation is entirely in the second half of the question: describing the run and what to expect. C delivers the most usable picture, teaching the actual bank programs (night DSL jigging with the ~1 g/ft rule, 300 g floor stepping to 500 g on a hard-drifting night, stay-vertical routes, line marked every 100 ft; daylight flyline at 25–30 lb fluoro on size 2 circles with the hook-wire caution), then converts the weekend into a timed, rigged alternative off Cameron's own rack with fish care and regs — while openly flagging that no Tanner/Cortez location page exists and that its distances are its own arithmetic. B is a close second and has the best structural trip picture (sunup-to-noon yellowtail then deep, two night windows, anchor-and-chum gated by current, fleet slotting) plus the only Cow Cod Conservation Area warning, but it names the night-jig and kite gaps and stops rather than teaching what happens out there, omits fish care, and slips statute miles into nm. A has the strongest situation→technique→owned-gear table and the most detailed alternative-day search and sounder discipline, but its bank coverage is a list of corpus data points rather than a coherent program, and it never surfaces that the fishery out there is an anchor-and-chum, current-gated one.
+**Judge:** All three reach the same correct no-go on the same sea-state doctrine (12 kt cutoff, sub-10 s flag, the 12-15 kt / 4-8 ft / 9 s combo), the same post-full-moon slow-morning read, and the same null boat envelope, so the separation is in the second half of the question — describing the run and what is out there. B wins because it was clearly working from a real zone page: a port-by-port distance table, a shallowest-first depth-band table from the anchor shallows through 50-80 fathom night marks, the 300 g-to-500 g night jig floor over 80 lb braid and 130 lb leader, the 9pm-midnight / 3:30am clock, the fleet-positioning problem, and the hook-size-versus-line-class conflict presented with a decision frame — while also being the only answer to pass through its own KB's fact-check flags (the 'anchored bluefin bite' reading on camera as a yellowtail bite, the one-boat sourcing, the unverified Cow Cod boundary). C is a close second and is the most actionable on the run itself, since it is the only one to convert the trip to nautical miles and to notice that Saturday's 8-15 kt wind is exactly the kite window Cameron's Fathom 80 is filed for; its only blemish is calling the two banks ~19 nm apart when its own coordinates give about 15.6. A is honest and well-cited but had no location material to work from and shows it: no nautical distance, no transit or bank-day timeline, no night clock, and an alternative plan it admits it cannot rank. No answer bluffed, fabricated, or stated a bare regulation — A asserts none, B and C both stamp jurisdiction, as-of and verify-current.
 
-- *B2 reasons:* found: same correct kill criteria plus the fullest 'what to expect' — up-current face positioning, anchor depths, grade ladder, the night DSL program, daylight flyline program, foamer failure case — and stated plainly that no Tanner/Cortez location page exists (even noting Bishop Rock is never mentioned). specific: distances checked against corpus figures, 198–330 ft night stacks, 50–80 fm bank-specific marks, ~1 g per foot jig rule, 300 g floor / 500 g wind-night, mark line every 100 ft, 16 oz 'Eddie bomb', 25–30 lb fluoro on size 2 circles, 90% of daytime bites on flyline, hook-wire caution on light No. 4s. sourced: note paths plus ids throughout (NC3-3pJDEgo, LsFMBCa9DOQ, UfuiWFVvz2E, 947solNfiPw, Ul5FLB2dFgQ, nRFFM8DT-og, mDmbGdQAy-4). scoped: socal-bight/bank; bluefin limit and rockfish closure both jurisdiction + as-of + verify. honest: flags the threshold set as medium confidence, flags its distances as its own arithmetic, surfaces the counter-doctrine that full moons drive the night bite and states section order is not a ranking, admits eclipse/chlorophyll/tide/anchoring/ice gaps. actionable: the only answer that both teaches the bank programs well enough to fish them and lays out a timed, rigged alternative day off the actual rack with care and regs.
-- *B3 reasons:* found: pulled the right layers — sea-state thresholds, moon (Landesfeind vs Hansen), August dispersal, water-temp/color, boat profile — and stated plainly that no small-boat account of the run exists; weaker on the banks' actual fishing program (never names the anchor-and-chum/current-gating structure of the day). specific: distances from KB coordinates (declared as arithmetic, and they check out: ~92/95/35 nm), 60 ft bait marks in 120 ft, 50–80 fm night marks, 25 lb/#2 and 40 lb/#4 circle, 250 g flat-fall floor, 2 cups rock salt per 7–10 lb bag, chill times. sourced: every claim carries a note path plus video id (NC3-3pJDEgo, ntQXxcH5sjI, 947solNfiPw, LsFMBCa9DOQ, UfuiWFVvz2E). scoped: socal-bight/bank+open-ocean set explicitly; bluefin limit and the 43 rockfish closure both carry California/CDFW + as-of + verify-current. honest: long, genuine gap list (eclipse, chlorophyll scale, null range/sea-state, bait-pump power offshore, ice capacity, bank-specific advection) and refuses to invent the envelope. actionable: best situation→technique→owned-gear table of the three, plus a fully runnable 43 alternative with sounder ranges (manual 0–150/0–300 ft), glassing cadence and return timing.
-- *NOW reasons:* found: worked from dedicated bank pages and used their own flagged gaps well (no source turns the zone off on wind/swell; no small-boat port run stated) — the best structural picture of the trip day: sunup-to-noon yellowtail then deep, two night windows, anchor-and-chum gated by current, fleet slotting. specific: 15.6 nm bank separation on 179/359, 15–25 fm anchor, 50–60 fm edge, 60–80 ft marks in 120 ft, 25 lb/#2, 40 lb floor droppable to 30, 300 g floor stepping to 500 g, 43 at 34.9/31.2/21.5 nm from three named waypoints. sourced: dense video ids tied to specific notes; conflicts kept side by side with an explicit decision frame ('what they turn on is grade and bite quality — not section order'). scoped: region right; bluefin limit with CDFW + as-of 2026-08/2024-11 + verify, plus the unique Cow Cod Conservation Area flag with the boundary honestly marked unverified. honest: names kite and 300–500 g jig as gaps rather than substituting; flags the KB's lack of chlorophyll scale, eclipse content, tide tables, anchoring gear. actionable: usable flyline/yo-yo/troll numbers and a 43 search plan, but thinner on execution than C — no night-jig technique, no fish care, and the alternative is caveated rather than timed; minor unit slip treating statute-mile corpus figures as nm.
+- *B2 reasons:* found: same core conditions/moon/seasonal spine plus species routers, zone-lexicon search-box sizing, kite and trolling notes, and spot-lists coordinates; no dedicated bank page but it says so implicitly by deriving position from sources/spot-lists.md. specific: computes the run itself (~94 nm Tanner, ~96 nm Cortes, ~36 nm the 43 from Mission Bay) and cross-checks against corpus statute figures; carries trolling-spread geometry (5 deg shotgun, 15 deg gunnel holders, ~3 ft tip elevation = 1 ft depth), 8-15 kt kite window, 13-15 kt Mad Mac troll, night windows and 50-80 fm marks vs the 30-50 fm general figure, 20-30 lb Cortez grade, 60 lb rocked yellowtail. sourced: note paths and ids (NC3-3pJDEgo, fri_BWI-VA0, i3qIAHW-SJc, vCskOx6N-XM, LsFMBCa9DOQ, xzIaUEDklrE, Rf1HKJG-SDg) generally match the claims. scoped: region correct; both regulatory claims stamped — two Pacific bluefin per person per day, California/CDFW, as of 2024-11, verify, and the rockfish closure as of 2020-12 with verify. honest: explicit closing section on what the KB could not tell it, no relative time, no invented chlorophyll scale or eclipse effect, flags the unreconciled bar-vs-Mad-Mac conflict rather than smoothing it. actionable: gives a concrete alternative (43 / below-Clemente as one 50-60 sq mi search box, dawn to early afternoon) and an 'if you go anyway' shape — troll bars to locate, kite in the 8-15 kt window, home before the noon build. Small slip: calls Tanner-Cortez separation ~19 nm where its own coordinates give about 15.6.
+- *B3 reasons:* found: hit sea-state, moon, water-temp, seasonal and profile material and stated plainly that no location note exists for Tanner/Cortez/43, sourcing bank facts second-hand from species evidence. specific: real numbers throughout (12 kt / 9 s thresholds, 111 mi, 15-25 fm and 50-60 fm anchor bands, 60 ft chum marks, 30-41 lb grade, 25/40 lb flyline, #2 and No.4 circles, 250 g jig floor, chill times with 2 cups rock salt per bag). sourced: note paths plus video ids (NC3-3pJDEgo, UfuiWFVvz2E, ntQXxcH5sjI, LsFMBCa9DOQ, nQvJnfb5jQ4, eL1Qm33-Mj0) that plausibly carry the claims. scoped: SoCal-Bight offshore-bank framing correct, no bare regulation asserted at all, region/waters context kept on parameters. honest: strongest gap list of the three, no relative time, refuses to grade chlorophyll 0.3, refuses to assume kite ownership or the null boat envelope, says the eclipse is uncovered. actionable: gates and gear gaps are usable, but it never converts the run to nautical miles or a transit estimate, gives no bank-day timeline or night clock, and explicitly cannot rank the inshore alternatives, so the 'describe the run' half is thinner.
+- *NOW reasons:* found: worked from an actual zone page (locations/tanner-bank.md plus its evidence file, cortes-bank.md, 43.md) as well as sea-state, moon, bait-tank and profile notes, and named the flagged stub where a bluefin zone guide should be. specific: densest bank picture — distance table by port, depth-band table (shallows, ~120 ft high spot, 15-25 fm anchor, ~150 ft ridge, 50-60 fm edge, 50-80 fm night marks), 300 g jig floor stepping to 500 g in wind over 80 lb braid / 130 lb leader, night clock 9pm-midnight then 3:30am, 25 lb to No.2, 40 lb flyline floor, 20 lb fluoro to No.4/No.2, 20-40 lb 'Home Guard' yellowtail, 20-30 miles of fish, the 43 at 34.9 nm from the Point Loma Pipe. sourced: consistent per-claim video ids tied to the note that holds them. scoped: SoCal-Bight offshore bank correct; the two-fish bluefin limit carries California/CDFW + as of 2026-08 + verify, and it flags the Cow Cod Conservation Area boundary as unverified rather than guessing. honest: best-in-class — passes through its own KB's fact-check flags (the 'anchored bluefin bite' reads on camera as a yellowtail bite, the 100 lb-plus claim comes from a promo intro, most sources are one boat), refuses to grade chlorophyll, refuses the eclipse, notes distances are statute with nm unknown. actionable: a reader gets the trip shape (overnight run, anchor, yellowtail to ~noon, deep search at night), the current-gates-the-bite rule, the hook-vs-line-class conflict with a decision frame, four named gear gaps including the 0-300 ft sounder window versus 300-480 ft marks, and two in-envelope alternatives.
 
 <details><summary>Full prompt</summary>
 
@@ -1992,470 +1905,439 @@ I am thinking about an overnight run to Tanner Bank / Cortez Bank for bluefin. G
 
 <details><summary><b>B2 — batch 2</b> · 12/12</summary>
 
-# Tanner / Cortez overnight, Fri 2026-08-28 → Sat 08-29 — **NO-GO on the panga**
+# Tanner / Cortez overnight, Fri 2026-08-28 → Sat 08-29 — **NO-GO as scoped**
 
-Short version: the KB kills this trip twice over — once on sea state, once on the boat envelope — and the moon timing is the weakest half of the window besides. The banks themselves are a real, well-documented mid-August bluefin fishery, so I've written up what the run and the fishing would look like, then given you the version of this weekend your boat can actually do.
-
----
-
-## 1. The go/no-go call
-
-### Sea state — this is the KB's *named* unfishable combo
-
-`conditions/sea-state.md` carries Capt. Dave Hansen's go/bail thresholds (`NC3-3pJDEgo`, 2020-11-18). Your forecast matches one of them almost word for word:
-
-- **"12–15 kt wind with 4–8 ft swell at a 9-second interval"** — "you can't go out there… you just cannot be caught out there," called a dire situation **even for bigger boats**; he holds the larger boats he runs at the dock in that combo, not just small ones.
-  - Your Saturday: **NW 4 ft @ 9 s**, wind **8–12 kt at dawn building to 15 kt by noon**. That is inside the named combo by mid-morning.
-- **Swell interval under 10 seconds is a hard bad-sea flag**, independent of height — "absolutely horrible." Both your days are 9 s.
-- **Wind over ~12 kt is what raises whitecaps**; Hansen's personal cutoff is not to run over 12 kt. Your Friday transit leg is **NW 15–20 kt over 5 ft @ 9 s** — worse than the named combo, and that's the leg you'd run in the dark.
-
-Two more layers make the paper forecast optimistic rather than pessimistic:
-
-- **Current-vs-swell opposition** (`conditions/sea-state.md`): summer uphill (counter)current running against NW swell compresses the interval and stands the swell up — a forecast **4 ft @ 10 s fishes like 6 ft @ 7–8 s**, and point forecasts don't show it. Your 4 ft @ **9 s** starts worse than that example.
-- **Forecast error is asymmetric** — assume it errs on the worse side, and that afternoon W at the islands strengthens rather than eases. Your forecast is already *building* through Saturday, not easing.
-
-The absence of a Small Craft Advisory isn't the KB's threshold. Hansen's numbers are, and they say no.
-
-*(Honesty flag: `conditions/sea-state.md` labels this specific threshold set **medium confidence** — registered voice, single mention, not yet repeated in the corpus. But it's the only explicit go/bail rule the KB has, and your numbers hit it dead-on rather than marginally.)*
-
-### Boat envelope — `profiles/cameron/boat.md`
-
-The 2004 Panga Marine Marquesas 22, single 115 hp Yamaha:
-
-- **Foam-filled hull with slight flex/"spring" on hard wave impacts**, **very small bilge**, **no trim tabs** (engine trim is the only attitude control).
-- The trim routine *requires* **at least one person forward on the bow bean bag underway** — and the note itself says **"rough days forward are brutal — rider catches air then hits the deck."** That's the profile's own description of this run in this sea.
-- **No AC/shore-power inlet, no house battery.** The 30-gal tank's Rule 401 (500 GPH, 2.1 A) runs off the **single Group 24 start battery** (550 CCA, 140 min RC). The NOCO GEN5X1 that "holds the battery up while the bait pump runs overnight" is an **AC** charger on a hardwired pigtail — that's a dock solution, not an offshore-overnight one (`bait/bait-tanks.md`).
-- **Home waters: Coronado Islands, La Jolla, San Diego offshore banks**; normal departure **~8 am**; launch **Dana Landing, Mission Bay**.
-
-### The distance, from your own waypoints
-
-`sources/spot-lists.md` gives **Tanner Bank 32°42.000′N / 119°08.000′W** and **Cortes Bank 32°26.417′N / 119°07.833′W**. Measured off the **La Jolla NW Corner** anchor in your own eval list (32°50.630′ / 117°18.460′ — the closest thing the KB gives me to Mission Bay's offing):
-
-| Leg | Distance |
-|---|---|
-| La Jolla NW corner → Tanner Bank | **~93 nm** |
-| La Jolla NW corner → Cortes Bank | **~95 nm** |
-| Tanner ↔ Cortez (they're one complex) | **~15.6 nm** |
-| La Jolla NW corner → the 43 | **~35.5 nm** |
-
-That cross-checks cleanly against the corpus figures: Cortez called **111 mi west of Point Loma / 96 mi SW of San Pedro / 47 mi SW of San Clemente Island** (`QSvzVHW9UMk`), **~110–115 mi from San Diego** (`UfuiWFVvz2E`), Tanner **~90–100 mi west of Long Beach** (`ntQXxcH5sjI`). `species/yellowtail.md` flatly calls Cortez "a full overnight run **for a sportboat**." Every KB trip to these banks is an 80–85 ft boat on a **1.5- to 3-day** charter.
-
-**The KB gives no fuel capacity, cruise burn, or range figure for your panga** — only top speed ~35 kt and idle ~1.5 kt. So I can't tell you it's out of range; I can tell you the KB has nothing that puts it *in* range, and that ~190 nm round trip plus a night of drifting/anchoring on a single start battery is not a call the profile supports.
-
-### The moon is the wrong half of the window
-
-`conditions/moon.md` + `seasonal/june-july.md`:
-
-- **Days *leading into* the full moon are the strongest documented bluefin windows** ("if we've learned anything over the last six, seven years," 10/12/22 report). Full moon is **08-28** — the leading days were **08-21 through 08-27**. You'd be arriving on the peak, one night past the best of it.
-- **Hansen's dissent, kept side by side** (`fri_BWI-VA0`, 2022-02-12): the moon peak itself is the **travel period, not a bite period** — "the full moon itself is not good," softened by "I've seen a bite in a full moon also." Best windows are 7 days before **and** 7 days after.
-- **Both voices agree on your Saturday morning:** the morning *after* a full-moon night is typically slow ("it hasn't been really located, or it's been feeding all night"), with the bite **picking back up late in the day**. Hansen's explicit advice: if you must fish a full moon, **fish it late rather than push the early-morning window.**
-- **Post-moon relocation:** open-water bluefin not holding structure move **10–15 nm overnight** (Landesfeind, 7/21/22); Hansen puts it at **20 miles** — kept side by side, not averaged. Any position you ran out on is stale by that much by Saturday dawn.
-
-**The one thing that cuts the other way:** the corpus also says **"full moons drive the bluefin night bite"** (`seasonal/june-july.md`, 7/14 + 8/11/22 reports). So the internally consistent read of your window is: **the Friday/Saturday *night* jig session is the good half; the Saturday *morning* is the weak half** — exactly inverted from how you'd normally plan a run-out-Friday, fish-Saturday-dawn trip. Section order isn't a ranking here: what it turns on is whether you're a night-jig boat or a daylight boat.
-
-**The partial lunar eclipse: the KB has nothing on eclipses.** No note in `conditions/` mentions one. I have no basis to adjust for it either direction and I'm not going to invent one.
+The fish argument is decent. The sea-state argument kills it, and the moon timing is the worst configuration of an otherwise good window. I'd not run a 22 ft single-outboard panga ~95 nm offshore on this forecast. Below is the full read, then what I'd do instead.
 
 ---
 
-## 2. The run, and what to expect out there
+## 1. The sea state is the whole call
 
-If a boat that belongs out there is going — this is what the KB says the trip is.
+`conditions/sea-state.md` carries a working-captain go/bail threshold set (Capt. Dave Hansen, `NC3-3pJDEgo`, 2020-11-18 — registered voice, single-mention, so the note itself grades this **medium** pending repetition). Your numbers land on it almost exactly:
 
-### Geography
+| KB threshold | Your forecast | Verdict |
+|---|---|---|
+| **Named unfishable combo: 12–15 kt wind with 4–8 ft swell at a 9-second interval** — "you can't go out there… you just cannot be caught out there," called dire **even for bigger boats**; he holds larger boats he runs at the dock in it | **Friday: NW 15–20 kt, NW 5 ft @ 9 s**. **Saturday noon: 15 kt, NW 4 ft @ 9 s** | Friday is past the wind end of the band with the swell inside it. Saturday noon *is* the combo |
+| **Swell interval under 10 seconds is a hard bad-sea flag**, independent of height | **9 s both days** | Tripped, both days |
+| Hansen's personal cutoff: **don't run when wind is over 12 kt**; above ~12 kt is what raises whitecaps | 15–20 Fri; 8–12 at Sat dawn, **15 by noon** | Only the Saturday dawn window sits at/under it |
 
-Tanner and Cortez are **15.6 nm apart** and read as one bank complex; crews use the names loosely enough that the KB flags one annual charter series described as "Cortez" in one video and calling a fish a "Tanner Bank yellow" in another, unresolved (`c3NFkQbdDy0` vs `nQvJnfb5jQ4`). Bank naming convention: a bank is named for the fathom depth of its **shallowest** point (`locations/zone-lexicon.md`, `Rf1HKJG-SDg`) — so the **43** is a 43-fathom high spot, not a distance.
+Three more layers from the same note make the Saturday "window" worse than it reads:
 
-**Where on the bank:** with the **summer uphill (counter)current**, upwelling forms on the **lower / south face** — bias to the **up-current face** (`conditions/current-structure.md`, Academy Ep. 1). The corpus positioning that produced: working the **50–60 fathom edge** of the drop-off off the high spot, which put fish on the boat "right out the gate" (`nQvJnfb5jQ4`).
+- **Homebound wind (8/17/22).** Plan return timing **against** the afternoon build, not the outbound conditions. Your return leg is ~95 nm and the wind is building through it. That's the part that actually hurts.
+- **Forecast error is asymmetric** (SoCal Bight Fishing Academy Ep. 6): assume the forecast errs on the worse side and that afternoon wind **strengthens rather than eases**. And if it's windier than forecast in the morning, assume it builds all day — **a small boat bails early** (7/14/22).
+- **Current-vs-swell opposition.** Summer uphill countercurrent running *against* NW swell compresses the interval and stands the swell up: a forecast **4 ft @ 10 s fishes like 6 ft @ 7–8 s** when the current opposes. You gave me no current field and I'm not fetching one, so Saturday's 4 ft @ 9 s has unquantified downside, not upside.
 
-### Water depths and where boats sit
+**No Small Craft Advisory Saturday morning does not clear this.** The KB's threshold set is a captain's-call framing, not an NWS product — "weigher-of-risk responsibility sits with whoever is running the boat" (`NC3-3pJDEgo`).
 
-- **Tanner:** anchored in **~120 ft**, bluefin taken on bait marks at **~60 ft** while chumming sardines (`ntQXxcH5sjI`, mid-August 2024). Another day-one anchored on the **eastern side of the high spot** (`947solNfiPw`).
-- **Cortez:** anchor in **15–25 fathoms**; high spot marks **60–80 ft in 120 ft of water**; drifting and anchoring both produced in water around **50 fathoms** (`UfuiWFVvz2E`, `zBd1mayUt_I`).
+### Your boat specifically (`profiles/cameron/boat.md`)
 
-### Grade — plan for the whole ladder, not an average
+The Marquesas 22 is documented as: **2004 Panga Marine Marquesas 22, single 115 hp Yamaha, tops ~35 kt**; **no trim tabs — engine trim is the only attitude control**; foam-filled hull with **slight hull flex / "spring" on hard wave impacts**; **very small bilge**, bilge pump **manual-switch only, no float switch**; **no house battery** — the 30-gal bait tank and accessories run off the **single starting battery** (Group 24DC, 550 CCA / 140 min RC), with the NOCO GEN5X1 being an **AC-pigtail dock charger**. Trim routine needs **at least one person forward** on the bow bean bag underway, and the note says rough days forward are brutal — "rider catches air then hits the deck." Normal departure is **~8 am**; home waters are **Coronado Islands, La Jolla, San Diego offshore banks**.
 
-Mid-August at these banks, from the corpus:
-
-- **~30 lb opening grade, fish to 41 lb** the previous day; one fought "on 50 [lb]" (`947solNfiPw`, Tanner).
-- **20–30 lb, about 25 lb average**, day's grade at Cortez on **20 lb fluorocarbon** to **No. 4 and No. 2** hooks (`QSvzVHW9UMk`).
-- A landed **40 lb** fish (`c3NFkQbdDy0`); a **20–30 lb** call on a fly-line day (`eL1Qm33-Mj0`).
-- But the crew's own framing of the core tackle problem: **10 lb schoolies up to 80, "maybe even 100" lb** moving through together on **one size line** — "a total game" (`947solNfiPw`).
-- And **bluefin gear does not get scaled down** on a mixed trip the way skipjack/schoolie yellowfin gear does — grade is unpredictable trip to trip, so tackle stays sized for the biggest fish that could show (`PrdPJy26H8c`).
-
-**Hook caution:** some **No. 4s run light wire** — a **stouter No. 4** was preferred, because even at 25–30 lb line test there's enough pressure on the hook to matter (`QSvzVHW9UMk`).
-
-### The night program — this is the fishery out there
-
-`species/bluefin-tuna.md` + `techniques/knife-jigging.md` + `conditions/deep-scattering-layer.md`:
-
-- Fish rise with the **deep scattering layer** after dark; the read is depth-called marks — **"fish at 180, fish at 230 ft"** (`nRFFM8DT-og`). A June 2023 night school read **stacked from ~198 ft down to 330 ft** (`r4J5nP5Bkl4`). The flat-fall bite specifically comes **at night or 250–350 ft down** (`scmPq63lLWM`).
-- **Bank-specific and deeper:** an overnight jig session at Tanner/Cortez read marks **360° around the boat, from 50 fathoms down to 80 fathoms, even below** (`LsFMBCa9DOQ`) — kept side by side with the 30–50 fathom sounded-school range, not replacing it.
-- **Jig weight:** general range **150–400 g** by depth and current; **~1 g per foot of depth** for a speed jig. At Cortez one captain set a **hard 300 g floor** for night jigs, with **250 g** allowed only for anglers savvy enough to fish it (`UfuiWFVvz2E`). On a **windy, hard-drifting night at Tanner/Cortez, 250–350 g wouldn't hold the zone and the boat stepped up to 500 g** (`LsFMBCa9DOQ`) — that's your Friday night, with 15–20 kt on it.
-- **Stay vertical.** Two attributed routes, not reconciled: throw **up-current off the bow and walk back toward the stern**; or from the stern, **cast down-swell** so the jig sits at ~200–250 ft straight under the boat by the time you drift to it (`UfuiWFVvz2E`) — that captain called keeping the jig vertical *the* key to night jigging.
-- **Work it slower at night** — a slow, worked drop ("blinking") out-produces speed after dark, and pair the slow pace with a **center-weighted flip-slider** rather than a tail-weighted speed jig. **Slack the line on the drop**, don't tightline it (`Ul5FLB2dFgQ`).
-- **Mark your line every 100 ft** (Ray marks every 50; pre-marked braid can be every 25) — the captain calls depths and they change fast (`Ul5FLB2dFgQ`).
-- Blunt-instrument option: the **"Eddie bomb"** — a wire-through **16 oz sinker with a treble on the bottom** and a bite leader. Multiple **200 lb night bluefin** have come on it (`nRFFM8DT-og`).
-- Night results at these banks: an overnight session starting **~1:00 am** put roughly **a half dozen fish, 30 lb class**, on the boat in the opening hours (`LsFMBCa9DOQ`); another two-night stretch stacked bluefin on the jig including a **"hot 90-pounder"** (`sHnqSIOjTdM`).
-
-### The daylight program
-
-- **Chummed sardines + flyline on a circle hook** is the bank's bread and butter. Stated tackle: **25 lb mono or fluoro leader to a #2 circle** (`nQvJnfb5jQ4`); **40 lb flyline floor** for bluefin (`UfuiWFVvz2E`); **No. 4 circle, 40 lb line/leader, short piece of fluoro** (`947solNfiPw`). One deckhand's log: **~90% of daytime bites came on flyline**, on a **25–30 lb fluorocarbon** stick, majority on **size 2 circles** (`149px8WQ2Ng`).
-- **Circle hooks specifically for big bluefin** — their teeth saw through the leader, and a circle's corner-of-the-mouth set keeps the leader out of the teeth (`RbqOKkINSCM`). Physical corroboration: a 40 lb fish came aboard **still carrying another angler's hook** after chewing through that line; crews caution a hooked bluefin will hunt **any** abrasion point — another angler's line, the anchor rode, the bottom of the boat (`c3NFkQbdDy0`). One crew member on the Ranger 85 stated a personal **J-over-circle** preference — kept side by side, one crew's stated preference, not reconciled.
-- **Shallow marks around the boat while chumming (~60 ft):** yo-yo iron, drop through and crank fast; a heavy bite on the drop reads as the rod going dead-weight, "almost like stuck on the bottom" (`ntQXxcH5sjI`).
-- **Wind up, no surface sign:** fish **sound to 30–50 fathoms** — meter-and-jig, not troll (`HWx1jDTGsng`).
-- **Foamers:** poppers first (they hold the zone longest), then surface iron, then a small lead bait; run **ahead** of the school's travel, stop hard, cast to the middle, **2–3 casts per school** then move. Wait for the **"jacuzzi"** circular form — spread-out directional feeders are picky (`seasonal/august.md`, `techniques/foamer-casting.md`). Bluefin foamers are **slack-tide biters** (`conditions/tide-and-slack.md`). Warning from `mDmbGdQAy-4`: foamers all around the boat converted on **nothing** — trolled bar and cast plugs both scoreless — because the fish were locked on **saury, anchovies, microbait**; a dead flying fish under the kite is what converted.
-- **Kite:** your Saturday dawn (8–12 kt) is inside the KB's **8–15 kt kite window**, and a flying fish under a kite is called *the* most effective method for **100–300 lb** fish (`species/bluefin-trolling.md`). A kite was also flown alongside bait rods in **daytime** at Cortez (`QSvzVHW9UMk`).
-- **Troll:** speed-troll a full-size Mad Mac at **13–15 kt** when it's **too light to kite (under ~8 kt) or the fish are too spread out to sit and kite over** — a coverage need, not a sea-state call (cameron). Troll **sweeping arcs around the bird/bait area**, not straight-lining away (tuna move at low single-digit mph), and don't troll the fleet's prop wash.
-
-### Yellowtail are the co-target, and the fallback
-
-`species/yellowtail.md`: Cortez yellowtail marked at **60–80 ft in 120 ft**, graded **20–40 lb**, on **fly lines, J hooks, surface irons, yo-yo irons and sinker rigs**, anchored **15–25 fathoms**, fished sunup to ~11:00–noon. **40 lb flyline, droppable to 30 lb if line-shy** — with the caveat that **Cortez yellows "swim straight down" into the rock** once hooked on lighter line. A full-speed yo-yo bite there had fish fighting "mean" on **60 lb and 50 lb**, with one angler rocked on **60 lb** (`zBd1mayUt_I`). **J hooks for yellowtail, circle hooks for bluefin** is the stated split (`UfuiWFVvz2E`).
-
-### How good it can be — and how binary
-
-Mid-August 2024 at Cortez/Tanner, captain Jake Hensley (Ranger 85, H&M San Diego): the school switched on **the week before** the trip after being scattered and sparse; distribution was unusually wide — **"not very common to just drive through 20 to 30 miles of fish"**, with a boat 15 miles away seeing the same thing instead of the more typical isolated 4–5 sq mi patch — and he cited **50 to 100 fish days**, anchor and drift both producing (`LsFMBCa9DOQ`). Against that, Capt. TJ described fish holding **outside** the bank for **several days, close to a week**, then another **10 to 14 days** before they pushed in close enough to anchor on the bank (`eL1Qm33-Mj0`). That's the honest spread: it is either wide-open or it is a long look.
-
-And **August is the KB's peak-dispersal month** — bluefin scatter across the whole Bight, "showing up in weird places, gone the next day," yesterday's spot a weak prior; the fleet shifts offshore and the islands lose coverage, so **absence of reports is coverage bias, not absence of fish** (`seasonal/august.md`, `planning/report-reading-and-forecasting.md`).
-
-### Your conditions, read
-
-- **SST 69.4 / 69.9 °F** — far under the **76 °F soft ceiling**, and the KB's ceiling rule only ever runs the other way (warm SST is soft evidence *against*, never a hard exclusion). Nothing here argues against bluefin on temperature. But the actual rule is **relative, not absolute**: bluefin sit the **cool side of a break when the surrounding water is warm, the warm side when it's cold** — *read the break, not the thermometer* (`conditions/water-temperature.md`). Your three points give a **1.7 °F spread** with the banks warm and the 43 cool; the KB gives no absolute preferred band, so I can't turn 69.4 vs 69.9 into a pick.
-- **Chlorophyll 0.3** — the KB has **no numeric chlorophyll scale**. What it has: chlorophyll has an **age** (new cold bloom = skip now, mature bloom edge = fish it), the fishable water is an **edge, not the middle of a mass**, and **bait holds in the dirtier water while predators work the dirty/clean seam** — clean blue water trolled up nothing because the bait wasn't there (`conditions/water-color.md`). Your own doctrine in that note: in warm-water years weight color at least as heavily as SST and don't fish dirty green. A single offshore number without a gradient doesn't resolve into a call.
-- **Spring tide.** Full moon = spring tides, so the moon window and the tide window stack (`conditions/moon.md`). Bluefin foamers bite the slack; **be on the highest-percentage zone an hour before the change**, not at it. **I don't have tide times for 08-29** — the KB carries no tide tables.
+That is a boat with no float-switch bilge, no redundant battery, and no attitude control beyond engine trim, being asked to sit overnight and then beat home ~95 nm into a building NW 15 with a 9-second interval. Every one of those is a documented fact in your own profile, not a guess.
 
 ---
 
-## 3. What I'd actually run this weekend
+## 2. The moon is working against a Friday-night/Saturday-morning trip
 
-Same water state, same moon, boat that fits it.
+`conditions/moon.md` is unusually specific here, and the trip lands on the wrong side of it:
 
-**Target: the 43 and the below-Clemente complex.** `sources/spot-lists.md` puts the 43 at **32°39.333′N / 117°58.417′W** — **~35.5 nm** from your La Jolla NW corner waypoint, **~27 nm** west of the North 9 Mile Bank. `locations/zone-lexicon.md` is explicit that the **43, 181, 182, 289, Clemente Ridge up to Mackerel Bank** read as **one ~50–60 square-mile search box** — you do not "check the 43," you plan **hours of looking**, glassing and running contour between features. Budget it as a commitment, not a spot-check. (Your 68.2 °F there is the cool side of the day's spread.) Bonus context: the 43 draws bluefin effort partly because it now sits inside a **closed rockfish area** (California/CDFW, as-of 2020-12, `Rf1HKJG-SDg` — verify current regs), so the boats that used to stop there for rockfish work it for tuna instead.
+- Days **leading into** the full moon are the strongest documented bluefin windows (10/12/22 report). **08-28 is the full itself** — you're arriving as the leading days end.
+- **The moon peak itself is a relocation event, not a bite-death.** Open-water bluefin not holding structure move **10–15 nm overnight** (7/21/22); Hansen puts it at **20 miles** after a full-moon night (`fri_BWI-VA0`, 2022-02-12) — the note keeps both figures side by side rather than averaging them.
+- Hansen's dissent, kept side by side in the note: best window is **7 days before AND 7 days after** the full, with the **peak itself the travel period, not a bite period**; his overall take is the full moon "is not good," softened by "I've seen a bite in a full moon also."
+- The killer for your specific plan: **the morning after a full-moon night is typically slow** — "it hasn't been really located, or it's been feeding all night and doesn't have a tendency to feed real well right away" — with the bite **picking back up late in the day**. Hansen's explicit advice if you must fish a full moon: **fish it late rather than push the early-morning window** (`fri_BWI-VA0`).
 
-**Timing:**
-- **Break your ~8 am norm and leave at first light.** The wind graph runs 8–12 at dawn → 15 by noon; the KB rule is that if it's windier than forecast in the morning you **assume it builds all day and a small boat bails early**. You are buying the calm hours, not saving them.
-- Expect a **slow morning** (full-moon night before, both voices agree) with the bite **picking up late** — so don't read a dead 07:00 as a dead day, and plan your latest fishable window against the wind build rather than against the fish.
-- Anchor your zone timing to the **tide change, arriving an hour early**; on off-peak days (post-moon is off-peak) action **compresses into the tide windows** rather than spreading across the day.
+Your plan is: fish the relocation night, then push the morning-after window, then leave before the late-day recovery because the wind is building. That's the one shape of trip the note argues against.
 
-**On the way out:** run a **paddy line**, not a stakeout. August is the peak of the paddy program, best water is **south of SCI/Catalina and Dana Point to Oceanside southward**; paddies restock only in darkness, so a dry paddy stays dry — **look, sonar, one bait, move** (`seasonal/august.md`, `conditions/kelp-paddies.md`, `locations/bight-geography.md`). Also: **yellowfin show in August and are more lure-cooperative than bluefin — a surface yellowfin bite can fire the bluefin**, so treat them as a trigger and an area indicator, not a consolation.
+Also note the stacking: **spring tides fall on the full moon**, so the moon window is simultaneously a big-swing tide window (`conditions/moon.md`), and `conditions/tide-and-slack.md` says that when a bite is off-peak — **post-moon, pressured, or marginal conditions** — action **compresses into the tide windows** and you must anchor the plan to tide times and arrive **an hour before the change**. I have no tide table for 08-29 and I'm not fetching one, so I can't set those clock times for you.
 
-**Search discipline** (`planning/search-and-glassing.md`): glass from a full stop or bow into the swell at ~1 kt, **360° in small increments, 3–4 minutes per scan**, watch a bird **30–40 seconds** before judging it; **stations 3–4 mi apart**; along a bank run the contour at **16–18 mph** with a lookout **~30° off each bow**. Your terns are the sign you run to.
-
-**Gear off your own rack:**
-- **Foamers / jumbo shot:** Talica 25 on the Phenix Axis 8'0" 3XH (60–130 lb, 100 lb braid) — your own stated rod for an **80–140 lb** foamer school. Clear Choice Ghost Popper 150 first (poppers hold the zone longest), Zakana 100 g or Slidekick 120 g to downsize to tiny anchovy.
-- **Surface iron:** Torium 20HG on the 10' Phenix Abyss.
-- **Yo-yo on ~60 ft bait marks:** Trinidad 40 (8'0" XH 40–80, 80 lb braid) with the Salas 6X or CP 105.
-- **Flyline:** Avet MXJ on the Teramar 9'0" MH, 50 lb braid — **40 lb** flyline, drop to 25–30 lb fluoro if they're picky, **circle hooks** for bluefin (size 2, stout wire), **J** for yellowtail.
-- **Troll to cover the box:** 2–3 lures, divers (Halco LP190 XDD, Husky Magnums) in the **15° gunnel holders**, bar or skirt out of the **5° elevated shotgun**; Madmacs 200 at **13–15 kt** only if it goes light or the fish are too spread to sit on.
-
-**Care:** you carry **100–125 lb of ice**. Slurry is **~2 cups rock salt per 7–10 lb bag** plus a splash of seawater; chill times **30–40 lb ≈ 2 h, ~100 lb ≈ 3–5 h, >100 lb overnight, re-iced** (`fish-care/tuna-care.md`). Bleed and gill-and-gut on the water before icing. **Bag limit: 2 Pacific bluefin per person per day** (California/CDFW, as of 2024-11 — verify current regs, `usHl-4SfqDA`).
+**The partial lunar eclipse: the KB has nothing on eclipses at all.** I'm not going to invent an effect for it.
 
 ---
 
-## 4. Two gear gaps you should close before any Tanner/Cortez attempt
+## 3. What the water says — the genuinely encouraging half
 
-1. **You have no knife-jig setup and no knife jigs.** The bank fishery out there is fundamentally a **night jig** fishery, and `profiles/cameron/rods.md` lists a dedicated SPJ/speed-jig setup as an **open item you're still shopping**. Ironically the Talica 25 setup is nearly identical to the corpus's canonical overnight/multi-day night-jig outfit — **Talica 25, 100 lb braid marked every 50 ft, 10 ft leader tied straight from braid to 130 lb fluoro, no crimp no swivel, jigs 250–400 g** (`gevNj2Y1Ep8`) — but your Axis is a rail rod, not a short parabolic jig stick, and `profiles/cameron/tackle.md` shows **no knife jigs at all** in the inventory (surface irons, two yo-yo irons, a 100 g Zakana, poppers). You'd be at Cortez with nothing that meets that captain's **300 g floor**, let alone the 500 g the wind night called for.
-2. **The kite.** `species/bluefin-tuna.md` records you started kite fishing in **July 2026**, with the Fathom 80 named as the **future kite rod** (keep the 100 lb braid for capacity and less wind-blow, 200 lb leader, small boat can chase). Saturday dawn at 8–12 kt is squarely in the kite window and the KB says that's *the* big-fish method — but helium assist is ruled out on the panga (no room for a tank), so a dying wind leaves you with no light-wind fallback but the troll.
+I want to be straight that the destination and the water are not the problem.
+
+**SST.** `conditions/water-temperature.md` is emphatic that the value is **which side of a break** a species sits on, not the absolute number — bluefin sit the **cool side of a break when the surrounding water is warm, the warm side when it's cold** (10/20/22), and the **76 °F ceiling is soft, not hard** (bluefin observed foaming in 76 °F, 9/14/22). Against that:
+
+- One captain's stated absolute preference, kept beside (not folded into) the break rule: bluefin move north with cooling water and want to hold in **70–72 °F**, contrasted on camera with 81 °F water fished the day before (`HueC1KHrcVw`, StokedOnFishing, 2016-08-08; unregistered channel — medium). **Tanner 69.4 / Cortez 69.9 sits right at the cool edge of that band.**
+- A direct field parallel: Cortez Bank at **74–75 °F** produced yellowtail/yellowfin/skipjack, and the boat moved to **70 °F at the bank edge / 72 °F at the boat** at Osborn explicitly "chasing some cooler water" — and the early-graylight bite in that cooler water **was bluefin** (`i3qIAHW-SJc`, 2016-08-08; medium).
+
+So 69.4–69.9 offshore is good bluefin water by the KB's own numbers. **But your three point SSTs do not give me a break.** Tanner→Cortez is 0.5 °F across ~19 nm — that's not an edge. The only gradient in your data is inshore-to-offshore: **the 43 at 68.2 vs the banks at 69.4–69.9**, which makes the outer banks the warm side of that gradient. `conditions/water-temperature.md` says to find breaks on a chart because **sharp offshore edges can jump multiple degrees in ~1 mi** — three pins can't do that job.
+
+**Chlorophyll 0.3.** I have to flag this: **the KB never gives a numeric chlorophyll scale anywhere.** `conditions/water-color.md` treats chlorophyll as an **age and edge** question — a **new cold bloom is bad now, productive later**; a **mature bloom edge is the fishable water**; **bait holds in the dirtier water and predators work the dirty/clean seam**, and clean blue-water trolling found **nothing** because the bait wasn't there (8/17/22). Your own recorded doctrine is that in warm-water years you weight color at least as heavily as SST and **won't fish dirty green water**. A single flat "0.3 offshore" tells me the water is uniformly clean and gives me **no seam to fish** — which by this note is the thing that actually matters.
+
+**Seasonal priors.** `seasonal/august.md` — regime **warm stable (peak)**, and August is **peak dispersal**: bluefin scatter Catalina to San Nicolas to Ventura, "showing up in weird places, gone the next day," **yesterday's spot is a weak prior**, and the **whole fleet shifts offshore so the islands lose coverage** (read that as coverage bias, not dead islands). `planning/report-reading-and-forecasting.md` adds the persistence-null rule and a post-weather one that matters directly: **"conditions rolled over — don't rely on your pre-fish"** after a weather event; re-scout, treat pre-event intel as expired regardless of age. Friday's 15–20 kt NW blow is that event.
+
+**One genuine geographic point in favor of the destination:** `locations/bight-geography.md` says a big NW blow doesn't hit the Bight evenly — it **crushes the northern Channel Islands and the LA/Ventura shelf** (5–8 °F surface rollover) while the **Coronados, the tuna grounds, Catalina and San Clemente held their water through it** (4/21/22). So on a NW event, the southern/offshore banks are exactly where you'd want to be looking. The water logic points offshore; only the sea state and the platform say no.
+
+---
+
+## 4. The run, as it would actually be
+
+Distances derived by arithmetic on the KB's own coordinates in `sources/spot-lists.md`, from the Mission Bay Park waypoints (~32°46.2′N / 117°16.1′W) that stand in for your Dana Landing launch:
+
+| Destination | KB coordinates | Distance from Mission Bay |
+|---|---|---|
+| **Tanner Bank** | 32°42.000′N / 119°08.000′W | **≈ 94 nm** |
+| **Cortes Bank** | 32°26.417′N / 119°07.833′W | **≈ 96 nm** |
+| **43** | 32°39.333′N / 117°58.417′W | **≈ 36 nm** |
+
+That cross-checks against the figures the notes themselves carry: Cortez is **~110–115 mi from San Diego** (`UfuiWFVvz2E`), given on camera elsewhere as **111 mi west of Point Loma, 96 mi SW of San Pedro, 47 mi SW of San Clemente Island** (`QSvzVHW9UMk`), and **~90 mi off Long Beach** for the El Dorado's annual trip (`nQvJnfb5jQ4`). Tanner is logged at **roughly 90–100 mi west of Long Beach** (`ntQXxcH5sjI`). Call it **~190 nm round trip minimum, before a single mile of searching.**
+
+**The one small-boat precedent in the corpus** — and read the platform difference carefully: Captain Andrew's own **triple-outboard** boat ran a group **2.5–3 hours** to Tanner Bank (the crew called the return leg alone **over 100 mi**) and landed multiple **100 lb+** bluefin in a day, late October 2021 (`vCskOx6N-XM`, StokedOnFishing; unregistered channel — medium). His stated program is the template for a small-boat day out there and it's a good one: **troll spreader bars to cover ground while searching, then once the sounder is marking good numbers, stop trolling and set a dead flying fish under the kite to fish the drift over the marks** — trolling as the locate step, kiting as the close-and-convert step. Every other Tanner/Cortez trip in this KB is an 80–85 ft sportboat (El Dorado, Ranger 85, Constitution, Top Gun 80) on a 2.5–3 day charter.
+
+I can't give you a transit time. **The KB has no sea-state-to-speed model for this hull** — only "tops ~35 kt, idles ~1.5 kt," and you are not running 35 kt into 5 ft @ 9 s with no trim tabs.
+
+---
+
+## 5. What to expect out there (if the weather were right)
+
+**August at these banks is real, not a fall-only pattern.** `species/bluefin-tuna.md` puts the Tanner/Cortez condensation in the **Oct–Dec** window, but explicitly logs the mid-August data points **beside** it as "not a contradiction — different months, same bank":
+
+- **Tanner, mid-Aug 2024:** boat anchored in **~120 ft** of water, bluefin taken on **bait marks sitting around 60 ft** while chumming sardines; yellowtail and bluefin both landed over two days (`ntQXxcH5sjI`).
+- **Cortez/Tanner, mid-Aug 2024, Capt. Jake Hensley, Ranger 85:** fish arrived on the banks as a sudden switch the week before; distribution unusually wide — **"not very common to just drive through 20 to 30 miles of fish"**, a boat 15 miles away seeing the same thing rather than the usual isolated 4–5 sq mi patch — with **50 to 100 fish days**, anchor and drift both producing (`LsFMBCa9DOQ`).
+- **Cortez, Aug 2024, El Dorado:** anchored alongside a **crowded fleet**; the crew repositioned onto the **50–60 fathom edge** of the drop-off next to the high spot and that line produced "right out the gate" (`nQvJnfb5jQ4`).
+- **Cortez, Constitution:** anchor in **15–25 fathoms**, yellowtail sunup to ~11:00–noon, then move to deeper water to search bluefin through the night (`UfuiWFVvz2E`).
+
+**Grade — expect it mixed and unpredictable on one size line.** The Tanner crew called the bank's core tackle challenge exactly that: **10 lb schoolies up to 80, "maybe even 100" lb** moving through together, "a total game" to match hook/leader/weight without going under-gunned (`947solNfiPw`, day-one grade opening ~30 lb, fish to 41 lb the previous day). Cortez ran **20–30 lb, about 25 lb average** on 20 lb fluoro to No. 4 and No. 2 hooks (`QSvzVHW9UMk`), while the **sundown bite the same trip produced multiple bluefin over 100 lb** on the kite and flyline fished alongside it, with a **180 lb** referenced to the northwest (`zBd1mayUt_I`). And `species/bluefin-tuna.md` is explicit that **bluefin gear does not get scaled down on a mixed tuna trip** — grade is unpredictable trip to trip, so tackle stays sized for the biggest fish that could show (`PrdPJy26H8c`).
+
+**The night is the point of an overnight.** Same captain, same August, same banks: the night bluefin bite ran **two windows — roughly 9:00 pm to 11:00 pm/midnight, a lull, then about 3:30 am to sunrise** (`LsFMBCa9DOQ`; the note keeps this as one captain's clock-time read for that season, not moon doctrine). That first-night session started yo-yo/jig fishing around **1:00 am** and put roughly a **half dozen 30 lb-class fish** on the boat. On the meter, that overnight session read marks **360° around the boat, from 50 fathoms down to 80 fathoms, even below** — deeper than the general sounded-school figure of **30–50 fathoms** in wind with no surface sign (`HWx1jDTGsng`, Capt. Duane Diego Mellor), and deeper than the classic DSL night read of depth-called marks at **"fish at 180, fish at 230 ft"** you drop straight down onto (`nRFFM8DT-og`).
+
+**Expect it to switch off without warning.** The Ranger 85 trip saw a large flat oceanic slick with fish breaking "everywhere" shut off **"like a light switch,"** and the crew could not relocate the school (`zBd1mayUt_I`).
+
+**Expect a mixed bag, and expect the current to gate it.** Yellowtail bite together with the bluefin on flylined sardines at both banks — **"larger grade Cortez yellowtail," 20–40 lb**, marked at **60–80 ft in 120 ft of water**, worked on yo-yo jigs, surface irons, flylines and sinker rigs (`UfuiWFVvz2E`). Cortez yellows **"swim straight down" into the rocks** as a defense once hooked — one angler was **rocked on 60 lb** (`zBd1mayUt_I`). And a slack morning on the bank scratched until the current turned on, which is what finally produced a **five-hour yellowtail bite** (`fDSd9kqwYW0`) — the current-gates-the-bite pattern.
+
+**Hooks/line the banks actually fish** (`species/bluefin-tuna.md`, `species/yellowtail.md`): **circle hooks for bluefin, J hooks for yellowtail**; flyline floor of **40 lb** for daytime bluefin (`UfuiWFVvz2E`); Cortez anchor bite on **25 lb mono/fluoro to a #2 circle** (`nQvJnfb5jQ4`) or **20 lb fluoro to No. 4 / No. 2** (`QSvzVHW9UMk`, with a caution that some No. 4s run light wire — prefer a stouter one); night knife-jig floor of **80 lb braid to 130 lb mono or fluoro** (`UfuiWFVvz2E`), with other sources putting night setups at **80–150 lb class** and leaders to 200 lb (`149px8WQ2Ng`, `RfiC8sfIWTk`).
+
+**Regulation:** **two Pacific bluefin per person per day** (California/CDFW, as of 2024-11, stated on camera in `usHl-4SfqDA`) — **verify current regs before you fish.**
+
+---
+
+## 6. Gear resolution against your profile — and two holes
+
+If you were going, here's how the profile resolves (`profiles/cameron/rods.md`, `tackle.md`, `trolling-lures.md`, `boat.md`, class terms per `tackle/gear-classes.md`):
+
+- **Troll to locate:** Talica 25 (Phenix Axis 8'0" 3X-H 60–130, 100 lb braid — rail-rod class) and Fathom 80 (PCH-C-741XXXXH 7'4" 150–200 lb, ~1000 yd of 100 lb braid — trolling/spreader-bar class), plus the Trinidad 40; TLD 20 (Seeker 660H, 80 lb) for diver duty. **2–3 lures, no outriggers, furthest-back lure out of the elevated 5° shotgun behind the seat; divers in the 15° gunnel holders** — every ~3 ft of rod-tip elevation costs ~1 ft of running depth. Inventory covers it: three **Half Fish spreader bars**, **Madmacs 200 ×2 + 130**, **Halco LP190 XDD ×2**, **Husky Magnum 25 ×2 + 15**, **DTX 165**, two cedar plugs, skirts.
+- **Which one:** per `species/bluefin-trolling.md` — **kite when the wind gives you 8–15 kt and the fish are big**; **speed-troll a full-size Mad Mac at 13–15 kt** when it's too light to kite **or the fish are too spread out to sit and kite over** (your own framing: a coverage need, not sea state); **spreader bar = the small presentation, Mad Mac = the large**, and **let forage size override the sea-state row** when they disagree. Note the flagged conflict the KB keeps unreconciled: one crew read the **bar as pulling the bigger fish** out of a mixed 40–100 lb school while the Mad Mac produced more generally (`xzIaUEDklrE`) — opposite to the presentation-size axis, no forage size given to explain it.
+- **The kite is the one thing Saturday's wind actually suits.** NW 8–12 at dawn building to 15 sits **inside the 8–15 kt kite window**, and the kite is documented as *the* most effective method for 100–300 lb fish. Your Fathom 80 is the designated kite rod (keep the 100 lb braid for capacity and less wind-blow, 200 lb leader, small boat can chase), you started kiting July 2026, and **helium is ruled out on the panga** (no room for a tank) — which per `techniques/kite-fishing.md` is a platform constraint, not a fishery rule.
+- **Two real holes in the inventory for this specific trip:**
+  1. **No knife jigs and no knife/speed-jig rod.** `tackle/gear-classes.md` lists the knife/speed-jig class as "Cameron shopping (open item)" and `profiles/cameron/rods.md` has the dedicated SPJ/speed-jig setup as an open item. **The night program at these banks — 50–80 fathom marks, 9 pm–midnight and 3:30 am–sunrise — is a knife-jig game you are not currently equipped for.** Your Trinidad 40 with the Salas 6X / CP 105 covers the *shallow* row (yo-yo iron on ~60 ft bait-ball marks around the boat while chumming, where a heavy bite reads as the rod going dead-weight, "almost like stuck on the bottom" — `ntQXxcH5sjI`), not 50–80 fathoms.
+  2. **The kite needs a flying fish.** The KB documents the harness, the balloon-to-kite rigging from Tanner (`vCskOx6N-XM`), and the wind window — but says nothing about whether you have flyers aboard or a source for them.
+- **If foamers show:** Talica 25 is the rod the profile names for a jumbo **80–140 lb** foamer school; your own program is **run-and-gun at working terns, ~2–3 casts per school, smaller presentation (Colt-Sniper class) has out-fished bigger, timed around slack tide**. Wait for the **"jacuzzi" (solid circular whitewater) ≈ a bite every cast**; spread-out directional feeders are picky (`seasonal/august.md`, `techniques/foamer-casting.md`). Ghost Popper 150, Ghost TP 140/160, Zakana 100g, Slidekick 120g cover it.
+- **Bait:** 30-gal tank, Rule 401 500 GPH pump — and the electrical note above is a trip-limiting fact, not a footnote.
+
+---
+
+## 7. What I'd do instead
+
+**Option A — a short-window day trip to the 43 / the below-Clemente complex, dawn to early afternoon.**
+
+`locations/zone-lexicon.md`: the **below-Clemente complex — 43, 181, 182, 289, Clemente Ridge up to Mackerel Bank — reads as one ~50–60 sq mi search box.** You do not "check 43"; you plan **hours of looking**, glassing and running contour between features. Your 68.2 °F reading is the inshore side of the only gradient you gave me, and `species/bluefin-tuna.md` explains why the 43 draws bluefin effort at all: it was the destination rockfish grounds for decades and now sits inside a closed rockfish area, so the effort that used to stop there for rockfish targets the same high spot for bluefin (California/CDFW, as-of 2020-12, `Rf1HKJG-SDg` — verify current regs).
+
+From Mission Bay that's **~36 nm** by the KB's coordinates — roughly a third of the Tanner run, inside your documented home waters, and it lets you be off the water before the noon 15 kt build. The honest caveats: it's a **post-full-moon morning** (Hansen: slow early, better late — and you'd be leaving before "later"), and the 43's fathom-named high spot means **structure**, so the "open-water fish move 10–15 nm overnight" relocation rule bites less hard there than on a scattered offshore body.
+
+**Option B — don't go, and hold the Tanner/Cortez run for a better forecast.** The banks are producing in August by the KB's own record, and `species/yellowtail.md` logs the sane way to time a Cortez run: the El Dorado picked Cortez as its destination on **inside intel from a couple of boats that had fished the bank a few days prior** (`oXunQKSbc2g`), not on a fixed schedule. The KB's own build-up timeline for that bite: fish held **outside the bank for close to a week**, then another **10 to 14 days** before they pushed in close enough to anchor on and fish at anchor (`eL1Qm33-Mj0`). That is a fishery you plan into with a fresh report and a flat forecast, not one you force on a 9-second interval.
+
+**If you go anyway** (your boat, your call — `conditions/sea-state.md` puts that squarely on whoever is running it), the KB-consistent shape is: run in the Saturday dawn lull, **not Friday night**; troll bars to search and kite over the marks in the 8–15 kt window per `vCskOx6N-XM`; and turn for home well before the noon build, accepting that you're skipping both the night jig windows (which you're not equipped for anyway) and the late-day post-moon recovery Hansen says is the better half of a full-moon day.
+
+---
+
+## 8. What the KB could not tell me
+
+Listed plainly so you know where I stopped rather than guessed — in particular, **your boat's fuel capacity and range are nowhere in this knowledgebase**, and that's the one number a ~190 nm round trip turns on.
+
+**Notes I worked from:** `planning/day-plan-protocol.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `seasonal/august.md`, `species/bluefin-tuna.md`, `species/bluefin-trolling.md`, `species/yellowtail.md`, `techniques/kite-fishing.md`, `techniques/knife-jigging.md`, `planning/search-and-glassing.md`, `planning/report-reading-and-forecasting.md`, `locations/bight-geography.md`, `locations/zone-lexicon.md`, `tackle/gear-classes.md`, `sources/spot-lists.md`, and your five profile files.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/current-structure.md`, `conditions/tide-and-slack.md`, `conditions/deep-scattering-layer.md`, `seasonal/august.md`, `seasonal/june-july.md`, `species/bluefin-tuna.md`, `species/bluefin-trolling.md`, `species/yellowtail.md`, `techniques/knife-jigging.md`, `techniques/kite-fishing.md`, `techniques/foamer-casting.md`, `techniques/fighting-big-bluefin.md`, `tackle/rod-and-reel-selection.md`, `fish-care/tuna-care.md`, `bait/bait-tanks.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`  
-*videos:* `NC3-3pJDEgo`, `fri_BWI-VA0`, `ntQXxcH5sjI`, `947solNfiPw`, `c3NFkQbdDy0`, `nQvJnfb5jQ4`, `eL1Qm33-Mj0`, `LsFMBCa9DOQ`, `QSvzVHW9UMk`, `UfuiWFVvz2E`, `zBd1mayUt_I`, `sHnqSIOjTdM`, `r4J5nP5Bkl4`, `usHl-4SfqDA`, `mDmbGdQAy-4`, `HWx1jDTGsng`, `nRFFM8DT-og`, `Ul5FLB2dFgQ`, `scmPq63lLWM`, `RbqOKkINSCM`, `gevNj2Y1Ep8`, `xPFm_ZV2PZU`, `149px8WQ2Ng`, `PrdPJy26H8c`, `Rf1HKJG-SDg`, `Blh2BA-7Ono`, `HzE4FHHcvTk`, `CMQkHQMxbXM`, `cameron`  
-*gaps admitted:* No Tanner Bank or Cortez Bank location note exists in this KB — the banks appear only as coordinates in sources/spot-lists.md plus scattered trip observations inside species notes; there is no per-spot page with depths, structure, approach, or hazards (e.g. the Bishop Rock shoal is never mentioned). | No fuel capacity, cruise speed, fuel burn, or range figure for the Panga Marine Marquesas 22 anywhere in profiles/cameron/boat.md — only top speed ~35 kt and idle ~1.5 kt — so I cannot state whether ~190 nm round trip is inside or outside the boat's actual range. | No launch-point coordinate for Dana Landing / Mission Bay in the KB, so my leg distances are measured from the La Jolla NW Corner waypoint in Cameron's own list, not from the ramp. | The KB says nothing about lunar eclipses — no note in conditions/ mentions one — so I have no basis to adjust the plan for the 2026-08-28 partial eclipse in either direction. | No numeric chlorophyll scale or threshold anywhere in conditions/water-color.md — only bloom age (new cold bloom vs mature bloom edge) and edge-vs-mass doctrine — so a single 0.3 offshore reading cannot be graded good or bad. | No absolute SST preference band for bluefin — conditions/water-temperature.md gives only the relative break-side rule and the 76 F soft ceiling — so 69.4 vs 69.9 F cannot be turned into a bank pick. | No tide tables or tide times in the KB, so I cannot give slack-tide windows for 2026-08-29 despite bluefin foamers being slack-tide biters. | No battery-endurance figure for running the 500 GPH / 2.1 A bait pump overnight offshore off the single Group 24 start battery — bait/bait-tanks.md documents the NOCO AC charger as the overnight solution, which is a dock solution, not an offshore one. | No guidance anywhere on anchoring a small boat in the 15-25 fathom (90-150 ft) depths the corpus boats anchor in at Cortez, or on anchor tackle for that depth 90+ nm offshore. | No sourcing, storage, or rigging-availability guidance for flying fish (the kite bait) — techniques/kite-fishing.md and rigging/flying-fish-harness.md cover the harness but not where a private boat gets the bait. | No small-boat / private-boat overnight offshore procedure at all — no watch-standing, lighting, night-running, or safety-equipment doctrine; every Tanner/Cortez trip in the corpus is an 80-85 ft sportboat on a 1.5-3 day charter. | The KB does not reconcile whether 100-125 lb of ice is sufficient to core-chill a >100 lb bluefin that fish-care/tuna-care.md says needs an overnight, re-iced hold. | Distances between banks and from the La Jolla NW corner are my own great-circle arithmetic on the KB's coordinates, not figures stated in any note.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `planning/report-reading-and-forecasting.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/tide-and-slack.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `seasonal/august.md`, `species/bluefin-tuna.md`, `species/bluefin-trolling.md`, `species/yellowtail.md`, `techniques/kite-fishing.md`, `techniques/knife-jigging.md`, `techniques/fighting-big-bluefin.md`, `techniques/foamer-casting.md`, `locations/bight-geography.md`, `locations/zone-lexicon.md`, `tackle/gear-classes.md`, `bait/bait-tanks.md`, `sources/spot-lists.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`  
+*videos:* `NC3-3pJDEgo`, `fri_BWI-VA0`, `HzE4FHHcvTk`, `CMQkHQMxbXM`, `HWx1jDTGsng`, `nRFFM8DT-og`, `PrdPJy26H8c`, `HueC1KHrcVw`, `i3qIAHW-SJc`, `Rf1HKJG-SDg`, `ntQXxcH5sjI`, `LsFMBCa9DOQ`, `QSvzVHW9UMk`, `zBd1mayUt_I`, `nQvJnfb5jQ4`, `eL1Qm33-Mj0`, `947solNfiPw`, `c3NFkQbdDy0`, `UfuiWFVvz2E`, `vCskOx6N-XM`, `xzIaUEDklrE`, `fDSd9kqwYW0`, `oXunQKSbc2g`, `usHl-4SfqDA`, `149px8WQ2Ng`, `RfiC8sfIWTk`, `cameron`  
+*gaps admitted:* No fuel capacity or range figure for the Panga Marine Marquesas 22 anywhere in the KB — the single load-bearing number for a ~190 nm round-trip run to Tanner/Cortez. | No sea-state-to-speed or transit-time model for this hull; the KB gives only 'tops ~35 kt / idles ~1.5 kt' and one non-comparable triple-outboard data point (2.5–3 h to Tanner, vCskOx6N-XM), so I could not estimate a run time in 5 ft @ 9 s. | The KB has no doctrine on lunar eclipses at all — the partial eclipse on the night of 2026-08-28 cannot be assessed from these notes. | The KB gives no numeric chlorophyll interpretation scale (no mg/m³ thresholds anywhere); conditions/water-color.md treats chlorophyll only as bloom age and edge, so 'chlorophyll 0.3 offshore' cannot be graded good or bad, only noted as showing no seam. | No tide times for 2026-08-29 were supplied and the KB contains no tide table, so tide-and-slack.md's 'arrive an hour before the change' and off-peak window-compression rules could not be turned into clock times. | No guidance on running an overnight electrical budget offshore: the KB documents a single starting battery, no house battery, and a NOCO GEN5X1 AC-pigtail dock charger, but says nothing about powering the bait pump overnight ~95 nm from the dock or about engine/alternator charging. | No multi-day or overnight small-boat trip protocol (watch-keeping, sleeping offshore, night-running, offshore safety equipment) — planning/ is built as a day-trip surface. | No swell-exposure note for the Mission Bay entrance; Cameron's charted exposure work in conditions/sea-state.md covers the San Diego Bay entrance only (open to roughly 160°–186°). | No record of whether Cameron owns or can source flying fish for the kite program, despite the kite being the method the Saturday 8–15 kt wind window suits. | No ground-tackle inventory for the panga (rode length, chain-and-rope makeup, anchor size), so the Cortez/Tanner anchor programs at 15–25 fathoms and 50–60 fathoms could not be checked against what the boat actually carries. | No current field, break map, 12–24 h wind hindcast, or 48–72 h upstream-fetch scan was supplied, all of which conditions/sea-state.md and water-temperature.md require on every conditions pull; three point SSTs cannot resolve the break-side rule.
 
 </details>
 
-<details><summary><b>B3 — batch 3</b> · 12/12</summary>
+<details><summary><b>B3 — batch 3</b> · 11/12</summary>
 
-## Verdict: **No-go** for the overnight to Tanner/Cortez on this boat, this weekend.
+# Tanner / Cortez overnight, 8/28–29/26 — **No-go on the panga.**
 
-Two independent things kill it — the sea state, and a boat envelope the knowledgebase says I'm not allowed to guess at. The bank itself is a legitimate late-August bluefin target; the KB has real August data for it. It's the platform and the weekend that don't fit. I've laid out the run anyway, plus what I'd actually do with Saturday.
-
----
-
-## 1. The envelope, and the one question I have to ask you first
-
-Per [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md) step 1b I set `{regions, waters}` before opening a single species note.
-
-- **regions:** `socal-bight` — Tanner and Cortez Bank are explicitly inside the Bight per [`locations/regions.md`](locations/regions.md).
-- **waters:** `bank`, `open-ocean`.
-- **Launch:** Dana Landing, Mission Bay ([`profiles/cameron/spots.md`](profiles/cameron/spots.md), [`profiles/cameron/boat.md`](profiles/cameron/boat.md)).
-
-**But the envelope is incomplete, deliberately.** [`profiles/cameron/boat.md`](profiles/cameron/boat.md) carries `range_nm: null` and `sea_state_max_ft: null`, with the note in the file itself: *"Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must ASK for range and sea-state instead of assuming one."*
-
-So: **what is the Marquesas 22's usable range at cruise, and what's your honest sea-state ceiling?** I'm not going to invent numbers for a 190-nm round trip. The KB records only that the boat *tops out ~35 kt and idles ~1.5 kt* — no cruise speed, no fuel burn, no range. Everything below treats the run as unproven rather than assuming it works.
-
-## 2. The run, as the KB describes it
-
-| Bank | Coordinates ([`sources/spot-lists.md`](sources/spot-lists.md)) | Distance |
-|---|---|---|
-| Tanner Bank | 32 42.000 / 119 08.000 | ~92 nm from the La Jolla NW Corner anchor (32 50.630 / 117 18.460) |
-| Cortes Bank | 32 26.417 / 119 07.833 | ~95 nm from the same anchor |
-| 43 | 32 39.333 / 117 58.417 | ~35 nm from that anchor |
-
-(Distances are arithmetic on the KB's own coordinates.) The corpus figure agrees: [`species/yellowtail.md`](species/yellowtail.md) calls Cortez Bank *"a legendary SD-offshore high spot roughly **110–115 mi** from San Diego, **a full overnight run for a sportboat**"* (`UfuiWFVvz2E`). Boats fishing it in the corpus are 80–85 ft sportboats — the Constitution out of Fisherman's Landing (`UfuiWFVvz2E`), the El Dorado and Ranger 85 out of Long Beach at ~90 mi (`nQvJnfb5jQ4`, `LsFMBCa9DOQ`). The KB has **no private-boat or small-boat account of this run at all.**
-
-## 3. Why the weather says no — this is the decisive one
-
-[`conditions/sea-state.md`](conditions/sea-state.md) carries Capt. Dave Hansen's go/no-go thresholds (`NC3-3pJDEgo`, 2020-11-18), and your Saturday numbers land on the **named unfishable combo**:
-
-> **12–15 kt wind with 4–8 ft swell at a 9-second interval** — *"you can't go out there… you just cannot be caught out there,"* a dire situation **even for bigger boats**; he holds the larger boats he runs at the dock in that combo too, not just as small-boat caution.
-
-Your Saturday is NW **4 ft @ 9 s** with wind building to **15 kt** by noon. That is the combo, term for term. Supporting rules from the same note, all firing:
-
-- **"Swell interval under 10 seconds is a hard bad-sea flag"** — *"absolutely horrible," independent of height.* Both days are 9 s.
-- **Hansen's personal cutoff is not running above ~12 kt** (wind over ~12 kt is what raises whitecaps). Friday is 15–20 kt; Saturday builds through 12 to 15.
-- **Forecast error is asymmetric** — assume the forecast errs on the worse side, and that afternoon W at the islands *strengthens* rather than eases. Also: if it's windier than forecast in the morning, **assume it builds all day — a small boat bails early** (7/14/22). "Builds to 15 by noon" is the forecast's *good* case.
-- **Current-vs-swell opposition.** Summer uphill countercurrent running against NW swell compresses the interval and stands the swell up — *4 ft @ 10 s fishes like 6 ft @ 7–8 s*, and point forecasts don't show it. You gave me no current field, so I can't rule this out; it can only make the read worse, never better.
-- **Homebound wind.** The KB's rule is to plan return timing **against** the afternoon build, not off the outbound conditions (8/17/22). Your return leg is ~95 nm starting into a wind that's still building at noon.
-
-On **"no Small Craft Advisory"**: the KB doesn't use SCA as its go/no-go gate anywhere. It uses the numbers above, and the numbers above fire. A no-SCA morning doesn't move Hansen's 9-second flag or his 12-kt cutoff.
-
-**Friday night's transit is worse than Saturday's fishing weather** — NW 15–20 kt over 5 ft @ 9 s, in the dark, ~95 nm, in a boat with **no trim tabs** (engine trim is the only attitude control), a **foam-filled hull with a very small bilge**, a **manual-switch bilge pump with no float switch**, and a **single 115 hp Yamaha** with no second engine ([`profiles/cameron/boat.md`](profiles/cameron/boat.md)). Your own trim routine has a person riding the bow bean bag with the note that *"rough days forward are brutal — rider catches air then hits the deck."* That's your record of how this hull handles a steep sea.
-
-There's also a power problem specific to overnighting offshore. The panga has **no AC/shore-power inlet and no house battery** — the 30-gal tank's Rule 401 pump (500 GPH, 2.1 A) runs off the **single starting battery** ([`bait/bait-tanks.md`](bait/bait-tanks.md), [`profiles/cameron/boat.md`](profiles/cameron/boat.md)). The NOCO GEN5X1 that "holds the battery up so the bait pump can run overnight" is a **hardwired AC pigtail** unit — that's a dock/trailer solution, not a 95-nm-offshore one. The KB does not resolve whether the pump can run all night offshore off the start battery, so I won't tell you it can.
-
-## 4. The moon makes this a bad weekend to spend that fuel
-
-Full moon lands **on 08-28 — your departure night.**
-
-[`conditions/moon.md`](conditions/moon.md) keeps two views side by side and neither favors Saturday morning:
-
-- **Landesfeind (high):** the days **leading into** the full moon are the strongest documented bluefin windows. 08-28 is the peak — you'd be arriving at the back edge of that window, not inside it.
-- **Hansen (`fri_BWI-VA0`, 2022-02-12):** the full moon itself *"is not good"*; the peak is the **travel period, not a bite period**. The morning **after** a full-moon night is typically slow — the school *"has been feeding all night and doesn't have a tendency to feed real well right away"* — with the bite **picking back up late in the day**. His stated instruction: if fishing a full moon is unavoidable, **fish it late rather than push the early-morning window.**
-
-Saturday dawn on the bank is precisely the window he tells you not to push — and a 22-ft boat 95 nm out doesn't get to stay for the late-day rebound and then run home.
-
-The relocation figures compound it: open-water bluefin not holding structure move **10–15 nm overnight** (Landesfeind, 7/21/22); Hansen puts it at **20 miles after a night of a full moon** for albacore, bluefin and yellowfin. Both figures kept side by side, not averaged ([`planning/report-reading-and-forecasting.md`](planning/report-reading-and-forecasting.md)). Any report you're running 95 nm on is displaced by that much by the time you arrive. The honest caveat: that prior is stated for fish **not holding structure**, and a bank high spot is structure — the KB gives no bank-specific advection figure, so I can't tell you how much it discounts.
-
-Layer on [`seasonal/august.md`](seasonal/august.md): peak dispersal, *"showing up in weird places, gone the next day"* — **yesterday's spot is a weak prior**, and the whole fleet is offshore so island reports go quiet (read as coverage bias, not dead water).
-
-**On the partial lunar eclipse: the KB has nothing.** No note anywhere covers eclipses. I'm not going to speculate about it.
-
-## 5. What's actually out there in late August (so this isn't just "no")
-
-The bank is a real target this month, and the KB is specific that August Tanner/Cortez sits **beside** — not inside — the Oct–Dec "condense outward to Tanner/Cortez" pattern ([`species/bluefin-tuna.md`](species/bluefin-tuna.md), [`conditions/water-regimes.md`](conditions/water-regimes.md)):
-
-- **Mid-August 2024, Tanner Bank, anchored, ~120 ft of water** (`ntQXxcH5sjI`): bluefin and yellowtail both landed over two days; **bluefin taken on bait marks sitting around 60 ft** while the boat chummed sardines.
-- **Tanner Bank, eastern side of the high spot, day one** (`947solNfiPw`): sardine bite from first light; **41 lb the previous day**, day-one grade opening ~**30 lb**, a fish fought "on 50 [lb]", one flylined on a **No. 4 circle hook, 40 lb** line/leader with a short fluorocarbon length. The crew's framing of the challenge: **10 lb schoolies up to 80, "maybe even 100" lb** moving through together on one size line.
-- **August 2024, Cortez Bank, ~90 mi off Long Beach** (`nQvJnfb5jQ4`): bluefin and yellowtail on flylined sardines, **25 lb mono or fluoro leader to a #2 circle hook**, working a **50–60 fathom** edge off the high spot; crowded fleet on the spot.
-- **Mid-August 2023, ~90 mi off, at anchor** (`c3NFkQbdDy0`): mixed bluefin/yellowtail, one bluefin at **40 lb**.
-- **Night, Cortez/Tanner, mid-August 2024** (`LsFMBCa9DOQ`): an overnight jig session read marks **360° around the boat, from 50 fathoms down to 80 fathoms and below** — deeper than the general 30–50 fm sounded-school range. Capt. Jake Hensley's read on that season's night windows: roughly **9:00 pm–11:00 pm/midnight**, a lull, then **~3:30 am to sunrise**.
-- **Yellowtail as the co-target:** Cortez fish marked at **60–80 ft in 120 ft of water**, graded **20–40 lb**, on flylines, J-hooks, surface irons and yo-yo irons; captain's floor **40 lb flyline**, droppable to 30 if they get line-shy, with the warning that Cortez yellows **"swim straight down" into the rocks** once hooked (`UfuiWFVvz2E`). Another Cortez trip had them fighting "mean" on **60 and 50 lb**, with an angler **rocked off on 60 lb**, in ~50 fathoms (`zBd1mayUt_I`).
-
-**On your SSTs.** 69.4 / 69.9 / 68.2 °F is nowhere near a problem — the KB's only ceiling is the **76 °F soft ceiling**, and it's soft: bluefin were seen foaming in 76 °F ([`conditions/water-temperature.md`](conditions/water-temperature.md), 9/14/22). But the KB's actual bluefin rule is *relative, not absolute*: **cool side of a break when the water is warm, warm side when it's cold** (10/20/22). Three point readings across ~60 nm aren't a break — and the note warns that sharp offshore edges can **jump multiple degrees in ~1 mi**. Your 1.7 °F spread tells me the general zone is uniform-ish; it tells me nothing about where the edge is. That needs the gradient field per spot and along the route, which I'm not fetching here.
-
-**On chlorophyll 0.3:** the KB has **no numeric chlorophyll scale** — nowhere does it say what a given mg/m³ value means. What it gives is qualitative and still useful ([`conditions/water-color.md`](conditions/water-color.md)): chlorophyll has an **age** (new cold bloom = skip today, mark it for the recovery; mature bloom **edge** = fish it), **bait holds in the dirtier water while predators work the dirty/clean seam**, and bluefin will swim into the dirtiest coldest water to be on bait. Also your own recorded doctrine: in warm-water years, weight color at least as heavily as SST and don't fish dirty green water. One offshore number isn't an edge — the edge is the target.
-
-## 6. Gear resolution against your profile — and one gap that matters
-
-If you were out there Saturday with 8–12 kt at dawn:
-
-| Situation | Technique | Your gear |
-|---|---|---|
-| 8–15 kt, 100–300 lb fish up | **Kite** — *the* most effective method for that grade ([`techniques/kite-fishing.md`](techniques/kite-fishing.md)) | Fathom 80 setup: Okuma PCH-C-741XXXXH 7'4" 150–200 lb, Penn Fathom II 80LD2 2-speed, ~1000 yd of 100 lb braid — the profile's designated **future** kite rod |
-| Too light to kite, or fish too spread out to sit over | **Speed-troll a Mad Mac 200 at 13–15 kt** ([`species/bluefin-trolling.md`](species/bluefin-trolling.md)) | Madmacs 200 ×2 + 130, on the Talica 25 (Phenix Axis 8'0" 3X-H 60–130 lb, 100 lb braid) or Fathom 80 |
-| Light-moderate, school grade | **Spreader bar**, small presentation, out of the elevated shotgun holder | Three Half Fish bars; shotgun sits ~3 ft higher / 4 ft forward of the gunnels at 5° |
-| Calm, school grade, want a swimmer | **DTX 165 / Husky Magnum divers**, 60–100 lb (action dies on heavy line) — **divers want the low gunnel holders** (15°) | DTX Minnow 165, Husky Magnum 25 ×2 + 15, Halco LP190 XDD ×2; TLD 20 entering rotation for diver duty |
-| **Marks ~60 ft around the boat while chumming, no surface sign** — the Tanner August scenario | **Yo-yo iron**, 40–60 lb class stout rod + high-speed reel ([`techniques/yo-yo-iron.md`](techniques/yo-yo-iron.md)) | Salas 6X, Salas CP 105, on the Trinidad 40 (Rainshadow 8'0" XH 40–80, 80 lb braid) — **good match** |
-| Chummed up / picky on bait | **Flyline sardine, circle hook** ([`techniques/flyline.md`](techniques/flyline.md)); 4/0 thin-wire circle straight-tied for sportboat sardine (`ftEvyfwjZFU`) | Avet MXJ on the Teramar 9'0" MH 30–65 lb, 50 lb braid |
-| Foamers, castable seas | **Poppers first**, then surface iron, then a small lead bait; bite comes on the **pause/fall** | Ghost Popper 150, TP 140/160, JRI-5/JRI-7, Nomad Slidekick 120g, Zakana 100g; Talica 25 is your stated jumbo-foamer (80–140 lb) rod |
-| **Night bite, fish rising on the DSL** — the reason you'd overnight at all | **Knife-jigging vertical**, 100–130 lb braid jig class / PE6–8, jigs **150–400 g** | **GAP — you don't own this** |
-
-**Name the gap plainly:** the single highest-percentage reason to make an overnight run to those banks in August is the **night jig bite** — and it's the one program you can't currently fish. [`profiles/cameron/rods.md`](profiles/cameron/rods.md) lists a *dedicated SPJ / speed-jig setup* as an **open item you're still shopping**, and [`profiles/cameron/tackle.md`](profiles/cameron/tackle.md) lists no knife jigs at all — surface irons, yo-yo irons, casting jigs and poppers only. The depth numbers make the substitution question moot: fish sounded at **240–360 ft** are the stated reason a flat-fall/knife jig needs to be **250 g or greater** — 120–150 g "won't reach that depth quickly enough," especially drifting in wind (`eehDVb6_GoI`); and the bank-specific night read was **50 to 80 fathoms and below** (`LsFMBCa9DOQ`). Your heaviest jig is a 120 g Nomad Slidekick surface iron. I'm not going to tell you to sink it out and call that the night program — it isn't the same tool.
-
-The kite has an unresolved gap too: [`profiles/cameron/tackle.md`](profiles/cameron/tackle.md) is a hard-bait inventory and lists **no kite, no flying fish, no flying-fish harness, and no 200 lb-class bite leader / 300–400 lb fluoro**. The KB records that you started kite fishing July 2026 and ruled out a helium assist (no room for a tank on the panga), but it doesn't inventory the terminal end. **Do you have the kite, flyers and harness aboard?**
-
-**Fish care, if you did land fish** ([`fish-care/tuna-care.md`](fish-care/tuna-care.md)): bleed and gill-and-gut immediately on the water, then a below-freezing slurry — **rock salt ~2 cups per 7–10 lb bag of ice**, plus a splash of seawater, fish fully submerged, re-iced as it burns down. Chill times: **30–40 lb ≈ 2 h; ~100 lb ≈ 3–5 h; >100 lb overnight, re-iced.** You carry **100–125 lb of ice per trip**. Limit is **two Pacific bluefin per person per day** (California/CDFW, as stated on camera 2024-11, `usHl-4SfqDA` — **verify current regs before you fish**). The KB gives no cooler-capacity math, so I can't tell you how many 40–80 lb fish your ice budget actually holds.
-
-## 7. What I'd do with Saturday instead — inside the envelope
-
-The NW blow itself points where to go. [`locations/bight-geography.md`](locations/bight-geography.md) (`HzE4FHHcvTk`, 4/21/22) maps wind rollover: the **northern Channel Islands and the LA/Ventura shelf get crushed** (a strong NW event rolls surface temp down **5–8 °F**); **south of Newport is less prone**; and the **Coronados, the tuna grounds, Catalina and San Clemente held their water through the blow.** You launch at Mission Bay — you're already on the right side of that map.
-
-**Target the below-Clemente complex, entering at the 43** — 32 39.333 / 117 58.417, ~35 nm from your La Jolla NW anchor, and the coolest of your three given readings at **68.2 °F**.
-
-- Treat it as a **search box, not a spot.** [`locations/zone-lexicon.md`](locations/zone-lexicon.md) is explicit: the 43 / 181 / 182 / 289 / Clemente Ridge up to Mackerel Bank read as **one ~50–60 square-mile box** — *"You do not 'check 43'; you plan hours of looking."* Budget it as a half-day commitment.
-- **Why there's effort on it:** the 43 was the destination rockfish grounds for decades and now sits inside a closed rockfish area, so the effort that stopped there for rockfish targets the same high spot for bluefin instead (Capt. Dave Hansen, `Rf1HKJG-SDg`, California/CDFW as-of 2020-12 — **verify current regs**). Structure and bait draw unchanged; target species changed.
-- **Bank naming, so the box makes sense:** a bank is named for the fathom depth of its shallowest point — the 43 tops out at 43 fathoms before the bottom falls away (same source). Six feet to a fathom.
-- **Run the search properly** ([`planning/search-and-glassing.md`](planning/search-and-glassing.md)): along a bank, **run the contour at 16–18 mph with a lookout ~30° off each bow**; glass from a **full stop or bow into the swell at ~1 kt** — you cannot glass off a rolling drifting boat; **360° in small increments, 3–4 minutes per full scan**; watch a bird **30–40 seconds** before judging it; **space glassing stations 3–4 mi apart**. From deck level you'll pick up a few terns at **0.5–1 mi**, a big bird spot at **~2 mi**. Your own practice — follow working terns even with nothing else going — is the right instinct here; a **moving dive-line means bait being pushed from underneath**.
-- **Sounder** ([`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md)): put the GPSMAP 840xs on **manual range, not auto**. Hansen's private-boat rule is **0–150 ft** (bait budget won't draw fish up from 250 ft), elaborated elsewhere to **0–300 ft** for bluefin, with the bottom sitting **mid-screen**. On auto over 2,000–3,000 ft of water, *"10 tons of bluefin sounded through simply doesn't show."* Mark a shallow-band mark on the GPS, run past, turn, and troll back over it with the Mad Mac.
-- **Expect the meter to under-read in the chop.** In flat conditions the cone shoots right along the surface; in choppy/rolly water it's shot lower, so **a fish high in the column won't show until you're right on top of it** (`fgTmUq78ofQ`). That's a mechanism, not a settings problem — it means glassing carries more of the load on a 4 ft day than it would on a flat one.
-- **Troll sweeping arcs around the bird/bait area, never straight-lining away** — tuna move at low single-digit mph, you're not chasing a fleeing school — and **don't troll through the fleet's prop wash** ([`seasonal/august.md`](seasonal/august.md), 8/17/22).
-- **Foamer discipline:** wait for the **"jacuzzi"** — solid circular whitewater ≈ a bite every cast. Spread-out directional feeders are picky. Your recorded program is **~2–3 casts per school**, smaller presentation out-fishing bigger, timed around slack tide.
-- **Full-moon fallback if the tuna are sulking:** don't plan a mid-day bass segment. On clear full-moon nights calico and sand bass **gorge at night and shut down by mid-morning** — fish them **first light or late day** ([`conditions/moon.md`](conditions/moon.md)).
-- And run the return **against** the build, not after it.
-
-## 8. What would flip this to a go
-
-1. **A stated range and sea-state ceiling** in [`profiles/cameron/boat.md`](profiles/cameron/boat.md) that actually covers a ~190 nm round trip with reserve.
-2. **Swell period out past 10 s.** The 9-second interval is the hard flag; height matters far less than period — *10 ft @ 15 s from the south is barely felt; 3–4 ft @ 4–5 s is brutal.*
-3. **Wind under ~12 kt** with a 12–24 h hindcast confirming it hasn't been blowing overnight (a calm morning read after a windy night is a trap).
-4. **The night-jig setup bought and spooled** — PE6–8 / 100–130 lb braid class, jigs to 400 g — so the overnight actually buys you the program that justifies the distance.
-5. **A moon window on the leading days**, not the peak night, or a plan that can stay for the late-day rebound.
-6. **A current field** showing the countercurrent isn't standing that NW swell up along the route.
-
-Cortez and Tanner will still be there. Per [`conditions/water-regimes.md`](conditions/water-regimes.md) and [`locations/bight-geography.md`](locations/bight-geography.md), as the coast cools and fragments in fall the fish **condense outward toward Tanner and Cortez** — the outer banks get *better* as the season closes, and the Nov–Dec prior is Tanner/Cortez, night-dominant, with 300 lb fish through November. That's the trip to build the boat and the jig quiver for, with a weather window you pick rather than one you accept.
+Not a "conditions are marginal, use judgment" no-go. Two independent things in the KB block it, and only one of them is weather.
 
 ---
 
-### What the KB could not answer here
+## 1. The weather is the KB's named unfishable combo
 
-- **No coverage of lunar eclipses** — nothing anywhere in the KB.
-- **No numeric chlorophyll scale** — "0.3" can't be interpreted against any threshold the KB states.
-- **No stated range, cruise speed, fuel burn, or sea-state ceiling** for your boat — the profile leaves these null on purpose and instructs me to ask.
-- **No private/small-boat account of a Tanner or Cortez run** — every corpus trip to those banks is an 80–85 ft sportboat.
-- **No sea-state limit for speed-trolling** — I can't tell you whether the panga holds 13–15 kt in 4 ft @ 9 s.
-- **No resolution of the overnight bait-pump power question** offshore on the single start battery with an AC-only charger.
-- **No cooler/ice capacity math** for how many bluefin your 100–125 lb of ice will actually hold.
-- **No bank-specific overnight advection figure** — the 10–15 nm / 20 mi relocation priors are stated for fish *not* holding structure.
-- **No SST-band doctrine for bluefin** beyond the soft 76 °F ceiling and the relative break-side rule — your 68–70 °F readings can't be graded as "good" or "bad" on their own.
+`conditions/sea-state.md` carries the only explicit go/bail thresholds in this knowledgebase — Capt. Dave Hansen's, from `NC3-3pJDEgo` (2020-11-18). All three of his flags trip on your numbers:
+
+| Hansen's rule | Your forecast |
+| --- | --- |
+| Personal cutoff: **don't run when wind is over ~12 kt**; above ~12 kt is what raises whitecaps | NW **15–20 kt** Friday night; back to **15 kt by noon** Saturday |
+| **Swell interval under 10 seconds is a hard bad-sea flag** — "absolutely horrible," independent of height | **9 s** both days |
+| Named unfishable combo: **12–15 kt wind with 4–8 ft swell at a 9-second interval** — "you can't go out there… you just cannot be caught out there" | Friday **15–20 kt / 5 ft @ 9 s**; Saturday midday **15 kt / 4 ft @ 9 s** |
+
+He states he holds *larger* boats he runs at the dock in that combo, not just small ones. Your Friday run-out is above it and your Saturday return leg lands square in it. The KB is flagged `medium` confidence on this specific threshold set (single-mention, not yet repeated in the corpus) — but it is the only stated threshold the KB has, and it names your exact numbers.
+
+Three more layers from the same note push the same way:
+
+- **Steepness / current-vs-swell opposition.** Summer uphill countercurrent running against NW swell compresses the interval and stands the swell up: a **4 ft @ 10 s fishes like 6 ft @ 7–8 s** when the current opposes. You are starting at 9 s, not 10, so degrade from there. NWS/point forecasts do not show this.
+- **Forecast error is asymmetric** (Landesfeind, Ep. 6). Assume the forecast errs on the worse side, and that afternoon W at the islands *strengthens* rather than eases. "If it is windier than forecast in the morning, assume it builds all day — a small boat bails early" (7/14/22).
+- **Homebound wind.** Plan return timing *against* the afternoon build, not off the outbound conditions (8/17/22). Your build to 15 kt by noon is exactly when you'd be 100+ miles from the barn.
+
+No SCA for Saturday morning does not clear this. The advisory threshold and Hansen's 12 kt / sub-10 s thresholds are different bars.
+
+## 2. Your boat's envelope is not defined in the KB — and the run is ~111 mi each way
+
+`planning/day-plan-protocol.md` step 1b makes the envelope binding *before* any species note gets opened. `profiles/cameron/boat.md` carries this machine block:
+
+```
+home_port: null
+range_nm: null
+sea_state_max_ft: null
+```
+
+with an explicit comment: *"Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must ASK for range and sea-state instead of assuming one."* So I cannot clear this run against your envelope; I have to ask.
+
+What the KB does give on distance, from the boats that actually do this trip:
+
+- **Cortez Bank: ~110–115 mi from San Diego** (`species/yellowtail.md`, Constitution out of Fisherman's Landing, `UfuiWFVvz2E`) — and independently **111 mi west of Point Loma / San Diego, 96 mi SW of San Pedro, 47 mi SW of San Clemente Island** (`QSvzVHW9UMk`).
+- **Tanner Bank: ~90–100 mi west of Long Beach**, fished in ~120 ft of water (`ntQXxcH5sjI`).
+- Your own library has **Cortes Bank at 32 26.417 / 119 07.833** (`profiles/cameron/spots.md`).
+
+That is a **~220+ mi round trip from Dana Landing** before you troll a foot, on a **2004 Panga Marine Marquesas 22 with a single 115 hp Yamaha** (`profiles/cameron/boat.md`). The notes on that platform that matter here, all stated facts:
+
+- **Foam-filled hull, very small bilge; slight hull flex/"spring" on hard wave impacts** (noted July 2026). Bilge pump is **manual-switch only, no float switch** — nobody watches it while you sleep.
+- **No trim tabs** — engine trim is your only attitude control in a 4–5 ft @ 9 s NW sea.
+- **No AC / shore-power inlet, no house battery.** Bait tank runs off the **single Group 24DC starting battery** (550 CCA, 700 MCA, 140 min RC), with the NOCO GEN5X1 (12V/5A, hardwired **AC** pigtail) added to hold it up while the pump runs overnight. There is no AC 111 miles offshore, and the KB does not state an offshore overnight power budget for that pump on the start battery.
+- **One engine.** The KB has no single-engine offshore doctrine at all, and no fuel-burn or range figure for this boat.
+
+Sportboats do this run overnight *because* they are 80–85 ft boats with crew watches. Every Tanner/Cortez trip in the corpus is one: Constitution (80–85 ft), El Dorado (85 ft), Ranger 85, Top Gun 80.
+
+## 3. The moon is working against a 220-mile bet, not for it
+
+Full moon **on 8/28** with the trip fished 8/28–29. `conditions/moon.md`:
+
+- The strongest documented bluefin window is the **days leading into** the full moon (10/12/22) — you'd be arriving at the peak, not inside the lead-up.
+- **The moon peak itself is a relocation event.** Open-water bluefin not holding structure move **10–15 nm overnight** (7/21/22); Hansen puts it at **20 miles** after a full-moon night and names bluefin specifically (`fri_BWI-VA0`). Both figures are kept side by side, not averaged. Any position you are running 111 miles at is stale by Saturday dawn.
+- **Hansen's dissent, directly on your morning:** the full moon itself "is not good"; the morning *after* a full-moon night is typically slow — the fish "has been feeding all night and doesn't have a tendency to feed real well right away" — with the bite **picking back up late in the day**. His stated rule: if you must fish a full moon, **fish it late rather than push the early-morning window.** That is the opposite of an overnight-run-fish-dawn-run-home plan.
+
+**The honest counterweight, kept side by side:** `seasonal/june-july.md` and the bluefin router both say **full moons drive the bluefin *night* bite**, and the Tanner/Cortez pattern in the corpus is night-dominant. A full moon is a *night-jig* argument — which is the one program you're not equipped for (see §5).
+
+**The eclipse: the KB says nothing about lunar eclipses.** No note in this repository covers them. I'm not guessing.
+
+## 4. The water read — temperature is the one thing not arguing against you
+
+- All three readings sit **below** the captain-stated preferred band of **70–72 °F** for bluefin (`HueC1KHrcVw`, dockside, fish moving with cooling water) and nowhere near the **76 °F soft ceiling** (9/14/22, `conditions/water-temperature.md`). Temperature is not a reason to skip the banks. For scale, a Cortez Bank trip in the corpus fished **74–75 °F** for a mixed bite (`i3qIAHW-SJc`).
+- Your **1.2–1.7 °F gradient** (Cortez 69.9 / Tanner 69.4 vs. the 43 at 68.2) is the interesting part. The bluefin rule is **relative, not absolute**: they sit the **cool side of a break when the surrounding water is warm, the warm side when it's cold** (10/20/22, `OYOda6T3f-8`). You'd have to see where the break actually lies on the water to call the side — three point values don't locate an edge.
+- **Chlorophyll 0.3 tells me nothing here, and I won't pretend otherwise.** The KB has **no numeric chlorophyll bands anywhere.** What it has (`conditions/water-color.md`) is: chlorophyll has an *age* (new cold bloom = skip now, mature bloom edge = fish it); **fish the edge, not the middle of a mass**; bait holds in the *dirtier* water and predators work the seam. One offshore number with no map gives you no edge. Your own doctrine on file — in a warm-water year, weight color at least as heavily as SST and don't fish dirty green — can't be applied to a scalar.
+
+## 5. If you went anyway: what's out there, and what you'd be missing
+
+**The August Tanner/Cortez picture from the corpus** (all mid-August trips, all sportboats, all `medium` confidence / unregistered channel):
+
+- **Grade:** the working number is **30–40 lb**, with the tail long. Tanner sardine bite opened around **30 lb**, fish to **41 lb** the prior day (`947solNfiPw`); a **40 lb** fish at ~90 mi (`c3NFkQbdDy0`); the Ranger 85's first-night jig session put **a half dozen fish, 30 lb class** on the boat (`LsFMBCa9DOQ`). The crews' own framing of the challenge: **10 lb schoolies up to 80, "maybe even 100" lb** moving through together on one line class.
+- **The programs that produce there:**
+  - **Anchored, flylined sardines** — **25 lb mono or fluoro leader to a #2 circle hook** (`nQvJnfb5jQ4`); a **No. 4 circle, 40 lb** line/leader with a short piece of fluoro (`947solNfiPw`); the Constitution's floor was **40 lb flyline** for bluefin (`UfuiWFVvz2E`). Circle hooks for bluefin, J hooks for yellowtail.
+  - **Boat position is the whole game on the bank:** the El Dorado repositioned onto the **50–60 fathom edge** of the drop-off off the high spot and got bit "right out the gate" (`nQvJnfb5jQ4`). The Constitution anchored in **15–25 fathoms** for the yellowtail leg (`UfuiWFVvz2E`).
+  - **Night jig from ~1:00 am** — the Ranger 85 read marks **360° around the boat, 50 to 80 fathoms and even below** (`LsFMBCa9DOQ`) — deeper than the general 30–50 fathom sounded-school range (`HWx1jDTGsng`), kept side by side as a bank-specific extension.
+  - **Shallow marks too:** Tanner produced bluefin on bait marks sitting around **60 ft** while the boat chummed sardines (`ntQXxcH5sjI`) — that's the yo-yo row, not the knife-jig row.
+- **It's a mixed bag, not a bluefin-only bank.** Cortez/Tanner yellowtail bit **alongside** the bluefin on the same flylined sardines; the Constitution fished yellowtail sunup to ~11:00–noon, marking them **60–80 ft in 120 ft of water**, landing **20–40 lb** on flylines, surface irons and yo-yo irons. Caveat on file: **Cortez yellowtail "swim straight down" into the rock** once hooked on light line.
+- **Build-up timeline, worth knowing before betting a run on a report:** on the 2024 Cortez trip the fish held **outside** the bank for "several days, close to a week," then another **10–14 days** before they pushed in close enough to anchor on and fish (`eL1Qm33-Mj0`). Banks turn on slowly and you can arrive early.
+- **August priors argue against the banks being the prior at all.** `seasonal/august.md`: August is **peak dispersal** — bluefin scattered "Catalina to San Nicolas to Ventura, showing up in weird places, gone the next day," **yesterday's spot is a weak prior**. The "condense outward toward Tanner and Cortez" pattern in `locations/bight-geography.md` is a **fall** pattern (Oct–Dec). The mid-August Tanner/Cortez entries above sit *beside* that as evidence the banks can also produce outside the fall window — not as an August prior pointing there.
+
+**Your gear gaps against that picture** (protocol step 4 — I don't recommend what you don't own, and I name the gap):
+
+- **The single highest-percentage bank program — night knife-jigging deep marks — you have no gear for.** `profiles/cameron/tackle.md` lists no knife jigs or flat-falls, and `profiles/cameron/rods.md` carries "shopping a **dedicated SPJ / speed-jig setup**" as an open item. The class the KB calls for is a short parabolic **100–130 lb-braid jig rod (PE6–8)** with **150–400 g** jigs; a Turner's data point puts marks at **240–360 ft** and says the jig must be **250 g or greater** to get there quickly on a drifting boat (`eehDVb6_GoI`). You cannot fish the full-moon night bite with what's in the box.
+- **Kite.** The KB's cow-fish doctrine is a flying fish under a kite at **8–15 kt** for **100–300 lb** fish. Your Fathom 80 is filed as the **"future kite rod"**, you started kite fishing July 2026, and helium is ruled out on the panga (no room for a tank). Whether you own a kite and a flying-fish harness today is **not stated in the profile** — I won't assume it.
+- **Bait.** The KB's offshore floor is **at least three scoops** every time you run offshore, 40 miles or 100 (`9hEa3sGTh40`), with the same voice later saying he "wouldn't even go out without five" (`bM2vUS1B-yQ`). Your tank is **30 gallons**; Hansen runs **60 gallons on a 21 ft boat**. The KB gives no gallons-per-scoop conversion, so I can't tell you how short you are — only that a chum-and-flyline bank program is what the corpus fish bit, and that's the program a 30-gal tank is least able to sustain 111 miles out.
+- **What you *could* fish, and it's real:** **yo-yo iron** on the ~60 ft chum marks — the Tanner row in `techniques/yo-yo-iron.md` names exactly that scenario — with the **Salas 6X** or **Salas CP 105** on the **Trinidad 40** (Rainshadow 8'0" XH 40–80 lb, 80 lb braid), which the profile already lists as your yo-yo/sinker-rig setup. A heavy bite on the drop reads as the rod going dead-weight, "almost like stuck on the bottom" (`ntQXxcH5sjI`). And **foamer casting** on the **Talica 25** (Phenix Axis 8'0" 3X-H 60–130 lb, 100 lb braid) — the rod your profile says you'd throw at an 80–140 lb school — with the **Ghost Popper 150**, **Zakana 100 g** or **Slidekick 120 g** as the small lead-bait class. One flag: your fall-2025 producers were **Colt Snipers** (`techniques/foamer-casting.md`), and none appear in the 7/23/26 inventory — check that box before any tuna trip.
+
+## What I'd actually do with this weekend
+
+Stay inside, and fish the water your own precedent says a panga fishes. `techniques/foamer-casting.md` has your **fall 2025 run-and-gun program — no bait, no tank** (you couldn't hold the big sardines and cutting the 30 gal saved weight on high-mileage days), **2–3 casts per school**, most fish on the smaller presentation, landed **25–40 lb**, with **80–140 lb schools seen**. That is the documented panga-scale bluefin program in this KB.
+
+Where to point it, from the priors — **not from conditions, because you gave me three offshore SST points and nothing inshore, so I can't rank these**:
+
+- `seasonal/august.md`: the **paddy program peaks in August**; best paddy water is **south of SCI/Catalina and from Dana Point to Oceanside southward**, scarcer and less holding north of Dana Point.
+- `locations/bight-geography.md`: in a NW event, **south of Newport is "less prone to wind-wave-driven rollovers,"** and the **Coronados, the tuna grounds, Catalina and San Clemente held their water** through a big NW blow. Your NW 15–20 is exactly that geography.
+- `conditions/tide-and-slack.md`: your own foamer timing is **slack** (bait rises, foamers start), and you want to be **on the zone an hour before the change** — but you gave me no tide times, so I can't put clocks on it. Note also that a full moon is a **spring tide**: big swings stacked on the moon window.
+- `conditions/moon.md` + Hansen: on a full-moon day, **fish it late**, don't burn the plan on the early window.
+
+Sounder note for a rough day, either way: in **choppy/rolly conditions the cone gets shot lower**, so fish holding high in the column **won't paint until you're right on top of them** — the same fish that would show from a distance on a calm day (`fgTmUq78ofQ`). Expect to under-read shallow fish Saturday; that's the sea, not the Garmin 840xs.
+
+## What would flip this to a go
+
+1. **Fill in `boat.md`'s `range_nm` and `sea_state_max_ft`.** Until those exist, the protocol says ask, and I'm asking. A 220+ mi round trip on one 115 hp outboard needs a fuel number the KB doesn't have.
+2. **A window that clears Hansen's bar** — under ~12 kt and **10 s or longer** interval, on both legs, with the 12–24 h wind hindcast clean (a calm-morning forecast hides overnight wind).
+3. **A jig setup and 150–400 g knife jigs**, so the night bite you'd be running 111 miles for is actually fishable — plus confirmation you have kite and harness if the 100–300 lb row is the point.
+4. **Buddy-boating.** Nothing in this KB gives doctrine on it, but every Tanner/Cortez trip in the corpus is an 80 ft boat with a crew. That's the honest comparison.
+
+---
+
+**Fish-care footnote if you ever do land one out there:** `fish-care/tuna-care.md` — bleed and gill-and-gut on the water, wet-towel cooldown, then a below-freezing slurry (**~2 cups rock salt per 7–10 lb bag of ice** plus a splash of seawater). Chill times: **30–40 lb ≈ 2 h**, **~100 lb ≈ 3–5 h**, **>100 lb overnight, re-iced**. Your 100–125 lb ice load covers a couple of 30–40 lb bank-grade fish; it does not core-chill a triple-digit fish, and the KB is explicit that a >100 lb fish will not chill through in an afternoon.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/report-reading-and-forecasting.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/deep-scattering-layer.md`, `seasonal/august.md`, `species/bluefin-tuna.md`, `species/bluefin-trolling.md`, `species/yellowtail.md`, `techniques/kite-fishing.md`, `techniques/knife-jigging.md`, `techniques/yo-yo-iron.md`, `techniques/flyline.md`, `locations/regions.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `fish-care/tuna-care.md`, `bait/bait-tanks.md`, `profiles/cameron/README.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`  
-*videos:* `NC3-3pJDEgo`, `fri_BWI-VA0`, `ntQXxcH5sjI`, `nQvJnfb5jQ4`, `947solNfiPw`, `c3NFkQbdDy0`, `LsFMBCa9DOQ`, `UfuiWFVvz2E`, `zBd1mayUt_I`, `Rf1HKJG-SDg`, `HzE4FHHcvTk`, `usHl-4SfqDA`, `ftEvyfwjZFU`, `fgTmUq78ofQ`, `eehDVb6_GoI`, `m-M0iwX8DjA`, `8XrMkWPRxgs`, `9hEa3sGTh40`, `HWx1jDTGsng`, `nRFFM8DT-og`, `i3qIAHW-SJc`  
-*gaps admitted:* The KB has no coverage of lunar eclipses anywhere — nothing on the partial eclipse on the night of 2026-08-28. | The KB states no numeric chlorophyll scale or thresholds, so the given 0.3 offshore value cannot be interpreted against any KB rule; chlorophyll doctrine is qualitative only (bloom age, edges vs. middle). | profiles/cameron/boat.md leaves range_nm and sea_state_max_ft null by design and instructs the protocol to ASK rather than assume — so the boat's usable range and sea-state ceiling for a ~190 nm round trip are unknown. | The KB records the panga's top speed (~35 kt) and idle (~1.5 kt) but no cruise speed, fuel capacity, or burn rate, so no passage-time or fuel-reserve calculation is possible. | Every Tanner/Cortez Bank trip in the corpus is an 80–85 ft sportboat; the KB has no private-boat or small-boat account of the run and no small-boat offshore-overnight safety doctrine. | The KB gives no sea-state limit for speed-trolling, so it cannot say whether the boat can hold the 13–15 kt Mad Mac band in NW 4 ft @ 9 s. | The bait-tank note says the NOCO charger lets the pump run overnight, but boat.md records the charger as an AC pigtail on a boat with no shore-power inlet or house battery — the KB does not resolve whether the pump can run overnight 95 nm offshore off the single starting battery. | The KB gives fish chill times and slurry parameters but no cooler/ice capacity math, so it cannot say how many bluefin the boat's 100–125 lb ice budget will hold. | The 10–15 nm overnight / 20 mi post-full-moon relocation priors are stated for open-water bluefin NOT holding structure; the KB gives no advection figure for fish holding a bank high spot. | The KB has no absolute SST preference band for bluefin — only the soft 76 °F ceiling and the relative break-side rule — so the given 68.2–69.9 °F readings cannot be graded good or bad on their own. | Three point SST values cannot locate a temperature break; the KB's break-side rule needs a gradient field per spot and along the transit route, which was not provided and was not to be fetched. | profiles/cameron/tackle.md inventories hard baits only and lists no kite, flying fish, flying-fish harness, or 200 lb-class bite leader, so kite-program readiness cannot be confirmed from the profile. | No knife-jig / SPJ setup or knife jigs appear in the profile (listed as an open shopping item), so the night DSL jig program at the banks cannot be resolved to owned gear.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/tide-and-slack.md`, `conditions/deep-scattering-layer.md`, `seasonal/august.md`, `seasonal/september.md`, `seasonal/june-july.md`, `species/bluefin-tuna.md`, `species/bluefin-trolling.md`, `species/yellowtail.md`, `techniques/knife-jigging.md`, `techniques/kite-fishing.md`, `techniques/yo-yo-iron.md`, `techniques/foamer-casting.md`, `bait/bait-tanks.md`, `bait/making-bait.md`, `fish-care/tuna-care.md`, `locations/regions.md`, `locations/bight-geography.md`, `locations/zone-lexicon.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`, `config/endpoints.md`  
+*videos:* `NC3-3pJDEgo`, `fri_BWI-VA0`, `UfuiWFVvz2E`, `ntQXxcH5sjI`, `nQvJnfb5jQ4`, `LsFMBCa9DOQ`, `QSvzVHW9UMk`, `eL1Qm33-Mj0`, `c3NFkQbdDy0`, `947solNfiPw`, `HueC1KHrcVw`, `i3qIAHW-SJc`, `OYOda6T3f-8`, `HzE4FHHcvTk`, `HWx1jDTGsng`, `eehDVb6_GoI`, `fgTmUq78ofQ`, `9hEa3sGTh40`, `bM2vUS1B-yQ`, `m-M0iwX8DjA`, `nRFFM8DT-og`, `Rf1HKJG-SDg`, `sHnqSIOjTdM`, `r4J5nP5Bkl4`, `cameron`  
+*gaps admitted:* No location note exists for Tanner Bank, Cortez Bank or the 43 Fathom Spot — locations/ holds universal structure knowledge only, so every bank-specific fact had to be pulled second-hand out of species notes' observation entries. | The KB has no numeric chlorophyll bands or thresholds anywhere, so the given value of 0.3 offshore cannot be scored; water-color.md only supports edge/age reasoning, which needs a gradient or map, not a single scalar. | profiles/cameron/boat.md leaves range_nm and sea_state_max_ft null and explicitly instructs the protocol to ASK rather than assume — so the KB cannot clear or reject a ~220+ mi round trip against a stated boat envelope. | No fuel-burn or cruising-range figure exists anywhere for the Panga Marquesas 22 / single 115 hp Yamaha. | The KB carries no small-boat or single-engine offshore-overnight doctrine at all — no guidance on running or lying-to overnight 100+ miles out in a 22 ft boat. | Nothing in the KB covers lunar eclipses; the partial eclipse on the night of 08-28 cannot be assessed from these notes. | No gallons-per-scoop conversion is given, so the 3-scoop (and 5-scoop) offshore bait floor cannot be checked against Cameron's 30-gallon tank. | The KB does not state how the bait pump is powered overnight away from AC: boat.md says no shore-power inlet and no house battery, yet the NOCO charger is described with an AC pigtail, and no offshore overnight power budget is given. | boat.md states the bilge pump is manual-switch only with no float switch, but the KB gives no doctrine on an unattended bilge during an overnight offshore stay. | Whether Cameron currently owns a kite and flying-fish harness is not stated — rods.md files the Fathom 80 as a 'future kite rod' while species/bluefin-tuna.md says he started kite fishing July 2026. | Cameron owns no knife jigs or flat-falls and no SPJ/speed-jig rod (open item in rods.md), so the KB's highest-percentage Tanner/Cortez program — the night deep-jig bite — has no owned-gear resolution. | No anchor or ground tackle is listed in Cameron's profile, though every documented bank program (15-25 fm yellowtail, 50-60 fm bluefin edge) is an anchored program. | No tide times were supplied and the KB holds no tide tables, so Cameron's own slack-tide foamer timing and the 'arrive an hour before the change' rule cannot be put on a clock for 08-29. | profiles/cameron/tackle.md (inventory complete 7/23/26) lists no Colt Snipers, although techniques/foamer-casting.md records them as his fall-2025 foamer producer — unresolved inventory discrepancy. | The KB gives no sea-state ceiling for speed-trolling: the Mad Mac 13-15 kt band is stated without any swell/wind limit above which that troll speed stops being viable. | No conditions were supplied for any inshore or island zone, so the in-envelope alternative program (paddies, Coronados, Catalina/SCI) is offered on priors only and its zones cannot be ranked.
 
 </details>
 
 <details><summary><b>NOW — review</b> · 12/12</summary>
 
-I worked this through the day-plan protocol in the repo (`planning/day-plan-protocol.md`), in order: conditions → envelope → priors/layers → species router → gear against the profile. Here's what the KB says.
+# Tanner / Cortez, Fri 2026-08-28 → Sat 08-29 — **No-go**
 
-## Verdict: **No-go** on Tanner/Cortez for this window, on this boat
-
-Not because of the fish — the water you gave reads reasonable for bluefin out there. It fails at step 1b (the boat envelope) and at the sea-state gate, and those two are binding before any species note gets opened.
+Not a close call. Two independent gates fail on the numbers you gave, and a third (moon timing) is against you. I'll give you the gates, then the picture of what's actually out there so you have it for a real window.
 
 ---
 
-## 1. The sea state fails the KB's own go/no-go thresholds
+## Gate 1 — sea state. This is the one that ends it.
 
-`conditions/sea-state.md` carries an explicit captain's-rule threshold set (`NC3-3pJDEgo`):
+`conditions/sea-state.md` carries exactly one explicit go/bail rule set (`NC3-3pJDEgo`):
 
-- **"Swell interval under 10 seconds is a hard bad-sea flag"** — "absolutely horrible," independent of height. Both your days are **9 s**. That flag is on for the entire trip, outbound and back.
-- **The named unfishable combo: 12–15 kt wind with 4–8 ft swell at a 9-second interval** — "you can't go out there… you just cannot be caught out there," described as dire *even for bigger boats*, with boats staying at the dock regardless of size.
-  - **Friday night: NW 15–20 kt, 5 ft @ 9 s.** That is the named combo at or above its top wind band. That is your transit window.
-  - **Saturday noon: 15 kt, 4 ft @ 9 s.** That is the named combo again — and it arrives while you are ~110 miles from Mission Bay.
-- **~12 kt is the stated personal cutoff for not running**; above ~12 kt is whitecap water. Your Saturday dawn window (8–12 kt) sits right at that line and only goes up from there.
+- **Wind above ~12 kt is what raises whitecaps, and 12 kt is the stated personal cutoff for not running.**
+- **Swell interval under 10 seconds is a hard bad-sea flag** — sub-10 s is called "absolutely horrible," independent of height.
+- **The named unfishable combo: 12–15 kt wind with 4–8 ft swell at a 9-second interval** — "you can't go out there… you just cannot be caught out there," described as dire **even for bigger boats**, with boats staying at the dock regardless of size.
 
-Two more layers from the same note make the forecast worse, not better:
+Your numbers:
 
-- **Wind history, not just wind forecast** (`zKmZ4zql2ws`): "a calm-morning forecast can hide overnight wind that already built chop before dawn." Your Saturday-dawn 8–12 kt is sitting on top of a full night of NW 15–20 — that easing dawn number is precisely the trap the note names. The sea at dawn is the sea Friday night built.
-- **Current-vs-swell opposition** (`zKmZ4zql2ws`): summer uphill counter-current running against NW swell compresses the interval — a **4 ft @ 10 s forecast fishes like 6 ft @ 7–8 s**, and point forecasts won't show it. You're already at 9 s. I have no current field (you said no live data), so this is a check to run, not an assertion — but it can only degrade the number, never improve it.
-- **Forecast error is asymmetric** — assume it errs worse, and assume afternoon W strengthens rather than eases (`zKmZ4zql2ws`); on a small boat the rule is **bail early** (`DnSqw4r7A1s`). You cannot bail early from Cortez Bank.
+| | wind | swell | verdict |
+| --- | --- | --- | --- |
+| **Fri night (the crossing)** | NW 15–20 kt | NW 5 ft @ **9 s** | above the combo's wind band, inside its swell and period band — at night, ~110 miles out |
+| **Sat dawn** | NW 8–12 kt | NW 4 ft @ **9 s** | at the 12 kt cutoff, sub-10 s flag active |
+| **Sat noon** | NW **15 kt** | NW 4 ft @ **9 s** | **exactly the named combo: 12–15 kt / 4–8 ft / 9 s** |
 
-Note that "no Small Craft Advisory Saturday morning" isn't the gate this KB uses — nothing in `conditions/sea-state.md` keys off the SCA. It keys off wind, period, and the interaction with current.
+You would be crossing in the worst of it and fishing into the combo. Three further layers from the same note all push the same direction:
 
-`locations/tanner-bank.md` also flags, honestly, that **no corpus source states a wind or swell number that turns that zone off** — so I'm applying the general layer, which is what it tells you to do: "Nothing out here is sheltered by land in any direction, so the upstream fetch scan belongs in front of the run."
+- **Forecast error is asymmetric** — assume it errs on the worse side, and that afternoon W **strengthens** rather than eases (`zKmZ4zql2ws`). Plan "15 kt by noon" as more than 15, not less.
+- **Current-vs-swell opposition.** Summer uphill counter-current running against NW swell compresses the interval and stands the swell up: **4 ft @ 10 s fishes like 6 ft @ 7–8 s**, and point forecasts do not show it (`zKmZ4zql2ws`). You gave me no current field, so I can't compute the degrade — but 4 ft @ 9 s is already *below* the input to that example.
+- **No shelter, in any direction.** `locations/tanner-bank.md` is explicit: nothing out there is sheltered by land on any bearing, so the upstream fetch scan belongs in front of the run. Catalina Eddy shielding covers water **east** of Catalina and San Clemente (`S2L3KLSQ6Is`, cameron) — Tanner and Cortez are the last structure in the Bight before open ocean, i.e. the wrong side of that shadow entirely.
 
-## 2. Your boat envelope isn't established, and the KB refuses to guess it
+"No Small Craft Advisory Saturday morning" does not clear this. The KB's threshold is 12 kt and a sub-10-second interval, and you are above both by mid-morning.
 
-`profiles/cameron/boat.md` has `home_port: null`, `range_nm: null`, `sea_state_max_ft: null`, with the comment: *"Cameron has not stated these — left null rather than guessed. Until they are filled, the protocol must ASK for range and sea-state instead of assuming one."* Step 1b of `planning/day-plan-protocol.md` derives reachable `waters` from exactly those two fields. Without them I can't clear `bank` + `open-ocean` at 110 nm, and I'm not going to fabricate the clearance.
+## Gate 2 — the run, against your boat
 
-**Two numbers I need from you before this run is even discussable: usable range in nm (fuel, not tank size), and your sea-state ceiling in ft.**
+What the corpus actually states for this run (`locations/tanner-bank.md`):
 
-What the notes do give:
+| from | to | stated run |
+| --- | --- | --- |
+| San Diego (Fisherman's Landing) | Cortez | **~110–115 mi**, "it's going to take us all night to get out there" (`UfuiWFVvz2E`) |
+| Point Loma / San Diego | Cortez | **111 mi west** (`QSvzVHW9UMk`) |
+| San Pedro | Cortez | 96 mi SW (`QSvzVHW9UMk`) |
+| Long Beach | Tanner | ~90–100 mi west (`ntQXxcH5sjI`) |
+| San Clemente Island | Cortez | 47 mi SW — the one figure the charts confirm at **40.8 nm** (cameron) |
 
-- **The run.** `locations/tanner-bank.md` states it in statute miles only: **111 mi west of Point Loma** and **~110–115 mi from San Diego** to Cortez (`QSvzVHW9UMk`, `UfuiWFVvz2E`); **~90–100 mi west of Long Beach** to Tanner, ~110 mi to Cortez (`ntQXxcH5sjI`, `fDSd9kqwYW0`, `nQvJnfb5jQ4`). Read it as one run to a two-bank complex: **about 90 miles to Tanner, about 110 to Cortez**, the two banks **15.6 nm apart on a 179°/359° line** (Tanner 32°42.000'N 119°08.000'W; Cortes 32°26.417'N 119°07.833'W, cameron).
-- **The KB explicitly has no run stated from any Orange County or San Diego small-boat port, and no fuel figure or sea-state envelope for the crossing** — that's a flagged gap on the page, not something I can fill.
-- **"Every account of this water is an overnight run or longer, from a big boat."** The single non-sportboat trip in the entire corpus is a **triple-outboard** private boat that ran 2.5–3 hours to Tanner, with the crew calling the return leg alone over 100 mi (`vCskOx6N-XM`).
-- Against that: **2004 Panga Marquesas 22, single 115 hp Yamaha**, no trim tabs, foam-filled hull with slight flex on hard wave impacts, **no house battery** — the 30-gal tank's Rule 401 pump runs off the single Group 24 starting battery, with the NOCO GEN5X1 added July 2026 specifically to hold that battery up while the bait pump runs overnight (`profiles/cameron/boat.md`). Normal departure is ~8 am from Dana Landing; home waters are Coronados, La Jolla, and the San Diego offshore banks.
+Those are **statute** miles; the KB marks the run's nautical figure `unknown as a charted figure`. Read as one run to a two-bank complex 15.6 nm apart on a 179°/359° line: about 90 miles to Tanner, about 110 to Cortes.
 
-That's a one-engine, one-battery, 22-ft boat proposing the corpus's longest run, at night, into the combo the KB says nobody should be caught out in.
+**Every account of this water in the corpus is an overnight run or longer, from a big boat.** The one non-sportboat trip is a captain's own **triple-outboard** boat running 2.5–3 hours out to Tanner, the crew calling the return leg alone over 100 mi (`vCskOx6N-XM`).
 
-## 3. Even if you cleared 1 and 2, you can't fish the two programs that make the run worth it
+Against `profiles/cameron/boat.md`:
 
-Resolving `species/bluefin-tuna.md` and `locations/tanner-bank.md` against `profiles/cameron/rods.md` + `tackle.md`:
+- **2004 Panga Marine Marquesas 22, single 115 hp Yamaha.** Foam-filled hull with slight flex on hard wave impacts, **no trim tabs** — engine trim is your only attitude control. Your trim routine already assumes a rider forward on a bean bag, and the note says rough days forward are brutal (rider catches air, then hits the deck). That is a 220+ statute-mile round trip in a 9-second sea.
+- **`range_nm: null`, `sea_state_max_ft: null`.** The protocol (step 1b, `planning/day-plan-protocol.md`) says that when the envelope is unfilled it must **ask** rather than assume — so the KB cannot arithmetically clear or condemn this run for you. Everything above is read off hull, power and battery facts, not off a stated envelope. Fill those two fields and this call gets mechanical.
+- **Overnight power.** No AC/shore-power inlet, no house battery — the bait pump runs off the **single starting battery** (Group 24DC, 550 CCA, 140 min RC). The NOCO GEN5X1 that holds it up overnight is a **hardwired AC** charger. There is no AC 110 miles offshore.
+- **Bait.** The bank program is a chum bite on sardines. The offshore floor is **at least three scoops** whether the run is 40–50 or 100 miles, five as the safer floor, with no topping off out there — and even a **360-gallon** tank carrying ~20 scoops runs dry some days (`9hEa3sGTh40`, `bM2vUS1B-yQ`, `bait/bait-tanks.md`). Your tank is **30 gallons**. You cannot chum a bank through a day and a night on that.
 
-| The bank's core program | Your inventory |
+## Gate 3 — the moon puts you in the worst window of the cycle
+
+Full moon **on 08-28**, and you'd fish the morning of the 29th.
+
+- The **days leading into** the full moon are the strongest documented bluefin windows (`XLVUhV8DW64`). That window is 8/21–8/27. You're arriving after it.
+- Capt. Dave Hansen's read: **the peak day itself is the travel period, not the bite period**, and he calls it "not good" — tempered by having seen bites land on a full moon (`fri_BWI-VA0`, `LEiyB9QNzHY`). **The morning after a full-moon night runs slow** — the school either hasn't relocated onto bait yet or fed all night — **with the bite rebuilding late in the day**. His guidance if a full-moon trip is unavoidable: **fish it late, don't push the early-morning window.**
+- Your wind builds to 15 kt by noon. So the plan would have you pushing the exact window doctrine calls slow, then leaving before the rebuild.
+- **Relocation.** Open-water bluefin not holding hard to structure move **10–15 nm overnight** (`Blh2BA-7Ono`); Hansen puts schools at **20 miles** after one full-moon night (`fri_BWI-VA0`). Kept side by side, not averaged. Any report you leave the dock on is stale — though note these fish at the banks are *on structure*, which is where that 10–15 nm figure explicitly doesn't apply.
+- **Counter-doctrine, kept side by side:** one registered source states flatly there is no reliable moon pattern trip to trip (`shZCjX2-fkI`). The KB's decision frame (`species/bluefin-tuna.md`): use the moon as a **location/travel** input, not a bite input.
+
+The KB has **nothing on lunar eclipses** — I'm not going to invent an effect for it.
+
+---
+
+## What the water is actually telling you (the frustrating part)
+
+Your temperature field is not the problem. The sea is.
+
+- **Tanner 69.4 / Cortez 69.9 = 0.5 °F across a 15.6 nm complex. There is no break out there in these numbers.** The bluefin rule is relative, not absolute — cool side of a break when the water is warm, warm side when it's cold (`OYOda6T3f-8`) — and it needs an edge to operate on. Without one, absolute numbers are the fallback and the corpus's numbers don't agree.
+- The only gradient you gave me is **inshore**: the 43 at 68.2 °F, **1.2–1.7 °F cooler** than the banks.
+- The one match in the corpus is encouraging for the band you have: bluefin held the cooler **70–72 °F** water at a bank edge while yellowtail and yellowfin sat in warmer water nearby (`i3qIAHW-SJc`). 69.4–69.9 sits just under that.
+- For scale, the corpus's **only** Cortez water-temp record is **74–75 °F** on an August day one, which fished a mixed yellowtail/yellowfin/skipjack bite (`i3qIAHW-SJc`). You'd be arriving about 5 °F cooler than that.
+- And the doctrine for a field with no differentiation: **across a big area with no temperature differentiation, the fish are most likely on structure like the banks** (`OYOda6T3f-8`). Which is to say the water read points at Tanner/Cortez. The sea state is what says no.
+
+**Chlorophyll 0.3 — I can't grade that.** The KB carries no numeric chlorophyll scale anywhere, so 0.3 can't be called clean or green against any threshold in here. What the KB does say is that the read is a **seam, not a value**: chlorophyll has an age (a new cold-green bloom is bad now, a mature bloom **edge** is what you fish, `h3PTupup17I`), bait holds in the dirtier water while the pretty blue sits empty (`HzE4FHHcvTk`), and bluefin work the chalky dirty/clean transition because the dirty side holds the bait (`HWx1jDTGsng`). One offshore number with no field around it doesn't give you an edge to work.
+
+**August is not the Tanner/Cortez window.** The bluefin router puts August at **peak dispersal — Catalina to San Nicolas to Ventura**, fish "showing up in weird places" and gone the next day, yesterday's spot a weak prior (`CMQkHQMxbXM`, `seasonal/august.md`). **October** is when the coast cools and fish condense outward to Tanner/Cortez. That said, `locations/tanner-bank.md` records mid-August producing repeatedly out there — with a caveat worth knowing: the KB flags that the "mid-August 2024 anchored bluefin bite" at Tanner (`ntQXxcH5sjI`) was on camera a *yellowtail* bite, with bluefin appearing day two "here and there."
+
+---
+
+## What it looks like out there, for when you do have a window
+
+**The trip shape.** Overnight run, anchor, **yellowtail from sunup to roughly 11:00 a.m. or noon**, then move into deeper water and search bluefin through the night (`UfuiWFVvz2E`). Day-and-a-half charters fish the bank's bottom and yellowtail in one shot; two- and three-day trips add the night program.
+
+**The depth bands, shallowest first:**
+
+| band | what happens there |
 | --- | --- |
-| **Kite + flying fish** — the most effective method on 100–300 lb SoCal bluefin (`YsiHziY_PWw`), and the sundown/big-grade play at Cortez (`zBd1mayUt_I`, `vCskOx6N-XM`) | **Gap.** The Fathom 80 is listed as a *future* kite rod; no kite, no flying-fish harness. Kite fishing is a program in progress (started July 2026). |
-| **Night jig program** — **300 g floor**, 250 g only for savvy anglers, over 80 lb braid and 130 lb mono/fluoro (`UfuiWFVvz2E`); on a windy hard-drifting night at Cortez the standard 250–350 g wouldn't hold and the boat went to **500 g** (`LsFMBCa9DOQ`) | **Gap.** Heaviest thing in your box is a Daiwa Zakana **100 g**. `rods.md` names the dedicated SPJ/speed-jig setup for night bluefin as still being shopped. Night jigging is an Aug-2026 program in progress. |
+| the shallows at the bank's far end, near a buoy | anchor for yellowtail (`fDSd9kqwYW0`) |
+| **~120 ft** over the high spot | anchored at Tanner; yellowtail marked at **60–80 ft** in this water at Cortez (`ntQXxcH5sjI`, `UfuiWFVvz2E`) |
+| **15–25 fathoms** | the Cortez anchor zone for the morning yellowtail program (`UfuiWFVvz2E`) |
+| **~150 ft** on a ridge on the bank's edge | drift for reds (`fDSd9kqwYW0`) |
+| **50–60 fathoms**, the drop-off edge | a repositioned boat found bluefin and yellowtail "right out the gate" (`nQvJnfb5jQ4`) |
+| **50 fathoms down to 80, "even below"** | night jig marks, read 360° around the boat (`LsFMBCa9DOQ`) |
 
-Both are named gaps, not substitutions — the protocol's rule is to name the gap rather than swap in something that doesn't fish the same way. On a windy night at 9 s, that 250→500 g step-up is exactly the situation you'd hit.
+**Anchor and chum is the program, and current gates it.** Flyline with the current — hooked sardine, sardines running 6–8 in. A morning "missing the current" was spent scratching rockfish until it moved, after which a **five-hour yellowtail bite** closed the charter (`fDSd9kqwYW0`). Anchor isn't the only answer: one Cortez day produced on both a drift and an anchor job in ~50 fathoms, and when the anchor spot slowed the crew moved off to search rather than sit (`zBd1mayUt_I`).
 
-**What you *could* fish out there,** for completeness:
+**Expect a fleet.** Anchoring at Cortez in August meant picking a slot among "northern boats… southern boats… middle boats," private and commercial sportboats on the same structure (`nQvJnfb5jQ4`). Where the other boats sit relative to the high spot is itself a positioning input.
 
-- **Flyline** — Avet MXJ / Teramar 9'0" MH (50 lb braid), or heavy flyline on the Trinidad 40. Bank numbers: sardine on **25 lb** mono/fluoro to a **No. 2** (`fDSd9kqwYW0`, `nQvJnfb5jQ4`); a **40 lb** daylight floor for bluefin, down to 30 only if they're line-shy, with the caveat that Cortez yellows "swim straight down" into the rocks on light line (`UfuiWFVvz2E`); **20 lb** fluoro to No. 4/No. 2 on a 20–30 lb grade day, some No. 4s running light wire (`QSvzVHW9UMk`).
-- **Yo-yo iron** — your **Salas 6X** on the Trinidad 40 (80 lb braid). The Tanner data point is a Salas 6X **Jr** in blue/white, 40 lb fluoro to 65 lb braid, **dropped to ~80 ft with bait marks sitting around 60 ft** while chumming sardines, no surface sign; bite reads as the rod going dead-weight (`ntQXxcH5sjI`). Yours is the full-size 6X, not the Jr — near-match, different sink and profile.
-- **Surface iron** (Torium/Phenix Abyss 10') for boils, **poppers** (Ghost Popper 150) on the Talica 25 for foamers.
-- **Troll**: 2–3 lures, divers in the 15° gunnel holders, spreader bar out of the elevated shotgun — the Half Fish bars, Madmacs 200, Halco LP190 XDD, Husky Magnums (`profiles/cameron/trolling-lures.md`, `species/bluefin-tuna-trolling.md`). Speed-troll band to locate is **13–15 kt** (`z1CmWHqe9uk`) — flagged in the note as attached to the Rapalas, not the Mad Mac.
+**The mixed grade is this zone's defining tackle problem.** At Tanner: "10 pounders all the way up to 80 pounders, maybe even 100" moving through on one size line, and matching hook, leader and weight without going under-gunned was called "a total game" (`947solNfiPw`). The corpus's answers sit side by side — **what they turn on is grade and bite quality, not order:**
 
----
+- **Go down in hook size, not line class** — a 1/0 circle stepped to a No. 1 when bites aren't coming, because line too light to land the fish wastes the trip. The **Tanner data point** is the 2020 season: 40–60 lb bluefin where the smaller hook got bit better regardless of bait size (`shZCjX2-fkI`, registered channel).
+- **Step the line up when the grade is up** — 100 lb line called easier for hooking the bigger fish being seen than 30 lb (`nQvJnfb5jQ4`).
+- **What 40 lb costs on big fish:** on an evening "Sundowner" bite on the better grade, about **six hooked, one landed** on 40 lb with a tiny circle hook — "really tough" (`nQvJnfb5jQ4`).
 
-## What the water you gave is actually saying
+**The daytime numbers, all from anchored or adrift bait fishing:** flyline **25 lb** mono or fluoro to a **No. 2** hook (`fDSd9kqwYW0`, `nQvJnfb5jQ4`); a **40 lb** flyline floor for daylight bluefin, droppable to 30 lb only if they're line-shy, with the caveat that Cortez yellowtail **"swim straight down"** into the rocks on lighter line (`UfuiWFVvz2E`); **20 lb** fluoro to No. 4 and No. 2 hooks on a 20–30 lb grade day, with a caution some No. 4s run light wire (`QSvzVHW9UMk`). **Circle hooks for bluefin, J hooks for yellowtail** as the trip-wide briefing (`UfuiWFVvz2E`) — against which one crew's stated preference for J hooks on a finicky bluefin bite is kept side by side (`LsFMBCa9DOQ`).
 
-For the record, since this is the part that *doesn't* argue against going:
+**The night program is a jig program, heavier than the general note's middle.** A **300 g floor**, 250 g only for anglers savvy enough to fish it, over **80 lb braid** and **130 lb mono or fluoro** (`UfuiWFVvz2E`); on a windy, hard-drifting night at Cortez/Tanner the standard **250–350 g** jigs would not hold the zone and the boat stepped up to **500 g** (`LsFMBCa9DOQ`). Colour called close to irrelevant — white-with-polka-dots if pressed. One captain's night clock: roughly **9:00 p.m.–11:00 p.m./midnight**, a lull, then **3:30 a.m. to sunrise** (`LsFMBCa9DOQ`) — single-source, one season, and the corpus's only clock-time night guidance for this water.
 
-- **69.4 / 69.9 / 68.2 °F is not a break.** 0.5 °F across the 15.6 nm between Tanner and Cortez is a flat field. `conditions/water-temperature.md` is explicit that the value is usually not the absolute number but **which side of a break** a species sits on, and bluefin read **relative, not absolute** — cool side when the water's warm, warm side when it's cold (`OYOda6T3f-8`). With no edge, you have no side to pick.
-- **A flat field pushes you to structure.** "Across a big area with no temperature differentiation the fish are most likely on structure like the banks" (`OYOda6T3f-8`, in `locations/tanner-bank.md`). So the banks are the *right* read for this SST field — that's the frustrating part.
-- **The temps are in a supportive range, not a warning.** The one bank-edge data point has bluefin holding the cooler **70–72 °F** while yellowtail and yellowfin sat warmer (`i3qIAHW-SJc`); the fall Tanner read was "60-something," the cooler water called the more ideal water (`OYOda6T3f-8`). Cortez's other record is 74–75 °F for a mixed yellowtail/yellowfin/skipjack bite. 69–70 sits below that and in line with the bluefin side.
-- **The 43 at 68.2 °F is your coolest number** and it's ~35 nm out, not 110 (see below).
+**Grades to expect in mid-August specifically:** opening grade around **30 lb**, fish to **41 lb** (`947solNfiPw`); a mixed bluefin-and-yellowtail bite at anchor with at least one bluefin called at 40 lb (`c3NFkQbdDy0`); roughly half a dozen **30 lb-class** fish on a 1:00 a.m. jig session (`LsFMBCa9DOQ`). Yellowtail are the bank's resident fishery — a larger **20–40 lb** grade, called "Home Guard" (`UfuiWFVvz2E`, `c3NFkQbdDy0`). Bottom stop when the bags fill or the current dies: reds, lingcod and a large grade of ocean whitefish (`fDSd9kqwYW0`, `Y1xeieQI3B4`).
 
-**Chlorophyll 0.3 I can't interpret against this KB.** There is no numeric chlorophyll scale anywhere in it — the layer is qualitative: chlorophyll has an *age* (new cold bloom = skip now, mature bloom edge = fish it), and the fishable water is an **edge, not the middle of a mass** (`conditions/water-color.md`, `h3PTupup17I`). One number offshore gives no edge. Also flagged in `planning/day-plan-protocol.md`: an empty layer is missing data, not a zero.
+**Two things worth internalizing about this water.** Fish take their time coming up onto the bank — one captain described the school holding outside for close to a week, with **10–14 days** elapsed before they pushed in close enough to anchor directly on the structure (`eL1Qm33-Mj0`). And when they're established, the distribution is unlike anything inshore: driving through **20–30 miles of fish**, with a boat **15 miles away** seeing the same thing, rather than the usual isolated **4–5 sq mi** patch (`LsFMBCa9DOQ`). Also expect it to end fast — a slick with fish breaking everywhere shut off "like a light switch" and could not be relocated (`zBd1mayUt_I`).
 
-## Moon: Friday night is the peak, and that's a timing squeeze
-
-`conditions/moon.md` keeps two reads side by side, unreconciled:
-
-- **The days leading into the full moon are the strongest documented bluefin windows** (`XLVUhV8DW64`). Friday 8/28 is the peak itself — you'd be arriving at the end of that ramp.
-- **The peak day is a relocation event, not a bite event.** Capt. Dave Hansen's doctrine: 7 days before and 7 days after, with the **peak day itself the travel period**, called "not good" for the bite; **the morning after a full-moon night runs slow**, and if a full-moon trip is unavoidable, **fish it late rather than pushing the early-morning window** (`fri_BWI-VA0`, `LEiyB9QNzHY`).
-- On the moon, open-water bluefin not holding structure move **10–15 nm overnight** (`Blh2BA-7Ono`); Hansen puts schools at **20 miles** after a full-moon night (`fri_BWI-VA0`). Discount any report older than a day or two hard.
-- A direct dissent is on file — no reliable moon pattern trip to trip (`shZCjX2-fkI`).
-
-Your Saturday is the morning after the peak — the window the doctrine calls slow — and the guidance is to fish *late*, which is exactly when your wind builds to 15 kt. That's the squeeze: the moon says fish the afternoon, the wind says be pointed home by then.
-
-**The KB has nothing at all on lunar eclipses.** No note anywhere addresses eclipse effects on a bite. I'm not filling that from outside the corpus.
-
-## Seasonal prior: August is dispersal, and Tanner/Cortez is the October pattern
-
-`seasonal/august.md`: **peak dispersal — Catalina to San Nicolas to Ventura**, fish "showing up in weird places" and gone the next day (`CMQkHQMxbXM`), so **yesterday's spot is a weak prior** and the fleet is offshore, so island reports thin out (coverage bias, not dead islands). `species/bluefin-tuna.md` puts the **Tanner/Cortez condensation in October–December**, as the coast cools.
-
-That said, **August at Tanner is documented and it produced repeatedly** — mid-Aug 2023 and mid-Aug 2024, anchored bites (`ntQXxcH5sjI`, `947solNfiPw`, `LsFMBCa9DOQ`). The page's own line: "Presence is not catchability's mirror image here." So the month isn't the objection; the boat and the sea are.
+**Regulatory — California / CDFW, checked as of 2026-08, verify before you fish.** A **two-fish-per-person daily bluefin limit** is stated on camera at these banks (`947solNfiPw`). The KB flags that **no MPA or closure boundary is stated for either bank**, and that the Cow Cod Conservation Area is named as an offshore closure with no boundary given — so whether either bank falls inside it is **unverified**. Check the CCCA boundary against your position with CDFW/NOAA before you drop.
 
 ---
 
-## What the run and the fishing actually look like out there (so you have the picture)
+## Your gear against that program — four named gaps
 
-**Shape of the day** (`locations/tanner-bank.md`): yellowtail from sunup to roughly 11:00 a.m. or noon at anchor, then deeper water for bluefin (`UfuiWFVvz2E`). Night bite runs two windows — roughly **9:00 p.m.–11:00 p.m./midnight**, a lull, then **3:30 a.m. to sunrise** (`LsFMBCa9DOQ`, single-source, one season, ledgered). One overnight started yo-yo and jig fishing at **1:00 a.m.** and put roughly half a dozen 30 lb-class fish aboard in that first session.
+Per protocol step 4, I only recommend what `profiles/cameron/` says you own, and I name the gaps rather than substitute.
 
-**Depths.** Anchor zone **15–25 fathoms**; high spot marked in **~120 ft** with yellowtail at 60–80 ft in that water; a ridge on the edge in **~150 ft**; the drop-off edge worked at **50–60 fathoms**, which produced "right out the gate" after a reposition (`nQvJnfb5jQ4`); night jig marks 360° around the boat from **50 fathoms down to 80, "even below"** (`LsFMBCa9DOQ`) — deeper than the general 30–50 fathom sounded-school band (`HWx1jDTGsng`), kept as a bank-specific extension.
+**What you'd have covered:**
+- **Flyline** — Avet MXJ / 9'0" Teramar (50 lb braid) top-shot to the bank's 25–40 lb window; Trinidad 40 / 8'0" XH 40–80 (80 lb braid) as the heavy stick when the grade is up.
+- **Yo-yo iron** — **Salas 6X** and **Salas CP 105** on the Trinidad 40. This is the exact Tanner scenario: bluefin marked shallow around the boat while chumming with no foamer showing, answered with a **Salas 6X Jr dropped to ~80 ft with the bait marks sitting at ~60 ft**, 40 lb fluoro to 65 lb braid (`ntQXxcH5sjI`). Note the source names the **Jr**; you own the full-size 6X.
+- **Surface iron** — Torium 20HG / 10'0" Phenix Abyss for boils and the "giant" bonito that come with them.
+- **Poppers** — Ghost Popper 150, TP 140/160 for foamers.
+- **Trolling to locate** — Talica 25 and Fathom 80, three Half Fish spreader bars, two Madmacs 200 + a 130, Halcos, Husky Magnums, DTX 165, cedar plugs. The private-boat Tanner program in the corpus is exactly this: **troll spreader bars to cover ground, then stop and fish once the sounder marks good numbers** (`vCskOx6N-XM`).
 
-**The program is anchor-and-chum, and current gates it.** Flyline with the current; when the current goes slack the exotics don't go — one morning "missing the current" was spent scratching rockfish until it moved, then a **five-hour yellowtail bite** closed the charter (`fDSd9kqwYW0`). Anchor isn't the only answer; a Cortez day produced on both a drift and an anchor job in ~50 fathoms, and when the anchor spot slowed the crew moved off to search (`zBd1mayUt_I`).
+**The gaps:**
 
-**Positioning is read off structure *and* the fleet.** Expect company — anchoring at Cortez meant picking a slot among "northern boats… southern boats… middle boats," private and commercial sportboats on the same structure (`nQvJnfb5jQ4`). One captain moved onto anchor mid-morning after hearing a nearby boat was stacking fish on an established chum line, judging his drifting boat was picking off only a piece of the school from outside the spot (`QSvzVHW9UMk`).
-
-**Grade is the tackle problem.** At Tanner: **"10 pounders all the way up to 80 pounders, maybe even 100"** through on one size line, and matching hook/leader/weight without going under-gunned called "a total game" (`947solNfiPw`). The corpus's answers sit side by side, and what they turn on is grade and bite quality — not section order: **go down in hook size, not line class** (a 1/0 circle stepped to a No. 1; the Tanner data point is the 2020 season, 40–60 lb fish, small hook getting bit better regardless of bait size, `shZCjX2-fkI`) versus **step the line up when the grade is up** (100 lb called easier than 30 lb for the bigger fish being seen, `nQvJnfb5jQ4`) — with the cost of the light option recorded: about six hooked, one landed, on 40 lb with a tiny circle during a Sundowner bite on the better grade (`nQvJnfb5jQ4`). Briefing standard is **circles for bluefin, J hooks for yellowtail** (`UfuiWFVvz2E`), against one crew's stated J-hook preference on a finicky bluefin bite (`LsFMBCa9DOQ`).
-
-**Distribution can be unlike anything inshore** — driving through **20 to 30 miles of fish**, a boat 15 miles away seeing the same, against the usual isolated 4–5 sq mi patch (`LsFMBCa9DOQ`). And fish take their time getting onto the bank: a school held outside for close to a week, ~10–14 days elapsed before pushing in close enough to anchor directly on the structure (`eL1Qm33-Mj0`).
-
-**Also out there:** resident 20–40 lb "Home Guard" yellowtail at anchor over the high spot, "giant" bonito, deep hard-bottom reds/lingcod/big ocean whitefish on the bank edge when the pelagic bags fill or the current dies.
-
-**Regs, US / California / CDFW, checked as of 2026-08 — verify current before you fish.** Bag limit **two Pacific bluefin per person per day** (`usHl-4SfqDA`, as of 2024-11). And a real one for this destination: the corpus names the **Cow Cod Conservation Area** as an offshore closure but gives no boundary, so **whether either bank falls inside it is unverified — check the CCCA boundary against your position with CDFW/NOAA before you drop**. Compliance is positional, not depth-based.
+1. **The entire night jig program has no rod and no jig in your box.** The bank wants a **300 g floor over 80 lb braid and 130 lb mono/fluoro, stepping to 500 g in wind.** Your heaviest metal in `tackle.md` is the Nomad Slidekick **120 g** and the Zakana **100 g**; there are no knife jigs or flat-falls, and `rods.md` still logs the dedicated SPJ/speed-jig setup as an open item you're shopping. The night program is the main reason the multi-day boats go out there, and you'd be sitting it out.
+2. **No kite.** The most effective method for **100–300 lb** SoCal bluefin is a flying fish under a kite (`YsiHziY_PWw`), and it's what the one private-boat Tanner trip converted on (`vCskOx6N-XM`). `rods.md` marks the Fathom 80 as a **future** kite rod — no kite, no flying-fish harness, no flying fish. On a bank whose grade runs to 80–100 lb, your big-fish converter isn't aboard.
+3. **Bait budget** — 30 gallons against a chum-line fishery, covered above.
+4. **Sounder depth.** Private-boat doctrine is a **manual 0–300 ft window**, on the stated reasoning that a private boat lacks the bait budget to chum fish up from depth; **fish below 300 ft are traveling, not biting** (`m-M0iwX8DjA`, `9hEa3sGTh40`, `8XrMkWPRxgs`). The bank's night marks run **50–80 fathoms (300–480 ft) and below** (`LsFMBCa9DOQ`) — past the top of that window on your Garmin GPSMAP 840xs. Same root cause as the bait gap.
 
 ---
 
-## The in-envelope alternative for this weekend
+## What Saturday could be instead
 
-`planning/day-plan-protocol.md` says if nothing in the envelope fits, say so and stop rather than substitute out of region. This stays in `socal-bight` and in your stated home waters ("San Diego offshore banks"), so it's a legal offer — but I'm giving you the KB's honest coverage on it, not a sales pitch.
+Honestly: **the KB's own thresholds say hold at the dock for any offshore run once you're at 12–15 kt over a 9-second sea**, not just for Tanner. And "if it's windier than forecast in the morning, assume it builds all day — a small boat bails early" (`DnSqw4r7A1s`). If you go, go short and go early.
 
-**The 43** (32°39.333'N 117°58.417'W) at your 68.2 °F: **34.9 nm from the Point Loma Pipe, 31.2 nm from Widow Rock off La Jolla, 21.5 nm from Pyramid Head** (`locations/43.md`, cameron). That's roughly a third of the Cortez run, with a bail-out line to the beach the whole way — which is the thing your Saturday noon wind build actually needs.
+Two things the KB supports, in envelope from Dana Landing:
 
-- It's the shallowest numbered bank in the Bight grid, a **43-fathom (~258 ft) crest**, the corpus's worked example of a bank as "a mountain in a desert" where bait congregates for safety and the big fish follow (`Rf1HKJG-SDg`). Since the rockfish closure, "everyone goes to the 43" for giant bluefin instead.
-- **Honest caveats:** the KB's bluefin window for that box is **June–July**, and it names **no August source** at the 43. It's a **search box**, not a spot-check — the below-Clemente complex reads as one **~50–60 sq mi** area; plan hours of looking, run bank to bank for color changes, temperature changes and bird life, and if a piece of water reads fishier, be back in it on a **late-morning slack after 09:30** (`Blh2BA-7Ono`). Expect to spend the day driving around.
-- **Also worth checking before you write off the inside:** the Catalina Eddy shielding rule — the islands shadow the water behind them from the prevailing north wind, and marks well south still sit in that shadow (the 425 is often shielded despite being far south of San Clemente; cameron, `S2L3KLSQ6Is`). On a NW-wind weekend that's the lee to check.
-- Paddy program peaks in August, and the best paddy water is south of SCI/Catalina and Dana Point–Oceanside southward (`HzE4FHHcvTk`) — the one on-the-water trip aimed at the 43 caught its bluefin **on a paddy, not on the bank**, keyed on anchovies, glassing white terns; they fished from about **100 yards off** the kelp because the tuna sit outside the piece, watching the full 360° (`A6DJoXbID4c`).
+- **Check the eddy state before writing off the inside.** The prevailing wind outside SoCal is from the north, so the islands shadow the water behind them and marks well to the south still sit in that shadow — the **425** is often shielded despite being far south of San Clemente (`S2L3KLSQ6Is`, cameron). Your 68.2 °F reading is at **the 43** (32°39.333'N 117°58.417'W) — **34.9 nm from the Point Loma Pipe, 31.2 nm from Widow Rock** — which is real bluefin ground: the rockfish closure moved the fleet's effort there onto the same high spot for tuna instead (`Rf1HKJG-SDg`), and it's the first-named member of the June–July below-Clemente search box. It's also the cool side of the only gradient in your data. But 35 nm out of Mission Bay in a building NW is still a long exposed leg, and the KB gives **no run figure from Mission Bay to anywhere out there**.
+- **August is the paddy peak**, and the best paddy water is **south of San Clemente/Catalina and from Dana Point to Oceanside southward** (`HzE4FHHcvTk`, `seasonal/august.md`) — in your envelope, close to home. Expect a bigger overnight reshuffle after a moon-bright night: yesterday's dry paddy doesn't stay dry and yesterday's loaded one doesn't stay loaded (`conditions/moon.md`). Check each paddy fast — look, one sounder pass, one bait — and move rather than stake out. Plan the return leg against the afternoon W build (`HzE4FHHcvTk`).
 
-**Two transit tools for whatever you run:** watch the boat's water-temp gauge directly while running and note when it changes — a manual backstop for a break the satellite map missed — and use the Garmin 840xs's buoy overlay for live wave height/period rather than trusting the point forecast (`planning/electronics-and-sounder.md`, cameron).
-
-## What would flip Tanner/Cortez to a go
-
-1. Your **range_nm** and **sea_state_max_ft**, on paper, clearing a 110 nm open-ocean run with reserve.
-2. A swell **period well over 10 s**, and wind under ~12 kt across the *whole* window including the return — not a dawn lull inside a 15–20 kt night.
-3. A **kite + flying-fish harness**, or the **300–500 g jig setup**, actually in the boat — otherwise you've made the corpus's longest run to fish the one program (flyline/yo-yo at anchor) you can also fish 70 miles closer.
-4. Ideally not the full-moon peak night, given the "peak day is travel, morning after is slow, fish it late" doctrine — and "fish it late" doesn't work when the wind builds at noon.
+And when you do point at Tanner: the doctrine window is **October–December**, the moon play is the **days leading into** the full, and the two things to fix first are a **300 g-capable jig outfit** and either a **kite** or a stated boat envelope that makes the run arguable at all.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/electronics-and-sounder.md`, `planning/search-and-glassing.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `seasonal/august.md`, `seasonal/september.md`, `species/bluefin-tuna.md`, `species/bluefin-tuna-trolling.md`, `species/evidence/bluefin-tuna.md`, `techniques/kite-fishing.md`, `locations/tanner-bank.md`, `locations/cortes-bank.md`, `locations/evidence/tanner-bank.md`, `locations/43.md`, `locations/43-91-300.md`, `locations/regions.md`, `profiles/cameron/README.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`  
-*videos:* `NC3-3pJDEgo`, `zKmZ4zql2ws`, `DnSqw4r7A1s`, `S2L3KLSQ6Is`, `QSvzVHW9UMk`, `UfuiWFVvz2E`, `fDSd9kqwYW0`, `nQvJnfb5jQ4`, `ntQXxcH5sjI`, `947solNfiPw`, `LsFMBCa9DOQ`, `vCskOx6N-XM`, `zBd1mayUt_I`, `i3qIAHW-SJc`, `OYOda6T3f-8`, `eL1Qm33-Mj0`, `Y1xeieQI3B4`, `shZCjX2-fkI`, `XLVUhV8DW64`, `fri_BWI-VA0`, `LEiyB9QNzHY`, `Blh2BA-7Ono`, `CMQkHQMxbXM`, `HzE4FHHcvTk`, `5to3Q5P7w90`, `HWx1jDTGsng`, `z1CmWHqe9uk`, `YsiHziY_PWw`, `2y0VznL2qk8`, `Rf1HKJG-SDg`, `usHl-4SfqDA`, `yMiBtZ7k8-w`, `A6DJoXbID4c`, `h3PTupup17I`, `c3NFkQbdDy0`  
-*gaps admitted:* Cameron's boat envelope is unset: profiles/cameron/boat.md has range_nm, sea_state_max_ft and home_port all null, and instructs the protocol to ASK rather than assume — so a 110 nm offshore-bank run cannot be cleared at step 1b. | No fuel capacity, burn rate, or range figure for the Panga Marquesas 22 anywhere in the KB, so I cannot compute whether a Mission Bay → Cortez → Mission Bay run is possible. | locations/tanner-bank.md carries a flagged gap: no corpus source states a run from Dana Point, Oceanside or any Orange County / small-boat port to Tanner or Cortez, and no fuel figure or sea-state envelope for the crossing itself. | locations/tanner-bank.md carries a flagged gap: no corpus source states a wind or swell number that turns the Tanner/Cortez zone off — the go/no-go had to come from the general conditions/sea-state.md layer. | The KB has no content on lunar eclipses at all — no note addresses an eclipse's effect on a bite, so the partial lunar eclipse on 2026-08-28 could not be interpreted. | The KB has no numeric chlorophyll scale (no mg/m3 values anywhere), so 'chlorophyll 0.3 offshore' cannot be graded as clean/green/productive — the layer is only qualitative (bloom age, edge vs. mass). | No zone guide exists for bluefin at Cortez/Tanner — species/bluefin-tuna.md carries it as a flagged stub with material parked in the evidence file. | No corpus source names a rock, pinnacle, sub-feature, preferred direction, bottom composition or relief profile at either Tanner or Cortez, so approach and start-point detail is unavailable. | Whether Tanner or Cortez falls inside the Cow Cod Conservation Area is unverified — the corpus names the closure but gives no boundary. | No corpus source dates an August session at the 43, and no source gives run distance, bearing, run time or fuel to that bank from any port; its bluefin window in the KB is June–July only. | No anchoring gear, ground tackle or anchoring procedure for Cameron's boat exists in the profile, though the Tanner/Cortez program is an anchor-and-chum program in 15–25 fathoms. | Cameron owns no kite, no flying-fish harness, and no 250–500 g knife/flat-fall jigs or SPJ rod — the two highest-percentage programs at these banks are inventory gaps, named rather than substituted. | Tide and slack times for 2026-08-28/29 were not supplied and the KB holds no tide tables, so the current/slack gating on the bank program could not be timed. | Cameron's Tranx setup braid weight is unrecorded (respool pending), so that setup could not be resolved to a line class.
+*notes:* `CLAUDE.md`, `README.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `planning/search-and-glassing.md`, `planning/electronics-and-sounder.md`, `locations/tanner-bank.md`, `locations/evidence/tanner-bank.md`, `locations/cortes-bank.md`, `locations/43.md`, `locations/43-91-300.md`, `locations/north-9-mile-bank-178.md`, `locations/regions.md`, `species/bluefin-tuna.md`, `species/bluefin-tuna-trolling.md`, `seasonal/august.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-temperature.md`, `conditions/water-color.md`, `conditions/tide-and-slack.md`, `bait/bait-tanks.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/trolling-lures.md`, `profiles/cameron/spots.md`  
+*videos:* `NC3-3pJDEgo`, `zKmZ4zql2ws`, `DnSqw4r7A1s`, `S2L3KLSQ6Is`, `UfuiWFVvz2E`, `QSvzVHW9UMk`, `nQvJnfb5jQ4`, `fDSd9kqwYW0`, `LsFMBCa9DOQ`, `ntQXxcH5sjI`, `947solNfiPw`, `c3NFkQbdDy0`, `zBd1mayUt_I`, `eL1Qm33-Mj0`, `Y1xeieQI3B4`, `i3qIAHW-SJc`, `OYOda6T3f-8`, `vCskOx6N-XM`, `shZCjX2-fkI`, `XLVUhV8DW64`, `fri_BWI-VA0`, `LEiyB9QNzHY`, `Blh2BA-7Ono`, `CMQkHQMxbXM`, `HzE4FHHcvTk`, `HWx1jDTGsng`, `5to3Q5P7w90`, `9hEa3sGTh40`, `bM2vUS1B-yQ`, `m-M0iwX8DjA`, `8XrMkWPRxgs`, `YsiHziY_PWw`, `z1CmWHqe9uk`, `Rf1HKJG-SDg`, `h3PTupup17I`, `oXunQKSbc2g`, `A6DJoXbID4c`  
+*gaps admitted:* profiles/cameron/boat.md has range_nm: null and sea_state_max_ft: null — the KB cannot compute whether the panga can make this run; the protocol's step 1b says to ASK for those, so my read is inferred from hull/power/battery/bait facts, not from a stated envelope. | locations/tanner-bank.md flags no fuel figure and no sea-state envelope anywhere in the corpus for the Tanner/Cortez crossing itself. | locations/tanner-bank.md flags outright: no corpus source states a wind or swell number that turns this zone off. The go/no-go numbers I used come from the general conditions/sea-state.md note, and the KB itself flags them as single-source (one working captain, NC3-3pJDEgo). | No run is stated from Mission Bay / Dana Landing — or any Orange County port — to Tanner or Cortez. The corpus gives San Pedro, Point Loma/San Diego, Long Beach and San Clemente Island only. | The run is carried in statute miles only; locations/tanner-bank.md records distance_nm as 'unknown as a charted figure', so I have no nautical-mile or run-time figure for your boat. | The KB carries no numeric chlorophyll scale anywhere — 0.3 cannot be graded clean vs. green against any threshold in the knowledgebase. | The KB contains nothing on lunar eclipses; I have no basis to attribute any effect to the 08-28 partial eclipse. | No zone guide exists for bluefin at Cortez/Tanner — it is a flagged stub in both species/bluefin-tuna.md and locations/tanner-bank.md, with the material parked in the evidence file. | No MPA or closure boundary is stated for either bank, and whether the Cow Cod Conservation Area covers them is unverified in the KB. | locations/cortes-bank.md is a minimum page — position and parent zone only, with flagged gaps for structure, depth, species and how it fishes; everything I gave for Cortez comes from the zone page and its evidence file. | No swell or wind exposure data exists for the Mission Bay entrance — the KB carries the San Diego Bay entrance window (160 deg to 186 deg) only, and that is a different harbor from your launch. | No guidance anywhere in the KB on overnight house power at sea for a single-battery boat; the NOCO GEN5X1 in the profile is an AC-hardwired dock charger. | I have no tide table or slack times for 2026-08-28/29 and did not invent any — the KB is the pattern layer, and you supplied no tide data. | No corpus source places bluefin on the 9 Mile Bank (flagged stub in locations/north-9-mile-bank-178.md), so the nearest in-envelope bluefin ground with an actual corpus record is the 43. | Several claims on locations/tanner-bank.md that I relied on carry the KB's own fact-check flags — notably that the 'mid-August anchored bluefin bite' at Tanner (ntQXxcH5sjI) reads on camera as a yellowtail bite, that the sundown '100 lb-plus' window comes from a promo intro at an unnamed position, and that most of the zone's sources are one boat (the El Dorado out of Long Beach) rather than independent corroboration.
 
 </details>
 
@@ -2465,15 +2347,15 @@ That said, **August at Tanner is documented and it produced repeatedly** — mid
 
 | version | found | specific | sourced | scoped | honest | actionable | total | flags |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
-| B2 | 2 | 2 | 2 | 1 | 2 | 2 | **11** |  |
+| B2 | 2 | 2 | 2 | 1 | 2 | 1 | **10** |  |
 | B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
-| NOW | 2 | 2 | 2 | 2 | 2 | 1 | **11** |  |
+| NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three correctly refuse the trip and none bluffs or fabricates, so the separation is on the second half of the question — 'where would I go'. C is the only answer that delivers the whole chain: the region gate with the KB's own failure case, three real access routes with drive legs, trip shape, per-person cost, FMM/CONAPESCA/insurance stamped with jurisdiction and as-of, the full through-the-day depth-and-lure ladder, and a calico fallback whose two regulatory figures each carry their own date (including a flag that the 2019 bag limit is stale). B has the best execution table and the only profile-resolved gear and bait plan, but never tells you how to get to the Cortez at all and leaves the Coronados recommendation without the Mexican paperwork it admits the KB lacks. A is the sharpest on September timing and uniquely audits its own cabrilla note for bad attributions, but hands the angler no gear or retrieve to actually fish cabrilla with.
+**Judge:** All three correctly refuse the premise — cabrilla is a Cortez fish and no version invented a San Diego spot — so the separation is in what they hand back instead. C wins narrowly because it answers 'where would I go' on both sides: three distinct cabrilla access modes with leg-by-leg drive times, per-person cost, panga rate and dated FMM/CONAPESCA paperwork, plus the BOLA season table showing mid-September is past prime even there, and then a SoCal program whose two regulatory figures each carry their own as-of date. A is essentially its equal and is the strongest on the San Diego side (named Point Loma/La Jolla pages with spot counts and working depths) and the most self-critical, flagging that its own cabrilla note mislabels San Felipe footage as BOLA. B is excellent on execution detail and unusually careful about the difference between 'no note places it here' and 'documented absence', but its KB version has no travel logistics at all, so its cabrilla answer resolves to 'see your profile's planned trip' rather than a fishery, and it recommends a Coronados run with Mexican licensing left in the gap list.
 
-- *B2 reasons:* found: locates the cabrilla note and the Cedros grouper mention, but answers 'where would I go' only as a place name — no route, cost, or access shape for the Cortez. specific: the best execution table in the set (30-40 ft rise, 60-80 ft by 9-10 am, 80-150 ft midday, burn 30-40 cranks, bites in 5-10), plus 69 F to 71-72 F at 7-13 nm, 100 ft sabiki on 8 oz, VHF 11. sourced: consistent note paths and ids (EmZO8QiOfik, Rwy4MqeXCIU, uyjTdgIw-1k, ldVj0BoB-kE). scoped: region call is right and calico 14 in / rockfish season carry CDFW + as-of 2026-08 + verify, but it frames cabrilla by prose header rather than region fields, repeats a sand-bass 14 in limit without its own jurisdiction/as-of/verify, and has no Mexican-waters paperwork for the Coronados it recommends (admitted as a gap). honest: explicitly says 'no' means the KB has no basis, not that fish are absent; refuses to invent conditions; frank gap list including missing swimbaits in the profile. actionable: highest — profile-resolved boat, rods and reels, bait-barge timing, per-presentation calico plan.
-- *B3 reasons:* found: answers both halves — gate refusal quoting the KB's own named failure case, then three documented ways into the fishery (BOLA drive-in, San Felipe mothership, Loreto fly-in via CBX) plus the September read. specific: 4-day/2-fishing-day trip shape at $800-1,000 pp, panga $550/day + $100 tip, hotel $90-120, Baja Bound ~$90-130, 04:30 wake/05:30 depart, full depth ladder 30-40 / 60-80 / 80-150 ft, 7'10"-8 ft ~50 lb, 6.5:1-7:1, 65/50 and 80/80, 12-15 lb grade, calico 0-8 and 20-100 ft, 65-68 F. sourced: dense and plausible pairing of paths and ids (P36VGPPf120, odiIWmut6gM, 8IRONtdkceM, ts9rJgxjmSg, n4nMCLLW3tY, LqW32NSkObY, r6j5w40fVHI). scoped: cortez-north/south vs socal-bight explicit, Mexico INM/CONAPESCA stamped as-of 2026-08-06 + verify, calico 14 in as-of 2022-04-25 and 5-fish bag as-of 2019-03-13 with the age of the oldest figure flagged for re-check. honest: no conditions and no profile stated up front, says which structure notes it did not open, warns Loreto season data is thin and the paperwork detail is single-sourced. actionable: the only answer from which you could both plan/book the cabrilla trip and execute the program, with a fishable local calico fallback.
-- *NOW reasons:* found: nails the region gate on cabrilla, names the Cortez access zones, and answers the mid-September timing question directly. specific: leg-by-leg drive times, 11-hour door-to-door, 1-1.5 in fall bait, 71.6 F paddy, 15-25 lb YFT grade, 18-20 ft reef drift. sourced: note paths plus video ids (P36VGPPf120, T3cEQUqiH8E, EmZO8QiOfik, 5to3Q5P7w90) throughout. scoped: cortez vs socal-bight handled correctly, Coronados flagged as Mexican water, Mexico INM/CONAPESCA and CDFW rockfish both carry as-of 2026-08 + verify. honest: best-in-set on flagging contested content in its own cabrilla note (misattributed zones, unsupported 40-60 lb rod class), states no conditions pulled, long concrete gap list. actionable: strong on when-to-go-instead and on the local calico rig, but gives almost no cabrilla execution (no depth ladder, no reel ratio/line spec, no drag doctrine), so the trip it redirects you to can't be fished from this answer.
+- *B2 reasons:* found: correctly reports zero SoCal cabrilla coverage and makes the sharp distinction that the KB never documents absence either (contrasting pacific-crevalle-jack) — but leans on front-matter-free prose rather than a region gate, and answers 'where' by pointing at the reader's own profile trip rather than the fishery. specific: strong on execution — 170/150 jerkbait sizes, 30–40 ft rise, 60–80 then 80–150 ft, Salas 6X/Tady 40, 30–40 cranks, 7'10"–8 ft 50 lb class, 6.5:1–7:1, 1/0 XS trebles, 71.6°F paddy. sourced: paths plus ids throughout (EmZO8QiOfik, dEPuDrhoClM, _Wb4z4ammoM, A6s-A1NARuA, E4vKwRaRueA). scoped: calico 14 in CDFW as of 2026-08 with verify and Cedros C&R correctly labeled an operator agreement with a report date, but the Coronados recommendation is made with Mexican licensing only deferred to a gap line, and the sand-bass '14 in called out on camera' rides on the calico stamp. honest: explicitly separates 'no note places it' from 'documented absence', flags September calico guidance as inferred from a regime label, clean gap list. actionable: excellent for the BOLA program and a kelp day, but the cabrilla half is unusable as a trip — it admits no drive time, no crossing procedure, no panga charter detail.
+- *B3 reasons:* found: region gate plus the [Baja only] index badge, the protocol's worked example, then three genuinely different cabrilla access modes (BOLA, San Felipe mothership, Loreto) and the SoCal substitute. specific: leg-by-leg drive (1.5–2 h, 2 h, 2 h, 2 h), $800–1,000/person for 3 nights/2 days, panga $550 + ~$100 tip, hotel $90–120, BOLA season table May–June prime and 'July on everything goes down', Loreto jerkbait fish at 5–10 ft, calico kelp edge 50→25 ft, rise 10–15 ft off 80–100 ft reef, 40–60 ft pre-spawn staging, Ned rig 10 lb braid / 8 lb leader. sourced: note paths plus ids (T3cEQUqiH8E, P36VGPPf120, ikiXx9sUsoA, 8IRONtdkceM, EGKesj7V64M) and channel-registry confidence caveats. scoped: cortez gating explicit, Coronados labeled Mexican water with FMM/CONAPESCA flagged as a KB gap, Mexico paperwork stamped as-of 2026-08-06 with verify, calico 14 in (as of 2022-04-25) and 5/day (as of 2019-03-13) both CDFW with verify, SBB no minimum as of 2024-11. honest: says up front it pulled no live water, warns against borrowing BOLA's calendar for Loreto, names unregistered-channel medium confidence, admits no landing/charter list. actionable: answers both halves — a bookable trip decision and a runnable weekend program including an inside-the-bay fallback.
+- *NOW reasons:* found: names the region gate on species/cabrilla.md, cites the protocol's own Mission Bay→cabrilla worked example, then routes to the real Cortez fishery and a SoCal substitute. specific: BOLA drive 8h/11h door-to-door, $90–120/night, 30–40 ft rise then 60–80 ft by 09:00–10:00 then 80–150 ft, 65/50 and 80/80 line, 6–8 ft leader, calico 65–68°F, Point Loma 12 spots / La Jolla 14 spots, 180–210 ft rockfish drift, 3/8–3/4 oz keel hook, 1.5 oz tube. sourced: note paths plus video ids on nearly every parameter (EmZO8QiOfik, 0dNfsle54Wo, 0KQ--N5TjqE, YIABTTYXeqc). scoped: cortez vs socal-bight gating explicit, Coronados flagged baja-pacific-north/Mexican paperwork, calico 14 in California/CDFW as of 2026-08 with verify-current and the bag-limit-of-5 flagged single-source and dated. honest: absolute dates only, flags its own note's mislabeled BOLA footage and unsupported 40–60 lb rod class, long and concrete gap list, no conditions bluff. actionable: an angler can run either a Cortez trip decision or a Saturday kelp day off it.
 
 <details><summary>Full prompt</summary>
 
@@ -2481,230 +2363,230 @@ Can I fish for cabrilla out of San Diego this weekend in mid-September? Where wo
 
 </details>
 
-<details><summary><b>B2 — batch 2</b> · 11/12</summary>
+<details><summary><b>B2 — batch 2</b> · 10/12</summary>
 
-## Short answer: not out of San Diego — cabrilla in this KB is a Baja fish
+## Short answer: no — not out of San Diego
 
-Per [`species/cabrilla.md`](species/cabrilla.md), cabrilla (leopard grouper) is documented here as a **Sea of Cortez / Bahía de los Ángeles (BOLA) panga fishery** — the whole note is framed "Region: Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery," sourced to a single dedicated cabrilla breakdown (Cesar, 25+ yr Sea of Cortez cabrilla angler, via Dirty Hookers, `EmZO8QiOfik`, 2025-03-04; `confidence: medium`). There is **no cabrilla record anywhere in the KB for San Diego, the Coronados, or the SoCal Bight** — the only other Pacific-side grouper/cabrilla mention is **Cedros Island, Baja** (~188 miles down from San Diego by the crew's own transit numbers in [`species/calico-bass.md`](species/calico-bass.md)), and there local operators adopted a **voluntary 100% catch-and-release** on calico, grouper (cabrilla) and black seabass because summer spawning-aggregation pressure had collapsed the catch (Jose via StokedOnFishing, `ldVj0BoB-kE` / re-cut of the same interview in `Zo92MG459gQ` — operator agreement, not a government rule; verify current status before fishing).
+Cabrilla, in this knowledgebase, is a **Baja / Sea of Cortez fishery, not a Southern California one**. [`species/cabrilla.md`](species/cabrilla.md) opens by stating its region flatly: *"Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery"* (`EmZO8QiOfik`). Every cabrilla source in the corpus is on the other side of the peninsula or well down it:
 
-So: **a Saturday/Sunday out of Mission Bay is not a cabrilla trip.** A real cabrilla day in this KB is a Sea of Cortez / BOLA panga trip — which, if you're Cameron, is already on the books: [`profiles/cameron/spots.md`](profiles/cameron/spots.md) records "next BOLA trip September 2026."
+- **Bay of LA / Sea of Cortez** — the core doctrine, fished from pangas off Tony Reyes-style multi-day trips (`EmZO8QiOfik`, `dEPuDrhoClM`, `M8hOYQ_6rSg`).
+- **Gonzaga Bay** — wire leader on 65 lb spectra for cabrilla and barred pargo tight to the rocks; grouper dropped on big baits starting in **80–90 ft** ([`tackle/line-and-leader.md`](tackle/line-and-leader.md), `_Wb4z4ammoM`, `A6s-A1NARuA`).
+- **La Paz / Isla Espíritu Santo** — cabrilla in the mixed bag on a mackerel flyline ([`techniques/flyline.md`](techniques/flyline.md)).
+- **Cedros Island** (the Baja *Pacific* side, and the closest cabrilla ever gets to San Diego in this KB) — and there, local operators adopted **100% voluntary catch-and-release for calico, grouper (cabrilla), and black seabass** as reported 2023-10-16, on the grounds that summer spawning-aggregation pressure had collapsed the catch from "by the hundred" to "none or very few" ([`species/calico-bass.md`](species/calico-bass.md), `ldVj0BoB-kE` / `Zo92MG459gQ`). That's an operator agreement, not a government rule — verify current status before fishing.
+
+There is **no note anywhere in this KB that puts cabrilla in San Diego, the Coronados, or anywhere in the Bight.** I want to be precise about what that means: the KB never explicitly says "cabrilla do not occur off San Diego" either. Compare [`species/pacific-crevalle-jack.md`](species/pacific-crevalle-jack.md), which *does* flag its species as "a rare warm-water visitor to SoCal in strong warm-water years." Cabrilla gets no such SoCal-stray entry, and no SoCal source mentions one. So: **the KB gives you nothing to plan a San Diego cabrilla trip on**, and I'm not going to invent a spot for you.
+
+Getting to real cabrilla water from Dana Landing is not a weekend of Sept 12–13. Your boat per [`profiles/cameron/boat.md`](profiles/cameron/boat.md) is a Panga Marine Marquesas 22 on a single 115 hp Yamaha, ~35 kt top end, home waters listed as **Coronado Islands, La Jolla, San Diego offshore banks** — that's a Bight envelope, and BOLA is a trailer trip. Your profile already has the right answer to the cabrilla question sitting in it: [`profiles/cameron/spots.md`](profiles/cameron/spots.md) records a **next BOLA trip in September 2026**. That's your cabrilla trip.
 
 ---
 
-## If this is prep for that BOLA/Cortez trip
+## What to load for that BOLA trip (since September is the pre-micro-bait window)
 
-From [`species/cabrilla.md`](species/cabrilla.md) (all `EmZO8QiOfik`) — the day is structured by sun angle, and the fish move down the column through it:
+Worth knowing now, because the calendar matters here: the cabrilla note's only seasonal hinge is a **bait-driven shift from roughly October on**, when Sea of Cortez baitfish shrink to about **1–1.5 in** and cabrilla key hard on that micro-bait. A September trip is *ahead* of that window — run the full-size program, and treat downsizing as the slow-bite fallback rather than the default (`EmZO8QiOfik`).
 
-| Time | Depth | Program |
+The day ladder from [`species/cabrilla.md`](species/cabrilla.md) and [`lures/jerkbaits.md`](lures/jerkbaits.md):
+
+| Time | Where the fish are | Program |
 | --- | --- | --- |
-| Low light, early/late | Fish rise **30–40 ft** to eat on the surface | **170-size jerkbait** cast tight to visible shoreline rock ([`lures/jerkbaits.md`](lures/jerkbaits.md)); white, bright *or* dark all get bit |
-| Sun up | Shallow-to-mid, off the tightest rock | Drop to **150-size** (or Mag Minnow class), switch to bright/metallic/flashy; work toward the **"dark spot"** — a dark patch off the visible rocks that is submerged rock, and holds the **bigger** fish once the sun is up |
-| ~9–10 am on | **60–80 ft** | **Yo-yo iron** — Salas 6X, 6X Jr, 60 g jig paras or Krocodile; cast, hit bottom, **burn it straight back to the boat** (not a hop-on-bottom rockfish retrieve) ([`techniques/yo-yo-iron.md`](techniques/yo-yo-iron.md)) |
-| ~11 am–3 pm | **80–150 ft** | Heavier iron — Salas 6X, Tady 40, or 7X class; burn **30–40 cranks** off the bottom, let it settle back, repeat — bites usually come **within 5–10 cranks** of picking it back up |
+| Low light, early/late | Tight to visible shoreline rock; will rise **30–40 ft** to eat a surface-fished jerkbait | **170-size jerkbait** cast tight to the rock (Yo-Zuri Hydro Minnow LC runs 1–3 ft, occasionally 4 ft; Current Sniper 5–7 ft, 170 only). White, bright, or dark all get bit |
+| Sun up | Off the tightest rock, toward the "dark spot" — a dark patch a little further off the visible rocks is submerged rock, and it holds the **bigger** fish | Drop to **150-size** or Mag Minnow; bright / metallic / flashy |
+| ~9–10 am on | **60–80 ft** | **Yo-yo iron**: Salas 6X, 6X Jr, 60 g jig paras, Krocodile. Cast, hit bottom, then **burn it straight back to the boat** — not a rockfish hop |
+| ~11 am–3 pm | Bigger fish at **80–150 ft** | Heavier iron — Salas 6X, Tady 40, 7X-class. Burn **30–40 cranks** off bottom, settle back, repeat; bites usually come within **5–10 cranks** of picking it up |
 
-Structure rule: target **"snaggy," not sandy** — bull rocks, pinnacles, boulder slides; a **boiler rock** is the easiest visual target, and bottom **color changes** tell you reef vs. sand vs. submerged boiler. With two anglers, **split the cast** — one at the visible shoreline rock, one parallel to the submerged rock further out.
+Gear: two jerkbait rods side by side, medium-light and medium-heavy, both **7'10"–8 ft, ~50 lb class**, "a crankbait rod on steroids"; low-profile level-wind at **6.5:1–7:1+** (you're making ~2–3 casts/min all day and a non-level-wind will fatigue you into backlashes). Light outfit **65 lb braid → 50 lb mono top shot**; heavy outfit **80 lb braid → 80 lb leader**. Bring a **spare 300 yd one-shot of braid** — the cast volume wears braid through the guides. Trebles: **1/0 extra-strong wire** ([`tackle/hooks.md`](tackle/hooks.md), `dEPuDrhoClM`). Note the unreconciled drag split in the note: Cesar runs the star **locked to its stop** paired with a slower-bending rod as the shock absorber; Ray Sharifi backs the drag off and runs a faster-action rod. Both are on the table; pick by which rod you're holding.
 
-Two notes on timing for a September trip specifically: the **micro-bait window is fall into winter, roughly October on**, when Cortez baitfish shrink to **1–1.5 in** and you downsize both programs — mid-September is *ahead* of that, so run the standard sizes and keep the downsize as the slow-bite fallback.
-
-Gear ([`species/cabrilla.md`](species/cabrilla.md), [`tackle/rod-and-reel-selection.md`](tackle/rod-and-reel-selection.md)): two jerkbait rods side by side, medium-light + medium-heavy, **7'10"–8 ft, ~50 lb class**, "a crankbait rod on steroids"; **low-profile level-wind at 6.5:1–7:1+** because the program is **2–3 casts/min** all day; light outfit **65 lb braid → 50 lb mono top shot**, heavy outfit **80 lb braid → 80 lb leader**. Bring a **spare 300 yd braid spool** — cast volume wears braid through the guides. Drag doctrine is an unresolved conflict kept side by side: **Cesar runs the star drag locked to its stop** paired with a slower-bending rod as the shock absorber; **Ray Sharifi backs the drag off** and runs a faster-action rod. Both are attributed philosophies for the same fishery — the choice turns on which component you want absorbing the strike, not on which is "right."
+And the other half of a September BOLA day, from your own attributed doctrine: **yellowtail are on the bottom** that time of year at BOLA — dropper loops and yo-yo iron to marks on the high spots, with slow-pitch/knife jigs **130–250 g** in the **150–300 ft** band (bit best **150–180 ft**) ([`seasonal/september.md`](seasonal/september.md), [`species/yellowtail.md`](species/yellowtail.md), `vqsD0qpwcJA` / `Jtf-bU4aM-c`).
 
 ---
 
-## What is actually fishable out of Mission Bay this weekend
+## This weekend out of San Diego: fish calicos, which is the same game
 
-I have **no conditions for this weekend** — you didn't give me any and I'm not allowed to invent them. Step 1 of [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md) is to pull **BightSST per spot and along the transit route — observed *and* forecast SST, chlorophyll, wind/swell/current** (read endpoints are open, expect 30–60 s Render cold starts), and to **distrust single-source SST extremes** and cross-check models. Everything below is the priors layer, which weights zones *before* you do that.
+The closest thing the Bight has to the cabrilla program isn't a substitute I'm inventing — the sources make the link themselves. The Gonzaga Bay crew described their cabrilla/pargo program as **"real similar to Calico fishing"** (`_Wb4z4ammoM`), and said the wolf-pack grouper and cabrilla on that structure behaved **"just like calicoes"** (`A6s-A1NARuA`). Same close-structure casting, same reaction retrieve, same rock. Out of Dana Landing on Sept 12–13 that's **La Jolla and Point Loma kelp, and the Coronados** (~13 mi from San Diego, in Mexican waters — see gaps).
 
-**The closest thing to a cabrilla day that exists here is calico bass.** That isn't a hand-wave: the KB's own Sea of Cortez source describes the wolf-pack grouper and cabrilla they caught on rocky points as behaving **"just like calicoes"** (StokedOnFishing, `A6s-A1NARuA`, Gonzaga Bay), and [`tackle/rod-and-reel-selection.md`](tackle/rod-and-reel-selection.md) files the cabrilla jerkbait build under the same "close-structure cabrilla/calico-style casting application." Same idea — a structure-ambush fish pulled off rock with a fast reaction retrieve.
+Timing per [`species/calico-bass.md`](species/calico-bass.md): calico are a year-round coastal fishery that peaks in the warm months, and **the warm-stable regime is the core kelp season**. [`seasonal/september.md`](seasonal/september.md) puts mid-September in **warm stable (late)**, so you are still inside it.
 
-The calico program ([`species/calico-bass.md`](species/calico-bass.md), [`locations/bass-structure.md`](locations/bass-structure.md)) — kelp beds, reef, boiler rocks, breakwalls and island structure from the coast out:
+**Read the water, not the tide clock.** Calico are current-driven and largely tide-indifferent — the opposite of harbor spotted bay bass. The parallel-current rule governs: current running **parallel** to the shoreline makes the edge fishable; **into** the beach is marginal; **off** the beach is garbage — skip it. Diagnose it off the kelp itself: pulled **20 ft under** = raging, surface presentations dead; **laid down** = strong; **resurfacing** = slacking, go back on top ([`conditions/current-diagnostics.md`](conditions/current-diagnostics.md), [`conditions/current-structure.md`](conditions/current-structure.md)).
 
-- **Current, not tide, is the switch.** Calico are current-driven and largely tide-indifferent. Current running **parallel** to the structure makes the edge fishable; **into** the beach is marginal; **off** the beach is garbage, skip it.
-- **The edge is the spot** — the biting fish sit on the **up-current / leading edge**; they face into the current and ambush from the front (Benny Florentino, `Rwy4MqeXCIU`). Hit three or four sides of a kelp head and you know in two or three casts.
-- **Read the current off the kelp itself:** pulled **20 ft under** = raging, surface presentations dead, go subsurface; **laid down** = strong; **resurfacing** = slacking, go back on top.
-- **Covering water is the method:** 10–25 casts to the prime edge, then move 100 ft or 100 yards. Beds re-bite — come back later.
-- **On the meter:** calico mark tight to kelp/structure edges and hard bottom; working depths run the **outside kelp edge ~50 ft in to ~25 ft**, and they'll rise **10–15 ft off 80–100 ft of reef** to eat a crankbait or sunk iron. A solid unbroken bait wall usually has no predators on it; broken, harried bait does.
-- **Moon caveat:** on a clear full moon they gorge at night and **shut down by mid-morning** — bite first light, then dead until late day. Check the phase before you pick a departure time.
-- **Birds:** cormorants diving *in* the kelp is the calico tell, better than gulls inshore.
-- **Presentations:** weedless **7" slug on a 3/8–3/4 oz keel-weighted spring hook** on short targeted casts to individual stringers, fast steady wind, pause on the eat; an **open slug** bombed and skittered with a 1-2-3 pause to call fish off the stringers; **surface iron** ground along the kelp line for bigger cruising fish with current up; **flylined** sardine/mackerel when they're deeper on the edge or it's windy; **chum-and-anchor** — chum the spot, reposition up-current, back down onto it as the anchor sets, fish come out of the kelp as it goes down (`RXNebDr4j7s`).
-- **Gear class:** 7–9 ft **graphite-composite bass class**, 200–300 size reel, **30–65 lb braid**, heavy **40–65 lb fluoro** leader for kelp abrasion; **jig-stick class** for the surface iron.
-- **Legal:** calico (kelp bass) minimum **14 in** — California/CDFW, as of 2026-08, `r6j5w40fVHI`. **Verify current regs before you go.**
+**Where on the head.** The biting fish sit on the **up-current / leading edge** — calico face into the current and ambush from the front (`Rwy4MqeXCIU`). "Hit three or four sides of it and you know in two or three casts." Working depths: the **outside kelp edge ~50 ft in to ~25 ft**, and they'll rise **10–15 ft off 80–100 ft of reef** to eat a crank or a sunk iron. A green-stained, near-opaque color with **5–10 ft of visibility** is the preferred read — the stain gives them a place to hide and they feed up more freely (`9xNhdu2aBqE`). Cormorants diving *in* the kelp is your best bird tell ([`conditions/bird-reading.md`](conditions/bird-reading.md)).
 
-**Sand bass** mix into the same water — one North County San Diego session near Camp Pendleton found them mixed with calico on hard bottom with kelp not reaching the surface at **~40–42 ft**, same 14 in size limit (`HMdrP4-i9MM`, 2022-10-11) — but note their event is the **early-summer spawn on the flats (late June–July)**, so mid-September is off that peak ([`species/sand-bass.md`](species/sand-bass.md)).
+**Rotation for the weekend:**
 
-**Offshore, if the water's right and the boat's up for it** — mid-September is the **late warm-stable regime** ([`seasonal/september.md`](seasonal/september.md)):
+- **Weedless swimbait** — 7" slug on a **3/8–3/4 oz keel-weighted spring hook**, short targeted casts to individual stringers, fast steady wind, pause on the eat. **7–8 ft graphite-composite bass class, 40–60 lb**, soft glass tip, **40–65 lb fluoro** leader for kelp abrasion.
+- **Open slug on top** when you need to call fish off the stringers from a distance — bomb cast, skitter with a 1-2-3 pause, 8–9 ft bass class.
+- **Surface iron on a jig stick** for the bigger cruising fish when the current is up — steady grind along the kelp line, change kick and speed to the bite.
+- **Chum-and-anchor** if you want to sit one edge: chum the spot, reposition up-current, back down onto it as the anchor sets — fish come out of the kelp as the hook goes down (`RXNebDr4j7s`).
+- **Covering water is the method:** 10–25 casts to the prime edge, then move 100 ft or 100 yards. If they're not on the prime spot they're usually not in the bed. Beds re-bite — come back later.
 
-- **Dorado** are the most San Diego-friendly offshore target: **~15 mi off San Diego** is the typical big-concentration zone (`E4vKwRaRueA`), though by the late warm-stable phase (September) they're described as **open-water schools below/backside Catalina** (`5to3Q5P7w90`). They ride the **cold-green-on-the-beach / warm-blue-offshore boundary**, reference band **~71–72 °F** (71.6 °F on a productive paddy). A Mission Bay run once read exactly that: **69 °F near the harbor climbing to 71–72 °F at roughly 7–13 nm** (`uyjTdgIw-1k`). Structure is **kelp paddies** — and the best paddy water is **south of Clemente/Catalina and the Dana Point–Oceanside-and-south coastal strip** ([`locations/bight-geography.md`](locations/bight-geography.md)), which is your water.
-- **Yellowfin** — the September prior is **volume near the border sliding north with the warm water**; the search rule is **warmest water crossed against your chlorophyll chart for the cleanest** (SST-max × chlorophyll-min) ([`species/yellowfin-tuna.md`](species/yellowfin-tuna.md)).
-- **Bluefin grade** sits in the **"volume square" — Santa Barbara Island / San Nicolas / Clemente / Catalina** in September ([`seasonal/september.md`](seasonal/september.md), [`locations/zone-lexicon.md`](locations/zone-lexicon.md)). That's a long way north of Mission Bay and is a region to work through for hours, not a spot to check.
-- **Yellowtail** on **La Jolla and the SD offshore banks** is real but the KB calls it **strongest warming-transition into warm-stable (spring–summer)**, so mid-September is past that peak; **coastal kelps LA to San Diego** hold kelp-line yellows in the warm-stable regime, surface iron along the edge being the classic ([`species/yellowtail.md`](species/yellowtail.md)). The **Coronados** are the nearest island structure — **~13 mi from San Diego, off Mexico**, "synonymous with yellowtail" (`D5DR7Kx42_A`) — but they run **"seeing-not-biting" cycles with narrow daily windows** (`YZtX1MiT0y8`); anchor those days to tide and current, not the clock. If you're marking fish on the hard bottom / pinnacles at **~5–10 fathoms**, that's the **yo-yo iron** row: heavy full-size iron (Salas 6X class), hit bottom, **a couple cranks off the bottom is the reaction bite**, or a dropper loop to the same marks.
-- **Rockfish** is open (the recreational season closes year-end, CDFW, as of 2026-08 — verify current dates and depth limits). Out of San Diego that's the **deep 300–900 ft** banks and coastal deep rock for reds/vermilion; the shallow **100–250 ft island variety day — blue bass, bocaccio, lings on one rock — is a Channel Islands thing you do not get in San Diego** (`6-8KfjEg0x8`) ([`species/rockfish-lingcod.md`](species/rockfish-lingcod.md)).
+**Legal size: 14 in, California / CDFW, as of 2026-08 — verify current rules before you go** ([`species/calico-bass.md`](species/calico-bass.md), `r6j5w40fVHI`). Expect **barred sand bass mixed in** on the same hard bottom; a North County San Diego trip logged them together over hard bottom with kelp not reaching the surface at **~40–42 ft**, same 14 in size called out on camera ([`species/sand-bass.md`](species/sand-bass.md), `HMdrP4-i9MM`).
 
-**Bait** ([`bait/making-bait.md`](bait/making-bait.md)): buy sardines at the barge when available, or make mackerel on a sabiki — the Coronados, or **La Jolla during shortages** — dropped to **~100 ft on an 8 oz sinker** (five 12-inch mackerel on one drop is the benchmark, `cameron`). If you're buying, **avoid the 6:00 am rush** when every 3/4- and half-day boat loads; go **5:00 or 7:00 am**, hail the barge on **VHF 11**, and ask for it loaded light (`7WapaxdtjQg`).
-
-**Boat and gear resolution** (against [`profiles/cameron/`](profiles/cameron/), the only profile in the KB — say so if this isn't your profile and I'll drop to class terms): Panga Marine Marquesas 22, single 115 hp Yamaha, **tops ~35 kt**, launches Dana Landing, normal departure **~8 am**, no trim tabs, 30-gal bait tank, 100–125 lb ice. For the structure program you already own the pieces: the **Torium 20HG on the Phenix Abyss 10' 25–60 lb / 50 lb braid** is the surface-iron setup, and the **Trinidad 40 on the 8'0" XH 40–80 lb / 80 lb braid** with the owned **Salas 6X** is the yo-yo setup. The **Lexa 400 (Okuma PCH 9'0" H, 20–60 lb, 50 braid)** or the **Tranx (Phenix M1 Inshore 8'2" H, 20–45 lb)** is the closest thing you have to the 7–9 ft bass-class casting rod the calico program wants.
+**If you'd rather run offshore instead**, [`seasonal/september.md`](seasonal/september.md) says what the month holds: dorado in **open-water schools below Catalina** (not on structure), yellowfin volume near the border sliding north with the warm water and bluefin sliding with them, and the "volume square" (SBI–San Nicolas–Clemente–Catalina) holding the bigger bluefin — that last one is well outside a panga day from Mission Bay. The realistic one for you is dorado: **~15 mi off San Diego** is the typical big-concentration zone, on **kelp paddies**, where cold green beach water butts against warm blue, reference band **~71–72 °F** (71.6 °F on a productive paddy, `E4vKwRaRueA`). And paddy water is not evenly spread — best **south of San Clemente/Catalina and along the Dana Point → Oceanside strip and southward**; thin north of Dana Point (`HzE4FHHcvTk`).
 
 ---
 
-## Bottom line
+## Before you commit: pull conditions
 
-Fish **structure out of Mission Bay this weekend** — coastal kelp and reef for calico (and mixed sand bass), with the Coronados as the island option if the water and the Mexican paperwork are sorted, and dorado on the 71–72 °F break at 7–15 mi if BightSST says the warm blue water is in reach. Save the cabrilla program for the BOLA trip, where the KB actually has doctrine for it. Pull the BightSST numbers before you commit to a zone — none of the above is today's water.
+I have no live water for Sept 12–13, 2026 — no BightSST access in this session and you didn't give me any, so nothing above is weighted to actual conditions. Per [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md), step 1 is per-spot SST + chlorophyll and wind/swell/current, observed **and** forecast, for each zone and along the transit route. Distrust single-source SST extremes and cross-check models — there's a known `goes_west_composite` window discrepancy and a cloud-contaminated 96.6 °F NRT max on record. One boat-specific note from [`conditions/sea-state.md`](conditions/sea-state.md): the **San Diego Bay entrance is open to swell** on your own chart work — worth a look before a Coronados run in a 22 ft panga.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/cabrilla.md`, `species/calico-bass.md`, `species/sand-bass.md`, `species/yellowtail.md`, `species/dorado.md`, `species/yellowfin-tuna.md`, `species/rockfish-lingcod.md`, `seasonal/september.md`, `locations/bight-geography.md`, `locations/zone-lexicon.md`, `locations/bass-structure.md`, `techniques/yo-yo-iron.md`, `tackle/rod-and-reel-selection.md`, `lures/jerkbaits.md`, `lures/iron-jigs.md`, `bait/making-bait.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/tackle.md`, `profiles/cameron/spots.md`  
-*videos:* `EmZO8QiOfik`, `A6s-A1NARuA`, `ldVj0BoB-kE`, `Zo92MG459gQ`, `E4vKwRaRueA`, `5to3Q5P7w90`, `uyjTdgIw-1k`, `D5DR7Kx42_A`, `YZtX1MiT0y8`, `r6j5w40fVHI`, `Rwy4MqeXCIU`, `RXNebDr4j7s`, `HMdrP4-i9MM`, `6-8KfjEg0x8`, `7WapaxdtjQg`, `kwMIgkCtFUE`, `0KQ--N5TjqE`  
-*gaps admitted:* The KB never states cabrilla's northern range limit or whether leopard grouper occur off San Diego at all — it only ever documents them as a Sea of Cortez / Bay of LA (and, as 'grouper/cabrilla', Cedros Island) fishery, so 'no' here means 'the KB has no basis for it', not 'the KB says they are absent'. | No cabrilla regulations of any kind (Mexican or CDFW) are in the KB — no season, size, bag limit, or jurisdiction stamp. | The KB has no coverage of Mexican fishing licences, tourist permits, or the paperwork needed to fish the Coronado Islands or Mexican waters out of San Diego (it only mentions in passing that a Cedros charter obtained permits in Tijuana). | No conditions were supplied for this weekend and the KB holds no live data — SST, chlorophyll, wind, swell, current, tide and moon phase for 2026-09-12/13 all have to come from BightSST, which I cannot call. | The September priors note carries no coastal calico/sand-bass entry — its lineup is offshore (bluefin volume square, dorado below Catalina, yellowfin sliding north) plus BOLA bottom yellowtail, so the mid-September inshore-structure read is inferred from the calico note's year-round/warm-months framing rather than a September-specific source. | The KB names no specific calico or rockfish spots for the San Diego area — locations/ holds universal structure knowledge only, and the calico note's 'where' list does not name the Coronados or La Jolla. | Cameron's tackle profile lists only hard baits, irons and jigs — it records no soft-plastic swimbaits, weedless slugs, keel-weighted spring hooks or leadheads, which is what the calico program calls for; and no jerkbaits in the 150/170 sizes the cabrilla program uses. | Two micro-lure names in the cabrilla source's fall/winter downsizing program could not be reconstructed from the captions (logged asr-uncertain in the note), so that lineup is incomplete. | The KB gives no sonar/arc signature for cabrilla specifically — only the visual structure and 'dark spot' read. | No transit distance or run time is recorded from Mission Bay to the September bluefin 'volume square', so I cannot say whether it is inside the Marquesas 22's practical day range.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/cabrilla.md`, `species/calico-bass.md`, `species/sand-bass.md`, `species/yellowtail.md`, `species/dorado.md`, `species/pacific-crevalle-jack.md`, `seasonal/september.md`, `lures/jerkbaits.md`, `lures/iron-jigs.md`, `techniques/yo-yo-iron.md`, `techniques/flyline.md`, `techniques/dropper-loop.md`, `techniques/sliding-sinker.md`, `techniques/trolling.md`, `techniques/slow-pitch-jigging.md`, `tackle/hooks.md`, `tackle/line-and-leader.md`, `tackle/rod-and-reel-selection.md`, `tackle/gear-classes.md`, `rigging/trap-rig.md`, `bait/making-bait.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `locations/bightsst-eval-targets.md`, `conditions/sea-state.md`, `profiles/cameron/boat.md`, `profiles/cameron/spots.md`, `species/README.md`, `lures/README.md`, `locations/README.md`  
+*videos:* `EmZO8QiOfik`, `dEPuDrhoClM`, `M8hOYQ_6rSg`, `_Wb4z4ammoM`, `A6s-A1NARuA`, `ldVj0BoB-kE`, `Zo92MG459gQ`, `5to3Q5P7w90`, `E4vKwRaRueA`, `HzE4FHHcvTk`, `r6j5w40fVHI`, `Rwy4MqeXCIU`, `9xNhdu2aBqE`, `RXNebDr4j7s`, `HMdrP4-i9MM`, `vqsD0qpwcJA`, `Jtf-bU4aM-c`  
+*gaps admitted:* The KB contains no note placing cabrilla anywhere in SoCal / San Diego waters — and it also never explicitly states that cabrilla are absent north of the border, so I can only report zero SoCal coverage, not a documented absence. | No cabrilla month-by-month seasonal or location pattern exists beyond the single 'roughly October on, bait shrinks to 1–1.5 in' micro-bait shift; there is no September-specific cabrilla entry. | No cabrilla sonar signature is documented anywhere in the corpus — species/cabrilla.md says so explicitly; only the visual boiler-rock / bottom-color / 'dark spot' read is covered. | No travel logistics for reaching cabrilla water: the KB gives no drive time, run distance, border-crossing procedure, or launch/panga-charter detail for BOLA or Gonzaga Bay. | No Mexican fishing license, permit, or FMM requirements are covered — the only permit mention in the whole corpus is an incidental note that a Cedros charter's permits were obtained in Tijuana. This matters for the Coronado Islands option, which is in Mexican waters. | No live conditions for Sept 12–13, 2026 — no BightSST access in this session and none supplied in the prompt, so no SST, chlorophyll, wind, swell, or current weighting was applied to any zone. | No tide tables or moon phase for the weekend of Sept 12–13, 2026, so the moon-driven calico bite-window rule (full-moon nights = bite early, dead by mid-morning) could not be applied. | seasonal/september.md carries no inshore-bass priors at all — the September calico guidance here is inferred from the regime label ('warm stable, late') plus the year-round/warm-months statement in species/calico-bass.md, not from a September-specific source. | No note gives boat-range or sea-state limits for a Coronados or 15-mile-offshore run in a Panga Marquesas 22; profiles/cameron/boat.md lists platform facts and home waters but no stated range figure or sea-state ceiling.
 
 </details>
 
 <details><summary><b>B3 — batch 3</b> · 12/12</summary>
 
-# Short answer: no — not out of San Diego. Cabrilla are a Sea of Cortez fish.
+## Short answer: no — not out of San Diego, and not on a weekend
 
-Cabrilla (leopard grouper) is region-gated in this KB to `regions: [cortez-north, cortez-south]` — the Sea of Cortez, both sides of the 28°N state line (`species/cabrilla.md`, `locations/regions.md`). A weekend day out of San Diego is a `socal-bight` envelope, and under step 1b of `planning/day-plan-protocol.md` a note whose `regions` doesn't contain the day's region is **never offered** — not ranked lower, not offered with a caveat.
+Cabrilla (leopard grouper) is a **Sea of Cortez fish**. In this KB it is gated `regions: [cortez-north, cortez-south]`, `waters: [nearshore-coast, island]` (`species/cabrilla.md`) — it carries no `socal-bight` label, and the generated species index badges it **[Baja only]** (`species/README.md`).
 
-This is not me being pedantic. Your exact question is the named failure case the protocol was written to stop:
+This is not a technicality. It's the KB's own worked example of the mistake: the day-plan protocol says a Mission Bay plan can route to cabrilla, "whose situation table opens with 'low light, tight to shoreline structure → jerkbaits, cast tight to the rock.' That reads perfectly for a SoCal jetty at dawn, and the fish lives 400 miles away in the Sea of Cortez" (`planning/day-plan-protocol.md`, step 1b; same passage in `locations/regions.md`). The region gate is binding — a note outside the day's envelope is never offered, not offered with a caveat.
 
-> "…a day plan for a Mission Bay jetty could route to cabrilla, whose situation table opens with 'low light, tight to shoreline structure → jerkbaits, cast tight to the rock.' That reads perfectly for a SoCal jetty at dawn. The fish is 400 miles away." — `locations/regions.md`, echoed in `planning/day-plan-protocol.md`
-
-So: this weekend (Sept 12–13, 2026) out of San Diego, cabrilla is off the table. Below is (A) where cabrilla actually live and what it takes to get on them, and (B) what the KB says to do instead if you're staying home this weekend.
+**Before anything else:** I have no live water. Step 1 of the protocol is to pull BightSST per-spot SST/chlorophyll plus wind/swell/current, observed and forecast (`planning/day-plan-protocol.md`, `config/endpoints.md`), and I can't reach it here and you didn't give me conditions. Everything below is the **priors layer**, not intel for Sept 12–13. Step 1b also needs your boat's `range_nm` and `sea_state_max_ft` to decide whether island/bank water is even in the envelope — with no profile I'm limited to gear-class terms.
 
 ---
 
-## A. Where you'd actually go for cabrilla — and why it isn't a weekend
+## If you actually want cabrilla, here is where it lives
 
-The KB documents three ways into the Sea of Cortez cabrilla fishery (`locations/sea-of-cortez.md`), and none of them is a two-day trip out of San Diego.
+Three genuinely different trips (`locations/sea-of-cortez.md`), none of them a San Diego weekend:
 
-**1. Bahía de los Ángeles (BOLA) — the drive-in day-panga fishery** (`locations/bahia-de-los-angeles.md`, `cortez-north`)
+| Access | What it is |
+| --- | --- |
+| **Bahía de los Ángeles (BOLA)** | Drive down, hotel, day-boat pangas |
+| **San Felipe mothership** | Week-to-ten-day live-aboard carrying its own pangas (Tony Reyes-style) |
+| **Loreto / Puerto Escondido** | Fly in; island fishery, different species mix |
 
-- **~8 hours' drive from San Diego** without stops, 9–10 h at a relaxed pace: SD → Calexico 1.5–2 h, Calexico → San Felipe 2 h, San Felipe → Gonzaga Bay 2 h, Gonzaga → BOLA 2 h. One crew's real door-to-door was 06:30 to 17:31 — an **11-hour travel day** (`T3cEQUqiH8E`). It's all paved (`wX7jUycIJ-U`).
-- **The documented trip shape is 4 days** — 4 days of driving/travel, 3 nights, **2 fishing days** — at **$800–1,000 per person all in** (~$250/day) splitting shared costs across a group of 13. **Panga $550/day plus ~$100 tip.** Hotel (Costa del Sol) ~$90–120/night (`P36VGPPf120`).
-- **Paperwork (Mexico — INM for entry, CONAPESCA for fishing; as reported 2026-08-06 — verify current before you travel, this is a foreign jurisdiction):** FMM tourist permit filled out online and **printed**, Mexican fishing licence bought online (new website as of 2026 — search fresh, don't trust an old bookmark), passport. Vehicle insurance is separate and mandatory in practice — **Baja Bound** named; ~$90 for a 2021 car, ~$130 for a newer Tacoma on a 4-day.
-- **No cell service** through the desert, at Gonzaga or at Bahía. Travel in a group, **minimum two vehicles**. Buy all tackle and food before you cross — prices run roughly double past the border, and "there's no tackle shop to really speak of" (`odiIWmut6gM`).
-- **Day shape:** wake ~04:30, depart 05:30, boat picks you up in front of the hotel. One captain's stated day-order is **cabrilla first thing, then move after roughly two hours for yellowtail and snapper** (`odiIWmut6gM`). Cabrilla and yellowtail sit in different areas — you pick a target for the day.
+**BOLA is ~8 hours' drive from San Diego** — 9–10 at a relaxed pace, and one documented crew left 06:30 and reached the hotel at 17:31, an 11-hour travel day (`locations/bahia-de-los-angeles.md`, `T3cEQUqiH8E`). Leg by leg: San Diego → Calexico 1.5–2 h, Calexico → San Felipe 2 h, San Felipe → Gonzaga 2 h, Gonzaga → BOLA 2 h. Budget from that note: **$800–1,000 per person all-in for a 4-day trip (3 nights, 2 fishing days)**, panga **$550/day plus ~$100 tip**, hotel **$90–120/night**. Paperwork (Mexico — INM for entry, CONAPESCA for fishing; as reported 2026-08-06, **verify current before you travel**): FMM tourist permit printed, Mexican fishing licence, passport, plus Mexican vehicle insurance in practice — Baja Bound named, ~$90 for a 2021 car, ~$130 for a newer Tacoma. No cell service through the desert or at the bay. Buy all tackle before you cross; prices past the border run roughly double and there is no real tackle shop (`odiIWmut6gM`).
 
-**2. San Felipe mothership (Tony Reyes-style)** — **a week to ten days** aboard a live-aboard carrying pangas, relocating overnight (one relocation was an 8–9 hour run, `aT-fL7vaavY`). Categorically not a weekend, and weather governs it — one crossing ran 12–15 ft rollers and the pangas stayed on deck (`locations/sea-of-cortez.md`).
+**And mid-September is not the cabrilla window even there.** BOLA's season table (`locations/bahia-de-los-angeles.md`, `P36VGPPf120`, unregistered channel — medium confidence): prime is **May–June**, with end-April → early June called the good window; **"July on — everything starts to go down,"** water heats and **fish drop out of the surface program**; **August–October is the late-season play for dorado, marlin, sailfish and occasionally tuna**, not the shallow cast-and-wind game. The mechanism is that the fish sound — you move to dropper loop, live bait, yo-yo iron and knife jigs, "anything heavy on the bottom." That independently matches Cameron's own September BOLA read: the yellowtail are **on the bottom**, fished with dropper loops and yo-yo iron (`seasonal/september.md`, source `cameron`).
 
-**3. Loreto / Puerto Escondido** (`locations/loreto.md`, `cortez-south`) — **the only fly-in option in the KB**: one documented trip flew out of **CBX** (the San Diego–Tijuana airport bridge) rather than driving (`ikiXx9sUsoA`). Cabrilla there come **shallow, 5–10 ft, on a suspending jerkbait**, off islands like Isla Monserrat ("Monserrat north end is the best") and Six Mile Reef (`n4nMCLLW3tY`). The KB gives no flight times, frequency, or cost for CBX→Loreto, so I can't tell you whether that compresses into a weekend.
+**Loreto** is the one you can fly to — out of **CBX (Cross Border Xpress)** rather than driving (`locations/loreto.md`, `ikiXx9sUsoA`). Cabrilla there come shallow, **5–10 ft, on a suspending jerkbait**. But that note is explicit that **season data is thin — no month-by-month Loreto calendar exists in this corpus, and you must not borrow BOLA's table for it** (different latitude, different species mix). There is one September shoreline session on record (`0b0PDLVh-T4`) and that's it.
 
-### What mid-September means for a cabrilla trip
-
-The cabrilla note itself gives **no month-by-month location pattern** — only a bait-driven shift: **fall into winter, roughly October on**, Sea of Cortez baitfish shrink to about **1–1.5 in** and cabrilla key hard on that micro-bait, so you downsize both the jerkbait and iron programs (`species/cabrilla.md`, `EmZO8QiOfik`). Mid-September sits just ahead of that window; downsizing is still the reliable slow-bite fallback any time.
-
-The BOLA seasonal table (`P36VGPPf120`, unregistered channel — medium confidence, and the hosts say outright they can't give "a hard fast answer") reads **July on: "everything starts to go down," water heats and fish drop out of the surface program**, with **August–October the late-season play for dorado, marlin, sailfish and occasionally tuna**. Prime is May–June. Cameron's own September BOLA program is consistent: the fish are **on the bottom**, worked with **dropper loops and yo-yo iron** (`seasonal/september.md`). Treat the table as a prior, not a forecast — the 2026 season ran against the pattern.
-
-### The cabrilla program itself, when you do go (`species/cabrilla.md`, `lures/jerkbaits.md`, `EmZO8QiOfik`)
-
-- **Structure is everything — target "snaggy," not sandy.** Boiler rocks (rock showing itself at the surface), pinnacles, boulder slides. Read bottom color changes. Once the sun is up, the **"dark spot"** — a dark patch a little off the visible rock — is submerged structure and holds the **bigger fish**.
-- **Depth moves through the day:** fish rise **30–40 ft** to eat a surface-fished jerkbait early; by ~9–10 am they're at **60–80 ft**; by 11 am–3 pm the bigger fish are **80–150 ft**.
-- **Low light, tight to shoreline rock:** jerkbait, **170 size** (Yo-Zuri Hydro Minnow LC runs 1–3 ft; Current Sniper 5–7 ft, 170 only). After ~9–10 am drop to **150** or the Mag Minnow, brighter/metallic colors.
-- **Mid-morning on:** yo-yo iron — Salas 6X, 6X Jr, 60 g jig paras, Krocodile — cast, hit bottom, then **burn it straight back**, not a hop-on-bottom rockfish retrieve. Midday: heavier iron (6X, Tady 40, 7X class), **burn 30–40 cranks off the bottom, settle back, repeat — bites usually come within 5–10 cranks** of picking it up.
-- **Gear class:** two jerkbait rods side by side, medium-light and medium-heavy, **7'10"–8 ft, ~50 lb class** ("a crankbait rod on steroids"); **low-profile levelwind at 6.5:1–7:1** because the program is ~2–3 casts/min; **65 lb braid to 50 lb mono top shot** on the lighter outfit, **80 braid to 80 lb leader** on the heavier. Yo-yo: stout 40–60 lb class, high-speed reel. Bring a spare 300 yd braid spool.
-- **80 lb is about the rocks, not the fish** — fish get taken in **six feet of water** there: "I see now why we fish 80 — I think we would have lost a lot of them already" (`8IRONtdkceM`). Grade ran **12–15 lb** on that trip.
-- **A pause placed next to the rock is the trigger:** "when I get really close to a rock with a jerkbait I'll go, and then pause for a half second… and on that pause they just launch out of the water for it" (`ts9rJgxjmSg`).
-- **Doctrine kept side by side, unreconciled:** Cesar fishes the jerkbait drag **locked down** with a slower, softer rod to absorb the shock; Ray Sharifi fishes the drag **backed off** with a faster-action rod. The choice turns on which end absorbs the strike — rod or drag — not on which is "right."
+One timing note if you do book a Cortez trip: from roughly **October on**, Sea of Cortez baitfish shrink to about **1–1.5 in** and cabrilla key hard on that micro-bait — carry downsized jig paras and small-profile jerkbaits for that window (`species/cabrilla.md`, `EmZO8QiOfik`).
 
 ---
 
-## B. If you're fishing out of San Diego this weekend instead
+## What fishes like cabrilla out of San Diego this weekend
 
-The in-region equivalent is **calico bass** (`species/calico-bass.md` — `regions: [socal-bight, baja-pacific-north, baja-pacific-south]`, `waters: [nearshore-coast, island, bay-harbor]`, confidence high). The KB makes the connection itself: one angler's summary of the Sea of Cortez rock program was *"this is literally calico fishing on steroids"* (`locations/sea-of-cortez.md`, `8IRONtdkceM`). Same structure-ambush read, same cast-and-wind at boiler rock — smaller fish, lighter line, no border.
+The Cortez program *is* SoCal bass fishing scaled up — an angler on the rocks there summed it up as "this is literally calico fishing on steroids" (`locations/sea-of-cortez.md`, `8IRONtdkceM`). So the honest substitute is **calico bass**, which is gated `regions: [socal-bight, baja-pacific-north, baja-pacific-south]`, `waters: [nearshore-coast, island, bay-harbor]` (`species/calico-bass.md`).
 
-**Where:** kelp beds, reef, boiler rocks, breakwalls/jetties and island structure from the coast out to Catalina, Clemente and the Channel Islands. Fish the **edges and pinch-points** — leading edge, outside edge, isolated stringers off the main bed — not the dense middle (`locations/bass-structure.md`, `locations/breakwalls-jetties-riprap.md`, `locations/island-structure.md` are the structure notes; I did not open them beyond the router's summary).
+**Where:** kelp beds, reef, boiler rocks, breakwalls/jetties and island structure from the coast out to Catalina, Clemente and the Channel Islands. Fish the **edges and pinch-points** — leading edge, outside edge, isolated stringers off the main bed — not the dense middle (`species/calico-bass.md`, `locations/bass-structure.md`, `locations/breakwalls-jetties-riprap.md`).
 
-**When, on the day:** an hour before sunrise into early morning, and the hour before sunset — cited as the window that decides a large share of SoCal bass-tournament wins (n6yun panel, `RUuPNpK0x-s`, unregistered — medium). Bright stable light pushes fish up into the **outer canopy edge**; overcast spreads them through the column.
+**When:** year-round, peaking in the warm months; `seasonal/september.md` maps September to the **warm-stable (late) regime**, which is the core kelp season. Timing rules of thumb from the n6yun panel (`RUuPNpK0x-s`, unregistered — medium): fish the **hour before sunrise into early morning**, and the **hour before sunset**. On a bright, stable-light day calico "levitate" up into the **outer canopy edge**; overcast spreads them through the column. On a clear full moon they gorge at night and **shut down by mid-morning** (`conditions/moon.md`).
 
-**The governing read is current, not tide:** current running **parallel** to the shoreline makes the edge fishable; **into** the beach is marginal; **off** the beach is garbage — skip it (`conditions/current-structure.md` via the router).
+**The read that decides the day is current, not tide.** Calico are current-driven and largely tide-indifferent: current running **parallel** to the shoreline makes the edge fishable; **into** the beach is marginal; **off** the beach is garbage — skip it (`conditions/current-structure.md`). Read it off the kelp: pulled 20 ft under = raging, surface presentations dead; laid down = strong; resurfacing = slacking, go back on top (`conditions/current-diagnostics.md`).
 
-**Depths and temp:** most commonly worked **0–8 ft and 20–100 ft**, occasionally past 100; a stated personal-observation preference of **65–68 °F**, with fish going lethargic past ~70 (Tommy Ponce, Dana Point, `LqW32NSkObY`, 2019-03-13 — medium). Summer evening trips connect with calico staging to spawn in **40–60 ft over hard bottom** as light fades (`RUuPNpK0x-s`).
+**Depths to work:** outside kelp edge **~50 ft in to ~25 ft**; calico will rise **10–15 ft off 80–100 ft of reef** to eat a crankbait or sunk iron; summer twilight pre-spawn staging sits in **40–60 ft over hard bottom**. Solid unbroken bait usually has no predators on it — broken, harried bait does (`planning/electronics-and-sounder.md`).
 
-**Technique, closest to the cabrilla program you asked about:**
-- Kelp bed, parallel current, fish tight to stringers → **weedless swimbait**, short targeted casts, fast steady wind, pause on the eat. 7" weedless slug on a **3/8–3/4 oz** keel-weighted spring hook; 7–8 ft graphite-composite bass class, 40–60 lb.
-- Bigger cruising fish, current up → **surface iron** on a jig-stick class, steady grind along the kelp line.
-- Sparse lanes, not committing → **inshore crankbaits** through the 80–100 ft lanes.
-- Hunting a **7–10 lb** fish rather than numbers → step to **8–10 in** swimbaits on 65–80 lb braid; baits under ~5.5 in top out around 1–4 lb (n6yun Fred Hall panel, `ZoIzpyyS9xw`, 2013-03-09).
+**Technique per situation** (from the router table in `species/calico-bass.md`):
 
-**Covering water is the method:** 10–25 casts to the prime edge of a bed, then move 100 ft or 100 yards. Beds re-bite — come back later.
+- Parallel current, fish tight to stringers → **weedless swimbait**, short targeted casts, fast steady wind, pause on the eat. 7" slug on a **3/8–3/4 oz keel-weighted spring hook**, 7–8 ft graphite-composite bass class, **40–60 lb**, heavy fluoro leader (40–65 lb) for kelp abrasion.
+- Need to draw fish from distance → **open slug**, bomb cast, skitter with a 1-2-3 pause, 8–9 ft bass class.
+- Current up, bigger cruising fish → **surface iron** on a jig-stick class, steady grind along the kelp line (`techniques/surface-iron.md`).
+- Sparse lanes, not committing → **crank the 80–100 ft lanes** (`techniques/inshore-crankbaits.md`), 7–10 ft crank class.
+- Live bait around → **flyline** a sardine or mackerel, 25–40 lb (`techniques/flyline.md`).
+- Hunting a 7–10 lb fish rather than numbers → size up to **8–10 in swimbaits on 65–80 lb braid**; baits under ~5.5 in top out around 1–4 lb (n6yun Fred Hall panel 2013-03-09, `ZoIzpyyS9xw`).
 
-**Regulations (California / CDFW — verify current before you fish):** calico minimum size **14 in** (as of 2022-04-25, `r6j5w40fVHI`); bag limit **5 per day** (as of 2019-03-13 — the oldest regulatory figure in the register, explicitly flagged to re-check) — `sources/regulatory-claims.md`.
+**Method:** 10–25 casts to the prime edge, then move 100 ft or 100 yards. If they're not on the prime spot they're usually not in the bed; beds re-bite, so come back later (Landesfeind, Academy Ep. 13).
 
----
+**Regulations (California / CDFW):** calico minimum **14 in** (as of 2022-04-25) and a bag limit of **5 per day** (as of 2019-03-13 — the oldest regulatory figure in the register). Verify both with CDFW before you fish (`sources/regulatory-claims.md`).
 
-## What I could not do for this plan
+### If the wind or your boat keeps you inside
 
-- **No conditions pull.** You didn't give me any, and I have no BightSST access here, so steps 1 and 2 of `planning/day-plan-protocol.md` (per-spot SST/chlorophyll, wind/swell/current, observed and forecast) are unrun. Everything above is the **priors layer only**. Give me the water and wind for Saturday and I'll weight zones properly.
-- **No profile loaded**, so gear is in class terms per `tackle/gear-classes.md` rather than your own rods. If you tell me your boat's range and sea-state limit and what's in your rod locker, the recommendations sharpen and I'll name the gaps instead of substituting.
-- **No San Diego spot pages exist in this version of the KB.** `locations/` holds universal structure knowledge only — bass structure, bays and harbors, breakwalls/jetties, island structure, the zone lexicon — with no Point Loma, La Jolla, or Coronado Islands page. The closest thing to a San Diego-area zone read is `locations/bight-geography.md` (`HzE4FHHcvTk`), which notes the Coronados, Catalina and San Clemente **held their water** through a big NW blow that rolled the northern Channel Islands and the LA/Ventura shelf down 5–8 °F, and that the best paddy water runs **south of Clemente/Catalina and along the coast from Dana Point to Oceanside and south**. That's zone-level weighting, not a place to put the boat.
+**Spotted bay bass** in San Diego Bay or Mission Bay — `regions: [socal-bight]`, `waters: [bay-harbor]` (`species/spotted-bay-bass.md`). These are the opposite read from calico: **fully tide-driven**. Fish eelgrass edges, mooring cans, dock pilings, riprap and channel drops; set up **up-current of the structure** and re-read every spot when the tide turns. Skip the roughly **half hour either side of the high/low turn** — current all but stops — and fish the moving-water stretch instead (Roman Castro, `EGKesj7V64M`). Cast up-current across the grain of the leaning eelgrass. Programs: **Ned rig** (mushroom head + buoyant TRD on 10 lb braid / 8 lb leader), **drop shot**, a **Zoom fluke on a 1/4–3/8 oz ballhead** flipped into pilings, or crank the flats with an 8–10 ft crank class. No minimum size as of 2024-11 (`usHl-4SfqDA`) — verify with CDFW.
+
+### One thing to be careful about
+
+The **Coronado Islands** are ~13 mi from San Diego and are the closest thing to shallow-rock island bass work, but they are **Mexican water** (`species/yellowtail.md`; `species/yellowfin-tuna.md` labels them `baja-pacific-north`), so the FMM/CONAPESCA paperwork applies there too — and the KB flags Mexican licensing and entry requirements as a **known gap** outside the BOLA note (`sources/regulatory-claims.md`). The KB's Coronados material is the **spring/warming-transition** yellowtail classic with "seeing-not-biting" narrow daily windows; it gives me no September prior for that island group. And there is no cabrilla there regardless.
+
+### September priors for the offshore option, since you're launching from San Diego
+
+From `seasonal/september.md`: the **"volume square" — Santa Barbara Island / San Nicolas / Clemente / Catalina — holds the bigger bluefin** (that's well north of you); **dorado run in open-water schools below Catalina**; and **yellowfin volume near the border slides north with the warm water, with the bluefin sliding with them — follow the temperature, not last week's spot.** Paddy water is best **south of San Clemente Island / Catalina and along the coastal strip from Dana Point to Oceanside and southward** (`locations/bight-geography.md`), which is the water off your bow. Hurricane remnants are usually a non-event that breaks the heat with the fishing unaffected (9/14/22).
+
+**Tell me your boat (range, sea-state max, rod inventory) and I'll set the actual `{regions, waters}` envelope and put real gear against it instead of class terms.** And if you have live conditions for Saturday — SST, chlorophyll, wind, swell — hand them to me and I'll weight the zones properly.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `locations/regions.md`, `species/cabrilla.md`, `lures/jerkbaits.md`, `locations/bahia-de-los-angeles.md`, `locations/sea-of-cortez.md`, `locations/loreto.md`, `seasonal/september.md`, `species/calico-bass.md`, `species/README.md`, `locations/README.md`, `locations/bight-geography.md`, `sources/regulatory-claims.md`, `techniques/yo-yo-iron.md`  
-*videos:* `EmZO8QiOfik`, `P36VGPPf120`, `T3cEQUqiH8E`, `6P34jI9q1tE`, `odiIWmut6gM`, `wX7jUycIJ-U`, `ojE5H6AdGGo`, `XRIjUgpuyZ8`, `8IRONtdkceM`, `ts9rJgxjmSg`, `ZYAILGyrkRk`, `4Dn7yChmhk0`, `aT-fL7vaavY`, `BSNGeduOHYM`, `n4nMCLLW3tY`, `ikiXx9sUsoA`, `5to3Q5P7w90`, `RUuPNpK0x-s`, `LqW32NSkObY`, `ZoIzpyyS9xw`, `r6j5w40fVHI`, `HzE4FHHcvTk`  
-*gaps admitted:* No conditions were supplied and I have no BightSST access, so steps 1-2 of the day-plan protocol (per-spot SST/chlorophyll, wind/swell/current, observed and forecast) were not run — the answer is priors only. | No angler profile was supplied, so gear is given in class terms only; boat range, sea-state limit and owned rods are unknown. | The KB has no San Diego-area spot or zone pages — no Point Loma, La Jolla, Coronado Islands, or kelp-bed pages; locations/ holds universal structure knowledge only. | species/cabrilla.md carries no month-by-month seasonal/location pattern, so the KB cannot say whether mid-September is a good or bad cabrilla window at BOLA specifically — only the Oct+ micro-bait shift. | species/cabrilla.md carries a flagged stub: no sonar/meter signature for cabrilla exists in the corpus. | locations/loreto.md explicitly states season data is thin and warns against borrowing BOLA's calendar — there is no month-by-month Loreto calendar in the KB. | The KB gives no flight times, frequency, or cost for CBX to Loreto, so I cannot say whether a fly-in cabrilla trip compresses into a weekend. | No cabrilla bag limit, size limit, or Mexican-waters catch regulation appears in sources/regulatory-claims.md (only a Baja California Sur circle-hook rule and the voluntary Cedros catch-and-release agreement). | sources/regulatory-claims.md still lists Mexican licensing and entry requirements as a known gap, even though locations/bahia-de-los-angeles.md now carries FMM/licence/insurance detail from a single 2026-08-06 source — treat the paperwork detail as single-sourced and unverified. | The KB has no Coronado Islands note, so I cannot give a cabrilla-analogue structure plan for the closest island structure to San Diego. | seasonal/september.md covers the SoCal offshore lineup (bluefin volume square, dorado, yellowfin) and Cameron's BOLA bottom program, but says nothing about September inshore calico fishing specifically.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/trip-length-selection.md`, `locations/regions.md`, `locations/sea-of-cortez.md`, `locations/bahia-de-los-angeles.md`, `locations/loreto.md`, `locations/bight-geography.md`, `species/cabrilla.md`, `species/README.md`, `species/calico-bass.md`, `species/spotted-bay-bass.md`, `species/yellowtail.md`, `species/yellowfin-tuna.md`, `species/snook.md`, `seasonal/september.md`, `sources/regulatory-claims.md`  
+*videos:* `EmZO8QiOfik`, `8IRONtdkceM`, `T3cEQUqiH8E`, `P36VGPPf120`, `odiIWmut6gM`, `ikiXx9sUsoA`, `0b0PDLVh-T4`, `n4nMCLLW3tY`, `RUuPNpK0x-s`, `ZoIzpyyS9xw`, `EGKesj7V64M`, `usHl-4SfqDA`, `r6j5w40fVHI`, `LqW32NSkObY`, `ts9rJgxjmSg`, `ZYAILGyrkRk`, `4Dn7yChmhk0`, `0dNfsle54Wo`, `aT-fL7vaavY`, `BSNGeduOHYM`, `K22a8Ui8tWg`, `6P34jI9q1tE`, `XRIjUgpuyZ8`, `ojE5H6AdGGo`, `wX7jUycIJ-U`, `9a-Zy_D6c3w`, `lP6cg4eEU6s`, `s5PaKJX3VDo`  
+*gaps admitted:* The KB has no SoCal cabrilla fishery at all — cabrilla is gated cortez-north/cortez-south only, so the premise of the question (cabrilla out of San Diego) has no note behind it. | No live conditions: I could not pull BightSST SST/chlorophyll/wind/swell/current for Sept 12-13 2026, and none were supplied, so nothing here is current intel — only the priors layer. | No angler profile was given (boat range_nm, sea_state_max_ft, rod/reel inventory), so the day's {regions, waters} envelope could not be set and gear stays in class terms rather than owned gear. | The cabrilla note carries a flagged stub for sonar signature — the corpus has no sonar-arc or depth meter signature for cabrilla specifically, only the visual/structure read. | The KB has no month-by-month cabrilla location calendar; the only seasonal detail in species/cabrilla.md is the fall/winter (roughly October on) shift to 1-1.5 in micro-bait. | No month-by-month Loreto calendar exists in the corpus, and locations/loreto.md explicitly forbids borrowing BOLA's season table for it — so I cannot say whether mid-September is a good Loreto cabrilla window. | No September prior exists for the Coronado Islands specifically — the KB's Coronados material is the spring/warming-transition yellowtail pattern. | Mexican licensing and entry requirements are flagged in sources/regulatory-claims.md as a known KB gap outside the BOLA note, so the FMM/CONAPESCA detail I gave comes only from that one 2026-08-06 source and must be re-verified. | The KB has no list of San Diego landings, day-boat operators or charter bookings; planning/trip-length-selection.md covers only the one-day vs multi-day long-range format decision. | Several supporting figures come from unregistered channels and cap at medium confidence (the BOLA season table, the n6yun dawn/dusk and light-angle reads, the Dirty Hookers Sea of Cortez on-the-water material).
 
 </details>
 
-<details><summary><b>NOW — review</b> · 11/12</summary>
+<details><summary><b>NOW — review</b> · 12/12</summary>
 
-## Short answer: no — not out of San Diego, not at any time of year.
+## Short answer: no — not out of San Diego, not this weekend, not in any season
 
-Cabrilla is a **Sea of Cortez fish**, and the knowledgebase gates it that way explicitly. [`species/cabrilla.md`](species/cabrilla.md) carries `regions: [cortez-north, cortez-south]` and `waters: [nearshore-coast, island]` — the leopard grouper of the Cortez, fished from pangas out of Bahía de los Ángeles and Loreto (`dEPuDrhoClM`, `EmZO8QiOfik`, `n4nMCLLW3tY`). A San Diego day is `socal-bight` (or `baja-pacific-north` if you run to the Coronados), so under step 1b of [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md) cabrilla is **never offered** — not ranked lower, not offered with a caveat.
+Cabrilla is a **Sea of Cortez fish**. The KB gates it explicitly: `species/cabrilla.md` carries `regions: [cortez-north, cortez-south]`, `waters: [nearshore-coast, island]`. San Diego is `socal-bight`. Under step 1b of `planning/day-plan-protocol.md`, a species note whose `regions` doesn't contain the day's region is **"never offered — not ranked lower, not offered with a caveat."**
 
-This is not me being pedantic about tags. Your exact question is the failure mode the protocol was written to stop. From [`locations/regions.md`](locations/regions.md) and the protocol note itself: a SoCal day plan can route to cabrilla because its situation table opens with *"low light, tight to shoreline structure → jerkbaits, cast tight to the rock"* — which reads perfectly for a San Diego jetty at dawn, **and the fish lives 400 miles away** (cameron). The Cortez and the Pacific side are treated as different oceans in this KB for precisely this reason: cabrilla and pargo are Cortez; white seabass and calico run the Pacific side ([`locations/cortez-north.md`](locations/cortez-north.md)).
+Your question is, almost word for word, the failure this KB was built to stop. Both `planning/day-plan-protocol.md` and `locations/regions.md` use it as the worked example: a Mission Bay day plan can route to cabrilla because that note's situation table opens with *"low light, tight to shoreline structure → jerkbaits, cast tight to the rock"* — which reads perfectly for a SoCal jetty at dawn — **and the fish lives 400 miles away** (cameron).
 
-## Where you'd actually go for cabrilla
+`locations/cortez-north.md` puts the boundary plainly: *"Cabrilla and pargo are Cortez fish; white seabass and calico run the Baja Pacific, which is why the vocabulary splits the two rather than lumping them as 'Baja.'"* The Bight's own species mix in `locations/socal-bight.md` — bay bass to billfish across all five water types — contains no cabrilla and no grouper of any kind.
 
-Two documented zones, both a trip and not a weekend run from a San Diego ramp:
+---
 
-**Bahía de los Ángeles (BOLA) — the drive-in panga zone.** [`locations/bahia-de-los-angeles.md`](locations/bahia-de-los-angeles.md), [`locations/cortez-north.md`](locations/cortez-north.md). The route from San Diego is the 8 east to Calexico, cross at Mexicali, then south down the Cortez coast (`P36VGPPf120`):
+## If you actually want cabrilla, here's the real trip
 
-| leg | time |
-| --- | --- |
-| San Diego → Calexico | 1.5–2 h |
-| Calexico → San Felipe | 2 h |
-| San Felipe → Gonzaga Bay | 2 h |
-| Gonzaga → Bahía de los Ángeles | 2 h |
-| **total** | **~8 h without stops; 9–10 h relaxed** |
+It is a **road trip to a panga fishery**, not a boat day. From `locations/cortez-north.md` and `locations/bahia-de-los-angeles.md`:
 
-Door-to-door runs longer than the legs suggest — one crew left 06:30 and reached the hotel 17:31, an 11-hour travel day (`T3cEQUqiH8E`). No cell service through the desert, at Gonzaga, or at the bay; travel minimum two vehicles; top off fuel before crossing and again in San Felipe; carry everything you fish with, because there is *"no tackle shop to really speak of"* (`odiIWmut6gM`, `P36VGPPf120`). You don't use the ramp — the panga is driven to your hotel room and trailered off the beach (`odiIWmut6gM`, `P36VGPPf120`). Note the KB flags a conflict on the Calexico → San Felipe leg (2 h in one source's planning summary, ~1–1.25 h on the road, 2.5 h from a second crew).
+- **~8 hours' drive from San Diego** to the northern Cortez (`P36VGPPf120`). One crew's real door-to-door was **11 hours** — left 06:30, at the hotel 17:31, with a lunch stop in San Felipe (`T3cEQUqiH8E`).
+- **Bahía de los Ángeles (BOLA)** is the one ground the corpus documents in depth. You don't use the ramp — the panga is driven to your hotel room, loaded there, and trailered off the beach at day's end (`odiIWmut6gM`, `P36VGPPf120`). Costa del Sol runs **$90–120/night** (`P36VGPPf120`).
+- **Everything you fish with crosses the border with you.** *"There's no tackle shop to really speak of… everything is really limited, so you pack up extra. Not the trip you want to pack light for"* (`odiIWmut6gM`). No cell service through the desert, at Gonzaga, or at the bay.
+- **Timing.** `locations/cortez-north.md` carries `season_peak: [apr, may, jun]` — mid-September is not it. The one thing the corpus does peg seasonally for cabrilla is bait size: **from roughly October into winter, Cortez baitfish drop to ~1–1.5 in** and cabrilla key hard on that micro-bait, so a fall trip carries downsized lures (`EmZO8QiOfik`). Mid-September sits just ahead of that. Cortez North's `open-ocean` window — dorado, striped marlin, sailfish, occasional tuna — is given as **August–October** (`P36VGPPf120`), so a September Cortez trip is arguably better aimed at that than at the rock.
+- **The program itself** (for when you do go): jerkbaits cast tight to boiler rock at first light with fish rising **30–40 ft** to eat on top; by **~09:00–10:00** they've dropped to **60–80 ft**; under high sun **11:00–15:00** the bigger fish push to **80–150 ft** and it becomes a yo-yo iron game (`EmZO8QiOfik`). Grade runs **5–10 lb with 15s in the same schools, 17 lb best on a spring scale** (`0dNfsle54Wo`). Line: 65 lb braid to a 50 lb mono topshot on the light stick, 80 lb braid to 80 lb leader on the heavy, with **6–8 ft of leader** so a fish that reaches the rocks is pulling against leader, not braid (`EmZO8QiOfik`, `dEPuDrhoClM`).
 
-**San Felipe mothership** — a week to ten days aboard a live-aboard that carries its pangas on deck; it's an access point, not a fishing ground ([`locations/san-felipe.md`](locations/san-felipe.md), `aT-fL7vaavY`, `81YHbZQFzgk`).
+**Read that note with its flags open.** `species/cabrilla.md` is heavily fact-check-flagged: the 40–60 lb yo-yo rod class appears in neither cited transcript, and two of its headline trips (`0dNfsle54Wo`, `dEPuDrhoClM`) are San Felipe mothership footage mislabeled as BOLA. Its `confidence` is `medium`.
 
-**Loreto / Puerto Escondido — you fly in.** [`locations/loreto.md`](locations/loreto.md). One documented trip reached it through CBX, the Cross Border Xpress bridge into the Tijuana airport (`ikiXx9sUsoA`); Puerto Escondido Marina south of Loreto is the documented launch (`n4nMCLLW3tY`). Cabrilla there came off **5–10 ft** of water on a jerkbait (`n4nMCLLW3tY`).
+---
 
-**Paperwork before tackle** ([`locations/mexican-waters.md`](locations/mexican-waters.md), as of 2026-08, verify current): FMM tourist permit printed (one report of being checked three times), CONAPESCA fishing licence bought online with passport in hand, passport, and separate Mexican vehicle insurance — US policies do not carry over. **Regulatory — Mexico. INM for entry, CONAPESCA for fishing. Verify before you travel.**
+## What to fish instead this weekend (Sat 12 / Sun 13 Sept)
 
-## And the timing would be wrong even if you went
+The KB draws the analogy in both directions, so if what you want is *the cast-at-the-rock structure-ambush program*, the SoCal fish is the **calico bass**:
 
-Mid-September is not the cabrilla window. The Cortez North season table ([`locations/cortez-north.md`](locations/cortez-north.md), `P36VGPPf120`) reads:
+- `species/cabrilla.md`: cabrilla *"sit behind a boulder or against a vertical wall and ambush what passes, **the way a calico bass works structure**"* (`6P34jI9q1tE`).
+- `locations/cortez-north.md`, from the other side: an angler's summary of the cabrilla rocks is *"this is literally **calico fishing on steroids**"* (`8IRONtdkceM`).
 
-- **End of April → early June** is the good window, wind permitting; **May–June are the prime months**.
-- **July on: "everything starts to go down."** The water heats and fish **drop out of the surface program**. The mechanism is depth, not absence — you lose the surface bite and move to dropper loop, live bait, yo-yo iron and knife jigs, "anything heavy on the bottom."
-- **August–October** is the late-season play for dorado, marlin, sailfish and occasionally tuna — how hot the water gets decides it.
-- **Fall into winter (Oct+)** the Cortez baitfish drop to about **1–1.5 in** and cabrilla key hard on that micro-bait, so that trip carries downsized lures (`EmZO8QiOfik`).
+### Calico bass — `species/calico-bass.md`
+`regions: [socal-bight, …]`, `waters: [nearshore-coast, island, bay-harbor]`, `season_peak` includes **sep**. Year-round fishery that peaks in the warm months; **warm-stable (June–September) is the core kelp season**.
 
-Cameron's own September program at BOLA is the same read: yellowtail **on the bottom**, worked with dropper loops and yo-yo iron ([`seasonal/september.md`](seasonal/september.md), cameron). So the cast-and-burn jerkbait program you'd go for cabrilla to fish — 170-size early in low light, dropping to the 150 once the sun is up, 2–3 casts a minute and 500–700 casts a day (`EmZO8QiOfik`) — is exactly what mid-September takes away. **Plan that trip for late April through June, or October+ with small lures.** Caveat: nobody in the corpus gives a month-by-month cabrilla presence or temperature pattern — the KB flags that as a gap, and this September read is the region's season shape plus cameron's yellowtail note, not a cabrilla-specific source.
+**Temperature:** preference band **65–68 °F**; past about **70 °F** they get lethargic and drop to cooler water, though they'll still hit a top-water bait (`LqW32NSkObY`). Mid-September in San Diego can sit above that — pull the actual per-spot SST before committing (see caveat below).
 
-## What you can actually do out of San Diego on 2026-09-12/13
+**Where, out of San Diego:**
+- **Point Loma** (`locations/point-loma.md`) — coastal kelp and hard bottom down the Sunset Cliffs face, **12 charted spots**, plus the Point Loma Pipe, the Zuniga Jetty riprap and the Hotel Del hard bottom around the corner at the bay entrance. It's one of the corpus's named SoCal kelp beds (`xI9tPJFXbUM`, `kzD0kSnnVPw` — both cites carry a flag that they only name it in passing). The peninsula is also the swell block for the bay entrance: the entrance is open to swell from roughly **160°–186°**, channel seaward axis **186°**, with Point Loma blocking anything west of the axis (cameron).
+- **La Jolla** (`locations/la-jolla.md`) — **14 charted spots** at the canyon head, **inside morning-half-day range for a San Diego boat** (`VpW91AKOFVQ`). North-end reef and high spots hold yellowtail in **5–10 fathoms** with marks down to 90 ft on the incline (`yLpDI8jnizU`); the south shelf hard bottom drifts at **180–210 ft (35 fathoms)** for rockfish (`_ZThckj2TIM`). Note: *"presence is not catchability here"* — some yellowtail are in La Jolla year-round and half-day boats go months between fish (cameron).
 
-I have **not pulled conditions** — no BightSST, no SST, chlorophyll, wind or swell for that weekend — so this is the priors layer only, and per [`seasonal/september.md`](seasonal/september.md) a stale prior is not today's water. Step 1 of the protocol is still owed before this becomes a plan.
+**Current is the gate, not the tide clock.** Parallel to the shoreline (uphill or downhill) = fishable; **into** the beach = marginal; **off** the beach = garbage, skip the spot (`0KQ--N5TjqE`). Mechanism: calico face into the current and ambush from the *front* of the structure, so parallel flow is what delivers food past the edge they're sitting on (`Rwy4MqeXCIU`). Read it off the kelp — **pulled 20 ft under** = raging (surface presentations dead); **laid down** = strong; **resurfacing** = slacking, go back on top.
 
-If what you actually want is the *cast-at-rock* program, the local version is **calico bass** — the KB draws that comparison from the other direction: an angler on the Cortez rocks calls it *"literally calico fishing on steroids"* (`8IRONtdkceM`). [`species/calico-bass.md`](species/calico-bass.md): `regions: [socal-bight, ...]`, `waters: [nearshore-coast, island, bay-harbor]`, `season_peak` includes September, `sst_band_f: 65-68`. Fish the **edges and pinch-points** — leading edge, outside edge, isolated stringers — not the dense middle, and plan off the **current** read across the kelp rather than the tide clock (`0KQ--N5TjqE`). They don't migrate; movement is structure pile to structure pile (`LqW32NSkObY`). Weedless 7" swimbait on a 3/8–3/4 oz keel-weighted spring hook, 7–8 ft bass class 40–60 lb; or surface iron on the drift to cover a whole edge (a documented reef drift at **18–20 ft** with birds overhead, `I-QBxuV2p7M`).
+**Timing:** hour before sunrise into early morning, and the hour before sunset (`RUuPNpK0x-s`). **Check the moon before you set the alarm** — on a clear full moon they gorge overnight and shut down by mid-morning, and the instruction is *don't launch until noon or one o'clock* if you can't make first light (`Blh2BA-7Ono`).
 
-Other in-envelope September priors, routing only:
+**Gear, in class terms** (you haven't given me a profile, so I can't resolve to owned tackle):
 
-- **Yellowfin tuna** — `season_peak: [aug, sep, oct, nov]`, 8–10 lb to 40–50 lb with **15–25 lb average grade** (`8M4QhL-Qb7E`); September prior is that volume near the border **slides north with the warm water** and bluefin slide with them (`5to3Q5P7w90`). Follow the temperature, not last week's spot. [`species/yellowfin-tuna.md`](species/yellowfin-tuna.md).
-- **Dorado** — `season_peak: [jul, aug, sep, oct]`, SoCal grade 8–15 lb with fish to 30 lb (`P9H-bpzT7eU`), on kelp paddies along the green/blue edge — 71.6 °F on a productive paddy (`E4vKwRaRueA`). The September prior puts them in **open-water schools below Catalina**, not on structure (`5to3Q5P7w90`). [`species/dorado.md`](species/dorado.md).
-- **Rockfish & lingcod** — `season_peak` includes September, hard bottom 20–900 ft, `regions: [socal-bight, baja-pacific-north]`. **Regulatory — California / CDFW, as of 2026-08: verify current season dates, bag limits and RCA depth boundaries before you go**; the KB's own figures are single-source and self-flagged. [`species/rockfish-lingcod.md`](species/rockfish-lingcod.md).
-- **Coronado Islands** — the closest island boiler rock to you, ~13 nm from the San Diego bay entrance (cameron; the linked species note says 13 *statute* miles from `D5DR7Kx42_A`, and the KB flags that mismatch). But it is **Mexican water** — paperwork first — and its species table peaks yellowtail Apr–Jun, with no September row. [`locations/coronado-islands.md`](locations/coronado-islands.md).
+| Situation | Do this | Class |
+| --- | --- | --- |
+| Kelp bed, parallel current, fish tight to stringers | Weedless swimbait — short targeted casts, fast steady wind, pause on the eat. 7" weedless slug on a **3/8–3/4 oz** keel-weighted spring hook (`YIABTTYXeqc`) | 7–8 ft graphite-composite bass class, **40–60 lb** |
+| Cruising fish, current up, cover the whole edge on top | Surface iron, grind the kelp line | Jig-stick class |
+| Shallow reef, birds working over it | Surface iron on the drift — reef bottom **18–20 ft**, wide-open with birds overhead (`I-QBxuV2p7M`) | Jig-stick class |
+| Tight to the beach, current ripping, no kelp | Free-spool bounce a weighted tube off the bottom — **1.5 oz** held bottom, current pulled the bait 5–10 ft further each bounce, "calicos every cast" (`9a-Zy_D6c3w`) | Bass class |
+| Hunting a **7–10 lb** trophy, not numbers | Size up to **8–10 in** baits (sub-5.5 in baits top out around 1–4 lb) (`ZoIzpyyS9xw`) | Heavy bass casting, **65–80 lb braid** |
 
-The bigger-bluefin September prior — the volume square, SBI–San Nicolas–Clemente–Catalina (`5to3Q5P7w90`) — is real but it is a long way up the Bight from a San Diego launch, so it only belongs in your plan if your range and the forecast support it.
+**Regs — California / CDFW.** Calico minimum **14 in**, as of 2026-08 (`r6j5w40fVHI`, `HMdrP4-i9MM`). Bag limit of **5** is stated (`LqW32NSkObY`) but the KB flags it single-source, dated **2019-03-13**, with no jurisdiction named by the speaker. **Verify current CDFW rules before you fish.**
 
-## One more thing worth knowing about that cabrilla note
+### Two other in-envelope options
+- **Spotted bay bass** — `species/spotted-bay-bass.md`, `regions: [socal-bight]`, `waters: [bay-harbor]`, `season_peak` includes sep. San Diego Bay and Mission Bay, on the tide clock rather than the current read: fish hold ambush stations keyed to which way the water is moving, so a spot on the up-current side of a channel edge on the flood is on the wrong side after the change (`YgqXf9iICyg`). The **Coronado Bridge narrows** is a popular tournament stretch precisely because the pinch point speeds the current up. Working depths **20–30 ft in the San Diego Bay channels**. A PB fish is ~**2.8–3.5 lb** (`XyKF34C5iB4`), which sets the light-line scale.
+- **Coronado Islands** — `locations/coronado-islands.md`, **~13 nm from the San Diego bay entrance** (cameron), the closest island structure to a major US port. Two cautions: it is `regions: [baja-pacific-north]` and **Mexican water** — CONAPESCA/INM paperwork, not CDFW, so the day starts with paperwork rather than tackle; and the KB bills it as *the springtime yellowtail trip*, not a September program. (The note also flags an internal conflict: 13 **nm** here vs 13 **mi** in the linked yellowtail zone guide, `D5DR7Kx42_A`.)
 
-If you do plan the Cortez trip off this KB, read [`species/cabrilla.md`](species/cabrilla.md) with its flags open. Several zone labels on it are contested — `dEPuDrhoClM` is a November 2022 Tony Reyes mothership trip out of San Felipe, not Bahía de los Ángeles, and the 5–10 lb / 15 lb / 17 lb grade from `0dNfsle54Wo` is Gonzaga Bay footage, not BOLA. The 40–60 lb yo-yo rod class in the gear summary appears in neither cited transcript (`M8hOYQ_6rSg` actually says an 8 ft, 20–50 lb rod). And there is no cabrilla zone guide yet — both BOLA and Loreto are flagged stubs.
+If you'd rather chase what mid-September actually favors in the Bight, `seasonal/september.md` weights the **volume square** — Santa Barbara Island / San Nicolas / San Clemente / Catalina — for the bigger bluefin, and puts dorado in open-water schools below Catalina (`5to3Q5P7w90`). That's well north of a San Diego day for most boats, and the note's bluefin reading of that cite carries a fact-check flag.
+
+---
+
+## What this is not yet — the honest caveat
+
+**This is priors, not a plan.** I have pulled **no conditions**: no BightSST per-spot SST or chlorophyll, no wind/swell/current, observed or forecast, for 12–13 September 2026. Step 1 of `planning/day-plan-protocol.md` requires that before any of the above becomes a day plan, and the KB's own doctrine is that *a stale report is not today's water* and *in an anomalous year trust the live water, not the calendar*. Everything above is the pattern layer.
+
+I also have **no profile from you** — no boat, range, sea-state ceiling, or rod inventory — so step 1b's `waters` envelope is unresolved (I don't know whether you're on a private boat, a kayak, or booking a landing) and all gear stays in class terms. Give me those and the recommendations sharpen to owned tackle inside your boat's envelope.
 
 
-*notes:* `CLAUDE.md`, `README.md`, `planning/day-plan-protocol.md`, `locations/regions.md`, `species/cabrilla.md`, `species/README.md`, `seasonal/september.md`, `locations/cortez-north.md`, `locations/bahia-de-los-angeles.md`, `locations/loreto.md`, `locations/san-felipe.md`, `locations/mexican-waters.md`, `locations/coronado-islands.md`, `species/calico-bass.md`, `species/yellowfin-tuna.md`, `species/dorado.md`, `species/rockfish-lingcod.md`  
-*videos:* `dEPuDrhoClM`, `EmZO8QiOfik`, `M8hOYQ_6rSg`, `0dNfsle54Wo`, `n4nMCLLW3tY`, `6P34jI9q1tE`, `T3cEQUqiH8E`, `P36VGPPf120`, `odiIWmut6gM`, `aT-fL7vaavY`, `81YHbZQFzgk`, `8IRONtdkceM`, `ikiXx9sUsoA`, `5to3Q5P7w90`, `0KQ--N5TjqE`, `LqW32NSkObY`, `I-QBxuV2p7M`, `8M4QhL-Qb7E`, `E4vKwRaRueA`, `P9H-bpzT7eU`, `D5DR7Kx42_A`, `iAr6sbRC384`, `lF6jQklDCrY`  
-*gaps admitted:* No live conditions were pulled — no BightSST SST, chlorophyll, wind, swell or current for the weekend of 2026-09-12/13, so everything here is the priors layer only and step 1 of the day-plan protocol is still owed. | The corpus has no month-by-month presence or temperature pattern for cabrilla anywhere in the Sea of Cortez — species/cabrilla.md flags this explicitly, so the mid-September read is inferred from the Cortez North region season table plus cameron's September BOLA yellowtail note, not from a cabrilla-specific source. | No corpus source covers running your own boat to Bahía de los Ángeles — nothing on trailering down, using the ramp, fuel on the water, or the range a private boat would need (flagged gap in locations/bahia-de-los-angeles.md). | No Mexican (CONAPESCA) bag limit, size gauge or closed season for cabrilla / leopard grouper is recorded anywhere in the corpus as of 2026-08. | The corpus does not say whether the Bahía de los Ángeles season shape extends north to San Felipe and Gonzaga — the northern end of the region is undated. | The KB has no note on any grouper resident in SoCal waters, so it cannot tell you whether a cabrilla-like grouper exists off San Diego at all — only that cabrilla itself does not. | No corpus source states what a private-boat day trip to the Coronado Islands requires — permits, passports, or whether an FMM applies to a day that never lands (flagged gap in locations/coronado-islands.md). | seasonal/september.md gives no San Diego spot-level or zone-level pick; its named September zones are the SBI–San Nicolas–Clemente–Catalina volume square, open water below Catalina, and the border yellowtail/yellowfin band, so no specific mid-September San Diego destination can be resolved without live conditions. | No cabrilla zone guide exists — both Bahía de los Ángeles and Loreto/Puerto Escondido are flagged stubs in species/cabrilla.md. | Several zone attributions and the 40-60 lb yo-yo rod class on species/cabrilla.md carry open fact-check flags, so trip-planning numbers from that note should be treated as contested rather than settled.
+*notes:* `CLAUDE.md`, `README.md`, `planning/day-plan-protocol.md`, `locations/regions.md`, `species/cabrilla.md`, `locations/cortez-north.md`, `locations/bahia-de-los-angeles.md`, `locations/socal-bight.md`, `seasonal/september.md`, `species/calico-bass.md`, `species/spotted-bay-bass.md`, `species/sand-bass.md`, `locations/point-loma.md`, `locations/la-jolla.md`, `locations/coronado-islands.md`  
+*videos:* `EmZO8QiOfik`, `dEPuDrhoClM`, `0dNfsle54Wo`, `6P34jI9q1tE`, `T3cEQUqiH8E`, `P36VGPPf120`, `odiIWmut6gM`, `8IRONtdkceM`, `0KQ--N5TjqE`, `Rwy4MqeXCIU`, `LqW32NSkObY`, `YIABTTYXeqc`, `RUuPNpK0x-s`, `Blh2BA-7Ono`, `r6j5w40fVHI`, `HMdrP4-i9MM`, `9a-Zy_D6c3w`, `ZoIzpyyS9xw`, `I-QBxuV2p7M`, `yLpDI8jnizU`, `_ZThckj2TIM`, `VpW91AKOFVQ`, `xI9tPJFXbUM`, `kzD0kSnnVPw`, `YgqXf9iICyg`, `XyKF34C5iB4`, `D5DR7Kx42_A`, `5to3Q5P7w90`  
+*gaps admitted:* No live conditions were pulled — no BightSST SST, chlorophyll, wind, swell or current, observed or forecast, for 12-13 September 2026; the KB is the knowledge layer only and holds no current intel. | No moon phase or tide table for the weekend of 12-13 September 2026 exists anywhere in the KB, so the full-moon inversion rule for calico could not be applied to the actual dates. | No angler profile was supplied (boat, range_nm, sea_state_max_ft, rod/reel inventory), so the day's `waters` envelope is unresolved and all gear stays in class terms rather than owned tackle. | species/cabrilla.md carries a flagged gap: no corpus source gives a month-by-month presence or temperature pattern for cabrilla anywhere in the Sea of Cortez, so the KB cannot say how a mid-September cabrilla trip fishes specifically. | species/cabrilla.md carries a flagged gap: no sonar signature or arc depth for cabrilla anywhere in the corpus — only the visual and structure read. | locations/cortez-north.md and locations/bahia-de-los-angeles.md carry a flagged gap: nothing in the corpus covers running your own boat to the northern Cortez — no trailering, ramp use, on-water fuel or required range. Every documented trip fishes a local panga. | No Mexican (CONAPESCA) bag limit, size gauge or closed season for cabrilla / leopard grouper is recorded anywhere in the corpus as of 2026-08. | species/calico-bass.md carries a flagged gap: no Mexican (CONAPESCA) size or bag limits for calico in Baja waters, and no confirmation of whether any SoCal seasonal closure applies. | The calico bass bag limit of 5 is single-source, dated 2019-03-13, with the jurisdiction (California / CDFW) being the note's own inference rather than stated by the speaker. | No calico zone guide exists for the SoCal coast including North County San Diego — it is a flagged stub in species/calico-bass.md, so zone-level trip detail for a San Diego calico day is not in the KB. | locations/point-loma.md gives no charted or working depth for any of its 12 spots, and no port, ramp or run distance for the zone. | The KB says nothing about whether 'cabrilla' is used in Southern California as a local name for any local species, so I could not check whether the question meant a differently-named SoCal fish. | species/cabrilla.md is confidence: medium and heavily fact-check-flagged — the 40-60 lb yo-yo rod class appears in neither cited transcript, and two headline trips (0dNfsle54Wo, dEPuDrhoClM) are San Felipe mothership footage mislabeled as Bahia de los Angeles. | seasonal/september.md's volume-square bluefin reading carries a contradicted-by-source flag: the transcript's antecedent for 'the bigger ones' is unspecified fish across dorado, bluefin and marlin, not bluefin specifically.
 
 </details>

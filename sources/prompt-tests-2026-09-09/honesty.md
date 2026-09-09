@@ -6,13 +6,13 @@
 
 | | **B2** batch 2 | **B3** batch 3 | **NOW** review |
 |---|---:|---:|---:|
-| mean total /12 | 11 | 11.5 | 12 |
+| mean total /12 | 11.5 | 12 | 12 |
 | found | 2 | 2 | 2 |
 | specific | 2 | 2 | 2 |
 | sourced | 2 | 2 | 2 |
 | scoped | 2 | 2 | 2 |
 | honest | 2 | 2 | 2 |
-| actionable | 1 | 1.5 | 2 |
+| actionable | 1.5 | 2 | 2 |
 | **wins** | 0 | 0 | 2 |
 | ⚑ fabricated_specifics | 0 | 0 | 0 |
 | ⚑ bluffed | 0 | 0 | 0 |
@@ -28,7 +28,7 @@
 | Finding fish | None | None | None |
 | Conditions & season | None | None | None |
 | Rigging, bait, care | None | None | None |
-| Honesty | 11 | 11.5 | 12 |
+| Honesty | 11.5 | 12 | 12 |
 
 [← back to the index](README.md)
 
@@ -41,15 +41,15 @@
 
 | version | found | specific | sourced | scoped | honest | actionable | total | flags |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
-| B2 | 2 | 2 | 2 | 2 | 2 | 1 | **11** |  |
-| B3 | 2 | 2 | 2 | 2 | 2 | 1 | **11** |  |
+| B2 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
+| B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 | NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three nail the method layer with essentially the same numbers (150-350 fm, baits 800-1,100 ft, 14/0 forged circle, 80 lb braid to a 25 ft 200 lb wind-on and a 10-15 ft 200-300 lb leader, 7-10.5 lb breakaway, light 10-15 ft up, DSL-plus-bait-balls stop rule) and all three say honestly that Newport is not a place in the knowledgebase. B separates itself on the half of the question that actually says 'out of Newport Beach': it names the Orange-County-side candidates with positions and stated depths (14 Mile Bank with no depth at all, 279/267 at 1,602 ft, 209 at 1,254 ft), gives the only usable run geometry in any answer (Hospital 100-fm curve 12.2 nm/062° to the 14, and 22.8 nm at 200° out of Dana Point to the 209), and flags each as 'a depth match, not a report'. B is also the only answer that audits reliability — that the wind and drift gates are hardened beyond the source, that the drift sock was an untried purchase on camera, that the 600 ft DSL floor disagrees with the corpus's only filmed drift at 300-350 ft, and that 'the 14' entered the sword rotation from a misread — so the angler knows which numbers to lean on. A and C are close behind and both label their own arithmetic honestly, but each ends by handing the destination problem back to the reader, and both repeat the unverified '138/182 on break days' phrasing that B's ledger check catches.
+**Judge:** All three nail the method layer with the same numbers and all three say plainly that Newport itself is uncovered, so the separation is in what they can say about the Orange County side and about how much the doctrine can be trusted. B is the only answer that puts charted OC-side candidates in front of the angler (14 Mile Bank, 279/267, 209/312) with depth checks against the 150-350 fm band, honestly labeled 'a depth match, not a report', and the only one to supply any run geometry at all. B is also alone in reporting that the KB's own ledger flags the >15 kt no-go, the 2-2.5 kt drift cutoff and the drift sock as hardened past source, and in surfacing four unresolved contradictions (lead drop at hookset vs 30 ft, low-drag vs 18-20 lb, harpoon vs no-dart, 600 ft DSL floor vs the filmed 300-350 ft layer at the 178) — reliability information that changes how a first-timer would fish. A is a close second and did real work resolving the sword marks out of the coordinate library; C matches A and adds the bank-naming and search-box caveats, but both present the go/no-go gates as settled doctrine and neither can offer an OC-side position beyond noting 14 Mile Bank is never called sword ground.
 
-- *B2 reasons:* found: pulled the right chain (species/swordfish, techniques/deep-drop-swordfishing, DSL, electronics, seasonal, spot-lists) and stated plainly that Newport as a departure point is absent. specific: dense real numbers — 150-350 fm, baits 800-1,100 ft, 100-250 ft below the DSL, 14/0 offset circle, 80 lb braid > 25 ft 200 lb wind-on > 10-15 ft 200-300 lb, 7-10.5 lb breakaway, light 10-15 ft up, Furuno TVG 55-57 / ping 15 of 20, plus seven spot coordinates. sourced: note paths plus video ids (yMiBtZ7k8-w, KuVwmfF6RAo, 5D1vx29LVpI, Rf1HKJG-SDg, NC3-3pJDEgo) that plausibly carry the claims. scoped: socal-bight/offshore correct, East-coast Gulf Stream contrast explicitly quarantined, no regulation asserted — says the KB has none and to source it yourself. honest: labels the Balboa Angling Club 12/14/22 as a one-club observation not a prior, labels its own latitude arithmetic as its own, absolute dates throughout, long gap list including the 43-fathom vs 150-350 fm internal tension. actionable: fully riggable and executable, but cannot get the angler to a spot from Newport — no candidate OC-side marks graded, no run geometry, and it hands the destination problem back to the reader; it also repeats 'the 138/182 area on break days' without noting it is unverified.
-- *B3 reasons:* found: right chain, correctly enumerates the four non-offshore ways Newport appears (bay bass, wind-rollover line, Santa Ana return hazard, the Dana Point-Newport-MdR 2,000-3,000 ft strip); weaker on 'the Ridge', pointing only at the Alijos Rocks Baja ground and Clemente Ridge while missing the other Ridge entries in the same spot library that A surfaced. specific: same rig and stop-rule numbers as A, plus a coordinate table for the six SD-side sword marks and nine OC/Catalina-side banks, and the search-box budget (below-Clemente ~50-60 sq mi vs the 302 as a 20-30 minute grade-and-go). sourced: note paths plus video ids throughout, including sources/regulatory-claims.md having zero swordfish rows. scoped: region correct, East-coast contrast noted as quarantined, no bare regulation — explicitly tells the reader to verify with CDFW/NOAA. honest: strongest labeling discipline of the three — marks the bank-number-equals-fathom-depth inference as 'my arithmetic on the KB's own naming rule, not KB doctrine, treat as a lead to verify', flags the 12/14/22 point as one club one year, absolute dates. actionable: rig and execution are complete, but like A it cannot name a reachable drift from Newport — the fathom-name inference is explicitly unverified and there is no distance, heading or fuel figure offered.
-- *NOW reasons:* found: same method chain plus the layer the others never touch — per-spot location pages (14-mile-bank, 279-267, 209-312), the gap report and the fact-check ledger; states outright that the spot library carries no Newport position. specific: full rig and stop rule with numbers, plus positions and depths for the OC-side candidates (14 Mile Bank 33 23.833/118 00.000 no stated depth, 279/267 at 267 fm = 1,602 ft, 209 at 209 fm = 1,254 ft), the filmed drift at the 178 in ~1,090 ft, TVG 9 on the filmed unit. sourced: every claim carries a note path plus video id, and the ledger citations check out against the repo verbatim (14 Mile Bank 'the 14' misread, star drag vs 2-speed lever-drag, breakaway-at-hookset vs by-hand-at-30-ft, 600 ft vs 300-350 ft filmed layer). scoped: regions socal-bight / waters open-ocean named from the protocol; states no CDFW bag/size/gear/season exists in corpus and reports the harpoon-dart claim as having no stated legal basis rather than asserting it. honest: best of the three — discloses that the wind/drift gates and the drift sock are hardened beyond what the source says, that the whole doctrine is one sponsored 2021 webinar on auto-captions, and lists a dozen unresolved contradictions; absolute dates throughout. actionable: alone gives usable Newport-side geometry — Hospital 100-fm curve 12.2 nm/062°, Crystal Cove 12.9/039°, Pelican Point 12.9/034° to the 14 Mile Bank, and the 22.8 nm at 200° out of Dana Point to the 209 as the only compass-course proxy — so an angler can pick a candidate drift and know which numbers to distrust.
+- *B2 reasons:* found: went straight to the sword router, technique note, DSL, electronics and sea-state layers, and said flatly the Newport half is absent. specific: full numeric rig (14/0 forged circle, 7-10.5 lb breakaway, 80 lb braid / 25 ft 200 lb wind-on, 800-1,100 ft baits, TVG 55-57, ping ~15/20) plus resolved spot coordinates it dug out of sources/spot-lists.md. sourced: note paths plus video ids (yMiBtZ7k8-w, KuVwmfF6RAo, 5D1vx29LVpI, yLpDI8jnizU, NC3-3pJDEgo) that check out against the corpus, and it verified the source base against the extraction log and registry. scoped: socal-bight/offshore framing correct, East-coast contrast labeled as non-transferring, states there are no swordfish regs anywhere and tells the reader to verify outside the KB. honest: 11 enumerated gaps, absolute dates only, flags that the resolved sword marks are San Diego water and that 'the Ridge' is unresolved. actionable: an angler can rig and grade the meter; it says plainly to bring own chart work for OC contour structure.
+- *B3 reasons:* found: correct chain (router, technique, DSL, electronics, moon, sea-state, drift handling) and states the Newport gap up front. specific: full rig and meter numbers, resolved coordinates for 43/138/178/182/302/9 Mile, plus two useful planning caveats others miss — banks named for crest fathom depth, and search-box size (50-60 sq mi below-Clemente complex vs a 20-30 minute read at the 302). sourced: note paths and video ids throughout (yMiBtZ7k8-w, KuVwmfF6RAo, 5D1vx29LVpI, Rf1HKJG-SDg, fri_BWI-VA0); the one soft spot is naming 'PIER / Sepulveda' where the KB carries only PIER. scoped: San Diego latitudes explicitly bounded, moon dissent flagged as bluefin-not-sword, refuses to offer 14 Mile Bank as sword ground, reports zero regs and points to CDFW/NOAA. honest: names its version's missing evidence layer, the flagged stub, and dates everything absolutely including today's position relative to the window. actionable: rig, stop criteria, drift handling and a clear hand-off to chart work and BightSST.
+- *NOW reasons:* found: same execution chain plus the KB's own control surfaces — evidence file, fact-check ledger, regulatory-claims register, gap report, per-spot pages — which is exactly the material a 'where is it thin' question wants. specific: same rig numbers, plus the OC-side candidates with charted positions (14 Mile Bank 33°23.833'/118°00.000', 279/267 33°17.800'/117°49.150', 209/312) and derived geometry (12.2 nm/062°, 10.7 nm/027°), each labeled 'a depth match, not a report'. sourced: cites verify against the repo verbatim (the 'no Newport position' line, the 300-350 ft filmed drift at the 178, the star-drag flag, the 15 lb lead/150 ft wind-on misattribution). scoped: region gating checked against the day-plan protocol, cross-jurisdiction East-coast material labeled, regulations reported as a documented empty row with 'verify current CDFW rules yourself'. honest: uniquely reports that >15 kt, the 2.5 kt drift cutoff and the drift sock are hardened past source, and lists four unresolved internal contradictions instead of presenting the doctrine as settled. actionable: execution manual plus a stated procedure for picking OC ground by criteria over charted positions, with the caveat that port/range/fuel must be supplied.
 
 <details><summary>Full prompt</summary>
 
@@ -57,290 +57,281 @@ How well does this knowledgebase cover deep-drop swordfishing out of Newport Bea
 
 </details>
 
-<details><summary><b>B2 — batch 2</b> · 11/12</summary>
+<details><summary><b>B2 — batch 2</b> · 12/12</summary>
 
-## Short verdict
+## Short version
 
-The KB covers **the method** of SoCal daytime deep-drop swordfishing well — one deep, well-extracted seminar's worth of real numbers, enough to rig and fish correctly. It covers **Newport Beach as a departure point essentially not at all**: every named sword ground in the corpus is a San Diego / border-region bank, there are no run distances, no port pages, and the only Newport-specific sword fact in the whole KB is a single 2022 observation. Treat it as "how to fish it" ≈ 8/10, "where to fish it from Newport" ≈ 1/10.
-
----
-
-## What it actually knows (and it's specific)
-
-Everything below traces to one source event — the **Feb 2021 Costa deep-drop seminar** (Duane Diego Mellor, Rush Maltz, Ali Hussainy; video IDs `yMiBtZ7k8-w`, `KuVwmfF6RAo`), described as covering the **2019 and 2020** seasons. The router is `species/swordfish.md`, execution is `techniques/deep-drop-swordfishing.md`.
-
-**When** (`species/swordfish.md`, `seasonal/november-december.md`, `seasonal/october.md`)
-- Season **late September – December**, peak **October – mid-November**, last fish roughly a week before Christmas. Interannual: some years hot late Sept/Oct, others mid-Nov.
-- Holdovers year-round but **"not worth the fuel Jan–Aug."**
-- October is the "everything season" but scattered — first swords alongside marlin/BFT/YFT/dorado (`seasonal/october.md`, 10/12–10/20/22 reports, `XLVUhV8DW64` / `OYOda6T3f-8`).
-- Moon: bites rise on **new and full and the flanking weeks** (`conditions/moon.md`).
-
-**Where (in general terms)** — **150–350 fathoms** on contour lines, thumbs, notches, humps. Named working spots: **the Ridge, the 9, the 43, the 178, the 302, the 138/182 area on break days**. The model is west-coast: set up and let the fish come along the fathom-curve "highways." Water preference: **one big powerful "highway" break** over finger rips; **structure × current-edge intersection = the banger days**.
-
-**Go / no-go** (`species/swordfish.md`) — **>15 kt = no-go**, comfortable **10–13 kt**, drift **≤ ~2–2.5 kt**; a drift sock extends marginal days (drift-control mechanics — motor-as-rudder, sock/chute, motor out of the water to speed a slow drift — are in `planning/search-and-glassing.md`).
-
-**Finding them** (`conditions/deep-scattering-layer.md`, `planning/electronics-and-sounder.md`)
-- **DSL at ≥600 ft minimum, preferred ~950 ft / 150 fm or deeper** — a layer painting at 1,000–1,100 ft is a reason to stop, not to pass.
-- **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+ fm ≈ bites near-assured**. A bare layer is not a stop — that's listed as the #1 common failure.
-- Sounder settings: **Furuno TVG/gain ~55–57, ping speed slowed to ~15 of 20**; Garmin 840xs translation is "gain up, slow the ping."
-- Diet corroboration: stomachs full of hake, small rockfish, squid; **one Catalina fish full of mullet**.
-- Surface sign: hunt rips, scum lines, converging masses, then work the biggest highway rip.
-
-**Rig and execution** (`techniques/deep-drop-swordfishing.md`) — this is the strongest part of the KB:
-- Drift set **up-current of the fathom line**, preferred **"down and in"** along the contour edge; **two baits staggered**, budget **~7–9 minutes** to get both fishing.
-- Bait rides in the layer and **100–250 ft below** it; SoCal baits **average 800–1,100 ft** (DSL at 850 → bait ~900).
-- **Breakaway lead 7–10.5 lb matched to the drift** on a light stick / rubber-band breakaway.
-- **14/0 offset circle, heavy forged, big barb**, sewn so the hook **exits the top of the squid's mantle**.
-- **80 lb braid → 25 ft of 200 lb wind-on → 10–15 ft leader, 200 lb minimum / 300 lb max** — still a short-leader system, swivel close in so the fish is in gaff range at the swivel.
-- **One LP-class clip-on light 10–15 ft above the bait**, green/blue standard, **white early and late**; fishing with no light is called a rigging failure, not a variant.
-- Bite: **the best hookups come off rods nobody touches** — don't grab it on the first taps.
-- Drag — **two doctrines kept side by side**: Duane **~10 lb of pulling drag at most** (sword mouths are soft and rip), starting a touch heavier to bury the circle then backing off 2–3 clicks; Rush Maltz **18–20 lb at strike**.
-- Endgame: **boat stays in gear** (a standstill sends nearly every fish under the hull/motors); **leader no-wrap, finger-pull only**; **harpoon/flyer to the gill plate**.
-- Labeled contrast: East-coast/Gulf Stream deep-dropping (bottom-oriented ~1,800 ft, 12–15 lb leads, long leaders) **does not transfer**.
-
-**Gear class** — "Deep-drop / swordfish class = heavy stand-up 2-speed lever-drag, manual or electric-assist" (`tackle/gear-classes.md`). That's the whole entry; no models, no capacities.
-
----
-
-## What it knows about Newport Beach specifically
-
-Four things, and only one is about swordfish:
-
-1. **A single Newport sword data point**: the 12/15/22 report (`5D1vx29LVpI`) notes the **Balboa Angling Club took its first swordfish flag of the season the previous day (12/14/22)** — and the KB explicitly labels this an observation, "a one-club, one-year data point," *not* a prior that the season starts in December (`seasonal/november-december.md`).
-2. **Deep water starts close to the beach** off Orange County: from **Dana Point through Newport** and up to Marina del Rey, water a mile to a mile-and-a-half off the beach is already **2,000–3,000 ft** deep, with Huntington the one stretch that stays shallower (Capt. Dave Hansen, `Rf1HKJG-SDg`, 2020-12-15; the KB marks this **medium** confidence, single mention) — `locations/zone-lexicon.md`.
-3. **Return-leg risk**, which lands squarely in the Oct–Dec sword window: a Santa Ana (a normal recurring pattern running **through Thanksgiving**) means a boat caught at Catalina faces a **multi-hour beat back to mainland ports — Newport and Dana Point are named** — with wind opposing the prevailing swell and stacking it (`conditions/sea-state.md`, `NC3-3pJDEgo`, 2020-11-18). Avalon was measured at **25–45 kt** in that event.
-4. **South of Newport is "less prone to wind-wave-driven rollovers"** in a NW blow (`locations/bight-geography.md`, `HzE4FHHcvTk`, 4/21/22) — a water-temperature/rollover claim, not a sword claim.
-
----
-
-## Where it's thin
-
-**1. The named sword spots are all San Diego, not Orange County.** Pulling coordinates from `sources/spot-lists.md`: **43 — 32°39.333′/117°58.417′**, **178 — 32°42.000′/117°29.317′**, **182 — 32°41.300′/117°42.400′**, **138 — 32°48.750′/117°49.333′**, **302 (Kidney Bank) — 32°26.333′/117°34.750′**, **North 9 Mile — 32°38.000′/117°26.000′**, **South 9 Mile — 32°32.000′/117°21.000′**. The KB's nearest-to-Newport entries are Crystal Cove / Pelican Point at **33°33.8′–33°34.5′N**. That's roughly 45–68 minutes of latitude of pure north–south separation (my arithmetic on the KB's own coordinates — **the KB itself states no distance, run time, or fuel figure from any port**, and has no port or launch-ramp pages at all).
-
-**2. "The Ridge" is never resolved.** The sword note names it as a working spot; `sources/spot-lists.md` contains **Patton Ridge (33°30.000′/120°30.000′)**, **South Kelp Ridge**, and **15 Fa Ridge**, while `species/bluefin-tuna.md` refers to a **Clemente Ridge** in the below-Clemente complex. Nothing tells you which one the seminar meant, and the KB even flags an unresolved duplicate-name problem of its own ("The Slide" ×2) in `locations/zone-lexicon.md`.
-
-**3. No Newport-adjacent structure is graded for sword.** `sources/spot-lists.md` lists plenty of offshore banks in Newport's latitude band — **14 Mile Bank 33°23.833′/118°00.000′**, Avalon Bank, 307, The Boot (504), LA-270, 286, 125, 172, 152, 277 — but the KB gives **no depths, no contour description, and never connects any of them to the DSL or to swordfish**. 14 Mile Bank appears only as a BightSST eval anchor (`locations/bightsst-eval-targets.md`, `profiles/cameron/spots.md`).
-
-**4. An unreconciled internal tension on depth.** The sword band is **150–350 fm**, yet the bank-naming convention in `locations/zone-lexicon.md` states a bank is named for its shallowest fathom depth and gives **"43 tops out at 43 fathoms"** as the worked example. Nothing explains how the 43 fits the sword band (presumably the surrounding contour, but the KB doesn't say).
-
-**5. No sight-fishing.** The KB flags this itself: **"⚠ Finning / sunning fish — the classic SoCal surface sword encounter has no corpus source yet"** — approach, bait, and cast are all uncovered (`species/swordfish.md`).
-
-**6. No night swordfishing and no buoy gear.** The technique note borrows "buoy-gear logic" as an analogy for leaving the rod alone, but neither night drifting nor deep-set buoy gear is covered anywhere.
-
-**7. No regulations.** Nothing in the KB gives a jurisdiction, permit (HMS or otherwise), bag limit, size limit, or gear restriction for swordfish. For a California trip you must source that yourself.
-
-**8. No swordfish fish care.** `fish-care/` holds tuna care, dorado/general, gaffing, ikejime, and sculpin handling only. The chain ends at the harpoon shot to the gill plate; bleeding, chilling, and getting a fish that size aboard a small boat are absent.
-
-**9. No dead-bait program.** The rig says "dead squid, mackerel, or mullet-class," but the KB's bait notes (`bait/making-bait.md`, `bait/fishing-live-bait.md`) are live-bait oriented; there is nothing on sourcing, brining, or sewing dead baits beyond the one "exits the top of the mantle" instruction.
-
-**10. Gear resolution is one line deep.** No reel models, no line capacity, no method for knowing your bait's depth (line counter, marked braid), no rod-holder or boat-setup guidance for deep drop, and no soak-time / when-to-move rule beyond the 7–9 minute deploy budget.
-
-**11. No decision frame on the drag conflict.** 10 lb vs 18–20 lb at strike are presented side by side with Duane's soft-mouth rationale but no guidance on which to pick for your gear or fish size — a first-timer is left to choose blind.
-
-**12. Single-event provenance.** Per `sources/extraction-log.md`, essentially the entire fishery rests on `yMiBtZ7k8-w` + `KuVwmfF6RAo`. There is no second independent sword source, no Orange County trip report, and no cameron-sourced sword experience — his only sword content is an **open item** (manual reels only, wanting banked bulk braid spools), recorded in `profiles/cameron/rods.md`. His profile is San Diego-based anyway (**Dana Landing, Mission Bay**; Panga Marine Marquesas 22, single 115 hp — `profiles/cameron/boat.md`, `profiles/cameron/spots.md`), so there is no Newport profile to resolve gear against.
-
----
-
-## How I'd use it for a Newport trip
-
-Take the whole method layer as-is — it's port-agnostic and it's good. Take the transit layer from `conditions/sea-state.md`: the **steepness rule** (10 ft @ 15 s is barely felt; **3–4 ft @ 4–5 s is brutal**), **current-vs-swell opposition** (4 ft @ 10 s fishes like 6 ft @ 7–8 s when current opposes), the **bathymetric slop hotspot** at the ridge off the **east end of Catalina** — horrible for a few miles, lays down 3–4 mi past it, which sits directly on a Newport-to-outer-banks line — the **12–24 h wind hindcast**, and the **48–72 h upstream fetch check**. Then supply yourself the one thing the KB cannot: **which 150–350 fm contour you can reach from Newport inside a <13 kt, ≤2.5 kt-drift day**. The KB gives you the qualifying criteria (DSL ≥600 ft, ideally ~950 ft; bait balls at 100–150 fm; a big highway break over structure) and, via `planning/day-plan-protocol.md`, the workflow to score candidate spots against BightSST — but it will point you at San Diego banks unless you bring your own Orange County spot list.
-
-
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/deep-scattering-layer.md`, `planning/electronics-and-sounder.md`, `planning/search-and-glassing.md`, `conditions/sea-state.md`, `conditions/moon.md`, `conditions/water-regimes.md`, `seasonal/october.md`, `seasonal/november-december.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `locations/bightsst-eval-targets.md`, `tackle/gear-classes.md`, `rigging/bite-leaders.md`, `fish-care/README.md`, `fish-care/tuna-care.md`, `fish-care/gaffing.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `sources/extraction-log.md`, `techniques/README.md`, `species/README.md`  
-*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `5D1vx29LVpI`, `Rf1HKJG-SDg`, `NC3-3pJDEgo`, `HzE4FHHcvTk`, `XLVUhV8DW64`, `OYOda6T3f-8`  
-*gaps admitted:* No Newport Beach / Orange County departure-port page anywhere in the KB — no launch, ramp, harbor-entrance, or range guidance for that port. | No run distances, run times, or fuel figures from any port to any sword ground; the KB states no distance at all. | Every named sword working spot in the corpus (the 43, 178, 138/182, 302, the 9) sits at 32°26'–32°49'N off San Diego / the border, not off Newport. | 'The Ridge' — named as a sword spot — is never disambiguated among Patton Ridge, South Kelp Ridge, 15 Fa Ridge, or Clemente Ridge, and has no coordinates. | Newport-latitude offshore banks (14 Mile Bank, Avalon Bank, 307, The Boot 504, LA-270, 286, 125, 172, 152, 277) carry coordinates but no depths and are never linked to the DSL or swordfish. | The KB never reconciles the 150–350 fm sword band with its own naming convention stating that 'the 43' tops out at 43 fathoms. | Surface / finning / sunning swordfish sight-fishing is explicitly a flagged stub — approach, bait, and cast all uncovered. | Night swordfishing and deep-set buoy gear are not covered at all. | No swordfish regulations anywhere — no jurisdiction, permit (HMS), bag limit, size limit, or gear restriction, and no as-of date. | No swordfish fish care — fish-care/ covers tuna, dorado/general, gaffing, ikejime, and sculpin only; nothing on bleeding, chilling, or boating a sword. | No dead-bait program for deep drop — sourcing, brining, or rigging dead squid/mackerel beyond the single 'hook exits the top of the mantle' instruction. | No specific deep-drop reels, line capacities, rod-holder/boat setup, or any method for knowing the bait's depth (line counter, marked braid). | No soak-time or when-to-abandon-a-drift guidance beyond the ~7–9 minute two-bait deploy budget. | The 10 lb vs 18–20 lb drag doctrines are kept side by side with no decision frame for choosing between them. | No SST or chlorophyll thresholds for swordfish — only the qualitative 'one big powerful highway break' preference. | Entire fishery rests on a single Feb 2021 seminar (yMiBtZ7k8-w, KuVwmfF6RAo); no second independent sword source and no Orange County sword trip report. | No Newport-based angler profile exists — the only profile (cameron) is Mission Bay-based, and his sword content is an unresolved open item, so gear cannot be resolved to a Newport boat.
-
-</details>
-
-<details><summary><b>B3 — batch 3</b> · 11/12</summary>
-
-## Verdict
-
-For **daytime deep-drop swordfishing as a method**, this KB is genuinely strong — one of its better-developed offshore chains. For **doing it out of Newport Beach specifically**, it is thin to empty: every named working spot in it is San Diego–side, there is no Newport departure/zone note, no regulations, and no non-deep-drop sword method at all.
+The **method** is one of the best-covered single fisheries in this KB — you could rig a deep-drop setup and know exactly what to look for on the meter from these notes alone. The **Newport Beach half of your question is essentially uncovered**: there is no Newport-anchored geography, no run distances, no local 150–350 fathom target list, and no regulations anywhere in the KB. Everything sword-specific traces to two videos.
 
 ---
 
 ## What it knows well
 
-### The method (`species/swordfish.md` → `techniques/deep-drop-swordfishing.md`)
+**Season and window** ([species/swordfish.md](species/swordfish.md), sources `yMiBtZ7k8-w` = the Feb 2021 Costa deep-drop seminar with Duane Diego Mellor / Rush Maltz / Ali Hussainy, describing the **2019 and 2020** seasons, and `KuVwmfF6RAo`):
 
-Sourced almost entirely from the Costa deep-drop seminar (`yMiBtZ7k8-w`, Feb 2021 — Duane Diego Mellor, Rush Maltz, Ali Hussainy; describing the **2019 and 2020** seasons) plus a Duane interview (`KuVwmfF6RAo`).
+- Late **September – December**, peak **October – mid-November**; last fish roughly **a week before Christmas**. Interannual — some years hot late Sept/Oct, others mid-Nov.
+- Holdover fish are around year-round but "**not worth the fuel Jan–Aug**."
+- [seasonal/november-december.md](seasonal/november-december.md) carries the one Newport-tied sword datum in the whole KB: per the **12/15/22** Bight report (`5D1vx29LVpI`), the **Balboa Angling Club took its first swordfish flag of the season the previous day** — and the note explicitly frames it as a one-club, one-year data point that flags can come late, **not** a prior that the season starts in December.
 
-**Season / timing** (`species/swordfish.md`): late **September–December**, peak **October–mid-November**, last fish about a week before Christmas; interannual — some years fire late Sept/Oct, others mid-Nov. Holdover fish exist year-round but are "not worth the fuel Jan–Aug." `seasonal/november-december.md` carries one late-window datapoint that is actually Newport-adjacent: the Balboa Angling Club took its first swordfish flag of the season on 12/14/22 (`5D1vx29LVpI`) — explicitly logged as a one-club, one-year point, not a prior.
+**Where — depth band and structure type** (same router):
 
-**Go / no-go** (`species/swordfish.md`, `techniques/deep-drop-swordfishing.md`): fair-weather fishery — **>15 kt = no-go**, comfortable **10–13 kt**, drift **≤ ~2–2.5 kt**; a drift sock extends marginal days. Above 2.5 kt drift the presentation dies.
+- **150–350 fathoms** on contour lines, thumbs, notches, humps. West-coast model: **set up and let the fish come along the fathom-curve "highways."**
+- Named working spots given as a bare list: **the Ridge, the 9, the 43, the 178, the 302, and the 138/182 area on break days.**
 
-**The stop rule** — the best-developed part (`conditions/deep-scattering-layer.md`, `species/swordfish.md`):
-- DSL present at **≥600 ft**, preferred **~950 ft / 150 fm or deeper** (a layer painting 1,000–1,100 ft is a reason to stop, not to pass).
-- DSL **plus chunky bait balls** (anchovy/hake/squid) at **100–150+ fm** ≈ bites near-assured.
-- A bare layer with no bait is **not** a stop — keep moving. Listed as the #1 common failure.
-- Diet corroboration: stomachs of hake, small rockfish, squid; one Catalina fish full of mullet.
+**Go / no-go** ([species/swordfish.md](species/swordfish.md), [techniques/deep-drop-swordfishing.md](techniques/deep-drop-swordfishing.md)):
 
-**Sounder settings** (`planning/electronics-and-sounder.md`, `yLpDI8jnizU` + `yMiBtZ7k8-w`): the DSL is faint — **Furuno TVG/gain ~55–57**, **ping speed slowed to ~15 of 20** so the layer paints as a distinct band; translated to a Garmin GPSMAP 840xs as "gain up, slow the ping."
+- Fair-weather fishery. **>15 kt = no-go**, comfortable at **10–13 kt**, drift **≤ ~2–2.5 kt**; a **drift sock** extends marginal days.
+- Moon: bites rise on **new and full and the flanking weeks** ([conditions/moon.md](conditions/moon.md)).
+- Water: prefer **one big powerful "highway" break** over finger rips; **structure × current-edge intersection = the banger days** ("you could have been there a week earlier and couldn't buy a bite").
 
-**Where, in structure terms** (`species/swordfish.md`): **150–350 fathoms** on contour lines, thumbs, notches, humps; set up and let fish come along the fathom-curve "highways." Water read: prefer **one big powerful highway break** over finger rips; **structure × current-edge intersection = the banger days**. Moon: bites rise on **new and full and the flanking weeks** (`conditions/moon.md`).
+**Stop criteria — the part the KB is genuinely strong on** ([conditions/deep-scattering-layer.md](conditions/deep-scattering-layer.md)):
 
-**Rig, exact numbers** (`techniques/deep-drop-swordfishing.md`):
-- **80 lb braid** main → **25 ft of 200 lb wind-on** → **10–15 ft of 200 lb minimum, 300 lb maximum** leader; still a short-leader system, swivel close in so the fish is in gaff range at the swivel.
-- **14/0 offset circle, very heavy-duty forged, big barb**, sewn so the hook **exits the top of the squid's mantle** — the fish swims up against the weight and the circle finds the corner of the mouth.
-- **Breakaway lead 7–10.5 lb** matched to drift (heavier when faster), on a light stick / rubber-band breakaway.
-- **One LP-class clip-on light 10–15 ft from the bait** — green/blue standard, **white early and late**; fishing with no light is called a rigging failure, not a variant.
-- **Two baits staggered**, budget **~7–9 minutes** to get both down. Baits ride the layer and **100–250 ft below** it; SoCal baits average **800–1,100 ft** — DSL at 850 → bait ~900.
-- Drift set **up-current of the fathom line**, "down and in" along the contour edge.
+- **DSL present at 600 ft minimum**, preferred **down to ~950 ft (150 fm) or deeper** — a layer painting at 1,000–1,100 ft is a reason to stop, not to pass.
+- **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+ fm** ≈ **bites near-assured.** A bare layer with no bait is explicitly **not a stop** — that is also listed as the #1 common failure.
+- Diet corroboration for fishing in/below the layer: stomachs full of hake, small rockfish, squid; one Catalina fish full of mullet.
 
-**Bite and endgame**: best hookups come from **rods nobody touches**; drag doctrine kept as an unreconciled conflict — **Duane ~10 lb pulling drag max** (soft mouths rip), start slightly heavier so the circle buries then back off 2–3 clicks, vs **Rush Maltz 18–20 lb at strike**. **Boat stays in gear** through the endgame; **leader no-wrap, finger-pull only**; kill shot with the harpoon/flyer **to the gill plate**.
+**Sounder settings** ([planning/electronics-and-sounder.md](planning/electronics-and-sounder.md), from the same seminar; the note's source list also carries `yLpDI8jnizU` for Duane's fish-finder walkthrough):
 
-**Gear class** (`tackle/gear-classes.md`): "Deep-drop / swordfish class — heavy stand-up 2-speed lever-drag; manual or electric-assist." Terminal is heavy bite-leader class (200 lb+).
+- Furuno: **TVG/gain ~55–57**, **ping speed slowed to ~15 of 20** so the faint layer paints as a distinct band.
+- Translated to a Garmin GPSMAP 840xs: gain up, slow the ping, then watch for the band.
+- Bird radar for the run out: **gain near max, range 4–5 mi**, schools paint as red blotches.
 
-**Region hygiene**: the East-coast/Gulf Stream contrast is labeled and quarantined — bottom-oriented ~1,800 ft, 12–15 lb leads, long leaders, "the numbers do not transfer."
+**Execution and rig** ([techniques/deep-drop-swordfishing.md](techniques/deep-drop-swordfishing.md), `yMiBtZ7k8-w`, `KuVwmfF6RAo`):
+
+- Set the drift **up-current of the fathom line** so the bait sweeps the structure; preferred drift is **"down and in"** along the contour edge.
+- **Two baits staggered** in the column; budget **~7–9 minutes** to get both down and fishing.
+- Baits ride the layer and **100–250 ft below** it; SoCal baits **average 800–1,100 ft** — DSL at 850 → bait at ~900.
+- **Lead: breakaway 7–10.5 lb matched to the drift** (heavier when faster) on a light stick / rubber-band breakaway.
+- **Hook: 14/0 offset circle, very heavy-duty forged, big barb**, rigged **sewn so the hook exits the top of the squid's mantle** — the fish swims up against the weight and the circle finds the mouth corner.
+- **Line: 80 lb braid → 25 ft 200 lb wind-on → 10–15 ft of 200 lb at the least, 300 at the most**; still a short-leader system, swivel close in so the fish is in gaff range at the swivel.
+- **Light: one LP-class clip-on 10–15 ft from the bait**, green/blue standard, **white early and late in the day**. Fishing with no light is called a rigging failure, not a variant.
+- **Bite handling: the best hookups come from rods nobody touches** — let it wolf the bait, resist grabbing on the first taps.
+- **Drag — two doctrines kept side by side from the same seminar:** Duane Diego Mellor fights at **~10 lb pulling drag at most** (sword mouths are very soft and rip), starting a touch heavier so the circle buries then **backing off two or three clicks**; Rush Maltz runs **18–20 lb at strike**.
+- Endgame: **boat stays in gear** (a slowly moving boat keeps the fish tracking; at a standstill nearly every fish darts under the boat and motors), **leadering is no-wrap, finger-pull only**, and the kill shot is the **harpoon/flyer to the gill plate**.
+- A **labeled East-coast contrast** warns you off transferring numbers: Gulf Stream deep-dropping is bottom-oriented ~**1,800 ft**, **12–15 lb leads**, long leaders.
+
+**Gear class:** [tackle/gear-classes.md](tackle/gear-classes.md) defines a **deep-drop / swordfish class** = heavy stand-up **2-speed lever-drag**, manual or electric-assist. The fishery is stated to use both.
+
+**Transferable support notes:** drift control at depths too deep to anchor — read wind vs current, set up up-drift, **motor angled off the keel line as a rudder** to slow/steer, **pull the motor clear to speed a slow drift**, **drift sock/chute to slow a fast one** ([planning/search-and-glassing.md](planning/search-and-glassing.md), `_ZThckj2TIM`); and for the run itself, [conditions/sea-state.md](conditions/sea-state.md) — the steepness rule (10 ft @ 15 s barely felt, 3–4 ft @ 4–5 s brutal), current-vs-swell opposition degrading a forecast (4 ft @ 10 s fishing like 6 ft @ 7–8 s), a **12–24 h wind hindcast** requirement, and Dave Hansen's go/bail thresholds — personal cutoff at **~12 kt**, **sub-10-second interval a hard bad-sea flag**, **12–15 kt with 4–8 ft @ 9 s** named unfishable (`NC3-3pJDEgo`).
 
 ---
 
 ## Where it is thin
 
-### 1. Newport is not a place in this KB
-Newport appears exactly four ways and none of them are offshore: as a bay-bass harbor (`locations/bays-and-harbors.md`, `species/spotted-bay-bass.md`), as a wind-geography line — "**south of Newport** is less prone to wind-wave-driven rollovers" (`locations/bight-geography.md`, `HzE4FHHcvTk`), as a Santa Ana hazard note (a boat caught at Avalon faces a multi-hour beat back to Newport/Dana Point — `conditions/sea-state.md`, `NC3-3pJDEgo`), and in `locations/zone-lexicon.md`, which says the strip from **Dana Point through Newport and Marina del Rey out to Catalina is already 2,000–3,000 ft deep**, with Huntington staying shallower longer because of the flats (`Rf1HKJG-SDg`). That last line is the only statement in the KB about the water off your bow — and it does **not** tell you where the 150–350 fm contour actually lies relative to Newport.
+**1. Newport is not in this KB as a fishing origin.** In this version of the repo, `locations/` holds universal structure knowledge only — there are no spot or area pages at all, so there is no Orange County / Newport offshore page, no run distance or bearing to any sword ground, no port, launch, fuel or transit-time planning, and no route note. The only Newport mentions anywhere are: harbors listed as an example bay complex ([locations/bays-and-harbors.md](locations/bays-and-harbors.md)); Newport named as a mainland port facing a multi-hour beat home from Catalina in a Santa Ana ([conditions/sea-state.md](conditions/sea-state.md), `NC3-3pJDEgo`); "**south of Newport** is less prone to wind-wave-driven rollovers" in a NW blow ([locations/bight-geography.md](locations/bight-geography.md), 4/21/22 Landesfeind report, note front matter `HzE4FHHcvTk`); and the Balboa Angling Club flag above.
 
-### 2. Every named sword spot is San Diego–side
-The router names the working spots as **the Ridge, the 9, the 43, the 178, the 302, the 138/182 area**. Cross-referencing the coordinate library (`sources/spot-lists.md`) puts them all at 32°26'–32°49' N:
+**2. The named sword spots are not located, and the ones that resolve are San Diego water.** The router names the Ridge / the 9 / the 43 / the 178 / the 302 / 138/182 with no coordinates and no distances. Cross-checking the coordinate library ([sources/spot-lists.md](sources/spot-lists.md), Cameron's — a San Diego-based library, not a Newport one) resolves five of them, all in the low 32s: **43 — 32°39.333′ / 117°58.417′**, **138 — 32°48.750′ / 117°49.333′**, **178 — 32°42.000′ / 117°29.317′**, **182 — 32°41.300′ / 117°42.400′**, **302 (Kidney Bank) — 32°26.333′ / 117°34.750′**, plus **North / South 9 Mile Bank at 32°38.000′ / 117°26.000′ and 32°32.000′ / 117°21.000′**. "**The Ridge**" is unresolved — the KB separately carries Patton Ridge, South Kelp Ridge and 15 Fa Ridge in the spot library and mentions "Clemente Ridge" inside the below-Clemente complex ([locations/zone-lexicon.md](locations/zone-lexicon.md)), and never says which one the sword note means. **The KB nowhere links any bank in the water off Newport — 14 Mile Bank (33°23.833′ / 118°00.000′), 277, 279/267, 209, the Boot — to swordfish.** If you fish out of Newport, the KB gives you the depth-band recipe and you supply the targets.
 
-| Spot | Position (from `sources/spot-lists.md`) |
-| --- | --- |
-| 138 | 32 48.750 / 117 49.333 |
-| 178 | 32 42.000 / 117 29.317 |
-| 182 | 32 41.300 / 117 42.400 |
-| 43 | 32 39.333 / 117 58.417 |
-| North 9 Mile Bank | 32 38.000 / 117 26.000 |
-| South 9 Mile Bank | 32 32.000 / 117 21.000 |
-| 302 (Kidney Bank) | 32 26.333 / 117 34.750 |
+**3. The one piece of Newport-adjacent bathymetry is context, not a target list.** [locations/zone-lexicon.md](locations/zone-lexicon.md) (`Rf1HKJG-SDg`) notes that from **Dana Point through Newport and Marina del Rey out to Catalina**, the water a mile to a mile-and-a-half off the beach is already **2,000–3,000 ft deep** (Huntington stays shallower because of the flats) — deeper than the 150–350 fm target band and, more to the point, not the isolated contour structure the sword doctrine tells you to set up on.
 
-For scale, the northernmost OC entry in the same file is Pelican Point at 33 34.510 / 117 51.370 and Dana Point Kelp red buoy at 33 27.320 / 117 43.380. **The KB gives no run distances, no fuel math, and no OC-departure logistics** — so it cannot tell you whether any of this is a day trip from Newport.
+**4. Regulations: nothing at all.** No California/CDFW swordfish rules, permits, size or bag limits, gear authorizations, or as-of/verify-current stamp — even though the KB's own content rules require jurisdiction + as-of + verify-current on regulatory claims (the only note that does this is [fish-care/sculpin-handling.md](fish-care/sculpin-handling.md)). Plan on verifying every legal question outside this KB.
 
-**"The Ridge" is ambiguous here.** The only "the Ridge" documented elsewhere in this KB is the Alijos Rocks / "the Ridge" Baja long-range wahoo ground (`tackle/searcher-alijos-rocks-ridge-7-day-quiver.md`, `uWGGeDOprsE`), and `locations/zone-lexicon.md` separately names a "Clemente Ridge" inside the below-Clemente complex. No note defines the sword "Ridge." Don't plan a run to it off this KB.
+**5. Deep-set buoy gear is absent.** The technique note invokes "buoy-gear logic" only as an analogy for leaving the rod alone; DSBG as an actual SoCal sword method is not covered.
 
-### 3. No Newport-side sword ground is named — only an unconfirmed inference is available
-The library does carry fathom-named banks up on the Catalina/LA/OC side — **14 Mile Bank** 33 23.833 / 118 00.000, **Avalon Bank** 33 24.700 / 118 13.500, **152** 33 14.800 / 118 10.833, **277** 33 12.000 / 118 04.800, **175** 33 36.850 / 118 57.117, **172** 33 30.200 / 118 50.500, **286** 33 34.500 / 118 36.000, **LA-270** 33 41.000 / 118 34.500, **307** 33 47.500 / 118 32.000 — and `locations/zone-lexicon.md` establishes that a bank's number **is the fathom depth of its shallowest point** (`Rf1HKJG-SDg`), with 14 Mile and 9 Mile named for distance instead. So several of those numbers sit inside the stated 150–350 fm band. **But no note in this KB connects any of them to swordfish.** That is my arithmetic on the KB's own naming rule, not KB doctrine — treat it as a lead to verify, not a plan.
+**6. Sight-fishing a finner is an admitted hole.** [species/swordfish.md](species/swordfish.md) carries an explicit flagged stub: the classic SoCal surface/sunning-fish encounter has **no corpus source yet** — approach, bait, and cast are all uncovered. Night swordfishing is likewise nowhere in the KB.
 
-The one OC-side contour entry that exists by name is **"The Hospital 100 Fathom Curve"** off Dana Point (33 29.500 / 117 47.100) — 100 fm, i.e. shallower than the 150–350 fm band the sword note calls for.
+**7. Fight and boat handling stop at doctrine.** You get the drag conflict, "boat in gear," no-wrap leadering, and the gill-plate harpoon shot — but no fight duration, no stand-up harness or rod-position detail, no drop-cycle or how-many-drops-a-day expectation, no time-of-day pattern inside the daytime window, and no real electric-vs-manual tradeoff beyond "pick per program."
 
-### 4. Hard gaps
-- **Regulations: nothing.** `sources/regulatory-claims.md` has zero swordfish rows, and `species/swordfish.md` has no regulations section. No permit/authorization status, allowable gear, size/bag, or reporting requirements. Verify independently with CDFW/NOAA before you fish.
-- **Only one method exists here.** Daytime deep-drop, full stop. The KB itself flags **finning/sunning sight-fishing as a stub with no corpus source** ("approach, bait, cast are all uncovered"). There is **nothing** on night swordfishing/lit drifts or on deep-set buoy gear — "buoy gear" appears only as fight-handling logic ("let the fish wolf it — buoy-gear logic"), never as a method, and "harpoon" appears only as the kill shot.
-- **No reel-operation detail.** The class allows electric-assist or manual, but there are no models, no power/retrieve figures, and nothing on what retrieving from 800–1,100 ft actually takes on a manual reel. Cameron's "manual reels only" is recorded as a *profile constraint and open item* (`profiles/cameron/rods.md`), explicitly not fishery doctrine.
-- **No bait program.** "Dead squid, mackerel, mullet-class" plus the mantle-sewing detail is all you get. The `bait/` branch is live-bait only — nothing on sourcing, brining, or storing dead deep-drop baits.
-- **No deployment mechanics** beyond "7–9 minutes for two baits": no line marking, no drop rate, no scope/sweep management, no wind-on handling at the swivel.
-- **No sword-specific fish care.** `fish-care/` covers tuna, wahoo, dorado, gaffing, ikejime — nothing on bleeding, icing, or securing a broadbill after the gill-plate shot.
-- **No boat/trip framework for this.** `planning/trip-length-selection.md` is sportboat one-day-vs-multi-day framing. The only profile is Cameron's, home port **Dana Landing, Mission Bay**, and his `boat.md` has `home_port`, `range_nm`, `sea_state_max_ft` all **null** — so the protocol's step 1b (`planning/day-plan-protocol.md`) would ask you for your own range and sea-state limits rather than assume any. A blank `profiles/_template/` exists if you want to fill one in.
-- **Evidence base is one seminar.** Two video sources, 2021 vintage, describing 2019–2020. No catch reports, no post-2022 data, and the KB's conditions eval anchors (`locations/bightsst-eval-targets.md`) include 14 Mile Bank (LA), 9 Mile, 302, Cortes, La Jolla NW, Rockpile, Pyramid Cove and the Coronados — nothing dedicated to an OC-side sword search box.
+**8. Terminal-tackle depth thins out right where the sword rig gets specific.** There is no note for the breakaway-lead stick/rubber-band build itself — [rigging/rubber-band-deep-rig.md](rigging/rubber-band-deep-rig.md) is the tuna live-bait breakaway sinker (4–6 oz torpedo, flyline extension), a different rig. Crimping guidance exists only at bluefin scale in [rigging/bite-leaders.md](rigging/bite-leaders.md) (130 lb example, size 1.6 crimp, ≤2–2.5 ft) — nothing at the 200–300 lb sword scale. [rigging/wind-on-leader.md](rigging/wind-on-leader.md) covers the wind-on splice generally (match classes within a pound-test step, ~2 ft minimum bury) but never the 25 ft / 200 lb sword build specifically. The light is "LP-class clip-on" with no depth rating, battery, or strobe-vs-steady guidance, and has no `lures/` note.
+
+**9. Dead-bait prep is one sentence.** "Sewn so the hook exits the top of the squid's mantle" is the entire rigging instruction; `bait/` is live bait, tanks and making bait only — no brining, sourcing, or dead-bait rigging note.
+
+**10. Post-catch care for a sword: nothing.** `fish-care/` has notes on tuna, dorado, ikejime, gaffing and sculpin, and **none of them mention swordfish** — no bleeding, chilling, icing or butchering guidance for the fish, and [fish-care/gaffing.md](fish-care/gaffing.md) does not cover harpoon/flyer use.
+
+**11. The source base is two videos.** Everything above traces to `yMiBtZ7k8-w` (the 2021 Costa seminar, describing 2019–2020) and `KuVwmfF6RAo`, plus the single `5D1vx29LVpI` Newport report line — confirmed by [sources/extraction-log.md](sources/extraction-log.md), which maps `yMiBtZ7k8-w` to the DSL, electronics and swordfish notes and `KuVwmfF6RAo` to the swordfish note alone. The doctrine is high-confidence (Duane Diego Mellor, Rush Maltz and Ali Hussainy are all registered named captains per [sources/source-registry.md](sources/source-registry.md)), but it is essentially **one seminar's program**, and the only place the KB shows you a second opinion is the drag number.
 
 ---
 
-## How I'd actually use it out of Newport
+## How I'd use it
 
-Take the KB's **method** wholesale — the DSL+bait-ball stop rule, the 800–1,100 ft bait depth, the 80 lb → 25 ft 200 lb wind-on → 10–15 ft 200–300 lb build, the 14/0 forged circle sewn through the mantle top, the 7–10.5 lb breakaway, the light 10–15 ft up, two baits, hands off the rod, ~10 lb of pulling drag (Duane) or 18–20 at strike (Maltz), boat in gear, no-wrap leadering, gill-plate flyer. Take the gating too: October–mid-November peak, new/full moon ±flanking weeks, wind under 13 kt, drift under 2.5 kt, and gain up / ping slowed to paint the layer.
-
-Supply yourself what the KB doesn't have: **which 150–350 fm contour you're actually running to from Newport**, the run distance and fuel, and the current regulations. And budget your search time by `locations/zone-lexicon.md`'s box rule — a complex like the below-Clemente ground (43/181/182/289) is a **~50–60 square-mile, hours-long** search box, while a compact bank like 302 is a **20–30 minute** grade-and-go.
+For a Newport trip in the **October – mid-November** peak, this KB will fully specify your rig, your bait depth, your sounder settings, your stop/no-stop criteria and your fishable-day thresholds — that part is solid and numeric. It will **not** tell you where to point the bow, how far the run is, what the legal picture is, or what to do with the fish once it is on the deck. Bring your own chart work for the 150–350 fm contour structure off Newport, and check the regulations independently.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/electronics-and-sounder.md`, `planning/trip-length-selection.md`, `species/swordfish.md`, `species/README.md`, `techniques/deep-drop-swordfishing.md`, `techniques/README.md`, `conditions/deep-scattering-layer.md`, `conditions/moon.md`, `conditions/sea-state.md`, `conditions/water-regimes.md`, `seasonal/october.md`, `seasonal/november-december.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `locations/bightsst-eval-targets.md`, `locations/bays-and-harbors.md`, `tackle/gear-classes.md`, `rigging/bite-leaders.md`, `tackle/searcher-alijos-rocks-ridge-7-day-quiver.md`, `sources/spot-lists.md`, `sources/regulatory-claims.md`, `sources/extraction-log.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/spots.md`, `profiles/cameron/README.md`, `profiles/_template/README.md`  
-*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `yLpDI8jnizU`, `5D1vx29LVpI`, `Rf1HKJG-SDg`, `HzE4FHHcvTk`, `NC3-3pJDEgo`, `uWGGeDOprsE`, `Blh2BA-7Ono`  
-*gaps admitted:* No Newport Beach departure, zone, or location note exists — Newport appears only as a bay-harbor for bay bass, a wind-rollover reference, and a Santa Ana return-port hazard. | No swordfish ground is named on the LA/Orange County side; all six named working spots (the Ridge, the 9, the 43, the 178, the 302, the 138/182) sit at 32°26'–32°49' N, San Diego–side. | The KB gives no run distances, fuel burn, or transit times from any port to the sword grounds, including from Newport. | 'The Ridge' named in the swordfish router is undefined in this KB — the only documented 'Ridge' is the Alijos Rocks Baja long-range ground, plus a separate 'Clemente Ridge' in the zone lexicon. | Where the 150–350 fathom contour lies relative to Newport is never mapped; the only depth statement is that the Dana Point–Newport–Marina del Rey strip out to Catalina is already 2,000–3,000 ft deep. | No swordfish regulations anywhere — sources/regulatory-claims.md has zero swordfish rows and species/swordfish.md has no regulations section (no permits, allowable gear, size/bag, or reporting). | No coverage of deep-set buoy gear as a method — 'buoy gear' appears only as fight-handling logic. | No coverage of night swordfishing or lit-drift sword methods. | Sight-fishing finning/sunning swordfish is explicitly a flagged stub with no corpus source — approach, bait, and cast are all uncovered. | No electric-reel or manual-retrieve operating detail for deep-dropping (no models, power figures, retrieve rates, or what recovering 800–1,100 ft entails). | No dead-bait program for deep-drop: sourcing, brining, or storing squid/mackerel/mullet baits is uncovered; only the mantle-sewing detail is given. | No deployment mechanics beyond '~7–9 minutes for two baits' — no line marking, drop rate, scope, or current-sweep management. | No swordfish-specific fish care — nothing on bleeding, icing, or securing a broadbill after the gill-plate flyer shot. | No private-boat trip/fuel/range planning framework for a 150–350 fm run out of an Orange County port; trip-length-selection.md is sportboat multi-day framing. | No Newport-based angler profile; the only profile (Cameron) is Mission Bay–based with home_port, range_nm and sea_state_max_ft all null. | Sword evidence base is two 2021-vintage videos describing the 2019–2020 seasons; no catch reports or data after 12/2022. | No BightSST conditions eval anchor sits in the sword depth band on the Orange County side.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/deep-scattering-layer.md`, `planning/electronics-and-sounder.md`, `planning/search-and-glassing.md`, `conditions/sea-state.md`, `conditions/moon.md`, `seasonal/november-december.md`, `seasonal/october.md`, `locations/zone-lexicon.md`, `locations/bight-geography.md`, `locations/bightsst-eval-targets.md`, `locations/bays-and-harbors.md`, `tackle/gear-classes.md`, `rigging/bite-leaders.md`, `rigging/rubber-band-deep-rig.md`, `rigging/wind-on-leader.md`, `techniques/rockfish-deep-dropping.md`, `fish-care/gaffing.md`, `fish-care/sculpin-handling.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/README.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `sources/extraction-log.md`, `sources/source-registry.md`  
+*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `5D1vx29LVpI`, `Rf1HKJG-SDg`, `NC3-3pJDEgo`, `_ZThckj2TIM`, `yLpDI8jnizU`, `HzE4FHHcvTk`  
+*gaps admitted:* No Newport Beach origin knowledge: no run distance, bearing, transit route, port/launch, or fuel-range planning to any swordfish ground. | No location page or 150-350 fathom target list for the water off Newport / Orange County; this KB version has no spot or area pages at all in locations/. | The router's named sword spots (the Ridge, the 9, the 43, the 178, the 302, 138/182) carry no coordinates in the sword notes; 'the Ridge' is never disambiguated among Patton Ridge, South Kelp Ridge, 15 Fa Ridge, or Clemente Ridge. | No note links any Newport-side bank (14 Mile Bank, 277, 279/267, 209, the Boot) to swordfish; the sword spots that resolve in the coordinate library are all San Diego / below-Clemente water. | No swordfish regulations: no CDFW/California rules, permits, size or bag limits, gear authorizations, or as-of / verify-current stamp. | Deep-set buoy gear (DSBG) is not covered as a method — only invoked as an analogy for not touching the rod. | Sight-fishing a finning/sunning swordfish is an explicit flagged stub with no corpus source: approach, bait and cast uncovered. | Night swordfishing is not covered anywhere. | No fight-duration, stand-up harness, rod-position, drop-cycle, drops-per-day, or time-of-day-within-the-daytime-window detail. | Electric-assist vs manual reel tradeoffs are stated only as 'pick per program' — no comparison. | No note for the breakaway-lead stick/rubber-band build itself (the existing rubber-band deep rig note is the tuna live-bait breakaway sinker). | No crimping or terminal-build guidance at 200-300 lb sword scale; bite-leader note tops out at a 130 lb bluefin example. | The deep-drop light is only 'LP-class clip-on' — no depth rating, battery, model, or strobe-vs-steady guidance, and no lures/ note. | Dead-bait sourcing, brining and rigging for deep drop is a single sentence ('sewn so the hook exits the mantle'); bait/ covers live bait only. | No swordfish post-catch care: fish-care/ has nothing on bleeding, chilling, icing or butchering a sword, and gaffing.md does not cover harpoon/flyer technique. | Source base is two videos (yMiBtZ7k8-w, KuVwmfF6RAo) plus one Newport report line — essentially one 2021 seminar describing the 2019-2020 seasons; the only competing view captured is on drag.
 
 </details>
 
-<details><summary><b>NOW — review</b> · 12/12</summary>
+<details><summary><b>B3 — batch 3</b> · 12/12</summary>
 
-## Short answer
+## Short version
 
-The knowledgebase covers **the method** of SoCal daytime deep-drop swordfishing in real, usable detail — rig, depths, stop criteria, weather gates, endgame. It does **not** cover **Newport Beach** as a departure point at all. Every named swordfish ground in the corpus is off San Diego, no run distance or heading from Newport exists anywhere in the KB, and Newport Harbor itself has no page. So: strong on "how," thin on "where from here," and the whole thing rests on essentially one sponsored webinar.
+The **method** is covered unusually well — the KB has a real, numbers-first deep-drop module. The **Newport Beach part is not covered at all**: every named sword ground in this KB sits in San Diego / below-Clemente water, and nothing in the KB gives you a Newport position, a run distance, a fuel/range check, or a sword ground on the Orange County side. So: strong "how," strong "when," strong "what does the meter have to show me" — near-zero "from your ramp."
+
+Also worth knowing up front: essentially the whole module comes from **two BD Outdoors videos** — the Feb 2021 Costa deep-drop seminar (`yMiBtZ7k8-w`, Duane Diego Mellor / Rush Maltz / Ali Hussainy, describing the **2019 and 2020** seasons) and a 2020 Duane interview (`KuVwmfF6RAo`). Deep, but single-room.
 
 ---
 
 ## What it knows well
 
-### The core fishery model
-SoCal broadbill is a **daytime deep-drop** fishery built on the deep scattering layer: the fish ride the DSL by day, so you hunt deep contour structure in **150–350 fathoms** and hang a dead bait in or just below the layer (`yMiBtZ7k8-w` — `species/swordfish.md`, `techniques/deep-drop-swordfishing.md`). Bait depth averages **800–1,100 ft**, roughly **100–250 ft below** the layer; a DSL read at 850 ft puts the bait at about 900 ft (`yMiBtZ7k8-w` — `conditions/deep-scattering-layer.md`). Satellite tagging by PIER put the fish inside the layer by day, and that finding is what opened the recreational fishery (`yMiBtZ7k8-w`).
+**Season and window** — `species/swordfish.md`, `seasonal/november-december.md`
+- Late **September – December**, peak **October – mid-November**; interannual (some years hot late Sept/Oct, others mid-Nov), last fish **~a week before Christmas**.
+- Holdover fish are around year-round but **not worth the fuel Jan–Aug**.
+- Today (2026-09-09) you are a couple of weeks ahead of the earliest edge of that window.
+- Late-window data point: the Balboa Angling Club took its **first sword flag of the season on 12/14/22** (`5D1vx29LVpI`) — logged explicitly as a one-club, one-year point, *not* a prior that the season starts in December.
 
-### Season and catchability
-Late **September into December**, with the KB stating a peak of October to mid-November. It is interannual: 2019 ran hot from mid-to-late September through October; 2020 peaked about **10 days before Thanksgiving**; the last fish of 2019 came about a week before Christmas (`yMiBtZ7k8-w`). Presence vs. catchability is explicit and useful — the same program in **August can go five trips without a bite**, September produces a couple, by **October it's a bite a trip if not more** (`yMiBtZ7k8-w`, `species/swordfish.md`). One club's first flag of a season landed as late as **12/14/22** (`5D1vx29LVpI`, `seasonal/november-december.md`). October is an "everything season" with swordfish in the offshore mix alongside marlin, bluefin and yellowfin (`XLVUhV8DW64`, `seasonal/october.md`).
+**Go / no-go weather** — `species/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/sea-state.md`
+- **>15 kt = no-go.** Comfortable **10–13 kt**. Drift **≤ ~2–2.5 kt**; a **drift sock** extends marginal days; above 2.5 kt the presentation dies.
+- The general sea-state layer is strong and applies to the run: period matters more than height (**10 ft @ 15 s** barely felt, **3–4 ft @ 4–5 s** brutal); counter-current against NW swell makes a forecast **4 ft @ 10 s** fish like **6 ft @ 7–8 s**; add a **12–24 h wind hindcast** (calm-morning forecasts hide overnight chop) and a **48–72 h upstream fetch scan** (San Nicolas went 4 ft → 12 ft from a system off Oregon).
+- Newport is named twice in the KB, both times about weather rather than fishing: **south of Newport is "less prone to wind-wave-driven rollovers"** in a big NW event (`locations/bight-geography.md`, `HzE4FHHcvTk`), and a Santa Ana caught 25–45 kt at Avalon with a multi-hour beat home to **Newport / Dana Point** (`conditions/sea-state.md`, `NC3-3pJDEgo`).
 
-### Weather gate
-Wind **10–13 kt** is the working maximum in the traditional northwest wind; above **15 kt** the note says the fleet doesn't fish; drift beyond roughly **2–2.5 kt** kills the presentation (`yMiBtZ7k8-w`, `species/swordfish.md`). Read the caveat below — the ledger says all three numbers are harder in the note than on camera.
+**The stop / don't-stop rule — the best part of the module** — `conditions/deep-scattering-layer.md`, `species/swordfish.md`
+- You hunt the **layer and its bait**, not the fish — sat-tag work (PIER / Sepúlveda) put the fish on the DSL by day.
+- **DSL present at ≥600 ft**, preferred **~950 ft / 150 fathoms or deeper** (a layer painting 1,000–1,100 ft is a reason to stop, not to pass).
+- **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+ fathoms ≈ bites near-assured.** A bare layer with no bait is **not a stop** — keep moving and grade the meter. This is listed as the #1 common failure.
+- Diet corroboration: stomachs of hake, small rockfish, squid; one Catalina fish full of mullet.
+- **Sounder settings** (`planning/electronics-and-sounder.md`, from the seminar's Furuno boats + `yLpDI8jnizU`): **TVG/gain up (Furuno ~55–57)**, **ping speed slowed (~15 of 20)** so the faint layer paints as a distinct band. Translated to a Garmin GPSMAP 840xs as: gain up, slow the ping, watch for the band. Unit-agnostic doctrine, one worked example.
 
-### Stop criteria (the part that saves you fuel)
-Before you commit to a drift you want, per `species/swordfish.md` and `conditions/deep-scattering-layer.md` (`yMiBtZ7k8-w`):
-- **DSL present at ≥600 ft**, preferred ~**950 ft / 150 fathoms** or deeper;
-- **plus chunky bait balls** — anchovy, hake or squid — at **100–150+ fathoms**. A bare layer with no bait in it is not a stop;
-- fish themselves paint as a **long return, not a boomerang**, sitting **200–300 ft under the feed layer** (`KuVwmfF6RAo`);
-- **do not blind-drop** — the meter decides the stop (`KuVwmfF6RAo`).
+**Where, in structure terms** — `species/swordfish.md`, `locations/zone-lexicon.md`
+- **150–350 fathoms** on **contour lines, thumbs, notches, humps**. West-coast model: **set up and let the fish come along the fathom-curve "highways."**
+- Water: SST + chlorophyll breaks = converging masses; prefer **one big powerful "highway" break** over finger rips; **structure × current-edge intersection = the banger days** ("you could have been there a week earlier and couldn't buy a bite").
+- **Moon:** bites rise on **new and full plus the flanking weeks** (`conditions/moon.md`). That note also carries a dissent kept side by side — Capt. Dave Hansen (`fri_BWI-VA0`) argues 7 days before **and** 7 days after the full, with the peak itself being travel time — but he ties it to bluefin, not sword.
 
-Sounder settings are real numbers: push TVG/gain up (Furuno ~**55–57**), slow ping speed to about **15 of 20** so the layer paints as a band (`yMiBtZ7k8-w`, `yLpDI8jnizU`, `planning/electronics-and-sounder.md`); the filmed drift ran **TVG 9** on the boat's unit to get a return back from 1,000+ ft (`KuVwmfF6RAo`, `species/evidence/swordfish.md`).
+**Execution numbers** — `techniques/deep-drop-swordfishing.md`
+- Set the drift **up-current of the fathom line** so the bait sweeps the structure; preferred drift **"down and in"** along the contour edge.
+- **Two baits staggered** in the column; budget **~7–9 minutes** to get both down and fishing.
+- Baits ride the layer and **100–250 ft below** it; SoCal baits **average 800–1,100 ft** — DSL at 850 → bait ~900.
+- **Lead:** breakaway **7–10.5 lb matched to the drift**, heavier when faster, on a light stick / rubber-band breakaway so it drops on the bite.
+- **Hook:** **14/0 offset circle, very heavy-duty forged**, big barb, **sewn so the hook exits the top of the squid's mantle** — the fish swims up against the weight and the circle finds the mouth corner.
+- **Line/leader:** **80 lb braid** → **25 ft of 200 lb wind-on** → **10–15 ft of 200 lb minimum, 300 lb max** — still a short-leader system, swivel close in so the fish is in gaff range at the swivel.
+- **Light:** one **LP-class clip-on 10–15 ft from the bait**; green/blue standard, **white early and late**. Fishing with no light is called a rigging failure, not a variant.
+- **Bite:** the best hookups come from **rods nobody touches** — let it wolf the bait.
+- **Drag — two doctrines kept side by side, both from that seminar:** Duane Diego Mellor fights at **~10 lb of pulling drag at most** (sword mouths are soft and rip), starting a touch heavier so the circle buries then backing off two or three clicks; **Rush Maltz runs 18–20 lb at strike.**
+- **Endgame:** boat **stays in gear** (a slowly moving boat keeps the fish tracking; at a standstill they dart under the boat and motors); **leader no-wrap, finger-pull only**; finish with the **harpoon/flyer to the gill plate**.
+- **Labeled contrast:** East-coast/Gulf Stream deep-dropping is bottom-oriented **~1,800 ft**, **12–15 lb leads**, long leaders — explicitly flagged as not transferring.
 
-### Execution — `techniques/deep-drop-swordfishing.md`
-- **Drift:** set up-current of the fathom line so the bait sweeps the structure; preferred line is **"down and in"** along the contour edge. Two rods — buoy-gear rod and tip rod — staggered, **~7–9 minutes** to get both baits down (`yMiBtZ7k8-w`).
-- **Lead:** breakaway **7–10.5 lb**, matched to drift.
-- **Hook:** **14/0 offset circle**, heavy-duty forged, big barb, sewn so the hook exits the top of the squid's mantle.
-- **Line build:** **80 lb braid** → **25 ft of 200 lb wind-on** → **10–15 ft of 200 lb (max 300 lb) leader** → swivel to bait. Deliberately short, so the fish is in gaff range when the swivel hits the rod tip.
-- **Light:** one **LP-class clip-on 10–15 ft from the bait**, green or blue, switching to **white early and late**. Fishing with no light is called a rigging failure.
-- **Bait:** dead squid is the SoCal standard.
-- **Bite handling:** the best hookups come off **the rod nobody touches**; resist grabbing it on the first taps.
-- **Endgame:** boat **stays in gear** (at a standstill fish dart under the boat into the motors); the fight **changes at 30 ft** when the lead comes off and load transfers to the rod tip; **leader by hand, no wrap** against a soft mouth; kill shot into the **gill plate**, then gaffs and a tail rope.
-- **Common failures:** bare DSL with no bait balls; drift >2.5 kt; touching the rod early.
+**Gear class** — `tackle/gear-classes.md`: "Deep-drop / swordfish class = heavy stand-up 2-speed lever-drag; manual or electric-assist." The fishery uses both; the KB records manual-only as one angler's personal constraint, not a rule.
 
-Gear class is `deep-drop / swordfish class` in `tackle/gear-classes.md`: heavy stand-up or bent-butt, manual or electric-assist, with the note explaining *why* electric is common — most of the fight is the fish swimming up against the lead, so you're saving the angler for the endgame.
+**Drift handling** — `planning/search-and-glassing.md` (`_ZThckj2TIM`): read the drift before committing bait; **motor angled off the keel line acts as a rudder** to slow/steer the drift; pull the motor out to speed a slow drift; drop it back in or deploy the sock to slow a fast one.
 
----
+**Named grounds — and their real positions.** The router names the working spots as **the Ridge, the 9, the 43, the 178, the 302, the 138/182 area on break days**. Coordinates for most of those exist in the spot library (`sources/spot-lists.md`, committed publicly by the owner's waiver):
+- **43** — 32°39.333' / 117°58.417'
+- **138** — 32°48.750' / 117°49.333'
+- **178** — 32°42.000' / 117°29.317'
+- **182** — 32°41.300' / 117°42.400'
+- **302 (Kidney Bank)** — 32°26.333' / 117°34.750'
+- **North / South 9 Mile Bank** — 32°38.000' / 117°26.000' and 32°32.000' / 117°21.000'
 
-## Where it is thin — specifically for Newport Beach
-
-**1. Newport is not in the geography at all.** There is no `locations/newport-beach.md`. The spot library's northernmost mainland waypoint is **Pelican Point (33°34.510'N 117°51.370'W)** on the Newport Coast, in `locations/south-orange-county-crystal-cove.md` — and `locations/279-267-14-mile-bank.md` says outright that the library **carries no Newport position**. No harbor page, no ramp, no bait source, no fuel, no run times.
-
-**2. Every named swordfish ground in the corpus is off San Diego.** The rotation is the Ridge, the 9 Mile Bank, the 14, the **43** (32°39.333'N 117°58.417'W), the **178** (32°42.000'N 117°29.317'W), the **302** (32°26.333'N 117°34.750'W), plus the **138** (32°48.750'N 117°49.333'W) and **182** (32°41.300'N 117°42.400'W) (`yMiBtZ7k8-w`, `species/swordfish.md`, and the individual spot pages). Those sit at 32°26'–32°48'N — 50-plus nautical miles south of Newport. The one filmed SoCal sword drift in the corpus was at the **178, in about 1,090 ft** (`KuVwmfF6RAo`). Nothing in the KB tells you what that run costs from Newport.
-
-**3. The Orange-County-side deep marks have depth, not fishing.** The three pieces of 150–350 fm ground actually near Newport carry **flagged gaps, explicitly labeled "a depth match, not a report"**:
-
-| Mark | Position | Depth | Swordfish content |
-| --- | --- | --- | --- |
-| 14 Mile Bank | 33°23.833'N 118°00.000'W | **no stated depth at all** (named for distance) | ⚠ flagged gap — no corpus source dates a session (`locations/14-mile-bank.md`) |
-| 279 / 267 | 33°17.800'N 117°49.150'W | 267 fm ≈ **1,602 ft**, stated on camera | ⚠ flagged gap — depth match only (`locations/279-267-14-mile-bank.md`) |
-| 209 | 33°05.750'N 117°52.350'W | 209 fm ≈ **1,254 ft**, stated in three videos | ⚠ flagged gap — depth match only (`locations/209-312.md`) |
-| 312 | 33°01.417'N 117°48.500'W | 312 fm ≈ 1,872 ft, from the **name only** | ⚠ flagged gap (`locations/209-312.md`) |
-
-The 14 Mile Bank's nearest charted positions in the library are all on the Newport Coast / Dana Point stretch — **Hospital 100-fathom curve 12.2 nm / 062°, Crystal Cove 12.9 nm / 039°, Pelican Point 12.9 nm / 034°** (cameron, `locations/14-mile-bank.md`) — so the geometry is short from your side. But the KB flags that even the 14's inclusion in the sword rotation is a misread: the ledger shows "the 14" came from a passing surface-life example by a different speaker, not from the drift rotation (`sources/fact-check-ledger.md`, `yMiBtZ7k8-w`).
-
-**4. The one relevant deep-water fact for your coast is a coastal generalization, not sword doctrine.** From Dana Point through Newport to Marina del Rey the bottom is already **2,000–3,000 ft a mile to a mile-and-a-half off the beach** (`Rf1HKJG-SDg`, `locations/dana-point.md`, `locations/south-orange-county-crystal-cove.md`). That is inside the fishery's depth band on paper — but the KB never connects it to swordfishing, and it carries a flag that the source explicitly excepted **the Huntington flats** from the statement.
-
-**5. The only Newport-launched run in the corpus went somewhere else.** A trip that "launched at Newport" ran offshore to the **152 ridge** (`HzE4FHHcvTk`, `locations/south-orange-county-crystal-cove.md`) — striped marlin and bluefin ground, not a sword drift. The nearest thing to a run figure on that side of the Bight is **19.2 mi at 193°** from an unnamed home port to the bottom of the tanker lanes, then ~35 minutes further to the 277 (`3qSY328fFYo`, `locations/slide-152-277.md`). The only offshore-bank run in the entire corpus given as a compass course is **22.8 nm at 200° out of Dana Point to the 209** (`9hEa3sGTh40`, `locations/209-312.md`) — that's your closest usable proxy, and it's from Dana Point, not Newport.
-
-**6. No zone guide.** `species/swordfish.md` carries two flagged stubs where the trip-level story should be: **San Diego offshore banks** and **Catalina / island zone**. Neither is written. There is no Orange County zone guide at all.
+Two planning caveats the KB itself supplies (`locations/zone-lexicon.md`): banks are named for **the fathom depth of their shallowest point** (so "the 43" tops out at 43 fathoms — you're fishing the 150–350 fm contour *around* it, not the peak; Nine Mile is named for distance off the beach, not depth). And **box size differs**: the below-Clemente complex (43, 181, 182, 289, Clemente Ridge up to Mackerel Bank) reads as **one ~50–60 square-mile search box — hours of looking**, while **302 and 371 are compact spots — a 20–30 minute grade-and-commit read.**
 
 ---
 
-## Reliability caveat you should know before you use any of this
+## Where it's thin
 
-The SoCal doctrine comes almost entirely from **one source**: the Costa-sponsored BDOutdoors deep-drop webinar of **2021-02-04** (`yMiBtZ7k8-w`), with a San Diego captain, a Key West captain and a host, on auto-generated captions, describing the **2019 and 2020** seasons (`species/evidence/swordfish.md`). The KB is honest about the consequences — `sources/fact-check-ledger.md` carries roughly a dozen open flags on these two notes:
+**1. Newport Beach specifically — the biggest hole.** Every ground the KB names for sword lies between **32°26' and 32°48' N** (San Diego / Coronados / below-Clemente water). The KB gives no Newport coordinates, no run distances, no run times, no fuel or range planning, and no Orange County sword ground. **14 Mile Bank (33°23.833' / 118°00.000')** is the KB's LA-side modeling anchor but is **never described as sword ground** anywhere, so I won't offer it as one. The only Newport-area bathymetry statement in the KB is a naming aside: from **Dana Point through Newport to Marina del Rey, a mile to a mile-and-a-half off the beach is already 2,000–3,000 ft deep** (`locations/zone-lexicon.md`, Capt. Dave Hansen, `Rf1HKJG-SDg`, medium confidence) — deep water is close, but the KB identifies no fishable 150–350 fm contour structure off Newport.
 
-- **When the lead leaves the line is contradicted between the two notes** — `techniques/deep-drop-swordfishing.md` says the breakaway drops on the hookset; `species/swordfish.md` and the technique note's own endgame section say it comes off **by hand at 30 ft**. That's the premise behind the electric-assist recommendation, so it matters.
-- **The drag doctrine doesn't match.** The router sends you to the technique note for a "low-drag doctrine" derived from the soft roof of the mouth; the technique note holds no such doctrine and has one captain at **18–20 lb at strike**.
-- **The harpoon is prescribed by the technique note and ruled out by the router** ("we can't do the dart here"), with no legal basis stated either way.
-- **The 600 ft DSL minimum disagrees with the only filmed drift**, which worked a feed layer at **300–350 ft** in 1,090 ft of water at the 178 — half the stated minimum, on ground the same seminar names.
-- **The wind/drift gates are hardened.** On camera, >15 kt is "guys aren't really wanting to fish," and 1–2.5 kt is the drift where presentation *already fails* — not a working range.
-- **The drift sock is an untried purchase** in the source, carried in the note as doctrine.
-- **Mackerel and mullet are listed as baits** but the corpus's only mackerel trial fouled the leader and was abandoned; mullet appears only as stomach content.
-- **"2-speed lever-drag"** in the gear class is never said in the source — the only drag hardware named for the SoCal program is a **star drag**.
+**2. "The Ridge" is unresolved.** It's named as a working sword spot but has no waypoint. The library's only "Ridge" entries are Patton Ridge, South Kelp Ridge and 15 Fa Ridge; "Clemente Ridge" appears in the zone lexicon but not in the coordinate library.
+
+**3. Single-room sourcing, and old.** Two videos, one seminar, seasons 2019–2020. No corroborating channel, no newer sources, and this KB version has **no `evidence/` files at all** — so there are no trip-level observations behind the doctrine.
+
+**4. Surface / finning fish — flagged stub, admitted by the KB.** The classic SoCal sight-fished sunning sword (approach, bait, cast) has **no corpus source**; it's marked `⚠ Flagged stub` in `species/swordfish.md` and logged in `sources/extraction-log.md`.
+
+**5. No deep-set buoy gear (DSBG) at all.** I searched the whole KB — nothing on buoy gear beyond one "buoy-gear logic" analogy about not touching the rod.
+
+**6. No night swordfishing, and no method other than the daytime drop.**
+
+**7. Zero regulations.** `species/swordfish.md` has no Regulations section (this note predates the layout that requires one) and `sources/regulatory-claims.md` has **no swordfish row** — nothing on HMS permits, size/bag, or gear rules. Check CDFW and NOAA yourself before you go; the KB cannot help here.
+
+**8. Bait sourcing and prep is a hole.** `bait/` is live-bait only (tanks, making bait, fishing live bait). The only dead-bait detail anywhere is "sewn so the hook exits the top of the mantle." Nothing on sourcing, brining, or rigging squid/mackerel/mullet for a 1,000 ft drop.
+
+**9. The rigging branch doesn't actually own the sword terminal.** The router links "heavy bite-leader class" to `rigging/bite-leaders.md`, but that note is a **bluefin knife-jig** leader (130 lb class, ≤2–2.5 ft) — not the 200–300 lb sword build. `rigging/wind-on-leader.md` exists and describes a 130–200 lb / ~25 ft wind-on, but sourced to night bluefin (Gavin, Pacific Queen, `G1YIlakiRqg`, medium confidence), not sword. There is **no note for the breakaway-lead build** (the rubber-band deep rig is a tuna live-bait rig), and `tackle/hooks.md` has **no 14/0 sword entry**. All the sword terminal detail lives in the one technique note and nowhere else.
+
+**10. No sword fish-care.** `fish-care/` covers tuna, dorado, wahoo, ikejime, sculpin, gaffing (that one at `low` confidence, sponsored) — **nothing on bleeding, icing, or handling a swordfish**, and the harpoon/flyer is a single line in the technique note.
+
+**11. No boat-side setup for a small boat.** Nothing on rod-holder or tackle-station geometry for drifting 1,000 ft of line, drift-sock sizing, or crew roles. The only profile in the KB launches from **Dana Landing, Mission Bay**, and its `home_port`, `range_nm` and `sea_state_max_ft` are explicitly **null** — so the protocol's step-1b envelope check (`planning/day-plan-protocol.md`) can't be run against any Newport boat until you supply range and sea-state max.
+
+**12. No swordfish zone-guide.** Other species in this KB get zone-level "what a trip there looks like" pages; sword has none, which is exactly the layer that would have answered your Newport question.
 
 ---
 
-## If you're actually planning this trip
+## What I'd actually do with this
 
-Per `planning/day-plan-protocol.md` step 1b, the envelope for this is `regions: socal-bight`, `waters: open-ocean` — and the protocol requires the boat's range and sea-state max before it can rank anything. The only profile in the KB, `profiles/cameron/boat.md`, has **`home_port: null`, `range_nm: null`, `sea_state_max_ft: null`** and launches from **Dana Landing, Mission Bay** — a 22 ft, 115 hp panga. So for a Newport departure the KB would have to ask you for range and sea-state rather than assume one, and it has no gear list to resolve a deep-drop outfit against. (One relevant profile item: daytime swordfish **on manual reels** is logged as Cameron's open item in `profiles/cameron/rods.md` — an angler constraint, not doctrine, and the corpus has nothing on running the program manual.)
-
-Practically: the KB gives you a defensible **method** and a defensible **stop rule** you could carry to the 14 Mile Bank or the 279/267 on a fall day inside the wind gate — but it will not tell you that anyone has caught one there, how far it is from the harbor entrance, or what the season looks like from the Orange County side rather than San Diego's.
+Use the KB for the **decision rules**, not the geography: the ≥600 ft (prefer ~950 ft) DSL + bait-ball stop rule, the <13 kt / ≤2.5 kt drift ceiling, the Oct–mid-Nov peak with moon weighting, and the full terminal build. Then get your Newport-side 150–350 fm contour structure from a chart and your own waypoints, because this KB will not supply it — and pull the actual conditions per candidate spot from BightSST at plan time (`config/endpoints.md`, last verified 2026-08-18). I have not pulled any conditions here since you didn't give me a date or a forecast to work from.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `planning/electronics-and-sounder.md`, `species/swordfish.md`, `species/evidence/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/deep-scattering-layer.md`, `tackle/gear-classes.md`, `rigging/bite-leaders.md`, `seasonal/october.md`, `seasonal/november-december.md`, `locations/14-mile-bank.md`, `locations/279-267-14-mile-bank.md`, `locations/279-267.md`, `locations/209-312.md`, `locations/209.md`, `locations/43.md`, `locations/43-91-300.md`, `locations/51-181-138.md`, `locations/138.md`, `locations/178.md`, `locations/302.md`, `locations/182.md`, `locations/corner-140-182.md`, `locations/north-9-mile-bank-178.md`, `locations/north-9-mile-bank.md`, `locations/south-9-mile-bank-439.md`, `locations/south-9-mile-bank.md`, `locations/dana-point.md`, `locations/south-orange-county-crystal-cove.md`, `locations/slide-152-277.md`, `locations/la-270-286.md`, `locations/boot-504-307.md`, `locations/172-125.md`, `locations/474-711.md`, `locations/81-381.md`, `locations/311.md`, `locations/hidden-reef-170.md`, `profiles/cameron/boat.md`, `profiles/cameron/rods.md`, `profiles/cameron/README.md`, `sources/gap-report.md`, `sources/fact-check-ledger.md`, `sources/regulatory-claims.md`  
-*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `XLVUhV8DW64`, `OYOda6T3f-8`, `1iV1GnF4K-c`, `Rf1HKJG-SDg`, `HzE4FHHcvTk`, `3qSY328fFYo`, `9hEa3sGTh40`, `-bw1KDfDjv4`, `5D1vx29LVpI`, `YZtX1MiT0y8`, `m-M0iwX8DjA`, `yLpDI8jnizU`  
-*gaps admitted:* No Newport Beach page exists anywhere in locations/ — no harbor, ramp, hoist, bait source, fuel or launch information; the spot library explicitly carries no Newport position. | No run distance, heading, run time or fuel figure from Newport (or any port) to any swordfish ground anywhere in the KB. | No corpus source dates a swordfish session on any Orange County-side mark — the 14 Mile Bank, the 279/267 and the 209/312 all carry flagged gaps labeled 'a depth match, not a report'. | The 14 Mile Bank has no stated depth at all, so it cannot even be checked against the 150-350 fathom band. | No swordfish zone guide exists — both the San Diego offshore banks and the Catalina/island zone are flagged stubs, and there is no Orange County zone guide. | Swordfish spawning — when, where or how, anywhere in the SoCal Bight — has no corpus source. | No tide or slack window for SoCal swordfish; the only tide planning in the corpus is Florida Keys practice. | The moon connection is stated as observed and explicitly not understood — no mechanism. | No SST band for swordfish; the note's sst_band_f is 'unknown'. | No California/CDFW bag limit, size gauge, gear rule or season for swordfish anywhere in the corpus; the harpoon-dart restriction has no stated legal basis and is unresolved against the same corpus describing SoCal harpoon swordfishing. | No bleeding, chilling, ikejime or butchering guidance for a swordfish kept to eat. | The night program (depths, baits, lights for a risen layer) is a flagged stub. | Sight-fishing a finning/surface swordfish — approach, bait, cast — is a flagged stub with no method detail. | 'Buoy gear' is referenced as a rod type in the two-rod spread but is never explained anywhere in the KB. | No note covers sourcing or rigging dead squid for deep-drop; the corpus's hook baits were bought at markets and wholesale distributors, and the mackerel/mullet bait options are flagged as unsupported. | There is no swordfish-specific bite-leader note — rigging/bite-leaders.md is a bluefin note (130 lb fluoro over 80-100 lb braid) despite being linked as the '200 lb+ bite-leader class' for swords. | The signal that says to leave the structure and follow the break off it is stated on camera as the unsolved part of the fishery — no corpus source. | Internal contradiction, unresolved: whether the breakaway lead drops on the hookset or comes off by hand at 30 ft. | Internal contradiction, unresolved: the router cites a 'low-drag doctrine' the technique note does not hold (18-20 lb at strike). | Internal contradiction, unresolved: the harpoon is prescribed by the technique note and ruled out by the router. | Internal contradiction, unresolved: the 600 ft DSL stop minimum versus the corpus's only filmed SoCal drift working a layer at 300-350 ft at the 178. | The wind (>15 kt), drift (2-2.5 kt) and drift-sock claims are hardened in the notes beyond what the source says; the drift sock was an untried purchase on camera. | The 'deep-drop/swordfish class' 2-speed lever-drag spec is never stated in the source, which names a star drag. | Nearly all SoCal swordfish doctrine rests on a single sponsored 2021 webinar describing the 2019-2020 seasons, on auto-generated captions. | No profile supports a Newport departure — the only profile has null home port, range and sea-state max and launches from Mission Bay, so boat envelope must be supplied by the angler. | No corpus content on running the deep-drop program on manual (non-electric) reels, which is logged as an angler open item.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/deep-scattering-layer.md`, `planning/electronics-and-sounder.md`, `conditions/sea-state.md`, `conditions/moon.md`, `seasonal/october.md`, `seasonal/november-december.md`, `locations/bight-geography.md`, `locations/zone-lexicon.md`, `locations/bightsst-eval-targets.md`, `locations/bays-and-harbors.md`, `tackle/gear-classes.md`, `tackle/rod-and-reel-selection.md`, `tackle/hooks.md`, `rigging/bite-leaders.md`, `rigging/wind-on-leader.md`, `rigging/rubber-band-deep-rig.md`, `planning/search-and-glassing.md`, `planning/trip-length-selection.md`, `fish-care/gaffing.md`, `fish-care/tuna-care.md`, `profiles/cameron/boat.md`, `profiles/cameron/spots.md`, `sources/spot-lists.md`, `sources/extraction-log.md`, `sources/regulatory-claims.md`, `sources/bd-transcript-knowledge-proposal.md`, `sources/transcripts/_manifest.csv`, `config/endpoints.md`, `species/README.md`  
+*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `yLpDI8jnizU`, `5D1vx29LVpI`, `HzE4FHHcvTk`, `NC3-3pJDEgo`, `Rf1HKJG-SDg`, `fri_BWI-VA0`, `_ZThckj2TIM`, `G1YIlakiRqg`, `Blh2BA-7Ono`  
+*gaps admitted:* No Newport Beach-specific sword grounds: every named working spot in the KB (43, 138, 178, 182, 302, 9 Mile) lies at 32°26'-32°48' N in San Diego / below-Clemente water. | No run distances, run times, fuel planning, or transit-route guidance from Newport Beach to any sword ground. | No identified 150-350 fathom contour structure off Orange County; 14 Mile Bank is in the KB only as a modeling anchor, never as sword ground. | 'The Ridge' is named as a working sword spot but has no coordinate anywhere in the spot library. | Entire sword module rests on two BD Outdoors videos from one Feb 2021 seminar plus a 2020 interview, describing the 2019-2020 seasons; no corroborating or newer sources. | No evidence/ files exist anywhere in this KB version, so there are no trip-level observations behind the sword doctrine. | Surface / finning-sunning swordfish (approach, bait, cast) is an explicit flagged stub with no corpus source. | No coverage of deep-set buoy gear (DSBG) whatsoever. | No night swordfishing or any sword method other than the daytime deep drop. | No swordfish regulations at all: no Regulations section on the species note and no sword row in the regulatory-claims register (no HMS permit, size, bag, or gear rules). | No dead-bait sourcing, brining, or prep guidance; bait/ covers live bait only. | No dedicated rigging note for the sword terminal: bite-leaders.md is a bluefin knife-jig leader, wind-on-leader.md is night-bluefin sourced, there is no breakaway-lead build note, and hooks.md has no 14/0 sword entry. | No swordfish-specific fish care - nothing on bleeding, icing, or handling a sword; harpoon/flyer is one line in the technique note. | No small-boat setup guidance for deep drop (rod-holder/tackle-station geometry, drift-sock sizing, crew roles). | No boat envelope available to check a Newport run: the only profile launches from Mission Bay with home_port, range_nm and sea_state_max_ft all null. | No swordfish zone-guide page (the layer that would answer a 'from my port' question). | No conditions were given in the prompt and none were pulled, so no live SST, chlorophyll, wind, swell or drift read informs this assessment.
+
+</details>
+
+<details><summary><b>NOW — review</b> · 12/12</summary>
+
+## Short version
+
+The KB is **strong on the method and weak on the port**. Everything about *how* to fish a daytime deep-drop — the meter criteria, the rig, the drift, the bite, the endgame — is written out in real numbers. Everything about *running it out of Newport Beach specifically* — the port, the run, which ground, the regs — is either flagged as a gap or is San Diego doctrine wearing a SoCal label. Note also that nearly the whole fishery in here rests on **one 2021 sponsored webinar** plus one filmed drift, and the KB itself says so.
+
+---
+
+## What it knows well
+
+**The routing chain exists and is complete.** [`species/swordfish.md`](species/swordfish.md) is the router; execution lives in [`techniques/deep-drop-swordfishing.md`](techniques/deep-drop-swordfishing.md); the mechanism layer is [`conditions/deep-scattering-layer.md`](conditions/deep-scattering-layer.md); sounder settings are in [`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md). Region gating passes for a Newport day — the species note is `regions: [socal-bight]`, `waters: [open-ocean]`, so step 1b of [`planning/day-plan-protocol.md`](planning/day-plan-protocol.md) doesn't block it.
+
+**Season and weather gates** (`yMiBtZ7k8-w`): late September into December. 2019 ran middle-to-late September into a red-hot October with the last fish about a week before Christmas; 2020 peaked about **10 days before Thanksgiving**. Presence vs. catchability is stated concretely — the same program in August can go **five trips without a bite**, September produces a couple, **October is a bite a trip if not more**. Wind: **10–13 kt** is the working max in the traditional NW wind, **>15 kt** is off. Drift **≤ ~2–2.5 kt**. [`seasonal/october.md`](seasonal/october.md) and [`seasonal/november-december.md`](seasonal/november-december.md) carry the same window, with one club's first flag as late as 12/14/22 (`5D1vx29LVpI`).
+
+⚠ Read those gates with the KB's own flag: [`sources/fact-check-ledger.md`](sources/fact-check-ledger.md) records that "nobody fishes above 15 kt" and the 2.5 kt cutoff are **hardened past what the source says** (the source frames 15 kt as a fleet preference and 1–2.5 kt as the drift where presentation *already* degrades), and that the **drift sock was an untried purchase on camera** — not practice.
+
+**The stop criteria — this is the best material in the file** (`yMiBtZ7k8-w`, `KuVwmfF6RAo`):
+- Deep contour structure in **150–350 fathoms** — contour lines, thumbs, notches, humps.
+- **DSL present at ≥600 ft**, preferred ~950 ft / 150 fm or deeper.
+- **DSL plus chunky bait balls** (anchovy/hake/squid) at **100–150+ fm**. A bare layer is not a stop.
+- The fish paint as a **long return, not a boomerang**, sitting **200–300 ft under the feed layer**.
+- Do not blind-drop.
+- To paint the layer: **TVG/gain up (Furuno ~55–57, mid-to-high elsewhere), ping slowed (~15 of 20)** ([`planning/electronics-and-sounder.md`](planning/electronics-and-sounder.md)).
+
+**The rig and the drift** ([`techniques/deep-drop-swordfishing.md`](techniques/deep-drop-swordfishing.md), `yMiBtZ7k8-w`): baits ride **800–1,100 ft**, roughly **100–250 ft below** the layer (DSL at 850 ft → bait ~900 ft). Breakaway lead **7–10.5 lb matched to drift**. **14/0 heavy forged offset circle**, sewn so the hook exits the top of the mantle. **80 lb braid → 25 ft of 200 lb wind-on → 10–15 ft of 200–300 lb leader**, a deliberately short system so the fish is in gaff range when the swivel hits the tip. **One LP-class light 10–15 ft above the bait**, green/blue, white early and late. Two rods (buoy rod + tip rod) staggered, **~7–9 minutes** to get both down. Drift set **up-current of the fathom line**, "down and in" along the contour edge.
+
+**Bite and endgame:** bites cluster in the **first 5–10 minutes** of the drift on the rod deployed first, while the bait is still falling. The best hookups come off the rod nobody touches. Boat stays in gear. The fight **changes at 30 ft** when the lead comes off. Leader by hand, **no wrap** — the roof of the mouth is soft. Flying gaff to the **gill plate**, under the vertebra.
+
+**Feeding triggers and forage:** new/full moon and the flanking weeks (mechanism explicitly not understood); structure crossed by a current edge produces the "banger days"; prefer **one big powerful long break — a highway** — over a field of finger rips. Stomachs: hake and small suspending rockfish (one fish dumped ~**7 lb** of rockfish), squid on some fish (`yMiBtZ7k8-w`).
+
+---
+
+## Where it's thin — and most of the thinness is exactly the Newport part
+
+**1. There is no Newport Beach page at all.** No port, ramp, hoist, bait, fuel or harbor-entrance note. [`locations/279-267-14-mile-bank.md`](locations/279-267-14-mile-bank.md) states it flatly: *"The spot library carries no Newport position."* The northernmost charted mainland spot in the whole library is **Pelican Point, 33°34.510'N 117°51.370'W** ([`locations/south-orange-county-crystal-cove.md`](locations/south-orange-county-crystal-cove.md)). Newport appears in the corpus once as a launch — a trip that "launched at Newport," aborted a longer run in a morning west wind and fished the 152 ridge (`HzE4FHHcvTk`) — with no sword content. Otherwise Newport shows up only as bay-bass water ([`locations/bays-and-harbors.md`](locations/bays-and-harbors.md)) and as a Santa Ana return-port hazard ([`conditions/sea-state.md`](conditions/sea-state.md), `NC3-3pJDEgo`).
+
+**2. Every named sword ground in the corpus is San Diego-side, 40+ miles down the coast from you.** The rotation is the Ridge, the 9 Mile Bank, the 43, the 178, the 302, with the 138 and 182 picked off an SST/chlorophyll plot. Charted (cameron): **178 at 32°42.000'N 117°29.317'W**, **North 9 Mile at 32°38.000'N 117°26.000'W**, **43 at 32°39.333'N 117°58.417'W**, **302 at 32°26.333'N 117°34.750'W**, **138 at 32°48.750'N 117°49.333'W**, **182 at 32°41.300'N 117°42.400'W**. All at 32°26'–32°49'N. And "**the Ridge**" is never disambiguated — [`locations/the-ridge.md`](locations/the-ridge.md) is Magdalena Bay, Baja; [`locations/51-181-138.md`](locations/51-181-138.md) flags that nothing says whether the sword "Ridge" means Clemente Ridge or the 181/182 Ridge.
+
+**3. The OC-side marks near you carry depth arithmetic, not reports.** The KB is honest about this and labels it: *"a depth match, not a report."*
+- **14 Mile Bank, 33°23.833'N 118°00.000'W** — the closest offshore bank ground to your latitude, and it has **no stated depth at all**, so it can't even be checked against the 150–350 fm band ([`locations/14-mile-bank.md`](locations/14-mile-bank.md)). Its one sword cite is flagged in the ledger as a passing "your spot" illustration by a second speaker, not a named rotation.
+- **279 / 267, 33°17.800'N 117°49.150'W** — the 267's stated depth sits mid-band, no drift ever recorded ([`locations/279-267-14-mile-bank.md`](locations/279-267-14-mile-bank.md)).
+- **209 / 312** — 209 fathoms stated on camera three times; 312 read off the name only ([`locations/209-312.md`](locations/209-312.md)).
+- The ledger further flags that 150–350 fm is a **bottom-depth** band being applied to bank **crest** depths, and is one captain's "the best fishing I've seen," not a fishery-wide contour.
+
+**4. No run figures from anywhere.** No distance, heading, run time or fuel to any sword ground from any port, Newport included. The only geometry the KB can give you is chart arithmetic off Cameron's library: 14 Mile Bank is **12.2 nm / 062°** from the Hospital 100-fathom curve off Dana Point, **12.9 nm** from Crystal Cove and Pelican Point; the 279/267 is **10.7 nm / 027°** to the Dana Point kelp red buoy. The nearest port doctrine on your stretch is Dana Point's bait-barge clock — fleet leaves **6:00 a.m.**, be there 5:00 (`ztpj1Xll0-U`, and note [`locations/dana-point.md`](locations/dana-point.md) flags the "7:00 is too late" half as contradicted).
+
+**5. Regulations: zero.** [`sources/regulatory-claims.md`](sources/regulatory-claims.md) has a swordfish row that says exactly that — no CDFW bag limit, size gauge, gear rule or season anywhere in the corpus. The one gear statement ("we can't do the dart here") has no stated legal basis and is logged unverifiable. **Verify current CDFW rules yourself before you go.**
+
+**6. Unresolved internal contradictions the KB flags but has not settled.** Four of them bear on how you'd actually fish:
+- **Does the lead drop on the hookset or come off by hand at 30 ft?** The technique note says both, in two different sections; the router says 30 ft.
+- The router sends you to the technique note for a "**low-drag doctrine**" the technique note doesn't hold — it has both builds starting *heavier* at strike, one at **18–20 lb**.
+- The technique note prescribes the **harpoon** at the gill plate; the router says the dart isn't used in SoCal.
+- **The 600 ft DSL stop minimum vs. the only filmed SoCal drift**, which worked a layer at **300–350 ft in about 1,090 ft of water at the 178** (`KuVwmfF6RAo`) — half the stated floor, on ground in the same rotation, never reconciled.
+
+**7. Other flat gaps for a first-time sword program:**
+- **No sword-specific bite leader.** [`rigging/bite-leaders.md`](rigging/bite-leaders.md) is a bluefin knife-jig note (130 lb fluoro over 80–100 lb braid, `kO_BqzUYayc`) despite being linked as the "200 lb+ bite-leader class."
+- **Gear class is one line** — "heavy stand-up 2-speed lever-drag; manual or electric-assist" ([`tackle/gear-classes.md`](tackle/gear-classes.md)) — and the ledger flags that the source actually names a **star drag**. No reels, no capacities, no rod-holder or boat setup, no line-counter/marked-braid method for knowing your bait's depth.
+- **No dead-bait program.** [`bait/`](bait/README.md) is live bait only (making, tanks, fishing). Nothing on sourcing, brining or storing dead squid; the corpus's baits were bought at foreign markets and wholesale distributors, and the mackerel/mullet options in the technique note are flagged as unsupported.
+- **No fish care for a broadbill** — nothing on bleeding, chilling, ikejime or butchering.
+- **No night program, no sight/finning fishery, no deep-set buoy gear.** The first two are explicit flagged stubs in the router; "buoy gear" appears only as a rod in the two-rod spread and as fight-handling logic, never as a method.
+- **No SST or chlorophyll numbers** — `sst_band_f: unknown`, only the qualitative "one big powerful highway break."
+- **No sword zone guide** — both the San Diego banks and the Catalina/island zone are stubs, and there is no Orange County zone at all.
+- **No profile fits you.** The only profile is Cameron's, Mission Bay–based with `home_port`, `range_nm` and `sea_state_max_ft` all **null** ([`profiles/cameron/boat.md`](profiles/cameron/boat.md)) — so step 4 of the protocol can't resolve gear or a boat envelope for a Newport departure without you supplying it.
+
+**8. Provenance is one source deep.** [`species/evidence/swordfish.md`](species/evidence/swordfish.md) says it plainly: the SoCal doctrine comes almost entirely from the **Costa-sponsored BDOutdoors deep-drop webinar of 2021-02-04** (`yMiBtZ7k8-w`, Duane Diego Mellor / Rush Maltz / Ali Hussainy), on auto-generated captions, describing **2019 and 2020**. `KuVwmfF6RAo` (2020-07-01) is the only filmed drift. `XLVUhV8DW64` and `OYOda6T3f-8` are October 2022 report mentions; `1iV1GnF4K-c` is an unregistered channel. **Nothing after December 2022, and no Orange County sword trip report at all.** The ledger holds ~15 open flags against these two notes alone.
+
+---
+
+## How I'd use it for an actual Newport day
+
+Treat [`techniques/deep-drop-swordfishing.md`](techniques/deep-drop-swordfishing.md) as your execution manual — it's genuinely good and it's all numbers. Treat the geography as unwritten: pick your ground yourself by putting the KB's criteria (150–350 fm bottom, a big break across structure, DSL ≥600 ft with bait balls) over the charted OC-side positions above, pull BightSST per those coordinates via [`config/endpoints.md`](config/endpoints.md), and weight the day toward the new/full moon in the October–mid-November window. Supply your own port, range, fuel and sea-state numbers — the KB has none — and get the CDFW rules from CDFW. If you're willing to run to the San Diego banks (the 178, the 302, the 43, the 9), you're on the only ground the corpus actually documents, and everything the KB says was said about that water.
+
+
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/swordfish.md`, `species/evidence/swordfish.md`, `techniques/deep-drop-swordfishing.md`, `conditions/deep-scattering-layer.md`, `planning/electronics-and-sounder.md`, `seasonal/october.md`, `seasonal/november-december.md`, `conditions/sea-state.md`, `tackle/gear-classes.md`, `rigging/bite-leaders.md`, `locations/279-267-14-mile-bank.md`, `locations/14-mile-bank.md`, `locations/209-312.md`, `locations/51-181-138.md`, `locations/corner-140-182.md`, `locations/172-125.md`, `locations/101-425.md`, `locations/43.md`, `locations/178.md`, `locations/302.md`, `locations/138.md`, `locations/182.md`, `locations/north-9-mile-bank-178.md`, `locations/south-orange-county-crystal-cove.md`, `locations/slide-152-277.md`, `locations/the-ridge.md`, `locations/ridge-uncle-sam-bank.md`, `locations/bays-and-harbors.md`, `locations/12-mile-reef.md`, `locations/zone-lexicon.md`, `profiles/cameron/boat.md`, `profiles/cameron/spots.md`, `sources/fact-check-ledger.md`, `sources/regulatory-claims.md`, `sources/gap-report.md`, `sources/source-registry.md`, `sources/extraction-log.md`, `config/endpoints.md`, `bait/README.md`  
+*videos:* `yMiBtZ7k8-w`, `KuVwmfF6RAo`, `XLVUhV8DW64`, `OYOda6T3f-8`, `1iV1GnF4K-c`, `5D1vx29LVpI`, `HzE4FHHcvTk`, `Rf1HKJG-SDg`, `ztpj1Xll0-U`, `kO_BqzUYayc`, `NC3-3pJDEgo`  
+*gaps admitted:* No Newport Beach page anywhere in the KB — no port, ramp, hoist, bait source, fuel or harbor-entrance information; locations/279-267-14-mile-bank.md states the spot library carries no Newport position. | No run distance, heading, run time or fuel figure from Newport (or any port) to any swordfish ground. | Every named swordfish working spot in the corpus (the Ridge, the 9, the 43, the 178, the 302, the 138/182) is San Diego-side at 32°26'–32°49'N; no sword ground is named on the Orange County side. | 'The Ridge' in the sword rotation is never disambiguated — the KB's only 'The Ridge' page is Magdalena Bay, Baja, and locations/51-181-138.md flags Clemente Ridge vs the 181/182 Ridge as unresolved. | The Orange County-side marks (14 Mile Bank, 279/267, 209/312) carry only depth arithmetic against the 150–350 fm band — the KB labels each 'a depth match, not a report'; no corpus source dates a sword session on any of them. | The 14 Mile Bank has no stated depth at all, so it cannot be checked against the sword band. | No swordfish zone guide exists — the San Diego banks and the Catalina/island zone are both flagged stubs, and there is no Orange County zone guide. | No California/CDFW bag limit, size gauge, gear rule or season for swordfish anywhere in the corpus; the harpoon-dart restriction has no stated legal basis. | No swordfish fish care — nothing on bleeding, chilling, ikejime or butchering a broadbill. | No night swordfishing program (depths, baits, lights) — flagged stub. | No sight-fishing sequence for a finning/sunning swordfish (approach, bait, cast) — flagged stub. | Deep-set buoy gear is never covered as a method; 'buoy gear' appears only as a rod in the two-rod spread and as bite-handling logic. | No dead-bait program — sourcing, brining or storing dead squid is uncovered; the corpus's hook baits were bought at markets and wholesale distributors, and the mackerel/mullet bait options are flagged as unsupported. | No sword-specific bite leader note — rigging/bite-leaders.md is a bluefin knife-jig note (130 lb fluoro over 80–100 lb braid) despite being linked as the 200 lb+ class. | No specific reels, line capacities, rod-holder/boat setup, or any method for knowing the bait's depth (line counter, marked braid). | No soak-time or when-to-abandon-a-drift rule beyond the ~7–9 minute two-bait deploy budget. | No SST or chlorophyll thresholds for swordfish — sst_band_f is 'unknown'; only the qualitative 'one big powerful highway break'. | Swordfish spawning anywhere in the SoCal Bight — no corpus source. | No tide or slack window for SoCal swordfish; the only tide planning in the corpus is Florida Keys practice. | The moon connection is stated as observed and explicitly not understood — no mechanism. | The signal that says to leave the structure and follow the break off it is stated on camera as the unsolved part of the fishery. | Unresolved contradiction: whether the breakaway lead drops on the hookset or comes off by hand at 30 ft. | Unresolved contradiction: the router cites a 'low-drag doctrine' the technique note does not hold (it has 18–20 lb at strike). | Unresolved contradiction: the harpoon is prescribed by the technique note and ruled out by the router. | Unresolved contradiction: the 600 ft DSL stop minimum vs the corpus's only filmed SoCal drift working a layer at 300–350 ft in ~1,090 ft at the 178. | Flagged as hardened beyond source: the >15 kt no-go, the 2–2.5 kt drift cutoff, and the drift sock (an untried purchase on camera). | Flagged as unsupported: the 'deep-drop/swordfish class 2-speed lever-drag' spec (source names a star drag), the 65 lb braid option and the 15 lb lead / 150 ft wind-on (both East-coast, misattributed). | The 150–350 fathom band is flagged as one captain's observation and as a bottom-depth figure being applied to bank crest depths. | Nearly all SoCal sword doctrine rests on a single Costa-sponsored 2021 BDOutdoors webinar describing the 2019–2020 seasons on auto-generated captions, plus one filmed 2020 drift; nothing after December 2022 and no Orange County sword trip report. | No Newport-based angler profile — the only profile (Cameron) is Mission Bay-based with home_port, range_nm and sea_state_max_ft all null, so gear and boat envelope cannot be resolved for a Newport departure. | No trip/fuel/range planning framework for a private-boat run to 150–350 fm out of an Orange County port; planning/trip-length-selection.md carries no sword content.
 
 </details>
 
@@ -354,11 +345,11 @@ Practically: the KB gives you a defensible **method** and a defensible **stop ru
 | B3 | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 | NOW | 2 | 2 | 2 | 2 | 2 | 2 | **12** |  |
 
-**Judge:** All three got the honest core right — no yellowtail bag or size limit exists anywhere in the KB — and none bluffed a number from memory, so the separation is in how well the absence is proven and what the angler can still do. C wins because the gap is recorded in the note itself, in the gap report, and by absence from the register, and because it alone routes jurisdiction correctly for the trip actually being planned: the Coronados are Mexican waters, so a CDFW figure does not travel there, plus positional-boundary and licence-on-person doctrine that matters on the water. A is a close second — the register table showing the shape of the hole, the Baja FMM/CONAPESCA paperwork, and the flagged register/gap inconsistency are excellent — but it stamps Farnsworth as unverified rather than resolving it and does less jurisdiction routing. B is accurate and well-sourced but thinnest on next steps, telling the reader to 'sort Mexico separately' with nothing behind it and ending on a pivot to a different question.
+**Judge:** All three correctly refuse to invent a number and all three prove the absence rather than assert it, so the separation is in what they found around the hole. C wins because it is the only answer that surfaces the KB's one yellowtail-specific regulatory item — the Farnsworth Bank keep-list, stamped California/CDFW as of 2022-10-26 with an honest disclosure that the agency attribution is the KB's inference and the bank name is garbled in the source — and because it actively corrects two things that would mislead an angler: the 'non-retainable yellowtail' at San Miguel (its own flags read it as a yelloweye rockfish) and 'limits every other day' as a catch rate, which A repeats loosely as evidence a Mexican bag limit exists. C also flags the scoping fact that matters most for a San Diego yellowtail day — the Coronados are CONAPESCA water, not CDFW. A is a close second on strength of its regulatory-register table and its concrete Baja paperwork checklist (FMM, licence, ~$90/$130 vehicle insurance); B is equally honest and well-sourced but ends at 'go look it up', leaving an angler with less to act on, and its sand-bass row is the one figure in the three answers without an as-of stamp.
 
-- *B2 reasons:* found: correctly reports the absence and shows the species note has no Regulations section. specific: other-species figures with as-of dates plus Farnsworth coordinates 33 20.560 / 118 31.010 from the spot library. sourced: paths and video ids (usHl-4SfqDA, r6j5w40fVHI, MUpvP-Yl2R0, 5p6gu14ZC4w) that plausibly support each figure. scoped: comparison regs carry jurisdiction/as-of/verify-current and it flags the Farnsworth rule as unstamped and caption-derived. honest: names the colloquial 'limiting out' false positives and admits Mexican coverage is absent. actionable: thinner than the others — 'sort Mexico separately' with no licensing/entry specifics, and it closes by pivoting to offering a fishing plan instead.
-- *B3 reasons:* found: states plainly the KB has no yellowtail bag/size limit and proves it via the regulatory register, not just the species note. specific: gives the register's neighbouring figures (calico 14 in 2022-04-25, 5/day 2019-03-13, halibut 22 in 2016-11-23, bluefin 2/day 2024-11, lobster 7/day 2026-08) and Baja paperwork detail (insurance ~$90/~$130). sourced: note paths plus video ids on nearly every claim (5p6gu14ZC4w, P36VGPPf120, GptrotE0x5M). scoped: separates California vs Mexico, stamps the BCS circle-hook claim jurisdiction + as-of 2019-02-13 + verify, and flags that the Farnsworth rule carries no stamp. honest: no bluffing, absolute dates throughout, flags caption-garbled source and an internal register/gap inconsistency. actionable: tells the angler exactly which agencies to hit, what the Farnsworth keep-list means for a fall yo-yo day, and warns about colloquial 'limit' language in the corpus.
-- *NOW reasons:* found: not only reports the absence but quotes the note's own flagged-gap line and shows it logged in the gap report and missing from the register. specific: register figures with as-of dates, Farnsworth stamped California/CDFW as of 2022-10-26 as partial-take SMCA, region gating list for yellowtail. sourced: dense path + video-id citations (5p6gu14ZC4w, D5DR7Kx42_A, EGKesj7V64M, iAr6sbRC384, LsFMBCa9DOQ, P36VGPPf120). scoped: best jurisdiction handling — routes CDFW vs CONAPESCA/INM, states the Coronados sit in Mexican waters so a CDFW limit does not travel there, and applies the two-jurisdictions-not-a-conflict convention. honest: double caveat that the source never says 'Farnsworth' and names no agency, and the SMCA label is a spot-library parenthetical; gap list is the most complete (FMM for a day boat, filleting/transport, customs). actionable: an angler leaves knowing which agency governs their specific destination, licence-on-person, and that closure boundaries are positional not depth-based.
+- *B2 reasons:* found: correct plain answer, names the search it ran (yellowtail x bag/size/legal/minimum/CDFW, zero hits) and that 'limit' in the router only ever means limiting out. specific: other-species table (bluefin 2/day, calico 14 in, halibut 22 in, spotted bay bass no minimum), 1,352-line note, 100 ft on 40 lb, three bags at La Paz. sourced: note paths plus video ids on nearly every claim (usHl-4SfqDA, r6j5w40fVHI, MUpvP-Yl2R0, QSmE3mdEL28, u0scEBby7nA, 92y14x33etQ, sHnqSIOjTdM, GptrotE0x5M). scoped: strong jurisdiction handling — two-jurisdiction framing, and an explicit warning not to read the BCS circle-hook rule across to yellowtail; only lapse is the sand-bass 14 in row carrying no as-of or verify stamp while its neighbours do. honest: no numbers from memory, six gaps admitted, absolute dates, correctly labels crew practice as ethic not law. actionable: correct but thin — it tells you to go pull CDFW/CONAPESCA yourself and stops; no permits, no jurisdiction trap for the common San Diego trip, nothing else an angler executes on.
+- *B3 reasons:* found: says plainly the KB has no yellowtail bag/size limit and names the two files it checked (species/yellowtail.md, sources/regulatory-claims.md), proving absence rather than asserting it. specific: comparison table of other species' figures (calico 14 in / 5 per day, sand bass 14 in, halibut 22 in, bluefin 2/day, lobster 7/day), plus 100 ft on 40 lb and Baja Bound ~$90/~$130 insurance quotes. sourced: every row and claim carries a note path and video id (r6j5w40fVHI, MUpvP-Yl2R0, usHl-4SfqDA, P36VGPPf120, sHnqSIOjTdM, 9kGpcEHqIUc). scoped: CDFW vs CONAPESCA/INM split stated, cross-jurisdiction difference correctly framed as two jurisdictions not a conflict, every borrowed figure carries as-of + verify-current. honest: refuses to supply a number from memory, quotes the skill's own no-invented-regs rule, seven gaps admitted, absolute dates throughout; only slip is calling 'limits posted every other day' evidence that a Mexican bag limit 'exists in practice' — a catch-rate phrase read slightly loosely, though hedged. actionable: gives the Baja paperwork checklist (FMM, licence with 2026 site change, passport, vehicle insurance), the trip-limit vs bag-limit distinction, and the exact format to file the answer back into the KB.
+- *NOW reasons:* found: best retrieval — states the absence, quotes the router's own flagged-gap line and the matching sources/gap-report.md entry, and is the only answer to surface the one yellowtail-specific regulation the KB holds (Farnsworth Bank closure keep-list: only yellowtail and bonito retainable). specific: 2022-10-26 as-of, 5p6gu14ZC4w, Z3rZqy2Pi8E, D5DR7Kx42_A, EGKesj7V64M, calico 14 in and bluefin 2/day as contrast, named zones (Catalina Backside, San Miguel, Santa Rosa, Coronados). sourced: note paths and video ids throughout, and it separates what the source said from what the KB inferred. scoped: strongest — Farnsworth carries California/CDFW + as-of + verify-current AND discloses that the agency attribution is the KB's inference and the bank name is ASR-garbled; correctly flags that the most common San Diego yellowtail day is CONAPESCA/INM water, not CDFW. honest: debunks two false positives another reader would take as limits — the 'non-retainable' fish at San Miguel/Santa Rosa (likely a yelloweye rockfish per the KB's own fact-check flag) and 'yellowtail limits every other day' as a catch rate — plus nine gaps admitted, absolute dates only. actionable: gives the operative pre-departure doctrine (know hooks, rods, retainable species and bag before leaving the dock), the Coronados jurisdiction trap, and names the unresolved transport questions (fillet at sea, what stays attached, counting in transit).
 
 <details><summary>Full prompt</summary>
 
@@ -368,174 +359,153 @@ What are the bag and size limits for yellowtail?
 
 <details><summary><b>B2 — batch 2</b> · 11/12</summary>
 
-## Short answer: this knowledgebase does not have them
+## Short answer: the knowledgebase does not have them
 
-I looked for yellowtail bag and size limits and **the KB does not carry them.** `species/yellowtail.md` is a large, well-developed router (1,352 lines — Where & when, Finding them, Situations → techniques, Gear summary, Doctrine & conflicts), and **none of those sections state a bag limit, a minimum size, or a season for yellowtail** in any jurisdiction. There is no `Regulations` section on that note, and no regulatory line elsewhere in the KB that names a yellowtail limit.
+**There is no bag limit and no size limit for yellowtail anywhere in this KB — not for California/CDFW, not for Mexico.** I'm not going to supply numbers from memory, because the rule here is that regulatory claims come from a note with a jurisdiction, an as-of date, and a verify-current flag ([CLAUDE.md](CLAUDE.md), "Content rules"), and no such note exists for yellowtail.
 
-I am not going to fill that in from memory. Under this repo's own rule (`CLAUDE.md`), a regulatory claim only belongs in the KB when it carries **jurisdiction + as-of date + a verify-current flag**, and the KB has no sourced yellowtail entry to hand you.
+**What I actually checked:**
 
-## What the KB *does* have that touches yellowtail and the law
+- [`species/yellowtail.md`](species/yellowtail.md) — 1,352 lines, and its section list is *Where & when → Finding them (sign & sonar) → Situations → techniques → Gear summary → Doctrine & conflicts*. There is **no regulations section at all**. The word "limit" appears in it only in the sense of *limiting out* or a boat's kept-fish allotment, never as a legal figure.
+- Every other note in the KB, searched for yellowtail alongside bag limit / size limit / legal size / minimum size / CDFW. **Zero hits.**
 
-**One area rule, and it is a keep-restriction, not a limit:**
+## This is a real gap, not me being cautious
 
-- **Farnsworth Bank (Catalina)** — good fall yo-yo fishing, but it **sits in a marine closure where only yellowtail and bonito may be kept** (`species/yellowtail.md`, cited to `5p6gu14ZC4w`, 10/26/22). The note flags that the source captions garbled the name as "foreign First Bank" and that the bank was identified *from the described closure rule*, so treat the bank ID as inferred.
-- The spot library corroborates the designation: **Farnsworth Bank (partial-take SMCA — see DFW), 33 20.560 / 118 31.010** (`sources/spot-lists.md`). Note that this is a raw input doc, not a curated note, and it points you at DFW rather than stating the take rules.
+The KB *does* carry regulatory numbers for other species, in exactly the format yellowtail is missing — so you can see the shape of what should be there:
 
-Practical read: at Farnsworth you can keep yellowtail and bonito and nothing else — but **how many** and **what size** yellowtail is exactly the number the KB doesn't have.
+| Species | Figure the KB carries | Where |
+| --- | --- | --- |
+| Pacific bluefin | **2 per person per day** (California/CDFW, as-of 2024-11, verify current regs) — stated on camera, unregistered channel, medium confidence | [`species/bluefin-tuna.md`](species/bluefin-tuna.md) (`usHl-4SfqDA`) |
+| Calico (kelp) bass | **14 in** minimum (California/CDFW, as of 2026-08, verify current rules) | [`species/calico-bass.md`](species/calico-bass.md) (`r6j5w40fVHI`) |
+| Sand bass | **14 in** minimum | cross-referenced in [`species/spotted-bay-bass.md`](species/spotted-bay-bass.md) (`usHl-4SfqDA`) |
+| Spotted bay bass | **no minimum size limit** (California/CDFW, as-of 2024-11) | [`species/spotted-bay-bass.md`](species/spotted-bay-bass.md) (`usHl-4SfqDA`) |
+| California halibut | **22 in** minimum, as stated on camera 2016-11-23 — verify current CDFW rule | [`species/california-halibut.md`](species/california-halibut.md) (`MUpvP-Yl2R0`) |
 
-**Two things that look like limits in the yellowtail note but are not regulations:**
+Yellowtail — the KB's single most heavily documented species — has none of this. Treat it as a hole in the KB to be filled, not as "there is no limit."
 
-- A crew reaching "its trip's white seabass limit" and releasing further seabass at San Clemente Island (`species/yellowtail.md`, `sHnqSIOjTdM`) — that's a white seabass trip observation.
-- Crews "nearly limiting out on yellowtail in about two hours" at Cedros, Baja (`species/yellowtail.md`, `u0scEBby7nA`) — a bite-quality description with no number attached.
+## And note which side of the border you're on
 
-## The KB clearly *can* hold this — yellowtail just never got the entry
+For yellowtail this matters more than for most species. [`species/yellowtail.md`](species/yellowtail.md) documents the fishery across **both jurisdictions**: SoCal (Santa Barbara Island/Sutil, Catalina, San Clemente) *and* Mexican waters (Cedros Island, Guadalupe Island, San Benito Islands, La Paz/Sea of Cortez). Per [CLAUDE.md](CLAUDE.md), a Mexican limit differing from a CDFW limit is **two jurisdictions, not a conflict** — so "the yellowtail limit" is two separate answers, and the KB has neither.
 
-For comparison, other species notes carry properly stamped regulatory claims, so the gap is a sourcing gap, not a format one:
+The KB holds exactly one Mexican sportfishing regulatory claim, and it is **not** about yellowtail: a crew calling a circle hook "mandatory" for tuna in Baja California Sur, logged in [`techniques/flyline.md`](techniques/flyline.md) (`GptrotE0x5M`, as of the 2019-02-13 video, verify current CONAPESCA/DOF rules). Don't read that across to yellowtail.
 
-- **Pacific bluefin tuna — two per person per day** (California/CDFW, as-of 2024-11, verify current regs) — `species/bluefin-tuna.md`, `usHl-4SfqDA`.
-- **Calico bass (kelp bass) — 14 in minimum** (California/CDFW, as of 2026-08, verify current rules) — `species/calico-bass.md`, `r6j5w40fVHI`.
-- **Spotted bay bass — no minimum size limit**, with calico and sand bass both at 14 in (California/CDFW, as-of 2024-11) — `species/spotted-bay-bass.md`, `usHl-4SfqDA`.
-- **California halibut — 22 in legal minimum**, stated on camera 2016-11-23 — `species/california-halibut.md`, `MUpvP-Yl2R0`.
-- **California spiny lobster** — full season/bag/size/gear discipline, California/CDFW as of 2026-08 — `species/california-spiny-lobster.md`.
+## What the KB *does* tell you about how many yellowtail get kept
 
-Every one of those tells the reader to re-check current CDFW rules before fishing. Yellowtail has no equivalent line to re-check.
+This is on-the-water practice and crew ethic — **not law**, and it doesn't substitute for a limit:
 
-## What I'd do before your trip
+- **Cedros Island crew doctrine (on camera):** don't keep everything caught early in the day — kept fish just pile up in the freezer, so watch how much fish is actually going in the boat. Smaller fish caught "coming out of the gate," including on surface iron, were released rather than kept ([`species/yellowtail.md`](species/yellowtail.md), `QSmE3mdEL28`, 2021-10 trip; unregistered channel, medium confidence).
+- **Cedros, a later trip:** fish were released once the boat's kept-fish allotment was reached — and the crew was described as **nearly limiting out on yellowtail in about two hours at one stop** (`u0scEBby7nA`, October 2024 trip). A limit clearly exists in that fishery; the note never states its number.
+- **La Paz, BCS:** the crew stopped keeping fish and released the rest of the yellowtail once the day's box — three bags, run through the dock's clean/fillet/vacuum-seal/freeze service — was full (`92y14x33etQ`, 2023-11-09 upload).
+- **San Clemente Island:** on a dropper-loop bite at **100 ft on 40 lb**, white seabass came as bycatch and every one was released because the boat had already hit **its trip's white seabass limit** (`sHnqSIOjTdM`). That's a seabass limit on a sport boat, not a yellowtail figure — but it's the one place the note shows a limit actually governing the day.
 
-1. **Pull the current California/CDFW ocean sport fishing regulations yourself** for yellowtail (bag/possession and any minimum size). That is the authoritative source; this KB explicitly defers to it for every regulatory claim.
-2. **If you're fishing Farnsworth Bank**, confirm the SMCA take rules directly with DFW — the KB's own spot list says "see DFW," and the closure detail here is single-source and caption-derived.
-3. **If your yellowtail day is south of the border** — the KB puts yellowtail at the Coronados, Bahía de los Ángeles, Cedros and San Benito Islands — you're under Mexican jurisdiction, and the KB carries **nothing** on Mexican yellowtail limits or licensing. Sort that separately.
+## Practical bottom line
 
-Once you have the current numbers, they'd be worth adding to `species/yellowtail.md` in the same jurisdiction + as-of + verify-current form the other species notes use.
-
-If what you actually wanted was the fishing side — where the yellowtail are right now, which of the three faces (surface boilers, paddy fish, structure fish) to play, and what to rig — `species/yellowtail.md` is deep on all of that and I can build you a plan from it.
+Before you fish: pull the current **CDFW ocean sport fishing regulations** for yellowtail yourself if you're in California waters, and the current **Mexican (CONAPESCA/DOF) sportfishing limits plus your Mexican fishing license** if the plan is Coronados, Cedros, Guadalupe, San Benitos or the Cortez. I can't source either from this KB. Everything else in the yellowtail router — where, when, the three faces, sonar signatures, the situation→technique table, line classes — is well covered; the legal layer for this species simply hasn't been extracted yet.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `species/bluefin-tuna.md`, `species/calico-bass.md`, `species/spotted-bay-bass.md`, `species/california-halibut.md`, `species/california-spiny-lobster.md`, `species/rockfish-lingcod.md`, `techniques/dropper-loop.md`, `locations/island-structure.md`, `sources/spot-lists.md`, `sources/extraction-log.md`  
-*videos:* `5p6gu14ZC4w`, `sHnqSIOjTdM`, `u0scEBby7nA`, `usHl-4SfqDA`, `r6j5w40fVHI`, `MUpvP-Yl2R0`  
-*gaps admitted:* No yellowtail bag/possession limit anywhere in the KB, for any jurisdiction (California/CDFW or Mexico). | No yellowtail minimum size / legal size limit anywhere in the KB. | No yellowtail season dates or closure calendar (species/yellowtail.md has no Regulations section at all). | No Mexican (Baja) fishing regulations, bag limits, or licensing coverage anywhere in the KB, despite the yellowtail note covering Coronados, BOLA, Cedros and San Benito. | Farnsworth Bank's closure is described only as 'only yellowtail and bonito may be kept' with no jurisdiction/as-of stamp and no take numbers; the bank identification itself is inferred from a garbled caption. | No note in the KB covers CPFV/boat-level daily allowances for yellowtail.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `species/bluefin-tuna.md`, `species/calico-bass.md`, `species/spotted-bay-bass.md`, `species/california-halibut.md`, `species/rockfish-lingcod.md`, `species/california-spiny-lobster.md`, `species/white-seabass.md`, `techniques/flyline.md`, `sources/escalations.md`  
+*videos:* `usHl-4SfqDA`, `r6j5w40fVHI`, `MUpvP-Yl2R0`, `QSmE3mdEL28`, `u0scEBby7nA`, `92y14x33etQ`, `sHnqSIOjTdM`, `GptrotE0x5M`  
+*gaps admitted:* No California/CDFW yellowtail bag limit anywhere in the KB — species/yellowtail.md has no regulations section at all. | No California/CDFW yellowtail minimum size limit anywhere in the KB. | No Mexican (CONAPESCA/DOF) yellowtail bag or size limit in the KB, despite the note documenting Cedros, Guadalupe, San Benitos and La Paz yellowtail fisheries in Mexican waters. | The KB references crews 'limiting out' and hitting a 'kept-fish allotment' on yellowtail (u0scEBby7nA) without ever stating the numeric limit that governed it. | No note in the KB covers Mexican sportfishing license/permit requirements for fishing yellowtail south of the border; the only Mexican regulatory claim in the KB is a circle-hook requirement for tuna in Baja California Sur (techniques/flyline.md, GptrotE0x5M). | No as-of date or verify-current stamp exists for yellowtail regulations because no yellowtail regulatory claim exists to carry one.
 
 </details>
 
 <details><summary><b>B3 — batch 3</b> · 12/12</summary>
 
-# Yellowtail bag and size limits — the KB does not have them
+## Short answer: this knowledgebase does not have them
 
-**Straight answer: this knowledgebase carries no bag limit and no size limit for yellowtail, in any jurisdiction.** That is not "I couldn't find it" — it's a checkable absence, because this KB keeps a single register of every regulation-shaped claim it holds, and yellowtail has no row in it.
+**The KB contains no bag limit and no minimum size limit for yellowtail — for California or for Mexico.** I am not going to give you a number from memory, because the KB's own rule for the day-plan surface is explicit: *"Never invent depths, coordinates, or regulations. If the repo doesn't say it and the data doesn't show it, say you don't know"* (`skills/socal-boat-day/SKILL.md`).
 
-## What I checked
+Here is exactly where I looked, so you know this is a real gap and not a lookup I fumbled:
 
-**1. The species router — [`species/yellowtail.md`](species/yellowtail.md).** 1,556 lines, sourced from ~85 videos. Its sections are *Where & when*, *Finding them (sign & sonar)*, *Situations → techniques*, *Gear summary*, *Doctrine & conflicts*. There is no Regulations section and no size or bag figure anywhere in it.
+- **`species/yellowtail.md`** — the species router, and by far the biggest note in the KB (86 sourced video IDs). Its sections are *Where & when*, *Finding them (sign & sonar)*, *Situations → techniques*, *Gear summary*, *Doctrine & conflicts*. **There is no Regulations section**, and no bag or size figure anywhere in the note.
+- **`sources/regulatory-claims.md`** — the KB's single register of every regulation-shaped claim, the file specifically built so regs can be re-verified in one pass. **There is no yellowtail row**, in either the California/CDFW table or the Mexico table.
 
-**2. The register — [`sources/regulatory-claims.md`](sources/regulatory-claims.md).** This file exists precisely so regulations can be re-verified in one pass: *"Every regulation-shaped claim in the knowledgebase, in one place."* Its California/CDFW table has 16 rows and its Mexico table has one. **No yellowtail row in either.**
+The register is genuinely populated for other species, which is what tells me the yellowtail absence is a hole rather than a file nobody filled in:
 
-For contrast, here is what the register *does* carry, so you can see the shape of the hole — these are the neighbours yellowtail would sit among:
-
-| Species | Figure | As of | Source |
+| Species | What the register holds | As of | Source |
 | --- | --- | --- | --- |
-| Calico (kelp) bass — minimum size | 14 in | 2022-04-25 | `r6j5w40fVHI` |
-| Calico bass — bag limit | 5/day | 2019-03-13 (flagged as the oldest figure in the register) | `LqW32NSkObY` |
-| Barred sand bass — minimum size | 14 in | 2022-04-25 | `r6j5w40fVHI`, `HMdrP4-i9MM` |
-| California halibut — minimum size | 22 in | 2016-11-23 | `MUpvP-Yl2R0` |
-| Sculpin — minimum size | 10 in | 2022-04-16 | `ty8FtA3Y2bA` |
-| Spotted bay bass — minimum size | **none** | 2024-11 | `usHl-4SfqDA` |
-| Pacific bluefin — bag limit | 2 per person per day | 2024-11 | `usHl-4SfqDA` |
-| Spiny lobster — bag limit | 7 per person per day | 2026-08 | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
+| Calico (kelp) bass | 14 in minimum; 5 per day bag | 2022-04-25 / 2019-03-13 | `r6j5w40fVHI`, `LqW32NSkObY` |
+| Barred sand bass | 14 in minimum | 2022-04-25 | `r6j5w40fVHI`, `HMdrP4-i9MM` |
+| California halibut | 22 in minimum | 2016-11-23 | `MUpvP-Yl2R0` |
+| Spotted bay bass | **no** minimum size | 2024-11 | `usHl-4SfqDA` |
+| Pacific bluefin | 2 per person per day | 2024-11 | `usHl-4SfqDA` |
+| Spiny lobster | 7 per person per day | 2026-08 | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
 
-Yellowtail — the single most-documented species in this KB by source count — is simply not in that list.
+Yellowtail — arguably the most-covered species in the whole KB — simply isn't in that table.
 
-## The one yellowtail retention rule the KB does hold
+## What the KB *does* give you that's relevant
 
-It's a *where*, not a *how many* or *how big*:
+**1. The jurisdiction frame, so you check the right agency.** Per `CLAUDE.md` and `sources/regulatory-claims.md`: for California it's **CDFW**; for Mexican waters it's **CONAPESCA** (fishing permits) and **INM** (the FMM tourist permit). A Baja limit that differs from a CDFW limit is **two jurisdictions, not a conflict to reconcile** — so if your yellowtail day starts at the Coronados and the Cedros trip is a different question, treat them as two separate rule sets. The register's standing warning applies: *"Nothing here is current by virtue of being written down."*
 
-- **Farnsworth Bank, Catalina** sits inside a marine closure where **only yellowtail and bonito may be kept** ([`species/yellowtail.md`](species/yellowtail.md), from a 2022-10-26 report, `5p6gu14ZC4w`). Useful to know if you're planning the fall yo-yo program out there — everything else you hook comes back over the side.
+**2. If the trip is Mexican side, the paperwork IS in the KB** (`locations/bahia-de-los-angeles.md`, source `P36VGPPf120`, **as reported 2026-08-06 — verify current, foreign jurisdiction**):
 
-Two cautions on that one. It is recorded from a caption-garbled on-camera mention (the bank is rendered as "foreign First Bank" and was identified by the described closure rule, not by name), and **it does not appear in the regulatory register**, meaning it carries no jurisdiction stamp and no as-of date. Treat it as a lead to verify, not a compliance basis.
+- **FMM tourist permit** — filed online in advance, needs passport details, point of entry, length of stay. **Print it** — one viewer reported being checked three times on a prior trip.
+- **Mexican fishing licence** — bought online; the source flags a **new website as of 2026**, so search fresh rather than using an old bookmark. Carry your passport.
+- **Passport.**
+- **Mexican vehicle insurance**, mandatory in practice — **Baja Bound** named; reported ~**$90** for a 4-day trip on a 2021 car, ~**$130** on a newer Tacoma.
 
-## If the trip is Baja
+That note also confirms a Mexican yellowtail bag limit exists in practice without ever stating the number: the anomalous 2026 BOLA season ran with *"consistent yellowtail limits posted 'every other day'"* — and at Cedros a full-day **"limit of yellowtail"** is described (`9kGpcEHqIUc`, `locations/cedros-island.md`), with another crew *"nearly limiting out in about two hours at one stop"* (`u0scEBby7nA`). Anglers limit; the KB never records what the limit is.
 
-Same answer — no yellowtail bag or size limit in the KB for Mexican waters either. What the KB *does* hold for a Mexico yellowtail trip:
+**3. Don't confuse a boat's trip limit with a legal bag limit.** The KB records this distinction only as an observation, not as regulation. On a 2.5-day Eldorado charter at San Clemente Island (`sHnqSIOjTdM`, `species/yellowtail.md`), a dropper-loop bite on **40 lb line at 100 ft** kept producing white seabass as bycatch, and *the boat had already reached its trip's white seabass limit*, so each was released. Similarly at La Paz, a crew stopped keeping fish once **three bags** filled the day's box — a self-imposed capacity call, not a rule. CPFV trip allocations and skipper calls are operational; they aren't the CDFW figure you asked for.
 
-- **Paperwork** ([`locations/bahia-de-los-angeles.md`](locations/bahia-de-los-angeles.md), Mexico — INM for entry, CONAPESCA for fishing, as reported **2026-08-06**, `P36VGPPf120`): FMM tourist permit (filled online in advance, **print it** — one report of being checked three times), Mexican fishing licence (bought online; the source notes a *new* website as of 2026, so search fresh rather than using an old bookmark), and passport. Mexican vehicle insurance is separate and mandatory in practice — Baja Bound named, ~$90 for a 4-day trip on a 2021 car, ~$130 on a newer Tacoma.
-- **Gear rule, Baja California Sur:** a crew member states a **circle hook was "mandatory"** for sportfishing there ([`techniques/flyline.md`](techniques/flyline.md), `GptrotE0x5M`, East Cape, **as of 2019-02-13**). The note itself flags this as not independently confirmed against the regulation text — verify current CONAPESCA/DOF circle-hook rules before fishing.
+**4. One thing the register explicitly rejects, worth knowing:** a claim that *"a legal-size fish must be killed"* was heard on camera (`VUb7a3sP8zQ`) and was **deliberately not carried into any note** — a minimum size sets a floor on what may be *kept*, not an obligation to keep it. So even once you have the real yellowtail numbers, releasing a legal fish is your call.
 
-## One trap to avoid when searching this KB yourself
+**5. Also not a regulation:** the Cedros **100% voluntary catch-and-release** policy is an operator agreement, and it covers **calico bass, cabrilla (grouper), and black seabass — not yellowtail** (`sources/regulatory-claims.md`). Yellowtail are the retained target there.
 
-The word "limit" appears all over the yellowtail material in the **colloquial** sense — *limiting out* — and none of those are legal figures:
+## What to do before you fish
 
-- A full-day **"limit of yellowtail"** at Cedros on a bait heard as "triple trout," called *"epic"* ([`locations/cedros-island.md`](locations/cedros-island.md), `9kGpcEHqIUc`).
-- The crew **nearly limiting out on yellowtail in about two hours at one stop** at Cedros, day two ([`species/yellowtail.md`](species/yellowtail.md), `u0scEBby7nA`).
-- Bahía de los Ángeles in the anomalous 2026 season, biting through the winter from November with **consistent yellowtail limits posted "every other day"** ([`locations/bahia-de-los-angeles.md`](locations/bahia-de-los-angeles.md)).
+Pull the current yellowtail bag and size limits straight from **CDFW** (California) or **CONAPESCA** (Mexico) yourself — the KB can't supply them. If you want, I can plan the rest of the yellowtail day off the router properly (zone, timing, technique-by-situation, gear class); it's fully sourced for everything *except* the regulatory layer.
 
-Those tell you the fishing was good. They tell you nothing about the number.
-
-## Why I'm not filling this in from memory
-
-This KB's rules forbid it, and they're right to. [`CLAUDE.md`](CLAUDE.md) requires every regulatory claim to carry **jurisdiction + as-of date + verify-current flag**, because *"regulations are not fishery knowledge... they change without notice, and a stale one is worse than a missing one."* The boat-day skill states it flatter ([`skills/socal-boat-day/SKILL.md`](skills/socal-boat-day/SKILL.md)): **"Never invent depths, coordinates, or regulations. If the repo doesn't say it and the data doesn't show it, say you don't know."** A bag limit I recall rather than read is exactly the failure mode that gets someone cited.
-
-## What to do
-
-Go to the issuing agency before you fish — **CDFW** for California waters, **CONAPESCA** (permits) and **INM** (FMM) for Mexican waters. The register's own header applies to every figure above, not just the missing one: *"Nothing here is current by virtue of being written down."*
-
-If you get the current CDFW yellowtail figures, they're worth adding as a register row plus a stamped claim in the species note — it's a conspicuous hole given how heavily yellowtail is covered everywhere else in here.
-
-*(Minor KB inconsistency worth flagging while you're in there: the register's "Known gap" section still says Mexican licensing and entry requirements are absent from the KB, but the Bahía de los Ángeles note now covers the FMM, the CONAPESCA licence, and the insurance carrier by name. That gap looks closed and the register wasn't updated.)*
+If you get the real figures, they should be added as a `species/yellowtail.md` Regulations block plus a row in `sources/regulatory-claims.md` with jurisdiction, as-of date, and verify-current flag — that's the KB's standard format and it would close this gap for the next planner.
 
 
-*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `sources/regulatory-claims.md`, `locations/cedros-island.md`, `locations/bahia-de-los-angeles.md`, `techniques/flyline.md`, `skills/socal-boat-day/SKILL.md`  
-*videos:* `5p6gu14ZC4w`, `u0scEBby7nA`, `9kGpcEHqIUc`, `GptrotE0x5M`, `P36VGPPf120`, `r6j5w40fVHI`, `LqW32NSkObY`, `HMdrP4-i9MM`, `MUpvP-Yl2R0`, `ty8FtA3Y2bA`, `usHl-4SfqDA`, `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk`  
-*gaps admitted:* No yellowtail bag limit anywhere in the KB — species/yellowtail.md has no regulations section and sources/regulatory-claims.md (the KB's complete register of regulation-shaped claims) has no yellowtail row in either its California/CDFW or Mexico table. | No yellowtail minimum/maximum size limit anywhere in the KB, for California or for Mexican waters. | No yellowtail season dates, open/closed periods, or gear restrictions specific to the species. | The one yellowtail-adjacent retention rule the KB holds (Farnsworth Bank closure, keep only yellowtail and bonito) carries no jurisdiction and no as-of date, and is absent from the regulatory register, so it is unverified. | The Farnsworth Bank closure claim rests on a caption-garbled on-camera mention ('foreign First Bank'), identified by the described rule rather than by name. | The Baja California Sur mandatory-circle-hook claim is not independently confirmed against the regulation text in this corpus and is stamped only as of 2019-02-13. | No CPFV/party-boat-specific yellowtail allowance is recorded. | Internal KB inconsistency: sources/regulatory-claims.md still lists Mexican licensing and entry requirements as a known gap, but locations/bahia-de-los-angeles.md now documents the FMM, CONAPESCA licence, passport and vehicle insurance.
+*notes:* `README.md`, `CLAUDE.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `sources/regulatory-claims.md`, `locations/bahia-de-los-angeles.md`, `locations/cedros-island.md`, `skills/socal-boat-day/SKILL.md`  
+*videos:* `P36VGPPf120`, `sHnqSIOjTdM`, `u0scEBby7nA`, `9kGpcEHqIUc`, `r6j5w40fVHI`, `HMdrP4-i9MM`, `LqW32NSkObY`, `MUpvP-Yl2R0`, `usHl-4SfqDA`, `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk`, `VUb7a3sP8zQ`  
+*gaps admitted:* No yellowtail bag limit anywhere in the KB — species/yellowtail.md has no Regulations section and sources/regulatory-claims.md has no yellowtail row in the California/CDFW table. | No yellowtail minimum size limit for California/CDFW anywhere in the KB. | No Mexican (CONAPESCA) yellowtail bag or size limit — Baja notes reference anglers 'limiting out' but never state the number. | No yellowtail season dates, closures, or open/closed periods for any jurisdiction. | No distinction recorded between CPFV/party-boat yellowtail allowances and private-boat limits (only an unrelated white seabass trip-limit observation and self-imposed box limits). | No split between Baja California and Baja California Sur yellowtail regulations, despite the KB gating those as separate regions. | No yellowtail-specific gear restrictions (e.g. hook rules) for California; only a Baja California Sur circle-hook requirement recorded under techniques/flyline.md, which is not yellowtail-specific.
 
 </details>
 
 <details><summary><b>NOW — review</b> · 12/12</summary>
 
-## Short answer: the knowledgebase does not have them, and it says so on purpose
+## Short answer: the knowledgebase does not have them.
 
-I went through the day-plan protocol's regulation path — [`species/yellowtail.md`](species/yellowtail.md) → [`sources/regulatory-claims.md`](sources/regulatory-claims.md) → the two jurisdiction pages — and there is **no bag limit and no size limit for yellowtail anywhere in this KB**, on either side of the border.
-
-That is a recorded gap, not an oversight. The Regulations section of [`species/yellowtail.md`](species/yellowtail.md) carries it verbatim:
+There is **no California (CDFW) bag limit and no minimum size for yellowtail anywhere in this KB**, and no Mexican (CONAPESCA) yellowtail limits either. This isn't me failing to find them — the yellowtail router flags it explicitly:
 
 > ⚠ Flagged gap — no corpus source: California (CDFW) bag/size limits for yellowtail, and any Mexican (CONAPESCA) yellowtail limits — verify with the issuing agencies before a trip.
+> — `species/yellowtail.md`, Regulations section
 
-It is logged again in [`sources/gap-report.md`](sources/gap-report.md) under `species/yellowtail.md` → `Regulations`. And the register that indexes every regulation-shaped claim in the KB, [`sources/regulatory-claims.md`](sources/regulatory-claims.md), has **no yellowtail bag or size row at all** — the register does carry figures for other species (bluefin 2 per person per day as of 2024-11, `usHl-4SfqDA`; calico bass 14 in as of 2022-04-25, `r6j5w40fVHI`, and 5 per day as of 2019-03-13, `LqW32NSkObY`; California halibut 22 in as of 2016-11-23, `MUpvP-Yl2R0`), so the absence on yellowtail is a real hole in the source corpus rather than a policy of not recording regs.
+The same gap is logged in `sources/gap-report.md` (`species/yellowtail.md` → `Regulations`: gap — California (CDFW) bag/size limits). **Get the numbers from CDFW before you fish, and from CONAPESCA if you're crossing.** I won't guess at them from outside the KB.
 
-**Get the numbers from CDFW (California) and CONAPESCA (Mexico) before you fish.** I won't guess at them from general knowledge — a stale or invented limit is worse than a missing one, which is the standing rule at the top of [`sources/regulatory-claims.md`](sources/regulatory-claims.md).
+For contrast, so you know the register isn't just empty across the board: `sources/regulatory-claims.md` does carry hard figures for other species — calico bass 14 in minimum (`r6j5w40fVHI`, as of 2022-04-25), Pacific bluefin 2 per person per day (`usHl-4SfqDA`, as of 2024-11). Yellowtail has no such row.
 
-## The one yellowtail-specific rule the KB does hold
+## The one yellowtail-specific regulation the KB does carry
 
-**Farnsworth Bank, Catalina backside — a keep-list, not a limit.** Inside the closure area **only yellowtail and bonito may be kept**; everything else goes back (`5p6gu14ZC4w`). California / CDFW, **as of 2022-10-26**, registered in [`sources/regulatory-claims.md`](sources/regulatory-claims.md) and charted in [`locations/catalina-island-backside.md`](locations/catalina-island-backside.md) as a partial-take SMCA. Verify current MPA rules with CDFW before fishing.
+**Farnsworth Bank (Catalina) marine closure — keep-list, not a bag or size limit.** Inside the closure area **only yellowtail and bonito may be kept**; everything else goes back — no bass, no rockfish (`5p6gu14ZC4w`). California / CDFW, as of **2022-10-26**. Recorded in `species/yellowtail.md`, `locations/socal-bight.md` (Catalina Backside zone row), and indexed in `sources/regulatory-claims.md`.
 
-Two caveats the KB attaches to that claim, and you should carry both:
+Read that with the KB's own caveat attached, because it is substantial:
 
-- The take restriction is verbatim on camera, but `5p6gu14ZC4w` **never names Farnsworth** (the auto-caption reads "the foreign First Bank") and **states no agency, jurisdiction or MPA designation** — flagged contradicted-by-source in [`species/yellowtail.md`](species/yellowtail.md) and unverifiable in [`locations/catalina-island-front-side.md`](locations/catalina-island-front-side.md).
-- The "partial-take SMCA" labels on Farnsworth, Cat Harbor and China Point rest on the spot library's own parentheticals (cameron), not on a regulator's text — flagged single-source in [`locations/catalina-island-backside.md`](locations/catalina-island-backside.md).
+- The kept-species list is verbatim on camera, **but the source never names Farnsworth** — the auto-caption reads "the foreign First Bank," and the bank was identified by its closure rule, not by name.
+- The source **states no jurisdiction, no agency, no MPA designation and no boundary**. The CDFW attribution is the KB's inference.
+- It rests on one 2022 fishing report.
 
-So: treat it as a real reason to check the chart before you fish the Catalina backside, not as a verified boundary.
+So it tells you a closure exists and yellowtail are on the keep side of it — it does **not** give you a boundary you can plot. **Verify the current MPA boundary and rules with CDFW before fishing that bank.**
 
-## Which agency you're under depends on where you fish the yellowtail
+## Two things that look like yellowtail limits and are not
 
-Per the protocol's step-1b envelope ([`planning/day-plan-protocol.md`](planning/day-plan-protocol.md)), yellowtail is gated to `socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-north` and `cortez-south` — so the same fish sits under two different rulebooks:
+**1. The "non-retainable yellowtail" at the northern Channel Islands — probably a misidentification.** `locations/santa-rosa-island.md` and `locations/san-miguel-island.md` both carry a line about a "real trophy" yellowtail taken on an artificial lure on the November 2022 rockfish weekend and **released as non-retainable in Southern California waters** (`Z3rZqy2Pi8E`, stated on camera 2022-11-23). Do not read that as a yellowtail no-retention rule. The San Miguel page's own fact-check flag says the fish is **very likely a yelloweye rockfish, not a yellowtail** — the caption reads "a really nice yellow… releasing because you can't keep them in Southern California waters" inside a San Miguel *rockfish* sentence, and the KB notes yellowtail are retainable in California while yelloweye are a prohibited-retention species. The Santa Rosa copy carries a second flag: that fish came off a trip the source places at **San Miguel**, not Santa Rosa.
 
-- **US waters** — CDFW sets licences, seasons, limits and closures; USCG handles vessel inspection. Checked as of 2026-08. [`locations/us-waters.md`](locations/us-waters.md) is explicit that bag limits, size minimums and seasons "are set per species by CDFW, not by this page."
-- **Mexican waters** — INM for entry, CONAPESCA for fishing, as of 2026-08 ([`locations/mexican-waters.md`](locations/mexican-waters.md)). **The Coronado Islands sit in Mexican waters** (`D5DR7Kx42_A`) — Mexican jurisdiction, not CDFW ([`species/yellowtail-coronado-islands.md`](species/yellowtail-coronado-islands.md)). That matters because the Coronados are the most common yellowtail day-trip destination in this KB and a CDFW limit does not travel there.
+**2. "Yellowtail limits every other day" in the Sea of Cortez is a catch rate, not a legal limit.** `locations/cortez-north.md` records the 2025–26 winter run biting from November with consistent yellowtail limits posted every other day (`P36VGPPf120`) — that is boats limiting out, i.e. how good the fishing was.
 
-Per KB convention, a Baja limit that differs from a CDFW limit is **two jurisdictions, never a doctrine conflict** ([`locations/mexican-waters.md`](locations/mexican-waters.md)).
+## Where the KB says the answer lives, and what else to square away
 
-## Compliance doctrine the KB does carry (and it applies to yellowtail)
+- **US waters** (`locations/us-waters.md`): "Bag limits, size minimums and seasons are set per species by CDFW, not by this page." The operative doctrine on that page is blunt — know how many hooks, how many rods, which species may be taken, which are season-regulated, and the bag limit for each **before you leave the dock**; a game warden writes the ticket whether or not you knew the rule (`EGKesj7V64M`).
+- **Coronado Islands — different jurisdiction entirely.** The most common yellowtail day out of San Diego is in **Mexican waters (CONAPESCA/INM), not CDFW** (`D5DR7Kx42_A`, per `species/yellowtail-coronado-islands.md`). Per `locations/mexican-waters.md`, a Mexican limit differing from a CDFW one is **two jurisdictions, never a conflict to reconcile** — you follow whichever water you're fishing. That page carries a CONAPESCA licence (bought online, carry your passport) and an FMM as the general Baja paperwork (`P36VGPPf120`), but it flags its own biggest hole: **what a day boat running from San Diego into Mexican water actually needs — whether an FMM applies when you never land — is not covered by the corpus.**
+- Also uncovered by the KB: whether a fish may be filleted at sea in US waters, what must stay attached for species and size ID, and how a limit is counted in transit (`locations/us-waters.md`).
 
-- **Know the rules of the area before you leave the dock** — how many hooks, how many rods, which species may be taken, which are season-regulated, and the bag limit for each. A game warden writes the ticket whether or not you knew the rule (`EGKesj7V64M`, [`locations/us-waters.md`](locations/us-waters.md)).
-- **Boundary compliance is positional, not depth-based.** A closure line runs at different depths in different places along the same stretch of coast, so you can be legal at one position and over the line at a similar depth a short distance away. Load the boundary into a chart app and check position in real time rather than trusting the sounder (`iAr6sbRC384`, [`locations/us-waters.md`](locations/us-waters.md)). Directly relevant to fishing the Farnsworth edge or Catalina's partial-take areas.
-- **California licence on your person.** A sportboat crew checks it before you board (`LsFMBCa9DOQ`); buy it ahead of the season rather than on the dock (`E9YtH56Dngo`) — [`locations/us-waters.md`](locations/us-waters.md). The KB flags the boarding-check detail as hardening past its source.
-- **Running to the Coronados or down the Baja coast:** FMM tourist permit (print it), Mexican fishing licence bought online with your passport to hand, and your passport (`P36VGPPf120`, [`locations/mexican-waters.md`](locations/mexican-waters.md)).
-
-## What I'd do with this
-
-Pull the current CDFW ocean sport fishing regulations for yellowtail (bag and size) before any Bight or island day, and the current CONAPESCA limits before any Coronados or Baja day. Once you have them, they belong as rows in [`sources/regulatory-claims.md`](sources/regulatory-claims.md) with jurisdiction, an as-of date and a verify-current flag, plus the Regulations section of [`species/yellowtail.md`](species/yellowtail.md) — that closes a gap the gap report is already tracking.
+**Bottom line for a trip:** treat yellowtail bag and size as an open item you resolve at CDFW (or CONAPESCA for the Coronados/Baja) on the way out the door. The only thing this KB can tell you is that yellowtail is on the keep-list inside the Catalina closure area, and that the closure claim itself needs re-verification.
 
 
-*notes:* `README.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `species/yellowtail-coronado-islands.md`, `sources/regulatory-claims.md`, `sources/gap-report.md`, `locations/us-waters.md`, `locations/mexican-waters.md`, `locations/catalina-island-backside.md`, `locations/catalina-island-front-side.md`  
-*videos:* `5p6gu14ZC4w`, `D5DR7Kx42_A`, `EGKesj7V64M`, `iAr6sbRC384`, `LsFMBCa9DOQ`, `E9YtH56Dngo`, `P36VGPPf120`, `usHl-4SfqDA`, `r6j5w40fVHI`, `LqW32NSkObY`, `MUpvP-Yl2R0`  
-*gaps admitted:* California / CDFW daily bag limit for yellowtail — absent from the corpus; no figure anywhere in the KB or the regulatory-claims register. | California / CDFW minimum size / size gauge for yellowtail — absent from the corpus. | Mexican (CONAPESCA) bag limit and size gauge for yellowtail — absent from the corpus, including for the Coronado Islands and all Baja regions. | Any season or gear rule specific to yellowtail on either side of the border — absent from the corpus. | The Farnsworth Bank keep-list source names no agency, no jurisdiction and never actually says 'Farnsworth'; the 'partial-take SMCA' designation and its boundary are uncorroborated (spot-library label only). | Whether a day boat run from San Diego to the Coronados requires an FMM at all, and what a private boat as opposed to a vehicle must carry — flagged as the single most common Mexican-water trip the corpus does not answer. | US transport rules for fish caught in US waters — filleting at sea, what must stay attached for species and size identification, and how a limit is counted in transit. | US customs declaration, transport and border limits for fish caught in Mexican waters and carried north.
+*notes:* `README.md`, `planning/day-plan-protocol.md`, `species/yellowtail.md`, `sources/regulatory-claims.md`, `sources/gap-report.md`, `locations/us-waters.md`, `locations/mexican-waters.md`, `locations/socal-bight.md`, `locations/santa-rosa-island.md`, `locations/san-miguel-island.md`, `locations/cortez-north.md`, `species/yellowtail-coronado-islands.md`  
+*videos:* `5p6gu14ZC4w`, `Z3rZqy2Pi8E`, `D5DR7Kx42_A`, `EGKesj7V64M`, `P36VGPPf120`, `r6j5w40fVHI`, `usHl-4SfqDA`  
+*gaps admitted:* California / CDFW daily bag limit for yellowtail — no corpus source; explicitly flagged as a gap in species/yellowtail.md and sources/gap-report.md. | California / CDFW minimum size (size gauge) for yellowtail — no corpus source; same flagged gap. | Mexican (CONAPESCA) bag limit, size gauge or season for yellowtail — no corpus source, on either the Baja Pacific or Sea of Cortez side. | Any yellowtail season, closure dates or seasonal retention restriction — absent from the corpus. | The Farnsworth Bank keep-list claim names no agency, no jurisdiction, no MPA designation and no boundary, and the bank's name is ASR-garbled in the only source ('foreign First Bank') — the CDFW attribution is the KB's inference, not the source's. | Whether the 'non-retainable' fish at San Miguel/Santa Rosa was a yellowtail at all is unresolved in the KB — its own fact-check flags read it as a likely yelloweye rockfish, and the KB does not settle it. | What a private boat running from San Diego to the Coronado Islands must carry (FMM, fishing permits, whether an FMM applies when not landing) — flagged gap in both locations/mexican-waters.md and species/yellowtail-coronado-islands.md. | US-waters transport rules — whether a fish may be filleted at sea, what must stay attached for species and size identification, and how a limit is counted in transit — flagged gap in locations/us-waters.md. | No live conditions were supplied and no BightSST pull was made, so no part of this answer is tuned to a specific day.
 
 </details>

@@ -158,12 +158,18 @@ never saw which version it was reading. The full record and the verdict are in
 browsable side-by-side version is
 [here](https://claude.ai/code/artifact/7a59971f-3762-4857-ba9c-e85b7c8ef68e).
 
-The headline: the review won 13 of 21, batch 3 won 6, batch 2 won 2 — but the
-rubric ceilinged (351 of 378 scores were a full 2/2), so the mean totals tie the review
-with batch 3 and carry no signal. Four of the five tests above agree in
-direction with their blind counterparts. The exception is Tanner Bank, where a
-533-line new page lost to batch 2's three passing mentions, because the review
-taught the note to name its gaps and stop rather than teach the bank programs.
+The headline: **the review won 18 of 21, batch 3 won 3, batch 2 won none**, and
+the review's answer never scored below the top mark in any prompt — all three of
+its losses were point-ties broken on a narrow stated edge. The rubric ceilinged
+(352 of 378 scores were a full 2/2), so read the wins rather than the means.
+**All five tests above agree in direction with their blind counterparts**, and
+two — the sounder and Tanner Bank — come back better than the diff-reading
+predicted.
+
+The review is alone at a perfect 2.00 on both `honest` and `actionable`: being
+more careful did not cost it usability. Its one sub-2 score in 126 is #8's bare
+two-hook cap with no jurisdiction or as-of — a miss **all three versions** made,
+so it is a standing gap in the regulatory register, not damage the review did.
 
 
 <!-- backlinks:start -->
