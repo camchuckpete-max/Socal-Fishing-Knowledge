@@ -95,6 +95,11 @@ EXCLUDE_DIRS = {
     ROOT / ".git",
     ROOT / "sources" / "transcripts",
     ROOT / "skills" / "boat-day" / "resources",  # generated skill bundle
+    # Head-to-head prompt tests (sources/plan-review.md verification step):
+    # machine-written verbatim transcripts of model answers. Their prose is
+    # quoted output, not KB prose, and it carries note paths written relative
+    # to three *other* checkouts — validating those would be meaningless.
+    ROOT / "sources" / "prompt-tests-2026-09-09",
 }
 
 # --- region gating (see locations/regions.md) --------------------------------

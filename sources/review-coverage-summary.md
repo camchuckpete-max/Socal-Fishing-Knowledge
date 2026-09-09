@@ -148,6 +148,21 @@ Do not merge yet. Two paths:
 - **B:** merge now with all 1,536 flags in place. Honest, but every zone page
   reads with ten warnings on it, and a day plan built on one inherits them.
 
+## The blind head-to-head
+
+The five prompt tests above were run by hand against the diffs. They were then
+re-run blind — 21 prompts, answered by a planning session confined to each of
+three pinned checkouts (batch 2, batch 3, the review), scored by a judge that
+never saw which version it was reading. The full record and the verdict are in
+[Head-to-head prompt tests](prompt-tests-2026-09-09/README.md).
+
+The headline: the review won 13 of 21, batch 3 won 6, batch 2 won 2 — but the
+rubric ceilinged (92% of scores were 2/2), so the mean totals tie the review
+with batch 3 and carry no signal. Four of the five tests above agree in
+direction with their blind counterparts. The exception is Tanner Bank, where a
+533-line new page lost to batch 2's three passing mentions, because the review
+taught the note to name its gaps and stop rather than teach the bank programs.
+
 
 <!-- backlinks:start -->
 ## Linked from
