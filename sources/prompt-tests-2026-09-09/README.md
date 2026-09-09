@@ -13,7 +13,7 @@
 | scoped | 1.67 | 1.9 | 1.9 |
 | honest | 1.95 | 1.95 | 2 |
 | actionable | 1.71 | 1.95 | 1.9 |
-| **wins** | 2 | 6 | 13 |  (ties: 0)
+| **wins** | 2 | 6 | 13 |
 | ⚑ fabricated_specifics | 0 | 0 | 0 |
 | ⚑ bluffed | 0 | 0 | 0 |
 | ⚑ regulation_without_asof | 2 | 2 | 1 |
