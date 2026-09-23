@@ -124,10 +124,22 @@ coast of Long Beach" **about Cortez by name**, inverting my assignment. It's
 escalated to you, correctly. The pipeline caught me the same way it caught the
 other 1,536.
 
-## Ledger repairs, 2026-09-23
+## Repairs before approval, 2026-09-23
 
-Three structural defects were fixed before this document could be approved
-against. They move the headline counts by two rows.
+Four defects in the GATE B surfaces were fixed before this document could be
+approved against. Three are structural, in the ledger, and move the headline
+counts by two rows.
+
+**The worklist never actually reached terminal.** 246 of 913 rows sat at
+`fact-checked`, one step short of `done`, while 0 sat at `pending` — so the
+chain reported itself drained with a quarter of its rows open. The
+`fact-checked -> done` transition was never implemented for the full and geo
+tiers, and `next-note.py` only ever selects `pending`, so nothing could have
+advanced them. Sampling across every affected tier confirmed the work was
+complete (`layout: v2`, evidence files, ledger rows). Relabelled `done` in
+bulk; nothing re-run. The worklist now reads 729 done, 163 skipped, 21
+escalated — every row terminal, which is what
+`sources/plan-review.md` asks for at GATE B.
 
 - **One ledger row was invisible.** A lost newline had fused
   `locations/hidden-reef-170.md`'s MPA row onto the front of

@@ -47,6 +47,17 @@ writer of status/flags/result cells. Status machine:
 `pending -> done` at transform time. Gazetteer and cluster rows are appended
 by their builders after the transform phase drains.
 
+**`fact-checked` is the last phase any unit actually runs** (2026-09-23). The
+`-> done` transition above was never implemented for the full and geo tiers, and
+the orchestrator's "or done when the tier is standard/gazetteer" branch was not
+taken either, so 246 completed rows sat one step short of terminal while
+`next-note.py` — which only ever selects `pending` — could never advance them.
+The chain reported itself drained with those rows open. They were relabelled
+`done` in bulk at GATE B prep after sampling across every affected tier
+confirmed the work was complete (`layout: v2` present, evidence files written,
+ledger rows produced). Nothing was re-run. Treat `fact-checked` as a
+transitional value that should no longer appear.
+
 """
 
 
