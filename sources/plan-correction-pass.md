@@ -247,6 +247,65 @@ because they change the rules rather than apply them:
   split, the white-seabass hatchery-program spin-out, the cabrilla sliding-sinker
   destination), which are destination classification calls only he can make.
 
+
+## Appendix — the exact CLAUDE.md amendment being asked for
+
+The corrector needs one carve-out. CLAUDE.md is guard-protected, so this is a
+human-in-the-loop edit and it is quoted here in full rather than described, so
+approving the plan and approving the rule change are one read.
+
+**Current** (CLAUDE.md, "Content rules"):
+
+> - **Fact-check flags never touch the claim.** The `⚠` flag grammar
+>   (`templates/style-guide.md`) sits beside a claim and queues it in
+>   `sources/fact-check-ledger.md` for Cameron. **Single-source ≠ wrong**
+>   (Cameron, 2026-08-23) — flag, never delete.
+
+**Proposed** — the existing sentences unchanged, one paragraph added:
+
+> - **Fact-check flags never touch the claim.** The `⚠` flag grammar
+>   (`templates/style-guide.md`) sits beside a claim and queues it in
+>   `sources/fact-check-ledger.md` for Cameron. **Single-source ≠ wrong**
+>   (Cameron, 2026-08-23) — flag, never delete.
+>   **One exception, for `contradicted-by-source` only** (Cameron, 2026-09-DD):
+>   a sanctioned correction pass may rewrite a claim its own cited transcript
+>   does not support, to what that transcript actually says, and close the
+>   ledger row. That is restoring fidelity to a source, not adjudicating a
+>   judgment call — which is why it does not reach `single-source`,
+>   `unverifiable` or `contradicted-internal`, never touches an
+>   `⚠ adjudicated` passage, and requires a corrector that cannot ground its
+>   fix in the ledger row's recorded source wording to escalate rather than
+>   improvise.
+
+Why the carve-out is narrow rather than general: the rule's stated reason is
+that a single source is not a wrong source, and that stands. A
+`contradicted-by-source` flag says something different — the cited transcript
+does not support the claim, because the review hardened a hedge or drifted a
+sense. Leaving those standing under a warning label is the only option the
+current rule allows, and it is the option that makes every zone page read with
+ten warnings on it.
+
+## What has already been done under this plan
+
+**Phase 0 is complete** (2026-09-23), before GATE A, because it is document
+repair rather than a build and it was needed whichever path was chosen:
+
+- Ledger: one row that was invisible to every row-walker un-fused; the
+  Tanner/Cortez row moved out of Resolved and re-opened for a ruling; a stray
+  blank line removed. Every live row now parses at five cells. Counts moved to
+  2,128 live and 1,537 `contradicted-by-source`.
+- Coverage summary: escalations corrected to 137 total and 83 genuine (the
+  stated "74 of 135" reconciled with no cut of the file); relocations to 57
+  executed with 3 contested.
+- Escalations: a `- status:` field added to the schema, backfilled across all
+  137 entries, and written by `guard.py`'s appender from now on.
+- Judgment calls: rewritten from two pointer entries into the actual decision
+  list — all 83 open calls grouped by area.
+- Worklist: 246 rows were stuck at `fact-checked`, one step short of terminal,
+  with 0 pending — the chain had reported itself drained with a quarter of its
+  rows open. Verified complete by sampling every affected tier, then relabelled
+  `done`. Every row is now terminal.
+
 ## Verification
 
 - **Phase 0:** every figure in the coverage summary reproduces from a command in
