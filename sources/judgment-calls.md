@@ -381,10 +381,13 @@ The run's coverage summary is
   adjudications, all 23 routers). The new zone/region prose is not: 813 of the
   1,000 location fact-check flags sit on 77 pages, ~10 per zone page, and a
   40-row sample found 39 of 40 over-claims were introduced by the review.
-- **The rewrite pass dropped numeric specifics** — 166 of 2,974 across 205
-  notes (5.6%); `lures/knife-jigs.md` lost 45%. The guard does not conserve
-  parameters. Decide whether to restore from the pre-review notes and extend
-  the guard before GATE B.
+- **The rewrite pass dropped numeric specifics**, at an aggregate rate near
+  4–6%. The guard does not conserve parameters, so the rule is worth adding
+  whatever the restoration decision. _(Corrected 2026-09-23: the per-note
+  attribution was wrong and the headline example inverted — `knife-jigs.md`
+  carries 19 gram parameters before and 31 after. Most apparent loss is the
+  relocation pass moving parameters to other notes. The genuinely-lost residue
+  is small and must be re-derived case by case before anything is restored.)_
 - **`verify-external.yml` has never run**; 299 ledger rows are tagged and
   waiting.
 - The Tanner/Cortez "90 vs 110 mi" resolution was overturned by the verifier.

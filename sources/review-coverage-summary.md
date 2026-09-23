@@ -96,13 +96,35 @@ The pilot shows it in miniature: the rewrite added a bait-"shattering" read to
 yellowtail's Finding-them section, cited to a La Paz video — Sea of Cortez,
 not offshore SoCal. Flagged.
 
-**3. It dropped specifics.** CLAUDE.md: *"Preserve specifics exactly… never
-smooth numbers into generalities."* Across 205 rewritten notes, **166 of 2,974
-distinct numeric parameters are gone** from the note + evidence pair (5.6%).
-110 notes lost none; `lures/knife-jigs.md` lost **45%** (53 → 29 — gram
-ranges like 100–150g / 120–160g collapsed), `hoop-netting.md` 28% (depth
-bands), `sliding-sinker.md` 26% (line classes, sinker weights). **The guard
-does not check this** — it conserves cites and observations, not parameters.
+**3. It dropped specifics — but far fewer than this document first said.**
+CLAUDE.md: *"Preserve specifics exactly… never smooth numbers into
+generalities."* The **aggregate rate holds**: a re-derivation on 2026-09-23,
+with coordinates, video ids, timestamps, dates, prices, clip durations and
+numeric place names ("14 Mile Bank") suppressed, puts it near **4–6% of ~3,000
+distinct numeric parameters** across the rewritten notes. The guard still does
+not check this — it conserves cites and observations, not parameters — so the
+rule is worth adding either way.
+
+**The per-note attribution was wrong, and the headline example was backwards.**
+This document said `lures/knife-jigs.md` lost 45%, "gram ranges like 100–150g /
+120–160g collapsed". Counted directly against `1e66a92`, that note carries
+**19 distinct gram parameters before and 31 after**. Every pre-review value
+survives, and the two ranges named as casualties — 100–150g and 120–160g — are
+present *now* and absent *before*. The note gained specificity.
+
+Most of the apparent loss is **relocation, not deletion**: the 57 executed
+moves and 28 species-technique spin-outs carried parameters to notes the
+extraction was not looking in (`techniques/knife-jigging.md` →
+`species/yellowtail-knife-jigging.md`). Searching the whole post-review KB
+rather than the source note alone recovers the large majority of them.
+
+A genuinely-lost residue does exist and is small — order of a couple of dozen
+parameters across roughly as many notes. Two hand-checked: `35–37 lb` on a
+mid-trip Cedros session is gone from the KB entirely; `50–150 yards` for
+casting at boiling bluefin now reads `100–150 yards`, which is a narrowed range
+rather than a deletion. **The restoration list must be re-derived, case by
+case, before anything is put back** — restoring from the old figure would
+re-add numbers to `knife-jigs.md` that are already there.
 
 **4. 203 stale anchors** (cosmetic; the link lands on the right note).
 
@@ -177,9 +199,9 @@ Do not merge yet. Two paths:
 - **A (recommended):** merge the ladder, the evidence layer and the v2 skeletons
   — they are sound — but run a **correction pass over the 77 zone/region pages
   and the 23 routers**: each flagged claim rewritten to what the source actually
-  says, the guard extended to conserve numeric specifics so the knife-jigs
-  failure cannot recur, and the 166 dropped parameters restored from the old
-  notes. Then GATE B on a KB whose new prose is as trustworthy as its old.
+  says, the guard extended to conserve numeric specifics, and the genuinely
+  lost parameters restored from the old notes off a re-derived list. Then
+  GATE B on a KB whose new prose is as trustworthy as its old.
 - **B:** merge now with all 1,537 flags in place. Honest, but every zone page
   reads with ten warnings on it, and a day plan built on one inherits them.
 

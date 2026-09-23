@@ -130,72 +130,171 @@ highest-consequence content in the KB to have wrong.
 
 ## Phase 2 — the correction pass
 
-A design agent is still refining the prompt wording and the guard regex; those
-are implementation details. The shape below is settled and evidenced.
+### The unit is a note, not a ledger row
 
-- **A new prompt and a new authority.** `prompts/factcheck-note.md` says
-  explicitly *"You flag; you never delete, reword, or 'correct' a claim."* The
-  corrector is a different job and needs its own prompt, not an edit to that one.
-- **Scope: `contradicted-by-source` only.** Never `single-source` — CLAUDE.md
-  pins *"Single-source ≠ wrong (Cameron, 2026-08-23) — flag, never delete"*, and
-  that rule stands. A `contradicted-by-source` flag is a different animal: the
-  cited transcript does not support the claim, so rewriting it restores fidelity
-  rather than overriding a judgment call.
-- **Adjudicated passages are untouchable.** `⚠ adjudicated (Cameron, <date>)` is
-  final per `prompts/review-note.md` rule 3a, and the guard already conserves it.
-- **The cheap part, now verified.** Each `contradicted-by-source` ledger row's
-  detail cell already records what the transcript actually says, quoted, with
-  timestamps, plus the precise nature of the mismatch. A four-row sample was
-  sufficient to write the correction without opening a transcript in every case:
+214 units, after folding the 35 evidence-file ledger rows into their parent
+notes. A note-shaped unit reuses the existing machinery untouched: `guard.py`'s
+`SUBJ_NOTE_RE` already parses `review: locations/tanner-bank.md — correct`,
+SCOPE already permits the note plus its evidence file plus the exempt logs, and
+`commit-note.py --note` already rewrites one worklist row. Nothing in the scope
+machinery changes.
 
-  | note | what the fix is |
-  |---|---|
-  | `locations/cabo-san-lucas.md` | restore two hedges the rewrite hardened — the source says "**usually** an early morning bite" and these fish "**seem to** bite the best" |
-  | `locations/loreto.md` | "trolls one up before lunch" is wrong in both cited sources; one is explicitly an afternoon fish, the other says only "early on on that Halco" |
-  | `species/calico-bass.md` | "boiler" in the seminar means a boiler **rock**, not fish boiling on bait; and a July–August passage was re-scoped from spotted bay bass onto calico |
-  | `species/spotted-bay-bass.md` | the source self-flags its own mechanism as speculation ("all you spotty experts are probably going to hold my feet to the fire"); the note states it flatly as doctrine |
+### The corrector reads the note first, the ledger second
 
-  The pattern is consistent and narrow: **hedge-hardening and sense-drift**,
-  which matches the coverage summary's "cite-stretching, not fabrication"
-  diagnosis. That is what makes the pass affordable against the original 913
-  units — and it also means a corrector that cannot find its fix in the detail
-  cell should escalate rather than improvise.
-- **Real scope: 1,536 rows across 249 distinct notes**, not the 104 the coverage
-  summary's zone/region-plus-routers framing implies. The distribution suggests
-  the worklist tiering:
+The inline flag sits beside the claim it indicts, and **1,598 of 1,666 inline
+flags (96%) carry a verbatim quote of what the source actually says**, median
+535 characters. That solves "where in a 533-line note is this claim?" for free.
+The ledger row is worth reading for the 28% of cases where it names a *different*
+video id — the correct cite — and little else.
 
-  | flags per note | notes | unit shape |
-  |---:|---:|---|
-  | 20 or more | 12 | one unit each, heaviest first |
-  | 10 to 19 | 48 | one unit each |
-  | 5 to 9 | 52 | one unit each |
-  | 1 to 4 | 137 | batch ~4 notes per unit |
+Across the live ledger, **1,510 of 1,539 `contradicted-by-source` rows (98.1%)
+carry at least one verbatim quoted span**, and roughly **91% are correctable
+from the row and note alone**. Transcripts are local and median 2.2 KB, so the
+escape hatch is cheap; the point is that it is the exception. The builder tags
+the ~9% in advance: 23 rows whose detail carries no quote and names no
+alternative source get `needs-transcript` and 100% transcript verification.
 
-  That is roughly 150 units. The heaviest are exactly where the coverage summary
-  predicted: `locations/east-cape.md` (33), `species/yellowfin-tuna.md` (26),
-  `locations/la-paz.md` (25), `ensenada.md` and `cedros-island.md` (24 each).
-- **Reuse the existing scheduler rather than building one.** `commit-note.py`
-  keys off a worklist row and fails if none exists, so the correction pass needs
-  rows. The cheapest route follows the pattern `cluster:<name>` already
-  establishes: append **new** rows with tier `correct` and unit ids
-  `correct:<note path>` at status `pending`, add a `correct` mode to
-  `scripts/review/next-note.py` alongside the existing transform/geo/gazetteer/
-  cluster modes, and leave `commit-note.py`, `guard.py`, `progress.py` and the
-  dashboard untouched. Appending rather than re-opening the old rows keeps the
-  review run's history intact.
-- **Operational risk.** This is another unattended multi-day fleet run, with the
-  same failure modes as the last one: a trampoline that died on a SIGPIPE and
-  stalled the chain for nine hours, and watchers that died with their containers.
-  Land the guard rule and the correction prompt first, pilot three notes by hand
-  for Cameron before dispatching, and keep the kill switch (`STOP` at branch root)
-  documented in the same place.
+### Five legal moves, and no sixth
+
+Ranked; the corrector picks the highest that fits.
+
+1. **Narrow** — keep the claim, restore the source's hedge, scope or condition.
+2. **Restate** — replace the wording with what the transcript actually says.
+3. **Re-cite** — the claim is right and the cite is wrong; fix it and append the
+   correct id to front-matter `sources` (append-only).
+4. **Split** — one sentence welded two sources' facts; separate them, each with
+   its own cite.
+5. **Demote** — nothing supports it as doctrine; move it to the evidence file as
+   a one-line cited observation.
+
+**Deletion is not a correction.** It is the cheapest way to make a flag go away
+and the pass's defining failure mode, so it is excluded by construction rather
+than by instruction. A corrector whose honest answer is "remove this" marks the
+row `correction-blocked: needs-cameron` and leaves the claim standing.
+
+### What the corrector may never touch
+
+Enforced in the builder and the guard, not merely requested in the prompt — a
+rule that depends on a worker reading a marker correctly 1,539 times will fail
+some of the time.
+
+- **`single-source` claims and flags, ever.** CLAUDE.md pins the reason and it
+  stands. Guard invariant: the `single-source` inline-flag count across the
+  note-plus-evidence pair is **non-decreasing**.
+- **`⚠ adjudicated (Cameron, <date>)` passages** — already guarded.
+- **The 27 rows carrying `**stands**`** and **the 106 tagged `ext-verify`** —
+  excluded by the builder. Correcting an `ext-verify` row pre-empts Phase 1,
+  which may overturn the correction.
+- **`contradicted-internal` (228 rows)** — deferred. Those span two notes and
+  need the cluster-pass authority, which already exists as its own tier.
+- **Any second note.** A correction implying a move appends a relocation-queue
+  row and leaves the content in place.
+
+### The ledger closure that makes deletion mechanically detectable
+
+Each closed row moves out of the live table into a new `## Corrected` section
+below the end markers, mirroring the existing `## Standing` and `## Resolved`
+grammar, in this shape:
+
+```
+| <note> | <claim, unchanged> | corrected | <final cite> | **corrected** (<date>,
+correct pass): was: "<verbatim old sentence>" — now: "<verbatim new sentence>"
+— <one line: what the source actually says> |
+```
+
+`was:` and `now:` are verbatim single sentences, and that is the keystone. The
+guard asserts the `now:` string is **literally present** in the post-commit note
+and the `was:` string **literally absent**. A deletion cannot satisfy it: there
+is no `now:` text to point at. It also catches a corrector rewriting the ledger
+to describe an edit it did not make.
+
+Paired with it: **flag-closure accounting** — the count of
+`contradicted-by-source` flags removed from the note must equal the count of
+rows moved into `## Corrected` naming that note. A flag deleted without a ledger
+closure is a violation, and so is the reverse. The two surfaces cannot drift
+apart.
+
+### The tier must be `correct` — a trap worth naming
+
+`guard.py`'s `set_row_status` coerces `done` back to `transformed` for tiers
+`full`, `standard` and `geo`, so the fact-check phase cannot be skipped. A
+correction unit landing `done` on a `geo`-tier row would be **silently** coerced
+and re-enter fact-check. A distinct `correct` tier sidesteps it entirely.
+
+Wiring is four small edits: `correct` added to `next-note.py`'s tiers, model map
+and a bucket placed **last** in `buckets()`; a `cost_of()` that reads `cbs:<n>`
+out of the flags cell; `corrected` added to `commit-note.py`'s status choices.
+`review-chunk.yml` needs no change — the phase is derived from worklist state,
+which is the whole design of the self-re-dispatching chain.
+
+### The verifier needs its own prompt
+
+`prompts/verify-review.md` rule 5 currently reads *"Fact-check units: flags
+only — any reworded/deleted claim → reject"*, which would reject every
+correction unit. A correction verifier checks: every `now:` string is literally
+in the note; every `was:` string is literally absent; the new text is entailed
+by the ledger detail's quoted wording; **at least three corrections per unit
+spot-checked against the actual transcript** with timestamps quoted, the bar
+`verify-review.md` already sets; no `single-source` flag lost; no second note
+touched.
+
+### Phasing and sizing
+
+Unit cost by flag count: 1–4 rows = 2 points, 5–9 = 3, 10–19 = 5, 20+ = 8.
+Ordering is region-first with `socal-bight` ahead of Baja, then worst pages
+first, so a budget cut lands on the cleanest pages rather than on the mission
+scope. The three worst pages in the KB are all Baja and must not front-run
+Point Loma and Catalina.
+
+| phase | scope | units | rows | chunks |
+|---|---|---:|---:|---:|
+| supervised setup | prompts, guard rules, builder, `## Corrected` section, wiring | — | — | 1 PR |
+| 1a | SoCal zone, region, jurisdiction pages | 42 | 517 | ~12 |
+| 1b | species routers | 21 | 224 | ~6 |
+| 1c | Baja and Cortez zone and region pages | 44 | 561 | ~13 |
+| 2 | techniques, rigs, lures, conditions, seasonal, bait | 77 | 166 | ~10 |
+| 2b | spot pages | 33 | 191 | ~6 |
+| 4 | adversarial re-sample of 40 rows, scored the way the original 40 were | — | 40 | ~2 |
+| | **total** | **217** | **1,539** | **~50** |
+
+Phase 4 matters: the pass's claim of success gets measured the same way the
+review's failure was measured, by an independent adversarial sample, not by the
+correctors' own reports.
+
+### Pre-flight the builder must do
+
+- Parse the ledger `\|`-aware. Six rows carry escaped pipes inside cells and
+  read as 9 to 11 columns under a naive split.
+- Normalise one malformed note cell,
+  `techniques/slow-pitch-jigging.md (evidence file)`, to
+  `techniques/evidence/slow-pitch-jigging.md`.
+- Fold the 35 evidence-file rows into their parent units: 248 note paths → 214.
+- Emit a `--dry-run` census the way `build-geo-worklist.py` does. **That census
+  is the gate artifact Cameron approves before any unit runs.**
+
+### Operational risk
+
+Another unattended multi-day fleet run, with the same failure modes as the last
+one: a trampoline that died on a SIGPIPE and stalled the chain for nine hours,
+and watchers that died with their containers. Land the guard rules and the
+prompts first, pilot three notes by hand for Cameron, and keep the kill switch
+(`STOP` at the branch root) documented in the same place.
 
 ## Phase 2b — restore the dropped numeric specifics
 
 A different job from correcting over-claims, and it should be its own pass. The
-review dropped **166 of 2,974** distinct numeric parameters across 205 rewritten
-notes (5.6%); `lures/knife-jigs.md` lost 45% (53 → 29, collapsing gram ranges
-like 100–150g and 120–160g), `hoop-netting.md` 28%, `sliding-sinker.md` 26%.
+review dropped numeric parameters at an aggregate rate near **4–6%** of roughly
+3,000 across the rewritten notes.
+
+**Re-derive the list before restoring anything.** The figure this plan first
+carried — "166 of 2,974, `knife-jigs.md` lost 45%" — does not survive checking:
+that note holds **19 distinct gram parameters before and 31 after**, and the two
+ranges named as casualties are present now and absent before. Most apparent loss
+is the 57 relocations and 28 spin-outs carrying parameters to notes the
+extraction was not searching. The genuinely-lost residue is small, order a
+couple of dozen, and mixed in kind — `35–37 lb` on a Cedros session is gone from
+the KB entirely, while `50–150 yards` for boiling bluefin now reads
+`100–150 yards`, a narrowed range rather than a deletion.
 
 `scripts/review/guard.py` conserves cites and observations but not parameters, so
 nothing stops a recurrence. Two pieces:
@@ -319,7 +418,7 @@ repair rather than a build and it was needed whichever path was chosen:
   count per note is `>=` its pre-correction value under the new guard rule; a
   hand-audit of ~15 corrections against the transcripts confirms each matches.
 - **Phase 2b:** the per-note numeric-parameter count is `>=` its value at
-  `1e66a92` for all 205 rewritten notes; `lures/knife-jigs.md` is back to 53; the
+  `1e66a92` for every note on the re-derived list; the
   guard rejects a deliberate parameter deletion in a test fixture.
 - **Phase 3:** `validate.yml` green on the pull request; `check-coordinates.py`
   still clean; `link-maintenance.py` leaves no diff; the ladder still reconciles
