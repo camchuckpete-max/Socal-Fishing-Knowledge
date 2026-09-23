@@ -10,11 +10,14 @@ Entries are appended by scripts/batch2/ tooling and by
 unrecoverable from the file and could only be inferred from category):
 
 ```
-## <ISO8601 UTC> — <unit id: video id | note path | cluster:name> — <category>
-- run: <GitHub Actions run id>
-- status: open | closed — <why>
-- reason: <free prose>
+  ## <ISO8601 UTC> — <unit id: video id | note path | cluster:name> — <category>
+  - run: <GitHub Actions run id>
+  - status: open | closed — <why>
+  - reason: <free prose>
 ```
+
+(The schema above is indented so that `grep -c '^## '` and
+`grep -c '^- status: open'` count real entries and not this example.)
 
 `status` is written `open` by the appender and closed by hand when the call is
 made. Backfilled across all 137 entries at GATE B prep: the 54 noise entries
