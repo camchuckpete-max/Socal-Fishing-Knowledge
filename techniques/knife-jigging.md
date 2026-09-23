@@ -566,6 +566,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
+- [Judgment calls — the GATE B decision list](../sources/judgment-calls.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)

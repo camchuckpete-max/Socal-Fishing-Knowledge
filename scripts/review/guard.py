@@ -376,7 +376,8 @@ def append_escalation(unit: str, etype: str, reason: str) -> None:
     ts = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     run = os.environ.get("GITHUB_RUN_ID", "local")
     with esc.open("a", encoding="utf-8") as fh:
-        fh.write(f"\n## {ts} — {unit} — {etype}\n- run: {run}\n- reason: {reason}\n")
+        fh.write(f"\n## {ts} — {unit} — {etype}\n- run: {run}\n"
+                 f"- status: open\n- reason: {reason}\n")
 
 
 RESULT_MAX = 600

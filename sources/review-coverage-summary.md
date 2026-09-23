@@ -198,5 +198,5 @@ so it is a standing gap in the regulatory register, not damage the review did.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Judgment calls](judgment-calls.md)
+- [Judgment calls — the GATE B decision list](judgment-calls.md)
 <!-- backlinks:end -->

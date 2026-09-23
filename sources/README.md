@@ -20,7 +20,8 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 <!-- index:start -->
 ## Index
 
-- [Judgment calls](judgment-calls.md) — Decisions the review made that a human should see.
+- [Judgment calls — the GATE B decision list](judgment-calls.md) — The calls the 2026-08 editorial review (sources/plan-review.md) could not make for itself.
+- [Plan: correction pass, external verification, then GATE B](plan-correction-pass.md) — Status (2026-09-23): GATE A LOCKED.
 - [Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer](plan-review.md) — Status (2026-08-24, current): GATE A UNLOCKED — RUNNING.
 - [Plan: distributed `socal-boat-day` skill + `config/` endpoint layer](plan-socal-boat-day-skill.md) — The governing plan for shipping the multi-user boat-day skill: a thin packaged bootstrap plus a live, editable endpoint layer in the repo.
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — Status: Cameron's PLAN APPROVED for this revision was given 2026-08-12 (after the resuming session's state report).
@@ -34,13 +35,15 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 
 ```mermaid
 graph LR
-  n0["Judgment calls"]
-  n1["Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer"]
-  n2["Plan: distributed `socal-boat-day` skill + `config/` endpoint layer"]
-  n3["Plan: Build SoCal/Baja Fishing Knowledgebase"]
-  n4["Regulatory Claims Register"]
-  n5["Review coverage summary — did the editorial run improve the knowledgebase?"]
-  n6["Source Registry"]
-  n0 --> n5
+  n0["Judgment calls — the GATE B decision list"]
+  n1["Plan: correction pass, external verification, then GATE B"]
+  n2["Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer"]
+  n3["Plan: distributed `socal-boat-day` skill + `config/` endpoint layer"]
+  n4["Plan: Build SoCal/Baja Fishing Knowledgebase"]
+  n5["Regulatory Claims Register"]
+  n6["Review coverage summary — did the editorial run improve the knowledgebase?"]
+  n7["Source Registry"]
+  n0 --> n1
+  n0 --> n6
 ```
 <!-- mermaid:end -->
