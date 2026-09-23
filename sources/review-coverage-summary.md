@@ -52,7 +52,7 @@ structure pass: of its +473 notes, **441 are `locations/`**.
 - **Regulations sections:** 0 → 23 species routers, real ones — jurisdiction,
   as-of stamp, verify-current — 17–33 lines each.
 - **Sonar guidance:** species notes carrying fathom/sounder terms 24 → 42.
-- 28 species-technique spin-outs; 58 relocations executed.
+- 28 species-technique spin-outs; 57 relocations executed, 3 contested.
 
 ## What it preserved
 
@@ -69,7 +69,7 @@ structure pass: of its +473 notes, **441 are `locations/`**.
 
 ## What it got wrong
 
-**1. It manufactured its own over-claims.** 1,536 `contradicted-by-source`
+**1. It manufactured its own over-claims.** 1,537 `contradicted-by-source`
 flags. In a 40-row sample, **1 predates the review; 39 were introduced by it**
 (26 on new pages, 13 on rewrites — three hand-checked, all confirmed).
 
@@ -122,18 +122,41 @@ I closed the Tanner/Cortez "90 vs 110 mi" row as the two ends of an 18-mile
 complex. The verifier read the transcript: `nQvJnfb5jQ4` says "90 Mi off the
 coast of Long Beach" **about Cortez by name**, inverting my assignment. It's
 escalated to you, correctly. The pipeline caught me the same way it caught the
-other 1,535.
+other 1,536.
+
+## Ledger repairs, 2026-09-23
+
+Three structural defects were fixed before this document could be approved
+against. They move the headline counts by two rows.
+
+- **One ledger row was invisible.** A lost newline had fused
+  `locations/hidden-reef-170.md`'s MPA row onto the front of
+  `locations/la-270-286.md`'s overnight-boat row, so every row-walker read them
+  as one. Split. That is where the extra `contradicted-by-source` comes from.
+- **The Tanner/Cortez row is re-opened.** It sat in **Resolved** reading
+  "resolved by geometry… no figure was wrong" while the verifier had overturned
+  exactly that on 2026-09-02: `nQvJnfb5jQ4` states the 90 mi figure **of Cortez
+  by name**, inverting the near-end/far-end assignment the resolution rested on.
+  A reader of the ledger alone would have concluded it was closed. Moved back to
+  the live table, marked for a ruling.
+- **A stray blank line** inside the live table split it into two blocks for
+  naive parsers. Removed. Every live row now parses at exactly five cells.
 
 ## What GATE B actually needs from you
 
-- **74 real judgment calls** (of 135 escalations; 38 are guard reverts already
-  handled, 16 are infra noise).
-- **The ledger cannot be reviewed raw.** 2,126 live rows. Triage by page type is
+- **83 real judgment calls** of 137 escalations. The other 54 are noise: 38
+  guard-reverts already handled, 11 check-note failures, 5 subagent failures.
+  A narrower cut — entries whose text names you explicitly — gives 61.
+  (Corrected 2026-09-23: this line previously read "74 of 135", which
+  reconciled with no cut of the file. `grep -c '^## ' sources/escalations.md`
+  is 137; the category histogram is in `sources/judgment-calls.md`.)
+- **The ledger cannot be reviewed raw.** 2,128 live rows. Triage by page type is
   the only workable approach — 813 flags on 77 zone/region pages is a
   correction job, not an adjudication job.
 - **`verify-external.yml` has never run.** 299 rows tagged, 0 verified.
-- `judgment-calls.md` has two entries. This document is the coverage summary
-  CLAUDE.md asks for at GATE B.
+- `judgment-calls.md` now enumerates all 83 open calls by category. This
+  document is the coverage summary CLAUDE.md asks for at GATE B; that one is
+  the judgment-calls list it asks for alongside.
 
 ## Recommendation
 
@@ -145,7 +168,7 @@ Do not merge yet. Two paths:
   says, the guard extended to conserve numeric specifics so the knife-jigs
   failure cannot recur, and the 166 dropped parameters restored from the old
   notes. Then GATE B on a KB whose new prose is as trustworthy as its old.
-- **B:** merge now with all 1,536 flags in place. Honest, but every zone page
+- **B:** merge now with all 1,537 flags in place. Honest, but every zone page
   reads with ten warnings on it, and a day plan built on one inherits them.
 
 ## The blind head-to-head
